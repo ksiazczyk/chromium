@@ -1,0 +1,4 @@
+# Docerion header of features.mm.
+type: source
+title: iOS password manager feature flags
+summary: Defines Chromium feature flags and parameters for the iOS password manager, including the stateless fill data flow and password auto submission features.

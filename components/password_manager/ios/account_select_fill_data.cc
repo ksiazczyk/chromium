@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Account select fill data implementation
+// summary: Implements storage of form and credential information and the logic that computes fill data for account selection on iOS.
+// ---
+
 #include "components/password_manager/ios/account_select_fill_data.h"
 
 #include <algorithm>

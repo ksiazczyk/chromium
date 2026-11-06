@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: iOS passwords directory deletion unit test
+// summary: Unit test verifying that DeletePasswordsDirectory removes the temporary passwords directory and its contents.
+// ---
+
 #include "components/password_manager/core/common/passwords_directory_util_ios.h"
 
 #include "base/files/file_path.h"

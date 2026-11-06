@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActorLoginPermission struct declaration
+// summary: Declares a struct describing a credential with an Actor Login permission, including domain info, username and favicon URL.
+// ---
+
 #ifndef COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_UI_ACTOR_LOGIN_PERMISSION_H_
 #define COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_UI_ACTOR_LOGIN_PERMISSION_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: iOS CSV password parser build targets
+summary: GN build file defining the Swift parser source set plus C++ source sets for the iOS CSV password parser, its service factory and a test-only fake.

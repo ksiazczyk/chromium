@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PasswordGenerationProvider protocol
+// summary: Declares the PasswordGenerationProvider protocol for triggering password generation on active or specified form fields.
+// ---
+
 #ifndef COMPONENTS_PASSWORD_MANAGER_IOS_PASSWORD_GENERATION_PROVIDER_H_
 #define COMPONENTS_PASSWORD_MANAGER_IOS_PASSWORD_GENERATION_PROVIDER_H_
 

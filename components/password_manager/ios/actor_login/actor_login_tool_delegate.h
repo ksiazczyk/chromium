@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActorLoginToolDelegate protocol header
+// summary: Declares the ActorLoginToolDelegate protocol that password controllers implement to rescan a WebState for password forms and invoke a handler only when no forms are found.
+// ---
+
 #ifndef COMPONENTS_PASSWORD_MANAGER_IOS_ACTOR_LOGIN_ACTOR_LOGIN_TOOL_DELEGATE_H_
 #define COMPONENTS_PASSWORD_MANAGER_IOS_ACTOR_LOGIN_ACTOR_LOGIN_TOOL_DELEGATE_H_
 

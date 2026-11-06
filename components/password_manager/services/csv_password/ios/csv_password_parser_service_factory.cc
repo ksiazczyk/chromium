@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CSV password parser service factory implementation
+// summary: Implements the singleton factory that creates and keeps the CSVPasswordParserImpl alive and hands out a Mojo remote to the parser.
+// ---
+
 #include "components/password_manager/services/csv_password/ios/csv_password_parser_service_factory.h"
 
 #include "base/memory/singleton.h"

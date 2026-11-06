@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password undo helper implementation
+// summary: Implements undoable add, update and remove operations for stored credentials across the profile and account password stores.
+// ---
+
 #include "components/password_manager/core/browser/ui/password_undo_helper.h"
 
 #include "base/memory/raw_ptr.h"

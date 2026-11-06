@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Saved passwords presenter implementation
+// summary: Implements SavedPasswordsPresenter, which aggregates saved passwords from multiple password stores, supports editing and notifies observers of changes.
+// ---
+
 #include "components/password_manager/core/browser/ui/saved_passwords_presenter.h"
 
 #include <algorithm>

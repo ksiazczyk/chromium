@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the password manager UI sources and tests
+summary: Defines GN source sets for credential UI entry, password UI helpers and their unit tests, with platform-conditional sources and dependencies.

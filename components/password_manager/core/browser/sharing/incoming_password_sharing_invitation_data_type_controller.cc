@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Incoming password sharing invitation data type controller implementation
+// summary: Implements the sync data type controller for incoming password sharing invitations, gated by policy and password sync status.
+// ---
+
 #include "components/password_manager/core/browser/sharing/incoming_password_sharing_invitation_data_type_controller.h"
 
 #include "base/functional/bind.h"

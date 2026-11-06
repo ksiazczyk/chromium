@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Weak check utility unit tests
+// summary: Tests IsWeak and BulkWeakCheck with weak and strong passwords, metrics recording and UTF-16 surrogate pairs including emoji passwords.
+// ---
+
 #include "components/password_manager/core/browser/ui/weak_check_utility.h"
 
 #include "base/strings/utf_string_conversions.h"

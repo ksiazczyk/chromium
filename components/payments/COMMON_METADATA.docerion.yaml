@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: COMMON_METADATA for the payments component
+summary: Declares the Blink>Payments monorail component, the payments-dev team email and the Buganizer component used for this directory.

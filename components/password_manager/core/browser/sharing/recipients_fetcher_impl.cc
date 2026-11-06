@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RecipientsFetcherImpl implementation
+// summary: Implements family member fetching via the recipients downloader and converts server responses into RecipientInfo entries with status handling.
+// ---
+
 #include "components/password_manager/core/browser/sharing/recipients_fetcher_impl.h"
 
 #include <memory>

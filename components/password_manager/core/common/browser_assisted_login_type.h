@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserAssistedLoginType metrics enum
+// summary: Defines the BrowserAssistedLoginType enum used for logging which logins were browser-assisted, kept in sync with histograms metadata.
+// ---
+
 #ifndef COMPONENTS_PASSWORD_MANAGER_CORE_COMMON_BROWSER_ASSISTED_LOGIN_TYPE_H_
 #define COMPONENTS_PASSWORD_MANAGER_CORE_COMMON_BROWSER_ASSISTED_LOGIN_TYPE_H_
 

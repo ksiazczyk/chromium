@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Password sync bridge unit tests
+// summary: Unit tests covering merge, incremental sync changes, metadata handling and password store change propagation in the password sync bridge.
+// ---
+
 #include "components/password_manager/core/browser/sync/password_sync_bridge.h"
 
 #include <memory>

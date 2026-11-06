@@ -1,6 +1,13 @@
 // Copyright 2023 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: RecipientsFetcherImpl unit tests
+// summary: Unit tests for RecipientsFetcherImpl that verify fetching password sharing recipients using a mocked server response and identity test environment.
+// ---
+
 #include "components/password_manager/core/browser/sharing/recipients_fetcher_impl.h"
 
 #include <memory>

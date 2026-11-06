@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Well-known change password state implementation
+// summary: Implements WellKnownChangePasswordState, which requests a non-existing .well-known resource to detect whether a site supports the change-password URL.
+// ---
+
 #include "components/password_manager/core/browser/well_known_change_password/well_known_change_password_state.h"
 
 #include <optional>

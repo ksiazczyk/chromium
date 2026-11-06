@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Password receiver service implementation unit tests
+// summary: Unit tests for handling incoming password sharing invitations, covering validation, deduplication against stored credentials, and metrics.
+// ---
+
 #include "components/password_manager/core/browser/sharing/password_receiver_service_impl.h"
 
 #include <memory>

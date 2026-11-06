@@ -1,0 +1,4 @@
+# Docerion header of fake_bulk_leak_check_service.mm.
+type: source
+title: Fake bulk leak check service implementation
+summary: Implements the fake bulk leak check service, using a delayed task to imitate the state transitions of a real leak check during tests.

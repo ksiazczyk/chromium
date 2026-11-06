@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password manager form and username field utilities implementation
+// summary: Implements helpers that detect credential forms, WebAuthn autocomplete attributes, and fields or values that can be considered a single username field.
+// ---
+
 #include "components/password_manager/core/common/password_manager_util.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BulkLeakCheckServiceAdapter unit tests
+// summary: Tests starting and stopping bulk leak checks with mocked leak detection services, test password stores and preferences.
+// ---
+
 #include "components/password_manager/core/browser/ui/bulk_leak_check_service_adapter.h"
 
 #include <algorithm>

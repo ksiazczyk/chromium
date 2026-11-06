@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: InsecureCredentialsManager unit tests
+// summary: Unit tests covering reuse and weak checks, insecure credential saving, muting and observer notifications using a test password store.
+// ---
+
 #include "components/password_manager/core/browser/ui/insecure_credentials_manager.h"
 
 #include <string_view>

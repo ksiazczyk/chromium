@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS passwords directory utilities header
+// summary: Declares GetPasswordsDirectory and DeletePasswordsDirectory for managing the temporary passwords export directory on iOS.
+// ---
+
 #ifndef COMPONENTS_PASSWORD_MANAGER_CORE_COMMON_PASSWORDS_DIRECTORY_UTIL_IOS_H_
 #define COMPONENTS_PASSWORD_MANAGER_CORE_COMMON_PASSWORDS_DIRECTORY_UTIL_IOS_H_
 

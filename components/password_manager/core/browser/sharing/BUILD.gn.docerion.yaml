@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for password sharing components
+summary: Defines GN build targets for the password sharing source set, the test support library and the unit tests.

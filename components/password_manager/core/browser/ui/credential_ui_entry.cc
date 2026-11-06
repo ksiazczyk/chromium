@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CredentialUIEntry implementation
+// summary: Implements CredentialUIEntry and CredentialFacet, including sort keys that group affiliated web and Android credentials for the settings UI.
+// ---
+
 #include "components/password_manager/core/browser/ui/credential_ui_entry.h"
 
 #include "base/i18n/time_formatting.h"

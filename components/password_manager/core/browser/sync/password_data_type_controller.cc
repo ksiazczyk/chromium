@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password data type controller implementation
+// summary: Implements the sync data type controller for passwords, overriding model loading and stop behavior, including Android transport-only mode handling.
+// ---
+
 #include "components/password_manager/core/browser/sync/password_data_type_controller.h"
 
 #include <string>

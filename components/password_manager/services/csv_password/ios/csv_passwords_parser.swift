@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Swift CSV passwords parser
+// summary: Swift class that parses CSV password exports, handling quoted fields, line endings and column label mapping into origin, username, password and note values.
+// ---
+
 import Foundation
 
 enum FieldLabel: String {

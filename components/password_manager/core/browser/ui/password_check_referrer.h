@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PasswordCheckReferrer enum and histogram declaration
+// summary: Declares the PasswordCheckReferrer enum of navigation sources to the Password Check page and the histogram logging function.
+// ---
+
 #ifndef COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_UI_PASSWORD_CHECK_REFERRER_H_
 #define COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_UI_PASSWORD_CHECK_REFERRER_H_
 

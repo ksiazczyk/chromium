@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password manager UI state to string conversion
+// summary: Implements StateToString to map password manager UI states such as save, update and passkey confirmations to readable names.
+// ---
+
 #include "components/password_manager/core/common/password_manager_ui.h"
 
 #include "third_party/abseil-cpp/absl/strings/str_format.h"

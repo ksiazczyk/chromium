@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Well-known change password state unit tests
+// summary: Unit tests for WellKnownChangePasswordState simulating delayed responses and status codes for the non-existing resource and change password requests.
+// ---
+
 #include "components/password_manager/core/browser/well_known_change_password/well_known_change_password_state.h"
 
 #include <cstddef>

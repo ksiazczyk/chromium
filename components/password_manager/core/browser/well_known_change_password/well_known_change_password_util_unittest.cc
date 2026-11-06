@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Well-known change password URL utilities unit tests
+// summary: Unit tests verifying IsWellKnownChangePasswordUrl and the helpers that create change password and non-existing resource URLs.
+// ---
+
 #include "components/password_manager/core/browser/well_known_change_password/well_known_change_password_util.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

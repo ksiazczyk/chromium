@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake CSV password parser service implementation
+// summary: Implements FakePasswordParserService, a test-only wrapper on CSVPasswordSequence that mimics the sandboxed parser behaviour.
+// ---
+
 #include "components/password_manager/services/csv_password/fake_password_parser_service.h"
 
 #include <utility>

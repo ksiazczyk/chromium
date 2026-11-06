@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AffiliatedGroup unit tests
+// summary: Verifies icon URL selection for syncing users, non-syncing users and users with an explicit passphrase.
+// ---
+
 #include "components/password_manager/core/browser/ui/affiliated_group.h"
 
 #include "components/sync/base/user_selectable_type.h"

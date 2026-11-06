@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PasswordsGrouper unit tests
+// summary: Unit tests for credential grouping into affiliated groups, blocked sites and passkey lookups using a mock affiliation service.
+// ---
+
 #include "components/password_manager/core/browser/ui/passwords_grouper.h"
 
 #include <functional>

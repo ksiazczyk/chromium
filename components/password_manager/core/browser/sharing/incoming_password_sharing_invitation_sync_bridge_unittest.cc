@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the incoming password sharing invitation sync bridge
+// summary: GTest suite verifying metadata handling and invitation processing of the incoming password sharing invitation sync bridge.
+// ---
+
 #include "components/password_manager/core/browser/sharing/incoming_password_sharing_invitation_sync_bridge.h"
 
 #include <memory>

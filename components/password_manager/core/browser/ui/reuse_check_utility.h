@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reuse check utility header
+// summary: Declares BulkReuseCheck, which returns passwords reused across at least two unaffiliated credentials with different normalized usernames.
+// ---
+
 #ifndef COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_UI_REUSE_CHECK_UTILITY_H_
 #define COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_UI_REUSE_CHECK_UTILITY_H_
 

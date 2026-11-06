@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BulkLeakCheckServiceAdapter implementation
+// summary: Implements the adapter that starts, stops and reports bulk leak checks using saved passwords from the presenter.
+// ---
+
 #include "components/password_manager/core/browser/ui/bulk_leak_check_service_adapter.h"
 
 #include <iterator>

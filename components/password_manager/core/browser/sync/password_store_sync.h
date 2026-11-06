@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PasswordStoreSync interface for the password sync bridge
+// summary: Defines the PasswordStoreSync interface giving the sync bridge access to password store methods, along with error and result enums for credential operations.
+// ---
+
 #ifndef COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_SYNC_PASSWORD_STORE_SYNC_H_
 #define COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_SYNC_PASSWORD_STORE_SYNC_H_
 

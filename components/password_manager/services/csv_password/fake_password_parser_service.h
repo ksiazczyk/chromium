@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakePasswordParserService declaration
+// summary: Declares FakePasswordParserService, a test-only CSVPasswordParser implementation that mimics the sandbox behaviour.
+// ---
+
 #ifndef COMPONENTS_PASSWORD_MANAGER_SERVICES_CSV_PASSWORD_FAKE_PASSWORD_PARSER_SERVICE_H_
 #define COMPONENTS_PASSWORD_MANAGER_SERVICES_CSV_PASSWORD_FAKE_PASSWORD_PARSER_SERVICE_H_
 

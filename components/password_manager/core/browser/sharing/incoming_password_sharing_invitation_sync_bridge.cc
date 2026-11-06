@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Incoming password sharing invitation sync bridge implementation
+// summary: Implements the sync bridge that forwards incoming sharing invitations to the receiver service and deletes them from the server.
+// ---
+
 #include "components/password_manager/core/browser/sharing/incoming_password_sharing_invitation_sync_bridge.h"
 
 #include "base/functional/callback_helpers.h"

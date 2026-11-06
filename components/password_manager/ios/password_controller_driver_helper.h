@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password controller driver helper header
+// summary: Declares PasswordControllerDriverHelper, a helper for SharedPasswordController to retrieve the frame driver and password generation helper.
+// ---
+
 #ifndef COMPONENTS_PASSWORD_MANAGER_IOS_PASSWORD_CONTROLLER_DRIVER_HELPER_H_
 #define COMPONENTS_PASSWORD_MANAGER_IOS_PASSWORD_CONTROLLER_DRIVER_HELPER_H_
 
