@@ -1,0 +1,4 @@
+# Docerion header of input-datetime-local-expected-mac.txt.
+type: test
+title: Expected macOS accessibility tree for datetime-local input
+summary: Expected macOS accessibility tree snapshot describing the date field steppers and picker button of a datetime-local input.

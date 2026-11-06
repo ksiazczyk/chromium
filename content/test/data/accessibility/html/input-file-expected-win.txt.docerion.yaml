@@ -1,0 +1,4 @@
+# Docerion header of input-file-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for file input
+summary: Expected Windows IA2 accessibility output for a file input page, describing document, section and push button roles with hypertext.

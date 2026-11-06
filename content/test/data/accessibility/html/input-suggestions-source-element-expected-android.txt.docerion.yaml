@@ -1,0 +1,4 @@
+# Docerion header of input-suggestions-source-element-expected-android.txt.
+type: test
+title: input-suggestions-source-element expected Android tree
+summary: Expected Android accessibility tree snapshot for the input-suggestions-source-element page, containing an editable, focusable text input.

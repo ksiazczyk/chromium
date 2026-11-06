@@ -1,0 +1,4 @@
+# Docerion header of input-file-expected-fuchsia.txt.
+type: test
+title: Expected Fuchsia accessibility tree for file input
+summary: Expected Fuchsia accessibility output for a file input page, describing focusable nodes and a button with label, value and default action.

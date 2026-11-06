@@ -1,0 +1,4 @@
+# Docerion header of input-file-expected-uia-win.txt.
+type: test
+title: Expected UIA Windows accessibility tree for file input
+summary: Expected UIA Windows accessibility output for a file input page, describing document, group and button nodes with name and value.

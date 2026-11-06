@@ -1,0 +1,4 @@
+# Docerion header of input-text-name-calc-expected-android-external.txt.
+type: test
+title: Expected Android external accessibility tree for input text name calculation
+summary: Expected Android external accessibility tree snapshot for the HTML input text name calculation test.

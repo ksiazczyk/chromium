@@ -1,0 +1,4 @@
+# Docerion header of input-color-with-popup-open-expected-android-external.txt.
+type: test
+title: Input color with popup open expected Android external tree
+summary: Expected Android external accessibility tree for the color input test with popup open, describing the color picker spinner and its actions.

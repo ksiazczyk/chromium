@@ -1,0 +1,4 @@
+# Docerion header of input-hidden-expected-android.txt.
+type: test
+title: Input hidden expected Android output
+summary: Expected Android accessibility result for the hidden input test, marking the object as not exposed.

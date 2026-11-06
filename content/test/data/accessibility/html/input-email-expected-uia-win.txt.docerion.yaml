@@ -1,0 +1,4 @@
+# Docerion header of input-email-expected-uia-win.txt.
+type: test
+title: Email input expected UIA Windows accessibility tree
+summary: Expected UIA Windows accessibility tree dump for the email input test page, describing the document, group and edit controls with the email value.

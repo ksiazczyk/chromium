@@ -1,0 +1,4 @@
+# Docerion header of input-hidden-expected-mac.txt.
+type: test
+title: Input hidden expected Mac output
+summary: Expected macOS accessibility result for the hidden input test, marking the object as skipped.

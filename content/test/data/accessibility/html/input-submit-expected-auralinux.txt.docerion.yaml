@@ -1,0 +1,4 @@
+# Docerion header of input-submit-expected-auralinux.txt.
+type: test
+title: input-submit expected Aura Linux accessibility tree
+summary: Expected Aura Linux accessibility tree snapshot for the input-submit test page, showing forms, entries and push buttons marked as default where applicable.

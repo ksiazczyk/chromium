@@ -1,0 +1,4 @@
+# Docerion header of input-reset-expected-auralinux.txt.
+type: test
+title: Expected AuraLinux accessibility tree for input reset test
+summary: Expected AuraLinux accessibility tree snapshot for the input-reset HTML test with a text entry and a Reset push button.

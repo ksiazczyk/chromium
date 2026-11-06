@@ -1,0 +1,4 @@
+# Docerion header of input-radio-in-menu-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for input-radio-in-menu
+summary: Expected Android accessibility tree snapshot for the input-radio-in-menu test, listing radio buttons and text views with state descriptions and item indices.

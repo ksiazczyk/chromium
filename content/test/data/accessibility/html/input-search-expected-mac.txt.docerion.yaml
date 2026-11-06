@@ -1,0 +1,4 @@
+# Docerion header of input-search-expected-mac.txt.
+type: test
+title: Expected Mac tree for input search test
+summary: Expected macOS accessibility tree snapshot for the input-search HTML test with an AXTextField search field.

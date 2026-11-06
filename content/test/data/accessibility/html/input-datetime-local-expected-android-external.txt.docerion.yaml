@@ -1,0 +1,4 @@
+# Docerion header of input-datetime-local-expected-android-external.txt.
+type: test
+title: Expected Android external accessibility data for datetime-local input
+summary: Expected Android external accessibility snapshot describing roles and actions of a datetime-local input.

@@ -1,0 +1,4 @@
+# Docerion header of input-datetime-expected-uia-win.txt.
+type: test
+title: Expected UIA Windows accessibility tree for datetime input test
+summary: Expected UIA Windows accessibility tree snapshot for datetime input test pages.

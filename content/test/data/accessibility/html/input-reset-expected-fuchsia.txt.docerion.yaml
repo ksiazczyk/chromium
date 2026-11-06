@@ -1,0 +1,4 @@
+# Docerion header of input-reset-expected-fuchsia.txt.
+type: test
+title: Expected Fuchsia accessibility tree for input reset test
+summary: Expected Fuchsia accessibility tree snapshot for the input-reset HTML test with a text field and a Reset button.

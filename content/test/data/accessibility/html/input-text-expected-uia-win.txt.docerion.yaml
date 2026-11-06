@@ -1,0 +1,4 @@
+# Docerion header of input-text-expected-uia-win.txt.
+type: test
+title: Expected UIA Win accessibility tree for the input-text test
+summary: Expected Windows UI Automation tree snapshot for the input-text HTML accessibility test, describing a document containing an edit field named Name.

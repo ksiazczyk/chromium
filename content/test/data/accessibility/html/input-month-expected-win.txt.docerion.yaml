@@ -1,0 +1,4 @@
+# Docerion header of input-month-expected-win.txt.
+type: test
+title: Input month expected Windows accessibility tree
+summary: Expected Windows accessibility tree snapshot for the input month test, describing the date editor, spin buttons and menu button.

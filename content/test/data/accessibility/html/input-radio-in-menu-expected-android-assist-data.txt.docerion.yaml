@@ -1,0 +1,4 @@
+# Docerion header of input-radio-in-menu-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for input-radio-in-menu
+summary: Expected Android assist data snapshot for the input-radio-in-menu test, describing radio buttons and text views inside menu role views with htmlInfo.

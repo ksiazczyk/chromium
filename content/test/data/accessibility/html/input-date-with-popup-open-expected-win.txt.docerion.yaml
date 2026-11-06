@@ -1,0 +1,4 @@
+# Docerion header of input-date-with-popup-open-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for input date with popup open
+summary: Expected Windows IA2 accessibility tree dump for the date input with an open popup, covering spin buttons, picker buttons and the calendar table.

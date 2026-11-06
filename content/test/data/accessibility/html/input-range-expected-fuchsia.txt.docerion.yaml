@@ -1,0 +1,4 @@
+# Docerion header of input-range-expected-fuchsia.txt.
+type: test
+title: Fuchsia accessibility tree expectation for input-range
+summary: Expected Fuchsia accessibility tree for the input-range test page listing slider nodes with set-value actions and values.

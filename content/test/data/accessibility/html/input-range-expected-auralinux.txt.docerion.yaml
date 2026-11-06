@@ -1,0 +1,4 @@
+# Docerion header of input-range-expected-auralinux.txt.
+type: test
+title: Aura Linux accessibility tree expectation for input-range
+summary: Expected Aura Linux accessibility tree for the input-range test page listing slider nodes with current, minimum and maximum values.

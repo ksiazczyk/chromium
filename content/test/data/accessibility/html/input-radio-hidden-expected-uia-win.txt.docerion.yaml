@@ -1,0 +1,4 @@
+# Docerion header of input-radio-hidden-expected-uia-win.txt.
+type: test
+title: Expected UIA accessibility tree for input-radio-hidden on Windows
+summary: Expected UIA accessibility tree snapshot for the input-radio-hidden test, showing radio buttons and text nodes with selection and enabled states.

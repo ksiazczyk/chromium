@@ -1,0 +1,4 @@
+# Docerion header of input-reset-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for input reset test
+summary: Expected Blink accessibility tree snapshot for the input-reset HTML test with a text field and a reset button.

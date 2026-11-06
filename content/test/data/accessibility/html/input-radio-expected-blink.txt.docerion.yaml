@@ -1,0 +1,4 @@
+# Docerion header of input-radio-expected-blink.txt.
+type: test
+title: Expected accessibility tree for input radio in Blink
+summary: Expected Blink accessibility tree snapshot for the HTML radio input test, including radio group ids, set sizes, and checked states.

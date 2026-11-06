@@ -1,0 +1,4 @@
+# Docerion header of input-suggestions-source-element-expected-android-external.txt.
+type: test
+title: input-suggestions-source-element expected Android external
+summary: Expected external Android accessibility snapshot for the input-suggestions-source-element page, showing an editable text field with combo box behavior.

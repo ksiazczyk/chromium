@@ -1,0 +1,4 @@
+# Docerion header of input-month-expected-android-external.txt.
+type: test
+title: Input month expected Android external accessibility tree
+summary: Expected Android external accessibility snapshot for the input month test, describing the month picker spinner roles and actions.

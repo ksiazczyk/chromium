@@ -1,0 +1,4 @@
+# Docerion header of input-text-name-calc-expected-uia-win.txt.
+type: test
+title: Expected UIA Win accessibility tree for the input text name calculation test
+summary: Expected Windows UI Automation tree snapshot with Edit control names and help texts verifying accessible name calculation for HTML text inputs.

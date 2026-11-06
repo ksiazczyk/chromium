@@ -1,0 +1,4 @@
+# Docerion header of input-submit-expected-android-external.txt.
+type: test
+title: input-submit expected Android external accessibility tree
+summary: Expected Android external accessibility snapshot for the input-submit test page, describing forms, editable text fields and submit and image buttons with actions.

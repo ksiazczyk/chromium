@@ -1,0 +1,4 @@
+# Docerion header of input-range-expected-blink.txt.
+type: test
+title: Blink accessibility tree expectation for input-range
+summary: Expected Blink internal accessibility tree for the input-range test page listing slider nodes with value, range and step attributes.

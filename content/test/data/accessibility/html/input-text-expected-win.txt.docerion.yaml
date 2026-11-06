@@ -1,0 +1,4 @@
+# Docerion header of input-text-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for the input-text test
+summary: Expected Windows IA2/MSAA accessibility tree snapshot for the input-text test, showing a document with a single-line editable text field named Name.

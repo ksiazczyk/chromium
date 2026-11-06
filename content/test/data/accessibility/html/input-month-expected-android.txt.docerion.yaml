@@ -1,0 +1,4 @@
+# Docerion header of input-month-expected-android.txt.
+type: test
+title: Input month expected Android accessibility tree
+summary: Expected Android accessibility tree snapshot for the input month test, describing the month picker spinner role.

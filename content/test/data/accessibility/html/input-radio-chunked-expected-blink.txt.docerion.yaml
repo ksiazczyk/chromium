@@ -1,0 +1,4 @@
+# Docerion header of input-radio-chunked-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for input-radio-chunked
+summary: Expected Blink accessibility tree snapshot for the input-radio-chunked test, showing set size and position in set for a dynamically extended radio group.

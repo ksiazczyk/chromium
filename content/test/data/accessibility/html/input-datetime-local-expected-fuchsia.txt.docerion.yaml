@@ -1,0 +1,4 @@
+# Docerion header of input-datetime-local-expected-fuchsia.txt.
+type: test
+title: Expected Fuchsia accessibility tree for datetime-local input
+summary: Expected Fuchsia accessibility tree snapshot for a page containing a datetime-local input element.

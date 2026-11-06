@@ -1,0 +1,4 @@
+# Docerion header of input-list-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for input list
+summary: Expected Android assist data snapshot for the input-list test, describing a label and EditText for a text field with an attached list.

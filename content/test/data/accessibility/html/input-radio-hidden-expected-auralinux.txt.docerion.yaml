@@ -1,0 +1,4 @@
+# Docerion header of input-radio-hidden-expected-auralinux.txt.
+type: test
+title: Expected accessibility tree for hidden input radio on Aura Linux
+summary: Expected Aura Linux accessibility tree snapshot for the hidden radio button input test, showing position in set and set size for radios.

@@ -1,0 +1,4 @@
+# Docerion header of input-text-name-calc-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for the input text name calculation test
+summary: Expected Blink internal accessibility tree snapshot showing nameFrom and descriptionFrom sources for text fields in the accessible name calculation test.

@@ -1,0 +1,4 @@
+# Docerion header of input-color-expected-android-assist-data.txt.
+type: test
+title: input-color expected Android assist data
+summary: 'Expected Android assist data for the color input test, showing a Spinner exposing the color value #FF9900.'

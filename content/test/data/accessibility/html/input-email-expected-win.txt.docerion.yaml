@@ -1,0 +1,4 @@
+# Docerion header of input-email-expected-win.txt.
+type: test
+title: Email input expected Windows accessibility tree
+summary: Expected Windows accessibility tree dump for the email input test page, describing the document, section and text role with email input type.

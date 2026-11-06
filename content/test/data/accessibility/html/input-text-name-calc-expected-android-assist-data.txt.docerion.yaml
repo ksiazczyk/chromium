@@ -1,0 +1,4 @@
+# Docerion header of input-text-name-calc-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for the input text name calculation test
+summary: Expected Android assist data snapshot showing how text input accessible names are computed from title, label, aria-label, aria-labelledby, and placeholder attributes.

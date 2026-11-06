@@ -1,0 +1,4 @@
+# Docerion header of input-date-expected-fuchsia.txt.
+type: test
+title: Input date expected Fuchsia accessibility tree
+summary: Expected Fuchsia accessibility tree snapshot for the input-date HTML test, listing date picker nodes with labels, values and available actions.

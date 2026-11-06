@@ -1,0 +1,4 @@
+# Docerion header of input-date-expected-win.txt.
+type: test
+title: Input date expected Win accessibility tree
+summary: Expected Windows IA2 accessibility tree snapshot for the input-date HTML test, describing date editor, spin button and menu button roles with values.

@@ -1,0 +1,4 @@
+# Docerion header of input-file-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for file input
+summary: Expected Android accessibility tree for a file input page, describing the WebView, view and clickable button with its name and hint.

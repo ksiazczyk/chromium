@@ -1,0 +1,4 @@
+# Docerion header of input-file-expected-auralinux.txt.
+type: test
+title: Expected Auralinux accessibility tree for file input
+summary: Expected Auralinux accessibility output for a file input page, describing document, section and push button nodes.

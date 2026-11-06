@@ -1,0 +1,4 @@
+# Docerion header of input-color-with-popup-open-expected-auralinux.txt.
+type: test
+title: Expected Linux accessibility tree for color input with popup open
+summary: Expected accessibility tree snapshot on Linux for a color input whose popup is open, showing color well, sliders, eyedropper and channel entries.

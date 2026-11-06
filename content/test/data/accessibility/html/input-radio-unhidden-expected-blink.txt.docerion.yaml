@@ -1,0 +1,4 @@
+# Docerion header of input-radio-unhidden-expected-blink.txt.
+type: test
+title: Input radio unhidden expected Blink tree
+summary: Expected Blink accessibility tree snapshot for the test page that reveals hidden radio buttons.

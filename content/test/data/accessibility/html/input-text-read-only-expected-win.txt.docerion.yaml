@@ -1,0 +1,4 @@
+# Docerion header of input-text-read-only-expected-win.txt.
+type: test
+title: Read-only text input expected accessibility tree for Windows
+summary: Expected IA2 accessibility tree snapshot for the read-only text input test page on Windows.

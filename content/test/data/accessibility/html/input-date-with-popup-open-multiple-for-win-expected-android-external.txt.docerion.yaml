@@ -1,0 +1,4 @@
+# Docerion header of input-date-with-popup-open-multiple-for-win-expected-android-external.txt.
+type: test
+title: Expected Android external tree for date input popup test (for win)
+summary: Expected Android external accessibility snapshot for the for-win test page, listing three focusable date picker nodes.

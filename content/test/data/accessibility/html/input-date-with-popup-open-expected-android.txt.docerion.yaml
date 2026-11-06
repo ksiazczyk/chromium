@@ -1,0 +1,4 @@
+# Docerion header of input-date-with-popup-open-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for input date with popup open
+summary: Empty expected Android accessibility tree snapshot for the date input test with the popup picker open.

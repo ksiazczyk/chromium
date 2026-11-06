@@ -1,0 +1,4 @@
+# Docerion header of input-date-with-popup-open-expected-android-assist-data.txt.
+type: test
+title: Input date with popup open expected Android assist data
+summary: Expected Android assist data snapshot for the input-date test with the date picker popup open, capturing spinner and text view details for the date value.

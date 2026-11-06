@@ -1,0 +1,4 @@
+# Docerion header of input-date-with-popup-open-multiple-expected-android-external.txt.
+type: test
+title: Expected Android external tree for input date with popup open (multiple)
+summary: Expected Android external accessibility snapshot for a page with three date inputs, listing DatePicker nodes and their actions.

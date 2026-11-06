@@ -1,0 +1,4 @@
+# Docerion header of input-range-expected-android-external.txt.
+type: test
+title: Android external accessibility expectation for input-range
+summary: Expected Android external accessibility snapshot for the input-range test page showing SeekBar nodes with range info, actions and state descriptions.

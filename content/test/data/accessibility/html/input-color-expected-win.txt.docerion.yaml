@@ -1,0 +1,4 @@
+# Docerion header of input-color-expected-win.txt.
+type: test
+title: Input color expected Win tree
+summary: Expected Windows IA2 accessibility tree for the HTML color input test, showing an IA2 color chooser role with its value.

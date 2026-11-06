@@ -1,0 +1,4 @@
+# Docerion header of input-hidden-expected-blink.txt.
+type: test
+title: Input hidden expected Blink output
+summary: Expected Blink accessibility tree for the hidden input test, with generic containers marked as ignored.

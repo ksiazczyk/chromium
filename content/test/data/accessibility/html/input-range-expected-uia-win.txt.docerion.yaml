@@ -1,0 +1,4 @@
+# Docerion header of input-range-expected-uia-win.txt.
+type: test
+title: Expected UIA accessibility tree for input range test
+summary: Expected Windows UIA accessibility tree snapshot for the input-range HTML test, listing slider roles with range values, minimums and maximums.

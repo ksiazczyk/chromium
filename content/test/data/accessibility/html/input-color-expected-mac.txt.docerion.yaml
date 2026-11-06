@@ -1,0 +1,4 @@
+# Docerion header of input-color-expected-mac.txt.
+type: test
+title: Input color expected Mac tree
+summary: Expected macOS accessibility tree for the HTML color input test, showing an AXColorWell with its RGB value.

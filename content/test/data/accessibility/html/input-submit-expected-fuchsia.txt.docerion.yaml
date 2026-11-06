@@ -1,0 +1,4 @@
+# Docerion header of input-submit-expected-fuchsia.txt.
+type: test
+title: input-submit expected Fuchsia accessibility tree
+summary: Expected Fuchsia accessibility tree snapshot for the input-submit test page, listing text fields, buttons and static text with their actions and labels.

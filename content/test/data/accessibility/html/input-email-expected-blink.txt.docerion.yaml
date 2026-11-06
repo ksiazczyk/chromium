@@ -1,0 +1,4 @@
+# Docerion header of input-email-expected-blink.txt.
+type: test
+title: Email input expected Blink accessibility tree
+summary: Expected Blink accessibility tree dump for the email input test page, describing the text field with email input type and its static text.

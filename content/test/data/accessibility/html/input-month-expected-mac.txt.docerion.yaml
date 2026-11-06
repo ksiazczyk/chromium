@@ -1,0 +1,4 @@
+# Docerion header of input-month-expected-mac.txt.
+type: test
+title: Input month expected macOS accessibility tree
+summary: Expected macOS accessibility tree snapshot for the input month test, describing the date field, steppers and popup button.

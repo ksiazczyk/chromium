@@ -1,0 +1,4 @@
+# Docerion header of input-text-name-calc-expected-auralinux.txt.
+type: test
+title: Expected Linux accessibility tree for the input text name calculation test
+summary: Expected Linux AT-SPI accessibility tree snapshot verifying entry names and descriptions derived from labels, tooltips, and aria-describedby for text inputs.

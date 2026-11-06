@@ -1,0 +1,4 @@
+# Docerion header of input-datetime-expected-mac.txt.
+type: test
+title: Expected macOS accessibility tree for datetime input test
+summary: Expected macOS accessibility tree snapshot for datetime input test pages.

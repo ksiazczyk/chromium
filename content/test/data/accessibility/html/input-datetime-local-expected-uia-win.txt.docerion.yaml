@@ -1,0 +1,4 @@
+# Docerion header of input-datetime-local-expected-uia-win.txt.
+type: test
+title: Expected UIA Windows accessibility tree for datetime-local input
+summary: Expected Windows UI Automation tree snapshot describing the spinners and picker button of a datetime-local input.

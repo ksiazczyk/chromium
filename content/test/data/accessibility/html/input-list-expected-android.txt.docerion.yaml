@@ -1,0 +1,4 @@
+# Docerion header of input-list-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for input list
+summary: Expected Android accessibility tree snapshot for the input-list test with a TextView label and an EditText combo box.

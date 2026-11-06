@@ -1,0 +1,4 @@
+# Docerion header of input-list-expected-uia-win.txt.
+type: test
+title: Expected Windows UIA accessibility tree for input list
+summary: Expected Windows UIA accessibility tree snapshot for the input-list test, showing a text element and a ComboBox control.

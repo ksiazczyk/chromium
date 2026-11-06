@@ -1,0 +1,4 @@
+# Docerion header of input-radio-checkbox-label-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for radio and checkbox label test
+summary: Expected Android assist data snapshot describing how radio and checkbox inputs expose or ignore associated label text.

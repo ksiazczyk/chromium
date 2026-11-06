@@ -1,0 +1,4 @@
+# Docerion header of input-text-read-only-expected-android-assist-data.txt.
+type: test
+title: input-text-read-only expected Android assist data
+summary: Expected Android assist data dump for the read-only text input test, showing an EditText node with placeholder and readonly attributes.

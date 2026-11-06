@@ -1,0 +1,4 @@
+# Docerion header of input-number-expected-android-external.txt.
+type: test
+title: Expected Android external accessibility tree for number input
+summary: Expected Android external accessibility tree output for a page with number inputs, including spin button roles and range values.

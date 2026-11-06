@@ -1,0 +1,4 @@
+# Docerion header of input-radio-checkbox-label-expected-auralinux.txt.
+type: test
+title: Expected Auralinux accessibility tree for input-radio-checkbox-label
+summary: Expected Auralinux accessibility tree snapshot for the input-radio-checkbox-label test, showing label exposure for radio buttons and checkboxes.

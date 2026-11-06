@@ -1,0 +1,4 @@
+# Docerion header of input-text-range-expected-android-external.txt.
+type: test
+title: input-text-range expected Android external accessibility tree
+summary: Expected Android external accessibility tree for the range input test, describing slider nodes with state descriptions and actions.

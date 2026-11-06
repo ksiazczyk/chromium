@@ -1,0 +1,4 @@
+# Docerion header of input-datetime-local-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for datetime-local input
+summary: Expected Windows accessibility tree snapshot describing the spin buttons and picker menu button of a datetime-local input.

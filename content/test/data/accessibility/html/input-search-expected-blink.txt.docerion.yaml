@@ -1,0 +1,4 @@
+# Docerion header of input-search-expected-blink.txt.
+type: test
+title: Expected Blink tree for input search test
+summary: Expected Blink internal accessibility tree snapshot for the input-search HTML test with a search box and static text.

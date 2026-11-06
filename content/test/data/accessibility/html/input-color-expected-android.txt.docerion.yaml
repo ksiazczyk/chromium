@@ -1,0 +1,4 @@
+# Docerion header of input-color-expected-android.txt.
+type: test
+title: Input color expected Android tree
+summary: 'Expected Android accessibility tree for the HTML color input test, showing a WebView containing a color picker spinner named #FF9900.'

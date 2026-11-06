@@ -1,0 +1,4 @@
+# Docerion header of input-image-expected-uia-win.txt.
+type: test
+title: Expected accessibility tree for input-image via UIA on Windows
+summary: Expected UIA accessibility tree snapshot for the input-image test page, showing a button named Submit inside a document group.

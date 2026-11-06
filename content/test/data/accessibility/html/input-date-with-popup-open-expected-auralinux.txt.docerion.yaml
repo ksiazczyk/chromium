@@ -1,0 +1,4 @@
+# Docerion header of input-date-with-popup-open-expected-auralinux.txt.
+type: test
+title: Expected AuraLinux accessibility tree for input date with popup open
+summary: Expected accessibility tree dump on AuraLinux for the date input with an open popup picker, listing spin buttons, picker buttons and the calendar grid.

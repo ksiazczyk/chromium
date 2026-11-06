@@ -1,0 +1,4 @@
+# Docerion header of input-range-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for input range test
+summary: Expected Windows IA2 accessibility tree snapshot for the input-range HTML test with slider roles, values, value texts and ranges.

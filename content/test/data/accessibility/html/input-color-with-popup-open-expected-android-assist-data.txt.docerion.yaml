@@ -1,0 +1,4 @@
+# Docerion header of input-color-with-popup-open-expected-android-assist-data.txt.
+type: test
+title: Input color with popup open expected Android assist data tree
+summary: Expected Android assist data accessibility tree for the color input test with popup open, including HTML tag and attribute info.

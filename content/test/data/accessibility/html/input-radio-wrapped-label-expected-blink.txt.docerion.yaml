@@ -1,0 +1,4 @@
+# Docerion header of input-radio-wrapped-label-expected-blink.txt.
+type: test
+title: Input radio wrapped label expected Blink tree
+summary: Expected Blink accessibility tree snapshot for radio buttons with wrapped labels in a fieldset.

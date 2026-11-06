@@ -1,0 +1,4 @@
+# Docerion header of input-date-expected-android.txt.
+type: test
+title: Input date expected Android accessibility tree
+summary: Expected Android accessibility tree snapshot for the input-date HTML test, describing DatePicker nodes with role descriptions, names, hints and input types.

@@ -1,0 +1,4 @@
+# Docerion header of input-number-expected-uia-win.txt.
+type: test
+title: Expected Windows UIA accessibility tree for number input
+summary: Expected Windows UIA accessibility tree output for a page with number inputs exposed as spinners with range values.

@@ -1,0 +1,4 @@
+# Docerion header of input-text-name-calc-expected-fuchsia.txt.
+type: test
+title: Expected Fuchsia accessibility tree for the input text name calculation test
+summary: Expected Fuchsia accessibility tree snapshot with text field labels and secondary labels used to verify accessible name calculation for text inputs.

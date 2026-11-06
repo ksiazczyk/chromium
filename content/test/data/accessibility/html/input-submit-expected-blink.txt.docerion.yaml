@@ -1,0 +1,4 @@
+# Docerion header of input-submit-expected-blink.txt.
+type: test
+title: input-submit expected Blink accessibility tree
+summary: Expected Blink internal accessibility tree snapshot for the input-submit test page, detailing forms, text fields, buttons and static text nodes.

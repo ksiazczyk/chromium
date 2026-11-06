@@ -1,0 +1,4 @@
+# Docerion header of input-image-with-title-expected-blink.txt.
+type: test
+title: Expected accessibility tree for input-image-with-title in Blink
+summary: Expected Blink accessibility tree snapshot for the input-image-with-title test page, showing the image button named email derived from its title attribute.

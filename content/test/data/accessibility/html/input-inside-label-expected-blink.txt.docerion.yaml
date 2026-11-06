@@ -1,0 +1,4 @@
+# Docerion header of input-inside-label-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for input inside label
+summary: Expected Blink accessibility tree snapshot for the input-inside-label test, showing checkboxes with label text containing nested text fields.

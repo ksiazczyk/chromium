@@ -1,0 +1,4 @@
+# Docerion header of input-date-disabled-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for disabled date input
+summary: Expected Blink accessibility tree for a disabled date input, showing month, day and year spin buttons with disabled restriction.

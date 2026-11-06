@@ -1,0 +1,4 @@
+# Docerion header of input-month-expected-fuchsia.txt.
+type: test
+title: Input month expected Fuchsia accessibility tree
+summary: Expected Fuchsia accessibility tree snapshot for the input month test, describing month and year fields and the month picker button.

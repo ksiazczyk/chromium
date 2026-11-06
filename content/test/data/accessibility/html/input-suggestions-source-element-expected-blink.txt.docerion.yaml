@@ -1,0 +1,4 @@
+# Docerion header of input-suggestions-source-element-expected-blink.txt.
+type: test
+title: input-suggestions-source-element expected Blink accessibility tree
+summary: Expected Blink internal accessibility tree snapshot for the input-suggestions-source-element page, showing a text field with combo box and autocomplete list.

@@ -1,0 +1,4 @@
+# Docerion header of input-tel-expected-fuchsia.txt.
+type: test
+title: Expected Fuchsia accessibility tree for tel input
+summary: Expected Fuchsia accessibility tree for a page containing a tel input with value 123-456-7890.

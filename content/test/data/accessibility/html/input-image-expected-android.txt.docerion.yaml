@@ -1,0 +1,4 @@
+# Docerion header of input-image-expected-android.txt.
+type: test
+title: Expected accessibility tree for input-image on Android
+summary: Expected Android WebView accessibility tree snapshot for the input-image test page, showing the image input as a clickable button with content description Submit.

@@ -1,0 +1,4 @@
+# Docerion header of input-radio-checkbox-label-expected-mac.txt.
+type: test
+title: Expected Mac accessibility tree for input-radio-checkbox-label
+summary: Expected macOS accessibility tree snapshot for the input-radio-checkbox-label test, showing label exposure for radio buttons and checkboxes.

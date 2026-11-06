@@ -1,0 +1,4 @@
+# Docerion header of input-number.html.
+type: test
+title: Number input accessibility test page
+summary: HTML test page with number inputs used to verify accessibility tree output across platforms, with per-platform allow-list directives.

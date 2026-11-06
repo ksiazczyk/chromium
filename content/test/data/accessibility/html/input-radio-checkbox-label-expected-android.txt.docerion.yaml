@@ -1,0 +1,4 @@
+# Docerion header of input-radio-checkbox-label-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for input-radio-checkbox-label
+summary: Expected Android accessibility tree snapshot for the input-radio-checkbox-label test, showing which labels are exposed for radio buttons and checkboxes.

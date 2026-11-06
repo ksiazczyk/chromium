@@ -1,0 +1,4 @@
+# Docerion header of input-text-name-calc-expected-mac.txt.
+type: test
+title: Expected macOS accessibility tree for the input text name calculation test
+summary: Expected macOS accessibility tree snapshot listing AXTextField titles and descriptions plus static text labels for the name calculation test.

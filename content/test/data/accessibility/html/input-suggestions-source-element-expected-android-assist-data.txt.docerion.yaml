@@ -1,0 +1,4 @@
+# Docerion header of input-suggestions-source-element-expected-android-assist-data.txt.
+type: test
+title: input-suggestions-source-element expected Android assist data
+summary: Expected Android assist data snapshot for the input-suggestions-source-element test page, showing a text input associated with a datalist element.

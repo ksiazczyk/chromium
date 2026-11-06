@@ -1,0 +1,4 @@
+# Docerion header of input-reset-expected-android-external.txt.
+type: test
+title: Expected Android external accessibility tree for input reset test
+summary: Expected Android external accessibility snapshot for the input-reset HTML test with an editable text field and a clickable Reset button.

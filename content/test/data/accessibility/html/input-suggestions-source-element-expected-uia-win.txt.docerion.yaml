@@ -1,0 +1,4 @@
+# Docerion header of input-suggestions-source-element-expected-uia-win.txt.
+type: test
+title: Expected UIA accessibility tree for input-suggestions-source-element
+summary: Expected UIA on Windows accessibility tree snapshot for the input suggestions source element test page.

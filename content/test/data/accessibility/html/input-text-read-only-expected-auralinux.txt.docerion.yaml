@@ -1,0 +1,4 @@
+# Docerion header of input-text-read-only-expected-auralinux.txt.
+type: test
+title: input-text-read-only expected Aura Linux accessibility tree
+summary: Expected Aura Linux accessibility tree dump for the read-only text input test, showing a focused single-line entry named from its placeholder.

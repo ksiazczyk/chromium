@@ -1,0 +1,4 @@
+# Docerion header of input-date-with-popup-open-expected-android-external.txt.
+type: test
+title: Input date with popup open expected Android external
+summary: Expected Android external accessibility tree snapshot for the input-date test with the popup open, showing the focused DatePicker node for 2008-09-01.

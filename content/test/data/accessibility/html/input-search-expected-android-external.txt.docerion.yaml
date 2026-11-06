@@ -1,0 +1,4 @@
+# Docerion header of input-search-expected-android-external.txt.
+type: test
+title: Expected Android external tree for input search test
+summary: Expected Android external accessibility snapshot for the input-search HTML test, describing an editable search text field and its actions.

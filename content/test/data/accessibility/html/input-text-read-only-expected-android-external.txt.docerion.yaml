@@ -1,0 +1,4 @@
+# Docerion header of input-text-read-only-expected-android-external.txt.
+type: test
+title: input-text-read-only expected Android external accessibility tree
+summary: Expected Android external accessibility tree for the read-only text input test, describing a focused text field with a supplemental description.

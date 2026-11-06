@@ -1,0 +1,4 @@
+# Docerion header of input-tel-expected-mac.txt.
+type: test
+title: Expected macOS accessibility tree for tel input
+summary: Expected macOS accessibility tree for a page containing a tel input with value 123-456-7890.

@@ -1,0 +1,4 @@
+# Docerion header of input-list-expected-mac.txt.
+type: test
+title: Expected macOS accessibility tree for input list
+summary: Expected macOS accessibility tree snapshot for the input-list test, showing static text and an AXComboBox with list autocomplete value.

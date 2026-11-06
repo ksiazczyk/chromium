@@ -1,0 +1,4 @@
+# Docerion header of input-radio-unhidden.html.
+type: test
+title: Input radio unhidden test page
+summary: HTML test page that unhides a fieldset of labeled radio buttons after load and signals completion via the title.
