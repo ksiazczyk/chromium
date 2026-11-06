@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Incoming password sharing invitation sync bridge declaration
+// summary: Declares the DataTypeSyncBridge for the INCOMING_PASSWORD_SHARING_INVITATION sync model type.
+// ---
+
 #ifndef COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_SHARING_INCOMING_PASSWORD_SHARING_INVITATION_SYNC_BRIDGE_H_
 #define COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_SHARING_INCOMING_PASSWORD_SHARING_INVITATION_SYNC_BRIDGE_H_
 

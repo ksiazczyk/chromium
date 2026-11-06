@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Outgoing password sharing invitation data type controller
+// summary: Implements the sync data type controller for outgoing password sharing invitations, gating sync on the password sharing enabled policy.
+// ---
+
 #include "components/password_manager/core/browser/sharing/outgoing_password_sharing_invitation_data_type_controller.h"
 
 #include "base/functional/bind.h"

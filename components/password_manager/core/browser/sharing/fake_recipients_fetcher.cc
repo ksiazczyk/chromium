@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake recipients fetcher implementation
+// summary: Implements a fake RecipientsFetcher that returns hardcoded test recipients, including one ineligible for sharing.
+// ---
+
 #include "components/password_manager/core/browser/sharing/fake_recipients_fetcher.h"
 
 #include "base/base64.h"

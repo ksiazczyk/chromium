@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file redirecting to password_manager owners
+summary: Delegates code ownership of the password_manager_strings_grdp directory to the owners listed in components/password_manager/OWNERS.

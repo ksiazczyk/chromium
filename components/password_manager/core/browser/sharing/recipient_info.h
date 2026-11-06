@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PublicKey and RecipientInfo structs
+// summary: Defines the PublicKey and RecipientInfo structs describing a password sharing recipient, their display details and their X25519 public key.
+// ---
+
 #ifndef COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_SHARING_RECIPIENT_INFO_H_
 #define COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_SHARING_RECIPIENT_INFO_H_
 

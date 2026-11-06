@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Credential utils unit tests
+// summary: Unit tests for IsValidPasswordURL across web and Android URLs and for Absl hashing support of CanonicalizedCredential.
+// ---
+
 #include "components/password_manager/core/browser/ui/credential_utils.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

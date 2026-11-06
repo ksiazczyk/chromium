@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PasswordSenderServiceImpl class declaration
+// summary: Declares PasswordSenderServiceImpl, which wraps an outgoing invitation sync bridge to send passwords and provide the sync controller delegate.
+// ---
+
 #ifndef COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_SHARING_PASSWORD_SENDER_SERVICE_IMPL_H_
 #define COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_SHARING_PASSWORD_SENDER_SERVICE_IMPL_H_
 

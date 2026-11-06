@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock password sender service for tests
+// summary: GMock implementation of PasswordSenderService that stubs SendPasswords and GetControllerDelegate for use in tests.
+// ---
+
 #ifndef COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_SHARING_MOCK_PASSWORD_SENDER_SERVICE_H_
 #define COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_SHARING_MOCK_PASSWORD_SENDER_SERVICE_H_
 

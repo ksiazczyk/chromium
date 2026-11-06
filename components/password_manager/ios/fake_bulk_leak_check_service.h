@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake bulk leak check service header
+// summary: Declares a fake BulkLeakCheckService that simulates leak check states and notifies observers, for use in Earl Grey tests.
+// ---
+
 #ifndef COMPONENTS_PASSWORD_MANAGER_IOS_FAKE_BULK_LEAK_CHECK_SERVICE_H_
 #define COMPONENTS_PASSWORD_MANAGER_IOS_FAKE_BULK_LEAK_CHECK_SERVICE_H_
 

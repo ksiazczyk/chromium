@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password sync bridge implementation
+// summary: Implements the PASSWORDS data type sync bridge, propagating local password changes to sync and applying remote changes to the password store.
+// ---
+
 #include "components/password_manager/core/browser/sync/password_sync_bridge.h"
 
 #include <memory>

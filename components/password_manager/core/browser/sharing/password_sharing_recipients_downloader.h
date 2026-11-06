@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PasswordSharingRecipientsDownloader class declaration
+// summary: Declares the downloader that fetches password sharing candidates from the sync server and exposes the response plus net, HTTP and auth errors.
+// ---
+
 #ifndef COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_SHARING_PASSWORD_SHARING_RECIPIENTS_DOWNLOADER_H_
 #define COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_SHARING_PASSWORD_SHARING_RECIPIENTS_DOWNLOADER_H_
 

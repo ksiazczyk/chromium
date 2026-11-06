@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharedPasswordController private testing extension
+// summary: Private Objective-C category exposing SharedPasswordController internals such as generated password injection for testing purposes.
+// ---
+
 #ifndef COMPONENTS_PASSWORD_MANAGER_IOS_SHARED_PASSWORD_CONTROLLER_PRIVATE_H_
 #define COMPONENTS_PASSWORD_MANAGER_IOS_SHARED_PASSWORD_CONTROLLER_PRIVATE_H_
 

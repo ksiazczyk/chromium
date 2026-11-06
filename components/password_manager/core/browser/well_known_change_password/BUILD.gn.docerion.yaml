@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the well-known change password component
+summary: Defines GN source sets and unit test targets with dependencies for the password manager's well-known change password code.

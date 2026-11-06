@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password manager iOS constants
+// summary: Defines enums for accepted generated password sources and password generation bottom sheet state transitions used in UMA reporting.
+// ---
+
 #ifndef COMPONENTS_PASSWORD_MANAGER_IOS_CONSTANTS_H_
 #define COMPONENTS_PASSWORD_MANAGER_IOS_CONSTANTS_H_
 

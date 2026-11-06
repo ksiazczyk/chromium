@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Outgoing password sharing invitation sync bridge
+// summary: Implements the sync bridge for outgoing password sharing invitations, building invitation specifics from password groups and sending them to recipients.
+// ---
+
 #include "components/password_manager/core/browser/sharing/outgoing_password_sharing_invitation_sync_bridge.h"
 
 #include "base/metrics/histogram_functions.h"

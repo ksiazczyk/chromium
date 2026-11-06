@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CSV password parser implementation
+// summary: Implements the CSVPasswordParser mojom interface, parsing raw CSV into a mojom CSVPasswordSequence via CSVPasswordSequence.
+// ---
+
 #include "components/password_manager/services/csv_password/csv_password_parser_impl.h"
 
 #include "components/password_manager/core/browser/import/csv_password.h"

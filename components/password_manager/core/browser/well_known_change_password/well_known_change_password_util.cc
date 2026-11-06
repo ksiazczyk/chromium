@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Well-known change password URL utilities implementation
+// summary: Implements helpers that detect .well-known/change-password URLs and build change password and non-existing resource URLs for a given origin.
+// ---
+
 #include "components/password_manager/core/browser/well_known_change_password/well_known_change_password_util.h"
 
 #include <string_view>

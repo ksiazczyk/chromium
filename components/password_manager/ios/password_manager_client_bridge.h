@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PasswordManagerClientBridge protocol
+// summary: Declares the C++ to Objective-C bridge for PasswordManagerClient, showing save, update, breach and warning UI on iOS.
+// ---
+
 #ifndef COMPONENTS_PASSWORD_MANAGER_IOS_PASSWORD_MANAGER_CLIENT_BRIDGE_H_
 #define COMPONENTS_PASSWORD_MANAGER_IOS_PASSWORD_MANAGER_CLIENT_BRIDGE_H_
 

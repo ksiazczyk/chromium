@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for password manager common
+summary: Defines GN build targets, sources and dependencies for the password manager common static library, including iOS-specific and unit test targets.

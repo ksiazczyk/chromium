@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Password manager utility unit tests
+// summary: Unit tests for credential form detection, WebAuthn autocomplete handling, and single username field heuristics in password_manager::util.
+// ---
+
 #include "components/password_manager/core/common/password_manager_util.h"
 
 #include <string>

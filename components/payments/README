@@ -1,3 +1,9 @@
+---
+type: readme
+title: README for the payments component
+summary: Explains the shared PaymentRequest code, the layered components model, the core/ versus content/ split and which platform implementations consume the code.
+---
+
 This directory contains shared code used by multiple platforms' native
 implementations of PaymentRequest. In general, business logic (i.e., logic which
 manipulates data and is not specific to any particular platform's display of the

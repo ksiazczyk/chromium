@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Insecure credentials manager implementation
+// summary: Implements background-thread reuse and weak password checks and manages insecure credential state, muting and observer notifications.
+// ---
+
 #include "components/password_manager/core/browser/ui/insecure_credentials_manager.h"
 
 #include <algorithm>

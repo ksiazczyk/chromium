@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Password manager strings DIR_METADATA
+summary: Chromium DIR_METADATA entry mapping the password manager strings directory to the UI>Browser>Passwords monorail component and Buganizer component 1457410.

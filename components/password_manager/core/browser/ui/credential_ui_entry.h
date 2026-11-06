@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CredentialUIEntry and CredentialFacet declarations
+// summary: Declares CredentialUIEntry, CredentialFacet and CredentialSortKey, which represent grouped credential entries shown in the password settings UI.
+// ---
+
 #ifndef COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_UI_CREDENTIAL_UI_ENTRY_H_
 #define COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_UI_CREDENTIAL_UI_ENTRY_H_
 

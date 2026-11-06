@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RecipientsFetcherImpl class declaration
+// summary: Declares RecipientsFetcherImpl, which fetches family members and their capability to receive shared passwords, deduplicating concurrent requests.
+// ---
+
 #ifndef COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_SHARING_RECIPIENTS_FETCHER_IMPL_H_
 #define COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_SHARING_RECIPIENTS_FETCHER_IMPL_H_
 

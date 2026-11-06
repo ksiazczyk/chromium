@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Outgoing password sharing invitation sync bridge unit tests
+// summary: Unit tests covering creation, sending, and sync processing of outgoing password sharing invitations using a mock change processor.
+// ---
+
 #include "components/password_manager/core/browser/sharing/outgoing_password_sharing_invitation_sync_bridge.h"
 
 #include <memory>

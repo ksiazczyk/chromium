@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Well-known change password URL utilities header
+// summary: Declares .well-known/change-password path constants, URL helper functions and the WellKnownChangePasswordResult enum used for UMA and UKM reporting.
+// ---
+
 #ifndef COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_WELL_KNOWN_CHANGE_PASSWORD_WELL_KNOWN_CHANGE_PASSWORD_UTIL_H_
 #define COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_WELL_KNOWN_CHANGE_PASSWORD_WELL_KNOWN_CHANGE_PASSWORD_UTIL_H_
 

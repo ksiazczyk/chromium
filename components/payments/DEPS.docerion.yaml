@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for payments
+summary: Defines the include rules for the directory, allowing use of ui/gfx/image/image_skia.h.

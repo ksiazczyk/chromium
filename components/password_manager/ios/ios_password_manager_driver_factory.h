@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS password manager driver factory header
+// summary: Declares the factory that creates and retrieves IOSPasswordManagerDriver instances tied to WebStates and WebFrames, including retainable drivers.
+// ---
+
 #ifndef COMPONENTS_PASSWORD_MANAGER_IOS_IOS_PASSWORD_MANAGER_DRIVER_FACTORY_H_
 #define COMPONENTS_PASSWORD_MANAGER_IOS_IOS_PASSWORD_MANAGER_DRIVER_FACTORY_H_
 

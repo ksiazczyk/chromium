@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password proto utilities for sync conversions
+// summary: Declares helpers that convert stored password credentials, notes and password issues between password manager data structures and sync protobuf messages.
+// ---
+
 #ifndef COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_SYNC_PASSWORD_PROTO_UTILS_H_
 #define COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_SYNC_PASSWORD_PROTO_UTILS_H_
 

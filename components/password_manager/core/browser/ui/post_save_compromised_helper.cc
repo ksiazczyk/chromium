@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Post save compromised helper implementation
+// summary: Implements analysis of stored credentials after a compromised password save to decide which follow-up bubble to show.
+// ---
+
 #include "components/password_manager/core/browser/ui/post_save_compromised_helper.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Password manager UI state unit tests
+// summary: Unit tests verifying StateToString output for valid password manager UI states and for invalid state values.
+// ---
+
 #include "components/password_manager/core/common/password_manager_ui.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Reuse check utility unit tests
+// summary: Tests BulkReuseCheck for reused password detection, covering same websites, PSL matches, affiliated groups, Android apps and metrics recording.
+// ---
+
 #include "components/password_manager/core/browser/ui/reuse_check_utility.h"
 
 #include "base/strings/utf_string_conversions.h"

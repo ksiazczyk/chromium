@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PostSaveCompromisedHelper class declaration
+// summary: Declares a helper that queries password stores after saving a compromised password and reports the bubble type and remaining compromised count.
+// ---
+
 #ifndef COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_UI_POST_SAVE_COMPROMISED_HELPER_H_
 #define COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_UI_POST_SAVE_COMPROMISED_HELPER_H_
 

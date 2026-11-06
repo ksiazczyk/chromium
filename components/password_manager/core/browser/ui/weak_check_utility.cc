@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Weak check utility implementation
+// summary: Implements password weakness checks using zxcvbn scoring, with length caps, histogram metrics and secure zeroing of plaintext passwords.
+// ---
+
 #include "components/password_manager/core/browser/ui/weak_check_utility.h"
 
 #include <functional>

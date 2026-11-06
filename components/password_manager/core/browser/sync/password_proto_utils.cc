@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password sync proto conversion utilities
+// summary: Converts password forms and metadata between Chromium types and sync protocol protos, including password issues and notes handling.
+// ---
+
 #include "components/password_manager/core/browser/sync/password_proto_utils.h"
 
 #include "base/containers/flat_map.h"

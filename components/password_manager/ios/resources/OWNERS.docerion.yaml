@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for password manager iOS resources
+summary: Specifies reviewers for the directory, delegating trivial JS/CSS/HTML changes to the platform owners file.

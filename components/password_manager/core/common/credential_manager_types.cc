@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Credential manager types implementation
+// summary: Implements CredentialTypeToString, the stream operator and CredentialInfo constructors that normalize password and federation fields.
+// ---
+
 #include "components/password_manager/core/common/credential_manager_types.h"
 
 #include <memory>

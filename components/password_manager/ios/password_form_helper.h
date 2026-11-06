@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PasswordFormHelper interface for password form processing
+// summary: Declares PasswordFormHelper, an Objective-C class that finds, fills and submits password forms on iOS, shared by Chrome and WebView.
+// ---
+
 #ifndef COMPONENTS_PASSWORD_MANAGER_IOS_PASSWORD_FORM_HELPER_H_
 #define COMPONENTS_PASSWORD_MANAGER_IOS_PASSWORD_FORM_HELPER_H_
 

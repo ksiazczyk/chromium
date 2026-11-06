@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CSV password parser unit tests
+// summary: Unit tests for CSVPasswordParserImpl covering empty, header-only, valid and malformed CSV inputs and the expected parsed password sequences.
+// ---
+
 #include "components/password_manager/services/csv_password/csv_password_parser_impl.h"
 
 #include <memory>

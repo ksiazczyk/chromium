@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PasswordReuseDetectionManagerClientBridge protocol
+// summary: Declares the C++ to Objective-C bridge protocol for the password reuse detection manager client, including showing password protection warnings.
+// ---
+
 #ifndef COMPONENTS_PASSWORD_MANAGER_IOS_PASSWORD_REUSE_DETECTION_MANAGER_CLIENT_BRIDGE_H_
 #define COMPONENTS_PASSWORD_MANAGER_IOS_PASSWORD_REUSE_DETECTION_MANAGER_CLIENT_BRIDGE_H_
 

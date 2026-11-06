@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for csv_password
+summary: Declares the include rules permitting components/strings, content/public/browser and mojo/public headers in this directory.

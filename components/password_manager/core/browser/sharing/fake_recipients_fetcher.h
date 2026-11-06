@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake recipients fetcher class declaration
+// summary: Declares FakeRecipientsFetcher, a test double of RecipientsFetcher that returns fixed family member recipients.
+// ---
+
 #ifndef COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_SHARING_FAKE_RECIPIENTS_FETCHER_H_
 #define COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_SHARING_FAKE_RECIPIENTS_FETCHER_H_
 

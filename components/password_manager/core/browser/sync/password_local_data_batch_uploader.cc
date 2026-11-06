@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password local data batch uploader implementation
+// summary: Implements uploading local passwords to account storage by fetching forms from profile and account stores and migrating all or selected items.
+// ---
+
 #include "components/password_manager/core/browser/sync/password_local_data_batch_uploader.h"
 
 #include <memory>

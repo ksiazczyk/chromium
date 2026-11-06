@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CSVPasswordParserImpl class declaration
+// summary: Declares CSVPasswordParserImpl, the mojo-bound implementation of the CSVPasswordParser mojom interface.
+// ---
+
 #ifndef COMPONENTS_PASSWORD_MANAGER_SERVICES_CSV_PASSWORD_CSV_PASSWORD_PARSER_IMPL_H_
 #define COMPONENTS_PASSWORD_MANAGER_SERVICES_CSV_PASSWORD_CSV_PASSWORD_PARSER_IMPL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PasswordSharingRecipientsDownloader unit tests
+// summary: Unit tests for the recipients downloader covering successful downloads and retrying the access token fetch once on transient errors.
+// ---
+
 #include "components/password_manager/core/browser/sharing/password_sharing_recipients_downloader.h"
 
 #include <memory>

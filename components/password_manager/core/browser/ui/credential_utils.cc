@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password URL validation implementation
+// summary: Implements IsValidPasswordURL, which accepts HTTP, HTTPS and valid Android facet URLs for credentials.
+// ---
+
 #include "components/password_manager/core/browser/ui/credential_utils.h"
 
 #include "components/affiliations/core/browser/affiliation_utils.h"

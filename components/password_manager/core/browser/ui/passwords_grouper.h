@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PasswordsGrouper class declaration
+// summary: Declares the PasswordsGrouper that groups credentials by affiliation and matching username and password for the password management UI.
+// ---
+
 #ifndef COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_UI_PASSWORDS_GROUPER_H_
 #define COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_UI_PASSWORDS_GROUPER_H_
 

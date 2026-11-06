@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for the CSV password parser
+summary: Defines GN source_set targets for the CSV password parser library, sandboxed service, test fake and unit tests, with iOS-specific dependencies.

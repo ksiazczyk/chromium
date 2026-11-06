@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reuse check utility implementation
+// summary: Implements BulkReuseCheck, which detects reused passwords by comparing normalized usernames, domains, affiliations and Android app facets across credentials.
+// ---
+
 #include "components/password_manager/core/browser/ui/reuse_check_utility.h"
 
 #include <utility>

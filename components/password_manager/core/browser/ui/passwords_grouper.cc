@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Passwords grouper implementation
+// summary: Implements grouping of stored credentials and passkeys into affiliated groups and credential UI entries, including fallback branding info.
+// ---
+
 #include "components/password_manager/core/browser/ui/passwords_grouper.h"
 
 #include <algorithm>

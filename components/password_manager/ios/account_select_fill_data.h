@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Account select fill data header
+// summary: Declares the form, credential and fill data structures plus the AccountSelectFillData class that decides which suggestions to show and fill.
+// ---
+
 #ifndef COMPONENTS_PASSWORD_MANAGER_IOS_ACCOUNT_SELECT_FILL_DATA_H_
 #define COMPONENTS_PASSWORD_MANAGER_IOS_ACCOUNT_SELECT_FILL_DATA_H_
 

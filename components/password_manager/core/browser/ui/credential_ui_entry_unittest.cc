@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CredentialUIEntry unit tests
+// summary: Unit tests verifying conversion of PasswordForm and StoredCredential objects into CredentialUIEntry, covering facets, notes and backup passwords.
+// ---
+
 #include "components/password_manager/core/browser/ui/credential_ui_entry.h"
 
 #include <array>

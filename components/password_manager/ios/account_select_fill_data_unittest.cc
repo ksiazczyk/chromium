@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for account select fill data
+// summary: Tests the account selection filling logic, covering single username forms, empty usernames and various fill data retrieval statuses.
+// ---
+
 #include "components/password_manager/ios/account_select_fill_data.h"
 
 #include "base/compiler_specific.h"

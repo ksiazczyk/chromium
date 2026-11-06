@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PasswordSharingRecipientsDownloader implementation
+// summary: Implements the one-shot request to the sync server that downloads password sharing recipients, including access token fetching, retries and response metrics.
+// ---
+
 #include "components/password_manager/core/browser/sharing/password_sharing_recipients_downloader.h"
 
 #include <optional>

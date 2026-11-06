@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the iOS password manager component
+summary: Defines the GN build targets, sources, dependencies and test bundles for the iOS password manager component.

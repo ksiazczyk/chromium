@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password manager form and username field utilities header
+// summary: Declares password_manager::util helpers for detecting credential forms, WebAuthn autocomplete, single username fields, and likely OTP fields.
+// ---
+
 #ifndef COMPONENTS_PASSWORD_MANAGER_CORE_COMMON_PASSWORD_MANAGER_UTIL_H_
 #define COMPONENTS_PASSWORD_MANAGER_CORE_COMMON_PASSWORD_MANAGER_UTIL_H_
 

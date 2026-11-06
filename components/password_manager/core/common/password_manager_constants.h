@@ -4,6 +4,12 @@
 
 // Contains constants specific to the Password Manager component.
 
+// ---docerion
+// type: source
+// title: Password manager constants
+// summary: Declares constants for password generation, autocomplete hints, import limits, authentication validity and field-parsing regexes.
+// ---
+
 #ifndef COMPONENTS_PASSWORD_MANAGER_CORE_COMMON_PASSWORD_MANAGER_CONSTANTS_H_
 #define COMPONENTS_PASSWORD_MANAGER_CORE_COMMON_PASSWORD_MANAGER_CONSTANTS_H_
 

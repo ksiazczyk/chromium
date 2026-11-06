@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Post save compromised helper unit tests
+// summary: Unit tests for PostSaveCompromisedHelper, verifying bubble type selection after saving compromised credentials using mock password stores and prefs.
+// ---
+
 #include "components/password_manager/core/browser/ui/post_save_compromised_helper.h"
 
 #include "base/feature_list.h"

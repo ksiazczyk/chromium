@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PublicKey and RecipientInfo implementation
+// summary: Implements Base64 and proto conversion for X25519 public keys and default equality and move semantics for recipient info structs.
+// ---
+
 #include "components/password_manager/core/browser/sharing/recipient_info.h"
 
 #include "base/base64.h"

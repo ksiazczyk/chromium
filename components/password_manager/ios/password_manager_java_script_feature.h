@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PasswordManagerJavaScriptFeature interface
+// summary: Declares PasswordManagerJavaScriptFeature, the bridge to password_controller.js for password form parsing and autofill.
+// ---
+
 #ifndef COMPONENTS_PASSWORD_MANAGER_IOS_PASSWORD_MANAGER_JAVA_SCRIPT_FEATURE_H_
 #define COMPONENTS_PASSWORD_MANAGER_IOS_PASSWORD_MANAGER_JAVA_SCRIPT_FEATURE_H_
 

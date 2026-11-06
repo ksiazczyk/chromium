@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Well-known change password state header
+// summary: Declares WellKnownChangePasswordState and its delegate interface for detecting .well-known/change-password support and prefetching change password URLs.
+// ---
+
 #ifndef COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_WELL_KNOWN_CHANGE_PASSWORD_WELL_KNOWN_CHANGE_PASSWORD_STATE_H_
 #define COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_WELL_KNOWN_CHANGE_PASSWORD_WELL_KNOWN_CHANGE_PASSWORD_STATE_H_
 

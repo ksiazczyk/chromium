@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Password manager sync BUILD.gn build targets
+summary: Defines the sync source set and unit test targets for the password manager sync directory, listing sources and dependencies.

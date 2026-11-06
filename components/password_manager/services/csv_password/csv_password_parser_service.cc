@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CSV password parser service launcher
+// summary: Launches the CSV password parser in an isolated sandboxed service process and returns a mojo remote for it.
+// ---
+
 #include "components/password_manager/services/csv_password/csv_password_parser_service.h"
 
 #include "components/strings/grit/components_strings.h"

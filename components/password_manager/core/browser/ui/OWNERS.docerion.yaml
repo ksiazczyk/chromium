@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the password manager UI directory
+summary: Lists the code owner responsible for reviewing changes in the password manager UI directory.

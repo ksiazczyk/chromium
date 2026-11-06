@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: iOS password manager test helper implementations
+// summary: Implements helper functions that populate PasswordFormFillData, FillData and FormData with test values for iOS password manager tests.
+// ---
+
 #include "components/password_manager/ios/test_helpers.h"
 
 #include "base/strings/utf_string_conversions.h"

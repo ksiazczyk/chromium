@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PasswordSenderServiceImpl implementation
+// summary: Implements PasswordSenderService by forwarding SendPasswords calls to the outgoing password sharing invitation sync bridge.
+// ---
+
 #include "components/password_manager/core/browser/sharing/password_sender_service_impl.h"
 
 #include <algorithm>

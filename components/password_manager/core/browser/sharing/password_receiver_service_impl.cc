@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password receiver service implementation
+// summary: Implements processing of incoming password sharing invitations, validating shared password forms and storing accepted credentials in the password store.
+// ---
+
 #include "components/password_manager/core/browser/sharing/password_receiver_service_impl.h"
 
 #include <string>
