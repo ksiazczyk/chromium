@@ -1,0 +1,4 @@
+# Docerion header of type_non_input.html.
+type: test
+title: Non-input element typing test page
+summary: Test page with focusable and unfocusable divs that log key events, for testing type actions on non-input elements.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GlobalIdMapper interface
+// summary: Defines an interface for tracking SESSIONS global ID changes and mapping them for the USER_EVENTS sync data type.
+// ---
+
 #ifndef COMPONENTS_SYNC_USER_EVENTS_GLOBAL_ID_MAPPER_H_
 #define COMPONENTS_SYNC_USER_EVENTS_GLOBAL_ID_MAPPER_H_
 

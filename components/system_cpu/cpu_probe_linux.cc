@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux CpuProbe implementation using /proc/stat
+// summary: Implements the Linux and ChromeOS CPU probe that parses /proc/stat on a blocking task runner and averages per-core utilization.
+// ---
+
 #include "components/system_cpu/cpu_probe_linux.h"
 
 #include <stdint.h>

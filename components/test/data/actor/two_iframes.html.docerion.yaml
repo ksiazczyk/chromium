@@ -1,0 +1,4 @@
+# Docerion header of two_iframes.html.
+type: test
+title: Two cross-origin iframes test page
+summary: Test page stacking two overlapping cross-origin iframes with load listeners, for testing actor interaction with overlapping frames.

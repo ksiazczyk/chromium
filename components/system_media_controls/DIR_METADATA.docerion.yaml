@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: System media controls DIR_METADATA
+summary: Records the Chromium bug tracker component, team email, and Buganizer ID for the system media controls directory.

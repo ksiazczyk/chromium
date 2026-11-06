@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build configuration for the system_cpu component
+summary: GN build file defining the system_cpu source set with platform-specific sources plus unit test and test support targets.

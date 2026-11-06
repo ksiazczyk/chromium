@@ -1,0 +1,4 @@
+# Docerion header of drag_dom_node_id.html.
+type: test
+title: Drag between DOM nodes test page
+summary: Test page with source and target divs that log mouse events for dragging between DOM nodes identified by ID.

@@ -1,0 +1,4 @@
+# Docerion header of media.html.
+type: test
+title: Test page with a video and playback helpers
+summary: Test page showing a video with media session actions and helper functions to play, wait for playback state changes and wait for seeks.

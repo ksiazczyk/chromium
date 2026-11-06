@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab groups feature flag declaration
+// summary: Declares the kUpdateTabGroupColors feature with component export for use across the tab_groups component.
+// ---
+
 #ifndef COMPONENTS_TAB_GROUPS_FEATURES_H_
 #define COMPONENTS_TAB_GROUPS_FEATURES_H_
 

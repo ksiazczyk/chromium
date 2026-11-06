@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for sync_user_events
+summary: Specifies the allowed include directories for code in the sync_user_events component.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab groups feature map JNI bridge
+// summary: C++ source that exposes tab groups feature flags, such as update tab group colors, to Java through a base::android::FeatureMap.
+// ---
+
 #include "base/android/feature_map.h"
 #include "base/no_destructor.h"
 #include "components/tab_groups/features.h"

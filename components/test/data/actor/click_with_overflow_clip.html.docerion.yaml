@@ -1,0 +1,4 @@
+# Docerion header of click_with_overflow_clip.html.
+type: test
+title: Test case for elements that overflow ancestor clipping boxes
+summary: Test page with buttons inside overflow hidden and scroll clipping containers to verify click coordinates on partially visible elements.

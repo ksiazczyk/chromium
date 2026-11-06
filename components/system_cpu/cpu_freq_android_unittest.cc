@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Android CPU frequency monitor
+// summary: Tests CPUFreqMonitor on Android using a test delegate backed by temporary sysfs-like frequency files.
+// ---
+
 #include "components/system_cpu/cpu_freq_android.h"
 
 #include <fcntl.h>

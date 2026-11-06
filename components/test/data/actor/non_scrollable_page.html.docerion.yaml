@@ -1,0 +1,4 @@
+# Docerion header of non_scrollable_page.html.
+type: test
+title: Test page with a non-scrollable element
+summary: Test page containing an overflow-hidden element with a large spacer, used to test scrolling behavior on non-scrollable content.

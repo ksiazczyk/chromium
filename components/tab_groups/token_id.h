@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TokenId class template for token-based IDs
+// summary: Defines a CRTP class template wrapping base::Token for type-safe tab group IDs, with generation, conversion, hashing, and logging helpers.
+// ---
+
 #ifndef COMPONENTS_TAB_GROUPS_TOKEN_ID_H_
 #define COMPONENTS_TAB_GROUPS_TOKEN_ID_H_
 

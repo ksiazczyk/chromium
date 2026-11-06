@@ -1,0 +1,4 @@
+# Docerion header of page_with_web_component_button.html.
+type: test
+title: Web Component Button Test Page
+summary: Test page defining a custom rt-button element with shadow DOM to test clicking web component buttons.

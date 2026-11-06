@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for tab_groups dependencies
+summary: Lists the include directories, such as strings, Skia, and ui, that the tab_groups component is allowed to depend on.

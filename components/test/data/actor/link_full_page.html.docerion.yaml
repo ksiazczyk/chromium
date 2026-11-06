@@ -1,0 +1,4 @@
+# Docerion header of link_full_page.html.
+type: test
+title: Test page with a full-page link
+summary: Test page whose link covers the entire page and can be retargeted through a href query parameter, for click and navigation tests.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: macOS host_processor_info CPU scanner implementation
+// summary: Reads per-core CPU load information through the macOS host_processor_info API, skipping Rosetta-translated Macs.
+// ---
+
 #include "components/system_cpu/host_processor_info_scanner.h"
 
 #include <mach/mach.h>

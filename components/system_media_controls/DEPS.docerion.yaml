@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: System media controls DEPS include rules
+summary: Specifies the include directories allowed for code in the system media controls component.

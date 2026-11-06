@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SystemMediaControlsLinux class header
+// summary: Declares the SystemMediaControlsLinux class, its MPRIS constants, and the SystemMediaControls interface methods for the D-Bus service.
+// ---
+
 #ifndef COMPONENTS_SYSTEM_MEDIA_CONTROLS_LINUX_SYSTEM_MEDIA_CONTROLS_LINUX_H_
 #define COMPONENTS_SYSTEM_MEDIA_CONTROLS_LINUX_SYSTEM_MEDIA_CONTROLS_LINUX_H_
 

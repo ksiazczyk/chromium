@@ -1,0 +1,4 @@
+# Docerion header of simple.html.
+type: test
+title: Simple test page
+summary: Minimal page with a green background used as a navigation target in actor tests.

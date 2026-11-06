@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User event service interface
+// summary: Defines the UserEventService interface for recording user events and exposing the sync data type controller delegate.
+// ---
+
 #ifndef COMPONENTS_SYNC_USER_EVENTS_USER_EVENT_SERVICE_H_
 #define COMPONENTS_SYNC_USER_EVENTS_USER_EVENT_SERVICE_H_
 

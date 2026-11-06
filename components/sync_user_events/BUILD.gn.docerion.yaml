@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for sync_user_events
+summary: Defines the sync_user_events static library, test support target and unit test target with their sources and dependencies.

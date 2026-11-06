@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NowPlayingInfoCenterDelegate header
+// summary: Declares the C++ delegate that wraps a Cocoa object to publish playback status, metadata and position to macOS MPNowPlayingInfoCenter with debounce timing.
+// ---
+
 #ifndef COMPONENTS_SYSTEM_MEDIA_CONTROLS_MAC_NOW_PLAYING_INFO_CENTER_DELEGATE_H_
 #define COMPONENTS_SYSTEM_MEDIA_CONTROLS_MAC_NOW_PLAYING_INFO_CENTER_DELEGATE_H_
 

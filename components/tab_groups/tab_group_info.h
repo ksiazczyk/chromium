@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabGroupInfo header with tab group color string constants
+// summary: Declares the TabGroupInfo struct pairing a tab range with visual data for saved desks, plus color string constants and TabGroupColorToString used by desks storage.
+// ---
+
 #ifndef COMPONENTS_TAB_GROUPS_TAB_GROUP_INFO_H_
 #define COMPONENTS_TAB_GROUPS_TAB_GROUP_INFO_H_
 

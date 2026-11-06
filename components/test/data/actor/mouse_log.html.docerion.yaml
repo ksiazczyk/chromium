@@ -1,0 +1,4 @@
+# Docerion header of mouse_log.html.
+type: test
+title: Test page logging mouse events on targets
+summary: Test page with target elements, including an offscreen one, that log all mouse events with element ids for actor mouse interaction tests.

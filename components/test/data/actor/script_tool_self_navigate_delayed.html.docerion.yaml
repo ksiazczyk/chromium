@@ -1,0 +1,4 @@
+# Docerion header of script_tool_self_navigate_delayed.html.
+type: test
+title: Delayed self-navigating script tool page
+summary: Registers a navigate_delayed tool that redirects after 100 ms while its promise remains pending.

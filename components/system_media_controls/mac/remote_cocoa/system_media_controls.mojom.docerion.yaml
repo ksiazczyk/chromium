@@ -1,0 +1,4 @@
+# Docerion header of system_media_controls.mojom.
+type: source
+title: system_media_controls.mojom
+summary: Defines Mojo interfaces for the browser process to control macOS system media controls and observe user-initiated playback commands.

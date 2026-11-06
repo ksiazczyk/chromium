@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Tab group color picker dimension resources
+summary: Android dimension resources defining hovered, focused, and pressed alpha values for tab group color picker states.
+-->
+
 <resources>
     <item name="tab_group_color_picker_hovered_alpha" format="float" type="dimen">0.08</item>
     <item name="tab_group_color_picker_focused_alpha" format="float" type="dimen">0.12</item>

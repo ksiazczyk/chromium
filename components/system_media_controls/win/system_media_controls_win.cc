@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows system media controls implementation
+// summary: Implements SystemMediaControls on Windows by connecting to the System Media Transport Controls WinRT API, handling button events, playback position, metadata and thumbnails.
+// ---
+
 #include "components/system_media_controls/win/system_media_controls_win.h"
 
 #include <systemmediatransportcontrolsinterop.h>

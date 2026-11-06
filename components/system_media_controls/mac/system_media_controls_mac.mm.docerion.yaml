@@ -1,0 +1,4 @@
+# Docerion header of system_media_controls_mac.mm.
+type: source
+title: SystemMediaControlsMac implementation for macOS media controls
+summary: Implements the macOS system media controls, creating in-process or out-of-process bridges and forwarding playback commands, metadata, and observer notifications.

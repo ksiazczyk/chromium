@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HostProcessorInfoScanner class declaration
+// summary: Declares a macOS scanner that parses CPU time usage stats from host_processor_info into per-core CoreTimes values.
+// ---
+
 #ifndef COMPONENTS_SYSTEM_CPU_HOST_PROCESSOR_INFO_SCANNER_H_
 #define COMPONENTS_SYSTEM_CPU_HOST_PROCESSOR_INFO_SCANNER_H_
 

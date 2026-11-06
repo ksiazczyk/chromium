@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User event sync bridge implementation
+// summary: Implements the sync bridge for user events, persisting in-flight events in a data type store and handling deletions and global ID changes.
+// ---
+
 #include "components/sync_user_events/user_event_sync_bridge.h"
 
 #include <array>

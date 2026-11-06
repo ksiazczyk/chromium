@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SystemMediaControlsMac interface for macOS media controls
+// summary: Declares the SystemMediaControlsMac class that implements the SystemMediaControls API on macOS via MPNowPlayingInfoCenter and a Mojo bridge to the app shim process.
+// ---
+
 #ifndef COMPONENTS_SYSTEM_MEDIA_CONTROLS_MAC_SYSTEM_MEDIA_CONTROLS_MAC_H_
 #define COMPONENTS_SYSTEM_MEDIA_CONTROLS_MAC_SYSTEM_MEDIA_CONTROLS_MAC_H_
 

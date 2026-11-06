@@ -1,0 +1,4 @@
+# Docerion header of multi_line_anchor_element.html.
+type: test
+title: Test page with a multi-line anchor element
+summary: Test page with a multi-line anchor that records whether it was clicked, for actor element interaction and geometry tests.

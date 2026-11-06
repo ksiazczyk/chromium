@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: Lists tedchoc@chromium.org as the code owner for the android test components directory.

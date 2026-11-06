@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux CpuProbe class declaration
+// summary: Declares CpuProbeLinux, the Linux and ChromeOS CpuProbe subclass backed by a blocking-task-runner helper.
+// ---
+
 #ifndef COMPONENTS_SYSTEM_CPU_CPU_PROBE_LINUX_H_
 #define COMPONENTS_SYSTEM_CPU_CPU_PROBE_LINUX_H_
 

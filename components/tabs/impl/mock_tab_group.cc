@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MockTabGroup and MockTabGroupFactory implementation
+// summary: Implements NiceMock-based mock TabGroup and its factory so tests can substitute tab groups without real profile-backed behavior.
+// ---
+
 #include "components/tabs/public/mock_tab_group.h"
 
 namespace tabs {

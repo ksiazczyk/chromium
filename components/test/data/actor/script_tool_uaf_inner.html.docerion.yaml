@@ -1,0 +1,4 @@
+# Docerion header of script_tool_uaf_inner.html.
+type: test
+title: Script tool frame detach test page
+summary: Inner frame page registering tools that detach their frame during execute, abort or toolcancel, used to exercise teardown and lifetime handling.

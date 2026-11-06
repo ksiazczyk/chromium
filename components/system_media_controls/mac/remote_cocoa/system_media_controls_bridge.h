@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SystemMediaControlsBridge class header
+// summary: Declares the bridge class that connects browser media handling to macOS MPNowPlayingInfoCenter and MPRemoteCommandCenter, in-process or via an app shim.
+// ---
+
 #ifndef COMPONENTS_SYSTEM_MEDIA_CONTROLS_MAC_REMOTE_COCOA_SYSTEM_MEDIA_CONTROLS_BRIDGE_H_
 #define COMPONENTS_SYSTEM_MEDIA_CONTROLS_MAC_REMOTE_COCOA_SYSTEM_MEDIA_CONTROLS_BRIDGE_H_
 

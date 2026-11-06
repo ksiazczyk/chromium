@@ -1,3 +1,9 @@
+---
+type: readme
+title: Tabs
+summary: Introduces the tabs directory's cross-platform tab collection data structures and explains the migration from the legacy list-based tab storage.
+---
+
 # Tabs
 
 This directory contains the data structures, interfaces, and in-memory storage

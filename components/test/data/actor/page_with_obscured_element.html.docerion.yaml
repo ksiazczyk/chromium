@@ -1,0 +1,4 @@
+# Docerion header of page_with_obscured_element.html.
+type: test
+title: Page with Obscured Element
+summary: Test page where a target button is fully covered by an overlapping obstruction button to test handling of obscured elements.

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for tab resume strings
+summary: Delegates code ownership for the tab resume string resources to components/visited_url_ranking/OWNERS.

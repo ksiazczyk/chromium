@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab group color label map implementation
+// summary: Builds the map that associates each tab group color ID with its localized string label.
+// ---
+
 #include "components/tab_groups/tab_group_color.h"
 
 #include <map>

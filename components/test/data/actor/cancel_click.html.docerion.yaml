@@ -1,0 +1,4 @@
+# Docerion header of cancel_click.html.
+type: test
+title: Click Event Logging Test Page
+summary: Test page that logs mouse events on a button so tests can verify click cancellation behavior.

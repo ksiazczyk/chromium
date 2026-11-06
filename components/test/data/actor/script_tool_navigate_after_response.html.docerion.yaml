@@ -1,0 +1,4 @@
+# Docerion header of script_tool_navigate_after_response.html.
+type: test
+title: Script tool navigation after response page
+summary: Echo tool page that navigates to blank.html after returning its response.

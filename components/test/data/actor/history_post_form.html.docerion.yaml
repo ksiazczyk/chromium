@@ -1,0 +1,4 @@
+# Docerion header of history_post_form.html.
+type: test
+title: History POST form test page
+summary: Test page with a form that submits a POST request to history_post_page_b.html.

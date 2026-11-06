@@ -1,3 +1,13 @@
+---
+type: readme
+title: System Media Controls macOS Overview
+summary: Overviews the macOS System Media Controls implementation that interfaces with MPNowPlayingInfoCenter and MPRemoteCommandCenter, including bridged controls for desktop PWAs running in app shim processes.
+relations:
+  - references /components/system_media_controls/mac/mac_smc_diagram.jpeg
+  - references /content/browser/media/system_media_controls/README.md
+  - documents /components/system_media_controls/mac/remote_cocoa/system_media_controls_bridge.h
+---
+
 # Overview
 This component is used to interface with Mac OS's MPNowPlayingInfoCenter and
 related MediaPlayer API:

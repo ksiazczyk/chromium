@@ -1,0 +1,4 @@
+# Docerion header of positioned_iframe.html.
+type: test
+title: Positioned Iframe Test Case
+summary: Scrollable test page placing an iframe in the bottom right quadrant, navigated by browser tests or locally via a path query parameter.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeTabInterface test fake implementation
+// summary: Implements a gmock-based fake TabInterface that derives pinned, group, and split state from its parent collection hierarchy for use in tests.
+// ---
+
 #include "components/tabs/public/fake_tab_interface.h"
 
 #include "base/types/pass_key.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Frame creation helper script
+// summary: Helper functions to create iframes and fenced frames, including document.write and window.stop aborted-load variants, for ad tagging tests.
+// ---
+
 'use strict';
 
 function createFencedFrame(url, name) {

@@ -1,0 +1,4 @@
+# Docerion header of drag.html.
+type: test
+title: Drag and pointer event logging test page
+summary: Test page with range inputs and divs that log mouse and pointer drag events, including pointer capture and offscreen elements.

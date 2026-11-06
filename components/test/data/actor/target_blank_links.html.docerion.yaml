@@ -1,0 +1,4 @@
+# Docerion header of target_blank_links.html.
+type: test
+title: Links Opening in New Tab test page
+summary: Test page with an anchor and a script handler that open blank.html in a new tab, for testing actor link-click behavior.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: macOS CpuProbe class declaration
+// summary: Declares CpuProbeMac, the macOS CpuProbe subclass with a blocking-task-runner helper and weak pointer factory.
+// ---
+
 #ifndef COMPONENTS_SYSTEM_CPU_CPU_PROBE_MAC_H_
 #define COMPONENTS_SYSTEM_CPU_CPU_PROBE_MAC_H_
 

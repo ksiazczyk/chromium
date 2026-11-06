@@ -1,0 +1,4 @@
+# Docerion header of page_with_full_viewport_style_frame.html.
+type: test
+title: Full viewport style frame test page
+summary: HTML test page that styles iframes and fenced frames to fill the full viewport for ad tagging tests.

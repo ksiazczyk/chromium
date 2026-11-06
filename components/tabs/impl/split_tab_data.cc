@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SplitTabData implementation
+// summary: Implements SplitTabData helpers that list tabs in a split, expose the collection handle, and compute the tab index range within the tab strip.
+// ---
+
 #include "components/tabs/public/split_tab_data.h"
 
 #include <memory>

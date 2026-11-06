@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CPU pressure test support declarations
+// summary: Declares CpuProbe test doubles including FakePlatformCpuProbe, FakeCpuProbe and StreamingCpuProbe used by CPU probe tests.
+// ---
+
 #ifndef COMPONENTS_SYSTEM_CPU_PRESSURE_TEST_SUPPORT_H_
 #define COMPONENTS_SYSTEM_CPU_PRESSURE_TEST_SUPPORT_H_
 

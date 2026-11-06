@@ -1,0 +1,4 @@
+# Docerion header of otp_page.html.
+type: test
+title: OTP Verification Page
+summary: Test page offering single-field and multi-field one-time password forms for testing autofill and actor interactions with OTP inputs.

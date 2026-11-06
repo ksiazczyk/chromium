@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Linux CPU probe
+// summary: Tests CpuProbeLinux against fake /proc/stat files covering baseline behavior, per-core samples and production data.
+// ---
+
 #include "components/system_cpu/cpu_probe_linux.h"
 
 #include <memory>

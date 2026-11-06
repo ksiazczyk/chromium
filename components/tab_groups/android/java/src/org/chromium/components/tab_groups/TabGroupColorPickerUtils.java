@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab group color picker utilities
+// summary: Helper class that resolves tab group color picker item colors and builds background tint and ripple ColorStateLists, adapting to light, dark, incognito, and dynamic color themes.
+// ---
+
 package org.chromium.components.tab_groups;
 
 import android.content.Context;

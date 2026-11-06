@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Tab group color picker dark theme color resources
+summary: Defines dark-mode color values for the Android tab group color picker UI, including picker, text, and card colors for tab group color indicators.
+-->
+
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Colors used by the tab group color picker UI and for the small color dot indicator on the card. -->
     <color name="tab_group_color_picker_blue">@color/tab_group_color_picker_blue_light</color>

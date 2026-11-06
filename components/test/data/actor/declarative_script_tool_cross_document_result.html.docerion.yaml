@@ -1,0 +1,4 @@
+# Docerion header of declarative_script_tool_cross_document_result.html.
+type: test
+title: Declarative script tool cross-document result page
+summary: Result page that echoes the submitted text parameter into a JSON-LD Message block for declarative tool tests.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock SystemMediaControls class header
+// summary: Declares a gmock mock of SystemMediaControls with mocked methods for observers, control enablement, metadata setters, and testing helpers.
+// ---
+
 #ifndef COMPONENTS_SYSTEM_MEDIA_CONTROLS_MOCK_SYSTEM_MEDIA_CONTROLS_H_
 #define COMPONENTS_SYSTEM_MEDIA_CONTROLS_MOCK_SYSTEM_MEDIA_CONTROLS_H_
 

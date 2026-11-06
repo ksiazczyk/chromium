@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User event data type controller header
+// summary: Declares UserEventDataTypeController, which manages the USER_EVENTS sync type and observes sync service state changes.
+// ---
+
 #ifndef COMPONENTS_SYNC_USER_EVENTS_USER_EVENT_DATA_TYPE_CONTROLLER_H_
 #define COMPONENTS_SYNC_USER_EVENTS_USER_EVENT_DATA_TYPE_CONTROLLER_H_
 

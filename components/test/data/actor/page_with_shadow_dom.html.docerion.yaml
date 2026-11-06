@@ -1,0 +1,4 @@
+# Docerion header of page_with_shadow_dom.html.
+type: test
+title: Custom Button with Overlapping Shadow DOM
+summary: Test page with a host button whose open shadow root contains an overlapping div, for testing interaction with shadow DOM content.

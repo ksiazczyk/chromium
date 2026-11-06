@@ -1,0 +1,4 @@
+# Docerion header of select_tool_uaf_inner.html.
+type: test
+title: Select tool frame detach test page
+summary: Inner frame page whose select removes the mid iframe on change, detaching the frame during a select tool interaction.

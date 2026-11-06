@@ -1,0 +1,4 @@
+# Docerion header of blocked_links.html.
+type: test
+title: Blocked Links Test Page
+summary: Test page with direct and server-redirect links to a blocked site for navigation blocking tests.

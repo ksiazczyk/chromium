@@ -1,0 +1,4 @@
+# Docerion header of remote_command_center_delegate_cocoa.mm.
+type: source
+title: RemoteCommandCenterDelegateCocoa implementation
+summary: Implements the Cocoa object that maps MPRemoteCommandCenter events to delegate callbacks and toggles the availability of media commands.

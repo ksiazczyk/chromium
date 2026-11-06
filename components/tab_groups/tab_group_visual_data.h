@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabGroupVisualData class declaration
+// summary: Declares the TabGroupVisualData class holding a tab group's title, color ID, and collapsed state, with constructors, accessors, and comparison operators.
+// ---
+
 #ifndef COMPONENTS_TAB_GROUPS_TAB_GROUP_VISUAL_DATA_H_
 #define COMPONENTS_TAB_GROUPS_TAB_GROUP_VISUAL_DATA_H_
 

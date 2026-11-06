@@ -1,0 +1,4 @@
+# Docerion header of blank.html.mock-http-headers.
+type: test
+title: Mock HTTP Headers for Blank Page
+summary: Mock HTTP response headers served for blank.html, declaring credentialed-prerender loading mode support.

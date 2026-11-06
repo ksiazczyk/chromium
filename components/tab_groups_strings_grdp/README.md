@@ -1,3 +1,9 @@
+---
+type: readme
+title: README.md
+summary: Explains that the image SHA-1 hashes here give translators context for tab group UI string translations.
+---
+
 This directory of image SHA-1 hashes is used to improve translations of UI
 strings through context images for translators.
 

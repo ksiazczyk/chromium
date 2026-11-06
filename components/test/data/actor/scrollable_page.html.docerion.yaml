@@ -1,0 +1,4 @@
+# Docerion header of scrollable_page.html.
+type: test
+title: Scrollable page test fixture
+summary: Page with horizontal, non-scrollable, zoomed, smooth-scrolling and offscreen scrollers plus a button inside a scroller for scroll testing.

@@ -1,6 +1,13 @@
 # Copyright 2023 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: ci
+# title: Presubmit checks for components test data
+# summary: Presubmit script that runs bundle data checks on the unit_tests_bundle_data directories under components/test/data.
+# ---
+
 """Presubmit checks for //components/test
 See https://www.chromium.org/developers/how-tos/depottools/presubmit-scripts
 for more details about the presubmit API built into depot_tools.

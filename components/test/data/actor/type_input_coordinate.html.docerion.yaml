@@ -1,0 +1,4 @@
+# Docerion header of type_input_coordinate.html.
+type: test
+title: Coordinate-based typing test page
+summary: Test page with text inputs, editable and focusable divs, and a pseudo-element-obscured input that log input events for coordinate-based typing tests.

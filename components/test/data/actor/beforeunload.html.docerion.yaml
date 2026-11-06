@@ -1,0 +1,4 @@
+# Docerion header of beforeunload.html.
+type: test
+title: Beforeunload Test Page
+summary: Test page that registers a beforeunload handler preventing navigation, for testing unload interception.

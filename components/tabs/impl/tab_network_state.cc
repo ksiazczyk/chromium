@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of tab network state derivation
+// summary: Implements TabNetworkStateForWebContents, which derives a tab's network state such as error, none, waiting or loading from its WebContents navigation state.
+// ---
+
 #include "components/tabs/public/tab_network_state.h"
 
 #include "base/check.h"

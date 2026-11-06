@@ -1,0 +1,4 @@
+# Docerion header of script_tool_self_navigate.html.
+type: test
+title: Self-navigating script tool page
+summary: Registers a navigate tool that redirects to the cross-document result page while its promise stays pending.

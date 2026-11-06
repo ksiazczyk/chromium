@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for MPRIS build flags
+summary: GN build file that defines a buildflag_header target generating buildflags.h with the USE_MPRIS flag for Linux media controls.

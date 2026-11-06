@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the TabStripCollection root collection
+// summary: Implements the root tab strip collection that owns pinned and unpinned child collections and handles recursive tab insertion, moves, grouping and pinning operations.
+// ---
+
 #include "components/tabs/public/tab_strip_collection.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab group color ID enum and label map interface
+// summary: Defines the TabGroupColorId enum persisted to disk and the color-to-label map interface, with notes on keeping Java and WebUI counterparts in sync.
+// ---
+
 #ifndef COMPONENTS_TAB_GROUPS_TAB_GROUP_COLOR_H_
 #define COMPONENTS_TAB_GROUPS_TAB_GROUP_COLOR_H_
 

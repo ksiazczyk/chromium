@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the TabGroupTabCollection collection type
+// summary: Implements a tab collection that holds the tabs of one tab group and separates tab indices by their visual position left or right of the group midpoint.
+// ---
+
 #include "components/tabs/public/tab_group_tab_collection.h"
 
 #include <memory>

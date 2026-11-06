@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the tab_groups component
+summary: Points to the OWNERS files in chrome/browser/ui/tabs and components/tabs whose members review changes to this folder.

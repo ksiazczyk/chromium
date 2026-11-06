@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RemoteCommandCenterDelegate header
+// summary: Declares the delegate that wraps MPRemoteCommandCenter, relays media commands to the browser process via Mojo, and tracks which commands are enabled.
+// ---
+
 #ifndef COMPONENTS_SYSTEM_MEDIA_CONTROLS_MAC_REMOTE_COMMAND_CENTER_DELEGATE_H_
 #define COMPONENTS_SYSTEM_MEDIA_CONTROLS_MAC_REMOTE_COMMAND_CENTER_DELEGATE_H_
 

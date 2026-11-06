@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NoOpUserEventService class declaration
+// summary: Declares a no-op UserEventService used when events must not be recorded, such as in incognito mode.
+// ---
+
 #ifndef COMPONENTS_SYNC_USER_EVENTS_NO_OP_USER_EVENT_SERVICE_H_
 #define COMPONENTS_SYNC_USER_EVENTS_NO_OP_USER_EVENT_SERVICE_H_
 

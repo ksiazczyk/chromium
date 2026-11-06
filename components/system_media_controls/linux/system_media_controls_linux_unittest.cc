@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SystemMediaControlsLinux unit tests
+// summary: Unit tests the MPRIS service with a mock D-Bus bus and exported player methods, verifying observer callbacks for playback commands.
+// ---
+
 #include "components/system_media_controls/linux/system_media_controls_linux.h"
 
 #include <memory>

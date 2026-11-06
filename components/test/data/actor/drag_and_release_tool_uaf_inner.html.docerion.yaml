@@ -1,0 +1,4 @@
+# Docerion header of drag_and_release_tool_uaf_inner.html.
+type: test
+title: Drag and release UAF test inner frame
+summary: Inner frame page that removes a DOM node on mousedown to exercise use-after-free handling during drag and release.

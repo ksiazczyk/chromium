@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CoreTimes class declaration
+// summary: Declares the CoreTimes class holding per-core CPU time counters and computing utilization between two stat snapshots.
+// ---
+
 
 #ifndef COMPONENTS_SYSTEM_CPU_CORE_TIMES_H_
 #define COMPONENTS_SYSTEM_CPU_CORE_TIMES_H_

@@ -1,0 +1,4 @@
+# Docerion header of partially_obscured.html.
+type: test
+title: Partially Obscured Test Page
+summary: Test page with a checkbox partially covered by an overlay element to test interaction with partially obscured elements.

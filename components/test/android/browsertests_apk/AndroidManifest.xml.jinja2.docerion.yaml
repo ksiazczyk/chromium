@@ -1,0 +1,4 @@
+# Docerion header of AndroidManifest.xml.jinja2.
+type: test
+title: Components browser tests APK Android manifest template
+summary: Jinja2 template for the Android manifest of the components browser tests APK, declaring permissions, the test activity, sandboxed and privileged process services, and the native test instrumentation runner.

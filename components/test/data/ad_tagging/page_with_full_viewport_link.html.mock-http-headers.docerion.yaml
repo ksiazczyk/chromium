@@ -1,0 +1,4 @@
+# Docerion header of page_with_full_viewport_link.html.mock-http-headers.
+type: test
+title: Full viewport link mock HTTP headers
+summary: Mock HTTP response headers serving the full viewport link page with the fenced-frame supported loading mode.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabCollectionStorage implementation
+// summary: Implements storage of a TabCollection's child tabs and collections, with add, move, remove, containment, and index lookup operations.
+// ---
+
 #include "components/tabs/public/tab_collection_storage.h"
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Bug tracking metadata for the tab_groups component
+summary: Records the Monorail component and Buganizer component ID used for filing bugs against this folder.

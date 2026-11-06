@@ -1,0 +1,4 @@
+# Docerion header of red_dropdown.html.
+type: test
+title: Red dropdown select test page
+summary: Test page with a select element whose Red option has a red background, used for actor dropdown tests.

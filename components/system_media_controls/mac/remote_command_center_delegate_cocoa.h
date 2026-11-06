@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RemoteCommandCenterDelegateCocoa interface
+// summary: Declares the Objective-C interface that receives MPRemoteCommandCenter events from the OS and enables or disables individual media commands.
+// ---
+
 #ifndef COMPONENTS_SYSTEM_MEDIA_CONTROLS_MAC_REMOTE_COMMAND_CENTER_DELEGATE_COCOA_H_
 #define COMPONENTS_SYSTEM_MEDIA_CONTROLS_MAC_REMOTE_COMMAND_CENTER_DELEGATE_COCOA_H_
 

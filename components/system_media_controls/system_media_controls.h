@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SystemMediaControls public API header
+// summary: Defines the platform-agnostic SystemMediaControls API for interfacing with OS-level media controls, including playback status, metadata setters, and testing hooks.
+// ---
+
 #ifndef COMPONENTS_SYSTEM_MEDIA_CONTROLS_SYSTEM_MEDIA_CONTROLS_H_
 #define COMPONENTS_SYSTEM_MEDIA_CONTROLS_SYSTEM_MEDIA_CONTROLS_H_
 

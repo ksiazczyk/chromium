@@ -1,0 +1,4 @@
+# Docerion header of dom_node_geometry.html.
+type: test
+title: APC Utils Test Page
+summary: Test page with nested, floated, zero-size and invisible elements plus coordinate helpers for DOM node geometry checks.

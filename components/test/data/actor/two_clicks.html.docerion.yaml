@@ -1,0 +1,4 @@
+# Docerion header of two_clicks.html.
+type: test
+title: Two-click button test page
+summary: Test page whose red background turns green only after both buttons have each been clicked exactly once.

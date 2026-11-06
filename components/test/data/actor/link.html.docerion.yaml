@@ -1,0 +1,4 @@
+# Docerion header of link.html.
+type: test
+title: Test page with a settable link
+summary: Test page providing a link whose target URL can be set via a script function, used for navigation and blocked-site tests.

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Tabs bug tracking metadata
+summary: Maps the tabs directory to the UI>Browser>TopChrome>TabStrip monorail component and a Buganizer component ID for issue routing.

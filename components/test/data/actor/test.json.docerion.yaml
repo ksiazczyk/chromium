@@ -1,0 +1,4 @@
+# Docerion header of test.json.
+type: test
+title: Minimal JSON test fixture
+summary: Tiny JSON fixture containing a single test key-value pair used by the actor tests.
