@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Send tab to self coordinator build targets
+summary: Defines GN source sets for the send tab to self coordinator and its unit tests, listing sources and dependencies.

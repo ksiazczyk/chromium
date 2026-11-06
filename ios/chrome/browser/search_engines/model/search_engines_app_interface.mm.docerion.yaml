@@ -1,0 +1,4 @@
+# Docerion header of search_engines_app_interface.mm.
+type: source
+title: SearchEnginesAppInterface implementation
+summary: Implements the search engines app interface by reading and modifying the profile's TemplateURLService during UI tests.

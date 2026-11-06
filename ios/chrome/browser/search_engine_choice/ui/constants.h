@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search engine current default state enum
+// summary: Declares an enum marking which search engine list element is the current default search engine.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SEARCH_ENGINE_CHOICE_UI_CONSTANTS_H_
 #define IOS_CHROME_BROWSER_SEARCH_ENGINE_CHOICE_UI_CONSTANTS_H_
 

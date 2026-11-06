@@ -1,0 +1,4 @@
+# Docerion header of send_tab_to_self_bottom_sheet_view_controller.mm.
+type: source
+title: Send Tab to Self bottom sheet view controller implementation
+summary: Implements the device list bottom sheet, including empty-state messaging, send and close buttons, and the manage devices menu action.

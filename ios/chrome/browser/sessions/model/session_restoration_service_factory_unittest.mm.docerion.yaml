@@ -1,0 +1,4 @@
+# Docerion header of session_restoration_service_factory_unittest.mm.
+type: test
+title: Session restoration service factory unit tests
+summary: Tests that the factory creates distinct SessionRestorationService instances for regular and off-the-record profiles.

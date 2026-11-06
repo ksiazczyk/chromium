@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Search engine choice UI build configuration
+summary: Defines source sets, dependencies and unit tests for the search engine choice UI in the GN build system.

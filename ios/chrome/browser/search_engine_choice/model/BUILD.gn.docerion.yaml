@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Search engine choice model GN build definition
+summary: Defines the model and unit_tests source sets with their sources, dependencies, and frameworks for the iOS search engine choice model.

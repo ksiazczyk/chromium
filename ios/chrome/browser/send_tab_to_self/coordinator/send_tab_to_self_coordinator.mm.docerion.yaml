@@ -1,0 +1,4 @@
+# Docerion header of send_tab_to_self_coordinator.mm.
+type: source
+title: SendTabToSelfCoordinator implementation
+summary: Implements the send tab to self coordinator, handling device picker presentation, direct send, sign-in flows, and dialog dismissal.

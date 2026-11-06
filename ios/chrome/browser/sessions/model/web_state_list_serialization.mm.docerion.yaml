@@ -1,0 +1,4 @@
+# Docerion header of web_state_list_serialization.mm.
+type: source
+title: WebStateList serialization implementation
+summary: Implements saving and restoring WebStateList metadata, filtering out empty, duplicate and NTP tabs while handling tab groups and pinned tabs.

@@ -1,0 +1,4 @@
+# Docerion header of search_engine_current_default_pill_view.mm.
+type: source
+title: Current default search engine pill view implementation
+summary: Implements the pill view with a caption label, fully rounded border, and dark mode trait updates.

@@ -1,0 +1,4 @@
+# Docerion header of search_with_mediator.mm.
+type: source
+title: SearchWithMediator implementation
+summary: Implements the search-with mediator, covering edit menu actions, the selection character limit, and usage metrics logging.

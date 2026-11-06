@@ -1,0 +1,4 @@
+# Docerion header of send_tab_to_self_util.mm.
+type: source
+title: Send Tab to Self utility functions implementation
+summary: Implements Send Tab to Self helpers that check entry point eligibility, build open-tab commands, and extract or fill form fields via autofill.

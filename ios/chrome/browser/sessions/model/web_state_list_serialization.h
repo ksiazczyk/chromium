@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebStateList serialization interface
+// summary: Declares functions to serialize a WebStateList's metadata to proto storage and restore it, with a factory callback for creating WebStates.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SESSIONS_MODEL_WEB_STATE_LIST_SERIALIZATION_H_
 #define IOS_CHROME_BROWSER_SESSIONS_MODEL_WEB_STATE_LIST_SERIALIZATION_H_
 

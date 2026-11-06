@@ -1,0 +1,4 @@
+# Docerion header of search_engine_choice_coordinator.mm.
+type: source
+title: Search engine choice coordinator implementation
+summary: Presents the search engine choice screen, handles first run integration, learn more popup, dismissal and metrics logging.

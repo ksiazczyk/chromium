@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Live tab context browser agent header
+// summary: Declares LiveTabContextBrowserAgent, a sessions::LiveTabContext backed by the attached browser's WebStateList for session restoration.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SESSIONS_MODEL_LIVE_TAB_CONTEXT_BROWSER_AGENT_H_
 #define IOS_CHROME_BROWSER_SESSIONS_MODEL_LIVE_TAB_CONTEXT_BROWSER_AGENT_H_
 

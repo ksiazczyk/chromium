@@ -1,0 +1,4 @@
+# Docerion header of segmentation_platform_service_factory.mm.
+type: source
+title: Segmentation platform service factory implementation
+summary: Creates the per-profile SegmentationPlatformService, wiring input delegates, dispatchers, and the home module registry.

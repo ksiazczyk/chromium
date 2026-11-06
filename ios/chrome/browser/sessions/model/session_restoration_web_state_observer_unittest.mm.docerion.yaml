@@ -1,0 +1,4 @@
+# Docerion header of session_restoration_web_state_observer_unittest.mm.
+type: test
+title: Session restoration WebState observer unit tests
+summary: Unit tests for the per-WebState dirty tracking using fake WebStates, fake navigation managers and mocked scroll view proxies.

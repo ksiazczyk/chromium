@@ -1,0 +1,4 @@
+# Docerion header of search_engine_choice_service_factory.mm.
+type: source
+title: Search engine choice service factory implementation
+summary: Builds the search engine choice service with its iOS dependencies and registers its profile preferences.

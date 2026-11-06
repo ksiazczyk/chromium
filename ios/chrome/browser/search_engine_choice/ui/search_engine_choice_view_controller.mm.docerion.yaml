@@ -1,0 +1,4 @@
+# Docerion header of search_engine_choice_view_controller.mm.
+type: source
+title: Search engine choice view controller implementation
+summary: Implements the search engine choice screen UI, including logo, title, search engine buttons, and a floating Set as Default button.

@@ -1,0 +1,4 @@
+# Docerion header of search_engine_choice_util.mm.
+type: source
+title: Search engine choice utility implementation
+summary: Decides whether to display the choice screen, honoring command-line flags, test hooks, provider settings, and triggering conditions.

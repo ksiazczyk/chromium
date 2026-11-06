@@ -1,0 +1,4 @@
+# Docerion header of extension_search_engine_data_updater.mm.
+type: source
+title: Extension search engine data updater implementation
+summary: Updates shared defaults with search-by-image support and Google default engine state, refreshing widget timelines when enabled.

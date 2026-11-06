@@ -1,0 +1,4 @@
+# Docerion header of session_saving_scene_agent.mm.
+type: source
+title: Session saving scene agent implementation
+summary: Saves sessions for the regular and incognito profiles when the scene moves to background or disconnects after being active.

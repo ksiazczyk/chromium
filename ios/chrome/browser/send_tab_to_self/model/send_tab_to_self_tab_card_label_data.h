@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Send Tab to Self tab card label data header
+// summary: Declares WebState user data holding tab card label metadata such as the sender device name, with expiry handling and activation metrics.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SEND_TAB_TO_SELF_MODEL_SEND_TAB_TO_SELF_TAB_CARD_LABEL_DATA_H_
 #define IOS_CHROME_BROWSER_SEND_TAB_TO_SELF_MODEL_SEND_TAB_TO_SELF_TAB_CARD_LABEL_DATA_H_
 

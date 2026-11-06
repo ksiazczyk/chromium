@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Search engines model GN build targets
+summary: Defines GN source sets and dependencies for the iOS search engines model code, the extension data updater, and its unit tests.

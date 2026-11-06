@@ -1,0 +1,4 @@
+# Docerion header of search_engine_choice_ui_util.mm.
+type: source
+title: Search engine choice UI utility functions
+summary: Provides helpers to resolve search engine favicons from TemplateURL data, using built-in resources or a favicon loader depending on the region.

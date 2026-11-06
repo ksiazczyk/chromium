@@ -1,0 +1,4 @@
+# Docerion header of search_engine_choice_learn_more_view_controller.mm.
+type: source
+title: Search engine choice learn more view controller implementation
+summary: Implements the learn more screen, building styled attributed paragraphs with bold text and wiring up metrics and keyboard commands.

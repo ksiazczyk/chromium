@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Snippet search engine element header
+// summary: Declares the model object holding a search engine's name, snippet, favicon, keyword, and current default state for the choice button.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SEARCH_ENGINE_CHOICE_UI_SNIPPET_SEARCH_ENGINE_ELEMENT_H_
 #define IOS_CHROME_BROWSER_SEARCH_ENGINE_CHOICE_UI_SNIPPET_SEARCH_ENGINE_ELEMENT_H_
 

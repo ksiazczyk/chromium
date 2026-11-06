@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for Send Tab to Self Earl Grey tests
+summary: Defines the eg2_tests source set that builds the Send Tab to Self coordinator Earl Grey tests and lists their dependencies.

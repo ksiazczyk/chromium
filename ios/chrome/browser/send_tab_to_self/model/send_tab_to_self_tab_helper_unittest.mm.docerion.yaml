@@ -1,0 +1,4 @@
+# Docerion header of send_tab_to_self_tab_helper_unittest.mm.
+type: test
+title: Send Tab to Self tab helper unit tests
+summary: Unit tests for the tab helper covering user data cleanup, failed page loads, and scroll position restoration.

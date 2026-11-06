@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SearchWithMediator interface
+// summary: Declares the mediator that connects browser container views with search-with tab helpers, including its initializer, shutdown, and scene command handler.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SEARCH_WITH_UI_BUNDLED_SEARCH_WITH_MEDIATOR_H_
 #define IOS_CHROME_BROWSER_SEARCH_WITH_UI_BUNDLED_SEARCH_WITH_MEDIATOR_H_
 

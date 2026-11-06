@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the learn more view controller
+summary: Grants the view controller implementation permission to include the Chrome keyboard UIKeyCommand header.

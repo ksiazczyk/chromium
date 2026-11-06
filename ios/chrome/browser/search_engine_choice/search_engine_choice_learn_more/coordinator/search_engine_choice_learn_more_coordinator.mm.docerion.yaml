@@ -1,0 +1,4 @@
+# Docerion header of search_engine_choice_learn_more_coordinator.mm.
+type: source
+title: Search engine choice Learn More coordinator implementation
+summary: Implements presentation of the Learn More popup as a form sheet, adapting its size outside the First Run Experience and notifying the delegate on dismissal.

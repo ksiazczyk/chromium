@@ -1,0 +1,4 @@
+# Docerion header of search_with_mediator_unittest.mm.
+type: test
+title: Search with mediator unit tests
+summary: Unit tests for SearchWithMediator covering default search engine handling, feature flags, and scene command dispatch using mocks and test profiles.

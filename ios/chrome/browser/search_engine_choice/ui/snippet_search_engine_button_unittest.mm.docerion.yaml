@@ -1,0 +1,4 @@
+# Docerion header of snippet_search_engine_button_unittest.mm.
+type: test
+title: Snippet search engine button unit tests
+summary: Tests that the button's string properties are copied rather than retained when set.

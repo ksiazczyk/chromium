@@ -1,0 +1,4 @@
+# Docerion header of search_engine_choice_triggering_service_factory.mm.
+type: source
+title: Search engine choice triggering service factory implementation
+summary: Builds the triggering service per profile, recording profile load eligibility and skipping creation when the profile is ineligible.

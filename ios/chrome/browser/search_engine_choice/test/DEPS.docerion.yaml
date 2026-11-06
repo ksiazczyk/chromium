@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for search engine choice tests
+summary: Grants the search engine choice tests access to settings UI constants and table view controller headers.

@@ -1,0 +1,4 @@
+# Docerion header of send_tab_to_self_mediator.mm.
+type: source
+title: SendTabToSelfMediator implementation
+summary: Implements the send tab to self mediator, observing identity changes to refresh the view or stop the feature when the user signs out.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SearchEngineJavaScriptFeature header
+// summary: Declares the JavaScript feature and delegate interface that receive search engine and searchable URL messages from injected web page scripts.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SEARCH_ENGINES_MODEL_SEARCH_ENGINE_JAVA_SCRIPT_FEATURE_H_
 #define IOS_CHROME_BROWSER_SEARCH_ENGINES_MODEL_SEARCH_ENGINE_JAVA_SCRIPT_FEATURE_H_
 

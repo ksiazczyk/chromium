@@ -1,0 +1,4 @@
+# Docerion header of send_tab_to_self_text_fragment_selector_generator_unittest.mm.
+type: test
+title: Send Tab to Self text fragment selector generator unit tests
+summary: Unit tests for the text fragment generator, covering successful generation from a scrolled viewport and the page-not-scrolled status.

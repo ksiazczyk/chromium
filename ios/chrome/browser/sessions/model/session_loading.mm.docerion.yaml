@@ -1,0 +1,4 @@
+# Docerion header of session_loading.mm.
+type: source
+title: Session loading implementation
+summary: Implements session storage loading, building an order controller source from stored metadata and reading session files from disk.

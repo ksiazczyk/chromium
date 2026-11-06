@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension search engine data updater header
+// summary: Declares an observer that writes default search provider data to shared defaults for extensions.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SEARCH_ENGINES_MODEL_EXTENSION_SEARCH_ENGINE_DATA_UPDATER_H_
 #define IOS_CHROME_BROWSER_SEARCH_ENGINES_MODEL_EXTENSION_SEARCH_ENGINE_DATA_UPDATER_H_
 

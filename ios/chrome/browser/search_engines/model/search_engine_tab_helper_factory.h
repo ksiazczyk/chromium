@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SearchEngineTabHelperFactory header
+// summary: Declares the singleton delegate that routes JavaScript feature messages to the SearchEngineTabHelper attached to each WebState.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SEARCH_ENGINES_MODEL_SEARCH_ENGINE_TAB_HELPER_FACTORY_H_
 #define IOS_CHROME_BROWSER_SEARCH_ENGINES_MODEL_SEARCH_ENGINE_TAB_HELPER_FACTORY_H_
 

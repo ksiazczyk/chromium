@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UkmDatabaseClient header
+// summary: Declares the UkmDatabaseClient and UkmDatabaseClientHolder classes that provide UKM data manager and observer functionality to the iOS segmentation platform service.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SEGMENTATION_PLATFORM_MODEL_UKM_DATABASE_CLIENT_H_
 #define IOS_CHROME_BROWSER_SEGMENTATION_PLATFORM_MODEL_UKM_DATABASE_CLIENT_H_
 

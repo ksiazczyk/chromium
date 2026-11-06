@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search engine choice Learn More coordinator header
+// summary: Declares the coordinator for the 'Why am I seeing this' search engine choice popup, its delegate protocol and the firstRun property.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SEARCH_ENGINE_CHOICE_SEARCH_ENGINE_CHOICE_LEARN_MORE_COORDINATOR_SEARCH_ENGINE_CHOICE_LEARN_MORE_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_SEARCH_ENGINE_CHOICE_SEARCH_ENGINE_CHOICE_LEARN_MORE_COORDINATOR_SEARCH_ENGINE_CHOICE_LEARN_MORE_COORDINATOR_H_
 

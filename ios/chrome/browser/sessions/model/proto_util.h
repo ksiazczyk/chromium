@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Protobuf comparison operators header
+// summary: Declares comparison operators for session storage protobuf messages so EXPECT_EQ and similar macros can use them via argument-dependent lookup.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SESSIONS_MODEL_PROTO_UTIL_H_
 #define IOS_CHROME_BROWSER_SESSIONS_MODEL_PROTO_UTIL_H_
 

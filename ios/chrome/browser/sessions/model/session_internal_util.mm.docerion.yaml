@@ -1,0 +1,4 @@
+# Docerion header of session_internal_util.mm.
+type: source
+title: Session internal utility implementation
+summary: Implements the session file helpers with NSFileManager, including recursive directory copy via hard links and protobuf file writes with protection.

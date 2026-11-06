@@ -1,0 +1,4 @@
+# Docerion header of send_tab_to_self_tab_card_label_data.mm.
+type: source
+title: Send Tab to Self tab card label data implementation
+summary: Implements tab card label data that matches unviewed tabs to sync entries, expires labels after five days, and logs activation metrics.

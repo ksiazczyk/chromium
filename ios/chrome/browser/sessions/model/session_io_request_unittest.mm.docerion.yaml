@@ -1,0 +1,4 @@
+# Docerion header of session_io_request_unittest.mm.
+type: test
+title: Session IO request unit tests
+summary: Unit tests verifying that session IO requests write, copy, and delete files and directories correctly when executed.

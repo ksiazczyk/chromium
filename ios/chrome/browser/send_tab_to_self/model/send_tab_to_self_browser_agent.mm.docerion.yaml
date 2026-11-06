@@ -1,0 +1,4 @@
+# Docerion header of send_tab_to_self_browser_agent.mm.
+type: source
+title: Send Tab to Self browser agent implementation
+summary: Implements the iOS browser agent that shares tabs to other devices and shows post-send snackbars, infobars, and haptic feedback.

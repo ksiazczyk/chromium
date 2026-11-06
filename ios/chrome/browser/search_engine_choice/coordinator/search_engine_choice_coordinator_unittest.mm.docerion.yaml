@@ -1,0 +1,4 @@
+# Docerion header of search_engine_choice_coordinator_unittest.mm.
+type: test
+title: Search engine choice coordinator unit tests
+summary: Unit tests verifying coordinator setup, dismissal and metrics using mocked services and delegates.

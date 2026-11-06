@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake tab restore service for tests
+// summary: Declares a fake TabRestoreService that stores and returns tab entries for use in tests.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SESSIONS_MODEL_FAKE_TAB_RESTORE_SERVICE_H_
 #define IOS_CHROME_BROWSER_SESSIONS_MODEL_FAKE_TAB_RESTORE_SERVICE_H_
 

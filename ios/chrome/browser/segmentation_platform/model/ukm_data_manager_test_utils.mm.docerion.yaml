@@ -1,0 +1,4 @@
+# Docerion header of ukm_data_manager_test_utils.mm.
+type: test
+title: UKM data manager test utilities implementation
+summary: Implements UKM test setup that records page loads, runs SQL queries, and installs model overrides.

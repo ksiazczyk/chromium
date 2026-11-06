@@ -1,0 +1,4 @@
+# Docerion header of template_url_service_factory.mm.
+type: source
+title: TemplateURLServiceFactory implementation
+summary: Builds TemplateURLService instances per profile, wiring history, web data, search engine choice, prepopulate resolver, and metrics dependencies.

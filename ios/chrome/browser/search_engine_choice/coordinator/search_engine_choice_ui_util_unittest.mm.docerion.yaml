@@ -1,0 +1,4 @@
+# Docerion header of search_engine_choice_ui_util_unittest.mm.
+type: test
+title: Search engine choice UI util unit test
+summary: Unit tests verifying that GetResourceIdFromTemplateURL maps search engines such as Google and Bing to the correct resource IDs, depending on whether built-in search provider assets are enabled.

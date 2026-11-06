@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Snippet search engine button header
+// summary: Declares the choice screen button showing one search engine with favicon, name, snippet, radio button, and chevron.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SEARCH_ENGINE_CHOICE_UI_SNIPPET_SEARCH_ENGINE_BUTTON_H_
 #define IOS_CHROME_BROWSER_SEARCH_ENGINE_CHOICE_UI_SNIPPET_SEARCH_ENGINE_BUTTON_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of snippet_search_engine_text_view.mm.
+type: source
+title: Snippet search engine text view implementation
+summary: Implements the snippet search engine text view layout, adding the current-default pill view, name label, and expandable snippet with state-dependent constraints.

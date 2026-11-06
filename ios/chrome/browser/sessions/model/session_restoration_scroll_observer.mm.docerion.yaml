@@ -1,0 +1,4 @@
+# Docerion header of session_restoration_scroll_observer.mm.
+type: source
+title: Session restoration scroll observer implementation
+summary: Implements SessionRestorationScrollObserver, running its closure on web view drag and zoom end events and ignoring events after shutdown is called.

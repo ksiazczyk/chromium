@@ -1,0 +1,4 @@
+# Docerion header of ios_chrome_tab_restore_service_client.mm.
+type: source
+title: iOS Chrome tab restore service client implementation
+summary: Implements the iOS tab restore service client that locates LiveTabContexts for tabs, session IDs, and decides which URLs are tracked for restore.

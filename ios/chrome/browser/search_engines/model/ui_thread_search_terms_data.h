@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UIThreadSearchTermsData header
+// summary: Declares a SearchTermsData implementation that is only usable on the UI thread.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SEARCH_ENGINES_MODEL_UI_THREAD_SEARCH_TERMS_DATA_H_
 #define IOS_CHROME_BROWSER_SEARCH_ENGINES_MODEL_UI_THREAD_SEARCH_TERMS_DATA_H_
 

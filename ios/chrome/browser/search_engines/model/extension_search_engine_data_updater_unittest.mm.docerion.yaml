@@ -1,0 +1,4 @@
+# Docerion header of extension_search_engine_data_updater_unittest.mm.
+type: test
+title: Extension search engine data updater unit tests
+summary: Verifies that search-by-image support and Google default engine flags are correctly stored in shared defaults.

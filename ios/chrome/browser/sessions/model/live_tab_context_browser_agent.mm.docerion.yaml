@@ -1,0 +1,4 @@
+# Docerion header of live_tab_context_browser_agent.mm.
+type: source
+title: Live tab context browser agent implementation
+summary: Implements LiveTabContextBrowserAgent, exposing tab counts, session IDs, and restored tab handling while stubbing features unsupported on iOS.

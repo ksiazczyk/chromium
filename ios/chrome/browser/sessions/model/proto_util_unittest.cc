@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for session protobuf equality operators
+// summary: Verifies the equality and inequality operators for OpenerStorage, WebStateListItemStorage, and WebStateListStorage protobuf messages.
+// ---
+
 #include "ios/chrome/browser/sessions/model/proto_util.h"
 
 #include <optional>

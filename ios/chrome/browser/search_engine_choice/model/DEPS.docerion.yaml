@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for search engine choice model
+summary: Restricts the headers that the search engine choice model directory is allowed to include from other areas.

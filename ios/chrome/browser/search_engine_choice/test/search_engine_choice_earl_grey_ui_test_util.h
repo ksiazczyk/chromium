@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Search engine choice Earl Grey UI test utility header
+// summary: Declares the SearchEngineChoiceEarlGreyUI interface with helpers to select, confirm, and verify the search engine choice screen and settings.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SEARCH_ENGINE_CHOICE_TEST_SEARCH_ENGINE_CHOICE_EARL_GREY_UI_TEST_UTIL_H_
 #define IOS_CHROME_BROWSER_SEARCH_ENGINE_CHOICE_TEST_SEARCH_ENGINE_CHOICE_EARL_GREY_UI_TEST_UTIL_H_
 

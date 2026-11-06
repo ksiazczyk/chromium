@@ -1,0 +1,4 @@
+# Docerion header of session_restoration_scroll_observer_unittest.mm.
+type: test
+title: Session restoration scroll observer unit tests
+summary: Unit tests verifying that the scroll observer invokes its closure on drag and zoom end events and stops calling it after shutdown.

@@ -1,0 +1,4 @@
+# Docerion header of segmentation_platform_config.mm.
+type: source
+title: Segmentation platform config implementation
+summary: Assembles segmentation configs for default models such as feed, shopping, and home module rankers.

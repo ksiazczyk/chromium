@@ -1,0 +1,4 @@
+# Docerion header of segmentation_platform_service_factory_unittest.mm.
+type: test
+title: Segmentation platform service factory unit tests
+summary: Tests service creation and ephemeral home module signals such as price tracking, send tab, and Lens.

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Send Tab to Self model DEPS
+summary: Specifies the allowed include directories for the Send Tab to Self model folder.

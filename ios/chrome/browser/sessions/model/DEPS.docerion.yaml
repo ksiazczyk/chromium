@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for sessions model
+summary: Restricts allowed includes for the directory and grants specific exceptions to individual files.

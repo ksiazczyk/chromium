@@ -1,0 +1,4 @@
+# Docerion header of session_restoration_web_state_list_observer_unittest.mm.
+type: test
+title: Session restoration WebStateList observer unit tests
+summary: Unit tests verifying dirty-state tracking of the WebStateList observer across insert, detach, replace and serialization scenarios.

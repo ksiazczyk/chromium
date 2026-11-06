@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for the search with UI
+summary: GN build file defining the ui_bundled source set along with its unit test and Earl Grey test targets and their dependencies.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SendTabToSelfCoordinatorDelegate protocol
+// summary: Declares the delegate protocol that lets the send tab to self coordinator request being stopped.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SEND_TAB_TO_SELF_COORDINATOR_SEND_TAB_TO_SELF_COORDINATOR_DELEGATE_H_
 #define IOS_CHROME_BROWSER_SEND_TAB_TO_SELF_COORDINATOR_SEND_TAB_TO_SELF_COORDINATOR_DELEGATE_H_
 
