@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Set the restriction on the fetching of the Variations seed
+# summary: ChromeOS device policy that adds a restrict query parameter to the Variations seed fetch URL when a value is specified.
+# ---
+
 caption: Set the restriction on the fetching of the Variations seed
 desc: |-
   Add a parameter to the fetching of the Variations seed in <ph name="PRODUCT_OS_NAME">$2<ex>Google ChromeOS</ex></ph>.

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Force Google SafeSearch
+# summary: Defines the Chrome policy that always enforces SafeSearch in Google Search and prevents users from changing the setting.
+# ---
+
 caption: Force Google SafeSearch
 desc: |-
   Setting the policy to Enabled means SafeSearch in Google Search is always active, and users can't change this setting.

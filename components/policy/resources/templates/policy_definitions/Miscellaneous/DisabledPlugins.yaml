@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Specify a list of disabled plugins
+# summary: Deprecated list policy naming plugins disabled in the browser, replaced by DefaultPluginsSetting and AlwaysOpenPdfExternally.
+# ---
+
 caption: Specify a list of disabled plugins
 deprecated: true
 desc: |-

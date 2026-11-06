@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: FullRestoreEnabled policy definition
+# summary: ChromeOS policy that enables or disables the full restore feature for apps and app windows after a crash or reboot.
+# ---
+
 caption: Enable the full restore feature
 default: true
 desc: |-

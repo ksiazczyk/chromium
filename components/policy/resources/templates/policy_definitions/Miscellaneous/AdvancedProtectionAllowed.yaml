@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: AdvancedProtectionAllowed policy
+# summary: Policy definition enabling extra protections, including download scanning by Google, for users enrolled in the Advanced Protection program.
+# ---
+
 caption: Enable additional protections for users enrolled in the Advanced Protection
   program
 default: true

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Allow blocking copying to the clipboard on specified URLs
+# summary: Defines the deprecated Chrome policy that blocks clipboard copies on specified URLs via enable and disable lists, to be replaced by DataControlsRules.
+# ---
+
 caption: Allows blocking copying to the clipboard on specified URLs
 deprecated: true
 desc: |-

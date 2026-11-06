@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Allowed languages in a user session
+# summary: Defines the ChromeOS policy that restricts which languages users can add as preferred languages, removing disallowed entries and switching the display language at next sign-in.
+# ---
+
 caption: Configure the allowed languages in a user session
 desc: |-
   Setting the policy lets users add only one of the languages listed in this policy to the list of preferred languages.

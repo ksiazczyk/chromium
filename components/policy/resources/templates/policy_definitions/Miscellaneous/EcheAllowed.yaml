@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: EcheAllowed policy definition
+# summary: Policy definition that allows or blocks launching the Eche application from Phone Hub notifications on ChromeOS.
+# ---
+
 caption: Allow Eche to be enabled.
 default: true
 desc: |-

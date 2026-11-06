@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: BrowserGuestModeEnforced Chrome policy definition
+# summary: Defines the Chrome policy that enforces guest sessions and prevents profile sign-ins.
+# ---
+
 caption: Enforce browser guest mode
 desc: |-
   Setting the policy to Enabled means <ph name="PRODUCT_NAME">$1<ex>Google Chrome</ex></ph> enforces guest sessions and prevents profile sign-ins. Guest sign-ins are <ph name="PRODUCT_NAME">$1<ex>Google Chrome</ex></ph> profiles where windows are in Incognito mode.

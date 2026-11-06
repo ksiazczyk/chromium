@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: ChromeAppsEnabled policy definition
+# summary: Defines the deprecated Chrome Apps policy that extends Chrome Apps support on Windows, macOS, and Linux until June 2022.
+# ---
+
 caption: Extend support for Chrome Apps on <ph name="MS_WIN_NAME">Microsoft® Windows®</ph>,
   <ph name="MAC_OS_NAME">macOS</ph>, and <ph name="LINUX_OS_NAME">Linux</ph>.
 default: false

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: EnabledPlugins policy definition
+# summary: Deprecated Chrome policy that lists plugins forced to be enabled, superseded by DefaultPluginsSetting and AlwaysOpenPdfExternally.
+# ---
+
 caption: Specify a list of enabled plugins
 deprecated: true
 desc: |-

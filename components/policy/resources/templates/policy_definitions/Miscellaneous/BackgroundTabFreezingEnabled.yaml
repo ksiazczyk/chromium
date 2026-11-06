@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Enable background tab freezing
+# summary: Defines the Chrome policy that freezes inactive background tabs to save CPU and memory, with exemptions for tabs running active tasks.
+# ---
+
 caption: Enable background tab freezing
 default: null
 desc: |-

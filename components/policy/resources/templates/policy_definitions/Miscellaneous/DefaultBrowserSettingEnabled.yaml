@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Set Chrome as default browser policy
+# summary: Defines the policy controlling whether Chrome checks on startup that it is the default browser and registers itself, or leaves the choice to users.
+# ---
+
 caption: Set <ph name="PRODUCT_NAME">$1<ex>Google Chrome</ex></ph> as Default Browser
 desc: |-
   Setting the policy to True has <ph name="PRODUCT_NAME">$1<ex>Google Chrome</ex></ph> always check whether it's the default browser on startup and, if possible, automatically register itself. Setting the policy to False stops <ph name="PRODUCT_NAME">$1<ex>Google Chrome</ex></ph> from ever checking if it's the default and turns user controls off for this option.

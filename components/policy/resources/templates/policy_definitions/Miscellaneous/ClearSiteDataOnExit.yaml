@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: ClearSiteDataOnExit policy definition
+# summary: Deprecated Chrome policy definition that cleared browsing site data on browser shutdown, retired since Chrome version 29.
+# ---
+
 caption: Clear site data on browser shutdown (deprecated)
 deprecated: true
 desc: This policy has been retired as of <ph name="PRODUCT_NAME">$1<ex>Google Chrome</ex></ph>

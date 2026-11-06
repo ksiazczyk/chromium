@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: URLs granted audio capture access without prompt
+# summary: Policy listing URL patterns that get access to audio capture devices without prompting the user.
+# ---
+
 caption: URLs that will be granted access to audio capture devices without prompt
 desc: |-
   Setting the policy means you specify the URL list whose patterns get matched to the security origin of the requesting URL. A match grants access to audio capture devices without prompt

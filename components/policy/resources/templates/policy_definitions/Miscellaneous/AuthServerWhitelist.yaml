@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Authentication server allowlist (deprecated)
+# summary: Deprecated policy listing authentication servers for integrated authentication, replaced by the AuthServerAllowlist policy.
+# ---
+
 caption: Authentication server allowlist
 deprecated: true
 desc: This policy is deprecated and unsupported, please use the '<ph name="AUTH_SERVER_ALLOWLIST_POLICY_NAME">AuthServerAllowlist</ph>' policy instead.

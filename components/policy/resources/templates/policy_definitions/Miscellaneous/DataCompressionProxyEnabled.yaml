@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Enable the data compression proxy feature
+# summary: Deprecated Android Chrome policy that allowed or disallowed the data compression proxy, leaving the choice to users when unset.
+# ---
+
 caption: Enable the data compression proxy feature
 deprecated: true
 desc: |-

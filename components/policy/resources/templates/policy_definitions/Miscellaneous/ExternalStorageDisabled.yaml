@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: External Storage Disabled Policy
+# summary: ChromeOS policy that, when set to true, makes external storage media such as USB drives, memory cards, and optical storage unavailable in the file browser.
+# ---
+
 caption: Disable mounting of external storage
 desc: |-
   Setting the policy to True makes all types of external storage media (USB flash drives, external hard drives, SD and other memory cards, optical storage) unavailable in the file browser. Setting the policy to False or leaving it unset means users can use external storage on their device.

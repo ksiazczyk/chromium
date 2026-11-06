@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Abusive Experience Intervention Enforce policy
+# summary: Policy definition controlling whether sites with abusive experiences may open new windows or tabs in Chrome.
+# ---
+
 caption: Abusive Experience Intervention Enforce
 default: true
 desc: |-

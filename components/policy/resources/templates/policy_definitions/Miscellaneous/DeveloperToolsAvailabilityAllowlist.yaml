@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DeveloperToolsAvailabilityAllowlist policy definition
+# summary: Defines the Chrome policy listing URL patterns for which Chrome DevTools may be opened, taking precedence over the blocklist and falling back to DeveloperToolsAvailability.
+# ---
+
 caption: List of URL patterns for which <ph name="CHROME_DEVTOOLS_NAME">Chrome DevTools</ph> are allowed to be opened
 desc: |-
   This policy can be used to allow <ph name="CHROME_DEVTOOLS_NAME">Chrome DevTools</ph> on specific URLs.

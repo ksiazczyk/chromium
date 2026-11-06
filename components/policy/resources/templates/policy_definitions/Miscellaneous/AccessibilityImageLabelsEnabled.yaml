@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: AccessibilityImageLabelsEnabled policy
+# summary: Policy definition for the Get Image Descriptions from Google feature that gives screen reader users automatic descriptions of unlabeled images.
+# ---
+
 caption: Enable <ph name="PRODUCT_NAME">Get Image Descriptions from Google</ph>.
 default: null
 desc: "The <ph name=\"PRODUCT_NAME\">Get Image Descriptions from Google</ph>\n   \

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Allow Back/Forward Cache for WebSockets
+# summary: Defines the deprecated Chrome policy controlling whether active WebSocket connections are disconnected when a page enters back/forward cache.
+# ---
+
 caption: Allow Back/Forward Cache for WebSockets
 deprecated: true
 desc: |-

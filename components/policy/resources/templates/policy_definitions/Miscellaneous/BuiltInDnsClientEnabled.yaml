@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: BuiltInDnsClientEnabled Chrome policy definition
+# summary: Defines the policy choosing between the OS DNS client and Chrome's built-in DNS client.
+# ---
+
 caption: Use built-in DNS client
 default: null
 desc: |-

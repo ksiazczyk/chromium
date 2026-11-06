@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: ChromeDataRegionSetting policy definition
+# summary: Defines the cloud-only policy choosing the geographic region where covered Chrome Enterprise data is stored.
+# ---
+
 caption: Set the data regions preference for data storage
 desc: |-
   Choose to store your users' covered Chrome Enterprise data in a specific geographic location.

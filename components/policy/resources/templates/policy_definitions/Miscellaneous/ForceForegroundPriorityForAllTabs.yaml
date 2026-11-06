@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Force foreground priority for all tabs
+# summary: Defines the Chrome policy that forces background web content in all tabs to run at foreground priority instead of being deprioritized.
+# ---
+
 caption: Force foreground priority for all tabs
 desc: |-
   This policy controls whether background web content is forced to run at

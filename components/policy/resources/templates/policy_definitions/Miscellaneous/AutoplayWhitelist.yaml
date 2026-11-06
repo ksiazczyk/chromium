@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: AutoplayWhitelist policy definition
+# summary: Deprecated and unsupported autoplay URL allowlist policy, replaced by AutoplayAllowlist.
+# ---
+
 caption: Allow media autoplay on a allowlist of URL patterns
 deprecated: true
 desc: This policy is deprecated and unsupported, please use the '<ph name="AUTOPLAY_ALLOWLIST_POLICY_NAME">AutoplayAllowlist</ph>' policy instead.

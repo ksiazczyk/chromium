@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Allowed domains for Google Workspace (string policy)
+# summary: Defines the string-valued Chrome policy that restricts Google Workspace sign-in to accounts from specified domains by appending the X-GoogApps-Allowed-Domains header to google.com requests.
+# ---
+
 caption: Define domains allowed to access <ph name="GOOGLE_WORKSPACE_PRODUCT_NAME">Google
   Workspace</ph>
 desc: |-

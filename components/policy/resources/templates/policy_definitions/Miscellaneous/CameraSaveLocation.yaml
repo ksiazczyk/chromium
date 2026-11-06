@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Camera app save location policy definition
+# summary: Defines the ChromeOS policy setting the directory, including Google Drive or OneDrive paths, where the Camera app saves photos and videos.
+# ---
+
 caption: Set location to save Camera app photos.
 desc: |-
   Sets the directory where pictures and videos captured by the camera are being saved.

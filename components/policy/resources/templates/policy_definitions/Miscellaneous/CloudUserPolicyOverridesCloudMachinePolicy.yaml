@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: CloudUserPolicyOverridesCloudMachinePolicy policy definition
+# summary: Chrome policy definition allowing user cloud policies from secure users to override Chrome Browser Cloud Management machine policies.
+# ---
+
 caption: Allow user cloud policies to override <ph name="CHROME_BROWSER_CLOUD_MANAGEMENT_NAME">Chrome
   Browser Cloud Management</ph> policies.
 default: false

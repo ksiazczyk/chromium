@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Controls visibility of enterprise profile badge in the toolbar
+# summary: Defines the EnterpriseProfileBadgeToolbarSettings policy controlling whether the Work or School enterprise badge appears in the toolbar for managed profiles.
+# ---
+
 caption: Controls visibility of enterprise profile badge in the toolbar
 default: 0
 desc: |-

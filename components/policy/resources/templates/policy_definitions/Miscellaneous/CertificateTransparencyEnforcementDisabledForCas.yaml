@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Certificate Transparency exemption for CAs policy definition
+# summary: Defines the list policy disabling Certificate Transparency enforcement for specified subjectPublicKeyInfo hashes so enterprise certificates remain trusted.
+# ---
+
 caption: Disable Certificate Transparency enforcement for a list of subjectPublicKeyInfo
   hashes
 desc: |-

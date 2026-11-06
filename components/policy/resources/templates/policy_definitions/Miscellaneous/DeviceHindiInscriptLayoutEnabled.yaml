@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DeviceHindiInscriptLayoutEnabled policy definition
+# summary: ChromeOS device policy that enables the Hindi Inscript keyboard layout device-wide, requiring a reboot to take effect.
+# ---
+
 caption: Enable the Hindi Inscript Layout device wide.
 default: false
 desc: |-

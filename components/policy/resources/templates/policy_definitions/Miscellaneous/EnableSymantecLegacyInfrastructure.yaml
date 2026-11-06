@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Symantec legacy PKI trust policy
+# summary: Deprecated policy definition that temporarily allowed trust in certificates issued by Symantec Corporation's legacy PKI operations.
+# ---
+
 caption: Enable trust in Symantec Corporation's Legacy PKI Infrastructure
 deprecated: true
 desc: |-

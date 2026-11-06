@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: SHA-1 for local anchors policy
+# summary: Deprecated policy definition that temporarily allowed SHA-1 signed certificates chaining to locally installed CA certificates as a transition workaround.
+# ---
+
 caption: Allow SHA-1 signed certificates issued by local trust anchors
 deprecated: true
 desc: |-

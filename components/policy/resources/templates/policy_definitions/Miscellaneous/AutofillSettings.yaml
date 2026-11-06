@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: AutofillSettings policy definition
+# summary: Blocks specific Autofill data types such as payments or contact info on given URL patterns.
+# ---
+
 caption: Block Autofill data types for specific sites
 default: []
 desc: |-

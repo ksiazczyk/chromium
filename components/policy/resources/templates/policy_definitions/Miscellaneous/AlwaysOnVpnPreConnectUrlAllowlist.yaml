@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: AlwaysOnVpnPreConnectUrlAllowlist policy definition
+# summary: Defines the ChromeOS policy listing URLs users may access while Always-on VPN lockdown is active and the VPN is not yet connected.
+# ---
+
 caption: Allow user browser access to a list of URLs while Always-on VPN is active in strict mode with lockdown enabled and the VPN is not connected
 desc: |-
   Warning: Configuring this policy relaxes the Always-on VPN lockdown before the VPN connects. URL-level filtering is only guaranteed for Chrome browser traffic and does not apply to internal system applications or other traffic types. While this policy is enforced, system traffic can also bypass the Always-on VPN to perform tasks like policy fetches and synchronizing the system clock.

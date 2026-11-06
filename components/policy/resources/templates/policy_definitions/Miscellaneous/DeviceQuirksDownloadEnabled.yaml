@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DeviceQuirksDownloadEnabled policy definition
+# summary: ChromeOS policy controlling whether the device queries the Quirks Server for hardware-specific configuration files such as display profiles.
+# ---
+
 caption: Enable queries to Quirks Server for hardware profiles
 default: true
 desc: |-

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Focus Mode sounds policy
+# summary: ChromeOS policy that controls access to sounds in Focus Mode, allowing all sounds, focus sounds only, or none for managed users.
+# ---
+
 caption: Enable Sounds in Focus Mode for ChromeOS
 default_for_enterprise_users: disabled
 desc: |-

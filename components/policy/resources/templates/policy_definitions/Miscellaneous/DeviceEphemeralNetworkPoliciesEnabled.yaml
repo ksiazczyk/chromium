@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DeviceEphemeralNetworkPoliciesEnabled policy definition
+# summary: ChromeOS device policy that controls whether ephemeral network configuration policies are respected for network settings.
+# ---
+
 caption: Controls the enablement of the EphemeralNetworkPolicies feature
 desc: |-
   This policy controls the enablement of the EphemeralNetworkPolicies feature.

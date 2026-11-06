@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: ForceYouTubeRestrict policy definition
+# summary: Chrome policy that enforces a minimum YouTube Restricted Mode with Off, Moderate, and Strict options for administrators.
+# ---
+
 arc_support: This policy has no effect on the <ph name="ANDROID_NAME">Android</ph> <ph name="YOUTUBE_PRODUCT_NAME">YouTube</ph> app. If Safety Mode
   on <ph name="YOUTUBE_PRODUCT_NAME">YouTube</ph> should be enforced, installation of the <ph name="ANDROID_NAME">Android</ph> <ph name="YOUTUBE_PRODUCT_NAME">YouTube</ph> app should be
   disallowed.

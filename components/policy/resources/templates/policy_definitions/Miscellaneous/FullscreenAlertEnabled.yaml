@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: FullscreenAlertEnabled policy definition
+# summary: ChromeOS policy that controls whether a fullscreen alert is shown when the device returns from sleep or a dark screen.
+# ---
+
 caption: Enable fullscreen alert
 default: null
 desc: |-

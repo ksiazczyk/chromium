@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Allowed domains for Google Workspace (list policy)
+# summary: Defines the list-valued variant of the Chrome policy that restricts Google Workspace access to accounts from specified domains, with the same restricted sign-in behavior as the string version.
+# ---
+
 caption: Define domains allowed to access <ph name="GOOGLE_WORKSPACE_PRODUCT_NAME">Google
   Workspace</ph>
 desc: |-

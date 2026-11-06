@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: CCT ToS dialog first-run policy definition
+# summary: Defines the deprecated CCTToSDialogEnabled policy controlling whether the Terms of Service dialog appears during first run of Chrome Custom Tabs on managed Android devices.
+# ---
+
 caption: Enable ToS during first-run for CCT
 deprecated: true
 desc: |-

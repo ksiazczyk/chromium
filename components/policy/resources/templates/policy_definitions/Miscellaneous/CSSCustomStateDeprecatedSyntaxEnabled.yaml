@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Deprecated CSS custom state syntax policy definition
+# summary: Defines the deprecated policy that re-enables the old :--foo syntax for CSS custom states until M133, after the switch to the :state(foo) syntax.
+# ---
+
 caption: Controls whether the deprecated <ph name="CUSTOM_STATE_DEPRECATED_SYNTAX">:--foo</ph> syntax for CSS custom state is enabled
 desc: |2-
   The <ph name="CUSTOM_STATE_DEPRECATED_SYNTAX">:--foo</ph> syntax for the CSS custom state feature is being changed to <ph name="CUSTOM_STATE_NEW_SYNTAX">:state(foo)</ph> in <ph name="PRODUCT_NAME">$1<ex>Google Chrome</ex></ph> in order to comply with changes that have been made in <ph name="FIREFOX_PRODUCT_NAME">Firefox</ph> and <ph name="SAFARI_PRODUCT_NAME">Safari</ph>. This policy allows the old deprecated syntax to be enabled until M133.

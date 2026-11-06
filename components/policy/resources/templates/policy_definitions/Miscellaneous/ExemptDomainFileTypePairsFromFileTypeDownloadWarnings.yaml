@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Disable extension-based download warnings for file types on domains
+# summary: Defines the ExemptDomainFileTypePairsFromFileTypeDownloadWarnings policy exempting listed file extensions on specified domains from extension-based download warnings.
+# ---
+
 caption: Disable download file type extension-based warnings for specified file types
   on domains
 desc: |-

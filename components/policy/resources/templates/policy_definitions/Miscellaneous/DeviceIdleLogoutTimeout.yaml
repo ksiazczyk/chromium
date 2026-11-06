@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DeviceIdleLogoutTimeout policy definition
+# summary: Deprecated retail-mode ChromeOS policy setting the inactivity timeout in milliseconds before a demo user is automatically logged out.
+# ---
+
 caption: Timeout until idle user log-out is executed
 deprecated: true
 desc: |-

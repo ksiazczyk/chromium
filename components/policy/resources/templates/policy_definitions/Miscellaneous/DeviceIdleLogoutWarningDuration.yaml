@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DeviceIdleLogoutWarningDuration policy definition
+# summary: Deprecated retail-mode ChromeOS policy defining the duration in milliseconds of the countdown warning shown before an idle logout.
+# ---
+
 caption: Duration of the idle log-out warning message
 deprecated: true
 desc: |-

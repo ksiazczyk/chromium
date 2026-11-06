@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: ChromeOsLockOnIdleSuspend policy definition
+# summary: Defines the ChromeOS policy that requires a password to unlock the device after suspend or lid close.
+# ---
+
 caption: Enable lock when the device suspends or the lid is closed
 default: null
 desc: |-

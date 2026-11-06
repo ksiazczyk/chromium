@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: AutofillCreditCardEnabled policy definition
+# summary: Deprecated policy controlling AutoFill for credit cards, replaced by the AutofillSettings policy.
+# ---
+
 caption: Enable AutoFill for credit cards
 deprecated: true
 desc: |-

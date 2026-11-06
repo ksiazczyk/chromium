@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Desk templates policy
+# summary: Defines the policy that allows or blocks users from selecting and using desk template layouts on ChromeOS.
+# ---
+
 caption: Allow users to select a desk template layout to load
 default: false
 desc: Setting the policy to Enabled allows users to use desktop layout templates.  Setting

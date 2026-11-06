@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Captive portal proxy bypass policy definition
+# summary: Defines the ChromeOS policy allowing captive portal authentication pages to open in a separate window that ignores proxy settings and user restrictions.
+# ---
+
 caption: Captive portal authentication ignores proxy
 default_for_enterprise_users: false
 desc: |-

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: BackForwardCacheEnabled policy definition
+# summary: Controls whether the back-forward cache preserves and restores page state during navigation.
+# ---
+
 caption: Control the <ph name="PRODUCT_NAME">BackForwardCache</ph> feature.
 default: true
 desc: "When enabled the <ph name=\"PRODUCT_NAME\">BackForwardCache</ph> feature allows\

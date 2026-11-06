@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Control new behavior for the beforeunload event cancel dialog
+# summary: Defines the deprecated Chrome policy offering a temporary opt-out between new and legacy beforeunload confirmation dialog behavior.
+# ---
+
 caption: Control new behavior for the cancel dialog produced by the beforeunload event
 default: null
 deprecated: true

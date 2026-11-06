@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: External Storage Read Only Policy
+# summary: ChromeOS policy that, when set to true, prevents users from writing to external storage devices while leaving reading and internal storage unaffected.
+# ---
+
 caption: Treat external storage devices as read-only
 desc: |-
   Setting the policy to True prevents users from writing to external storage devices.

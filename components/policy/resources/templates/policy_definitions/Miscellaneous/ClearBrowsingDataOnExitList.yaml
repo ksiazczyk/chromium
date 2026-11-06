@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: ClearBrowsingDataOnExitList policy definition
+# summary: Defines the policy listing browsing data types deleted when all browser windows are closed.
+# ---
+
 caption: Clear Browsing Data on Exit
 desc: |-
   Configures a list of browsing data types that should be deleted when the user closes all browser windows.

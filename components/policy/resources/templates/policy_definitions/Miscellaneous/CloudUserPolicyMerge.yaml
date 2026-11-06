@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: CloudUserPolicyMerge policy definition
+# summary: Chrome policy definition enabling user cloud policies from secure affiliated accounts to be merged into machine-level policies.
+# ---
+
 caption: Enables merging of user cloud policies into machine-level policies
 default: false
 desc: |-

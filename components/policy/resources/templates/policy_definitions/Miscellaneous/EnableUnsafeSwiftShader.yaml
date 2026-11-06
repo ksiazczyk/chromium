@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: EnableUnsafeSwiftShader policy definition
+# summary: Defines the Chrome policy that allows SwiftShader as a temporary software WebGL fallback when hardware GPU acceleration is unavailable.
+# ---
+
 caption: Allow software WebGL fallback using SwiftShader
 desc: |-
   A policy that controls if SwiftShader will be used as a WebGL fallback when hardware GPU acceleration is not available.

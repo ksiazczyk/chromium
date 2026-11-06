@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DynamicPatchingEnabled policy definition
+# summary: Policy definition controlling whether Chrome applies staged security updates to newly launched child processes without a restart.
+# ---
+
 caption: Enable dynamic child module patching
 default: true
 desc: |-

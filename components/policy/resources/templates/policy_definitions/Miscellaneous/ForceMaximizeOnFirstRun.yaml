@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Maximize the first browser window on first run
+# summary: Defines the Chrome OS policy that maximizes the first browser window shown on first run.
+# ---
+
 caption: Maximize the first browser window on first run
 desc: |-
   Setting the policy to True means Chrome maximizes the first window shown on first run.

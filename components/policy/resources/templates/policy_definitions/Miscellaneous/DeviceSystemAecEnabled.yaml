@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: System audio echo cancellation policy definition
+# summary: Defines the temporary ChromeOS policy to enforce system audio echo cancellation for microphone input.
+# ---
+
 caption: Enable system audio echo cancellation
 default: false
 desc: |-

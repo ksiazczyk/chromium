@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Emoji suggestion policy definition
+# summary: Defines the ChromeOS policy that controls whether emoji suggestions are offered while typing, disabled by default and not user-overridable when unset.
+# ---
+
 caption: Enable Emoji Suggestion
 default_for_enterprise_users: false
 desc: |-

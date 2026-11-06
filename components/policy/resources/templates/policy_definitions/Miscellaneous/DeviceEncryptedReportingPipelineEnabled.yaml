@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DeviceEncryptedReportingPipelineEnabled policy definition
+# summary: Defines a device policy that enables or disables reporting of events and telemetry to the Encrypted Reporting Pipeline.
+# ---
+
 arc_support: This policy has no effect on the logging done by Android.
 caption: Enable the Encrypted Reporting Pipeline
 default: true

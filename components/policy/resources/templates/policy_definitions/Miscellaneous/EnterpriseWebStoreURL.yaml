@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Enterprise web store URL (deprecated)
+# summary: Defines the deprecated EnterpriseWebStoreURL policy, retired as of Chrome version 29, that set the enterprise web store URL.
+# ---
+
 caption: Enterprise web store URL (deprecated)
 deprecated: true
 desc: This setting has been retired as of <ph name="PRODUCT_NAME">$1<ex>Google Chrome</ex></ph>

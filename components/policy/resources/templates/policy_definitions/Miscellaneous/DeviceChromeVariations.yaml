@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DeviceChromeVariations policy definition
+# summary: Defines a device policy that selects which Chrome variations may be applied to enterprise-managed ChromeOS devices.
+# ---
+
 caption: Determine the availability of variations on <ph name="PRODUCT_OS_NAME">$2<ex>Google
   ChromeOS</ex></ph>
 desc: |-

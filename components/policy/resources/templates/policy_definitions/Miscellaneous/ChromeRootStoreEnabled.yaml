@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: ChromeRootStoreEnabled policy definition
+# summary: Defines the deprecated policy choosing between the Chrome Root Store and system certificate verification.
+# ---
+
 caption: Determines whether the Chrome Root Store and built-in certificate verifier
   will be used to verify server certificates
 default: null

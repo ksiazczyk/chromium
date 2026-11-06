@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Enable only essential cookies and data in search
+# summary: Defines the EssentialSearchEnabled policy restricting cookies and data sent to Search on ChromeOS to essential purposes only.
+# ---
+
 caption: Enable only essential cookies and data in search
 default: false
 desc: |-

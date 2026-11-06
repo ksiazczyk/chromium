@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Automatic disk clean-up strategy (deprecated)
+# summary: Deprecated ChromeOS device policy selecting how users are removed to free disk space during automatic clean-up.
+# ---
+
 caption: Select the strategy used to free up disk space during automatic clean-up
   (deprecated)
 deprecated: true

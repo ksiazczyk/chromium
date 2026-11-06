@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: EnterpriseAuthenticationAppLinkPolicy policy definition
+# summary: Defines the Android WebView policy that maps authentication URLs to identity provider authenticator apps for SSO and device-signal flows.
+# ---
+
 caption: External authentication app launch URLs
 desc: "Allows you to specify configs for authentication urls in <ph name=\"WEBVIEW_PRODUCT_NAME\"\
   >Android WebView</ph>.\n\n      These Authentication urls would be treated special\

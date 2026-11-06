@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DeviceAuthenticationURLBlocklist policy definition
+# summary: Defines a device policy that blocks listed URL patterns from loading during ChromeOS login and lock screen authentication.
+# ---
+
 caption: Block access to a list of URL patterns during authentication
 desc: |-
   Setting the policy prevents webpages with prohibited URLs from loading during user authentication (e.g. in the login screen and lock screen). It provides a list of URL patterns that specify forbidden URLs. Leaving the policy unset means no URLs are prohibited during authentication. Format the URL pattern according to this format ( https://support.google.com/chrome/a?p=url_blocklist_filter_format ).

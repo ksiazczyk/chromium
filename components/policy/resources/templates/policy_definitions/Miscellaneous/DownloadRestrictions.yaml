@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DownloadRestrictions policy definition
+# summary: Policy definition that restricts downloads by blocking malicious, unwanted, dangerous, or all downloads per Safe Browsing verdicts.
+# ---
+
 caption: Allow download restrictions
 desc: |-
   Setting the policy means users can't bypass download security decisions.

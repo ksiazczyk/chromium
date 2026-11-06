@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Fast Pair enablement policy
+# summary: ChromeOS policy that forces the Fast Pair Bluetooth pairing flow on or off, linking paired peripherals to a GAIA account across devices.
+# ---
+
 caption: Enable Fast Pair (fast Bluetooth pairing)
 default: true
 default_for_enterprise_users: false

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: AdsSettingForIntrusiveAdsSites policy
+# summary: Policy definition choosing whether ads are allowed on all sites or blocked on sites with intrusive ads.
+# ---
+
 caption: Ads setting for sites with intrusive ads
 default: 1
 desc: |-

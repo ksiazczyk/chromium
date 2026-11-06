@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DeviceOffHours policy definition
+# summary: ChromeOS policy that defines weekly intervals during which specified device policies are ignored and their defaults apply.
+# ---
+
 caption: Off hours intervals when the specified device policies are released
 desc: Setting the policy means the specified device policies are ignored (use these
   policies' default settings) during the specified intervals. Device policies are

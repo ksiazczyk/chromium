@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: AllowChromeDataInBackups policy
+# summary: Defines the iOS Chrome policy that controls whether Chrome data such as cookies and website local storage is included in iCloud and local backups.
+# ---
+
 caption: Allow backup of <ph name="PRODUCT_NAME">$1<ex>Google Chrome</ex></ph> data
 default: true
 desc: |-

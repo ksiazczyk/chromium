@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: 'DownloadBubbleEnabled: download bubble UI policy'
+# summary: Deprecated temporary Chrome policy that toggled the download bubble UI against the old download shelf, removed after full launch.
+# ---
+
 caption: Enable download bubble UI
 default: true
 deprecated: true

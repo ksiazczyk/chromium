@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: ForceSafeSearch policy definition
+# summary: Deprecated Chrome policy that forced SafeSearch in Google Search and Moderate Restricted Mode on YouTube, replaced by ForceGoogleSafeSearch and ForceYouTubeRestrict.
+# ---
+
 caption: Force SafeSearch
 deprecated: true
 desc: |-

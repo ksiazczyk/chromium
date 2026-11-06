@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Continue running background apps when Chrome is closed
+# summary: Defines the Chrome policy that keeps a background process and background apps running after the last browser window is closed.
+# ---
+
 caption: Continue running background apps when <ph name="PRODUCT_NAME">$1<ex>Google
   Chrome</ex></ph> is closed
 default: null

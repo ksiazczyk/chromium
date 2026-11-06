@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: 'DnsOverHttpsTemplates: DoH resolver URI template policy'
+# summary: Policy definition specifying the URI template of the desired DNS-over-HTTPS resolver, required when secure mode is set.
+# ---
+
 caption: Specify URI template of desired DNS-over-HTTPS resolver
 desc: |-
   The URI template of the desired DNS-over-HTTPS resolver. To specify multiple DNS-over-HTTPS resolvers, separate the corresponding URI templates with spaces.

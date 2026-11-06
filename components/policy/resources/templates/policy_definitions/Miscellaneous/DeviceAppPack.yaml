@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DeviceAppPack policy definition
+# summary: Defines the deprecated DeviceAppPack policy listing extensions auto-installed for the demo user on ChromeOS devices in retail mode.
+# ---
+
 caption: List of AppPack extensions
 deprecated: true
 desc: |-

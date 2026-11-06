@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: BrowserLegacyExtensionPointsBlocked Chrome policy definition
+# summary: Defines the Windows policy that blocks legacy extension points in the Chrome browser process.
+# ---
+
 caption: Block Browser Legacy Extension Points
 default: true
 desc: |-

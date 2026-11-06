@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: ChromeForTestingAllowed policy definition
+# summary: Defines the policy that controls whether users may install and run Chrome for Testing.
+# ---
+
 caption: Allow Chrome for Testing
 default: true
 desc: |-

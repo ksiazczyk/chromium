@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: AllowOutdatedPlugins policy
+# summary: Defines the deprecated Chrome policy for running outdated Flash plugins, which lost support in Chrome 88.
+# ---
+
 caption: Allow running plugins that are outdated
 default: null
 deprecated: true

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Restricted managed guest sessions policy definition
+# summary: Defines the ChromeOS policy that enables restricted managed guest sessions for Imprivata shared workstation mode with in-session user switches.
+# ---
+
 caption: Restricted managed guest sessions
 default: false
 desc: |-

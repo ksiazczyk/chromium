@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DeviceKeyboardBacklightColor policy definition
+# summary: ChromeOS device policy that sets the default keyboard backlight color at user sign-in, with options such as wallpaper, white, and rainbow.
+# ---
+
 caption: Default keyboard backlight color
 default: 0
 desc: |-

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DownloadManagerSaveToDriveSettings policy definition
+# summary: Policy definition controlling whether users can save files directly to Google Drive from the download manager on iOS.
+# ---
+
 caption: Allow saving files directly to <ph name="GOOGLE_DRIVE_NAME">Google Drive</ph>
 default: 0
 desc: This policy controls whether the user is allowed to save files to <ph name="GOOGLE_DRIVE_NAME">Google Drive</ph>

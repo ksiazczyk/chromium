@@ -1,2 +1,8 @@
+# ---docerion
+# type: config
+# title: Miscellaneous policy group details
+# summary: Group metadata giving the Miscellaneous policy definition folder its caption and description.
+# ---
+
 caption: Miscellaneous
 desc: Miscellaneous

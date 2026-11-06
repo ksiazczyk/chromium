@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: User-initiated firmware updates policy definition
+# summary: Defines the ChromeOS policy that allows or prevents users from initiating peripheral and ChromeOS Flex firmware updates.
+# ---
+
 owners:
 - skend@google.com
 - chromeos-flex-eng@google.com

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: ChromeCleanupReportingEnabled policy definition
+# summary: Defines the deprecated policy controlling whether Chrome Cleanup scan results are reported to Google on Windows.
+# ---
+
 caption: Control how Chrome Cleanup reports data to Google
 default: null
 deprecated: true

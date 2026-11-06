@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: AppCacheForceEnabled policy definition
+# summary: Defines the deprecated Chrome policy that force-enables the AppCache feature even when it is off by default.
+# ---
+
 caption: Allows the AppCache feature to be re-enabled even if it is off by default.
 deprecated: true
 desc: |-

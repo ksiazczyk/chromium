@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Certificate Transparency exemption for URLs policy definition
+# summary: Defines the list policy turning off Certificate Transparency disclosure enforcement for the hostnames in a specified list of URLs.
+# ---
+
 caption: Disable Certificate Transparency enforcement for a list of URLs
 desc: |-
   Setting the policy turns off Certificate Transparency disclosure requirements for the hostnames in the specified URLs. While making it harder to detect misissued certificates, hosts can keep using certificates that otherwise wouldn't be trusted (because they weren't properly publicly disclosed).

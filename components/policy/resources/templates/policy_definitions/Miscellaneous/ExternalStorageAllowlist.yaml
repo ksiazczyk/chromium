@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: External Storage Allowlist Policy
+# summary: ChromeOS policy listing USB storage devices by vendor and product ID that are exempt from the ExternalStorageDisabled and ExternalStorageReadOnly policies.
+# ---
+
 caption: External Storage Allowlist
 desc: |-
   This policy specifies a list of USB storage devices that are exempt from the <ph name="EXTERNAL_STORAGE_DISABLED_POLICY_NAME">ExternalStorageDisabled</ph> and <ph name="EXTERNAL_STORAGE_READ_ONLY_POLICY_NAME">ExternalStorageReadOnly</ph> policies.

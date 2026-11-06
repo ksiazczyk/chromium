@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Opaque origins for data URLs in Web Workers policy
+# summary: Defines the policy controlling whether Web Workers created from data URLs get a unique opaque origin, with a temporary legacy opt-out planned for removal in milestone 157.
+# ---
+
 caption: 'Enable opaque origins for data URLs in Web Workers'
 desc: |-
   Controls whether Web Workers created from data URLs are assigned a unique opaque origin.

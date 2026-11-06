@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Force logout the user when their account becomes unauthenticated
+# summary: Defines the deprecated Chrome OS policy that logs users out once their primary account's authentication token becomes invalid.
+# ---
+
 caption: Force logout the user when their account becomes unauthenticated
 desc: |-
   Force logout the user when their primary account's authentication token becomes invalid.

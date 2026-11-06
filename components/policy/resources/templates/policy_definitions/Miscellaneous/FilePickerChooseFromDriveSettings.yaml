@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Google Drive file picker option policy
+# summary: iOS policy that shows or hides the Google Drive option in the file selection menu when websites let users submit files via forms.
+# ---
+
 caption: Allow choosing files directly from <ph name="GOOGLE_DRIVE_NAME">Google Drive</ph>
 default: 0
 desc: This policy controls whether the user is allowed to choose files from <ph name="GOOGLE_DRIVE_NAME">Google Drive</ph>

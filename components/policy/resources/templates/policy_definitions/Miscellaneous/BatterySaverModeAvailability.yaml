@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Enable Battery Saver Mode
+# summary: Defines the Chrome and ChromeOS policy controlling Battery Saver Mode availability and its frame rate and CPU throttling levels.
+# ---
+
 caption: Enable Battery Saver Mode
 default: null
 desc: "This policy enables or disables the Battery Saver Mode setting.\n\

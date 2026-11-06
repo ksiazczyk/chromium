@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Deprecated web-based sign-in policy
+# summary: Deprecated policy definition that let enterprises keep using the old web-based sign-in flow while their SSO solutions were incompatible with inline sign-in.
+# ---
+
 caption: Enable the old web-based signin flow
 deprecated: true
 desc: |-

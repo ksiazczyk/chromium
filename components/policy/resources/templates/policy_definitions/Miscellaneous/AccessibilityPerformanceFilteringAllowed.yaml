@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: AccessibilityPerformanceFilteringAllowed policy
+# summary: Policy definition controlling whether the accessibility engine may dynamically compute performance filters for the accessibility tree on Android.
+# ---
+
 caption: Allow Accessibility Performance Filtering.
 default: true
 desc: |-

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Deprecated web platform features policy
+# summary: Policy definition letting administrators temporarily re-enable listed deprecated web platform features identified by time-limited string tags.
+# ---
+
 caption: Enable deprecated web platform features for a limited time
 deprecated: true
 desc: "Specify a list of deprecated web platform features to re-enable temporarily.\n\

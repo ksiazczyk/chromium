@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Extension Cache Size Policy
+# summary: ChromeOS device policy that sets the cache size in bytes for apps and extensions shared across users of one device, defaulting to 256 MiB when unset or below 1 MB.
+# ---
+
 arc_support: The cache is not used for Android apps. If multiple users install the
   same Android app, it will be downloaded anew for each user.
 caption: Set Apps and Extensions cache size (in bytes)

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: ClipboardHistoryEnabled policy definition
+# summary: ChromeOS policy definition that enables or disables the Clipboard History feature and access to previously copied items via its keyboard shortcut.
+# ---
+
 caption: Enable ChromeOS Clipboard History
 default: 0
 desc: |-

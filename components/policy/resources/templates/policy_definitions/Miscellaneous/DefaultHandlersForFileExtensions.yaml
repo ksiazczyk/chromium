@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Default handlers for file extensions policy
+# summary: Defines the ChromeOS policy assigning Chrome, Web, Android, System Web, Virtual Task, and Isolated Web apps as unchangeable default handlers for specified file extensions.
+# ---
+
 arc_support: This policy can also be used to specify Android apps as default file handlers.
 caption: Assigns apps as default handlers for specified file extensions
 desc: |-

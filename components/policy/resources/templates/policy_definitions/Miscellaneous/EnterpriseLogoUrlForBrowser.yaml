@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Enterprise Logo URL for a managed browser policy
+# summary: Defines the EnterpriseLogoUrlForBrowser policy that sets an image URL used as the enterprise badge for managed browsers.
+# ---
+
 caption: Enterprise Logo URL for a managed browser
 default: null
 desc: |-

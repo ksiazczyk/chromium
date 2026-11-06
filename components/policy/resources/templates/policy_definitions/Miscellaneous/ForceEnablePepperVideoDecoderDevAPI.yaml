@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Enable support for the PPB_VideoDecoder(Dev) API
+# summary: Defines the deprecated Chrome policy that temporarily force-enables the PPB_VideoDecoder(Dev) API, supported only in versions 111 through 114.
+# ---
+
 owners:
 - blundell@chromium.org
 - vasilyt@chromium.org

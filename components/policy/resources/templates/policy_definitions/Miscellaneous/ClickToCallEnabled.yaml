@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: ClickToCallEnabled policy definition
+# summary: Deprecated Chrome policy definition for the Click to Call feature that sent phone numbers from desktop Chrome to a signed-in Android device.
+# ---
+
 caption: Enable the Click to Call Feature
 default: null
 deprecated: true

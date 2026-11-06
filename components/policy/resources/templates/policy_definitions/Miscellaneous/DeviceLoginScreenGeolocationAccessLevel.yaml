@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DeviceLoginScreenGeolocationAccessLevel policy definition
+# summary: ChromeOS policy definition that sets the device-level geolocation access level in effect on the login screen before a user signs in.
+# ---
+
 caption: Allow or deny device geolocation access
 desc: |-
   Set the device-level geolocation access level for

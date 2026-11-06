@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Data leak prevention rules list policy
+# summary: Defines the ChromeOS policy for configuring data leak prevention rules that control clipboard, printing, screenshots, privacy screen, screen sharing, and file transfers between URL sources and destinations.
+# ---
+
 caption: Sets a list of data leak prevention rules.
 desc: |-
   Configures a list of rules to prevent data leak on <ph name="PRODUCT_OS_NAME">$2<ex>Google ChromeOS</ex></ph>.

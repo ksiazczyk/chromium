@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Check Safe Browsing status of URLs in real time
+# summary: Defines the EnterpriseRealTimeUrlCheckMode policy that controls real-time Safe Browsing URL checks under enterprise terms of service.
+# ---
+
 caption: Check Safe Browsing status of URLs in real time
 default: 0
 desc: |-

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DevicePowerwashAllowed policy definition
+# summary: ChromeOS policy that lets administrators allow or block a device from triggering a powerwash, enabled by default.
+# ---
+
 caption: Allow the device to request powerwash
 desc: |-
   Setting the policy to Enabled or leaving it unset lets a device trigger powerwash.

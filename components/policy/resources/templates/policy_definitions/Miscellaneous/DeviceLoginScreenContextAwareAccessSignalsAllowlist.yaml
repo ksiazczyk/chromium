@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DeviceLoginScreenContextAwareAccessSignalsAllowlist policy definition
+# summary: ChromeOS policy definition that enables the Chrome Enterprise Device Trust Connector attestation flow for a list of URLs on the login and lock screen.
+# ---
+
 caption: Enable the <ph name="CHROME_ENTERPRISE_DEVICE_TRUST_CONNECTOR">Chrome Enterprise Device Trust Connector</ph> attestation flow for a list of URLs on the login screen
 desc: |-
   Enable <ph name="CHROME_ENTERPRISE_DEVICE_TRUST_CONNECTOR">Chrome Enterprise Device Trust Connector</ph> for a list of URLs on the login and lock screen.

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DeviceLoginScreenWebUsbAllowDevicesForUrls policy definition
+# summary: ChromeOS policy definition that automatically grants listed sites permission to connect to USB devices with given vendor and product IDs on the login screen.
+# ---
+
 caption: Automatically grant permission to these sites to connect to USB devices with
   the given vendor and product IDs on the login screen.
 desc: |-

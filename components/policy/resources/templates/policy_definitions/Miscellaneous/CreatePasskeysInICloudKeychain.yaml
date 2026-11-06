@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Control whether passkey creation will default to iCloud Keychain
+# summary: macOS Chrome policy that makes iCloud Keychain the default store for passkey creation or keeps credentials in the Chrome profile.
+# ---
+
 caption: Control whether passkey creation will default to iCloud Keychain.
 desc: |-
   <ph name="PRODUCT_NAME">$1<ex>Google Chrome</ex></ph> may direct

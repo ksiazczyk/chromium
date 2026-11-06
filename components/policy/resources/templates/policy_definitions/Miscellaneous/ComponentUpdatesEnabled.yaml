@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Enable component updates in Google Chrome
+# summary: Defines the Chrome policy that enables or disables updates for browser components, with security-critical components such as CRLs exempt from being disabled.
+# ---
+
 caption: Enable component updates in <ph name="PRODUCT_NAME">$1<ex>Google Chrome</ex></ph>
 desc: |-
   Enables component updates for all components in <ph name="PRODUCT_NAME">$1<ex>Google Chrome</ex></ph> when not set or set to enabled.

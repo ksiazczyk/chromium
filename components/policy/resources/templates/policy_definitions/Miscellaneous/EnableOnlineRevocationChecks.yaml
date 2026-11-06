@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Online OCSP/CRL revocation checks policy
+# summary: Policy definition controlling whether Chrome performs online OCSP/CRL certificate revocation checks, which are disabled by default.
+# ---
+
 caption: Enable online OCSP/CRL checks
 desc: |-
   Setting the policy to True means online <ph name="OCSP_CRL_LABEL">OCSP/CRL</ph> checks are performed.

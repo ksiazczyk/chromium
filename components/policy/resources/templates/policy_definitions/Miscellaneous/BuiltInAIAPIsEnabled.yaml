@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: BuiltInAIAPIsEnabled Chrome policy definition
+# summary: Defines the policy controlling whether pages may use Chrome's built-in AI APIs.
+# ---
+
 owners:
 - leimy@chromium.org
 - file://chrome/browser/ai/OWNERS

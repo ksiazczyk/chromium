@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DeviceLoginScreenTouchVirtualKeyboardEnabled policy definition
+# summary: ChromeOS policy definition that controls whether the touch virtual keyboard is shown on the login screen, supplementing the virtual keyboard policy.
+# ---
+
 caption: Enable the touch virtual keyboard on the login screen
 default: null
 desc: |-

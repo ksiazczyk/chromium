@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Use the legacy CORS implementation rather than new CORS
+# summary: Defines the deprecated Chrome policy that switched to the legacy CORS implementation for compatibility, supported only through version 83.
+# ---
+
 caption: Use the legacy <ph name="CORS">CORS</ph> implementation rather than new <ph
   name="CORS">CORS</ph>
 deprecated: true

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: EmojiPickerGifSupportEnabled policy definition
+# summary: Policy definition enabling or disabling GIF support in the Emoji Picker on ChromeOS.
+# ---
+
 owners:
 - dvallet@chromium.org
 - shend@chromium.org

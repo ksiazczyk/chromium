@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DeviceLoginScreenSaverTimeout policy definition
+# summary: Deprecated ChromeOS policy definition that sets the inactivity duration in milliseconds before the retail mode sign-in screen saver appears.
+# ---
+
 caption: Duration of inactivity before the screen saver is shown on the sign-in screen
   in retail mode
 deprecated: true

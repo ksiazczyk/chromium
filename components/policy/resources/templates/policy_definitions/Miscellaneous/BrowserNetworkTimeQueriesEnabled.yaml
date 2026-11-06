@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: BrowserNetworkTimeQueriesEnabled Chrome policy definition
+# summary: Defines the policy allowing Chrome to query a Google time service for accurate timestamps.
+# ---
+
 caption: Allow queries to a Google time service
 default: true
 desc: |-

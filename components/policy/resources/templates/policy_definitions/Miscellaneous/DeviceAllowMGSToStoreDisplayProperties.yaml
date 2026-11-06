@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DeviceAllowMGSToStoreDisplayProperties policy definition
+# summary: Defines the ChromeOS device policy that lets Managed Guest Session display settings persist after the session ends instead of being reset.
+# ---
+
 caption: Allow Managed guest session to persist display properties
 default: false
 desc: If this policy is disabled or unset, all display settings that were set in Managed

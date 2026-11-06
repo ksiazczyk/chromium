@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: AllowExcludeDisplayInMirrorMode policy
+# summary: Defines the ChromeOS policy that shows a display settings toggle letting users exclude a display from mirror mode.
+# ---
+
 caption: Show a UI toggle to exclude a display in mirror mode.
 default: false
 desc: |-

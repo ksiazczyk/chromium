@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: AmbientAuthenticationInPrivateModesEnabled policy definition
+# summary: Defines the Chrome policy controlling ambient authentication with default credentials for Incognito and Guest profile sessions.
+# ---
+
 caption: Enable Ambient Authentication for profile types.
 desc: |-
   Configuring this policy will allow/disallow ambient authentication for Incognito and Guest profiles in <ph name="PRODUCT_NAME">$1<ex>Google Chrome</ex></ph>.

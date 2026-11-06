@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: ChromeVariations policy definition
+# summary: Defines the policy specifying which Chrome variations, from all to critical fixes only, may be applied.
+# ---
+
 caption: Determine the availability of variations
 desc: |-
   Configuring this policy allows to specify which variations are allowed to be applied in <ph name="PRODUCT_NAME">$1<ex>Google Chrome</ex></ph>.

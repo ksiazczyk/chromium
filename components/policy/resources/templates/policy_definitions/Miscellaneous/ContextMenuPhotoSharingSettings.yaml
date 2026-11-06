@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Allow saving images directly to Google Photos
+# summary: Defines the Chrome policy that controls whether users can save images to Google Photos directly from the context menu on iOS.
+# ---
+
 caption: Allow saving images directly to <ph name="GOOGLE_PHOTOS_PRODUCT_NAME">Google Photos</ph>
 default: 0
 desc: This policy controls whether the user is allowed to save images to <ph name="GOOGLE_PHOTOS_PRODUCT_NAME">Google Photos</ph> 

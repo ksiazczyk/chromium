@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Override for the CPU performance tier
+# summary: Chrome policy that overrides the value returned by the CPU Performance API (navigator.cpuPerformance) with an integer from 0 to 4.
+# ---
+
 caption: Override for the CPU performance tier
 desc: |-
   Setting this policy allows enterprises to override the value returned by the

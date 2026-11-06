@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: EnterpriseBadgingTemporarySetting policy definition
+# summary: Temporary, deprecated Chrome policy controlling the visibility of enterprise badging on managed profiles across managed and unmanaged devices.
+# ---
+
 caption: Control the visibility of enterprise badging
 default: 0
 deprecated: true

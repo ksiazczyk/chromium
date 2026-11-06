@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Extension Install Event Logging Policy (Deprecated)
+# summary: Deprecated ChromeOS boolean policy controlling whether policy-triggered extension installation events are reported to Google, defaulting to true when unset.
+# ---
+
 caption: Log events for policy based extension installs
 default: true
 deprecated: true

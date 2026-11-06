@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Allow WebAuthn on sites with broken TLS certificates
+# summary: Defines the Chrome policy that permits Web Authentication requests on websites with TLS certificate errors, disabled by default and tagged as system-security.
+# ---
+
 caption: Allow Web Authentication requests on sites with broken TLS certificates.
 default: false
 desc: |-

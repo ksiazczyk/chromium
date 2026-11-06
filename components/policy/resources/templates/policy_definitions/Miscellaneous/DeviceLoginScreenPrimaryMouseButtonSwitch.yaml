@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DeviceLoginScreenPrimaryMouseButtonSwitch policy definition
+# summary: ChromeOS policy definition that switches the primary mouse button to the right button on the login screen, defaulting to letting the user decide.
+# ---
+
 caption: Switch the primary mouse button to the right button on the login screen
 default: null
 desc: |-

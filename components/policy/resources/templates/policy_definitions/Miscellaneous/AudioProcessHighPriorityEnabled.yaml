@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Audio process priority above normal on Windows
+# summary: Temporary Windows policy controlling whether the audio process runs with above-normal priority to address audio capture performance issues.
+# ---
+
 caption: Allow the audio process to run with priority above normal on Windows
 default: null
 desc: |-

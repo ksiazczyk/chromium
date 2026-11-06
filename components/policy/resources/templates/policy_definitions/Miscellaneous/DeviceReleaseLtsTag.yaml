@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DeviceReleaseLtsTag policy definition
+# summary: ChromeOS policy that, when set to lts, allows a device to receive long term support updates.
+# ---
+
 caption: Allow device to receive LTS updates
 desc: If this policy is set to <ph name="DEVICE_LTS_TAG_VALUE">"lts"</ph> it allows
   the device to receive LTS (long term support) updates.

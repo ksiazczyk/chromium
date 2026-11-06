@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Chrome Enterprise Device Trust Connector attestation URL allowlist
+# summary: Defines the cloud-only policy listing URLs that can start the Device Trust Connector attestation flow on managed browsers.
+# ---
+
 caption: Enable the <ph name="CHROME_ENTERPRISE_DEVICE_TRUST_CONNECTOR">Chrome Enterprise Device Trust Connector</ph> attestation flow for a list of URLs on Managed Browsers
 desc: |-
   Enable <ph name="CHROME_ENTERPRISE_DEVICE_TRUST_CONNECTOR">Chrome Enterprise Device Trust Connector</ph> for a list of URLs.

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Set minimal size limit for data leak prevention clipboard restriction
+# summary: ChromeOS policy setting the minimal clipboard data size in bytes checked against DataLeakPreventionRulesList restrictions, defaulting to zero.
+# ---
+
 caption: Set minimal size limit for data leak prevention clipboard restriction
 default: 0
 desc: |-

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Enable DHE cipher suites in TLS
+# summary: Deprecated Chrome policy that enabled DHE cipher suites in TLS for compatibility with outdated servers, removed in Chrome 58.
+# ---
+
 caption: Enable DHE cipher suites in TLS
 deprecated: true
 desc: |-

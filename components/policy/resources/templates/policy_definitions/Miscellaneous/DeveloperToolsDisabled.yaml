@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DeveloperToolsDisabled deprecated policy definition
+# summary: Defines the deprecated Chrome policy that disables Developer Tools and the JavaScript console, superseded since M68 by DeveloperToolsAvailability.
+# ---
+
 arc_support: This policy also controls access to Android Developer Options. If you
   set this policy to true, users cannot access Developer Options. If you set this
   policy to false or leave it unset, users can access Developer Options by tapping

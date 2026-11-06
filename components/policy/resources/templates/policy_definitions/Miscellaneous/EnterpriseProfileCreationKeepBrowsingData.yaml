@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Keep browsing data when creating enterprise profile by default
+# summary: Defines the EnterpriseProfileCreationKeepBrowsingData policy that defaults the keep-existing-browsing-data option when creating an enterprise profile.
+# ---
+
 caption: Keep browsing data when creating enterprise profile by default
 default: false
 desc: |

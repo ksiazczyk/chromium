@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: CloudPolicyOverridesPlatformPolicy policy definition
+# summary: Chrome policy definition deciding whether cloud machine policies take precedence over conflicting platform machine policies.
+# ---
+
 caption: <ph name="PRODUCT_NAME">$1<ex>Google Chrome</ex></ph> cloud policy overrides
   Platform policy.
 desc: |-

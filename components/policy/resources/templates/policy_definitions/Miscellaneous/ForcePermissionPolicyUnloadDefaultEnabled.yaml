@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: ForcePermissionPolicyUnloadDefaultEnabled policy definition
+# summary: Chrome policy that controls whether unload event handlers can be disabled by default during their gradual deprecation via Permissions-Policy.
+# ---
+
 caption: "Controls whether <ph name=\"UNLOAD_EVENT_NAME\">unload</ph> event \
 handlers can be disabled."
 default: false

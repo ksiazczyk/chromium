@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Allow users to initiate internal firmware updates
+# summary: ChromeOS Flex device policy that controls whether users may initiate internal component firmware updates, disabled by default.
+# ---
+
 owners:
 - skend@google.com
 - chromeos-flex-eng@google.com

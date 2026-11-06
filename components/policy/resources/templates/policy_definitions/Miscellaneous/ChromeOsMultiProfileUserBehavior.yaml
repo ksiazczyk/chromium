@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: ChromeOsMultiProfileUserBehavior policy definition
+# summary: Defines the ChromeOS policy controlling whether a user may be primary or secondary in a multiprofile session.
+# ---
+
 arc_support: When multiple users are logged in, only the primary user can use Android
   apps.
 caption: Control the user behavior in a multiprofile session
