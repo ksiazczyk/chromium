@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for printing common
+summary: Specifies allowed include dependencies for the printing common component, covering dbus, strings, aura, ui base, and linux UI.

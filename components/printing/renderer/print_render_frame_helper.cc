@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print render frame helper implementation
+// summary: Implements PrintRenderFrameHelper, which handles the renderer-side printing work for render frames, including frame preparation and print output generation.
+// ---
+
 #include "components/printing/renderer/print_render_frame_helper.h"
 
 #include <stddef.h>

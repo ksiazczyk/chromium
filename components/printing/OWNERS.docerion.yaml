@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Printing component owners delegation
+summary: Delegates code ownership and review requirements for the printing component to the owners file of the //printing directory.

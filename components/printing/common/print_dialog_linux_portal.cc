@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XDG portal print dialog for Linux
+// summary: Implements the print dialog via the org.freedesktop.portal.Print D-Bus interface, handling print settings and printing through XDG desktop portals.
+// ---
+
 #include "components/printing/common/print_dialog_linux_portal.h"
 
 #include <dbus/dbus-shared.h>

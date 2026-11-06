@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for the printing browser component
+summary: Defines the static_library target, its sources, and dependencies for the browser-side printing component, including an optional enterprise watermarking dependency.

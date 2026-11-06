@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print parameters validation declarations
+// summary: Declares the print parameter validation function and the minimum DPI constant used when validating print messages.
+// ---
+
 #ifndef COMPONENTS_PRINTING_COMMON_PRINT_PARAMS_H_
 #define COMPONENTS_PRINTING_COMMON_PRINT_PARAMS_H_
 

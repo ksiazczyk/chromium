@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print manager utilities header
+// summary: Declares utility functions for checking OOPIF support, creating the print composite client for a WebContents, and converting PrintSettings to PrintParams.
+// ---
+
 #ifndef COMPONENTS_PRINTING_BROWSER_PRINT_MANAGER_UTILS_H_
 #define COMPONENTS_PRINTING_BROWSER_PRINT_MANAGER_UTILS_H_
 

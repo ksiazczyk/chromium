@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF printing utility declarations
+// summary: Declares helpers for converting page range text and print settings into printing parameters and results.
+// ---
+
 #ifndef COMPONENTS_PRINTING_BROWSER_PRINT_TO_PDF_PDF_PRINT_UTILS_H_
 #define COMPONENTS_PRINTING_BROWSER_PRINT_TO_PDF_PDF_PRINT_UTILS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrintManager implementation
+// summary: Implements the base PrintManager that binds PrintManagerHost mojo receivers, tracks print render frames, and handles page counts, print failures, and printing state.
+// ---
+
 #include "components/printing/browser/print_manager.h"
 
 #include "base/functional/bind.h"

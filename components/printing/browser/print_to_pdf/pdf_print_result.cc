@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF print result messages
+// summary: Maps each PdfPrintResult enum value to a human-readable error message string.
+// ---
+
 #include "components/printing/browser/print_to_pdf/pdf_print_result.h"
 
 namespace print_to_pdf {

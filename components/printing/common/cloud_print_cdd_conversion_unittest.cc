@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cloud print CDD conversion unit tests
+// summary: Unit tests verifying that printer capabilities convert to the expected CDD JSON for color, copies, DPI, duplex, media size, and orientation.
+// ---
+
 #include "components/printing/common/cloud_print_cdd_conversion.h"
 
 #include <string>

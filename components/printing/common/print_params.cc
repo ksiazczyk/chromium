@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print parameters validation implementation
+// summary: Implements PrintMsgPrintParamsIsValid, checking page size, printable area, DPI, margins and document cookie of mojom print parameters.
+// ---
+
 #include "components/printing/common/print_params.h"
 
 #include "components/printing/common/print.mojom.h"

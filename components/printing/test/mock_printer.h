@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock printer class declarations for printing tests
+// summary: Declares MockPrinter and MockPrinterPage classes that emulate a printer so RenderViewTest cases can verify printed output.
+// ---
+
 #ifndef COMPONENTS_PRINTING_TEST_MOCK_PRINTER_H_
 #define COMPONENTS_PRINTING_TEST_MOCK_PRINTER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the printing test directory
+summary: Declares include rules allowing printing, content/public, pdf, and ui/base dependencies within the printing test directory.

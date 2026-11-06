@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the printing renderer
+summary: DEPS file listing the allowed include dependencies for code in the printing renderer directory.

@@ -5,6 +5,12 @@
 // This test is only built and run on platforms allowing print media
 // localization.
 
+// ---docerion
+// type: test
+// title: Print media localization unit tests
+// summary: Tests localization of common and non-standard paper sizes and verifies that media size sort groups are returned in the expected order.
+// ---
+
 #include "components/printing/common/print_media_l10n.h"
 
 #include <string>

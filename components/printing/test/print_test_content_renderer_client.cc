@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test content renderer client implementation for printing tests
+// summary: Implements a test ContentRendererClient that installs PrintRenderFrameHelper with configurable tagged PDF generation into created render frames.
+// ---
+
 #include "components/printing/test/print_test_content_renderer_client.h"
 
 #include <memory>

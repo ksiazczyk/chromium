@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF print result enum
+// summary: Defines the PdfPrintResult enum of success and error codes for print-to-PDF jobs.
+// ---
+
 #ifndef COMPONENTS_PRINTING_BROWSER_PRINT_TO_PDF_PDF_PRINT_RESULT_H_
 #define COMPONENTS_PRINTING_BROWSER_PRINT_TO_PDF_PDF_PRINT_RESULT_H_
 

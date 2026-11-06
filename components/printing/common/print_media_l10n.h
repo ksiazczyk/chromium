@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print media size localization declarations
+// summary: Declares MediaSizeGroup, MediaSizeInfo, PaperWithSizeInfo and the functions to localize paper display names and sort paper size lists for printing.
+// ---
+
 #ifndef COMPONENTS_PRINTING_COMMON_PRINT_MEDIA_L10N_H_
 #define COMPONENTS_PRINTING_COMMON_PRINT_MEDIA_L10N_H_
 

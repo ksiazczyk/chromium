@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print render frame helper header
+// summary: Declares PrintRenderFrameHelper and supporting classes that manage printing for a render frame in the renderer process.
+// ---
+
 #ifndef COMPONENTS_PRINTING_RENDERER_PRINT_RENDER_FRAME_HELPER_H_
 #define COMPONENTS_PRINTING_RENDERER_PRINT_RENDER_FRAME_HELPER_H_
 

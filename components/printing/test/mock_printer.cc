@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock printer implementation for printing tests
+// summary: Implements a pseudo printer that simulates print jobs, handles mojo and IPC messages, and stores rendered pages for renderer tests.
+// ---
+
 #include "components/printing/test/mock_printer.h"
 
 #include <algorithm>

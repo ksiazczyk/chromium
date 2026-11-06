@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cloud print CDD conversion header
+// summary: Declares PrinterSemanticCapsAndDefaultsToCdd, which converts printer capabilities into a cloud device description value.
+// ---
+
 #ifndef COMPONENTS_PRINTING_COMMON_CLOUD_PRINT_CDD_CONVERSION_H_
 #define COMPONENTS_PRINTING_COMMON_CLOUD_PRINT_CDD_CONVERSION_H_
 

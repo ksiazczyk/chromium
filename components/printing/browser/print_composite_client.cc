@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrintCompositeClient implementation for print compositing
+// summary: Implements the per-WebContents client that tracks print requests and communicates with the print compositor service, handling subframes, preview pages, and accessibility trees.
+// ---
+
 #include "components/printing/browser/print_composite_client.h"
 
 #include <utility>

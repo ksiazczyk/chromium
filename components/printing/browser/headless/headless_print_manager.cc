@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HeadlessPrintManager implementation
+// summary: Implements the minimal print manager for headless Chrome, supporting PrintToPdf while rejecting scripted print and print preview requests.
+// ---
+
 #include "components/printing/browser/headless/headless_print_manager.h"
 
 #include "base/logging.h"

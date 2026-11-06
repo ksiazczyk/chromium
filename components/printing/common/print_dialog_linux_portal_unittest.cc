@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PrintDialogLinuxPortal unit tests
+// summary: Unit tests for the XDG print portal dialog, using mock DBus bus and object proxy to exercise portal availability, dialog display and document printing flows.
+// ---
+
 #include "components/printing/common/print_dialog_linux_portal.h"
 
 #include <memory>

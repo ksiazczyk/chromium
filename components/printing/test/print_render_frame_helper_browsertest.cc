@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for PrintRenderFrameHelper
+// summary: Contains browser tests for PrintRenderFrameHelper covering printing flows, print preview, page sizes, multipage output, and before/after print events.
+// ---
+
 #include "components/printing/renderer/print_render_frame_helper.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF printing utility functions
+// summary: Parses textual page ranges and converts print settings into print pages parameters for PDF printing.
+// ---
+
 #include "components/printing/browser/print_to_pdf/pdf_print_utils.h"
 
 #include <string_view>

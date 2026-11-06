@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF print job class declaration
+// summary: Declares PdfPrintJob, which runs a print job for web contents and reports the PDF result through a callback.
+// ---
+
 #ifndef COMPONENTS_PRINTING_BROWSER_PRINT_TO_PDF_PDF_PRINT_JOB_H_
 #define COMPONENTS_PRINTING_BROWSER_PRINT_TO_PDF_PDF_PRINT_JOB_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the printing browser directory
+summary: Specifies the allowed include directories for code in this directory, with a special rule permitting content/public/test in unit test files.
