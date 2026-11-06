@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast browser metrics class header
+// summary: Declares the CastBrowserMetrics class that owns the metrics service client and coordinates initialization, finalization, and external event processing.
+// ---
+
 #ifndef CHROMECAST_BROWSER_METRICS_CAST_BROWSER_METRICS_H_
 #define CHROMECAST_BROWSER_METRICS_CAST_BROWSER_METRICS_H_
 

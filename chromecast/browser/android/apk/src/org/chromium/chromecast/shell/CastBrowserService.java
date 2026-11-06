@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast browser launch Service
+// summary: Service that launches the Cast browser module through an Intent, starting the browser main loop and killing the process on destroy.
+// ---
+
 package org.chromium.chromecast.shell;
 
 import android.app.Service;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Aura implementation of CastContentWindow
+// summary: Implements the Linux Aura window for cast content, handling window creation, z-order, screen access, touch blocking, and display changes.
+// ---
+
 #include "chromecast/browser/cast_content_window_aura.h"
 
 #include <memory>

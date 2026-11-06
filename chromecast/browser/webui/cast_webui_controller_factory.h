@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastWebUiControllerFactory class declaration
+// summary: Declares the CastWebUiControllerFactory, a WebUIControllerFactory that serves cast Web UI pages for a configured list of hosts.
+// ---
+
 #ifndef CHROMECAST_BROWSER_WEBUI_CAST_WEBUI_CONTROLLER_FACTORY_H_
 #define CHROMECAST_BROWSER_WEBUI_CAST_WEBUI_CONTROLLER_FACTORY_H_
 

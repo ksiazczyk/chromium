@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SupportedCodecFinder implementation
+// summary: Finds supported codec profile levels, querying Android MediaCodec support and converting it to Cast codec profile levels.
+// ---
+
 #include "chromecast/browser/media/supported_codec_finder.h"
 
 #include <vector>

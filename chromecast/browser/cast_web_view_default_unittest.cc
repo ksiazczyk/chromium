@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CastWebViewDefault unit tests
+// summary: Unit tests for CastWebViewDefault covering back-press handling, window observers and page stop notifications using fake content windows and content test harnesses.
+// ---
+
 #include "chromecast/browser/cast_web_view_default.h"
 
 #include <memory>

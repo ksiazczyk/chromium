@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast browser metrics service implementation
+// summary: Implements CastBrowserMetrics, initializing the metrics service, registering stability, GPU, screen, and network providers, and managing external metrics collection on Linux and ChromeOS.
+// ---
+
 #include "chromecast/browser/metrics/cast_browser_metrics.h"
 
 #include "base/check.h"

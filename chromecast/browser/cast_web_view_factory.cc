@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastWebViewFactory implementation
+// summary: Implements the factory that creates default CastWebView instances for a given browser context in the cast shell.
+// ---
+
 #include "chromecast/browser/cast_web_view_factory.h"
 
 #include "chromecast/browser/cast_web_view_default.h"

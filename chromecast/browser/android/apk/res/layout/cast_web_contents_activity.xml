@@ -4,6 +4,13 @@
      Use of this source code is governed by a BSD-style license that can be
      found in the LICENSE file.
  -->
+
+<!--docerion
+type: source
+title: Cast web contents activity layout
+summary: Android layout XML defining a full-screen white FrameLayout container that hosts web contents in the cast browser activity.
+-->
+
 <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/web_contents_container"
     android:background="#FFFFFF"

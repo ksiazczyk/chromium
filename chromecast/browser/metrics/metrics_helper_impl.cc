@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MetricsHelperImpl implementation
+// summary: Implements the MetricsHelper Mojo interface by forwarding application events to the CastMetricsHelper singleton.
+// ---
+
 #include "chromecast/browser/metrics/metrics_helper_impl.h"
 
 #include "base/logging.h"

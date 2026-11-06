@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastWebPreferences WebPreferences override logic
+// summary: Applies stored Cast-specific preferences such as autoplay policy, scrollbar hiding, and JavaScript settings to Blink WebPreferences.
+// ---
+
 #include "chromecast/browser/cast_web_preferences.h"
 
 namespace chromecast {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast touch device manager implementation
+// summary: Maps touchscreen devices onto the primary Cast display by computing touch device transforms when display or input device configuration changes.
+// ---
+
 #include "chromecast/browser/cast_touch_device_manager.h"
 
 #include "chromecast/graphics/cast_screen.h"

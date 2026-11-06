@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast DevTools manager delegate class declaration
+// summary: Declares CastDevToolsManagerDelegate, a DevToolsManagerDelegate that maintains a whitelist of WebContents allowed for remote debugging.
+// ---
+
 #ifndef CHROMECAST_BROWSER_DEVTOOLS_CAST_DEVTOOLS_MANAGER_DELEGATE_H_
 #define CHROMECAST_BROWSER_DEVTOOLS_CAST_DEVTOOLS_MANAGER_DELEGATE_H_
 

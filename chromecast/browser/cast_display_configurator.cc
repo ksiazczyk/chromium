@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast display configurator implementation
+// summary: Implements display configuration for cast_shell, resolving screen resolution, rotation and display setup from command-line switches or the native display delegate.
+// ---
+
 #include "chromecast/browser/cast_display_configurator.h"
 
 #include <math.h>

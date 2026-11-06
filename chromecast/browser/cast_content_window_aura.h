@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastContentWindowAura class declaration
+// summary: Declares the Aura-specific CastContentWindow subclass that manages native window visibility, gestures, and display observation.
+// ---
+
 #ifndef CHROMECAST_BROWSER_CAST_CONTENT_WINDOW_AURA_H_
 #define CHROMECAST_BROWSER_CAST_CONTENT_WINDOW_AURA_H_
 

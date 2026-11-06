@@ -1,0 +1,4 @@
+# Docerion header of test_interfaces.test-mojom.
+type: source
+title: Cast browser test Mojo interfaces
+summary: Defines the TestAdder and TestDoubler Mojo interfaces in the chromecast.mojom module for testing interface binding.

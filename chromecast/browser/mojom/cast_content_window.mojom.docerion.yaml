@@ -1,0 +1,4 @@
+# Docerion header of cast_content_window.mojom.
+type: source
+title: cast_content_window.mojom
+summary: Defines the CastContentWindow mojo interface plus VisibilityType and VisibilityPriority enums for platform-agnostic windowing and visibility control.

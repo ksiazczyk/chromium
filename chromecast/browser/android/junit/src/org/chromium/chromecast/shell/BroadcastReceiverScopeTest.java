@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BroadcastReceiverScopeTest
+// summary: Robolectric unit tests verifying that BroadcastReceiverScope registers a receiver for matching broadcasts and unregisters it when the scope is closed.
+// ---
+
 package org.chromium.chromecast.shell;
 
 import static android.os.Looper.getMainLooper;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Memory pressure evaluator adjuster default implementation
+// summary: Provides empty default implementations of the adjuster methods for relaxing and restoring memory pressure thresholds.
+// ---
+
 #include "chromecast/browser/cast_system_memory_pressure_evaluator_adjuster.h"
 
 namespace chromecast {

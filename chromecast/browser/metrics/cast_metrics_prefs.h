@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast metrics preferences registration header
+// summary: Declares the RegisterPrefs function for registering Cast metrics preferences in a PrefRegistrySimple.
+// ---
+
 #ifndef CHROMECAST_BROWSER_METRICS_CAST_METRICS_PREFS_H_
 #define CHROMECAST_BROWSER_METRICS_CAST_METRICS_PREFS_H_
 

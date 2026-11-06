@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build target for cast browser migration utils
+summary: Defines the migration source set that builds migration_utils.cc and migration_utils.h with dependencies on base and chromecast base.

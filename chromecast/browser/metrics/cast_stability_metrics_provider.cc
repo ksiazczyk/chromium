@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast stability metrics provider implementation
+// summary: Implements the stability metrics provider that logs renderer crashes, external crashes, and unclean shutdowns into UMA histograms and stability prefs.
+// ---
+
 #include "chromecast/browser/metrics/cast_stability_metrics_provider.h"
 
 #include <vector>

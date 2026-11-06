@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: visibility_mojom_traits.h
+// summary: Provides mojo EnumTraits conversions between chromecast::VisibilityType and VisibilityPriority and their mojom counterparts.
+// ---
+
 #ifndef CHROMECAST_BROWSER_MOJOM_VISIBILITY_MOJOM_TRAITS_H_
 #define CHROMECAST_BROWSER_MOJOM_VISIBILITY_MOJOM_TRAITS_H_
 

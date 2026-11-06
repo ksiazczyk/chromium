@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebContentsRegistry
+// summary: Registry that associates session IDs with WebContents so new activity instances can retrieve them without parceling through intents.
+// ---
+
 package org.chromium.chromecast.shell;
 
 import org.chromium.components.embedder_support.view.ContentView;

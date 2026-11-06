@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastMediaBlocker implementation
+// summary: Implements media blocking for Cast web contents, suspending and resuming media sessions when loading or starting of media is blocked.
+// ---
+
 #include "chromecast/browser/cast_media_blocker.h"
 
 #include <utility>

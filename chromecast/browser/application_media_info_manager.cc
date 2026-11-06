@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Application media info manager implementation
+// summary: Implements a per-document service that reports cast application media info and controls renderer blocking for media startup.
+// ---
+
 #include "chromecast/browser/application_media_info_manager.h"
 
 #include <utility>

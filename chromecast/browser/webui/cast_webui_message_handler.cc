@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast WebUI message handler implementation
+// summary: Implements the generic WebUI message handler, allowing JavaScript calls and logging when navigation occurs after external JS invocation.
+// ---
+
 #include "chromecast/browser/webui/cast_webui_message_handler.h"
 
 #include <string_view>

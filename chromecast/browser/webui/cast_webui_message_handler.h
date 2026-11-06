@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastWebUIMessageHandler class declaration
+// summary: Declares CastWebUIMessageHandler, a simple WebUIMessageHandler that exposes a public method for running JavaScript in the Web UI.
+// ---
+
 #ifndef CHROMECAST_BROWSER_WEBUI_CAST_WEBUI_MESSAGE_HANDLER_H_
 #define CHROMECAST_BROWSER_WEBUI_CAST_WEBUI_MESSAGE_HANDLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JNI bindings for Cast metrics helper
+// summary: C++ source providing JNI entry points that log media play and pause events through the CastMetricsHelper instance.
+// ---
+
 #include "chromecast/base/metrics/cast_metrics_helper.h"
 
 // Must come after all headers that specialize FromJniType() / ToJniType().

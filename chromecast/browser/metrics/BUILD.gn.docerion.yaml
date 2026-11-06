@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Cast browser metrics build targets
+summary: Defines the GN source sets for Chromecast browser metrics, listing sources and dependencies, including the Linux/ChromeOS-only external_metrics target.

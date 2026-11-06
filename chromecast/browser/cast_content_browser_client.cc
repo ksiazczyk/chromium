@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastContentBrowserClient implementation
+// summary: Implements the Cast shell's content browser client, wiring up browser-level services such as media, network contexts, DevTools, and CORS-exempt headers.
+// ---
+
 #include "chromecast/browser/cast_content_browser_client.h"
 
 #include <stddef.h>

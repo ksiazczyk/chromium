@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cast navigation and media playback browser tests
+// summary: Browser tests checking navigation to about:blank plus audio, video, and ClearKey encrypted media playback through the cast_shell web view.
+// ---
+
 #include "base/strings/string_split.h"
 #include "base/strings/utf_string_conversions.h"
 #include "chromecast/browser/test/cast_browser_test.h"

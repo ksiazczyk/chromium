@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the browser test directory
+summary: Defines include rules allowing chromecast/cast_core, content/public/test, and clear key CDM headers within the Cast browser test directory.

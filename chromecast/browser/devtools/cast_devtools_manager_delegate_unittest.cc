@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cast DevTools manager delegate unit tests
+// summary: Unit tests verifying the delegate's singleton getter and that only enabled WebContents are discovered as remote debugging targets.
+// ---
+
 #include "chromecast/browser/devtools/cast_devtools_manager_delegate.h"
 
 #include <memory>

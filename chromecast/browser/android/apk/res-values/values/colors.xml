@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!--docerion
+type: config
+title: Cast settings icon background color resource
+summary: Defines the blue background color used by the cast settings icon in the Chromecast Android APK resources.
+-->
+
 <resources>
   <color name="ic_settings_cast_background">#1c73e8</color>
 </resources>

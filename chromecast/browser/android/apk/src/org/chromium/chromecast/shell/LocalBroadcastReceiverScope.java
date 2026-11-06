@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LocalBroadcastReceiverScope
+// summary: Scope that registers a local BroadcastReceiver in its constructor and unregisters it in close() to tie receiver lifetimes to Observables.
+// ---
+
 package org.chromium.chromecast.shell;
 
 import android.content.BroadcastReceiver;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastWebContentsActivity
+// summary: Activity that displays WebContents in CastShell, handling media state, visibility, picture-in-picture and lifecycle coordination with CastContentWindowAndroid.
+// ---
+
 package org.chromium.chromecast.shell;
 
 import static org.chromium.chromecast.base.Observable.any;

@@ -1,0 +1,4 @@
+# Docerion header of webui.mojom.
+type: source
+title: Mojom interfaces for controlling Cast Browser Web UIs
+summary: Defines the MessageCallback, WebUi, Resources and WebUiClient interfaces that let the Cast Service control Chromium Web UIs and provide their resources.

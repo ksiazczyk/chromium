@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cast features persistence browser tests
+// summary: Browser tests verifying that Cast feature flags and parameters activate on boot and persist across simulated cast_shell restarts using PRE_ test ordering.
+// ---
+
 #include "chromecast/base/cast_features.h"
 
 #include <cstdint>

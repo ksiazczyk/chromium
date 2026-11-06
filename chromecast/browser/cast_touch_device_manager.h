@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast touch device manager header
+// summary: Declares CastTouchDeviceManager, which manages touchscreen-to-display mapping for the Cast browser and reacts to display configuration changes.
+// ---
+
 #ifndef CHROMECAST_BROWSER_CAST_TOUCH_DEVICE_MANAGER_H_
 #define CHROMECAST_BROWSER_CAST_TOUCH_DEVICE_MANAGER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast HTTP user agent settings implementation
+// summary: Computes the Accept-Language header for HTTP requests from the configured or Android default locale.
+// ---
+
 #include "chromecast/browser/cast_http_user_agent_settings.h"
 
 #include "base/i18n/rtl.h"

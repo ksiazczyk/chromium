@@ -1,6 +1,13 @@
 // Copyright 2020 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Mock CastWebView implementation
+// summary: Implements mock CastWebView and CastWebContents stubs that return null views and bind Mojo receivers for use in Cast browser tests.
+// ---
+
 #include "chromecast/browser/test/mock_cast_web_view.h"
 
 namespace chromecast {

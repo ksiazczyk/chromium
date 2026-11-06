@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LogcatElision
+// summary: Utility that elides sensitive information such as emails, IP and MAC addresses, URLs, and JavaScript console messages from logcat lines.
+// ---
+
 package org.chromium.chromecast.shell;
 
 import android.util.Patterns;

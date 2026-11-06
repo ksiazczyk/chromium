@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast service overlay manifests
+// summary: Defines service manager overlay manifests that extend the content browser and packaged services manifests with Cast capabilities.
+// ---
+
 #include "chromecast/browser/cast_overlay_manifests.h"
 
 #include "base/no_destructor.h"

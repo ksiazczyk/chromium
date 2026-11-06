@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastRendererBlockData class declaration
+// summary: Declares WebContents user data for storing renderer block state and the associated ApplicationMediaInfoManager weak pointer.
+// ---
+
 #ifndef CHROMECAST_BROWSER_CAST_RENDERER_BLOCK_DATA_H_
 #define CHROMECAST_BROWSER_CAST_RENDERER_BLOCK_DATA_H_
 

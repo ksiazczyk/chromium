@@ -1,0 +1,4 @@
+# Docerion header of location_redirect.html.
+type: test
+title: Location redirect test page
+summary: Test page that redirects itself to about:blank via JavaScript to exercise navigation and redirect handling.

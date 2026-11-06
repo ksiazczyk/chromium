@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DisplayConfiguratorObserver class header
+// summary: Declares an observer of the cast display configurator that forces a repaint to refresh content after display configuration changes.
+// ---
+
 #ifndef CHROMECAST_BROWSER_DISPLAY_CONFIGURATOR_OBSERVER_H_
 #define CHROMECAST_BROWSER_DISPLAY_CONFIGURATOR_OBSERVER_H_
 

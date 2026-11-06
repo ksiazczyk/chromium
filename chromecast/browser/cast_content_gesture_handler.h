@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastContentGestureHandler class declaration
+// summary: Declares the handler that receives root window level gestures and dispatches them to the CastContentWindow delegate.
+// ---
+
 #ifndef CHROMECAST_BROWSER_CAST_CONTENT_GESTURE_HANDLER_H_
 #define CHROMECAST_BROWSER_CAST_CONTENT_GESTURE_HANDLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CastContentGestureHandler tests
+// summary: Tests verifying back, top-drag, and right-drag swipe gesture behavior of CastContentGestureHandler using mock gesture handlers.
+// ---
+
 #include "chromecast/browser/cast_content_gesture_handler.h"
 
 #include "base/functional/callback_helpers.h"

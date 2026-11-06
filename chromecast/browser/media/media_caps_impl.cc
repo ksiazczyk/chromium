@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaCapsImpl implementation
+// summary: Implements the MediaCaps Mojo service, tracking supported codec profile levels and notifying registered observers about them.
+// ---
+
 #include "chromecast/browser/media/media_caps_impl.h"
 
 #include "base/logging.h"

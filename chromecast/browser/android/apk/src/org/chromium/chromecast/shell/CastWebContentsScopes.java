@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastWebContentsScopes
+// summary: Helpers that lay out WebContents in an activity, fragment or view by wiring up WindowAndroid, ContentView and render views.
+// ---
+
 package org.chromium.chromecast.shell;
 
 import android.app.Activity;

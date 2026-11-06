@@ -1,0 +1,4 @@
+# Docerion header of load_cancel.html.
+type: test
+title: Load cancel test page
+summary: Test page that calls window.stop() to cancel its own loading, for exercising load cancellation behavior.

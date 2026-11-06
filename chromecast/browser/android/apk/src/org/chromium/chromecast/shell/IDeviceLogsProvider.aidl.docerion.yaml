@@ -1,0 +1,4 @@
+# Docerion header of IDeviceLogsProvider.aidl.
+type: source
+title: IDeviceLogsProvider
+summary: AIDL interface implemented by services that provide device logs, with strict rules for versioning API changes.

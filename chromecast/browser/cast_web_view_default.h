@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastWebViewDefault class header
+// summary: Declares CastWebViewDefault, a CastWebView and WebContentsDelegate that manages web contents, keyboard events and back-press handling in the cast shell.
+// ---
+
 #ifndef CHROMECAST_BROWSER_CAST_WEB_VIEW_DEFAULT_H_
 #define CHROMECAST_BROWSER_CAST_WEB_VIEW_DEFAULT_H_
 

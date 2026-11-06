@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastSessionIdMap class declaration
+// summary: Declares the CastSessionIdMap singleton that maps session IDs to audio group IDs and answers audio-only and group session queries for the audio manager.
+// ---
+
 #ifndef CHROMECAST_BROWSER_CAST_SESSION_ID_MAP_H_
 #define CHROMECAST_BROWSER_CAST_SESSION_ID_MAP_H_
 

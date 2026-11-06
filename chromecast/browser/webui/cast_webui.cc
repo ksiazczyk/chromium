@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastWebUI controller implementation
+// summary: Implements the CastWebUI WebUI controller, registering resource data sources, message callbacks and JavaScript function invocation for cast Web UI pages.
+// ---
+
 #include "chromecast/browser/webui/cast_webui.h"
 
 #include "base/command_line.h"

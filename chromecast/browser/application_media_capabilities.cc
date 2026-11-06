@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Application media capabilities implementation
+// summary: Implements the ApplicationMediaCapabilities Mojo service that tracks supported bitstream audio codecs and notifies observers.
+// ---
+
 #include "chromecast/browser/application_media_capabilities.h"
 
 #include <utility>

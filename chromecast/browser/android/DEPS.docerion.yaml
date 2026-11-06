@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the Android Cast browser directory
+summary: DEPS file listing the directories and files that code in chromecast/browser/android is allowed to include.

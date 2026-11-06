@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CastWebContents browser tests
+// summary: Browser tests exercising CastWebContents behavior, including loading, error handling, observers, and mojo interface bindings via an embedded test server.
+// ---
+
 #include <algorithm>
 #include <memory>
 #include <string>

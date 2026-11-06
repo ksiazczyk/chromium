@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastBrowserMainParts implementation
+// summary: Implements the Cast browser startup and shutdown lifecycle, wiring up services, metrics, media, networking and external Mojo support.
+// ---
+
 #include "chromecast/browser/cast_browser_main_parts.h"
 
 #include <stddef.h>

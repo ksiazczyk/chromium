@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastNavigationUIData implementation
+// summary: Attaches Cast session IDs and app properties to web contents and provides helpers to retrieve the session ID for a navigation.
+// ---
+
 #include "chromecast/browser/cast_navigation_ui_data.h"
 
 #include "chromecast/browser/cast_session_id_map.h"

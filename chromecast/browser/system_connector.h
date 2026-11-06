@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System connector declarations
+// summary: Declares GetSystemConnector and SetSystemConnector for per-thread access to the browser's system service connector.
+// ---
+
 #ifndef CHROMECAST_BROWSER_SYSTEM_CONNECTOR_H_
 #define CHROMECAST_BROWSER_SYSTEM_CONNECTOR_H_
 

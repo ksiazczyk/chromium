@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExternalMetrics implementation for collecting external metrics
+// summary: Implements the ExternalMetrics service that periodically reads metric samples from a shared UMA events file and records them as histograms and crash events.
+// ---
+
 #include "chromecast/browser/metrics/external_metrics.h"
 
 #include <stddef.h>

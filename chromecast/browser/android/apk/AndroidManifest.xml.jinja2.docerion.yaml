@@ -1,0 +1,4 @@
+# Docerion header of AndroidManifest.xml.jinja2.
+type: config
+title: Chromecast Cast browser Android manifest template
+summary: Jinja2 template that generates the Android manifest for the Cast browser APK, declaring permissions, the Cast browser service and activity, and sandboxed process services.

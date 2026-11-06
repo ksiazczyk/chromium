@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastMediaBlocker class declaration
+// summary: Declares CastMediaBlocker, a media blocker that controls media loading, media starting and background video playback for web contents.
+// ---
+
 #ifndef CHROMECAST_BROWSER_CAST_MEDIA_BLOCKER_H_
 #define CHROMECAST_BROWSER_CAST_MEDIA_BLOCKER_H_
 

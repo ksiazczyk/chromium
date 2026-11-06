@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AsyncTaskRunnerTest
+// summary: Robolectric unit tests verifying that AsyncTaskRunner schedules async tasks on an executor, cancels them when scopes close, and runs only one task at a time via Controller.
+// ---
+
 package org.chromium.chromecast.shell;
 
 import static org.hamcrest.MatcherAssert.assertThat;

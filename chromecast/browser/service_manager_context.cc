@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ServiceManagerContext implementation
+// summary: Manages the browser's connection to the service manager, building browser and system manifests and hosting an in-process service manager when needed.
+// ---
+
 #include "chromecast/browser/service_manager_context.h"
 
 #include <map>

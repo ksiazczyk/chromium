@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ServiceManagerContext class header
+// summary: Declares ServiceManagerContext, which manages the browser's ServiceManager connection, IO thread connector access, and shutdown.
+// ---
+
 #ifndef CHROMECAST_BROWSER_SERVICE_MANAGER_CONTEXT_H_
 #define CHROMECAST_BROWSER_SERVICE_MANAGER_CONTEXT_H_
 

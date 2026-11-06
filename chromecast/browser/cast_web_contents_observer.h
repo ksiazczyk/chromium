@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastWebContentsObserver default observer class
+// summary: Declares a default mojom::CastWebContentsObserver implementation with empty callbacks for page state, navigation, media playback, and render process events.
+// ---
+
 #ifndef CHROMECAST_BROWSER_CAST_WEB_CONTENTS_OBSERVER_H_
 #define CHROMECAST_BROWSER_CAST_WEB_CONTENTS_OBSERVER_H_
 

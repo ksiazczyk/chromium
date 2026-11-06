@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastWebContents base implementation
+// summary: Implements the CastWebContents base class, handling owner and shared mojo receiver binding, observer registration, and disconnect callbacks.
+// ---
+
 #include "chromecast/browser/cast_web_contents.h"
 
 #include <utility>

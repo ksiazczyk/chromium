@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast UI DevTools server implementation
+// summary: Implements CastUIDevTools, which creates a UI DevTools server on port 9223 with DOM, page, CSS and overlay agents for inspecting the Aura views hierarchy.
+// ---
+
 #include "chromecast/browser/devtools/cast_ui_devtools.h"
 
 #include "chromecast/base/chromecast_switches.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastCrashHandler
+// summary: JNI wrapper that lets native code trigger a one-time crash dump upload or removal of crash dumps via CastCrashUploader.
+// ---
+
 package org.chromium.chromecast.shell;
 
 import org.jni_zero.CalledByNative;

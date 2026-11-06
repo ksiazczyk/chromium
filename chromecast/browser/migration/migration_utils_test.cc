@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for pref config migration
+// summary: Verifies that CopyPrefConfigsIfMissing copies both the regular and large config files into the browser config location using a temp directory and path overrides.
+// ---
+
 #include "chromecast/browser/migration/migration_utils.h"
 
 #include <string>

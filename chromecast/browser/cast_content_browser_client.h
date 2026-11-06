@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastContentBrowserClient class declaration
+// summary: Declares the CastContentBrowserClient interface that platforms implement to customize the Cast browser, including service creation and media hooks.
+// ---
+
 #ifndef CHROMECAST_BROWSER_CAST_CONTENT_BROWSER_CLIENT_H_
 #define CHROMECAST_BROWSER_CAST_CONTENT_BROWSER_CLIENT_H_
 

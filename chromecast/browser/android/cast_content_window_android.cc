@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android implementation of CastContentWindow
+// summary: C++ source implementing CastContentWindowAndroid, which creates Java windows via JNI and manages web contents attachment, screen access, touch input and visibility.
+// ---
+
 #include "chromecast/browser/android/cast_content_window_android.h"
 
 #include <memory>

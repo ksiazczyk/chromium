@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Application media capabilities header
+// summary: Declares the ApplicationMediaCapabilities class that exposes supported bitstream audio codecs to observers.
+// ---
+
 #ifndef CHROMECAST_BROWSER_APPLICATION_MEDIA_CAPABILITIES_H_
 #define CHROMECAST_BROWSER_APPLICATION_MEDIA_CAPABILITIES_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastCrashUploader
+// summary: Scans the crash dump directory for minidump files and uploads them to the crash server in a background thread, or deletes them on request.
+// ---
+
 package org.chromium.chromecast.shell;
 
 import org.chromium.base.Log;

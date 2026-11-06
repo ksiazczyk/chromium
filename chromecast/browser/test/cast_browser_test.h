@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CastBrowserTest fixture header
+// summary: Declares the CastBrowserTest fixture that runs a full cast_shell browser lifecycle per test case, with helpers to create web views and navigate.
+// ---
+
 #ifndef CHROMECAST_BROWSER_TEST_CAST_BROWSER_TEST_H_
 #define CHROMECAST_BROWSER_TEST_CAST_BROWSER_TEST_H_
 

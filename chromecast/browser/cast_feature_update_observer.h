@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast feature update observer header
+// summary: Declares CastFeatureUpdateObserver, which receives feature updates from the Cast service via Mojo and writes them to preferences.
+// ---
+
 #ifndef CHROMECAST_BROWSER_CAST_FEATURE_UPDATE_OBSERVER_H_
 #define CHROMECAST_BROWSER_CAST_FEATURE_UPDATE_OBSERVER_H_
 

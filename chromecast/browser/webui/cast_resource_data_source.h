@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastResourceDataSource class declaration
+// summary: Declares the CastResourceDataSource class, a minimal URL data source for serving cast WebUI resources with configurable CSP and frame options.
+// ---
+
 #ifndef CHROMECAST_BROWSER_WEBUI_CAST_RESOURCE_DATA_SOURCE_H_
 #define CHROMECAST_BROWSER_WEBUI_CAST_RESOURCE_DATA_SOURCE_H_
 

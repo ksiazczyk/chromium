@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Cast browser metrics directory metadata
+summary: Points the directory metadata at the shared base/metrics COMMON_METADATA mixins.

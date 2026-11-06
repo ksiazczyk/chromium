@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Async task runner for background work with UI callbacks
+// summary: Runs a task on a worker executor and delivers the result to a callback on the UI thread, returning a Scope that can cancel the task.
+// ---
+
 package org.chromium.chromecast.shell;
 
 import org.chromium.base.task.AsyncTask;

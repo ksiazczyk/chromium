@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BroadcastReceiver lifetime Scope
+// summary: Scope that registers a BroadcastReceiver on construction and unregisters it when closed, tying receiver lifetimes to Observables.
+// ---
+
 package org.chromium.chromecast.shell;
 
 import android.content.BroadcastReceiver;

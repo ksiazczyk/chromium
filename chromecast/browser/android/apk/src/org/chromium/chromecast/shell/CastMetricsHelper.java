@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastMetricsHelper
+// summary: JNI wrapper of the native CastMetricsHelper that logs media play and pause metrics.
+// ---
+
 package org.chromium.chromecast.shell;
 
 import org.jni_zero.JNINamespace;
