@@ -1,0 +1,4 @@
+# Docerion header of IDS_CERT_OID_ANSIX962_ECDSA_SHA1_SIGNATURE.png.sha1.
+type: asset
+title: SHA-1 checksum for the ECDSA SHA-1 signature OID image
+summary: Checksum file holding the SHA-1 hash of the PNG image for the ANSI X9.62 ECDSA SHA-1 signature OID in the certificate viewer.

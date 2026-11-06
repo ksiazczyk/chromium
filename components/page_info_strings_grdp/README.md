@@ -1,3 +1,9 @@
+---
+type: readme
+title: Page Info strings translation context images README
+summary: Explains that the image SHA-1 hashes in this directory give translators context images to improve translations of Chrome UI strings, with a link to translation screenshot instructions.
+---
+
 This directory of image SHA-1 hashes is used to improve translations of UI
 strings through context images for translators.
 

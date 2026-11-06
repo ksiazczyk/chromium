@@ -1,0 +1,4 @@
+# Docerion header of IDS_CERT_OID_ML_DSA_87.png.sha1.
+type: asset
+title: SHA1 hash for ML-DSA-87 OID screenshot
+summary: Holds the SHA1 checksum of the PNG screenshot showing the ML-DSA-87 signature algorithm OID string in the page info UI.

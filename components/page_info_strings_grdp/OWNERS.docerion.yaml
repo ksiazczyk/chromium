@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for page_info_strings_grdp
+summary: Points to the page_info OWNERS file in chrome/browser/ui and grants per-file ownership of the .png.sha1 translation screenshots to all users.

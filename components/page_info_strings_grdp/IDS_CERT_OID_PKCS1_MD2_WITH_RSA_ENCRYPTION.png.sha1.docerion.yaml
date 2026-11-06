@@ -1,0 +1,4 @@
+# Docerion header of IDS_CERT_OID_PKCS1_MD2_WITH_RSA_ENCRYPTION.png.sha1.
+type: asset
+title: SHA1 hash for MD2 with RSA encryption OID screenshot
+summary: Holds the SHA1 checksum of the PNG screenshot showing the PKCS#1 MD2 with RSA encryption OID string in the page info UI.

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Page info strings DIR_METADATA
+summary: Declares the Monorail component UI>Browser>Bubbles>PageInfo and the public Buganizer component for this directory.
