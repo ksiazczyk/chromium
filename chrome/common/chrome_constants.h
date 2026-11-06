@@ -4,6 +4,12 @@
 
 // A handful of resource-like constants related to the Chrome application.
 
+// ---docerion
+// type: source
+// title: Chrome application constants declarations
+// summary: Declares resource-like constants for executable names, profile directories, and user data filenames used across the Chrome application.
+// ---
+
 #ifndef CHROME_COMMON_CHROME_CONSTANTS_H_
 #define CHROME_COMMON_CHROME_CONSTANTS_H_
 

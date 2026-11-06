@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Packed blocklist file loading
+// summary: Reads the blocklist file path from the registry, loads and validates the sorted packed module array, and supports test path overrides.
+// ---
+
 
 #include "chrome/chrome_elf/third_party_dlls/packed_list_file.h"
 

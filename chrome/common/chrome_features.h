@@ -5,6 +5,12 @@
 // This file defines all the public base::FeatureList features for the chrome
 // module.
 
+// ---docerion
+// type: source
+// title: Chrome feature flags declarations
+// summary: Declares the public base::FeatureList features and feature parameters for the chrome module, documented alongside their definitions.
+// ---
+
 #ifndef CHROME_COMMON_CHROME_FEATURES_H_
 #define CHROME_COMMON_CHROME_FEATURES_H_
 

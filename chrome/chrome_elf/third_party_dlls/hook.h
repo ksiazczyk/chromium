@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hook API declarations
+// summary: Declares ApplyHook to install the DLL-blocking hook after initialization, plus a testing accessor for image data extraction.
+// ---
+
 #ifndef CHROME_CHROME_ELF_THIRD_PARTY_DLLS_HOOK_H_
 #define CHROME_CHROME_ELF_THIRD_PARTY_DLLS_HOOK_H_
 

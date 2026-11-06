@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Blocklist beacon constants
+// summary: Defines the registry key names, property names and maximum attempt count used by the blocklist beacon.
+// ---
+
 #include "chrome/chrome_elf/blocklist_constants.h"
 
 namespace blocklist {

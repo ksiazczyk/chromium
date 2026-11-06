@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Process singleton lock parsing for POSIX
+// summary: Parses the process singleton lock symlink to extract the hostname and PID of the lock owner.
+// ---
+
 #include "chrome/common/process_singleton_lock_posix.h"
 
 #include <string_view>

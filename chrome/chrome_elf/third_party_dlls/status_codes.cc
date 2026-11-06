@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Status code buffer utilities
+// summary: Implements appending ThirdPartyStatus codes to and converting them from the binary registry buffer of status codes.
+// ---
+
 
 #include "chrome/chrome_elf/third_party_dlls/status_codes.h"
 

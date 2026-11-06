@@ -1,0 +1,4 @@
+# Docerion header of sandbox_status_extension_android.mojom.
+type: source
+title: Sandbox status extension Mojom interface for Android
+summary: Defines the Mojo interface used by the browser to tell the renderer to add a JavaScript function that queries the current sandbox status on the Android sandbox page.

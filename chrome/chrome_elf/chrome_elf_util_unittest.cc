@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome ELF utility unit tests
+// summary: Unit tests verifying extension-point disable security behavior using registry overrides and process mitigation policy checks.
+// ---
+
 #include <windows.h>
 
 #include <tuple>

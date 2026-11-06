@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Google URL loader throttle
+// summary: Implements a URL loader throttle handling Google URLs, safe search, and bound session credential request deferral.
+// ---
+
 #include "chrome/common/google_url_loader_throttle.h"
 
 #include <optional>

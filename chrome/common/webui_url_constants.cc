@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI URL constants implementation
+// summary: Implements WebUI URL helpers and host checks, with static assertions keeping constants consistent with ChromeOS ash values.
+// ---
+
 #include "chrome/common/webui_url_constants.h"
 
 #include <array>

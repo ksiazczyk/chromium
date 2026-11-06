@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Actor directory owners
+summary: Sets code owners for the actor directory and routes mojom file reviews to the IPC security owners.

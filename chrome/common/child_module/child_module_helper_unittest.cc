@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Child module helper unit tests
+// summary: Unit tests for the child module path helpers, covering manifest and renderer binary paths plus Windows user path component validation and derivation.
+// ---
+
 #include "chrome/common/child_module/child_module_helper.h"
 
 #include "base/files/file_path.h"

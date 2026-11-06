@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata
+summary: Maps the directory to the ChromeOS Health buganizer component and lists the owning team email address.

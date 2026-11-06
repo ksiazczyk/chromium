@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for chrome/common
+summary: Defines GN build targets for chrome/common, including source sets, buildflag headers, grit resources and a libFuzzer target for the INI parser.

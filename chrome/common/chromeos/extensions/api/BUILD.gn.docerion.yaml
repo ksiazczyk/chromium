@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: ChromeOS system extensions API build targets (BUILD.gn)
+summary: Defines GN targets that generate API JSON strings, types, and feature tables for the ChromeOS system extensions APIs from the IDL schemas.

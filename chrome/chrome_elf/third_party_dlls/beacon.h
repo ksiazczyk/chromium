@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Blocklist beacon API declarations
+// summary: Declares LeaveSetupBeacon and ResetBeacon, the registry beacon functions that guard against Chrome repeatedly failing during third-party DLL blocking setup.
+// ---
+
 #ifndef CHROME_CHROME_ELF_THIRD_PARTY_DLLS_BEACON_H_
 #define CHROME_CHROME_ELF_THIRD_PARTY_DLLS_BEACON_H_
 

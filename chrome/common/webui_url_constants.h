@@ -5,6 +5,12 @@
 // Contains constants for WebUI UI/Host/SubPage constants. Anything else go in
 // chrome/common/url_constants.h.
 
+// ---docerion
+// type: source
+// title: WebUI URL constants header
+// summary: Declares constants for Chrome WebUI hosts, URLs and subpage paths, kept alphabetically with OS- and feature-specific sections.
+// ---
+
 #ifndef CHROME_COMMON_WEBUI_URL_CONSTANTS_H_
 #define CHROME_COMMON_WEBUI_URL_CONSTANTS_H_
 

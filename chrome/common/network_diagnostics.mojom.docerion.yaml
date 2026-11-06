@@ -1,0 +1,4 @@
+# Docerion header of network_diagnostics.mojom.
+type: source
+title: Network diagnostics Mojo interface
+summary: Defines Mojo interfaces for running network diagnostics and reporting DNS probe status so the renderer can update error pages.

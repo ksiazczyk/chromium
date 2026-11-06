@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows icon resource indices
+// summary: Defines the indices of icon resources in chrome_exe.rc for application, app launcher, incognito and document icons in branded and Chromium builds.
+// ---
+
 #ifndef CHROME_COMMON_CHROME_ICON_RESOURCES_WIN_H_
 #define CHROME_COMMON_CHROME_ICON_RESOURCES_WIN_H_
 

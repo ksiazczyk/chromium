@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome result code helpers
+// summary: Implements checks that classify Chrome result codes as normal exits or relaunch requests.
+// ---
+
 #include "chrome/common/chrome_result_codes.h"
 
 bool IsNormalResultCode(ResultCode code) {

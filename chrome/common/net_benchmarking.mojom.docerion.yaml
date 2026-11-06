@@ -1,0 +1,4 @@
+# Docerion header of net_benchmarking.mojom.
+type: source
+title: Net benchmarking Mojom interface
+summary: Mojo interface letting the renderer ask the browser to close sockets and clear cache, host resolver and predictor caches for debugging and testing.

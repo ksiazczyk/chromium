@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: chrome_elf crash helper API header
+// summary: Declares the elf_crash namespace APIs for initializing, shutting down, and disabling crash reporting and generating crash dumps in chrome_elf.
+// ---
+
 #ifndef CHROME_CHROME_ELF_CRASH_CRASH_HELPER_H_
 #define CHROME_CHROME_ELF_CRASH_CRASH_HELPER_H_
 

@@ -10,6 +10,12 @@
 //    for DllMain on Windows.
 //    https://msdn.microsoft.com/en-us/library/windows/desktop/dn633971.aspx
 
+// ---docerion
+// type: source
+// title: Third-party DLL management init header
+// summary: Declares the central Init() entry point for third-party DLL management plus testing-only status code APIs, noting DllMain constraints.
+// ---
+
 #ifndef CHROME_CHROME_ELF_THIRD_PARTY_DLLS_MAIN_H_
 #define CHROME_CHROME_ELF_THIRD_PARTY_DLLS_MAIN_H_
 

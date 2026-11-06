@@ -1,0 +1,4 @@
+# Docerion header of chrome_version.h.in.
+type: config
+title: Chrome version header template
+summary: Template used to generate version.h with version, branding and distribution placeholders.

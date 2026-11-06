@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Chrome ELF owners
+summary: Lists the email addresses of the code owners responsible for the chrome_elf directory.

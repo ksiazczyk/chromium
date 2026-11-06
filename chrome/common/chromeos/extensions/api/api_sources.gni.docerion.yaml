@@ -1,0 +1,4 @@
+# Docerion header of api_sources.gni.
+type: config
+title: ChromeOS system extensions API schema sources and namespace rules
+summary: Lists the ChromeOS system extension API IDL schema sources and sets the root namespace and schema include rules used by the schema compiler.

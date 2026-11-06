@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Compose directory metadata
+summary: Links the compose directory to the shared Compose component metadata file.

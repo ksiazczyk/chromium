@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Child module DEPS include rules
+summary: Grants the child module directory permission to include headers from //components/base32.

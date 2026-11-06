@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: script
+# title: Presubmit externs checks for platform apps APIs
+# summary: Presubmit script that runs the externs checker so API externs stay in sync with the IDL definitions.
+# ---
+
 """Chromium presubmit script for src/chrome/common/apps/platform_apps.
 
 See https://dev.chromium.org/developers/how-tos/depottools/presubmit-scripts

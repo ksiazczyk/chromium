@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RefCountedVector utility template
+// summary: Provides a RefCountedThreadSafe wrapper around std::vector for sharing vector data across threads.
+// ---
+
 #ifndef CHROME_COMMON_REF_COUNTED_UTIL_H__
 #define CHROME_COMMON_REF_COUNTED_UTIL_H__
 

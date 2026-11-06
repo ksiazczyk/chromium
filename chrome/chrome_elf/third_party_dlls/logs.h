@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Load log API declarations
+// summary: Declares LogLoadAttempt, InitLogs and DeinitLogs for recording and managing the internal module load log.
+// ---
+
 #ifndef CHROME_CHROME_ELF_THIRD_PARTY_DLLS_LOGS_H_
 #define CHROME_CHROME_ELF_THIRD_PARTY_DLLS_LOGS_H_
 

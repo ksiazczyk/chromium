@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome constants Windows unit tests
+// summary: Verifies that kChromeVersion matches the file version in the VS_VERSION_INFO resource of chrome.exe on Windows.
+// ---
+
 #include "chrome/common/chrome_constants.h"
 
 #include <memory>

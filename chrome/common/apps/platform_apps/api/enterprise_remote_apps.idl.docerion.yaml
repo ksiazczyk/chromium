@@ -1,0 +1,4 @@
+# Docerion header of enterprise_remote_apps.idl.
+type: reference
+title: enterprise.remoteApps API definition
+summary: Defines the chrome.enterprise.remoteApps API for adding, deleting, sorting, and pinning remote apps in the ChromeOS launcher.

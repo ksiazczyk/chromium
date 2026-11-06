@@ -10,6 +10,12 @@
 // icu is used, and that the "wrong" static value doesn't affect other tests,
 // this test is executed on its own process.
 
+// ---docerion
+// type: test
+// title: Time format browser test
+// summary: Browser test running in a French locale to verify duration formatting handles comma decimal separators without producing NaN.
+// ---
+
 #include <string>
 
 #include "base/strings/utf_string_conversions.h"

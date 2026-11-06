@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RemoteModuleWatcher class for Windows
+// summary: Declares a ModuleWatcher wrapper for child processes that forwards module events to the browser process through the mojom::ModuleEventSink interface.
+// ---
+
 #ifndef CHROME_COMMON_CONFLICTS_REMOTE_MODULE_WATCHER_WIN_H_
 #define CHROME_COMMON_CONFLICTS_REMOTE_MODULE_WATCHER_WIN_H_
 

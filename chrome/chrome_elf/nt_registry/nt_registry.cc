@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the NTDLL-based registry API
+// summary: Implements advapi32-free Windows registry access via NTDLL for chrome_elf, including lazy initialization, HKCU path setup and WOW64 redirection handling.
+// ---
+
 #include "chrome/chrome_elf/nt_registry/nt_registry.h"
 
 #include <assert.h>

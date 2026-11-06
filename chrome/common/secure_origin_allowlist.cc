@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Secure origin allowlist implementation
+// summary: Implements the set of schemes bypassing the secure context check and registers the related insecure-origin preference.
+// ---
+
 #include "chrome/common/secure_origin_allowlist.h"
 
 #include <set>

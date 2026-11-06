@@ -1,0 +1,4 @@
+# Docerion header of features.gni.
+type: config
+title: Chrome feature build flags
+summary: GN build arguments and grit defines controlling which Chrome features are enabled per platform.

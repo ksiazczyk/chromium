@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Controlled Frame availability check header
+// summary: Declares AvailabilityCheck and CreateAvailabilityCheckMap, which wire delegated availability checks for Controlled Frame and related extension features.
+// ---
+
 #ifndef CHROME_COMMON_CONTROLLED_FRAME_CONTROLLED_FRAME_H_
 #define CHROME_COMMON_CONTROLLED_FRAME_CONTROLLED_FRAME_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of _manifest_features.json.
+type: config
+title: ChromeOS system extension manifest key features
+summary: Defines the chromeos_system_extension manifest key, its allowed extension types, and the allowlist of extension ID hashes permitted to declare it.

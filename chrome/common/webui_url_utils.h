@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI URL utilities header
+// summary: Declares functions for detecting trusted and untrusted Top Chrome WebUI URLs and for refusing key view status in Top Chrome WebUIs.
+// ---
+
 #ifndef CHROME_COMMON_WEBUI_URL_UTILS_H_
 #define CHROME_COMMON_WEBUI_URL_UTILS_H_
 

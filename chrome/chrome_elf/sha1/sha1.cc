@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: chrome_elf SHA-1 implementation
+// summary: Standalone SHA-1 implementation for chrome_elf that avoids depending on //base or BoringSSL, used by its NtMapViewOfSection hook on every DLL load.
+// ---
+
 #include "chrome/chrome_elf/sha1/sha1.h"
 
 #include <stddef.h>

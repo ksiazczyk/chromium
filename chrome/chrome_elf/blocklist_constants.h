@@ -4,6 +4,12 @@
 
 // A handful of blocklist constants related to the ChromeELF.
 
+// ---docerion
+// type: source
+// title: Blocklist constants declarations
+// summary: Declares the blocklist beacon constants and the blocklist state enum used by Chrome ELF.
+// ---
+
 #ifndef CHROME_CHROME_ELF_BLOCKLIST_CONSTANTS_H_
 #define CHROME_CHROME_ELF_BLOCKLIST_CONSTANTS_H_
 

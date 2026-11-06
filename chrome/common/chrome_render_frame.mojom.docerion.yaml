@@ -1,0 +1,4 @@
+# Docerion header of chrome_render_frame.mojom.
+type: source
+title: Chrome render frame Mojo interface
+summary: Defines the chrome.mojom ChromeRenderFrame interface for browser-to-render-frame messages, including window features and image capture requests.

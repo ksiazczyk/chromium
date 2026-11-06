@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Compose type conversion unit tests
+// summary: Unit tests verifying that Optimization Guide results, errors, and user feedback map to the expected Compose statuses.
+// ---
+
 #include "chrome/common/compose/type_conversions.h"
 
 #include "components/optimization_guide/core/model_execution/remote_model_executor.h"

@@ -1,0 +1,4 @@
+# Docerion header of events.idl.
+type: reference
+title: chrome.os.events extension API definition
+summary: Defines the chrome.os.events extension API for subscribing to real-time device events such as audio jack, lid, USB, keyboard, touchpad, and display changes.

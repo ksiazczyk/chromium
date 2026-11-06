@@ -1,6 +1,13 @@
 // Copyright 2018 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Test executable for third-party DLL unit tests
+// summary: Standalone test program that initializes third-party DLL management with a test blocklist and registry override, then loads DLLs and reports exit codes.
+// ---
+
 #include "chrome/chrome_elf/third_party_dlls/main_unittest_exe.h"
 
 #include <windows.h>

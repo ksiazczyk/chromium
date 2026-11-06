@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for packed list file loading
+// summary: Unit tests verifying packed blocklist file loading, registry-based path configuration, and module lookup using system binaries as test data.
+// ---
+
 #include "chrome/chrome_elf/third_party_dlls/packed_list_file.h"
 
 #include <windows.h>

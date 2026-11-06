@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome content client implementation
+// summary: Implements ChromeContentClient, supplying plugins, content decryption modules, URL schemes, localized resources, crash keys and origin trial policy to the content layer.
+// ---
+
 #include "chrome/common/chrome_content_client.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome ELF DLL main implementation
+// summary: Implements chrome_elf.dll entry points, including DllMain, crash reporting initialization, and the user data directory thunk used by Chrome processes.
+// ---
+
 #include "chrome/chrome_elf/chrome_elf_main.h"
 
 #include <windows.h>

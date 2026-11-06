@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the conflicts directory
+summary: Lists the code owners for the directory and routes reviews of Mojo files to the IPC security owners.

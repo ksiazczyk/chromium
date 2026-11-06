@@ -1,0 +1,4 @@
+# Docerion header of chrome_elf.def.
+type: config
+title: chrome_elf.dll export definitions
+summary: Module definition file listing the symbols exported from chrome_elf.dll, including crash reporting, user data directory and third-party DLL hook functions.

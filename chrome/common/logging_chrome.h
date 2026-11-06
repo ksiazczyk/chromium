@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome logging interface
+// summary: Declares functions to initialize and clean up Chrome logging, resolve log file paths and manage ChromeOS log rotation and symlinks.
+// ---
+
 #ifndef CHROME_COMMON_LOGGING_CHROME_H_
 #define CHROME_COMMON_LOGGING_CHROME_H_
 

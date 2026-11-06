@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for chrome/common/apps
+summary: Ownership file that delegates code review approval to the shared apps/OWNERS file.

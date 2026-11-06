@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI utility implementation
+// summary: Implements the logic that decides whether the generated code cache should be used for a given WebUI resource request, honoring the restricted code cache feature.
+// ---
+
 #include "chrome/common/webui_util.h"
 
 #include "base/containers/flat_set.h"

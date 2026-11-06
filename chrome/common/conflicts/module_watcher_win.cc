@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ModuleWatcher implementation for Windows
+// summary: Implements the ModuleWatcher that observes DLL load and unload events using loader notification functions not exposed in the Platform SDK.
+// ---
+
 #include "chrome/common/conflicts/module_watcher_win.h"
 
 #include <windows.h>

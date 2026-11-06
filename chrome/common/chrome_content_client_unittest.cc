@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome content client unit tests
+// summary: Tests registration of additional Chrome URL schemes as secure and trustworthy, and thread-safe lazy access to the origin trial policy.
+// ---
+
 #include "chrome/common/chrome_content_client.h"
 
 #include <algorithm>

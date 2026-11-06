@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Controlled Frame API provider header
+// summary: Declares ControlledFrameAPIProvider, an ExtensionsAPIProvider supplying Controlled Frame features, schemas, and registration hooks.
+// ---
+
 #ifndef CHROME_COMMON_CONTROLLED_FRAME_CONTROLLED_FRAME_API_PROVIDER_H_
 #define CHROME_COMMON_CONTROLLED_FRAME_CONTROLLED_FRAME_API_PROVIDER_H_
 

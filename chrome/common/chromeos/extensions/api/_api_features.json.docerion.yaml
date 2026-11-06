@@ -1,0 +1,4 @@
+# Docerion header of _api_features.json.
+type: config
+title: ChromeOS system extensions API features
+summary: Declares which os.* extension APIs are available to privileged ChromeOS system extensions and which permissions they depend on.

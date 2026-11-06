@@ -1,0 +1,4 @@
+# Docerion header of browser.idl.
+type: reference
+title: Browser API definition for Chrome apps
+summary: Defines the chrome.browser API for opening tabs in the browser window associated with the current app and Chrome profile.

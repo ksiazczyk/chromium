@@ -1,0 +1,4 @@
+# Docerion header of _api_features.json.
+type: config
+title: Controlled Frame API feature definitions
+summary: Features file that exposes the internal controlledFrameInternal API to web pages on the stable channel, gated by a delegated availability check.

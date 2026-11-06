@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Child module BUILD.gn build definition
+summary: Defines the child_module source set and its unit tests, adding Windows-only sources and base32 and crypto dependencies on Windows.

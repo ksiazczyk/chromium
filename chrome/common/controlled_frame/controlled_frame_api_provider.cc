@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Controlled Frame API provider implementation
+// summary: Implements the ExtensionsAPIProvider that adds Controlled Frame API features, loads JSON feature sources, and serves generated API schemas.
+// ---
+
 #include "chrome/common/controlled_frame/controlled_frame_api_provider.h"
 
 #include <string_view>

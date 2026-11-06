@@ -1,0 +1,4 @@
+# Docerion header of arc_apps_private.idl.
+type: reference
+title: arcAppsPrivate API definition
+summary: Defines the chrome.arcAppsPrivate API for listing and launching installed ARC apps on ChromeOS.

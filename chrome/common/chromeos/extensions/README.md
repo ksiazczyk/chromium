@@ -1,3 +1,9 @@
+---
+type: readme
+title: Chrome OS System Extension platform based on the Chrome Extension System
+summary: Introduces the Chrome OS System Extension platform and links to related design documents.
+---
+
 # Chrome OS System Extension platform based on the Chrome Extension System.
 
 Related design documents.

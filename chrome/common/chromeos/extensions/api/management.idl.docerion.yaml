@@ -1,0 +1,4 @@
+# Docerion header of management.idl.
+type: reference
+title: chrome.os.management extension API definition
+summary: Defines the chrome.os.management extension API for setting the gain, volume, and mute state of audio devices.

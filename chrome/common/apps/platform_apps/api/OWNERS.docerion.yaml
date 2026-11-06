@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Per-file owners for Chrome Apps API files
+summary: Delegates review of JSON, IDL, and WebIDL API files in this directory to the extensions common API owners.

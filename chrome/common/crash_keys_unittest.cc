@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Crash keys unit tests
+// summary: Unit tests verifying crash key allocation, string annotation switches, and filtering of boring command line flags.
+// ---
+
 #include "chrome/common/crash_keys.h"
 
 #include <set>

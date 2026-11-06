@@ -1,0 +1,4 @@
+# Docerion header of trusted_vault_encryption_keys_extension.mojom.
+type: source
+title: Trusted vault encryption keys extension Mojom interface
+summary: Defines a Mojom API for allowed renderer origins to set trusted vault encryption keys and add trusted recovery methods.

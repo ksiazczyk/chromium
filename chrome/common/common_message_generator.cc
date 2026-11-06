@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Common IPC message generator source
+// summary: Generates IPC param traits write and read methods for common Chrome messages.
+// ---
+
 // Get basic type definitions.
 #include "chrome/common/common_message_generator.h"
 

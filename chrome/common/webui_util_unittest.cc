@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebUI utility unit tests
+// summary: Parameterized unit tests verifying ShouldUseCodeCacheForWebUIUrl behavior with the restricted and unrestricted WebUI code cache feature settings.
+// ---
+
 #include "chrome/common/webui_util.h"
 
 #include "base/strings/strcat.h"

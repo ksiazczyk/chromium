@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Webkit font preference names
+// summary: Defines the webkit.webprefs.fonts preference name macros used together with the font script list.
+// ---
+
 #ifndef CHROME_COMMON_PREF_FONT_WEBKIT_NAMES_H__
 #define CHROME_COMMON_PREF_FONT_WEBKIT_NAMES_H__
 

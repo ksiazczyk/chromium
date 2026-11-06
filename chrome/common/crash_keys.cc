@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crash keys for command line switches
+// summary: Implements crash key allocation and filtering of boring command line switches for Chromium crash reporting.
+// ---
+
 #include "chrome/common/crash_keys.h"
 
 #include <array>

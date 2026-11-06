@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test DLL declarations for IATHook tests
+// summary: Declares the ExportedApi and ExportedApiCallCount exports provided by the IAT hook test DLL.
+// ---
+
 #ifndef CHROME_CHROME_ELF_HOOK_UTIL_TEST_HOOK_UTIL_TEST_DLL_H_
 #define CHROME_CHROME_ELF_HOOK_UTIL_TEST_HOOK_UTIL_TEST_DLL_H_
 

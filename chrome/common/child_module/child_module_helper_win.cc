@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows child module helper implementation
+// summary: Windows implementation that validates Base32 user path components and computes them from a user SID and canonical User Data directory via SHA-256 hashing.
+// ---
+
 #include "chrome/common/child_module/child_module_helper.h"
 
 #include <algorithm>

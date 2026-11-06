@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Section mapping hook for DLL blocking
+// summary: Implements the NtMapViewOfSection hook that inspects mapped images and blocks third-party DLLs, reporting results to the load log.
+// ---
+
 #include "chrome/chrome_elf/third_party_dlls/hook.h"
 
 #include <windows.h>

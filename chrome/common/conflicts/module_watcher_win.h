@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ModuleWatcher class for Windows
+// summary: Declares the ModuleWatcher class that reports modules as they are loaded into a process's address space, as a single-instance watcher with an event callback.
+// ---
+
 #ifndef CHROME_COMMON_CONFLICTS_MODULE_WATCHER_WIN_H_
 #define CHROME_COMMON_CONFLICTS_MODULE_WATCHER_WIN_H_
 

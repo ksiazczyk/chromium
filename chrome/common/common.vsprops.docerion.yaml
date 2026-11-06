@@ -1,0 +1,4 @@
+# Docerion header of common.vsprops.
+type: config
+title: Visual Studio common property sheet
+summary: Visual C++ property sheet for the chrome common project, inheriting shared build dependency sheets.

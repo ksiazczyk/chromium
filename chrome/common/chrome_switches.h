@@ -5,6 +5,12 @@
 // Defines the shared command-line switches used by code in the Chrome
 // directory that don't have anywhere more specific to go.
 
+// ---docerion
+// type: source
+// title: Shared Chrome command-line switches
+// summary: Declares the command-line switches shared by code in the Chrome directory.
+// ---
+
 #ifndef CHROME_COMMON_CHROME_SWITCHES_H_
 #define CHROME_COMMON_CHROME_SWITCHES_H_
 

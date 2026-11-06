@@ -4,6 +4,12 @@
 
 // These tests make sure MediaGalleriesPermission values are parsed correctly.
 
+// ---docerion
+// type: test
+// title: MediaGalleriesPermission unit tests
+// summary: Unit tests verifying that mediaGalleries permission values are parsed correctly, covering valid and invalid permission combinations.
+// ---
+
 #include <memory>
 
 #include "base/values.h"

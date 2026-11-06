@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: INI parser unit tests
+// summary: Unit tests verifying INIParser triplet handling, blank line and comment skipping, line ending tolerance and dictionary path behavior.
+// ---
+
 #include "chrome/common/ini_parser.h"
 
 #include <stddef.h>

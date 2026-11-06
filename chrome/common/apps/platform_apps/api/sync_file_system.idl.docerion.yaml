@@ -1,0 +1,4 @@
+# Docerion header of sync_file_system.idl.
+type: reference
+title: Sync File System API definition
+summary: Defines the chrome.syncFileSystem API for saving and synchronizing app-specific data on Google Drive, including sync statuses, conflict policies and service state events.

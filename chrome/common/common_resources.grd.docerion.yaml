@@ -1,0 +1,4 @@
+# Docerion header of common_resources.grd.
+type: config
+title: Common resources grit definition
+summary: Grit resource list that packages Chrome API feature JSON files into common resources outputs.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Third-party DLL main unit tests
+// summary: Unit tests for third-party DLL initialization and blocking, launching a child test executable with generated packed list files and test DLLs.
+// ---
+
 #include "chrome/chrome_elf/third_party_dlls/main.h"
 
 #include <windows.h>

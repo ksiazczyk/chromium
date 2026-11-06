@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome ELF early browser security implementation
+// summary: Applies early browser-process security by disabling extension points through SetProcessMitigationPolicy when the configured registry key is present.
+// ---
+
 #include "chrome/chrome_elf/chrome_elf_security.h"
 
 // clang-format off

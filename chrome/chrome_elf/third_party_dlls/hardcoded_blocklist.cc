@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hard-coded DLL blocklist
+// summary: Defines a list of known crash-causing or unwanted DLL names and provides DllMatch to check a module name against it.
+// ---
+
 
 #include "chrome/chrome_elf/third_party_dlls/hardcoded_blocklist.h"
 

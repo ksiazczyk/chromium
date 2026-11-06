@@ -1,0 +1,4 @@
+# Docerion header of chrome_paths_mac.mm.
+type: source
+title: macOS Chrome path implementations
+summary: Implements macOS-specific user data, cache, documents, and library directory lookups using bundle information and the CrProductDirName key.

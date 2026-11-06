@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Child module helper header
+// summary: Declares child module path constants and helper functions for locating staged manifests, renderer binaries, and per-user module directories.
+// ---
+
 #ifndef CHROME_COMMON_CHILD_MODULE_CHILD_MODULE_HELPER_H_
 #define CHROME_COMMON_CHILD_MODULE_CHILD_MODULE_HELPER_H_
 

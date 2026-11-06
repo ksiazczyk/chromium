@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS system extensions API permissions
+// summary: Registers the API permissions, such as telemetry and diagnostics, available to ChromeOS system extensions.
+// ---
+
 #include "chrome/common/chromeos/extensions/chromeos_system_extensions_api_permissions.h"
 
 #include "base/containers/span.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Third-party DLL status codes
+// summary: Defines the ThirdPartyStatus enum for initialization, file, and hook failures used in UMA histograms, plus buffer conversion helpers.
+// ---
+
 #ifndef CHROME_CHROME_ELF_THIRD_PARTY_DLLS_STATUS_CODES_H_
 #define CHROME_CHROME_ELF_THIRD_PARTY_DLLS_STATUS_CODES_H_
 

@@ -8,6 +8,12 @@
 // contain any header guards. Callers need to
 // #define EXPAND_SCRIPT_FONTS to their needs and call ALL_FONT_SCRIPTS.
 
+// ---docerion
+// type: source
+// title: Font script name list
+// summary: Macro list of all font scripts used to generate the font preference data tables for each script.
+// ---
+
 #define ALL_FONT_SCRIPTS(x)     \
   EXPAND_SCRIPT_FONT(x, "Afak") \
   EXPAND_SCRIPT_FONT(x, "Arab") \

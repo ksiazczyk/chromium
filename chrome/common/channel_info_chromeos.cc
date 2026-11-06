@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS channel info implementation
+// summary: Implements channel info for Chrome OS Ash by delegating to the ash channel component and returning no data dir suffix.
+// ---
+
 #include "chrome/common/channel_info.h"
 
 #include "chromeos/ash/components/channel/channel_info.h"

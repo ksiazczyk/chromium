@@ -1,0 +1,4 @@
+# Docerion header of telemetry.idl.
+type: reference
+title: chrome.os.telemetry extension API definition
+summary: Defines the chrome.os.telemetry extension API for reading telemetry data about audio, battery, block devices, CPU, displays, and other hardware.

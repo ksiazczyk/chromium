@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome isolated world IDs
+// summary: Enumerates isolated world IDs for Chrome Translate, Indigo, internal features, AppleScript and extensions, kept in sync with the Android Java counterpart.
+// ---
+
 #ifndef CHROME_COMMON_CHROME_ISOLATED_WORLD_IDS_H_
 #define CHROME_COMMON_CHROME_ISOLATED_WORLD_IDS_H_
 

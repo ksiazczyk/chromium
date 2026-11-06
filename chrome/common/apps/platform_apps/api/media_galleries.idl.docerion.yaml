@@ -1,0 +1,4 @@
+# Docerion header of media_galleries.idl.
+type: reference
+title: Media Galleries API definition
+summary: Defines the chrome.mediaGalleries API for accessing audio, image and video files from the user's local disks with user consent, including metadata types and gallery change events.

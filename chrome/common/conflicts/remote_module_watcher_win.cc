@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RemoteModuleWatcher implementation for Windows
+// summary: Implements a child-process module watcher that accumulates module load addresses and batches them to the browser process via the Mojo event sink.
+// ---
+
 #include "chrome/common/conflicts/remote_module_watcher_win.h"
 
 #include "base/task/sequenced_task_runner.h"

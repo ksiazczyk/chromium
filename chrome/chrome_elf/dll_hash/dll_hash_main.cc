@@ -6,6 +6,12 @@
 // for inclusion in tools/metrics/histograms/histograms.xml. Every
 // dll name must have a corresponding entry in the enum there.
 
+// ---docerion
+// type: source
+// title: DLL hash command-line utility
+// summary: Utility executable that prints hashes for given DLL names as int entries for the UMA histograms enum.
+// ---
+
 #include <stdio.h>
 
 #include <string>

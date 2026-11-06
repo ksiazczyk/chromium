@@ -1,0 +1,4 @@
+# Docerion header of extra_defines.vsprops.
+type: config
+title: Visual Studio extra defines property sheet
+summary: Essentially empty Visual C++ property sheet named extra, intended to hold additional project defines.

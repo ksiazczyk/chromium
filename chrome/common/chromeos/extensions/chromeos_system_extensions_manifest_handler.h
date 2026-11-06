@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS system extension manifest handler declaration
+// summary: Declares ChromeOSSystemExtensionHandler, the extensions manifest handler responsible for parsing the chromeos_system_extension manifest key.
+// ---
+
 #ifndef CHROME_COMMON_CHROMEOS_EXTENSIONS_CHROMEOS_SYSTEM_EXTENSIONS_MANIFEST_HANDLER_H_
 #define CHROME_COMMON_CHROMEOS_EXTENSIONS_CHROMEOS_SYSTEM_EXTENSIONS_MANIFEST_HANDLER_H_
 

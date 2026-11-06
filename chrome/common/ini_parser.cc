@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: INI parser implementation
+// summary: Implements a basic INI parser that tokenizes sections and key/value pairs and passes each triplet to a handler callback.
+// ---
+
 #include "chrome/common/ini_parser.h"
 
 #include <stddef.h>

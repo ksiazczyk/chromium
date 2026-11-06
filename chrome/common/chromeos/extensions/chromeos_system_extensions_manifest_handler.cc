@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS system extension manifest handler implementation
+// summary: Parses and validates the chromeos_system_extension manifest key, checking the extension ID and that externally_connectable matches only the allowed PWA or Isolated Web App origin.
+// ---
+
 #include "chrome/common/chromeos/extensions/chromeos_system_extensions_manifest_handler.h"
 
 #include "base/strings/strcat.h"

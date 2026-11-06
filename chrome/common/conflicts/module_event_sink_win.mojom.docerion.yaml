@@ -1,0 +1,4 @@
+# Docerion header of module_event_sink_win.mojom.
+type: source
+title: ModuleEventSink Mojo interface
+summary: Defines the Mojo interface for a remote consumer of module events, notifying a module database of module load addresses in a remote process.

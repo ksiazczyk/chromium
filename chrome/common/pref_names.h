@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome preference name constants
+// summary: Declares the constants for Chrome profile and local state preference names used across browser code.
+// ---
+
 #ifndef CHROME_COMMON_PREF_NAMES_H_
 #define CHROME_COMMON_PREF_NAMES_H_
 

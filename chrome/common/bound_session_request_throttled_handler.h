@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Interface for handling requests blocked on bound session cookies
+// summary: Declares an interface for handling network requests blocked on bound session cookies, with a callback to resume or cancel throttled requests.
+// ---
+
 #include "base/functional/callback_forward.h"
 #include "base/time/time.h"
 #include "chrome/common/renderer_configuration.mojom.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeAppsAPIProvider class header
+// summary: Declares the ChromeAppsAPIProvider class that supplies Chrome app API, permission, and schema features to the extensions system.
+// ---
+
 #ifndef CHROME_COMMON_APPS_PLATFORM_APPS_CHROME_APPS_API_PROVIDER_H_
 #define CHROME_COMMON_APPS_PLATFORM_APPS_CHROME_APPS_API_PROVIDER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Child module OWNERS reference
+summary: Delegates code ownership and review for this directory to chrome/browser/child_module/OWNERS.

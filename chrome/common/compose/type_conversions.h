@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Compose type conversion declarations
+// summary: Declares helper functions that convert between Compose Mojo types and Optimization Guide proto types.
+// ---
+
 #ifndef CHROME_COMMON_COMPOSE_TYPE_CONVERSIONS_H_
 #define CHROME_COMMON_COMPOSE_TYPE_CONVERSIONS_H_
 

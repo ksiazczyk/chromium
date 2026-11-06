@@ -1,0 +1,4 @@
+# Docerion header of channel_info_mac.mm.
+type: source
+title: Mac channel info implementation
+summary: Implements channel info on macOS by parsing Keystone KSChannelID values from the app bundle, including extended stable and side-by-side support.

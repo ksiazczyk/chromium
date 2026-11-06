@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Packed list registry constants and fingerprint helper
+// summary: Defines the third-party registry key and value names and builds the fingerprint string from PE timestamp and image size for code ID hashing.
+// ---
+
 #include "chrome/chrome_elf/third_party_dlls/packed_list_format.h"
 
 #include <stddef.h>

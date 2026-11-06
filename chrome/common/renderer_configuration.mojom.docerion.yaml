@@ -1,0 +1,4 @@
+# Docerion header of renderer_configuration.mojom.
+type: source
+title: Renderer configuration Mojo interfaces
+summary: Defines Mojo structs and interfaces for configuring renderers, including bound session throttling and ChromeOS session listeners.

@@ -1,0 +1,4 @@
+# Docerion header of main_unittest_dll_2.def.
+type: test
+title: Module definition for test DLL 2
+summary: Linker module-definition file exporting DummyExport from the main_unittest_dll_2 test DLL.

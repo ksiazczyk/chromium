@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: INI parser interface
+// summary: Declares INIParser and DictionaryValueINIParser, which parse INI content into a dictionary of section.key string values.
+// ---
+
 #ifndef CHROME_COMMON_INI_PARSER_H_
 #define CHROME_COMMON_INI_PARSER_H_
 

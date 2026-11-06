@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI utility header
+// summary: Declares ShouldUseCodeCacheForWebUIUrl, which reports whether the generated code cache applies to a WebUI resource request URL.
+// ---
+
 #ifndef CHROME_COMMON_WEBUI_UTIL_H_
 #define CHROME_COMMON_WEBUI_UTIL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaGalleriesPermission implementation
+// summary: Implements the mediaGalleries permission, validating that copyTo requires read and delete and that delete requires read.
+// ---
+
 #include "chrome/common/apps/platform_apps/media_galleries_permission.h"
 
 #include <stddef.h>

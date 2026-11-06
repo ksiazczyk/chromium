@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DLL name to hash header
+// summary: Declares DllNameToHash, which converts a DLL name into a hash value suitable for UMA reporting.
+// ---
+
 #ifndef CHROME_CHROME_ELF_DLL_HASH_DLL_HASH_H_
 #define CHROME_CHROME_ELF_DLL_HASH_DLL_HASH_H_
 

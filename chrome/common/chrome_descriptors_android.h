@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android IPC file descriptors
+// summary: Enumerates Android-specific IPC file descriptors for WebView and non-WebView locale pak files, UI resources and minidumps.
+// ---
+
 #ifndef CHROME_COMMON_CHROME_DESCRIPTORS_ANDROID_H_
 #define CHROME_COMMON_CHROME_DESCRIPTORS_ANDROID_H_
 

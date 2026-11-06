@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows launcher that starts Chrome for bookmark app shortcuts
+// summary: Implements chrome_proxy.exe, a workaround for a Windows 10 start menu pinning bug that launches chrome.exe and forwards command line arguments and shortcut info.
+// ---
+
 #include <windows.h>
 
 #include "base/command_line.h"

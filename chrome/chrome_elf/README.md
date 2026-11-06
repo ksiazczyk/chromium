@@ -1,3 +1,11 @@
+---
+type: readme
+title: Chrome Early Loading Framework (ELF)
+summary: Explains the purpose of the early loading framework, the chrome_elf.dll DllMain entry point, and how import reordering makes it load first in chrome.exe.
+relations:
+  - documents /chrome/chrome_elf/chrome_elf_main.cc
+---
+
 # Chrome Early Loading Framework (ELF)
 
 The Chrome Early Loading Framework provides a facility to execute code very

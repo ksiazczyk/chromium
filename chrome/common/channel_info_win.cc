@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows channel info implementation
+// summary: Implements channel info on Windows by delegating to install_static utilities for channel name, channel, and extended stable queries.
+// ---
+
 #include "chrome/common/channel_info.h"
 
 #include "base/strings/utf_string_conversions.h"

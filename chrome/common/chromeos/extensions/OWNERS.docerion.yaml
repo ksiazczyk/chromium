@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Directory owners
+summary: Points to the cros_healthd OWNERS file as the reviewers for this directory.

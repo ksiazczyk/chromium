@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux XDG autostart application management
+// summary: Implements adding, removing and reading XDG autostart desktop entries for applications on Linux.
+// ---
+
 #include "chrome/common/auto_start_linux.h"
 
 #include <stddef.h>
