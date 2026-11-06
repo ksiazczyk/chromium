@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock Mojo DHCP WPAD URL client
+// summary: Mock implementation of the DhcpWpadUrlClient Mojo interface that returns a fixed PAC URL for use in tests.
+// ---
+
 #ifndef SERVICES_NETWORK_MOCK_MOJO_DHCP_WPAD_URL_CLIENT_H_
 #define SERVICES_NETWORK_MOCK_MOJO_DHCP_WPAD_URL_CLIENT_H_
 

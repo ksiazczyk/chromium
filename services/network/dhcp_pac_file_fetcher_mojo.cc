@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DhcpPacFileFetcherMojo implementation
+// summary: Implements a PAC file fetcher that obtains the WPAD URL from a DHCP client delegate and downloads the PAC script via the URL request context.
+// ---
+
 #include "services/network/dhcp_pac_file_fetcher_mojo.h"
 
 #include "base/functional/bind.h"

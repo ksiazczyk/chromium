@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CookieAccessDelegateImpl declaration
+// summary: Declares CookieAccessDelegateImpl, a net::CookieAccessDelegate that consults CookieSettings for legacy access rules, scope semantics, and trusted URLs.
+// ---
+
 #ifndef SERVICES_NETWORK_COOKIE_ACCESS_DELEGATE_IMPL_H_
 #define SERVICES_NETWORK_COOKIE_ACCESS_DELEGATE_IMPL_H_
 

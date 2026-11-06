@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Multiple durable message writer unit tests
+// summary: Unit tests verifying that MultipleDurableMessageWriterImpl forwards AddBytes, MarkComplete, and SetClientDecodingTypes to all durable messages.
+// ---
+
 #include "services/network/multiple_durable_message_writer_impl.h"
 
 #include <memory>

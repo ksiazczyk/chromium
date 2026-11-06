@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL loader helper functions
+// summary: Helpers that configure URLRequests, build upload data streams, and compute cookie settings and isolation info.
+// ---
+
 #include "services/network/url_loader_util.h"
 
 #include <algorithm>

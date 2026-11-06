@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebTransport network service implementation
+// summary: Implements mojom::WebTransport in the network service over the net QUIC-based WebTransport client, handling datagrams, streams, priorities and connection parameters.
+// ---
+
 #include "services/network/web_transport.h"
 
 #include <stdint.h>

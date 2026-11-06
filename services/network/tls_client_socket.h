@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TLSClientSocket class declaration
+// summary: Declares TLSClientSocket, the network service implementation of mojom::TLSClientSocket built on an SSL client socket with a SocketDataPump delegate.
+// ---
+
 #ifndef SERVICES_NETWORK_TLS_CLIENT_SOCKET_H_
 #define SERVICES_NETWORK_TLS_CLIENT_SOCKET_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Multiple durable message writer implementation
+// summary: Implements a DevtoolsDurableMessageWriter that forwards response body bytes, completion, and decoding types to multiple durable messages.
+// ---
+
 #include "services/network/multiple_durable_message_writer_impl.h"
 
 #include "services/network/devtools_durable_msg.h"

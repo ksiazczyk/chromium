@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Brokered client socket factory header
+// summary: Declares BrokeredClientSocketFactory, a ClientSocketFactory that creates brokered sockets and forwards socket creation requests to the SocketBroker.
+// ---
+
 #ifndef SERVICES_NETWORK_BROKERED_CLIENT_SOCKET_FACTORY_H_
 #define SERVICES_NETWORK_BROKERED_CLIENT_SOCKET_FACTORY_H_
 

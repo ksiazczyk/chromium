@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UploadProgressTracker unit tests
+// summary: Unit tests for upload progress reporting using mock time and a testing tracker subclass, covering ACK waiting, empty uploads, and no-progress cases.
+// ---
+
 #include "services/network/upload_progress_tracker.h"
 
 #include "base/functional/bind.h"

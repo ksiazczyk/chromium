@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: mDNS responder service implementation
+// summary: Implements the network service mDNS responder, handling queries, announcements, negative responses, rate limiting, retries, and the mDNS name generator service per RFC 6762 and 6763.
+// ---
+
 #include "services/network/mdns_responder.h"
 
 #include <algorithm>

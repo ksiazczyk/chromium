@@ -1,3 +1,13 @@
+---
+type: readme
+title: Network Service
+summary: Overview of the network service's design goals, where it runs, how it starts, and what happens when it crashes.
+relations:
+  - references /docs/mojo_and_services.md
+  - references /docs/threading_and_tasks.md
+  - references /services/network/url_loader.md
+---
+
 # Network Service
 
 [TOC]

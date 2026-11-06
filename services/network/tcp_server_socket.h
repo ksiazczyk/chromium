@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TCPServerSocket class declaration
+// summary: Declares the network service TCPServerSocket that listens on a local address and hands accepted connections to a delegate, with ChromeOS connection tracking support.
+// ---
+
 #ifndef SERVICES_NETWORK_TCP_SERVER_SOCKET_H_
 #define SERVICES_NETWORK_TCP_SERVER_SOCKET_H_
 

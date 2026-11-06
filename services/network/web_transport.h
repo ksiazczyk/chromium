@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebTransport class header
+// summary: Declares the WebTransport class that implements mojom::WebTransport and net::WebTransportClientVisitor for WebTransport sessions in the network service.
+// ---
+
 #ifndef SERVICES_NETWORK_WEB_TRANSPORT_H_
 #define SERVICES_NETWORK_WEB_TRANSPORT_H_
 

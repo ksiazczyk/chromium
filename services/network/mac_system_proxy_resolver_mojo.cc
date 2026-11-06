@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac system proxy resolver Mojo implementation
+// summary: Implements Mac system proxy resolution by forwarding GetProxyForUrl requests to a Mojo SystemProxyResolver service and reporting results back to the caller.
+// ---
+
 #include "services/network/mac_system_proxy_resolver_mojo.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PendingCallbackChain class declaration
+// summary: Declares a reference-counted helper that tracks multiple operations which may return ERR_IO_PENDING, deferring the completion callback and aggregating error results.
+// ---
+
 #ifndef SERVICES_NETWORK_PENDING_CALLBACK_CHAIN_H_
 #define SERVICES_NETWORK_PENDING_CALLBACK_CHAIN_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkQualityEstimatorManager implementation
+// summary: Implements the manager that owns the network quality estimator and rebroadcasts quality change notifications to Mojo clients.
+// ---
+
 #include "services/network/network_quality_estimator_manager.h"
 
 #include <algorithm>

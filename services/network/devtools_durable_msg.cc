@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools durable message storage
+// summary: Stores network message bytes for DevTools and decodes them with the client's supported content encodings when retrieved.
+// ---
+
 #include "services/network/devtools_durable_msg.h"
 
 #include "base/functional/callback_helpers.h"

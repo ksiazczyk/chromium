@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accept-CH frame interceptor implementation
+// summary: Implements handling of HTTP/2 and HTTP/3 ACCEPT_CH frames, computing missing client hints and notifying the browser observer.
+// ---
+
 #include "services/network/accept_ch_frame_interceptor.h"
 
 #include <algorithm>

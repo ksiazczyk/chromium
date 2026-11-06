@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProxyResolvingClientSocketFactory implementation
+// summary: Implements a factory that creates ProxyResolvingClientSockets using a dedicated HttpNetworkSession built from a URLRequestContext.
+// ---
+
 #include "services/network/proxy_resolving_client_socket_factory.h"
 
 #include "base/check.h"

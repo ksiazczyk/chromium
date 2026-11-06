@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SSLConfigServiceMojo implementation
+// summary: Implements an SSL config service that receives SSL configuration updates over Mojo and applies them to the SSL context and certificate verifier.
+// ---
+
 #include "services/network/ssl_config_service_mojo.h"
 
 #include <string_view>

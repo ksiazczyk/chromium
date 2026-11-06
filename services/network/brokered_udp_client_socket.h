@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Brokered UDP client socket header
+// summary: Declares BrokeredUdpClientSocket, a datagram client socket for Windows that brokers socket creation via the SocketBroker interface.
+// ---
+
 #ifndef SERVICES_NETWORK_BROKERED_UDP_CLIENT_SOCKET_H_
 #define SERVICES_NETWORK_BROKERED_UDP_CLIENT_SOCKET_H_
 

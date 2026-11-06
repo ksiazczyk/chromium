@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device bound session manager declaration
+// summary: Declares the network service DeviceBoundSessionManager Mojo interface with session creation, deletion, prewarming, and access and event observer support.
+// ---
+
 #ifndef SERVICES_NETWORK_DEVICE_BOUND_SESSION_MANAGER_H_
 #define SERVICES_NETWORK_DEVICE_BOUND_SESSION_MANAGER_H_
 

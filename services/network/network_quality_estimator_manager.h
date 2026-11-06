@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkQualityEstimatorManager header
+// summary: Declares the Mojo manager that forwards effective connection type and RTT and throughput estimates to registered clients.
+// ---
+
 #ifndef SERVICES_NETWORK_NETWORK_QUALITY_ESTIMATOR_MANAGER_H_
 #define SERVICES_NETWORK_NETWORK_QUALITY_ESTIMATOR_MANAGER_H_
 

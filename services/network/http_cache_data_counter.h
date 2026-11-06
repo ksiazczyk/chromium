@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTP cache data counter
+// summary: Declares a helper that counts disk space taken by HTTP cache entries between two times, reporting an upper bound when exact calculation is unavailable.
+// ---
+
 #ifndef SERVICES_NETWORK_HTTP_CACHE_DATA_COUNTER_H_
 #define SERVICES_NETWORK_HTTP_CACHE_DATA_COUNTER_H_
 

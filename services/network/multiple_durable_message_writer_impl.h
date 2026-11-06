@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Multiple durable message writer header
+// summary: Declares MultipleDurableMessageWriterImpl, which writes the same bytes to multiple DevtoolsDurableMessage collectors for debugging sessions.
+// ---
+
 #ifndef SERVICES_NETWORK_MULTIPLE_DURABLE_MESSAGE_WRITER_IMPL_H_
 #define SERVICES_NETWORK_MULTIPLE_DURABLE_MESSAGE_WRITER_IMPL_H_
 

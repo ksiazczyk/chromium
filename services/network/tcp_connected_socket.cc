@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TCP connected socket implementation
+// summary: Implements the mojom TCP connected socket, handling connect, buffer sizes, no-delay, keep-alive options, and TLS upgrade over data pipes.
+// ---
+
 #include "services/network/tcp_connected_socket.h"
 
 #include <algorithm>

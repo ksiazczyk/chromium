@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTP cache data remover implementation
+// summary: Implements deletion of HTTP cache entries in a time range with optional URL filtering, also clearing QUIC crypto state and No-Vary-Search cache data.
+// ---
+
 #include "services/network/http_cache_data_remover.h"
 
 #include <set>

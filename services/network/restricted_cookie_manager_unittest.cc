@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RestrictedCookieManager unit tests
+// summary: Tests cookie get and set behavior, access observers, partitioning, and same-site restrictions for the restricted cookie manager.
+// ---
+
 #include "services/network/restricted_cookie_manager.h"
 
 #include <set>

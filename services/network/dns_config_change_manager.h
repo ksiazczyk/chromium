@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DNS config change manager class declaration
+// summary: Declares DnsConfigChangeManager, a Mojo service that forwards DNS configuration change events from NetworkChangeNotifier to subscribed clients.
+// ---
+
 #ifndef SERVICES_NETWORK_DNS_CONFIG_CHANGE_MANAGER_H_
 #define SERVICES_NETWORK_DNS_CONFIG_CHANGE_MANAGER_H_
 

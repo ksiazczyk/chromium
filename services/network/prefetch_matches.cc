@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrefetchMatches implementation
+// summary: Implements comparison of prefetch and real resource requests to decide whether a cached prefetch response can be used to serve the real request.
+// ---
+
 #include "services/network/prefetch_matches.h"
 
 #include <algorithm>

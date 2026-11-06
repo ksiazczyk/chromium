@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrefetchMatchingURLLoaderFactory header
+// summary: Declares a URLLoaderFactory that matches requests against the prefetch cache and falls back to CorsURLLoaderFactory when no prefetch is available.
+// ---
+
 #ifndef SERVICES_NETWORK_PREFETCH_MATCHING_URL_LOADER_FACTORY_H_
 #define SERVICES_NETWORK_PREFETCH_MATCHING_URL_LOADER_FACTORY_H_
 

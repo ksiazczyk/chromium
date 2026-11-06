@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TransitionalURLLoaderFactoryOwner unit tests
+// summary: Unit tests verifying the transitional URL loader factory works when used from the same thread and across threads, fetching from an embedded test server.
+// ---
+
 #include "services/network/transitional_url_loader_factory_owner.h"
 
 #include <memory>

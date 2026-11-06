@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WindowsSystemProxyResolverMojo header
+// summary: Declares the concrete net::WindowsSystemProxyResolver implementation that forwards proxy resolution requests to a Mojo SystemProxyResolver service without business logic.
+// ---
+
 #ifndef SERVICES_NETWORK_WINDOWS_SYSTEM_PROXY_RESOLVER_MOJO_H_
 #define SERVICES_NETWORK_WINDOWS_SYSTEM_PROXY_RESOLVER_MOJO_H_
 

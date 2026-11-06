@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SocketFactory class declaration
+// summary: Declares SocketFactory, a helper that handles socket requests and destroys socket implementations when their Mojo pipes are broken.
+// ---
+
 #ifndef SERVICES_NETWORK_SOCKET_FACTORY_H_
 #define SERVICES_NETWORK_SOCKET_FACTORY_H_
 

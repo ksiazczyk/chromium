@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebSocketInterceptor unit tests
+// summary: Unit tests verifying WebSocket frame throttling behavior under offline, slow, and restored network conditions.
+// ---
+
 #include "services/network/websocket_interceptor.h"
 #include <memory>
 

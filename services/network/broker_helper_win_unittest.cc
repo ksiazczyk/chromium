@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows broker helper unit tests
+// summary: Unit tests for BrokerHelperWin's ShouldBroker decisions, covering loopback, RFC1918, link-local, IPv6 ULA, carrier-grade NAT and public addresses.
+// ---
+
 #include "services/network/broker_helper_win.h"
 
 #include "base/test/task_environment.h"

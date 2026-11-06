@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Network service code owners
+summary: Lists primary and secondary owners plus per-file ownership rules for the network service.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RestrictedCookieManager class declaration
+// summary: Declares the RestrictedCookieManager Mojo service and its cookie access tracking and metrics support.
+// ---
+
 #ifndef SERVICES_NETWORK_RESTRICTED_COOKIE_MANAGER_H_
 #define SERVICES_NETWORK_RESTRICTED_COOKIE_MANAGER_H_
 

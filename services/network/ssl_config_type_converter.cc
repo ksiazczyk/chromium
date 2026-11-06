@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SSL config Mojo-to-net type converters
+// summary: Implements converters that translate Mojo SSL configuration messages into net SSL context and certificate verifier configuration objects.
+// ---
+
 #include "services/network/ssl_config_type_converter.h"
 
 #include <functional>

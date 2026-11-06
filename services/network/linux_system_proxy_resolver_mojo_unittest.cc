@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Linux system proxy resolver Mojo unit tests
+// summary: Tests proxy resolution through a mock Mojo SystemProxyResolver, covering success, failure statuses, and dropped callbacks.
+// ---
+
 #include "services/network/linux_system_proxy_resolver_mojo.h"
 
 #include <memory>

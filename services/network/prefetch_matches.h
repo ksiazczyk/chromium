@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrefetchMatches header
+// summary: Declares PrefetchMatches, which returns whether a cached prefetch request is similar enough to a real request to reuse its response.
+// ---
+
 #ifndef SERVICES_NETWORK_PREFETCH_MATCHES_H_
 #define SERVICES_NETWORK_PREFETCH_MATCHES_H_
 

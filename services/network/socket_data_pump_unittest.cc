@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SocketDataPump unit tests
+// summary: Unit tests for SocketDataPump covering data transfer between mock sockets and Mojo pipes, including read and write error and shutdown handling.
+// ---
+
 #include "services/network/socket_data_pump.h"
 
 #include <stdint.h>

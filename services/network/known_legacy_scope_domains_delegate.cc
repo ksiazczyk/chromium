@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Known legacy scope domains pref delegate implementation
+// summary: Implements a pref delegate that stores known legacy scope domains under net.known_legacy_scope_domains and reports whether the preference is loaded.
+// ---
+
 #include "services/network/known_legacy_scope_domains_delegate.h"
 
 #include "base/functional/bind.h"

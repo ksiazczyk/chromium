@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Device bound session certificate delegate unit tests
+// summary: Unit tests verifying client certificate selection flows, including continuing with a certificate, continuing without one, and cancellation.
+// ---
+
 #include "services/network/device_bound_session_service_delegate.h"
 
 #include <memory>

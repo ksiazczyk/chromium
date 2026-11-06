@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo-based proxy config service implementation
+// summary: Implements a net::ProxyConfigService that receives proxy configuration updates over a Mojo pipe and notifies registered observers of changes.
+// ---
+
 #include "services/network/proxy_config_service_mojo.h"
 
 #include <utility>

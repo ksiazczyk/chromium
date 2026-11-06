@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network service proxy delegate declaration
+// summary: Declares NetworkServiceProxyDelegate, which supports custom proxy configuration set via NetworkContextParams and implements net::ProxyDelegate.
+// ---
+
 #ifndef SERVICES_NETWORK_NETWORK_SERVICE_PROXY_DELEGATE_H_
 #define SERVICES_NETWORK_NETWORK_SERVICE_PROXY_DELEGATE_H_
 

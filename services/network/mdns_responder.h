@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: mDNS responder service declarations
+// summary: Declares the MdnsResponder manager and helper functions for building mDNS resolution, negative, and name-generator responses, plus response send options.
+// ---
+
 #ifndef SERVICES_NETWORK_MDNS_RESPONDER_H_
 #define SERVICES_NETWORK_MDNS_RESPONDER_H_
 

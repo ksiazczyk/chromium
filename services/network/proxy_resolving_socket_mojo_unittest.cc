@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ProxyResolvingSocketMojo unit tests
+// summary: Tests the proxy-resolving socket Mojo implementation with mock sockets, PAC results, and TLS variants.
+// ---
+
 #include <string>
 #include <string_view>
 #include <utility>

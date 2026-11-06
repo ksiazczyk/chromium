@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Proxy-checking host resolver request implementation
+// summary: Implements a host resolver request that fails with ERR_DNS_DIRECT_ONLY when a proxy is configured and otherwise forwards resolution to the network context.
+// ---
+
 #include "services/network/proxy_checking_host_resolver_request.h"
 
 #include "base/check.h"

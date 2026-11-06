@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Network service proxy delegate unit tests
+// summary: Unit tests for NetworkServiceProxyDelegate covering custom proxy config application, header merging, fallback handling, and tunnel header behavior.
+// ---
+
 #include "services/network/network_service_proxy_delegate.h"
 
 #include <optional>

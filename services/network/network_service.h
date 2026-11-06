@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network service class declaration
+// summary: Declares the NetworkService class, the mojom::NetworkService implementation that owns network contexts and manages DNS, cookies, and related managers.
+// ---
+
 #ifndef SERVICES_NETWORK_NETWORK_SERVICE_H_
 #define SERVICES_NETWORK_NETWORK_SERVICE_H_
 

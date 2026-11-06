@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProxyResolvingSocketFactoryMojo class header
+// summary: Declares the Mojo implementation of mojom::ProxyResolvingSocketFactory that creates proxy-resolving sockets with optional TLS upgrade.
+// ---
+
 #ifndef SERVICES_NETWORK_PROXY_RESOLVING_SOCKET_FACTORY_MOJO_H_
 #define SERVICES_NETWORK_PROXY_RESOLVING_SOCKET_FACTORY_MOJO_H_
 

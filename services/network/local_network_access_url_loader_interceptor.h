@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local Network Access URL loader interceptor interface
+// summary: Declares an interceptor that applies Local Network Access checks during URLLoader connections, including asynchronous permission prompt handling.
+// ---
+
 #ifndef SERVICES_NETWORK_LOCAL_NETWORK_ACCESS_URL_LOADER_INTERCEPTOR_H_
 #define SERVICES_NETWORK_LOCAL_NETWORK_ACCESS_URL_LOADER_INTERCEPTOR_H_
 

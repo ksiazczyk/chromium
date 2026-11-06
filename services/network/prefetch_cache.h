@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrefetchCache class declaration
+// summary: Declares PrefetchCache, which stores at most one instance per NetworkContext and manages prefetch clients through emplace, lookup, consume, erase, and delayed erase operations.
+// ---
+
 #ifndef SERVICES_NETWORK_PREFETCH_CACHE_H_
 #define SERVICES_NETWORK_PREFETCH_CACHE_H_
 

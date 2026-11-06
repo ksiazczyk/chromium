@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Content Security Policy libFuzzer harness
+// summary: libFuzzer harness that feeds arbitrary input to ParseContentSecurityPolicies to fuzz Content Security Policy parsing for HTTP responses.
+// ---
+
 #include "services/network/public/cpp/content_security_policy/content_security_policy.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the proxy auto config library
+// summary: Tests the myIpAddress() and myIpAddressEx() address candidate logic of the proxy auto config library using mocked socket factories and DNS resolver procs.
+// ---
+
 #include "services/network/proxy_auto_config_library.h"
 
 #include <algorithm>

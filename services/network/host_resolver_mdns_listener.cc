@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: mDNS listener for host resolver
+// summary: Implements HostResolverMdnsListener, forwarding mDNS address, text, and hostname results from the internal resolver to the Mojo response client.
+// ---
+
 #include "services/network/host_resolver_mdns_listener.h"
 
 #include <utility>

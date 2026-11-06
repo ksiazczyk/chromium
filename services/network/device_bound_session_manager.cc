@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device bound session manager implementation
+// summary: Implements the Mojo DeviceBoundSessionManager, forwarding session queries, deletion with clear-data filters, and observer registration to the net session service.
+// ---
+
 #include "services/network/device_bound_session_manager.h"
 
 #include <algorithm>

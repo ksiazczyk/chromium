@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SocketDataPump class declaration
+// summary: Declares SocketDataPump, which transfers data between a network socket and Mojo data pipes and notifies a delegate of errors and shutdown.
+// ---
+
 #ifndef SERVICES_NETWORK_SOCKET_DATA_PUMP_H_
 #define SERVICES_NETWORK_SOCKET_DATA_PUMP_H_
 

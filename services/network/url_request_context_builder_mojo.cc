@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URLRequestContextBuilderMojo implementation
+// summary: Implements a URLRequestContextBuilder specialization that creates Mojo-backed proxy resolution services and DHCP PAC fetchers with platform-specific handling for Windows, macOS, Linux and ChromeOS.
+// ---
+
 #include "services/network/url_request_context_builder_mojo.h"
 
 #include "base/check.h"

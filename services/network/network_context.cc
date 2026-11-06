@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkContext implementation
+// summary: Core implementation of the network service's NetworkContext, wiring up URL loaders, cookies, HTTP cache, DNS, certificate verification, authentication and related network stack pieces.
+// ---
+
 #include "services/network/network_context.h"
 
 #include <algorithm>

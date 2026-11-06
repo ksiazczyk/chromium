@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrefetchMatchingURLLoaderFactory implementation
+// summary: Implements a URLLoaderFactory that serves requests from cached prefetches when they match and otherwise falls back to the CORS URL loader factory.
+// ---
+
 #include "services/network/prefetch_matching_url_loader_factory.h"
 
 #include <memory>

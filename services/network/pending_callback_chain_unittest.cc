@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PendingCallbackChain unit tests
+// summary: Unit tests for PendingCallbackChain covering single and multiple synchronous and asynchronous results, error propagation, and fallback to ERR_FAILED on differing errors.
+// ---
+
 #include "services/network/pending_callback_chain.h"
 #include "base/test/bind.h"
 #include "testing/gtest/include/gtest/gtest.h"

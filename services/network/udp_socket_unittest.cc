@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UDPSocket unit tests
+// summary: Unit tests for the UDPSocket Mojo implementation using mock and hanging socket wrappers, test datagrams, and a socket factory.
+// ---
+
 #include "services/network/udp_socket.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChunkedDataPipeUploadDataStream declaration
+// summary: Declares ChunkedDataPipeUploadDataStream, a net::UploadDataStream subclass that reads a Mojo data pipe and serves it as a chunked HTTP upload body, with optional chunk caching.
+// ---
+
 #ifndef SERVICES_NETWORK_CHUNKED_DATA_PIPE_UPLOAD_DATA_STREAM_H_
 #define SERVICES_NETWORK_CHUNKED_DATA_PIPE_UPLOAD_DATA_STREAM_H_
 

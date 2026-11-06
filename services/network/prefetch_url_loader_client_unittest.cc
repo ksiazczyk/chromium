@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PrefetchURLLoaderClient unit tests
+// summary: Unit tests for PrefetchURLLoaderClient covering response caching, matching, consumption, and callback replay using mock loader clients.
+// ---
+
 #include "services/network/prefetch_url_loader_client.h"
 
 #include <stdint.h>

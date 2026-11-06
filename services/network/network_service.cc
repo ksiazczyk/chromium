@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network service implementation
+// summary: Implements the Chromium network service, wiring up DNS, cookies, certificate verification, net logging, and network change handling for the network process.
+// ---
+
 #include "services/network/network_service.h"
 
 #include <algorithm>

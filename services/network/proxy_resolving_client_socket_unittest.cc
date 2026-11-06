@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ProxyResolvingClientSocket unit tests
+// summary: Parameterized unit tests for ProxyResolvingClientSocket covering direct and proxied connections, TLS, and NetworkAnonymizationKey usage.
+// ---
+
 #include "services/network/proxy_resolving_client_socket.h"
 
 #include <string>

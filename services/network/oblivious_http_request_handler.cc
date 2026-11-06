@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Oblivious HTTP request handler implementation
+// summary: Implements the Oblivious HTTP request handler, encrypting inner binary HTTP requests with quiche and relaying them via SimpleURLLoader with trust token support.
+// ---
+
 #include "services/network/oblivious_http_request_handler.h"
 
 #include <algorithm>

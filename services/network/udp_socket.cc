@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UDPSocket Mojo implementation
+// summary: Implements the mojom::UDPSocket interface, wrapping net::UDPSocket with connect, bind, send, multicast group, and clamped buffer size operations.
+// ---
+
 #include "services/network/udp_socket.h"
 
 #include <algorithm>

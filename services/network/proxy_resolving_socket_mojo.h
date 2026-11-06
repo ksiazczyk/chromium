@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProxyResolvingSocketMojo class declaration
+// summary: Declares the Mojo implementation of the proxy-resolving socket interface, including connect and TLS upgrade support.
+// ---
+
 #ifndef SERVICES_NETWORK_PROXY_RESOLVING_SOCKET_MOJO_H_
 #define SERVICES_NETWORK_PROXY_RESOLVING_SOCKET_MOJO_H_
 

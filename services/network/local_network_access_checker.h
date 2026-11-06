@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local Network Access checker interface
+// summary: Declares a per-URLLoader helper that applies Local Network Access checks to fetches per the WICG spec and tracks response address space state.
+// ---
+
 #ifndef SERVICES_NETWORK_LOCAL_NETWORK_ACCESS_CHECKER_H_
 #define SERVICES_NETWORK_LOCAL_NETWORK_ACCESS_CHECKER_H_
 

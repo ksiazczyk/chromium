@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows system proxy resolver Mojo implementation
+// summary: Implements WindowsSystemProxyResolverMojo, which resolves system proxies for URLs through a remote Mojo SystemProxyResolver service.
+// ---
+
 #include "services/network/windows_system_proxy_resolver_mojo.h"
 
 #include <utility>

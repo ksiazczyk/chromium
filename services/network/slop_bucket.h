@@ -5,6 +5,12 @@
 // SlopBucket is a mechanism to store parts of response bodies in temporary
 // buffers in the network service when the mojo data pipe is full.
 
+// ---docerion
+// type: source
+// title: SlopBucket response buffering declaration
+// summary: Declares SlopBucket, the interface URLLoader uses to cache response body data in temporary chunks when the renderer reads slowly from the data pipe.
+// ---
+
 #ifndef SERVICES_NETWORK_SLOP_BUCKET_H_
 #define SERVICES_NETWORK_SLOP_BUCKET_H_
 

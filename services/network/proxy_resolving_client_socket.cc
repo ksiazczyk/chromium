@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProxyResolvingClientSocket implementation
+// summary: Implements a StreamSocket that resolves proxies for a URL before connecting, handling proxy fallback, TLS, and socket read and write operations.
+// ---
+
 #include "services/network/proxy_resolving_client_socket.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test chunked data pipe getter declaration
+// summary: Declares TestChunkedDataPipeGetter, a test double for mojom::ChunkedDataPipeGetter used to control size callbacks and data pipes in tests.
+// ---
+
 #ifndef SERVICES_NETWORK_TEST_CHUNKED_DATA_PIPE_GETTER_H_
 #define SERVICES_NETWORK_TEST_CHUNKED_DATA_PIPE_GETTER_H_
 

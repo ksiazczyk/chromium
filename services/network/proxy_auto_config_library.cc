@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Proxy auto-config MyIpAddress implementation
+// summary: Implements MyIpAddress for proxy auto-config, determining the local IP address by connecting sockets to public and private routes and resolving the hostname.
+// ---
+
 #include "services/network/proxy_auto_config_library.h"
 
 #include <list>

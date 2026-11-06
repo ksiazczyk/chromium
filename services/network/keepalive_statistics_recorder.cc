@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keepalive statistics recorder implementation
+// summary: Implements tracking of inflight keepalive requests per top-level frame, including registration counts, request sizes and peak inflight requests.
+// ---
+
 #include "services/network/keepalive_statistics_recorder.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Proxy-checking host resolver request header
+// summary: Declares a wrapper around host resolver requests that first checks whether a proxy is configured and only resolves directly when none is set.
+// ---
+
 #ifndef SERVICES_NETWORK_PROXY_CHECKING_HOST_RESOLVER_REQUEST_H_
 #define SERVICES_NETWORK_PROXY_CHECKING_HOST_RESOLVER_REQUEST_H_
 

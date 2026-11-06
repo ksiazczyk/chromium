@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network service network delegate implementation
+// summary: Implements the network service's URL request delegate, handling referrer truncation, redirects, cookie settings, and proxy error reporting.
+// ---
+
 #include "services/network/network_service_network_delegate.h"
 
 #include <algorithm>

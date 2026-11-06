@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrefetchCache implementation
+// summary: Implements the prefetch cache for NetworkContexts, storing PrefetchURLLoaderClient entries keyed by NetworkIsolationKey and URL with size-based eviction and grace-time erasure.
+// ---
+
 #include "services/network/prefetch_cache.h"
 
 #include <ostream>

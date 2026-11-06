@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test socket observer header
+// summary: Declares TestSocketObserver, a mojom::SocketObserver implementation used in tests to observe socket read and write errors.
+// ---
+
 #ifndef SERVICES_NETWORK_MOJO_SOCKET_TEST_UTIL_H_
 #define SERVICES_NETWORK_MOJO_SOCKET_TEST_UTIL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DNS config change manager unit tests
+// summary: Tests that DnsConfigChangeManager delivers DNS change notifications to a single client, across repeated changes, and to multiple clients.
+// ---
+
 #include "services/network/dns_config_change_manager.h"
 
 #include <climits>

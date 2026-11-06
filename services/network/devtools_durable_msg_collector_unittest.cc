@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DevtoolsDurableMessageCollector unit tests
+// summary: Unit tests for the durable message collector covering configuration, profile enablement, message storage, retrieval and search behaviour.
+// ---
+
 #include "services/network/devtools_durable_msg_collector.h"
 
 #include "base/functional/callback_helpers.h"

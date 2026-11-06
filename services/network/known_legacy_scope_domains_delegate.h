@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Known legacy scope domains pref delegate
+// summary: Declares a PrefService-backed delegate that lets net::CookieMonster read and write which cookie domains are currently in legacy mode.
+// ---
+
 #ifndef SERVICES_NETWORK_KNOWN_LEGACY_SCOPE_DOMAINS_DELEGATE_H_
 #define SERVICES_NETWORK_KNOWN_LEGACY_SCOPE_DOMAINS_DELEGATE_H_
 

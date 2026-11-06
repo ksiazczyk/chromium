@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NetLogProxySink unit tests
+// summary: Unit tests for NetLogProxySink covering capture mode updates across multiple observers and injection of remote NetLog entries.
+// ---
+
 #include "services/network/net_log_proxy_sink.h"
 
 #include "base/run_loop.h"

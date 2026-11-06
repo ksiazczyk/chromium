@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Logical invalidation store class declaration
+// summary: Declares LogicalInvalidationStore, which asynchronously loads and saves HTTP cache invalidation filters on a sequenced task runner and reports load results.
+// ---
+
 #ifndef SERVICES_NETWORK_LOGICAL_INVALIDATION_STORE_H_
 #define SERVICES_NETWORK_LOGICAL_INVALIDATION_STORE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTP cache data remover
+// summary: Declares HttpCacheDataRemover, which deletes HTTP cache entries between two times and matched by a clear-data URL filter, invoking a callback when done.
+// ---
+
 #ifndef SERVICES_NETWORK_HTTP_CACHE_DATA_REMOVER_H_
 #define SERVICES_NETWORK_HTTP_CACHE_DATA_REMOVER_H_
 

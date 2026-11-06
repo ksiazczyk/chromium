@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CookieSettings implementation
+// summary: Implements CookieSettings, which applies cookie access and deletion rules for the network service, including third-party cookie blocking and exemption reasons.
+// ---
+
 #include "services/network/cookie_settings.h"
 
 #include <algorithm>

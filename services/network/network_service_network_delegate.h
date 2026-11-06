@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network service network delegate declaration
+// summary: Declares NetworkServiceNetworkDelegate, a net::NetworkDelegateImpl that applies referrer and cookie policies to URL requests in the network service.
+// ---
+
 #ifndef SERVICES_NETWORK_NETWORK_SERVICE_NETWORK_DELEGATE_H_
 #define SERVICES_NETWORK_NETWORK_SERVICE_NETWORK_DELEGATE_H_
 

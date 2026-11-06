@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Host resolver Mojo service implementation
+// summary: Implements the network service HostResolver, converting Mojo resolve parameters and dispatching host resolution and mDNS listen requests.
+// ---
+
 #include "services/network/host_resolver.h"
 
 #include <optional>

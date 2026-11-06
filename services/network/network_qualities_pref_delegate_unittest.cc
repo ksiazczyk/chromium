@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NetworkQualitiesPrefDelegate unit tests
+// summary: Verifies that network quality estimator prefs are written and read correctly through the delegate.
+// ---
+
 #include "services/network/network_qualities_pref_delegate.h"
 
 #include <map>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network service Linux sandbox hook header
+// summary: Declares the pre-sandbox hook that prepares the network service sandbox on Linux.
+// ---
+
 #ifndef SERVICES_NETWORK_NETWORK_SANDBOX_HOOK_LINUX_H_
 #define SERVICES_NETWORK_NETWORK_SANDBOX_HOOK_LINUX_H_
 

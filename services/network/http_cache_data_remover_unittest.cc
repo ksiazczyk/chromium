@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HTTP cache data remover unit tests
+// summary: Unit tests for HttpCacheDataRemover that create cache entries and verify deletion by time range and by origin or domain URL filters.
+// ---
+
 #include <array>
 #include <memory>
 #include <string>

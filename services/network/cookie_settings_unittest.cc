@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CookieSettings unit tests
+// summary: Unit tests for CookieSettings covering third-party cookie blocking, scheme and origin exceptions, partitioned cookies, and Storage Access grants.
+// ---
+
 #include "services/network/cookie_settings.h"
 
 #include <optional>

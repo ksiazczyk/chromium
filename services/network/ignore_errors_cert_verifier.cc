@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ignore-errors certificate verifier implementation
+// summary: Implements a CertVerifier wrapper that skips verification for certificate chains whose SPKI hashes match the --ignore-certificate-errors-spki-list allowlist.
+// ---
+
 #include "services/network/ignore_errors_cert_verifier.h"
 
 #include <algorithm>

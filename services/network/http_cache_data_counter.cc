@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTP cache data counter implementation
+// summary: Implements HttpCacheDataCounter, which computes the disk space used by HTTP cache entries last used in a time range and posts the result to a callback.
+// ---
+
 #include "services/network/http_cache_data_counter.h"
 
 #include <utility>

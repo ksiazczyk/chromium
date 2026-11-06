@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChunkedDataPipeUploadDataStream unit tests
+// summary: Unit tests for ChunkedDataPipeUploadDataStream covering reads before data is ready, chunked upload behavior, and error handling via a test chunked data pipe getter.
+// ---
+
 #include "services/network/chunked_data_pipe_upload_data_stream.h"
 
 #include <stdint.h>

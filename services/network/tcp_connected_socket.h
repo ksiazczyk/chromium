@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TCP connected socket class declaration
+// summary: Declares TCPConnectedSocket, which connects a transport socket, pumps data over Mojo data pipes, and supports upgrading to TLS.
+// ---
+
 #ifndef SERVICES_NETWORK_TCP_CONNECTED_SOCKET_H_
 #define SERVICES_NETWORK_TCP_CONNECTED_SOCKET_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Brokered UDP client socket unit tests
+// summary: Unit tests for BrokeredUdpClientSocket covering connect, read and write flows using a test socket broker and a UDP server socket.
+// ---
+
 #include "services/network/brokered_udp_client_socket.h"
 
 #include "base/test/bind.h"

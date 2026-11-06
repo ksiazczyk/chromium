@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SSL config type converter declarations
+// summary: Declares functions that convert network::mojom::SSLConfig into net SSL context and certificate verifier configuration structures.
+// ---
+
 #ifndef SERVICES_NETWORK_SSL_CONFIG_TYPE_CONVERTER_H_
 #define SERVICES_NETWORK_SSL_CONFIG_TYPE_CONVERTER_H_
 

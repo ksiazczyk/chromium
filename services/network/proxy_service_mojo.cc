@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Proxy resolution service creation using Mojo factory
+// summary: Implements creation of a ConfiguredProxyResolutionService backed by a Mojo proxy resolver factory with PAC fetchers.
+// ---
+
 #include "services/network/proxy_service_mojo.h"
 
 #include <memory>

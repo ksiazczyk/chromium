@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows socket broker helper implementation
+// summary: Implements the Windows broker helper that tracks network interfaces and decides which socket connections must be brokered.
+// ---
+
 #include "services/network/broker_helper_win.h"
 
 #include <algorithm>

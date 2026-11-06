@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CookieAccessDelegateImpl implementation
+// summary: Implements CookieAccessDelegateImpl, which answers cookie access, scope, and SameSite semantics queries for the cookie store using CookieSettings.
+// ---
+
 #include "services/network/cookie_access_delegate_impl.h"
 
 #include "net/cookies/cookie_constants.h"

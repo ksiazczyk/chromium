@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URLRequestContextBuilderMojo header
+// summary: Declares URLRequestContextBuilderMojo, a builder that creates ProxyResolutionService instances using Mojo proxy resolver factories or system proxy resolvers supplied by the consumer.
+// ---
+
 #ifndef SERVICES_NETWORK_URL_REQUEST_CONTEXT_BUILDER_MOJO_H_
 #define SERVICES_NETWORK_URL_REQUEST_CONTEXT_BUILDER_MOJO_H_
 

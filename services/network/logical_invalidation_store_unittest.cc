@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Logical invalidation store unit tests
+// summary: Unit tests covering save and load round trips, directory creation on save, corruption and missing-file handling, and persistence histogram recording.
+// ---
+
 #include "services/network/logical_invalidation_store.h"
 
 #include "base/files/file_util.h"

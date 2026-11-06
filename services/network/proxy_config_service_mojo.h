@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo-based proxy config service header
+// summary: Declares ProxyConfigServiceMojo, a proxy config service that obtains its configuration over a Mojo ProxyConfigClient pipe and supports lazy polling.
+// ---
+
 #ifndef SERVICES_NETWORK_PROXY_CONFIG_SERVICE_MOJO_H_
 #define SERVICES_NETWORK_PROXY_CONFIG_SERVICE_MOJO_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URLLoaderFactory implementation
+// summary: Implements mojom::URLLoaderFactory, creating URLLoader instances with observer wrappers and keepalive limits.
+// ---
+
 #include "services/network/url_loader_factory.h"
 
 #include <memory>

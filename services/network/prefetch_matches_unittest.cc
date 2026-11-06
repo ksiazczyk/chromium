@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PrefetchMatches unit tests
+// summary: Unit tests verifying PrefetchMatches behavior across fields such as method, URL, site-for-cookies, initiator, referrer policy, and headers.
+// ---
+
 #include "services/network/prefetch_matches.h"
 
 #include "base/memory/scoped_refptr.h"

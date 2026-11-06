@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Local Network Access checker unit tests
+// summary: Tests the Local Network Access checker across client security states, transport types, and address spaces, verifying results and histograms.
+// ---
+
 #include "services/network/local_network_access_checker.h"
 
 #include <string_view>

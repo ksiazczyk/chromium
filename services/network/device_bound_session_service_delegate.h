@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device bound session certificate delegate declaration
+// summary: Declares DeviceBoundSessionServiceDelegate, which forwards client certificate selection requests and responses between the session service and browser process.
+// ---
+
 #ifndef SERVICES_NETWORK_DEVICE_BOUND_SESSION_SERVICE_DELEGATE_H_
 #define SERVICES_NETWORK_DEVICE_BOUND_SESSION_SERVICE_DELEGATE_H_
 

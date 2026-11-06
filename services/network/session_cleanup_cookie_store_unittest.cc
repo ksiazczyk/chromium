@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Session cleanup cookie store unit tests
+// summary: Unit tests for SessionCleanupCookieStore covering persistence, loading, and deletion of session cookies.
+// ---
+
 #include "services/network/session_cleanup_cookie_store.h"
 
 #include "base/files/scoped_temp_dir.h"

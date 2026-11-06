@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test chunked data pipe getter implementation
+// summary: Implements a test ChunkedDataPipeGetter that lets tests wait for the size callback and the start-reading producer handle and manage them directly.
+// ---
+
 #include "services/network/test_chunked_data_pipe_getter.h"
 
 #include "base/check.h"

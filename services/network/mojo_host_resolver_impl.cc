@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo host resolver implementation
+// summary: Implements MojoHostResolverImpl, which forwards Mojo host resolution requests from the proxy resolver service to a net HostResolver.
+// ---
+
 #include "services/network/mojo_host_resolver_impl.h"
 
 #include <utility>

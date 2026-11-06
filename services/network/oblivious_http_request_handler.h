@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Oblivious HTTP request handler declaration
+// summary: Declares ObliviousHttpRequestHandler, which builds, encrypts, and sends OHTTP requests per the IETF draft and decrypts responses for clients.
+// ---
+
 #ifndef SERVICES_NETWORK_OBLIVIOUS_HTTP_REQUEST_HANDLER_H_
 #define SERVICES_NETWORK_OBLIVIOUS_HTTP_REQUEST_HANDLER_H_
 

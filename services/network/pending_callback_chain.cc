@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PendingCallbackChain implementation
+// summary: Implements PendingCallbackChain, tracking multiple pending net results and running the original completion callback once all pending operations have completed.
+// ---
+
 #include "services/network/pending_callback_chain.h"
 #include "base/functional/bind.h"
 

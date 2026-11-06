@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Mojo proxy config service
+// summary: Verifies that observers of ProxyConfigServiceMojo are notified of proxy config changes and that unchanged configurations do not trigger notifications.
+// ---
+
 #include "services/network/proxy_config_service_mojo.h"
 
 #include <array>

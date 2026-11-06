@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device bound session certificate delegate implementation
+// summary: Implements the delegate that routes client certificate requests from the device bound session service to the browser via URLLoaderNetworkServiceObserver.
+// ---
+
 #include "services/network/device_bound_session_service_delegate.h"
 
 #include "net/cert/x509_certificate.h"

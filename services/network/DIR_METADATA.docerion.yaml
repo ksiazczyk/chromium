@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Network service issue tracker metadata
+summary: Maps the network service directory to Monorail and Buganizer components for bug reporting.

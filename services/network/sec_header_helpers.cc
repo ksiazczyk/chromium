@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sec-Fetch header helpers implementation
+// summary: Implements helpers that set Sec-Fetch-* fetch metadata request headers based on origin relations and strip Sec- headers on untrustworthy redirects.
+// ---
+
 #include "services/network/sec_header_helpers.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Proxy resolution service Mojo factory declaration
+// summary: Declares the function that builds a proxy resolution service using a Mojo proxy resolver factory and its dependencies.
+// ---
+
 #ifndef SERVICES_NETWORK_PROXY_SERVICE_MOJO_H_
 #define SERVICES_NETWORK_PROXY_SERVICE_MOJO_H_
 

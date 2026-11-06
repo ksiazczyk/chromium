@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Brokered TCP client socket implementation
+// summary: Implements a transport client socket whose Bind and Connect are performed through the SocketBroker IPC for sandboxed processes.
+// ---
+
 #include "services/network/brokered_tcp_client_socket.h"
 
 #include "base/functional/bind.h"

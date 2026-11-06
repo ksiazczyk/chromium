@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo host resolver header
+// summary: Declares MojoHostResolverImpl, which handles Mojo host resolution requests from the proxy resolver service and cancels pending jobs on shutdown.
+// ---
+
 #ifndef SERVICES_NETWORK_MOJO_HOST_RESOLVER_IMPL_H_
 #define SERVICES_NETWORK_MOJO_HOST_RESOLVER_IMPL_H_
 

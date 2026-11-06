@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PartialDecoder class declarations
+// summary: Declares PartialDecoderResult and PartialDecoder, which decode the first bytes of a response body for inspection such as MIME sniffing while keeping the original encoded data available.
+// ---
+
 #ifndef SERVICES_NETWORK_PARTIAL_DECODER_H_
 #define SERVICES_NETWORK_PARTIAL_DECODER_H_
 
