@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EyeDropper bridge to the Android system eye dropper intent
+// summary: Java bridge that launches the Android system EyeDropper intent and reports the chosen or canceled color back to native code.
+// ---
+
 package org.chromium.components.embedder_support.delegate;
 
 import android.app.Activity;

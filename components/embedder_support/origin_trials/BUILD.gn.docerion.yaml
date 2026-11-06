@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for origin trials
+summary: Defines the origin_trials source_set and a test_support static library, listing their sources and dependencies for the embedder support origin trials code.

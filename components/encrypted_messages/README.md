@@ -1,3 +1,9 @@
+---
+type: readme
+title: Overview of the encrypted_messages component
+summary: Explains the X25519, HKDF, and AEAD scheme used to encrypt anonymous messages sent over plain HTTP and warns against new uses without security review.
+---
+
 # //components/encrypted_messages
 
 Do not add new uses of this component without consulting the security team.

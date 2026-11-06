@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search metadata header
+// summary: Declares the FindAndHighlight function for case- and accent-insensitive search that produces text with matched portions highlighted using <b> tags.
+// ---
+
 #ifndef COMPONENTS_DRIVE_CHROMEOS_SEARCH_METADATA_H_
 #define COMPONENTS_DRIVE_CHROMEOS_SEARCH_METADATA_H_
 

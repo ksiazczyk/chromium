@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InputStreamReader implementation
+// summary: Implements InputStreamReader, which seeks an InputStream to a requested HTTP byte range and reads raw data into net buffers, returning net error codes on failure.
+// ---
+
 #include "components/embedder_support/android/util/input_stream_reader.h"
 
 #include "components/embedder_support/android/util/input_stream.h"

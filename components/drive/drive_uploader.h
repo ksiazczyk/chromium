@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Drive uploader interface
+// summary: Declares DriveUploaderInterface for uploading new and existing files to Drive, resuming interrupted uploads, and batch processing.
+// ---
+
 #ifndef COMPONENTS_DRIVE_DRIVE_UPLOADER_H_
 #define COMPONENTS_DRIVE_DRIVE_UPLOADER_H_
 

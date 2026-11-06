@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Context menu parameters
+// summary: Carries the data describing the triggered context menu, including URLs, media flags, and menu model, bridged from native code.
+// ---
+
 package org.chromium.components.embedder_support.contextmenu;
 
 import androidx.annotation.VisibleForTesting;

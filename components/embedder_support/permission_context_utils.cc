@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default permission contexts for embedders
+// summary: Builds the default permission context map for a browser context, wiring contexts for geolocation, clipboard, NFC, WebXR, and other permission types.
+// ---
+
 #include "components/embedder_support/permission_context_utils.h"
 
 #include "build/build_config.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebResourceResponse class declaration
+// summary: Declares the WebResourceResponse class representing Java-side data used to complete a URLRequest, with accessors for stream, MIME type, charset, status, and headers.
+// ---
+
 #ifndef COMPONENTS_EMBEDDER_SUPPORT_ANDROID_UTIL_WEB_RESOURCE_RESPONSE_H_
 #define COMPONENTS_EMBEDDER_SUPPORT_ANDROID_UTIL_WEB_RESOURCE_RESPONSE_H_
 

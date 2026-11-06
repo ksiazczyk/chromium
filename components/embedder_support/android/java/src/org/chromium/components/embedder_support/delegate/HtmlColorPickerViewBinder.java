@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HtmlColorPickerViewBinder
+// summary: Binds HTML color picker property model values to the dialog view and inflates and binds color suggestion views for Chromium's Android color picker.
+// ---
+
 package org.chromium.components.embedder_support.delegate;
 
 import static org.chromium.components.embedder_support.delegate.HtmlColorPickerProperties.CHOSEN_COLOR;

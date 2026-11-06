@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL scheme and internal page constants
+// summary: Java-side constants for URL schemes, prefixes, and Chrome internal page URLs, mirroring chrome/common/url_constants.cc.
+// ---
+
 package org.chromium.components.embedder_support.util;
 
 import org.chromium.build.annotations.NullMarked;

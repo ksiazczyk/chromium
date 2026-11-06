@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UrlUtilities
+// summary: 'Java utility class for working with URIs and URLs in security-sensitive Chromium Android embedder contexts, including scheme checks, downloadable and internal scheme lists, and tel: number extraction.'
+// ---
+
 package org.chromium.components.embedder_support.util;
 
 import android.net.Uri;

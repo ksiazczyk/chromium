@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search metadata implementation
+// summary: Implements FindAndHighlight, which matches queries in text ignoring case and accents and returns the text with matched portions wrapped in <b> tags and HTML-escaped.
+// ---
+
 #include "components/drive/chromeos/search_metadata.h"
 
 #include <algorithm>

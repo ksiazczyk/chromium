@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ResponseDelegateImpl implementation
+// summary: Implements a ResponseDelegate that sources response data from a WebResourceResponse, opening its input stream and supplying MIME type, charset, status line, and headers.
+// ---
+
 #include "components/embedder_support/android/util/response_delegate_impl.h"
 
 #include "base/strings/string_number_conversions.h"

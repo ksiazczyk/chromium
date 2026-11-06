@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: iOS embedder support build targets
+summary: Defines the web_contents_delegate static library with iOS color chooser and file chooser sources and its dependencies.

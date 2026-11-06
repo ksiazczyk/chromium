@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OriginTest
+// summary: Robolectric unit tests for the Origin class, verifying URL transformation, construction, equality, URI conversion, string output and validity handling.
+// ---
+
 package org.chromium.components.embedder_support.util;
 
 import android.net.Uri;

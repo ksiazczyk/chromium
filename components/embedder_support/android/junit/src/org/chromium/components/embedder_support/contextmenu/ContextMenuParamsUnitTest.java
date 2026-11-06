@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ContextMenuParams unit tests
+// summary: Robolectric unit tests for ContextMenuParams verifying picture-in-picture, encrypted media, and readable video frame behavior based on media flags.
+// ---
+
 package org.chromium.components.embedder_support.contextmenu;
 
 import static org.junit.Assert.assertFalse;

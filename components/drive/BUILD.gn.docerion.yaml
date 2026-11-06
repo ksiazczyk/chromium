@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the drive component
+summary: Defines the GN build targets, sources, and dependencies for the drive component, including its proto library, export header, and test support.

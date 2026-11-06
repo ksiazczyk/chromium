@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DefaultSelectionDropdownMenuDelegate
+// summary: Default implementation of SelectionDropdownMenuDelegate that shows a text selection dropdown as an Android PopupWindow with bounds-aware positioning, configurable menu width, and dismiss handling.
+// ---
+
 package org.chromium.components.embedder_support.selection;
 
 import android.content.Context;

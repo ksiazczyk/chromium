@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Context menu command line switches
+// summary: Defines command line switches specific to the context menu, such as forcing the popup context menu to unblock drag and drop on phones.
+// ---
+
 package org.chromium.components.embedder_support.contextmenu;
 
 import org.chromium.build.annotations.NullMarked;

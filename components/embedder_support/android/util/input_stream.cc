@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Java InputStream wrapper implementation
+// summary: Implements the C++ wrapper around Java's InputStream via JNI, providing read, skip and availability operations with transfer timing metrics.
+// ---
+
 #include "components/embedder_support/android/util/input_stream.h"
 
 #include "base/android/jni_android.h"

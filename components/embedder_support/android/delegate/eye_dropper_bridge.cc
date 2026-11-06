@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EyeDropperBridge JNI implementation
+// summary: Implements the C++ side of the eye dropper bridge, creating the Java eye dropper on supported Android versions and forwarding chosen or canceled colors to the listener.
+// ---
+
 #include "components/embedder_support/android/delegate/eye_dropper_bridge.h"
 
 #include "base/android/android_info.h"

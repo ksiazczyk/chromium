@@ -1,3 +1,9 @@
+---
+type: readme
+title: Purpose of the embedder_support component
+summary: Explains that the component holds small shims and glue code on top of the Content API and advises creating a new component once features grow beyond a few files.
+---
+
 The embedder_support component is for small shims and minimal glue layer on top
 of the Content API that do not clearly justify a component of their own. Before
 adding additional features to this component, consider whether the feature

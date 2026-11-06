@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the delegate directory
+summary: Lists the Chromium owners responsible for reviewing changes to the Android delegate folder.

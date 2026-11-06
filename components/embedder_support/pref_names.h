@@ -5,6 +5,12 @@
 // Defines the prefs that are used by code across multiple embedders and don't
 // have anywhere more specific to go.
 
+// ---docerion
+// type: source
+// title: Shared embedder preference names
+// summary: Defines the alternate error pages enabled preference constant used by code across multiple embedders.
+// ---
+
 #ifndef COMPONENTS_EMBEDDER_SUPPORT_PREF_NAMES_H_
 #define COMPONENTS_EMBEDDER_SUPPORT_PREF_NAMES_H_
 

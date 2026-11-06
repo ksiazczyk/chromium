@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentViewRenderView Android implementation
+// summary: Implements the native ContentViewRenderView for Android, managing a compositor, surface lifecycle, web contents binding, and overlay video mode via JNI calls from Java.
+// ---
+
 #include "components/embedder_support/android/view/content_view_render_view.h"
 #include <android/bitmap.h>
 

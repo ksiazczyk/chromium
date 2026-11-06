@@ -1,0 +1,4 @@
+# Docerion header of color_chooser_coordinator_ios.mm.
+type: source
+title: iOS color chooser coordinator implementation
+summary: Implements ColorChooserCoordinatorIOS, creating the mediator and controller and presenting the color picker as a popover from the base view controller.

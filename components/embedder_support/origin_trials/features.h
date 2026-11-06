@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Declaration of the origin trials sample API feature
+// summary: Declares the sample field trial feature for testing alternative usage restriction in origin trial third party tokens, kept for use in the policy implementation unit tests.
+// ---
+
 #ifndef COMPONENTS_EMBEDDER_SUPPORT_ORIGIN_TRIALS_FEATURES_H_
 #define COMPONENTS_EMBEDDER_SUPPORT_ORIGIN_TRIALS_FEATURES_H_
 

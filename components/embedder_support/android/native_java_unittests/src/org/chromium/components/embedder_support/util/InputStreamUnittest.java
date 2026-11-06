@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Java InputStream test helpers for native unit tests
+// summary: Provides JNI-callable InputStream fixtures (null, empty, throwing and counting streams) used by the native input_stream_unittest.cc test.
+// ---
+
 package org.chromium.components.embedder_support.util;
 
 import org.jni_zero.CalledByNative;

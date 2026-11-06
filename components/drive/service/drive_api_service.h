@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Drive API service class declaration
+// summary: Declares DriveAPIService and BatchRequestConfigurator, the Drive API implementation of DriveServiceInterface that issues authenticated Drive requests for Chromium.
+// ---
+
 #ifndef COMPONENTS_DRIVE_SERVICE_DRIVE_API_SERVICE_H_
 #define COMPONENTS_DRIVE_SERVICE_DRIVE_API_SERVICE_H_
 

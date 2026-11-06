@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for the encrypted_messages component
+summary: Defines the static library, protobuf library, and test-only source set targets for the encrypted messages code.

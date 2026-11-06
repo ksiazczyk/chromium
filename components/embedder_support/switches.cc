@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Embedder support command-line switch constants
+// summary: Defines string constants for shared command-line switches such as headless mode, popup blocking, origin trials, reporting delay, and user agent overrides.
+// ---
+
 #include "components/embedder_support/switches.h"
 
 namespace embedder_support {

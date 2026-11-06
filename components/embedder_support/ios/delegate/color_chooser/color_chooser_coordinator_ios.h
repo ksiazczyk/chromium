@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS color chooser coordinator header
+// summary: Declares ColorChooserCoordinatorIOS, which holds the color chooser controller and mediator and exposes close and set-color actions.
+// ---
+
 #ifndef COMPONENTS_EMBEDDER_SUPPORT_IOS_DELEGATE_COLOR_CHOOSER_COLOR_CHOOSER_COORDINATOR_IOS_H_
 #define COMPONENTS_EMBEDDER_SUPPORT_IOS_DELEGATE_COLOR_CHOOSER_COLOR_CHOOSER_COORDINATOR_IOS_H_
 

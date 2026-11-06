@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password echo setting delegate using Android APIs
+// summary: PasswordEchoSettingDelegate implementation that uses the public Android ShowSecretsSetting APIs on newer Android versions.
+// ---
+
 package org.chromium.components.embedder_support.util;
 
 import android.os.Build;

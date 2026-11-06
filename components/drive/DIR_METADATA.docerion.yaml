@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the drive component
+summary: Points the drive directory to the shared tracker metadata defined in COMMON_METADATA.

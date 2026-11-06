@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebContentsDelegateAndroid implementation
+// summary: Implements the native WebContentsDelegate for Android, forwarding events such as navigation, color chooser, downloads, and fullscreen to its Java peer.
+// ---
+
 #include "components/embedder_support/android/delegate/web_contents_delegate_android.h"
 
 #include <android/keycodes.h>

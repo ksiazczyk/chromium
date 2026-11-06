@@ -5,6 +5,12 @@
      found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Color button background drawable
+summary: Layer-list drawable that draws a color button with a border, background fill and a red swatch placeholder for the color picker.
+-->
+
 <layer-list xmlns:android="http://schemas.android.com/apk/res/android">
     <item
         android:top="0dp"

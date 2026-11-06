@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Context menu native delegate interface
+// summary: Interface for native-side context menu actions like retrieving images, starting downloads, reverse image search, and DevTools inspection.
+// ---
+
 package org.chromium.components.embedder_support.contextmenu;
 
 import android.graphics.Bitmap;

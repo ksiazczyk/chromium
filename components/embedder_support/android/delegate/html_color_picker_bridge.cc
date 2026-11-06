@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HtmlColorPickerBridge JNI implementation
+// summary: Implements the native side of the HTML color picker, showing the Java color picker dialog with suggestions and reporting the chosen color back to WebContents.
+// ---
+
 #include "components/embedder_support/android/delegate/html_color_picker_bridge.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SimpleFactoryKeyHandle JNI header
+// summary: Declares SimpleFactoryKeyFromJavaHandle, which returns the native SimpleFactoryKey pointer wrapped by a Java SimpleFactoryKeyHandle reference.
+// ---
+
 #ifndef COMPONENTS_EMBEDDER_SUPPORT_ANDROID_SIMPLE_FACTORY_KEY_SIMPLE_FACTORY_KEY_HANDLE_H_
 #define COMPONENTS_EMBEDDER_SUPPORT_ANDROID_SIMPLE_FACTORY_KEY_SIMPLE_FACTORY_KEY_HANDLE_H_
 

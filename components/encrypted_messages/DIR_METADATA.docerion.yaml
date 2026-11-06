@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Bug tracking metadata for encrypted_messages
+summary: Maps the directory to the Internals>CertAnalysis monorail component and a Buganizer component ID.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EyeDropperBridge class declaration
+// summary: Declares the bridge between the Android system EyeDropper intent and content::EyeDropper, with JNI callbacks for color selection and cancellation.
+// ---
+
 #ifndef COMPONENTS_EMBEDDER_SUPPORT_ANDROID_DELEGATE_EYE_DROPPER_BRIDGE_H_
 #define COMPONENTS_EMBEDDER_SUPPORT_ANDROID_DELEGATE_EYE_DROPPER_BRIDGE_H_
 

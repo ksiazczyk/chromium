@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Color chooser delegate protocol for iOS
+// summary: Declares the ColorChooserDelegateIOS protocol invoked when the user closes the UIColorPickerViewController with a selected color.
+// ---
+
 #ifndef COMPONENTS_EMBEDDER_SUPPORT_IOS_DELEGATE_COLOR_CHOOSER_COLOR_CHOOSER_DELEGATE_IOS_H_
 #define COMPONENTS_EMBEDDER_SUPPORT_IOS_DELEGATE_COLOR_CHOOSER_COLOR_CHOOSER_DELEGATE_IOS_H_
 

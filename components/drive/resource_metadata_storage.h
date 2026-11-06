@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Resource metadata storage class declaration
+// summary: Declares ResourceMetadataStorage, the LevelDB-backed store for Drive resource entries and child-parent relationships, with an entry iterator, cache recovery info, and DB upgrade support.
+// ---
+
 #ifndef COMPONENTS_DRIVE_RESOURCE_METADATA_STORAGE_H_
 #define COMPONENTS_DRIVE_RESOURCE_METADATA_STORAGE_H_
 

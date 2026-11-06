@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User agent utilities API declarations
+// summary: Declares functions for user agent strings, brand version lists, user agent metadata, form factor client hints, and command-line user agent overrides.
+// ---
+
 #ifndef COMPONENTS_EMBEDDER_SUPPORT_USER_AGENT_UTILS_H_
 #define COMPONENTS_EMBEDDER_SUPPORT_USER_AGENT_UTILS_H_
 

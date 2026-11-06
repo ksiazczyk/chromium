@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebContentsDelegateAndroid class declaration
+// summary: Declares the default native WebContentsDelegate for Android that forwards WebContents calls to a Java peer, which embedding applications can subclass.
+// ---
+
 #ifndef COMPONENTS_EMBEDDER_SUPPORT_ANDROID_DELEGATE_WEB_CONTENTS_DELEGATE_ANDROID_H_
 #define COMPONENTS_EMBEDDER_SUPPORT_ANDROID_DELEGATE_WEB_CONTENTS_DELEGATE_ANDROID_H_
 

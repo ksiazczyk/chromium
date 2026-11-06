@@ -6,6 +6,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Android ID resources for context menu actions
+summary: Defines ID resources for context menu actions such as opening in browser and copying link address or text, including one ID used only by WebView.
+-->
+
 <resources>
     <!-- Context Menu Ids -->
     <item type="id" name="contextmenu_open_in_browser_id" />

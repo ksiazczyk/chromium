@@ -1,3 +1,9 @@
+---
+type: readme
+title: Drive component overview
+summary: Explains that the directory holds utility code for accessing Google Drive, shared by SyncFileSystem and Google Drive integration on Chrome OS.
+---
+
 This directory contains utility code for accessing Google Drive, shared by
 SyncFileSystem (chrome/browser/sync_file_system) and Google Drive integration
 on Chrome OS (chrome/browser/ash/drive).

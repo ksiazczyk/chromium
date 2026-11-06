@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dummy Drive service class declaration
+// summary: Declares DummyDriveService, a placeholder DriveServiceInterface implementation whose methods do nothing or return trivial values.
+// ---
+
 #ifndef COMPONENTS_DRIVE_SERVICE_DUMMY_DRIVE_SERVICE_H_
 #define COMPONENTS_DRIVE_SERVICE_DUMMY_DRIVE_SERVICE_H_
 

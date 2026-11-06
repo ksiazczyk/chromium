@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Trusted CDN utilities implementation
+// summary: Implements trusted CDN checks and extracts the publisher URL from the x-amp-cache response header for pages hosted on the AMP CDN.
+// ---
+
 #include "components/embedder_support/android/util/cdn_utils.h"
 
 #include "base/command_line.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the origin trial policy
+// summary: Unit tests covering public key parsing, disabled features and tokens, and field-trial-based user exclusion in OriginTrialPolicyImpl.
+// ---
+
 #include "components/embedder_support/origin_trials/origin_trial_policy_impl.h"
 
 #include <memory>

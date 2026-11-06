@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentViewRenderView class declaration
+// summary: Declares the embedder_support ContentViewRenderView class, a CompositorClient exposing JNI methods for surface handling, web contents, and overlay video mode on Android.
+// ---
+
 #ifndef COMPONENTS_EMBEDDER_SUPPORT_ANDROID_VIEW_CONTENT_VIEW_RENDER_VIEW_H_
 #define COMPONENTS_EMBEDDER_SUPPORT_ANDROID_VIEW_CONTENT_VIEW_RENDER_VIEW_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Context menu populator interface
+// summary: Delegate interface for building context menu items, handling item selections, and exposing chip, page title, and custom item information.
+// ---
+
 package org.chromium.components.embedder_support.contextmenu;
 
 import org.chromium.build.annotations.NullMarked;

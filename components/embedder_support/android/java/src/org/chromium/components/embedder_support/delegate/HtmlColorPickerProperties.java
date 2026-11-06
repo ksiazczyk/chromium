@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Color picker property model keys
+// summary: Defines the property model keys holding the chosen color, suggestions adapter, view state and callbacks for the color picker.
+// ---
+
 package org.chromium.components.embedder_support.delegate;
 
 import org.chromium.base.Callback;

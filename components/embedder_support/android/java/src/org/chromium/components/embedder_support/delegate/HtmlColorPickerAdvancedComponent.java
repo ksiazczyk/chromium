@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Color picker gradient component
+// summary: Encapsulates a single gradient view of the HSV color display, combining a label, gradient drawable and seek bar.
+// ---
+
 package org.chromium.components.embedder_support.delegate;
 
 import android.content.Context;

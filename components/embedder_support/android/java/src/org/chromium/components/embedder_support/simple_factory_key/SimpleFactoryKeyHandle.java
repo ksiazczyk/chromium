@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SimpleFactoryKeyHandle
+// summary: Java interface providing access to a native SimpleFactoryKey, exposing a method that returns the pointer to the wrapped native object via JNI.
+// ---
+
 package org.chromium.components.embedder_support.simple_factory_key;
 
 import org.jni_zero.CalledByNative;

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the virtual_structure directory
+summary: Lists the code owners responsible for the virtual_structure directory in Chromium's embedder support components.

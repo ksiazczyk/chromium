@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Drive file system core utilities header
+// summary: Declares fixed local IDs and directory names for the Drive file system tree, plus utility functions for GDoc files, changestamp conversion, and a Destroy helper for object cleanup.
+// ---
+
 #ifndef COMPONENTS_DRIVE_FILE_SYSTEM_CORE_UTIL_H_
 #define COMPONENTS_DRIVE_FILE_SYSTEM_CORE_UTIL_H_
 

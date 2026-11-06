@@ -1,0 +1,4 @@
+# Docerion header of color_chooser_controller_ios.mm.
+type: source
+title: iOS color chooser controller implementation
+summary: Implements ColorChooserControllerIOS, reporting the selected color when the picker view disappears and handling the consumer close and set-color actions.

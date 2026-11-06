@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chip delegate interface for context menu chips
+// summary: Interface handling chip data and actions for the Android context menu, including support checks and chip render parameter retrieval.
+// ---
+
 package org.chromium.components.embedder_support.contextmenu;
 
 import org.chromium.base.Callback;

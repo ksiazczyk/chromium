@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Drive API utilities
+// summary: Tests the Drive API utility functions, covering query translation, resource ID canonicalization, MD5 digests, and hosted document extensions.
+// ---
+
 #include "components/drive/drive_api_util.h"
 
 #include "base/files/scoped_temp_dir.h"

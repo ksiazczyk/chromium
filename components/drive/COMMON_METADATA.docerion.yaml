@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Bug tracker metadata for the drive component
+summary: Declares the Monorail component and public Buganizer component ID used for issues in the drive directory.

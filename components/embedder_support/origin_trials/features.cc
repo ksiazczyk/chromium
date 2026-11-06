@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Definition of the origin trials sample API feature
+// summary: Defines the kOriginTrialsSampleAPIThirdPartyAlternativeUsage base feature, enabled by default, used for field trial testing of third party origin trial token usage restriction.
+// ---
+
 #include "components/embedder_support/origin_trials/features.h"
 
 #include "base/feature_list.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HtmlColorPickerBridge class declaration
+// summary: Declares the glue class between the Java color picker dialog and the native content::ColorChooser interface.
+// ---
+
 #ifndef COMPONENTS_EMBEDDER_SUPPORT_ANDROID_DELEGATE_HTML_COLOR_PICKER_BRIDGE_H_
 #define COMPONENTS_EMBEDDER_SUPPORT_ANDROID_DELEGATE_HTML_COLOR_PICKER_BRIDGE_H_
 

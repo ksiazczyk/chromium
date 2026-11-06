@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Interface for the message encrypter
+// summary: Declares EncryptSerializedMessage and the test-only DecryptMessageForTesting helper for the encrypted messages component.
+// ---
+
 #ifndef COMPONENTS_ENCRYPTED_MESSAGES_MESSAGE_ENCRYPTER_H_
 #define COMPONENTS_ENCRYPTED_MESSAGES_MESSAGE_ENCRYPTER_H_
 

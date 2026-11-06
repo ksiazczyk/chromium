@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Drive service test utility implementation
+// summary: Implements helpers that populate a FakeDriveService with test files, folders, duplicates, shared entries, and team drive content for Drive service tests.
+// ---
+
 #include "components/drive/service/test_util.h"
 
 #include <memory>

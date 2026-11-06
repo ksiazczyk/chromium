@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Drive service implementation
+// summary: Implements FakeDriveService, an in-memory fake of the Drive service that loads JSON resources and emulates real API behavior, including search, uploads and error responses, for tests.
+// ---
+
 #include "components/drive/service/fake_drive_service.h"
 
 #include <stddef.h>

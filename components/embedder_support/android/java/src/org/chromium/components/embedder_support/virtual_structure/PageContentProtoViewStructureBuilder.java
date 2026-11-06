@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PageContentProtoViewStructureBuilder
+// summary: Builds an Android ViewStructure from an AnnotatedPageContent proto, mapping content attributes to view class names, tags, and text sizes.
+// ---
+
 package org.chromium.components.embedder_support.virtual_structure;
 
 import android.app.assist.AssistStructure.ViewNode;

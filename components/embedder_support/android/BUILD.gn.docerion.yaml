@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for Android embedder support libraries
+summary: GN build file defining JNI generation and static library targets for the Android embedder support components such as util, view, web_contents_delegate and context_menu.

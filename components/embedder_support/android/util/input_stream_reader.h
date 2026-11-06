@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InputStreamReader class declaration
+// summary: Declares the InputStreamReader class that wraps an InputStream to perform byte-range seeks and raw data reads for URL loading jobs on the worker thread.
+// ---
+
 #ifndef COMPONENTS_EMBEDDER_SUPPORT_ANDROID_UTIL_INPUT_STREAM_READER_H_
 #define COMPONENTS_EMBEDDER_SUPPORT_ANDROID_UTIL_INPUT_STREAM_READER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Origin trial policy implementation
+// summary: Implements the embedder's origin trial policy with a default public key, command-line overrides, and checks for disabled features, tokens and deprecation-only mode.
+// ---
+
 #include "components/embedder_support/origin_trials/origin_trial_policy_impl.h"
 
 #include <stdint.h>

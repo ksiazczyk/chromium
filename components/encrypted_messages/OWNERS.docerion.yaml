@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of the encrypted_messages component
+summary: Delegates directory ownership to the CRYPTO_OWNERS file.

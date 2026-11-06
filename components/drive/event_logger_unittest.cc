@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Event logger unit tests
+// summary: Unit tests verifying that EventLogger records events in order with sequential IDs and evicts the oldest entries beyond the history size.
+// ---
+
 #include "components/drive/event_logger.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for origin trials component updater utilities
+// summary: Tests applying origin trial overrides from component installer manifests to local state prefs, command line switches, and settings storage, using a mock settings storage and testing pref service.
+// ---
+
 #include "components/embedder_support/origin_trials/component_updater_utils.h"
 
 #include <string>

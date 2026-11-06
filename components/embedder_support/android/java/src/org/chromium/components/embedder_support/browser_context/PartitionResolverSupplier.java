@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PartitionResolverSupplier singleton holder
+// summary: Singleton access point that stores and provides the embedder's PartitionResolver implementation, which should be set once early in the app lifecycle.
+// ---
+
 package org.chromium.components.embedder_support.browser_context;
 
 import org.chromium.base.supplier.OneshotSupplierImpl;

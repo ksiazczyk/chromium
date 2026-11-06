@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for user agent utilities
+// summary: Tests user agent string generation, brand version lists, and platform version client hints, including Windows UniversalApiContract verification.
+// ---
+
 #include "components/embedder_support/user_agent_utils.h"
 
 #include <string>

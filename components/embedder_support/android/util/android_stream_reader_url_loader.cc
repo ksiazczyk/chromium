@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android stream reader URL loader implementation
+// summary: Implements a custom URLLoader that serves responses from Android InputStreams, opening streams on a worker thread and handling byte ranges, MIME sniffing and response caching.
+// ---
+
 #include "components/embedder_support/android/util/android_stream_reader_url_loader.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Drive service class declaration
+// summary: Declares FakeDriveService, a fake DriveServiceInterface that keeps an in-memory resource list and simulates Drive server behavior, offline state and load counts for testing.
+// ---
+
 #ifndef COMPONENTS_DRIVE_SERVICE_FAKE_DRIVE_SERVICE_H_
 #define COMPONENTS_DRIVE_SERVICE_FAKE_DRIVE_SERVICE_H_
 

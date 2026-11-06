@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Event logger for Drive diagnostics
+// summary: Declares EventLogger, which collects text messages for diagnosing Google APIs behavior and exposes them to chrome:drive-internals.
+// ---
+
 #ifndef COMPONENTS_DRIVE_EVENT_LOGGER_H_
 #define COMPONENTS_DRIVE_EVENT_LOGGER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android stream reader URL loader header
+// summary: Declares a custom URLLoader that serves responses from Android InputStreams, supporting request interception, ContentProvider content, and in-app asset and resource files via a ResponseDelegate interface.
+// ---
+
 #ifndef COMPONENTS_EMBEDDER_SUPPORT_ANDROID_UTIL_ANDROID_STREAM_READER_URL_LOADER_H_
 #define COMPONENTS_EMBEDDER_SUPPORT_ANDROID_UTIL_ANDROID_STREAM_READER_URL_LOADER_H_
 

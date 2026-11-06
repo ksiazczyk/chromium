@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebContentsDelegateAndroid
+// summary: Java peer of the native WebContentsDelegateAndroid that relays delegate events such as opening tabs, file chooser, downloads and loading state to embedders.
+// ---
+
 package org.chromium.components.embedder_support.delegate;
 
 import static android.view.Display.INVALID_DISPLAY;

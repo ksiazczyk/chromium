@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Origin trial preference registration
+// summary: Registers the origin trial public key, disabled features and disabled tokens preferences in the pref registry.
+// ---
+
 #include "components/embedder_support/origin_trials/origin_trial_prefs.h"
 
 #include "components/embedder_support/origin_trials/pref_names.h"

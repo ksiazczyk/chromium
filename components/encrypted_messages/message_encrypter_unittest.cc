@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the message encrypter
+// summary: Tests encryption and decryption, including a fixed serialized encrypted message that must match the corresponding server-side test.
+// ---
+
 #include "components/encrypted_messages/message_encrypter.h"
 
 #include <ranges>

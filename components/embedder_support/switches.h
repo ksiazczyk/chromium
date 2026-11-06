@@ -5,6 +5,12 @@
 // Defines the shared command-line switches used by code in the Chrome
 // directory that don't have anywhere more specific to go.
 
+// ---docerion
+// type: source
+// title: Header for shared embedder command-line switches
+// summary: Declares the shared command-line switch constants used by multiple embedders, covering popup blocking, headless mode, origin trials, and user agent settings.
+// ---
+
 #ifndef COMPONENTS_EMBEDDER_SUPPORT_SWITCHES_H_
 #define COMPONENTS_EMBEDDER_SUPPORT_SWITCHES_H_
 

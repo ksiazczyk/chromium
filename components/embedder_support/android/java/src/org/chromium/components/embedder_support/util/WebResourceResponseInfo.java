@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebResourceResponseInfo
+// summary: Java class representing the response information for a resource fetch, holding MIME type, charset, status code, headers and a data stream that is transferred once to native code via JNI.
+// ---
+
 package org.chromium.components.embedder_support.util;
 
 import org.jni_zero.CalledByNative;

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the embedder_support component
+summary: Defines static libraries for embedder support, content settings, permissions, and user agent code, plus a unit test source set, with their sources and dependencies.

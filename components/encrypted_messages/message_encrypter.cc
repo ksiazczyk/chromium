@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of encrypted message creation
+// summary: Encrypts serialized messages using an ephemeral X25519 key exchange, an HKDF-derived subkey, and AES-128-CTR with HMAC-SHA256, plus a test-only decryption helper.
+// ---
+
 #include "components/encrypted_messages/message_encrypter.h"
 
 #include <string_view>

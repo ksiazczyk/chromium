@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: C++ color chooser for iOS header
+// summary: Declares ColorChooserIOS, the content::ColorChooser implementation that owns the iOS coordinator and notifies the WebContents about chosen colors.
+// ---
+
 #ifndef COMPONENTS_EMBEDDER_SUPPORT_IOS_DELEGATE_COLOR_CHOOSER_COLOR_CHOOSER_IOS_H_
 #define COMPONENTS_EMBEDDER_SUPPORT_IOS_DELEGATE_COLOR_CHOOSER_COLOR_CHOOSER_IOS_H_
 
