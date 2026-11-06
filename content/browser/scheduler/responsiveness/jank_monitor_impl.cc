@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Jank monitor implementation
+// summary: Implements JankMonitorImpl, which periodically checks the UI and IO threads for tasks running longer than the jank threshold and notifies observers.
+// ---
+
 #include "content/browser/scheduler/responsiveness/jank_monitor_impl.h"
 
 #include "base/compiler_specific.h"

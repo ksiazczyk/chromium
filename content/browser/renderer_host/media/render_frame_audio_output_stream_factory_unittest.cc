@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Render frame audio output stream factory unit tests
+// summary: Unit tests for the render frame audio output stream factory using fake stream factories, a mock preferred audio output device manager, and test renderer host harnesses.
+// ---
+
 #include "content/browser/renderer_host/media/render_frame_audio_output_stream_factory.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PreferredAudioOutputDeviceManager implementation
+// summary: Implements per-main-frame preferred audio output device management, switching the output device for all registered device switchers in the frame tree.
+// ---
+
 #include "content/browser/renderer_host/media/preferred_audio_output_device_manager.h"
 
 #include <algorithm>

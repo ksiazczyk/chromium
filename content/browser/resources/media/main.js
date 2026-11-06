@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media Internals entry point and backend callbacks
+// summary: Initializes the manager and exposes window.media callbacks that the C++ backend calls to deliver player, audio, capture, and CDM updates.
+// ---
+
 import {objectForEach} from './util.js';
 
 let manager = null;

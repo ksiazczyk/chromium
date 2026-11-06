@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Process Internals WebUI build rules
+summary: GN build configuration that assembles the process internals WebUI from static files, TypeScript sources and generated Mojo bindings.

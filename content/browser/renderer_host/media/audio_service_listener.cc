@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioServiceListener implementation
+// summary: Tracks the active audio service process and registers the audio log factory with the out-of-process audio service when it launches.
+// ---
+
 #include "content/browser/renderer_host/media/audio_service_listener.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IndexedDB transaction table custom element
+// summary: Custom element that renders IndexedDB transaction metadata, including state history, into the transactions table of the internals page.
+// ---
+
 import {CustomElement} from 'chrome://resources/js/custom_element.js';
 
 import {IdbTransactionMode, IdbTransactionState} from './indexed_db_internals_types.mojom-webui.js';

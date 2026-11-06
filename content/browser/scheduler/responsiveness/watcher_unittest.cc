@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Watcher unit tests
+// summary: Unit tests for the responsiveness Watcher that use fake calculator and metric source implementations to verify task and event timing on the UI and IO threads.
+// ---
+
 #include "content/browser/scheduler/responsiveness/watcher.h"
 
 #include "base/functional/bind.h"

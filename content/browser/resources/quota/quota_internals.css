@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: source
+title: Quota Internals page styles
+summary: Styles the Quota Internals WebUI page, including tables for disk availability, eviction statistics and the storage pressure test controls.
+*/
+
 button {
   background-color: powderblue;
   border: .5px solid black;

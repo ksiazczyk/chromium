@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Template for the traces app shell
+// summary: Lit HTML template for the traces-app element rendering the tab bar and the reports, scenarios and recorder pages.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {TracesAppElement} from './app.js';

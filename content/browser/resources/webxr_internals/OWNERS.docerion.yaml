@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: WebXR internals code owners
+summary: Points to the WebXR component OWNERS file as the owner list for this directory.

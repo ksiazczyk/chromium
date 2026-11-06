@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IndexedDB internals page logic
+// summary: Implements the internals page logic, fetching bucket metadata over Mojo and supporting force close, download, and metadata recording controls.
+// ---
+
 import './database.js';
 
 import {assert} from 'chrome://resources/js/assert.js';

@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: source
+title: Styles for the Media Internals page
+summary: Defines the layout, panels, tables, and toolbar styling for the Media Internals page, including light and dark color schemes.
+*/
+
 :root {
   --background-color: #fff;
   --text-color: #202124;

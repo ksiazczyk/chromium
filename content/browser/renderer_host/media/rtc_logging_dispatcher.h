@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebRTC logging dispatcher header
+// summary: Declares RTCLoggingDispatcherImpl, a per-document Mojo service exposing start, finish, and cancel operations for WebRTC diagnostic logging sessions.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_MEDIA_RTC_LOGGING_DISPATCHER_H_
 #define CONTENT_BROWSER_RENDERER_HOST_MEDIA_RTC_LOGGING_DISPATCHER_H_
 

@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: source
+title: Styles for the IndexedDB internals page
+summary: Styles the IndexedDB internals page, including summary bars, origin URLs, bucket paths, and the snapshot series scrubber.
+*/
+
 @import url('common.css');
 
 .indexeddb-summary {

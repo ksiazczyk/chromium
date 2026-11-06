@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the responsiveness calculator
+// summary: Tests congestion slice calculation, startup stages, and metric emission of the Calculator using mock delegates and histogram testers.
+// ---
+
 #include "content/browser/scheduler/responsiveness/calculator.h"
 
 #include <optional>

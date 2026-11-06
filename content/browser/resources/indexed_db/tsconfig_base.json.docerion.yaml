@@ -1,0 +1,4 @@
+# Docerion header of tsconfig_base.json.
+type: config
+title: TypeScript base config for IndexedDB WebUI resources
+summary: TypeScript configuration extending the Chromium base config and disabling strictPropertyInitialization for the IndexedDB WebUI resources.

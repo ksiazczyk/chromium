@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CaptureHandleManager unit tests
+// summary: Unit tests for CaptureHandleManager verifying capture handle exposure, origin restrictions and device capture handle change callbacks.
+// ---
+
 #include "content/browser/media/capture_handle_manager.h"
 
 #include "content/test/test_render_view_host.h"

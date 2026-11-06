@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Navigation transition data implementation
+// summary: Implements NavigationTransitionData, assigning unique IDs and managing the same-document navigation screenshot token via viz's HostFrameSinkManager.
+// ---
+
 #include "content/browser/renderer_host/navigation_transitions/navigation_transition_data.h"
 
 #include "components/viz/host/host_frame_sink_manager.h"

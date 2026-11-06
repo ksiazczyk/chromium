@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Navigation entry screenshot cache unit tests
+// summary: Unit tests for storing, removing and evicting navigation entry screenshots in the per-tab screenshot cache.
+// ---
+
 #include "content/browser/renderer_host/navigation_transitions/navigation_entry_screenshot_cache.h"
 
 #include "base/test/scoped_feature_list.h"

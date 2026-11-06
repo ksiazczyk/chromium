@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Navigation transitions OWNERS file
+summary: OWNERS file that delegates code review ownership via a file reference to another OWNERS file.

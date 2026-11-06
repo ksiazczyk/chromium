@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaStreamDispatcherHost implementation
+// summary: Implements the Mojo host handling renderer media stream requests, binding device observers and managing WebContents observation and sub-capture target checks.
+// ---
+
 #include "content/browser/renderer_host/media/media_stream_dispatcher_host.h"
 
 #include <memory>

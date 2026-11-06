@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network errors listing TypeScript module
+// summary: Fetches the network error codes data and renders a linked list of network error pages for the errors listing UI.
+// ---
+
 import {getRequiredElement} from 'chrome://resources/js/util.js';
 
 /**

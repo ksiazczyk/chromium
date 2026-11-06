@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: No-op P2P socket manager unit tests
+// summary: Unit tests verifying the no-op manager reports empty network lists, keeps notification clients connected, and never creates sockets.
+// ---
+
 #include "content/browser/renderer_host/p2p/no_op_p2p_socket_manager.h"
 
 #include <optional>

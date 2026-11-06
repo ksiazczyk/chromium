@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: In-process video capture device launcher implementation
+// summary: Implements launching of in-process capture devices for camera, tab, window, and screen capture in the browser process.
+// ---
+
 #include "content/browser/renderer_host/media/in_process_video_capture_device_launcher.h"
 
 #include <optional>

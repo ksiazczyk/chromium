@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media stream metrics implementation
+// summary: Records histograms and UKM events for media stream request responses, including desktop and display video device updates.
+// ---
+
 #include "content/browser/renderer_host/media/media_stream_metrics.h"
 
 #include "base/metrics/histogram_functions.h"

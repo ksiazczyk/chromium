@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: IndexedDB internals WebUI GN build definition
+summary: Defines the WebUI build for the IndexedDB internals page, listing static files, web components, TypeScript sources, and generated Mojo type dependencies.

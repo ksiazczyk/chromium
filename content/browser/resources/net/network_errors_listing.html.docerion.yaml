@@ -1,0 +1,4 @@
+# Docerion header of network_errors_listing.html.
+type: source
+title: Network errors listing page
+summary: HTML shell for the network errors WebUI page that loads shared and local styles plus the listing module and hosts the error list container.

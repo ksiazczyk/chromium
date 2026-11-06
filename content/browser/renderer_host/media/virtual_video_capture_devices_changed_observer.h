@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VirtualVideoCaptureDevicesChangedObserver declaration
+// summary: Declares a video_capture::mojom::DevicesChangedObserver implementation that forwards device change events to the process-local SystemMonitor.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_MEDIA_VIRTUAL_VIDEO_CAPTURE_DEVICES_CHANGED_OBSERVER_H_
 #define CONTENT_BROWSER_RENDERER_HOST_MEDIA_VIRTUAL_VIDEO_CAPTURE_DEVICES_CHANGED_OBSERVER_H_
 

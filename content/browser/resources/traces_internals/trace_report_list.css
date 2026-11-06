@@ -9,6 +9,12 @@
  * #include=cr-hidden-style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Trace report list styles
+summary: Styles for the trace report list page, covering the header, loading spinner, notification cards, empty state, and utility bar.
+*/
+
 :host {
   height: 100%;
   display: flex;

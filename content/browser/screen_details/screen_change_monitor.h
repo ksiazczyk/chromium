@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScreenChangeMonitor class declaration
+// summary: Declares a display::DisplayObserver subclass that monitors system screen information and invokes a callback indicating whether the plurality of connected screens changed.
+// ---
+
 #ifndef CONTENT_BROWSER_SCREEN_DETAILS_SCREEN_CHANGE_MONITOR_H_
 #define CONTENT_BROWSER_SCREEN_DETAILS_SCREEN_CHANGE_MONITOR_H_
 

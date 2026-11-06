@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Screen details directory owners
+summary: OWNERS file listing msw@chromium.org as the primary code owner for the screen_details directory.

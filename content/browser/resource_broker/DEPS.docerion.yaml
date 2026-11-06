@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Resource broker include rules
+summary: Defines the allowed include dependencies for the resource_broker browser directory, with a special rule permitting the service implementation header in the host unit test.

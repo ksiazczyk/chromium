@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio output authorization handler implementation
+// summary: Implements AudioOutputAuthorizationHandler, checking renderer authorization for audio output devices and retrieving default device parameters.
+// ---
+
 #include "content/browser/renderer_host/media/audio_output_authorization_handler.h"
 
 #include "base/functional/bind.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VideoCaptureController unit tests
+// summary: Unit tests for VideoCaptureController that use mock event handlers to verify buffer handling, errors, capture end, and related controller behavior.
+// ---
+
 #include "content/browser/renderer_host/media/video_capture_controller.h"
 
 #include <stdint.h>

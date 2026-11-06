@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaCaptureDevicesImpl implementation
+// summary: Implements the MediaCaptureDevices singleton that caches enumerated audio and video capture devices and forwards device change notifications on the UI thread.
+// ---
+
 #include "content/browser/renderer_host/media/media_capture_devices_impl.h"
 
 #include "base/functional/bind.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SubCaptureTargetIdWebContentsHelper unit tests
+// summary: Unit tests for SubCaptureTargetIdWebContentsHelper covering production and association of crop and restriction target IDs for region capture.
+// ---
+
 #include "content/browser/media/capture/sub_capture_target_id_web_contents_helper.h"
 
 #include <array>

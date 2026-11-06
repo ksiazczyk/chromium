@@ -1,0 +1,4 @@
+# Docerion header of database.html.
+type: source
+title: HTML template for the IndexedDB database component
+summary: Template for the database element showing the open database name, connection counts, transactions container, and a client metadata template with an inspect control.

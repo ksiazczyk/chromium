@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows browser test for native event observer
+// summary: Windows browser test that posts a message to a hidden window and checks the native event observer forwards will-run and did-run notifications.
+// ---
+
 #include <stdint.h>
 
 #include "base/functional/bind.h"

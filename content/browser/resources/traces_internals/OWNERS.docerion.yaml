@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners pointer for the traces UI directory
+summary: Points to the OWNERS file of the sibling traces_internals tracing directory that holds the actual reviewer list.

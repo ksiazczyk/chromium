@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: source
+title: Service worker internals page styles
+summary: Stylesheet for the service worker internals page, defining summary, registration, version and client styling with light and dark color scheme support.
+*/
+
 .serviceworker-summary {
   background-color: var(--google-blue-50);
   border-top: var(--cr-separator-line);

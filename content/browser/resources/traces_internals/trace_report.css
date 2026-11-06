@@ -10,6 +10,12 @@
  * #include=cr-hidden-style-lit cr-spinner-style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Trace report styles
+summary: Styles for the trace report row, defining the grid layout, upload state badges, and light and dark mode action buttons.
+*/
+
 :host {
   display: grid;
   grid-template-columns: repeat(3, 1fr) 3fr 1fr 250px 150px;

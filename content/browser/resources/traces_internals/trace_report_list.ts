@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Trace report list element
+// summary: Lit element managing the list of locally saved trace reports, with loading, refresh, delete-all, and toast notification handling.
+// ---
+
 import './trace_report.js';
 import '//resources/cr_elements/cr_toast/cr_toast.js';
 import '//resources/cr_elements/cr_button/cr_button.js';

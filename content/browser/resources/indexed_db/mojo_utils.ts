@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo value conversion utilities for IndexedDB internals
+// summary: Utility functions that convert Mojo time, scope, origin and schemeful site values into readable strings for the IndexedDB internals WebUI.
+// ---
+
 import type {Time} from 'chrome://resources/mojo/mojo/public/mojom/base/time.mojom-webui.js';
 import type {Origin} from 'chrome://resources/mojo/url/mojom/origin.mojom-webui.js';
 

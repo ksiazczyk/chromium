@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: WebXR internals project metadata
+summary: Declares the Monorail component, team email and Buganizer component used for issues in this directory.

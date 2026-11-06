@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video capture devices changed observer implementation
+// summary: Implements MediaDevicesManager's VideoCaptureDevicesChangedObserver, which connects to the video capture service and reacts to device changes and connection errors.
+// ---
+
 #include "content/browser/renderer_host/media/media_devices_manager.h"
 
 #include "content/public/browser/video_capture_service.h"

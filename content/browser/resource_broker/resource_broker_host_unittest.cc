@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Resource broker host unit tests
+// summary: Unit tests using an in-process service stub and mock time to cover config creation, relaunch cooldown, crash-loop disabling, and crash window pruning.
+// ---
+
 #include "content/browser/resource_broker/resource_broker_host.h"
 
 #include <memory>

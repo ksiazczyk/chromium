@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unit tests for MetricSource
+// summary: Unit tests verifying MetricSource setup, teardown, and task notification forwarding using a fake delegate and a browser task test environment.
+// ---
+
 #include "content/browser/scheduler/responsiveness/metric_source.h"
 
 #include <atomic>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the GPU internals WebUI
+summary: Defines the WebUI build for the GPU internals page, listing static, component and TypeScript files plus Vulkan-conditional Mojo dependencies.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU Internals entry point
+// summary: TypeScript entry point that creates the browser bridge, wires it to the info view, and exposes helpers for tests and injected scripts.
+// ---
+
 import './info_view.js';
 
 import {BrowserBridge} from './browser_bridge.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Trace report list HTML template
+// summary: Lit HTML template for the trace list page, rendering the trace counter, refresh and delete-all controls, report rows, and toast notifications.
+// ---
+
 import {html, nothing} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 
 import type {TraceReportListElement} from './trace_report_list.js';

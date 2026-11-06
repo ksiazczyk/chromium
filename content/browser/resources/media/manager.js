@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Manager for Media Internals players and audio components
+// summary: Tracks PlayerInfo objects and audio components and relays add, update, and remove events to the client renderer for display.
+// ---
+
 import {$} from 'chrome://resources/js/util.js';
 
 import {PlayerInfo} from './player_info.js';

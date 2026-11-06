@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MediaStreamPowerLogger unit tests
+// summary: Verifies that power event log messages are emitted with the expected prefixes and contain no pointer values.
+// ---
+
 #include "content/browser/renderer_host/media/media_stream_power_logger.h"
 
 #include <memory>

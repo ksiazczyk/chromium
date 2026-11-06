@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Video capture browser tests
+// summary: Browser tests exercising video capture end to end with a fake device factory, checking frame delivery, buffer handling, and capture start and stop.
+// ---
+
 #include "base/command_line.h"
 #include "base/functional/bind.h"
 #include "base/functional/callback_helpers.h"

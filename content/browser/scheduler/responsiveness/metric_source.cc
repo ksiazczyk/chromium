@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MetricSource implementation for responsiveness metrics
+// summary: Implements MetricSource, which sets up message loop and native event observers on the browser's UI and IO threads and forwards will-run and did-run notifications to its delegate.
+// ---
+
 #include "content/browser/scheduler/responsiveness/metric_source.h"
 
 #include "base/functional/bind.h"

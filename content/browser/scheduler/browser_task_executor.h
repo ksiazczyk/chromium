@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserTaskExecutor class declaration
+// summary: Declares the BrowserTaskExecutor class that maps task traits to browser task queues and owns the UI and IO thread scheduling infrastructure.
+// ---
+
 #ifndef CONTENT_BROWSER_SCHEDULER_BROWSER_TASK_EXECUTOR_H_
 #define CONTENT_BROWSER_SCHEDULER_BROWSER_TASK_EXECUTOR_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the media resources folder
+summary: Points the directory metadata at the shared media COMMON_METADATA mixins.

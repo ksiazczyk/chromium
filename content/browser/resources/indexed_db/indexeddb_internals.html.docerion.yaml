@@ -1,0 +1,4 @@
+# Docerion header of indexeddb_internals.html.
+type: source
+title: IndexedDB internals page
+summary: Main HTML page of the IndexedDB internals WebUI with an origin filter input and a container for the rendered IndexedDB list.

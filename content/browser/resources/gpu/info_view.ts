@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU info view web component
+// summary: TypeScript web component that renders GPU diagnostics such as basic info, feature status, ANGLE features and problems, and supports copying or downloading the report.
+// ---
+
 import {assert} from 'chrome://resources/js/assert.js';
 import {CustomElement} from 'chrome://resources/js/custom_element.js';
 

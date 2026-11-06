@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Trace recorder HTML template
+// summary: Lit HTML template for the trace recorder page, rendering tracing status, start and stop controls, buffer configuration, privacy filter, and track event tag selection.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import {TraceConfig_BufferConfig_FillPolicy} from './perfetto_config.js';

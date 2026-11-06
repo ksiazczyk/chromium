@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MediaStreamDispatcherHost unit tests
+// summary: Unit tests for the media stream dispatcher host covering stream generation, device selection, and multi-capture permission policies.
+// ---
+
 #include "content/browser/renderer_host/media/media_stream_dispatcher_host.h"
 
 #include <stddef.h>

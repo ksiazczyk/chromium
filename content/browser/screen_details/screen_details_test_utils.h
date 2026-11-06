@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Screen details test utilities header
+// summary: Declares a JavaScript snippet to collect getScreenDetails values and the GetExpectedScreenDetails helper used to compare API output in tests.
+// ---
+
 #ifndef CONTENT_BROWSER_SCREEN_DETAILS_SCREEN_DETAILS_TEST_UTILS_H_
 #define CONTENT_BROWSER_SCREEN_DETAILS_SCREEN_DETAILS_TEST_UTILS_H_
 

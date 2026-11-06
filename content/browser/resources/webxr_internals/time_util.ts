@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo time formatting utilities
+// summary: Utility functions that convert Mojo time values from the Windows FILETIME epoch to readable date strings and return the current date time.
+// ---
+
 import type {Time} from 'chrome://resources/mojo/mojo/public/mojom/base/time.mojom-webui.js';
 
 export function formatMojoTime(mojoTime: Time) {

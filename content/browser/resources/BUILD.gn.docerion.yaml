@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Browser resources build group
+summary: GN build file defining a resources group that aggregates resource targets from browser subdirectories, conditionally adding traces_internals and webxr_internals.

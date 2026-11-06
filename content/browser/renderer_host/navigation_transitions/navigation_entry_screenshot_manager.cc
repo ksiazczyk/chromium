@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Navigation entry screenshot manager implementation
+// summary: Implements the global screenshot manager that tracks cache sizes, enforces the memory budget and cleans up invisible caches.
+// ---
+
 #include "content/browser/renderer_host/navigation_transitions/navigation_entry_screenshot_manager.h"
 
 #include "base/debug/crash_logging.h"

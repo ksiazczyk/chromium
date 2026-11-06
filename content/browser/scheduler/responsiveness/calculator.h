@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Responsiveness calculator class declaration
+// summary: Declares the Calculator class that receives task and event execution latencies from the UI and IO threads to estimate browser responsiveness.
+// ---
+
 #ifndef CONTENT_BROWSER_SCHEDULER_RESPONSIVENESS_CALCULATOR_H_
 #define CONTENT_BROWSER_SCHEDULER_RESPONSIVENESS_CALCULATOR_H_
 

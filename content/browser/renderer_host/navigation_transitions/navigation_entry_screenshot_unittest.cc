@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Navigation entry screenshot unit tests
+// summary: Unit tests for NavigationEntryScreenshot that use a fake raster interface to verify sync token generation and async readback of captured screenshots.
+// ---
+
 #include "content/browser/renderer_host/navigation_transitions/navigation_entry_screenshot.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Histograms page controller logic
+// summary: TypeScript logic for the histograms WebUI that requests histograms, manages monitoring mode with periodic diffs, and parses histogram names from the URL.
+// ---
+
 import {assert} from 'chrome://resources/js/assert.js';
 import {sendWithPromise} from 'chrome://resources/js/cr.js';
 import {getRequiredElement} from 'chrome://resources/js/util.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Process Internals page logic
+// summary: TypeScript front-end that fetches process count, site isolation and WebContents information over Mojo and renders it in the page UI.
+// ---
+
 import 'chrome://resources/cr_elements/cr_tree/cr_tree.js';
 
 import type {CrTreeElement} from 'chrome://resources/cr_elements/cr_tree/cr_tree.js';

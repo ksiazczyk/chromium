@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Jank monitor class declaration
+// summary: Declares JankMonitorImpl and its ThreadExecutionState helper for tracking task execution and detecting jank on watched threads.
+// ---
+
 #ifndef CONTENT_BROWSER_SCHEDULER_RESPONSIVENESS_JANK_MONITOR_IMPL_H_
 #define CONTENT_BROWSER_SCHEDULER_RESPONSIVENESS_JANK_MONITOR_IMPL_H_
 

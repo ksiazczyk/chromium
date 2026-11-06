@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserTaskQueues implementation
+// summary: Implements the common task queues shared by browser threads, mapping queue types to UI and IO task queues for the Chromium sequence manager.
+// ---
+
 #include "content/browser/scheduler/browser_task_queues.h"
 
 #include <iterator>

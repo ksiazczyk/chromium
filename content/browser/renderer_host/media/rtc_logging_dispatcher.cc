@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebRTC logging dispatcher implementation
+// summary: Implements the RTCLoggingDispatcherImpl Mojo document service that forwards start, finish, and cancel WebRTC diagnostic logging requests to the content browser client when the feature is enabled.
+// ---
+
 #include "content/browser/renderer_host/media/rtc_logging_dispatcher.h"
 
 #include <string>

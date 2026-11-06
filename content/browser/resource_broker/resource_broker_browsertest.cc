@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Resource broker browser tests
+// summary: Browser tests that launch the broker in a real utility process and verify initialization, disconnect detection, and that the relaunch cooldown blocks GetService().
+// ---
+
 #include "base/test/run_until.h"
 #include "base/test/scoped_feature_list.h"
 #include "content/browser/resource_broker/resource_broker_host.h"

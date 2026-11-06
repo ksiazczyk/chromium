@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AudioServiceListener unit tests
+// summary: Unit tests verifying AudioServiceListener process tracking on service launch, normal termination and crash, plus audio service observer registration via the public API.
+// ---
+
 #include "content/browser/renderer_host/media/audio_service_listener.h"
 
 #include <utility>

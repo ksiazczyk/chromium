@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PeerConnectionTrackerHost browser-side implementation
+// summary: Implements the browser-process host for PeerConnectionTracker, forwarding peer connection events to WebRTCInternals and relaying power, thermal and screen state changes.
+// ---
+
 #include "content/browser/renderer_host/media/peer_connection_tracker_host.h"
 
 #include <algorithm>

@@ -13,6 +13,12 @@
  * #include=cr-shared-style-lit cr-icons-lit md-select-lit config-toggle
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Styles for the trace recorder page
+summary: Styles for the trace recorder page, covering status indicators, buffer progress, config grids and the command-line display.
+*/
+
 :host {
   color: var(--cr-primary-text-color);
   height: 100%;

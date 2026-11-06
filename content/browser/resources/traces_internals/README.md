@@ -1,3 +1,9 @@
+---
+type: readme
+title: Traces UI README
+summary: Documents the Traces WebUI for performance investigation through tracing, covering scenario enrollment and custom configs, trace reports, and manual trace recording.
+---
+
 # Traces UI
 
 This WebUI implements `chrome://traces` which contains tools for performance

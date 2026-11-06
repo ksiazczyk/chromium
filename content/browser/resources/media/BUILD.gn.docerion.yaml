@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the media internals WebUI
+summary: GN build file that builds the media_internals WebUI, listing its static files, JS sources, and WebUI resource dependencies.

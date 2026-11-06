@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the GPU internals resources
+summary: Lists the Chromium developers responsible for reviewing changes in this directory, with per-file ownership for info view files.

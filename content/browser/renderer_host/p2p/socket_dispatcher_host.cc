@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: P2P socket dispatcher host implementation
+// summary: Implements the browser-side P2PSocketDispatcherHost that binds P2PSocketManager receivers, tracks trusted socket managers, and controls RTP packet dumping.
+// ---
+
 #include "content/browser/renderer_host/p2p/socket_dispatcher_host.h"
 
 #include <stddef.h>

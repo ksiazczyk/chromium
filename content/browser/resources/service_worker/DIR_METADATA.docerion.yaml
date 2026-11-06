@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the service worker resources folder
+summary: Points the folder's metadata mixins at the shared COMMON_METADATA of content/browser/service_worker.

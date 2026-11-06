@@ -1,0 +1,4 @@
+# Docerion header of tsconfig_base.json.
+type: config
+title: TypeScript configuration for the quota internals WebUI
+summary: TypeScript compiler configuration extending the shared Chromium base config and disabling noUncheckedIndexedAccess for this WebUI.

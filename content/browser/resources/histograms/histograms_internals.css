@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: source
+title: Styles for the histograms internals page
+summary: Styles the histograms internals page, including header layout and light and dark color scheme support.
+*/
+
 .histograms {
   margin-top: 10px;
 }

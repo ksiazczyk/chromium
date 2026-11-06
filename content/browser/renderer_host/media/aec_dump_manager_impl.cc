@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AEC dump manager implementation
+// summary: Implements the browser-side AEC dump manager that creates dump files and starts or stops AEC dump agents for audio debug recordings.
+// ---
+
 #include "content/browser/renderer_host/media/aec_dump_manager_impl.h"
 
 #include "base/files/file.h"

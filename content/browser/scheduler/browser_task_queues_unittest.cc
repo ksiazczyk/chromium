@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BrowserTaskQueues unit tests
+// summary: Unit tests verifying that browser task queues stay disabled until enabled, task posting order, and draining of pending tasks for testing.
+// ---
+
 #include "content/browser/scheduler/browser_task_queues.h"
 
 #include <array>

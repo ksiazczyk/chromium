@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+// ---docerion
+// type: source
+// title: Traces browser proxy
+// summary: Singleton browser proxy that sets up Mojo page handler and callback router connections for the traces internals WebUI.
+// ---
+
 import {PageCallbackRouter, PageHandlerRemote, TracesInternalsHandlerFactory} from './traces_internals.mojom-webui.js';
 
 /** Holds Mojo interfaces for communication with the browser process. */

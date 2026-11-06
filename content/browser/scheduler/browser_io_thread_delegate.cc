@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserIOThreadDelegate implementation
+// summary: Implements the IO thread delegate that owns a sequence manager, creates browser task queues, and provides the default task runner for the browser IO thread.
+// ---
+
 #include "content/browser/scheduler/browser_io_thread_delegate.h"
 
 #include "base/memory/raw_ptr.h"

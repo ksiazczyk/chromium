@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: In-process video capture provider implementation
+// summary: Implements InProcessVideoCaptureProvider, creating device launchers and managing the native screen capture picker for screen capture.
+// ---
+
 #include "content/browser/renderer_host/media/in_process_video_capture_provider.h"
 
 #include <utility>

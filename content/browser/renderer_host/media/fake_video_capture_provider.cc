@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeVideoCaptureProvider implementation
+// summary: Implements a VideoCaptureProvider that enumerates fake video capture devices, creates device launchers and stubs out native screen capture picker calls.
+// ---
+
 #include "content/browser/renderer_host/media/fake_video_capture_provider.h"
 
 #include <memory>

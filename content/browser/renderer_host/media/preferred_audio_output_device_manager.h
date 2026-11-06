@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PreferredAudioOutputDeviceManager interface declaration
+// summary: Declares the PreferredAudioOutputDeviceManager interface and AudioOutputDeviceSwitcher for applying preferred output device changes across a frame tree.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_MEDIA_PREFERRED_AUDIO_OUTPUT_DEVICE_MANAGER_H_
 #define CONTENT_BROWSER_RENDERER_HOST_MEDIA_PREFERRED_AUDIO_OUTPUT_DEVICE_MANAGER_H_
 

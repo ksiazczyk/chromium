@@ -1,0 +1,4 @@
+# Docerion header of transaction_table.html.
+type: source
+title: Transaction table template for IndexedDB internals
+summary: HTML template with styles and markup for the transactions table shown on the IndexedDB internals page.

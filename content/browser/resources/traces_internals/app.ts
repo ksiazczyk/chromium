@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Traces app element with tab routing
+// summary: Defines the traces-app Lit element that switches between the reports, scenarios and recorder tabs based on the router path.
+// ---
+
 import '//resources/cr_elements/cr_page_selector/cr_page_selector.js';
 import '//resources/cr_elements/cr_tabs/cr_tabs.js';
 import './trace_report_list.js';

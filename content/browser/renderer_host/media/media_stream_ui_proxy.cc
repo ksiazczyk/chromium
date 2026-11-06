@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media stream UI proxy implementation
+// summary: Implements the proxy that routes media stream access requests, audio output selection and UI notifications between the IO and UI threads.
+// ---
+
 #include "content/browser/renderer_host/media/media_stream_ui_proxy.h"
 
 #include <utility>

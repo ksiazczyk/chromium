@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Vulkan info parser and formatter
+// summary: TypeScript class that deserializes base64 Vulkan info from Mojo and formats versions, UUIDs and extensions for display.
+// ---
+
 import {VulkanInfo_Deserialize} from './vulkan_info.mojom-webui.js';
 
 export class VulkanInfo {

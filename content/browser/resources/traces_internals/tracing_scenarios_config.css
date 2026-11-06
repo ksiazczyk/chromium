@@ -11,6 +11,12 @@
  * #include=cr-spinner-style-lit config-toggle
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Tracing scenarios config styles
+summary: Styles for the tracing scenarios configuration page, covering the action panel, scenario list, loading spinner, and Windows system tracing shield.
+*/
+
 :host {
   height: 100%;
   display: flex;

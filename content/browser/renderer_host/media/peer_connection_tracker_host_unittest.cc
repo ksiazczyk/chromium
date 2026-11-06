@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PeerConnectionTrackerHost unit tests
+// summary: Unit tests for PeerConnectionTrackerHost covering observer callbacks and peer connection lifecycle events.
+// ---
+
 #include "content/browser/renderer_host/media/peer_connection_tracker_host.h"
 
 #include "base/functional/bind.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BrowserIOThreadDelegate unit tests
+// summary: Unit test verifying that tasks posted through the browser IO thread delegate's default task runner run on a real thread.
+// ---
+
 #include "content/browser/scheduler/browser_io_thread_delegate.h"
 
 #include <memory>

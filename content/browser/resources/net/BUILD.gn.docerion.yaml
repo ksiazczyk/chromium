@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for the network errors WebUI
+summary: Defines the WebUI build target for the network errors listing, listing static files, TypeScript sources, dependencies, and the trusted context type.

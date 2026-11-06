@@ -6,6 +6,12 @@
  * @fileoverview A class for keeping track of the details of a player.
  */
 
+// ---docerion
+// type: source
+// title: PlayerInfo class for player properties and events
+// summary: Stores per-player properties and an ordered, timestamped event log used by the Media Internals UI.
+// ---
+
 export class PlayerInfo {
   /**
    * A class that keeps track of properties on a media player.

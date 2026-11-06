@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session info table custom element
+// summary: Custom element that renders table rows for XR session requested, rejected, started, and stopped records with trace IDs and attributes.
+// ---
+
 import {CustomElement} from 'chrome://resources/js/custom_element.js';
 
 import {getTemplate} from './session_info_table.html.js';

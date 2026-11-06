@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: source
+title: Styles for the network errors listing page
+summary: Provides the page styling for the network errors listing, setting body margins, list line height, and word breaking for links.
+*/
+
 body {
   margin: 10px 10px 30px;
 }

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fuchsia media codec provider unit tests
+// summary: Unit tests for FuchsiaMediaCodecProviderImpl covering encrypted and unencrypted video decoder configuration support.
+// ---
+
 #include "content/browser/renderer_host/media/fuchsia_media_codec_provider_impl.h"
 
 #include <fuchsia/media/cpp/fidl.h>

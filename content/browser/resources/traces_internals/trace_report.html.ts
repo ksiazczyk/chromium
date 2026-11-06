@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Trace report HTML template
+// summary: Lit HTML template for a trace report row, showing trace ID, creation date, scenario, upload rule, size, and upload, download, and delete actions.
+// ---
+
 import {html, nothing} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {TraceReportElement} from './trace_report.js';

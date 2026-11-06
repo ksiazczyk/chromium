@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ServiceVideoCaptureProvider implementation
+// summary: Implements ServiceVideoCaptureProvider, which connects to the video capture service on demand, observes its process lifecycle, and creates device launchers.
+// ---
+
 #include "content/browser/renderer_host/media/service_video_capture_provider.h"
 
 #include <utility>

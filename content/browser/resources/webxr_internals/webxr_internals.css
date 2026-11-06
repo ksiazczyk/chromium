@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: source
+title: WebXR Internals page styles
+summary: Stylesheet defining colors, page header, sidebar tab buttons, and tab content layout for the WebXR Internals page.
+*/
+
 :root {
   --dark-text-color: rgb(92, 97, 102);
   --light-gray-color: #eee;

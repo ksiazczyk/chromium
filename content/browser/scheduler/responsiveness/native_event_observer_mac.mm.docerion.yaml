@@ -1,0 +1,4 @@
+# Docerion header of native_event_observer_mac.mm.
+type: source
+title: macOS native event observer implementation
+summary: Registers the observer with the macOS NativeEventProcessor protocol on NSApp and forwards native event callbacks for responsiveness measurement.

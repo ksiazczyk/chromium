@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: script
+# title: Presubmit checks for browser resources
+# summary: Python presubmit script enforcing an 80-column limit on HTML files and running web dev style checks for changes in content/browser/resources.
+# ---
+
 """Presubmit script for files in content/browser/resources.
 
 See http://dev.chromium.org/developers/how-tos/depottools/presubmit-scripts

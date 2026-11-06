@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session statistics table custom element
+// summary: Custom element that displays XR frame statistics such as frame rate, dropped frames, and timings, and copies them to the clipboard.
+// ---
+
 import {CustomElement} from 'chrome://resources/js/custom_element.js';
 
 import {getTemplate} from './session_statistics_table.html.js';

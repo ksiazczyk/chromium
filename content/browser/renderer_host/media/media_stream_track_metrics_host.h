@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media stream track metrics host header
+// summary: Declares MediaStreamTrackMetricsHost, which stores per-renderer track info and reports track duration metrics when tracks end.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_MEDIA_MEDIA_STREAM_TRACK_METRICS_HOST_H_
 #define CONTENT_BROWSER_RENDERER_HOST_MEDIA_MEDIA_STREAM_TRACK_METRICS_HOST_H_
 

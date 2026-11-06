@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IndexedDB database custom element
+// summary: Custom element that renders IndexedDB database metadata, groups transactions by client, and triggers client inspection through the Mojo internals handler.
+// ---
+
 import './transaction_table.js';
 
 import {CustomElement} from 'chrome://resources/js/custom_element.js';

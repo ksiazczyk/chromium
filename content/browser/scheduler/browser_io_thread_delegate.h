@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserIOThreadDelegate class declaration
+// summary: Declares the delegate for the browser IO thread that supplies task queues, the default task runner, and testing helpers.
+// ---
+
 #ifndef CONTENT_BROWSER_SCHEDULER_BROWSER_IO_THREAD_DELEGATE_H_
 #define CONTENT_BROWSER_SCHEDULER_BROWSER_IO_THREAD_DELEGATE_H_
 

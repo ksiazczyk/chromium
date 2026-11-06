@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the histograms WebUI
+summary: GN build configuration that builds the histograms WebUI, declaring its CSS, HTML and TypeScript sources and its TypeScript dependencies.

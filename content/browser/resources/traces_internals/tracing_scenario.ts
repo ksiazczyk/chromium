@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tracing scenario element
+// summary: Lit custom element representing one tracing scenario, mapping scenario states to labels and colors and dispatching value-changed events on toggle.
+// ---
+
 import '//resources/cr_elements/cr_toggle/cr_toggle.js';
 
 import {CrLitElement} from '//resources/lit/v3_0/lit.rollup.js';

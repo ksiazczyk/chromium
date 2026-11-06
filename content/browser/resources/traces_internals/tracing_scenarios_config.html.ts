@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tracing scenarios config template
+// summary: Lit HTML template for the tracing configuration page with privacy filter and system tracing toggles, scenario lists, file upload, and reset, cancel, and confirm actions.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {TracingScenariosConfigElement} from './tracing_scenarios_config.js';

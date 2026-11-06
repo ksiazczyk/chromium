@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Styles for the traces app shell
+summary: Lit styles for the traces-app element that lay out the tab bar and the full-height page selector.
+*/
+
 :host {
   display: flex;
   flex-flow: column;
