@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CommitContribution interface
+// summary: Declares the abstract interface for a data type's entries prepared for commit, covering message building and response processing.
+// ---
+
 #ifndef COMPONENTS_SYNC_ENGINE_COMMIT_CONTRIBUTION_H_
 #define COMPONENTS_SYNC_ENGINE_COMMIT_CONTRIBUTION_H_
 

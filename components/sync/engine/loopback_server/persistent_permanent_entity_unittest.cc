@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Persistent permanent entity unit tests
+// summary: Unit tests covering factory argument validation, top-level creation and Nigori-only update behavior of PersistentPermanentEntity.
+// ---
+
 #include "components/sync/engine/loopback_server/persistent_permanent_entity.h"
 
 #include "components/sync/protocol/sync_entity.pb.h"

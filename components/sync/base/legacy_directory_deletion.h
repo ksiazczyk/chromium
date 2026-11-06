@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Legacy sync directory deletion header
+// summary: Declares DeleteLegacyDirectoryFilesAndNigoriStorage, which cleans up legacy sync directory database files.
+// ---
+
 #ifndef COMPONENTS_SYNC_BASE_LEGACY_DIRECTORY_DELETION_H_
 #define COMPONENTS_SYNC_BASE_LEGACY_DIRECTORY_DELETION_H_
 

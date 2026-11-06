@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Loopback sync server implementation
+// summary: Implements the loopback Sync server that handles ClientToServerMessage commands, manages entities, keystore keys, migration versions, and persists state to disk.
+// ---
+
 #include "components/sync/engine/loopback_server/loopback_server.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sync manager interface
+// summary: Declares the SyncManager class with its Observer and InitArgs, managing sync state, credentials and communication on the sync sequence.
+// ---
+
 #ifndef COMPONENTS_SYNC_ENGINE_SYNC_MANAGER_H_
 #define COMPONENTS_SYNC_ENGINE_SYNC_MANAGER_H_
 

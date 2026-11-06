@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ClientTagHash unit tests
+// summary: Verifies that the client tag hashing algorithm produces stable expected values for preferences and autofill data types.
+// ---
+
 #include "components/sync/base/client_tag_hash.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

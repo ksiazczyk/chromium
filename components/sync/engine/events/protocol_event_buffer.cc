@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Protocol event buffer implementation
+// summary: Implements ProtocolEventBuffer, recording cloned events in a bounded deque sized via a command-line switch or a default.
+// ---
+
 #include "components/sync/engine/events/protocol_event_buffer.h"
 
 #include <string>

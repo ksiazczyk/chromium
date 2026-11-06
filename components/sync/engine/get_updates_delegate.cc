@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GetUpdates delegate implementations
+// summary: Implements the normal, configure, and poll GetUpdates delegates that populate request message origins and notification hints and create protocol request events.
+// ---
+
 #include "components/sync/engine/get_updates_delegate.h"
 
 #include "components/sync/engine/events/configure_get_updates_request_event.h"

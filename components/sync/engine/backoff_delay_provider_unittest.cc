@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BackoffDelayProvider unit tests
+// summary: Tests recommended and initial backoff delays for various sync errors, including network errors, protocol errors, and exponential growth behavior.
+// ---
+
 #include "components/sync/engine/backoff_delay_provider.h"
 
 #include <memory>

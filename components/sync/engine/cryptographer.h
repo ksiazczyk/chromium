@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cryptographer interface for sync data encryption
+// summary: Interface for encrypting and decrypting sensitive sync data, including protobuf helpers and Auth HPKE methods for cross-user sharing.
+// ---
+
 #ifndef COMPONENTS_SYNC_ENGINE_CRYPTOGRAPHER_H_
 #define COMPONENTS_SYNC_ENGINE_CRYPTOGRAPHER_H_
 

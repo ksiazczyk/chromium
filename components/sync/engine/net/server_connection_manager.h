@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ServerConnectionManager class declaration
+// summary: Declares the HttpResponse struct, connection event listeners and ServerConnectionManager for posting buffers to the sync server with authentication.
+// ---
+
 #ifndef COMPONENTS_SYNC_ENGINE_NET_SERVER_CONNECTION_MANAGER_H_
 #define COMPONENTS_SYNC_ENGINE_NET_SERVER_CONNECTION_MANAGER_H_
 

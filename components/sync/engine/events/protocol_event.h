@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProtocolEvent interface for sync protocol events
+// summary: Declares the syncer ProtocolEvent interface representing a single client-server sync protocol request or response, supporting cloning, serialization to a dictionary value, and timestamp access for debugging displays.
+// ---
+
 #ifndef COMPONENTS_SYNC_ENGINE_EVENTS_PROTOCOL_EVENT_H_
 #define COMPONENTS_SYNC_ENGINE_EVENTS_PROTOCOL_EVENT_H_
 

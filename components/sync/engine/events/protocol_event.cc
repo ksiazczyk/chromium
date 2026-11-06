@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Protocol event base implementation
+// summary: Implements the ProtocolEvent base class, assembling timestamp, type, details and proto message into a dictionary value.
+// ---
+
 #include "components/sync/engine/events/protocol_event.h"
 
 namespace syncer {

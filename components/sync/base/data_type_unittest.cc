@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Data type unit tests
+// summary: Unit tests verifying real data type checks, specifics field number conversions, stable identifiers and histogram mappings.
+// ---
+
 #include "components/sync/base/data_type.h"
 
 #include <set>

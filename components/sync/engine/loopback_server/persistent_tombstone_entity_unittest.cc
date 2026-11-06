@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Persistent tombstone entity unit tests
+// summary: Unit tests verifying that tombstone entities are created from valid server IDs and rejected for invalid ones.
+// ---
+
 #include "components/sync/engine/loopback_server/persistent_tombstone_entity.h"
 
 #include "components/sync/base/client_tag_hash.h"

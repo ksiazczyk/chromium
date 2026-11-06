@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Persistent bookmark entity class declaration
+// summary: Declares PersistentBookmarkEntity, a LoopbackServerEntity subclass for non-deleted, client-created bookmark entities with factory, serialization and parent-id methods.
+// ---
+
 #ifndef COMPONENTS_SYNC_ENGINE_LOOPBACK_SERVER_PERSISTENT_BOOKMARK_ENTITY_H_
 #define COMPONENTS_SYNC_ENGINE_LOOPBACK_SERVER_PERSISTENT_BOOKMARK_ENTITY_H_
 

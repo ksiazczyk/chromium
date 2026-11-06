@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sync cycle context implementation
+// summary: Implements the SyncCycleContext constructor and accessors that hold engine components, identifiers and settings shared across sync cycles.
+// ---
+
 #include "components/sync/engine/cycle/sync_cycle_context.h"
 
 #include "base/observer_list.h"

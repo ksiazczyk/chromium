@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Persistent bookmark entity unit tests
+// summary: Unit tests verifying creation, update, undeletion handling and deserialization behavior of PersistentBookmarkEntity.
+// ---
+
 #include "components/sync/engine/loopback_server/persistent_bookmark_entity.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StorageType enum for sync storage ownership
+// summary: Defines the StorageType enum distinguishing account-attributed sync storage from unspecified local storage used by sync-the-feature.
+// ---
+
 #ifndef COMPONENTS_SYNC_BASE_STORAGE_TYPE_H_
 #define COMPONENTS_SYNC_BASE_STORAGE_TYPE_H_
 

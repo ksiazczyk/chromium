@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Loopback server entity implementation
+// summary: Implements the LoopbackServerEntity base class, including entity creation from protobuf, ID construction, and serialization helpers for the loopback server.
+// ---
+
 #include "components/sync/engine/loopback_server/loopback_server_entity.h"
 
 #include <limits>

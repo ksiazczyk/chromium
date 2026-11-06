@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KeystoreKeysHandler interface
+// summary: Declares the sync-internal interface for checking whether Nigori keystore keys are needed and storing keys returned by the server.
+// ---
+
 #ifndef COMPONENTS_SYNC_ENGINE_KEYSTORE_KEYS_HANDLER_H_
 #define COMPONENTS_SYNC_ENGINE_KEYSTORE_KEYS_HANDLER_H_
 

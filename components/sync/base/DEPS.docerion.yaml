@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for sync base
+summary: Lists allowed include dependencies for files in components/sync/base, covering prefs, signin, sync protocol, zlib, net and ui base headers.

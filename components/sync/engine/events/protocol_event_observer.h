@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Protocol event observer interface
+// summary: Declares ProtocolEventObserver, a CheckedObserver interface notified of sync protocol events via OnProtocolEvent.
+// ---
+
 #ifndef COMPONENTS_SYNC_ENGINE_EVENTS_PROTOCOL_EVENT_OBSERVER_H_
 #define COMPONENTS_SYNC_ENGINE_EVENTS_PROTOCOL_EVENT_OBSERVER_H_
 

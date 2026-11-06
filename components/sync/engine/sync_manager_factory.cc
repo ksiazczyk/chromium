@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncManagerFactory implementation
+// summary: Creates SyncManagerImpl instances, injecting a network connection tracker into each newly created sync manager.
+// ---
+
 #include "components/sync/engine/sync_manager_factory.h"
 
 #include "components/sync/engine/sync_manager_impl.h"

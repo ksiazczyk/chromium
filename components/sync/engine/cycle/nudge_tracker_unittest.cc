@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Nudge tracker unit tests
+// summary: Unit tests for NudgeTracker covering empty state, invalidation sync flags, throttling and backoff, nudge delays and GetUpdateTriggers proto message filling.
+// ---
+
 #include "components/sync/engine/cycle/nudge_tracker.h"
 
 #include <stdint.h>

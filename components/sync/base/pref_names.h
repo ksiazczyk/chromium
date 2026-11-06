@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sync preference name constants
+// summary: Declares string constants for sync-related preferences, including internal prefs for setup completion, selected data types, and transport data per account.
+// ---
+
 #ifndef COMPONENTS_SYNC_BASE_PREF_NAMES_H_
 #define COMPONENTS_SYNC_BASE_PREF_NAMES_H_
 

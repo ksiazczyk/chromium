@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Legacy bookmark migration implementation
+// summary: Implements migration of legacy bookmark entities and tombstones in the loopback server store to the modern schema, populating client tag hashes, IDs, and specifics.
+// ---
+
 #include "components/sync/engine/loopback_server/loopback_server_bookmark_migration.h"
 
 #include <stdint.h>

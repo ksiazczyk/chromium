@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClientTagHash implementation
+// summary: Implements ClientTagHash creation from unhashed client tags via SHA-1 hashing and base64 encoding, plus memory estimation and stream output.
+// ---
+
 #include "components/sync/base/client_tag_hash.h"
 
 #include <utility>

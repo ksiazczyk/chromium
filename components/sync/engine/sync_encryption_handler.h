@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sync encryption handler interface
+// summary: Declares the SyncEncryptionHandler interface that tracks encrypted types, manages the cryptographer and passphrase state, and keeps the nigori node up to date.
+// ---
+
 #ifndef COMPONENTS_SYNC_ENGINE_SYNC_ENCRYPTION_HANDLER_H_
 #define COMPONENTS_SYNC_ENGINE_SYNC_ENCRYPTION_HANDLER_H_
 

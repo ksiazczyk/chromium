@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Server-defined unique tag constants
+// summary: Defines well-known server-defined unique tag constants for permanent sync nodes such as the bookmarks bar and Other Bookmarks folders.
+// ---
+
 #ifndef COMPONENTS_SYNC_BASE_SERVER_DEFINED_UNIQUE_TAGS_H_
 #define COMPONENTS_SYNC_BASE_SERVER_DEFINED_UNIQUE_TAGS_H_
 

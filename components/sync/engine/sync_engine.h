@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sync engine interface
+// summary: Declares the SyncEngine interface into the sync engine, which performs communication between data types and the sync server.
+// ---
+
 #ifndef COMPONENTS_SYNC_ENGINE_SYNC_ENGINE_H_
 #define COMPONENTS_SYNC_ENGINE_SYNC_ENGINE_H_
 

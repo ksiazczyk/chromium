@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionsActivity header
+// summary: Declares a thread-safe store recording extension bookmark write activity for sync commit messages, with merge, update, and clear operations.
+// ---
+
 #ifndef COMPONENTS_SYNC_BASE_EXTENSIONS_ACTIVITY_H_
 #define COMPONENTS_SYNC_BASE_EXTENSIONS_ACTIVITY_H_
 

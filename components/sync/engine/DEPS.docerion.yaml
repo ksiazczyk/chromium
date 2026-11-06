@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Sync engine DEPS include rules
+summary: Declares the allowed include dependencies for the sync engine directory, such as sync base, protocol, crypto, and network services.

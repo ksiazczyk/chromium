@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HttpBridge implementation
+// summary: Implements HttpBridge and its factory, performing synchronous HTTP POST requests for the sync engine via Chromium's network stack with timeouts and UMA logging.
+// ---
+
 #include "components/sync/engine/net/http_bridge.h"
 
 #include <stddef.h>

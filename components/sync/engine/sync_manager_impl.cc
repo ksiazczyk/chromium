@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncManagerImpl implementation
+// summary: Implements the core sync engine manager, covering configuration, credentials, invalidations, encryption events, and shutdown on the sync sequence.
+// ---
+
 #include "components/sync/engine/sync_manager_impl.h"
 
 #include <stddef.h>

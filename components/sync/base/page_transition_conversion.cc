@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page transition conversion between UI and sync enums
+// summary: Converts page transition types between ui::PageTransition and sync protocol SyncEnums_PageTransition values in both directions.
+// ---
+
 #include "components/sync/base/page_transition_conversion.h"
 
 #include "base/notreached.h"

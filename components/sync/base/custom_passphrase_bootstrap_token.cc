@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Custom passphrase bootstrap token implementation
+// summary: Implements encryption, decryption and serialization of the custom passphrase bootstrap token for storing Nigori keys in preferences.
+// ---
+
 #include "components/sync/base/custom_passphrase_bootstrap_token.h"
 
 #include <utility>

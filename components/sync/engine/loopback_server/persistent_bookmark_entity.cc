@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Persistent bookmark entity implementation
+// summary: Implements PersistentBookmarkEntity, the loopback sync server representation of non-deleted client-created bookmark entities, including factories for creation, updates and undeletions.
+// ---
+
 #include "components/sync/engine/loopback_server/persistent_bookmark_entity.h"
 
 #include <memory>

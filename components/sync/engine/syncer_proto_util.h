@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncerProtoUtil class header
+// summary: Declares SyncerProtoUtil, which adds required fields to sync requests, posts client-to-server messages, and converts server responses and protocol errors.
+// ---
+
 #ifndef COMPONENTS_SYNC_ENGINE_SYNCER_PROTO_UTIL_H_
 #define COMPONENTS_SYNC_ENGINE_SYNCER_PROTO_UTIL_H_
 

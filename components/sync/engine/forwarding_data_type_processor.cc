@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Forwarding data type processor implementation
+// summary: Implements a DataTypeProcessor that simply forwards every call, such as ConnectSync and OnUpdateReceived, to another processor instance.
+// ---
+
 #include "components/sync/engine/forwarding_data_type_processor.h"
 
 #include <utility>

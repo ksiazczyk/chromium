@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DataTypeConfigurer interface
+// summary: Interface abstracting configuration of new data types and cleanup of removed ones, including connect, disconnect and Nigori handling.
+// ---
+
 #ifndef COMPONENTS_SYNC_ENGINE_DATA_TYPE_CONFIGURER_H_
 #define COMPONENTS_SYNC_ENGINE_DATA_TYPE_CONFIGURER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Custom passphrase bootstrap token header
+// summary: Declares a type-safe wrapper around Nigori key bootstrap tokens with helpers to encrypt and decrypt them for preference storage.
+// ---
+
 #ifndef COMPONENTS_SYNC_BASE_CUSTOM_PASSPHRASE_BOOTSTRAP_TOKEN_H_
 #define COMPONENTS_SYNC_BASE_CUSTOM_PASSPHRASE_BOOTSTRAP_TOKEN_H_
 

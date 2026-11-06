@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Status controller unit tests
+// summary: Unit tests verifying that StatusController setters store values in the matching model neutral state fields and that server conflict counting works.
+// ---
+
 #include "components/sync/engine/cycle/sync_cycle.h"
 #include "net/http/http_status_code.h"
 #include "testing/gtest/include/gtest/gtest.h"

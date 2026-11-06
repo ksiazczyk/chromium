@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Data type processor metrics implementation
+// summary: Implements UMA histogram logging for sync data type configuration time, non-reflection update freshness, and metadata clearing while sync is stopped.
+// ---
+
 #include "components/sync/engine/data_type_processor_metrics.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sync server connection manager unit tests
+// summary: Unit tests for the sync server connection manager using blocking and failing HTTP post provider fakes to exercise request and abort behavior.
+// ---
+
 #include "components/sync/engine/net/sync_server_connection_manager.h"
 
 #include "base/functional/bind.h"

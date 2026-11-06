@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Entity change metric recording declarations
+// summary: Declares the DataTypeEntityChange enum and helper functions for recording entity change metrics per data type.
+// ---
+
 #ifndef COMPONENTS_SYNC_ENGINE_CYCLE_ENTITY_CHANGE_METRIC_RECORDING_H_
 #define COMPONENTS_SYNC_ENGINE_CYCLE_ENTITY_CHANGE_METRIC_RECORDING_H_
 

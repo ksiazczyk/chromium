@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sync engine host interface
+// summary: Declares the SyncEngineHost interface that SyncEngine uses to communicate with the entity that created it, such as initialization and cycle completion callbacks.
+// ---
+
 #ifndef COMPONENTS_SYNC_ENGINE_SYNC_ENGINE_HOST_H_
 #define COMPONENTS_SYNC_ENGINE_SYNC_ENGINE_HOST_H_
 

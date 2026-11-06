@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Data type registry unit tests
+// summary: Unit tests verifying data type connection, disconnection, and initial sync ended type tracking in DataTypeRegistry.
+// ---
+
 #include "components/sync/engine/data_type_registry.h"
 
 #include <utility>

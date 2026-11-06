@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UniquePosition class declaration
+// summary: Declares the UniquePosition class used to order sync items, documenting its ordering properties, suffix requirements and protobuf serialization APIs.
+// ---
+
 #ifndef COMPONENTS_SYNC_BASE_UNIQUE_POSITION_H_
 #define COMPONENTS_SYNC_BASE_UNIQUE_POSITION_H_
 

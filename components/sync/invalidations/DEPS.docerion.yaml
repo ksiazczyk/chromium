@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the sync invalidations folder
+summary: Specifies allowed include directories for the component, permitting dependencies on gcm_driver, keyed_service and sync base.

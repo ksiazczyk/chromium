@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sync invalidations service implementation
+// summary: Implements SyncInvalidationsServiceImpl, delegating listening, listener and token observer management to FCMHandler and tracking interested data types.
+// ---
+
 #include "components/sync/invalidations/sync_invalidations_service_impl.h"
 
 #include <utility>

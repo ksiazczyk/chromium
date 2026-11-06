@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unrecoverable error reporting implementation
+// summary: Reports unrecoverable sync errors by uploading minidumps on canary and dev channels at a sampling rate that is currently disabled.
+// ---
+
 #include "components/sync/base/report_unrecoverable_error.h"
 
 #include "base/debug/dump_without_crashing.h"

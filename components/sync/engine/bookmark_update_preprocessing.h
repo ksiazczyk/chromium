@@ -7,6 +7,12 @@
 // data and migrate updates such that they resemble updates from a modern
 // client.
 
+// ---docerion
+// type: source
+// title: Bookmark update preprocessing header
+// summary: Declares utility functions used by DataTypeWorker to adapt remote bookmark updates for backward compatibility with older sync clients.
+// ---
+
 #ifndef COMPONENTS_SYNC_ENGINE_BOOKMARK_UPDATE_PREPROCESSING_H_
 #define COMPONENTS_SYNC_ENGINE_BOOKMARK_UPDATE_PREPROCESSING_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncServerConnectionManager class declaration
+// summary: Declares SyncServerConnectionManager, a ServerConnectionManager subclass that creates POST providers via an HttpPostProviderFactory for a fixed sync URL.
+// ---
+
 #ifndef COMPONENTS_SYNC_ENGINE_NET_SYNC_SERVER_CONNECTION_MANAGER_H_
 #define COMPONENTS_SYNC_ENGINE_NET_SYNC_SERVER_CONNECTION_MANAGER_H_
 

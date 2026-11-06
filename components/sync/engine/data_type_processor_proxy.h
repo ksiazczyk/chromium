@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Data type processor proxy header
+// summary: Declares DataTypeProcessorProxy, a DataTypeProcessor wrapper that posts processor calls to another sequence using a task runner.
+// ---
+
 #ifndef COMPONENTS_SYNC_ENGINE_DATA_TYPE_PROCESSOR_PROXY_H_
 #define COMPONENTS_SYNC_ENGINE_DATA_TYPE_PROCESSOR_PROXY_H_
 

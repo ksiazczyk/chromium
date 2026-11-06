@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncInvalidationsServiceImpl class header
+// summary: Declares the non-test implementation of SyncInvalidationsService, which manages FCM handlers, listeners, token observers, and interested data types.
+// ---
+
 #ifndef COMPONENTS_SYNC_INVALIDATIONS_SYNC_INVALIDATIONS_SERVICE_IMPL_H_
 #define COMPONENTS_SYNC_INVALIDATIONS_SYNC_INVALIDATIONS_SERVICE_IMPL_H_
 

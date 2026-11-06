@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HttpPostProviderFactory interface
+// summary: Defines the HttpPostProviderFactory interface and a creation callback that hide implementation details when building HttpPostProvider instances.
+// ---
+
 #ifndef COMPONENTS_SYNC_ENGINE_NET_HTTP_POST_PROVIDER_FACTORY_H_
 #define COMPONENTS_SYNC_ENGINE_NET_HTTP_POST_PROVIDER_FACTORY_H_
 

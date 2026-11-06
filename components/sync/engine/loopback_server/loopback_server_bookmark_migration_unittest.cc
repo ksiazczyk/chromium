@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Loopback server bookmark migration unit tests
+// summary: Unit tests verifying that legacy bookmark entities, folders, and tombstones are migrated to the modern schema with correct GUIDs, positions, and hierarchy.
+// ---
+
 #include "components/sync/engine/loopback_server/loopback_server_bookmark_migration.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HttpBridge class declaration
+// summary: Declares HttpBridge, a one-time-use HttpPostProvider that bridges the sync backend to Chromium's network layer instead of a third-party HTTP library.
+// ---
+
 #ifndef COMPONENTS_SYNC_ENGINE_NET_HTTP_BRIDGE_H_
 #define COMPONENTS_SYNC_ENGINE_NET_HTTP_BRIDGE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sync credentials struct declaration
+// summary: Declares the SyncCredentials struct that holds the OAuth2 access token info needed to talk to and identify a user account.
+// ---
+
 #ifndef COMPONENTS_SYNC_ENGINE_SYNC_CREDENTIALS_H_
 #define COMPONENTS_SYNC_ENGINE_SYNC_CREDENTIALS_H_
 

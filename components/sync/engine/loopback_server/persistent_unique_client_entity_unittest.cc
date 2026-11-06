@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PersistentUniqueClientEntity unit tests
+// summary: Unit tests verifying creation of PersistentUniqueClientEntity from sync entities and specifics, including handling of missing client tag hashes and specifics.
+// ---
+
 #include "components/sync/engine/loopback_server/persistent_unique_client_entity.h"
 
 #include "components/sync/base/client_tag_hash.h"

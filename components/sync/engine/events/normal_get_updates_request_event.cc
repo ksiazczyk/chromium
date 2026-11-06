@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Normal GetUpdates request event implementation
+// summary: Implements the ProtocolEvent subclass that records a normal-mode GetUpdates request, detailing nudged, notified and refresh-requested data types.
+// ---
+
 #include "components/sync/engine/events/normal_get_updates_request_event.h"
 
 #include "base/strings/stringprintf.h"

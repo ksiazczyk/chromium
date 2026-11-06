@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Syncer implementation
+// summary: Implements the sync cycle driver, mapping sync errors to UMA values and coordinating update downloads, conflict resolution and commits.
+// ---
+
 #include "components/sync/engine/syncer.h"
 
 #include <memory>

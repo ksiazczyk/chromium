@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DebugInfoGetter interface
+// summary: Declares the interface that event listeners implement to provide and clear sync debug info protobufs for the syncer.
+// ---
+
 #ifndef COMPONENTS_SYNC_ENGINE_CYCLE_DEBUG_INFO_GETTER_H_
 #define COMPONENTS_SYNC_ENGINE_CYCLE_DEBUG_INFO_GETTER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Legacy sync directory file deletion
+// summary: Implements deletion of legacy sync directory database files (sqlite) and Nigori storage from the sync data folder.
+// ---
+
 #include "components/sync/base/legacy_directory_deletion.h"
 
 #include "base/files/file_enumerator.h"

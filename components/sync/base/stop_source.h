@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stop source enum for sync shutdown
+// summary: Defines the StopSource enum enumerating the sources that can turn off sync, used to back a UMA histogram.
+// ---
+
 #ifndef COMPONENTS_SYNC_BASE_STOP_SOURCE_H_
 #define COMPONENTS_SYNC_BASE_STOP_SOURCE_H_
 

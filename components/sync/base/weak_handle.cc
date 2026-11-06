@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WeakHandle core implementation
+// summary: Implements WeakHandleCoreBase, which tracks the owning sequenced task runner and posts callbacks back to the owner thread.
+// ---
+
 #include "components/sync/base/weak_handle.h"
 
 #include <sstream>

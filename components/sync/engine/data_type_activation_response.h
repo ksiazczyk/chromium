@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DataTypeActivationResponse struct
+// summary: Struct carrying the initial data type state and processor from the DataTypeProcessor to the sync thread during data type activation.
+// ---
+
 #ifndef COMPONENTS_SYNC_ENGINE_DATA_TYPE_ACTIVATION_RESPONSE_H_
 #define COMPONENTS_SYNC_ENGINE_DATA_TYPE_ACTIVATION_RESPONSE_H_
 

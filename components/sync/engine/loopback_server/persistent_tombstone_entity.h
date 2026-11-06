@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Persistent tombstone entity class declaration
+// summary: Declares PersistentTombstoneEntity, a LoopbackServerEntity subclass representing deleted items, carrying client tag hash and collaboration metadata.
+// ---
+
 #ifndef COMPONENTS_SYNC_ENGINE_LOOPBACK_SERVER_PERSISTENT_TOMBSTONE_ENTITY_H_
 #define COMPONENTS_SYNC_ENGINE_LOOPBACK_SERVER_PERSISTENT_TOMBSTONE_ENTITY_H_
 

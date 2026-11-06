@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Normal GetUpdates request event header
+// summary: Declares NormalGetUpdatesRequestEvent, a ProtocolEvent representing a normal-mode GetUpdates request to the sync server.
+// ---
+
 #ifndef COMPONENTS_SYNC_ENGINE_EVENTS_NORMAL_GET_UPDATES_REQUEST_EVENT_H_
 #define COMPONENTS_SYNC_ENGINE_EVENTS_NORMAL_GET_UPDATES_REQUEST_EVENT_H_
 

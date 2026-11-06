@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SyncManagerImpl unit tests
+// summary: Unit tests for SyncManagerImpl using mock observers, scheduler, and encryption handler to verify engine behavior.
+// ---
+
 #include "components/sync/engine/sync_manager_impl.h"
 
 #include <cstddef>

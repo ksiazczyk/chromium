@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncScheduler interface
+// summary: Declares the abstract scheduler interface for starting sync cycles and scheduling configuration, nudges, refresh requests, and invalidation-driven updates.
+// ---
+
 #ifndef COMPONENTS_SYNC_ENGINE_SYNC_SCHEDULER_H_
 #define COMPONENTS_SYNC_ENGINE_SYNC_SCHEDULER_H_
 

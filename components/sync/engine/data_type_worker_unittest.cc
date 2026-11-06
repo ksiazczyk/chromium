@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Data type worker unit tests
+// summary: Extensive unit tests for DataTypeWorker covering commits, update handling, encryption, invalidations, and password sharing invitations.
+// ---
+
 #include "components/sync/engine/data_type_worker.h"
 
 #include <stdint.h>

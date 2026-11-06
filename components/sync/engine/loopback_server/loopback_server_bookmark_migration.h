@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Legacy bookmark migration header
+// summary: Declares MigrateLoopbackServerLegacyBookmarks, which migrates legacy bookmark entities and tombstones in a LoopbackServerProto to the modern schema.
+// ---
+
 #ifndef COMPONENTS_SYNC_ENGINE_LOOPBACK_SERVER_LOOPBACK_SERVER_BOOKMARK_MIGRATION_H_
 #define COMPONENTS_SYNC_ENGINE_LOOPBACK_SERVER_LOOPBACK_SERVER_BOOKMARK_MIGRATION_H_
 

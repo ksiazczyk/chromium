@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Debug info event listener unit tests
+// summary: Unit tests verifying that DebugInfoEventListener adds events, caps the queue size and flags dropped events, returns events via GetDebugInfo, and clears them.
+// ---
+
 #include "components/sync/engine/debug_info_event_listener.h"
 
 #include "components/sync/protocol/client_debug_info.pb.h"

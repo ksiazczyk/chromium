@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Deletion origin header
+// summary: Declares a token identifying which functionality issued a sync deletion, sent to the server to help investigate incidents.
+// ---
+
 #ifndef COMPONENTS_SYNC_BASE_DELETION_ORIGIN_H_
 #define COMPONENTS_SYNC_BASE_DELETION_ORIGIN_H_
 

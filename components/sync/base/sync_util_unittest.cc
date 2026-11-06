@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sync utility unit tests
+// summary: Unit tests for sync utility functions covering sync service URL resolution via command line and channel, plus user agent formatting across platforms.
+// ---
+
 #include "components/sync/base/sync_util.h"
 
 #include "base/command_line.h"

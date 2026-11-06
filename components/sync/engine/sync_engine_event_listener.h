@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sync engine event listener interface
+// summary: Declares the SyncEngineEventListener observer interface for sync cycle events, protocol errors, throttling, backoff and migration notifications.
+// ---
+
 #ifndef COMPONENTS_SYNC_ENGINE_SYNC_ENGINE_EVENT_LISTENER_H_
 #define COMPONENTS_SYNC_ENGINE_SYNC_ENGINE_EVENT_LISTENER_H_
 

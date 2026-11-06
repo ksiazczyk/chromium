@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncMode enum
+// summary: Defines the SyncMode enum distinguishing full sync-the-feature mode from transport-only mode with a restricted data type subset.
+// ---
+
 #ifndef COMPONENTS_SYNC_BASE_SYNC_MODE_H_
 #define COMPONENTS_SYNC_BASE_SYNC_MODE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sync protobuf unknown fields test
+// summary: Verifies that protocol buffers retain unknown fields by round-tripping a message through a narrower test message type.
+// ---
+
 #include <string>
 
 #include "components/sync/protocol/test.pb.h"

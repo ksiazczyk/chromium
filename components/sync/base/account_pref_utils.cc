@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Account-keyed preference utilities implementation
+// summary: Implements helpers for reading, writing, clearing and pruning preferences keyed by base64 Gaia ID hash in the syncer namespace.
+// ---
+
 #include "components/sync/base/account_pref_utils.h"
 
 #include <string>

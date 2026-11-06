@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Commit class declaration
+// summary: Declares the Commit class that gathers per-type contributions and manages a single sync commit operation.
+// ---
+
 #ifndef COMPONENTS_SYNC_ENGINE_COMMIT_H_
 #define COMPONENTS_SYNC_ENGINE_COMMIT_H_
 

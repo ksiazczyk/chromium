@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncerError sync cycle result class
+// summary: Declares the SyncerError class describing all possible results of a sync cycle, including success, network, HTTP, protocol, and protocol violation errors.
+// ---
+
 #ifndef COMPONENTS_SYNC_ENGINE_SYNCER_ERROR_H_
 #define COMPONENTS_SYNC_ENGINE_SYNCER_ERROR_H_
 

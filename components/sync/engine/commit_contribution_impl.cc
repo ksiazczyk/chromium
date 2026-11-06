@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CommitContributionImpl implementation
+// summary: Implements serializing a data type's entities into commit messages and processing commit responses or failures.
+// ---
+
 #include "components/sync/engine/commit_contribution_impl.h"
 
 #include <memory>

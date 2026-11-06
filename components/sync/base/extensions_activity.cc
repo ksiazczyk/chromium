@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionsActivity implementation
+// summary: Implements thread-safe storage of extension API usage records that are sent to sync servers and cleared once commits are acknowledged.
+// ---
+
 #include "components/sync/base/extensions_activity.h"
 
 namespace syncer {

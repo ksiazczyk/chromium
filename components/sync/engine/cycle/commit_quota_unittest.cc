@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CommitQuota unit tests
+// summary: Unit tests verifying CommitQuota token consumption, refill behavior, refill postponement, and capping at the initial token count using mock time.
+// ---
+
 #include "components/sync/engine/cycle/commit_quota.h"
 
 #include "base/test/task_environment.h"

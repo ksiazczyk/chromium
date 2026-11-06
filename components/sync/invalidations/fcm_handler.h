@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FCM handler interface for sync invalidations
+// summary: Declares the FCMHandler class used to register with FCM, start and stop listening, and notify listeners and token observers about incoming invalidations.
+// ---
+
 #ifndef COMPONENTS_SYNC_INVALIDATIONS_FCM_HANDLER_H_
 #define COMPONENTS_SYNC_INVALIDATIONS_FCM_HANDLER_H_
 

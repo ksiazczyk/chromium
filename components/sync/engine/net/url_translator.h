@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sync URL query string translator header
+// summary: Declares AppendSyncQueryString, which appends the appropriate query string to a given sync base URL.
+// ---
+
 #ifndef COMPONENTS_SYNC_ENGINE_NET_URL_TRANSLATOR_H_
 #define COMPONENTS_SYNC_ENGINE_NET_URL_TRANSLATOR_H_
 

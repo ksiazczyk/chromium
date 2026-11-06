@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sync time conversion helper declarations
+// summary: Declares functions that convert times between base::Time and the sync protobuf millisecond format, along with a debug string helper.
+// ---
+
 #ifndef COMPONENTS_SYNC_BASE_TIME_H_
 #define COMPONENTS_SYNC_BASE_TIME_H_
 

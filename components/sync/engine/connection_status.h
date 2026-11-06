@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Connection status enum
+// summary: Defines the ConnectionStatus enum for the state of the sync connection to the server, covering OK, auth error, and server error cases.
+// ---
+
 #ifndef COMPONENTS_SYNC_ENGINE_CONNECTION_STATUS_H_
 #define COMPONENTS_SYNC_ENGINE_CONNECTION_STATUS_H_
 

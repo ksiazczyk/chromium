@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShutdownReason helper implementations
+// summary: Implements conversion of shutdown reasons to strings and mapping of shutdown reasons to sync stop metadata fate.
+// ---
+
 #include "components/sync/engine/shutdown_reason.h"
 
 #include "base/notreached.h"

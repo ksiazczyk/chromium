@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CollaborationId strong alias definition
+// summary: Defines CollaborationId as a strong alias over std::string that uniquely identifies a collaboration for shared sync data types.
+// ---
+
 #ifndef COMPONENTS_SYNC_BASE_COLLABORATION_ID_H_
 #define COMPONENTS_SYNC_BASE_COLLABORATION_ID_H_
 

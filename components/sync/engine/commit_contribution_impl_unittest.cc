@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Commit contribution implementation unit tests
+// summary: Unit tests for CommitContributionImpl verifying how sync entity data is converted into commit request protobufs for preferences and bookmarks.
+// ---
+
 #include "components/sync/engine/commit_contribution_impl.h"
 
 #include <memory>

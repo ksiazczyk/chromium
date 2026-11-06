@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DataTypeConnectorProxy declaration
+// summary: Declares DataTypeConnectorProxy, which forwards DataTypeConnector calls from the UI thread to the sync thread via a sequenced task runner.
+// ---
+
 #ifndef COMPONENTS_SYNC_ENGINE_DATA_TYPE_CONNECTOR_PROXY_H_
 #define COMPONENTS_SYNC_ENGINE_DATA_TYPE_CONNECTOR_PROXY_H_
 

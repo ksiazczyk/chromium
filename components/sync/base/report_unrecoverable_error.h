@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unrecoverable error reporting declaration
+// summary: Declares ReportUnrecoverableError, which sends a minidump via breakpad for canary and dev channels at a hardcoded sampling rate.
+// ---
+
 #ifndef COMPONENTS_SYNC_BASE_REPORT_UNRECOVERABLE_ERROR_H_
 #define COMPONENTS_SYNC_BASE_REPORT_UNRECOVERABLE_ERROR_H_
 

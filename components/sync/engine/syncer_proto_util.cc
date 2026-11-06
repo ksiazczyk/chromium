@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncerProtoUtil implementation
+// summary: Implements helpers for building and posting client-to-server sync messages, converting protobuf errors, handling store birthday checks, and throttle delays.
+// ---
+
 #include "components/sync/engine/syncer_proto_util.h"
 
 #include <map>

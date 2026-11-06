@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for sync base
+summary: Defines GN build targets for the sync base component, including the features source set, the base static library, and a unique position fuzzer test.

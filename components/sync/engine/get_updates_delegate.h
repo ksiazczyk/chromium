@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GetUpdates delegate interface
+// summary: Declares the GetUpdatesDelegate interface and its normal, configure, and poll variants that supply request-type-specific GetUpdates behavior to the processor.
+// ---
+
 #ifndef COMPONENTS_SYNC_ENGINE_GET_UPDATES_DELEGATE_H_
 #define COMPONENTS_SYNC_ENGINE_GET_UPDATES_DELEGATE_H_
 

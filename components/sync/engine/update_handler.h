@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UpdateHandler interface header
+// summary: Declares the UpdateHandler interface for entities that request, receive, and apply sync server updates, including the NudgedUpdateResult enum.
+// ---
+
 #ifndef COMPONENTS_SYNC_ENGINE_UPDATE_HANDLER_H_
 #define COMPONENTS_SYNC_ENGINE_UPDATE_HANDLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncAccessTokenFetcher interface
+// summary: Declares the interface the sync engine uses to request an OAuth access token from the UI thread via callback.
+// ---
+
 #ifndef COMPONENTS_SYNC_ENGINE_SYNC_ACCESS_TOKEN_FETCHER_H_
 #define COMPONENTS_SYNC_ENGINE_SYNC_ACCESS_TOKEN_FETCHER_H_
 

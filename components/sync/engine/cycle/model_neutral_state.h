@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ModelNeutralState struct declaration
+// summary: Declares the ModelNeutralState struct grouping data-type-neutral sync cycle state such as commit counts, downloaded updates, and error results.
+// ---
+
 #ifndef COMPONENTS_SYNC_ENGINE_CYCLE_MODEL_NEUTRAL_STATE_H_
 #define COMPONENTS_SYNC_ENGINE_CYCLE_MODEL_NEUTRAL_STATE_H_
 

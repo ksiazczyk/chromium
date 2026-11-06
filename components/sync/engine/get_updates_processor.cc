@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GetUpdatesProcessor implementation
+// summary: Implements downloading and processing of sync server updates, including keystore key handling and partitioning responses by data type.
+// ---
+
 #include "components/sync/engine/get_updates_processor.h"
 
 #include <stddef.h>

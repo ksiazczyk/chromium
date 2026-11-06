@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GetUpdates response event header
+// summary: Declares GetUpdatesResponseEvent, a generic ProtocolEvent representing a GetUpdates response from the sync server.
+// ---
+
 #ifndef COMPONENTS_SYNC_ENGINE_EVENTS_GET_UPDATES_RESPONSE_EVENT_H_
 #define COMPONENTS_SYNC_ENGINE_EVENTS_GET_UPDATES_RESPONSE_EVENT_H_
 

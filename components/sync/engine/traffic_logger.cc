@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sync traffic logger implementation
+// summary: Implements logging of client-to-server sync messages and server responses as pretty-printed JSON in debug builds with verbose logging enabled.
+// ---
+
 #include "components/sync/engine/traffic_logger.h"
 
 #include <memory>

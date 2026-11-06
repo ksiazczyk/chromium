@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User selectable sync type mapping implementation
+// summary: Maps user selectable sync types to data type sets and names, including feature-gated dictionary handling and ChromeOS-specific OS types.
+// ---
+
 #include "components/sync/base/user_selectable_type.h"
 
 #include <optional>

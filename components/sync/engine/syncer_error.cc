@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncerError implementation
+// summary: Implements the SyncerError variant type with factory methods for success, network, HTTP and protocol errors plus string conversion.
+// ---
+
 #include "components/sync/engine/syncer_error.h"
 
 #include <variant>

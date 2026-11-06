@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DataTypeConfigurer implementation
+// summary: Defines default constructors, destructors and move operators for DataTypeConfigurer and its ConfigureParams struct.
+// ---
+
 #include "components/sync/engine/data_type_configurer.h"
 
 namespace syncer {

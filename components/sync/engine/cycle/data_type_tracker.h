@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DataTypeTracker class declaration
+// summary: Declares DataTypeTracker and WaitInterval for tracking per-type scheduling state such as pending changes, invalidations, backoff, and throttling.
+// ---
+
 #ifndef COMPONENTS_SYNC_ENGINE_CYCLE_DATA_TYPE_TRACKER_H_
 #define COMPONENTS_SYNC_ENGINE_CYCLE_DATA_TYPE_TRACKER_H_
 

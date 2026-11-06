@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Persistent permanent entity implementation
+// summary: Implements PersistentPermanentEntity, the loopback server representation of server-created permanent entities, including top-level and updated Nigori entity factories.
+// ---
+
 #include "components/sync/engine/loopback_server/persistent_permanent_entity.h"
 
 #include <memory>

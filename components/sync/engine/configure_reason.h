@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Configure reason enum
+// summary: Defines the ConfigureReason enum describing why a sync configuration cycle was triggered, such as reconfiguration, migration, or crypto changes.
+// ---
+
 #ifndef COMPONENTS_SYNC_ENGINE_CONFIGURE_REASON_H_
 #define COMPONENTS_SYNC_ENGINE_CONFIGURE_REASON_H_
 

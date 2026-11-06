@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActiveDevicesInvalidationInfo implementation
+// summary: Implements tracking of active devices' FCM registration tokens and interested data types to populate invalidation fields in commit messages.
+// ---
+
 #include "components/sync/engine/active_devices_invalidation_info.h"
 
 #include <utility>
