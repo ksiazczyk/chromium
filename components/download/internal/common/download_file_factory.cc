@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadFileFactory implementation
+// summary: Factory that creates download file objects, selecting in-memory, copy-based, or standard download file implementations depending on platform and inputs.
+// ---
+
 #include "components/download/public/common/download_file_factory.h"
 
 #include <utility>

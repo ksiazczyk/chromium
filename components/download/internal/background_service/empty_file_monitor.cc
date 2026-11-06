@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EmptyFileMonitor no-op file monitor implementation
+// summary: Implements EmptyFileMonitor as a no-op FileMonitor that immediately reports success and performs no file cleanup or deletion, for use in incognito mode.
+// ---
+
 #include "components/download/internal/background_service/empty_file_monitor.h"
 
 #include "base/functional/bind.h"

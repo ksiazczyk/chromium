@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NoopStore implementation
+// summary: Implements a Store that performs no database IO and always reports success, used in incognito mode.
+// ---
+
 #include "components/download/internal/background_service/noop_store.h"
 
 #include <memory>

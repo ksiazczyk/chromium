@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InMemoryDownloadFile
+// summary: Creates in-memory download files via memfd_create, writing download data and handing the file descriptor to native code on completion.
+// ---
+
 package org.chromium.components.download;
 
 import android.os.Build;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadStore class persisting download entries to LevelDB
+// summary: Declares DownloadStore, a Store implementation that persists download requests, scheduling parameters and metadata in a LevelDB proto database and reloads them as Entry objects on initialization.
+// ---
+
 #ifndef COMPONENTS_DOWNLOAD_INTERNAL_BACKGROUND_SERVICE_DOWNLOAD_STORE_H_
 #define COMPONENTS_DOWNLOAD_INTERNAL_BACKGROUND_SERVICE_DOWNLOAD_STORE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Download UKM helper unit tests
+// summary: Verifies that the download UKM helper records the expected UKM entries and metric values using a test UKM recorder.
+// ---
+
 #include "components/download/public/common/download_ukm_helper.h"
 
 #include <memory>

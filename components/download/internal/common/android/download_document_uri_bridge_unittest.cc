@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DownloadDocumentUriBridge unit tests
+// summary: Unit tests for DownloadDocumentUriBridge covering document URI detection, file moves, opening, and failure cases using in-memory content URIs.
+// ---
+
 #include "components/download/internal/common/android/download_document_uri_bridge.h"
 
 #include <string>

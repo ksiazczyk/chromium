@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download utility functions
+// summary: Shared download helpers covering server response handling, resource request creation with range headers, content disposition checks, and Android file naming limits.
+// ---
+
 #include "components/download/public/common/download_utils.h"
 
 #include <memory>

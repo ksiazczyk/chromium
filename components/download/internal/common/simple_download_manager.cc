@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Simple download manager implementation
+// summary: Implements SimpleDownloadManager base behavior for observer registration, initialization notification, and waiting for active downloads to initialize.
+// ---
+
 #include "components/download/public/common/simple_download_manager.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scheduler interface for background download tasks
+// summary: Declares the Scheduler interface used by the download service to reschedule platform background download tasks and to poll the next entry that should be processed based on device status.
+// ---
+
 #ifndef COMPONENTS_DOWNLOAD_INTERNAL_BACKGROUND_SERVICE_SCHEDULER_SCHEDULER_H_
 #define COMPONENTS_DOWNLOAD_INTERNAL_BACKGROUND_SERVICE_SCHEDULER_SCHEDULER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of background_download_task_helper.mm.
+type: source
+title: Background download task helper iOS implementation
+summary: Implements background downloads on iOS via NSURLSession, with a delegate that handles task completion, progress updates, and background URL session events.

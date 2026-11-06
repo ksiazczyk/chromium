@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Download response handler unit tests
+// summary: Tests for the download response handler, verifying that HTTP redirects are followed while redirects reported for blob URLs are rejected.
+// ---
+
 #include "components/download/public/common/download_response_handler.h"
 
 #include <memory>

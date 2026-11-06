@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the download network directory
+summary: Restricts include dependencies for the directory, blocking content while allowing net, services/network/public, and the jni_headers subdirectory.

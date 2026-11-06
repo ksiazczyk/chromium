@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: In-memory download file implementation
+// summary: Implements InMemoryDownloadFile, a DownloadFile that stores downloaded data in a Java-backed in-memory file on Android and exposes it through a /proc file descriptor path.
+// ---
+
 #include "components/download/internal/common/in_memory_download_file.h"
 
 #include "base/android/jni_string.h"

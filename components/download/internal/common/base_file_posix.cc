@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BaseFile POSIX file move implementation
+// summary: POSIX implementation of BaseFile::MoveFileAndAdjustPermissions that moves a completed download file while preserving its permissions.
+// ---
+
 #include "components/download/public/common/base_file.h"
 
 #include <errno.h>

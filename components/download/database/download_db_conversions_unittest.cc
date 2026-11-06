@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Download DB conversions unit tests
+// summary: Unit tests verifying round-trip conversions between download database entries, sources and info structs and their protobuf representations.
+// ---
+
 #include "components/download/database/download_db_conversions.h"
 
 #include "base/test/scoped_feature_list.h"

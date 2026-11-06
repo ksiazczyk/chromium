@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadEntry struct for in-progress download information
+// summary: Declares the DownloadEntry struct holding in-progress download data including GUID, request origin, download source, UKM ID, request headers, and service worker flags.
+// ---
+
 #ifndef COMPONENTS_DOWNLOAD_DATABASE_IN_PROGRESS_DOWNLOAD_ENTRY_H_
 #define COMPONENTS_DOWNLOAD_DATABASE_IN_PROGRESS_DOWNLOAD_ENTRY_H_
 

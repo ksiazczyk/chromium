@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for iOS background download entry utils
+// summary: Verifies that download entries are correctly mapped to per-client download metadata, including size, GUID and completion info, in the iOS background download service.
+// ---
+
 #include "components/download/internal/background_service/ios/entry_utils.h"
 
 #include "components/download/internal/background_service/test/entry_utils.h"

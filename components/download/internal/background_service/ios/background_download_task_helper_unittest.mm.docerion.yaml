@@ -1,0 +1,4 @@
+# Docerion header of background_download_task_helper_unittest.mm.
+type: test
+title: Unit tests for the background download task helper
+summary: Tests BackgroundDownloadTaskHelper against an embedded test server, verifying download completion and non-success HTTP code handling; some tests are disabled.

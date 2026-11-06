@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock LogSink for download tests
+// summary: Declares a gmock mock of the LogSink interface that mocks the OnServiceStatusChanged callback for download tests.
+// ---
+
 #ifndef COMPONENTS_DOWNLOAD_INTERNAL_BACKGROUND_SERVICE_TEST_MOCK_LOG_SINK_H_
 #define COMPONENTS_DOWNLOAD_INTERNAL_BACKGROUND_SERVICE_TEST_MOCK_LOG_SINK_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS background download service implementation
+// summary: Implements the iOS background download service, coordinating the model, task helper, file monitor, and logging while marking the driver interface as ready for iOS.
+// ---
+
 #include "components/download/internal/background_service/ios/background_download_service_impl.h"
 
 #include <utility>

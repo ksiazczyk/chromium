@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: In-memory download driver implementation
+// summary: Implements the in-memory download factory and driver that manage in-memory downloads and translate their states into driver entries for the incognito download backend.
+// ---
+
 #include "components/download/internal/background_service/in_memory_download_driver.h"
 
 #include <optional>

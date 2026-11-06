@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BaseFile Windows implementation
+// summary: Windows implementation of BaseFile that maps shell copy engine HRESULT errors to download interrupt reasons and handles Windows-specific file operations.
+// ---
+
 #include "components/download/public/common/base_file.h"
 
 #include <objbase.h>

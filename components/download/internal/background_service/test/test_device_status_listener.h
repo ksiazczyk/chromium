@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test device status listener for download service tests
+// summary: Declares a test DeviceStatusListener that lets tests set the device status and notify observers directly about battery and network changes without external class methods.
+// ---
+
 #ifndef COMPONENTS_DOWNLOAD_INTERNAL_BACKGROUND_SERVICE_TEST_TEST_DEVICE_STATUS_LISTENER_H_
 #define COMPONENTS_DOWNLOAD_INTERNAL_BACKGROUND_SERVICE_TEST_TEST_DEVICE_STATUS_LISTENER_H_
 

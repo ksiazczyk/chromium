@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Parallel download utils unit tests
+// summary: Unit tests for parallel download utility functions such as FindSlicesToDownload and AddOrMergeReceivedSliceIntoSortedArray, including error recovery cases.
+// ---
+
 #include "components/download/internal/common/parallel_download_utils.h"
 
 #include <map>

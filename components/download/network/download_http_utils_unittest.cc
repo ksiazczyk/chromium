@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for download HTTP header utilities
+// summary: Unit tests covering parsing of exact, open-ended, suffix, and multiple byte ranges plus validation of request headers.
+// ---
+
 #include "components/download/network/download_http_utils.h"
 
 #include "net/http/http_byte_range.h"

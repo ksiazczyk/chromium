@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test device status listener for download tests
+// summary: Implements a test DeviceStatusListener with a fake battery listener and test network tracker so tests can set device status manually.
+// ---
+
 #include "components/download/internal/background_service/test/test_device_status_listener.h"
 
 #include <memory>

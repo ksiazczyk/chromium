@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock DownloadDriver client header
+// summary: Declares a gmock mock of DownloadDriver::Client that mocks driver callbacks such as download created, failed, succeeded, and updated.
+// ---
+
 #ifndef COMPONENTS_DOWNLOAD_INTERNAL_BACKGROUND_SERVICE_TEST_MOCK_DOWNLOAD_DRIVER_CLIENT_H_
 #define COMPONENTS_DOWNLOAD_INTERNAL_BACKGROUND_SERVICE_TEST_MOCK_DOWNLOAD_DRIVER_CLIENT_H_
 

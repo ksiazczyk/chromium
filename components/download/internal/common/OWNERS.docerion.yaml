@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners for download internal common
+summary: OWNERS file granting safe browsing owners review rights for changes to download_stats.cc file type statistics.

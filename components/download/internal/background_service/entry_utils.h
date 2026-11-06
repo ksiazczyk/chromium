@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Entry utility function declarations
+// summary: Declares helper functions for counting live entries per client, mapping entries to client metadata, computing scheduling criteria, ranking entries and building download metadata.
+// ---
+
 #ifndef COMPONENTS_DOWNLOAD_INTERNAL_BACKGROUND_SERVICE_ENTRY_UTILS_H_
 #define COMPONENTS_DOWNLOAD_INTERNAL_BACKGROUND_SERVICE_ENTRY_UTILS_H_
 

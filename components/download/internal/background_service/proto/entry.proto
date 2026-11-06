@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'entry.proto: download entry persistence definitions'
+// summary: Defines the DownloadClient enum, CustomData and Entry messages used to persist download request state, metrics and metadata in the background download service.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

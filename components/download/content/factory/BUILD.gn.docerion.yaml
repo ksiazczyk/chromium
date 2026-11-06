@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the download content factory
+summary: GN build file defining the factory source set with its sources and dependencies for the download service components.

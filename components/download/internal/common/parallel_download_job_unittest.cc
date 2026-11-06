@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Parallel download job unit tests
+// summary: Unit tests for ParallelDownloadJob covering parallel request creation, slice handling, pause, resume, and cancellation using test subclasses, mock workers, and mock observers.
+// ---
+
 #include "components/download/internal/common/parallel_download_job.h"
 
 #include <optional>

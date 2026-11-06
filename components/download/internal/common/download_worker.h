@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download worker class header
+// summary: Declares the DownloadWorker helper class that sends subsequent range requests to fetch file slices after the original non-range request and notifies a delegate when streams are ready.
+// ---
+
 #ifndef COMPONENTS_DOWNLOAD_INTERNAL_COMMON_DOWNLOAD_WORKER_H_
 #define COMPONENTS_DOWNLOAD_INTERNAL_COMMON_DOWNLOAD_WORKER_H_
 

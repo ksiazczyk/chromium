@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadCreateInfo implementation
+// summary: Implements DownloadCreateInfo constructors and accessors holding metadata about a new download such as URL chain, timing, and request details.
+// ---
+
 #include "components/download/public/common/download_create_info.h"
 
 #include <memory>

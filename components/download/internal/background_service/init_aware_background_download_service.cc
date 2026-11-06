@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Init-aware background download service implementation
+// summary: Implements BackgroundDownloadService by queuing start, pause, resume, cancel and criteria-change calls until the wrapped service finishes initialization.
+// ---
+
 #include "components/download/internal/background_service/init_aware_background_download_service.h"
 
 #include <utility>

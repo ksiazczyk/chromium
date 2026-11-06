@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: source
+title: Styles for the download internals WebUI page
+summary: CSS for the download internals page, defining headings, status text, and color-coded backgrounds for download service entry states such as active, paused, success, fail, and blocked.
+*/
+
 h1 {
   color: rgb(74, 142, 230);
   margin: 0;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'request.proto: HTTP request params definitions'
+// summary: Defines the RequestParams and RequestHeader messages that store HTTP request parameters such as URL, method, headers and credentials mode for a download.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

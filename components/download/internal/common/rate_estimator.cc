@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Rate estimator implementation
+// summary: Implements RateEstimator, a bucketed counter that tracks event counts and reports counts per second over a sliding time window.
+// ---
+
 #include "components/download/public/common/rate_estimator.h"
 
 #include "base/check.h"

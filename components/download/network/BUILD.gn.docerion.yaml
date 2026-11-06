@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for the download network component
+summary: Defines GN build targets for the download network component, including the static library, unit tests, and Android Java, JNI, and Robolectric targets.

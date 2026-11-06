@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Download params test helper header
+// summary: Declares BuildBasicDownloadParams for constructing download parameters in tests.
+// ---
+
 #ifndef COMPONENTS_DOWNLOAD_INTERNAL_BACKGROUND_SERVICE_TEST_DOWNLOAD_PARAMS_UTILS_H_
 #define COMPONENTS_DOWNLOAD_INTERNAL_BACKGROUND_SERVICE_TEST_DOWNLOAD_PARAMS_UTILS_H_
 

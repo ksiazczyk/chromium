@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the iOS background download directory
+summary: Points to the components/download OWNERS file to assign code ownership for this directory.

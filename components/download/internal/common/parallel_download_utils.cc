@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Parallel download utilities implementation
+// summary: Implements helpers for parallel downloads, including finding slices to download, merging received slices, error recovery checks, and reading Finch configuration parameters.
+// ---
+
 #include "components/download/internal/common/parallel_download_utils.h"
 
 #include "base/metrics/field_trial_params.h"

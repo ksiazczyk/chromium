@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Init-aware background download service header
+// summary: Declares InitAwareBackgroundDownloadService, an internal BackgroundDownloadService wrapper that buffers API actions and scheduled tasks during startup.
+// ---
+
 #ifndef COMPONENTS_DOWNLOAD_INTERNAL_BACKGROUND_SERVICE_INIT_AWARE_BACKGROUND_DOWNLOAD_SERVICE_H_
 #define COMPONENTS_DOWNLOAD_INTERNAL_BACKGROUND_SERVICE_INIT_AWARE_BACKGROUND_DOWNLOAD_SERVICE_H_
 

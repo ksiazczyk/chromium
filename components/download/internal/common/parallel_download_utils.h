@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Parallel download utilities header
+// summary: Declares parallel download helper functions for slice computation, error recovery, and Finch configuration access such as request count, minimum slice size, and request delay.
+// ---
+
 #ifndef COMPONENTS_DOWNLOAD_INTERNAL_COMMON_PARALLEL_DOWNLOAD_UTILS_H_
 #define COMPONENTS_DOWNLOAD_INTERNAL_COMMON_PARALLEL_DOWNLOAD_UTILS_H_
 

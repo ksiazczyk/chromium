@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download service factory helper implementation
+// summary: Implements helpers that construct background download service instances, wiring clients, storage, drivers, schedulers, and platform-specific battery and network listeners.
+// ---
+
 #include "components/download/content/factory/download_service_factory_helper.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadFileWithCopy class declaration
+// summary: Declares DownloadFileWithCopy, a DownloadFile implementation that copies another file to the given destination and reports completion to an observer.
+// ---
+
 #ifndef COMPONENTS_DOWNLOAD_INTERNAL_COMMON_DOWNLOAD_FILE_WITH_COPY_H_
 #define COMPONENTS_DOWNLOAD_INTERNAL_COMMON_DOWNLOAD_FILE_WITH_COPY_H_
 

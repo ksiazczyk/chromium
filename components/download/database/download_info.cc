@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadInfo implementation
+// summary: Implements the DownloadInfo struct, including its equality operator that compares GUID, ID, UKM info, and in-progress info.
+// ---
+
 #include "components/download/database/download_info.h"
 
 namespace download {

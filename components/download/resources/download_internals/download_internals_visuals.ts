@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download internals visual state helpers
+// summary: Helper functions that map download service entry states, results, and request results to the CSS classes used for visual styling on the page.
+// ---
+
 import type {ServiceEntry, ServiceRequest} from './download_internals_browser_proxy.js';
 import {DriverEntryState, ServiceEntryResult, ServiceEntryState, ServiceRequestResult} from './download_internals_browser_proxy.js';
 

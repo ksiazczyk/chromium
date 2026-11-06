@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download response handler implementation
+// summary: Implements handling of network responses and redirects for downloads, mapping interrupt reasons to network request status and recording download start metrics.
+// ---
+
 #include "components/download/public/common/download_response_handler.h"
 
 #include <memory>

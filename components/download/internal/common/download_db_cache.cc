@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadDBCache implementation
+// summary: Implements a cache for in-progress download metadata backed by DownloadDB, deciding when entries are written immediately or batched on a timer.
+// ---
+
 #include "components/download/internal/common/download_db_cache.h"
 
 #include "base/functional/bind.h"

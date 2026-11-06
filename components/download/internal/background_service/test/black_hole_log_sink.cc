@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Black hole log sink implementation
+// summary: Implements a LogSink whose service logging callbacks are all empty, for use in download tests.
+// ---
+
 #include "components/download/internal/background_service/test/black_hole_log_sink.h"
 
 namespace download {

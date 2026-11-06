@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NavigationMonitorImpl class declaration
+// summary: Declares NavigationMonitorImpl, which counts in-progress navigations and schedules delayed or backup notifications to its observer.
+// ---
+
 #ifndef COMPONENTS_DOWNLOAD_INTERNAL_BACKGROUND_SERVICE_NAVIGATION_MONITOR_IMPL_H_
 #define COMPONENTS_DOWNLOAD_INTERNAL_BACKGROUND_SERVICE_NAVIGATION_MONITOR_IMPL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadJobFactory implementation
+// summary: Factory that creates the appropriate download job, deciding whether a download qualifies for parallel downloading based on response headers, connection type, and feature flags.
+// ---
+
 #include "components/download/public/common/download_job_factory.h"
 
 #include <memory>

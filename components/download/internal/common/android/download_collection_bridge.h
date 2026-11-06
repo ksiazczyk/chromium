@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadCollectionBridge class declaration
+// summary: Declares the DownloadCollectionBridge class, a static JNI interface for publishing and managing downloads in the Android public download collection.
+// ---
+
 #ifndef COMPONENTS_DOWNLOAD_INTERNAL_COMMON_ANDROID_DOWNLOAD_COLLECTION_BRIDGE_H_
 #define COMPONENTS_DOWNLOAD_INTERNAL_COMMON_ANDROID_DOWNLOAD_COLLECTION_BRIDGE_H_
 

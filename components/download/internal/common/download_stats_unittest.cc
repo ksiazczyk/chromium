@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Download stats unit tests
+// summary: Tests that download start and completion events record the expected UMA histogram buckets, including per-source and connection type variants.
+// ---
+
 #include "components/download/public/common/download_stats.h"
 
 #include "base/test/metrics/histogram_tester.h"

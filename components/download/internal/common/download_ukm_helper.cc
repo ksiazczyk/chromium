@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download UKM helper
+// summary: Records UKM metrics for download started, interrupted, resumed, and completed events, with helpers for exponential size buckets and kilobyte rounding.
+// ---
+
 #include "components/download/public/common/download_ukm_helper.h"
 
 #include "base/numerics/safe_conversions.h"

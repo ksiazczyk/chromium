@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UkmInfo struct for UKM reporting
+// summary: Declares the UkmInfo struct storing the download source and the UKM download ID used for UKM metrics reporting of downloads.
+// ---
+
 #ifndef COMPONENTS_DOWNLOAD_DATABASE_IN_PROGRESS_UKM_INFO_H_
 #define COMPONENTS_DOWNLOAD_DATABASE_IN_PROGRESS_UKM_INFO_H_
 

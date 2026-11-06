@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Entry test utilities implementation
+// summary: Provides helpers to build basic and detailed download Entry objects and to compare entry lists fully or by GUID in tests.
+// ---
+
 #include "components/download/internal/background_service/test/entry_utils.h"
 
 #include <algorithm>

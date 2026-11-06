@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkConnectionTracker-based network status listener implementation
+// summary: Implements NetworkStatusListenerImpl, using network::NetworkConnectionTracker to observe and report connectivity changes to its observer.
+// ---
+
 #include "components/download/network/network_status_listener_impl.h"
 
 #include "base/functional/bind.h"

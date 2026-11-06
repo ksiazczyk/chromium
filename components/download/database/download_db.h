@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadDB interface
+// summary: Declares the DownloadDB abstract interface for persisting DownloadDBEntry objects, with initialize, add or replace, load and remove operations.
+// ---
+
 #ifndef COMPONENTS_DOWNLOAD_DATABASE_DOWNLOAD_DB_H_
 #define COMPONENTS_DOWNLOAD_DATABASE_DOWNLOAD_DB_H_
 

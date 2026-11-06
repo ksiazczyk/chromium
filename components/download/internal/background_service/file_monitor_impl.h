@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FileMonitorImpl class declaration
+// summary: Declares the FileMonitorImpl class that performs download file cleanup operations on a dedicated task runner for a given download directory.
+// ---
+
 #ifndef COMPONENTS_DOWNLOAD_INTERNAL_BACKGROUND_SERVICE_FILE_MONITOR_IMPL_H_
 #define COMPONENTS_DOWNLOAD_INTERNAL_BACKGROUND_SERVICE_FILE_MONITOR_IMPL_H_
 

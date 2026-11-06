@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Download database include rules
+summary: Chromium DEPS file listing the include paths allowed for this directory, such as download public common, leveldb_proto and network mojom.

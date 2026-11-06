@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadDBImpl header for the LevelDB proto download database
+// summary: Declares DownloadDBImpl, the LevelDB proto database implementation of the DownloadDB interface for storing, loading, and removing download entries.
+// ---
+
 #ifndef COMPONENTS_DOWNLOAD_DATABASE_DOWNLOAD_DB_IMPL_H_
 #define COMPONENTS_DOWNLOAD_DATABASE_DOWNLOAD_DB_IMPL_H_
 

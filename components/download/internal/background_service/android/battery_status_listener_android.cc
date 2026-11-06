@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BatteryStatusListenerAndroid implementation
+// summary: Implements the Android battery status listener, querying the battery percentage through a JNI call to the backing Java class.
+// ---
+
 #include "components/download/internal/background_service/android/battery_status_listener_android.h"
 
 #include "base/android/jni_android.h"

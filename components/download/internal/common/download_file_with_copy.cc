@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadFileWithCopy implementation
+// summary: Implements a DownloadFile that fulfills a download by copying an existing file to the destination instead of writing streamed data.
+// ---
+
 #include "components/download/internal/common/download_file_with_copy.h"
 
 #include "base/files/file_util.h"

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for the download component
+summary: Directory metadata file that applies the shared download component metadata through a mixin reference.

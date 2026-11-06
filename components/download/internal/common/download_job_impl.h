@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadJobImpl class declaration
+// summary: Declares the DownloadJobImpl class, a DownloadJob that stores whether the download can be parallelized.
+// ---
+
 #ifndef COMPONENTS_DOWNLOAD_INTERNAL_COMMON_DOWNLOAD_JOB_IMPL_H_
 #define COMPONENTS_DOWNLOAD_INTERNAL_COMMON_DOWNLOAD_JOB_IMPL_H_
 

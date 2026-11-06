@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DownloadItemImpl unit tests
+// summary: Unit tests for DownloadItemImpl covering download state transitions, delegate interactions, interruptions, and resumption using mock delegates and download files.
+// ---
+
 #include "components/download/public/common/download_item_impl.h"
 
 #include <stdint.h>

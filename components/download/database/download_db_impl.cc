@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadDBImpl LevelDB implementation
+// summary: Implements the DownloadDB on top of leveldb_proto, using namespace-based key prefixes, initialization with retries and batched entry updates.
+// ---
+
 #include "components/download/database/download_db_impl.h"
 
 #include <memory>

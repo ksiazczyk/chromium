@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'scheduling.proto: download scheduling params definitions'
+// summary: Defines the SchedulingParams message with priority, network and battery requirements that control when a download request may run.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

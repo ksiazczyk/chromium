@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadDocumentUriBridge class declaration
+// summary: Declares the DownloadDocumentUriBridge class, which handles download operations targeting Android SAF document URIs.
+// ---
+
 #ifndef COMPONENTS_DOWNLOAD_INTERNAL_COMMON_ANDROID_DOWNLOAD_DOCUMENT_URI_BRIDGE_H_
 #define COMPONENTS_DOWNLOAD_INTERNAL_COMMON_ANDROID_DOWNLOAD_DOCUMENT_URI_BRIDGE_H_
 

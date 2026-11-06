@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EmptyFileMonitor no-op file monitor for incognito mode
+// summary: Declares EmptyFileMonitor, a FileMonitor implementation that does nothing, used in incognito mode where no files are persisted to disk.
+// ---
+
 #ifndef COMPONENTS_DOWNLOAD_INTERNAL_BACKGROUND_SERVICE_EMPTY_FILE_MONITOR_H_
 #define COMPONENTS_DOWNLOAD_INTERNAL_BACKGROUND_SERVICE_EMPTY_FILE_MONITOR_H_
 

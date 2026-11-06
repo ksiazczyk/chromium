@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for download_internals
+summary: Ownership file that delegates review responsibility for the download_internals resources to the WebUI platform owners file.

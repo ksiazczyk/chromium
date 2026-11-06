@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the background download controller implementation
+// summary: Unit tests covering ControllerImpl behavior, including download scheduling, pausing, resuming, cancellation, uploads, and state transitions using mock components.
+// ---
+
 #include "components/download/internal/background_service/controller_impl.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: In-memory download file class header
+// summary: Declares InMemoryDownloadFile, a DownloadFile implementation that keeps download data in memory via a Java object while tracking rate estimates, byte counts, and destination observers.
+// ---
+
 #ifndef COMPONENTS_DOWNLOAD_INTERNAL_COMMON_IN_MEMORY_DOWNLOAD_FILE_H_
 #define COMPONENTS_DOWNLOAD_INTERNAL_COMMON_IN_MEMORY_DOWNLOAD_FILE_H_
 

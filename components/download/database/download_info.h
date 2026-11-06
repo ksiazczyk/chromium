@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadInfo struct header
+// summary: Defines the DownloadInfo struct holding the information needed to reconstruct a download item, including GUID, ID, UKM data, and in-progress details.
+// ---
+
 #ifndef COMPONENTS_DOWNLOAD_DATABASE_DOWNLOAD_INFO_H_
 #define COMPONENTS_DOWNLOAD_DATABASE_DOWNLOAD_INFO_H_
 

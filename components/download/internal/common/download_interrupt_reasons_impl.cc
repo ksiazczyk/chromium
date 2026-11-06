@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download interrupt reason to string conversion
+// summary: Implements DownloadInterruptReasonToString, mapping download interrupt reason enum values to their symbolic names for logging and display.
+// ---
+
 #include "components/download/public/common/download_interrupt_reasons.h"
 
 namespace download {

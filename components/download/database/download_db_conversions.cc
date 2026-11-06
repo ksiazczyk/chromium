@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download DB proto conversion implementation
+// summary: Implements conversions between download database structs and their protobuf forms, covering entries, download sources, request headers and info records.
+// ---
+
 #include "components/download/database/download_db_conversions.h"
 
 #include <utility>

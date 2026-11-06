@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadBlockageStatus struct declaration
+// summary: Declares a helper struct representing the various conditions, such as criteria, navigation, or other downloads, that can block a download.
+// ---
+
 #ifndef COMPONENTS_DOWNLOAD_INTERNAL_BACKGROUND_SERVICE_DOWNLOAD_BLOCKAGE_STATUS_H_
 #define COMPONENTS_DOWNLOAD_INTERNAL_BACKGROUND_SERVICE_DOWNLOAD_BLOCKAGE_STATUS_H_
 

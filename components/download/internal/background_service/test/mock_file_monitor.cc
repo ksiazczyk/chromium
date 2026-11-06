@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock file monitor implementation
+// summary: Implements MockFileMonitor, storing init and recovery callbacks so tests can trigger file monitor completion manually.
+// ---
+
 #include "components/download/internal/background_service/test/mock_file_monitor.h"
 
 namespace download {

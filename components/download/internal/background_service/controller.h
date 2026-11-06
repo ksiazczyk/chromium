@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Controller interface for background download service
+// summary: Defines the core Controller interface that glues BackgroundDownloadService components together to manage active downloads, with lifecycle states from created to unavailable.
+// ---
+
 #ifndef COMPONENTS_DOWNLOAD_INTERNAL_BACKGROUND_SERVICE_CONTROLLER_H_
 #define COMPONENTS_DOWNLOAD_INTERNAL_BACKGROUND_SERVICE_CONTROLLER_H_
 

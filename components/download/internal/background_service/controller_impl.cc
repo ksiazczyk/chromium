@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Controller implementation for background download service
+// summary: Implements the internal controller that initializes the download service, schedules and manages downloads, and handles state transitions, failure reasons, and memory dumps.
+// ---
+
 #include "components/download/internal/background_service/controller_impl.h"
 
 #include <inttypes.h>

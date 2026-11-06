@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Rate estimator unit tests
+// summary: Unit tests verifying RateEstimator counting, per-second rate calculation over advancing time, and TimeTicks wraparound handling.
+// ---
+
 #include "components/download/public/common/rate_estimator.h"
 
 #include "base/time/time.h"

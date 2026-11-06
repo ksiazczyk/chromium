@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BaseFile unit tests
+// summary: Unit tests covering BaseFile initialization, data appending, hashing, renaming, error handling, and file survival behavior for downloads.
+// ---
+
 #include "components/download/public/common/base_file.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BlobTaskProxy implementation
+// summary: Implements a proxy that saves download data as a blob in the blob storage context on the IO thread and relays the handle back to the main thread.
+// ---
+
 #include "components/download/internal/background_service/blob_task_proxy.h"
 
 #include <utility>

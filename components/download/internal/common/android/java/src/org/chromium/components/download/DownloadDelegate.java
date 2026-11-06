@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadDelegate
+// summary: Provides helper methods used by DownloadCollectionBridge, such as remapping generic MIME types, parsing original URLs, and detecting SD card downloads.
+// ---
+
 package org.chromium.components.download;
 
 import android.net.Uri;

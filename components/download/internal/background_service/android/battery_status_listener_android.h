@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BatteryStatusListenerAndroid class declaration
+// summary: Declares the Android battery status listener class, backed by a Java class with helper functions to query battery status.
+// ---
+
 #ifndef COMPONENTS_DOWNLOAD_INTERNAL_BACKGROUND_SERVICE_ANDROID_BATTERY_STATUS_LISTENER_ANDROID_H_
 #define COMPONENTS_DOWNLOAD_INTERNAL_BACKGROUND_SERVICE_ANDROID_BATTERY_STATUS_LISTENER_ANDROID_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceStatusListener implementation
+// summary: Implements DeviceStatusListener, converting power monitor and network change events into device status updates for the download scheduler.
+// ---
+
 #include "components/download/internal/background_service/scheduler/device_status_listener.h"
 #include "base/functional/bind.h"
 #include "build/build_config.h"

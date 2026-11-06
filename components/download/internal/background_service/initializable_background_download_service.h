@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Initializable background download service interface
+// summary: Defines an abstract BackgroundDownloadService variant that must be explicitly initialized through an Initialize callback before it can be used.
+// ---
+
 #ifndef COMPONENTS_DOWNLOAD_INTERNAL_BACKGROUND_SERVICE_INITIALIZABLE_BACKGROUND_DOWNLOAD_SERVICE_H_
 #define COMPONENTS_DOWNLOAD_INTERNAL_BACKGROUND_SERVICE_INITIALIZABLE_BACKGROUND_DOWNLOAD_SERVICE_H_
 

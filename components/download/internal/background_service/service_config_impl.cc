@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Service configuration implementation
+// summary: Implements ServiceConfig by exposing download limits and file keep-alive time from the internal configuration.
+// ---
+
 #include "components/download/internal/background_service/service_config_impl.h"
 
 #include "base/time/time.h"

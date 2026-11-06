@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadStore implementation for persistent download entries
+// summary: Implements the persistent store for download entries, loading, updating, and removing them through a LevelDB proto database with memory-saving options.
+// ---
+
 #include "components/download/internal/background_service/download_store.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Resource downloader implementation
+// summary: Implements ResourceDownloader, which begins URL downloads through the network service and intercepts navigation responses that turn out to be downloads.
+// ---
+
 #include "components/download/internal/common/resource_downloader.h"
 
 #include <memory>

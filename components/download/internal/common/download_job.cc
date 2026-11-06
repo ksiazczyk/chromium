@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadJob base implementation
+// summary: Implements the base DownloadJob class handling pause, resume, cancel, download file initialization, and routing of input streams to the download file.
+// ---
+
 #include "components/download/public/common/download_job.h"
 
 #include "base/functional/bind.h"

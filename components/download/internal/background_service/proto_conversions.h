@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download service proto conversions declarations
+// summary: Declares the ProtoConversions class with methods for translating download service objects to and from protobuf.
+// ---
+
 #ifndef COMPONENTS_DOWNLOAD_INTERNAL_BACKGROUND_SERVICE_PROTO_CONVERSIONS_H_
 #define COMPONENTS_DOWNLOAD_INTERNAL_BACKGROUND_SERVICE_PROTO_CONVERSIONS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadNamespace enum header
+// summary: Defines the DownloadNamespace enum used to classify downloads and declares helpers to convert between namespaces and strings.
+// ---
+
 #ifndef COMPONENTS_DOWNLOAD_DATABASE_DOWNLOAD_NAMESPACE_H_
 #define COMPONENTS_DOWNLOAD_DATABASE_DOWNLOAD_NAMESPACE_H_
 

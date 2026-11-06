@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AllDownloadEventNotifier implementation
+// summary: Implements AllDownloadEventNotifier, which observes a download manager coordinator and forwards download lifecycle events to registered observers.
+// ---
+
 #include "components/download/public/common/all_download_event_notifier.h"
 #include "base/memory/raw_ptr.h"
 #include "base/observer_list.h"

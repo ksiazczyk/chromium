@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn proto library target for download background service
+summary: Defines the proto_library GN target that builds entry.proto, request.proto and scheduling.proto with restricted visibility for download components.

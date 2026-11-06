@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceStatusListener class declaration
+// summary: Declares DeviceStatusListener, which tracks battery and network status changes and notifies observers for download scheduling.
+// ---
+
 #ifndef COMPONENTS_DOWNLOAD_INTERNAL_BACKGROUND_SERVICE_SCHEDULER_DEVICE_STATUS_LISTENER_H_
 #define COMPONENTS_DOWNLOAD_INTERNAL_BACKGROUND_SERVICE_SCHEDULER_DEVICE_STATUS_LISTENER_H_
 

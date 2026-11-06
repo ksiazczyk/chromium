@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ModelImpl
+// summary: Unit tests covering ModelImpl lifecycle, initialization, hard recovery, and entry add, update, and remove behavior using a test store and mock model client.
+// ---
+
 #include "components/download/internal/background_service/model_impl.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL download handler factory implementation
+// summary: Implements UrlDownloadHandlerFactory::Create, which builds a resource request and starts a URL download through ResourceDownloader with a wake lock provider and task runner.
+// ---
+
 #include "components/download/public/common/url_download_handler_factory.h"
 
 #include "base/synchronization/lock.h"

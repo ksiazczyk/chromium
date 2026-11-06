@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Save package download job implementation
+// summary: Implements SavePackageDownloadJob, a DownloadJob subclass whose only behavior is reporting itself as a save-package download.
+// ---
+
 #include "components/download/internal/common/save_package_download_job.h"
 
 namespace download {

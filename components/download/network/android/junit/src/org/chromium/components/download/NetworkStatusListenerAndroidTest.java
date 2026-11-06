@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NetworkStatusListenerAndroidTest
+// summary: Robolectric unit test verifying that NetworkStatusListenerAndroid and BackgroundNetworkStatusListener report and propagate network connection type changes on Android.
+// ---
+
 package org.chromium.components.download;
 
 import static org.mockito.Mockito.when;

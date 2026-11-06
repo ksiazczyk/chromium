@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download service UMA metrics logging
+// summary: Logs download service startup results, client actions, pause reasons, and cleanup events to UMA histograms.
+// ---
+
 #include "components/download/internal/background_service/stats.h"
 
 #include <map>

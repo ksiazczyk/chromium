@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadDriverImpl implementation
+// summary: Implements the download driver that connects the background download service to content download logic, mapping download items to driver entries and logging interrupt reasons.
+// ---
+
 #include "components/download/content/internal/download_driver_impl.h"
 
 #include <optional>

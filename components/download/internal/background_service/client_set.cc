@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClientSet implementation
+// summary: Implements the helper that maps DownloadClient identifiers to clients and automatically adds a client for handling debug downloads.
+// ---
+
 #include "components/download/internal/background_service/client_set.h"
 #include "components/download/internal/background_service/debugging_client.h"
 

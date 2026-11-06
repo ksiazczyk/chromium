@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Download params test helper implementation
+// summary: Builds basic DownloadParams with a test client, random GUID, and test traffic annotation for download tests.
+// ---
+
 #include <algorithm>
 
 #include "base/uuid.h"

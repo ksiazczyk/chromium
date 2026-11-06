@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkStatusListenerAndroid class declaration
+// summary: Declares the Android NetworkStatusListener class backed by a Java object so network changes are reported even when the app is in the background.
+// ---
+
 #ifndef COMPONENTS_DOWNLOAD_NETWORK_ANDROID_NETWORK_STATUS_LISTENER_ANDROID_H_
 #define COMPONENTS_DOWNLOAD_NETWORK_ANDROID_NETWORK_STATUS_LISTENER_ANDROID_H_
 

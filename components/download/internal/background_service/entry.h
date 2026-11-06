@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Entry struct representing a scheduled download in the model
+// summary: Defines the Entry struct representing a scheduled download in the model, with state, scheduling and request parameters, file paths, progress counters and traffic annotation.
+// ---
+
 #ifndef COMPONENTS_DOWNLOAD_INTERNAL_BACKGROUND_SERVICE_ENTRY_H_
 #define COMPONENTS_DOWNLOAD_INTERNAL_BACKGROUND_SERVICE_ENTRY_H_
 
