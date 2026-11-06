@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for data_sharing_internals
+summary: Declares the allowed include dependencies for the data_sharing_internals directory.

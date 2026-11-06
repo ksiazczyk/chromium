@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for iOS WebUI internals
+summary: Defines the GN source sets, sources, and dependencies for the iOS Chrome WebUI pages and message handlers in this directory.

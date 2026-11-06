@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NTP tiles internals UI header
+// summary: Declares the WebUI controller for the NTP tiles internals debugging page.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_WEBUI_UI_BUNDLED_NTP_TILES_INTERNALS_UI_H_
 #define IOS_CHROME_BROWSER_WEBUI_UI_BUNDLED_NTP_TILES_INTERNALS_UI_H_
 

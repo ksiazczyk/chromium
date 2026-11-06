@@ -1,0 +1,4 @@
+# Docerion header of optimization_guide_internals_ui.mm.
+type: source
+title: Optimization Guide internals WebUI controller implementation
+summary: Implements the WebUI controller, registering the HTML data source and resources and serving downloaded model and log information through Mojo handlers.

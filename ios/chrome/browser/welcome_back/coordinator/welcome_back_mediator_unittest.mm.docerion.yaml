@@ -1,0 +1,4 @@
+# Docerion header of welcome_back_mediator_unittest.mm.
+type: test
+title: Welcome Back mediator unit tests
+summary: Unit tests for WelcomeBackMediator covering preferred and eligible item selection, titles, and avatar behavior using fake identities and test profiles.

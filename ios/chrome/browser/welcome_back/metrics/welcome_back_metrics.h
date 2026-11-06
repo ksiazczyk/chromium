@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Welcome Back promo registration result enum
+// summary: Declares the WelcomeBackPromoRegistrationResult enum recording whether the Welcome Back promo registered or why it failed, with values persisted to logs and kept in sync with ios enums.xml.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_WELCOME_BACK_METRICS_WELCOME_BACK_METRICS_H_
 #define IOS_CHROME_BROWSER_WELCOME_BACK_METRICS_WELCOME_BACK_METRICS_H_
 

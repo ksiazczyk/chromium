@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI controller header for the Actor Internals page
+// summary: Declares the WebUI controller for the Actor Internals page on iOS, which serves page resources and binds the page handler factory interface.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_WEBUI_UI_BUNDLED_ACTOR_INTERNALS_ACTOR_INTERNALS_UI_H_
 #define IOS_CHROME_BROWSER_WEBUI_UI_BUNDLED_ACTOR_INTERNALS_ACTOR_INTERNALS_UI_H_
 

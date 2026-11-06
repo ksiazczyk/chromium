@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Connectors internals OWNERS
+summary: Delegates code ownership for this directory to the enterprise connectors OWNERS file.

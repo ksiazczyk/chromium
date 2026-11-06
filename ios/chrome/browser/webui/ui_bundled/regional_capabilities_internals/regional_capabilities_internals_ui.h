@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Regional capabilities internals WebUI controller header
+// summary: Declares the RegionalCapabilitiesInternalsUI class, the WebUI controller that serves the regional capabilities internals debug page on iOS.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_WEBUI_UI_BUNDLED_REGIONAL_CAPABILITIES_INTERNALS_REGIONAL_CAPABILITIES_INTERNALS_UI_H_
 #define IOS_CHROME_BROWSER_WEBUI_UI_BUNDLED_REGIONAL_CAPABILITIES_INTERNALS_REGIONAL_CAPABILITIES_INTERNALS_UI_H_
 

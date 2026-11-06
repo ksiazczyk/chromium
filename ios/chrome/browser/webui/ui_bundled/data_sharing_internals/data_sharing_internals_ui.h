@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Data sharing internals WebUI controller header
+// summary: Declares DataSharingInternalsUI, the iOS WebUI controller class for the data-sharing-internals page, which binds the Mojo page handler factory.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_WEBUI_UI_BUNDLED_DATA_SHARING_INTERNALS_DATA_SHARING_INTERNALS_UI_H_
 #define IOS_CHROME_BROWSER_WEBUI_UI_BUNDLED_DATA_SHARING_INTERNALS_DATA_SHARING_INTERNALS_UI_H_
 

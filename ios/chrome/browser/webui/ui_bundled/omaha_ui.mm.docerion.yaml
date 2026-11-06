@@ -1,0 +1,4 @@
+# Docerion header of omaha_ui.mm.
+type: source
+title: Omaha UI implementation
+summary: Implements the Omaha update debugging page, serving resources and returning debug information from the Omaha service.

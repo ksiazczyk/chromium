@@ -1,0 +1,4 @@
+# Docerion header of private_ai_internals_ui.mm.
+type: source
+title: Private AI internals WebUI controller implementation
+summary: Implementation of the private AI internals WebUI controller that registers the HTML data source with default values and binds the Mojo page handler to the private AI service.

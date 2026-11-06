@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI test URL helper header
+// summary: Declares WebUIPageUrlWithHost, a helper that builds the GURL for a WebUI page host in EarlGrey test environments.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_WEBUI_UI_BUNDLED_WEB_UI_TEST_UTILS_H_
 #define IOS_CHROME_BROWSER_WEBUI_UI_BUNDLED_WEB_UI_TEST_UTILS_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for the gcm WebUI
+summary: Defines the gcm source set containing the GCM internals WebUI sources and its dependencies on base, gcm_driver, resources, and iOS Chrome profile and web layers.

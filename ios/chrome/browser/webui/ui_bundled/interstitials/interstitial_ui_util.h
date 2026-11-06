@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Interstitial page factory function declarations
+// summary: Declares factory functions that create SSL, captive portal, Safe Browsing, and enterprise interstitial pages for the demo WebUI.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_WEBUI_UI_BUNDLED_INTERSTITIALS_INTERSTITIAL_UI_UTIL_H_
 #define IOS_CHROME_BROWSER_WEBUI_UI_BUNDLED_INTERSTITIALS_INTERSTITIAL_UI_UTIL_H_
 

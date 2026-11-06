@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for the translate_internals source set
+summary: Defines the translate_internals source set, listing its handler and UI sources and the dependencies needed to build the iOS translate-internals WebUI page.

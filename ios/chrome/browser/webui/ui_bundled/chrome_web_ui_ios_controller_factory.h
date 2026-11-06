@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome WebUI iOS controller factory header
+// summary: Declares ChromeWebUIIOSControllerFactory, which creates WebUI controllers for internal pages and reports error codes for unhandled hosts.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_WEBUI_UI_BUNDLED_CHROME_WEB_UI_IOS_CONTROLLER_FACTORY_H_
 #define IOS_CHROME_BROWSER_WEBUI_UI_BUNDLED_CHROME_WEB_UI_IOS_CONTROLLER_FACTORY_H_
 

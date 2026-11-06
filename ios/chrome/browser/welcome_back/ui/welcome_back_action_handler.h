@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Welcome Back action handler protocol
+// summary: Declares a protocol extending ConfirmationAlertActionHandler to communicate user actions, such as tapping a Welcome Back item.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_WELCOME_BACK_UI_WELCOME_BACK_ACTION_HANDLER_H_
 #define IOS_CHROME_BROWSER_WELCOME_BACK_UI_WELCOME_BACK_ACTION_HANDLER_H_
 

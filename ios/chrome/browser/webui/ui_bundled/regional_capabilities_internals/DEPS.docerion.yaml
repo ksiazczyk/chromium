@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for regional capabilities internals UI
+summary: Allows the regional capabilities internals UI implementation to include the country access reason header through a specific include rule.

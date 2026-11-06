@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local State UI controller header
+// summary: Declares LocalStateUI, the iOS WebUI controller class that serves the local-state debugging page.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_WEBUI_UI_BUNDLED_LOCAL_STATE_LOCAL_STATE_UI_H_
 #define IOS_CHROME_BROWSER_WEBUI_UI_BUNDLED_LOCAL_STATE_LOCAL_STATE_UI_H_
 

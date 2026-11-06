@@ -1,0 +1,4 @@
+# Docerion header of flags_ui.mm.
+type: source
+title: Flags UI controller implementation
+summary: Implements the flags WebUI page, handling enabling experimental features, restart, reset, and flag import or export.

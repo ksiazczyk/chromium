@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Private AI internals include rules
+summary: Grants this directory include access to grit resources, the private AI components, and the iOS private AI model layer.

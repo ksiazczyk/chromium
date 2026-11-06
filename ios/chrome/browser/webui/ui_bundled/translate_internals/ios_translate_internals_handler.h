@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IOSTranslateInternalsHandler class declaration
+// summary: Declares the iOS message handler for the translate-internals WebUI page, bridging translate internals, JavaScript messages, and language detection tab helper observations.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_WEBUI_UI_BUNDLED_TRANSLATE_INTERNALS_IOS_TRANSLATE_INTERNALS_HANDLER_H_
 #define IOS_CHROME_BROWSER_WEBUI_UI_BUNDLED_TRANSLATE_INTERNALS_IOS_TRANSLATE_INTERNALS_HANDLER_H_
 

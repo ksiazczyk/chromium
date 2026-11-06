@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the ui_bundled directory
+summary: Names the directory owner and delegates review of NTP tiles internals files to the components/ntp_tiles owners.

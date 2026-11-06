@@ -1,0 +1,4 @@
+# Docerion header of interstitial_ui_constants.mm.
+type: source
+title: Interstitial demo page constant definitions
+summary: Defines the string values of the path and query parameter constants for the interstitials demonstration pages.

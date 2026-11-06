@@ -1,0 +1,4 @@
+# Docerion header of features.mm.
+type: source
+title: Welcome Back feature flag implementation
+summary: Implements the kWelcomeBack feature parameters and helpers that check enablement, read the variation, and erase used eligible items.

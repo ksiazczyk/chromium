@@ -1,0 +1,4 @@
+# Docerion header of welcome_back_coordinator.mm.
+type: source
+title: Welcome Back coordinator implementation
+summary: Implements the coordinator that wires the mediator and view controller, presents the Welcome Back screen, tracks feature clicks, and notifies the promos manager on dismissal.

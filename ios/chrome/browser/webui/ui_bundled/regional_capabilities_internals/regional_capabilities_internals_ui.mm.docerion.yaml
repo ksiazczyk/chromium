@@ -1,0 +1,4 @@
+# Docerion header of regional_capabilities_internals_ui.mm.
+type: source
+title: Regional capabilities internals WebUI controller implementation
+summary: Implements the WebUI controller by registering resources and adding regional capabilities and search engine choice data as strings for the debug page.

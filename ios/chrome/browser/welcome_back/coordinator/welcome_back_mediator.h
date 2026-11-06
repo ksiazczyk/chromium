@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Welcome Back mediator header
+// summary: Declares the mediator that provides Welcome Back screen data to a consumer using the authentication and account manager services.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_WELCOME_BACK_COORDINATOR_WELCOME_BACK_MEDIATOR_H_
 #define IOS_CHROME_BROWSER_WELCOME_BACK_COORDINATOR_WELCOME_BACK_MEDIATOR_H_
 

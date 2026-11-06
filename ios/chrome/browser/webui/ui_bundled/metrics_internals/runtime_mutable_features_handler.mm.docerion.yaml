@@ -1,0 +1,4 @@
+# Docerion header of runtime_mutable_features_handler.mm.
+type: source
+title: Runtime mutable features handler implementation
+summary: Implements fetching runtime-mutable features, pausing or resuming seed fetching and uploading seed bytes via the base handler.

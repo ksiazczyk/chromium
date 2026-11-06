@@ -1,0 +1,4 @@
+# Docerion header of management_ui_egtest.mm.
+type: test
+title: ManagementUI Earl Grey tests
+summary: Earl Grey tests verifying that the enterprise connectors event sections show the expected titles and descriptions.

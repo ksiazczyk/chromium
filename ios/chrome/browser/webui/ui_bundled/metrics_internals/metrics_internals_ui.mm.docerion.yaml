@@ -1,0 +1,4 @@
+# Docerion header of metrics_internals_ui.mm.
+type: source
+title: MetricsInternalsUI implementation
+summary: Objective-C++ implementation that registers the metrics internals page data source and attaches its message handlers, adding the structured metrics handler when enabled.

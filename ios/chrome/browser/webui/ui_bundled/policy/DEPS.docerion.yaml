@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for policy Mojom headers
+summary: Grants this directory permission to include the generated policy Mojom header and forward declaration files.

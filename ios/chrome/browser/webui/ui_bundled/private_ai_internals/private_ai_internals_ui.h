@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Private AI internals WebUI controller header
+// summary: Header declaring the iOS WebUI controller for the private AI internals page, including Mojo interface binding and the session and network driver members.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_WEBUI_UI_BUNDLED_PRIVATE_AI_INTERNALS_PRIVATE_AI_INTERNALS_UI_H_
 #define IOS_CHROME_BROWSER_WEBUI_UI_BUNDLED_PRIVATE_AI_INTERNALS_PRIVATE_AI_INTERNALS_UI_H_
 

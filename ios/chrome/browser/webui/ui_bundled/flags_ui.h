@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Flags UI controller header
+// summary: Declares the iOS WebUI controller for the flags page and its helper that registers localized strings.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_WEBUI_UI_BUNDLED_FLAGS_UI_H_
 #define IOS_CHROME_BROWSER_WEBUI_UI_BUNDLED_FLAGS_UI_H_
 

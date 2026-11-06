@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Interstitial demo page path and query constants header
+// summary: Declares path and query parameter constants used by the interstitials demonstration pages.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_WEBUI_UI_BUNDLED_INTERSTITIALS_INTERSTITIAL_UI_CONSTANTS_H_
 #define IOS_CHROME_BROWSER_WEBUI_UI_BUNDLED_INTERSTITIALS_INTERSTITIAL_UI_CONSTANTS_H_
 

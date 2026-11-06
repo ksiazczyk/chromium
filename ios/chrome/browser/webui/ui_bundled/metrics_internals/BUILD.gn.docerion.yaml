@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the iOS metrics internals WebUI
+summary: Defines the metrics_internals source_set, its sources and dependencies, including conditional structured metrics debug sources.

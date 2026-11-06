@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InternalDebugPagesDisabledUI class header
+// summary: Declares the InternalDebugPagesDisabledUI WebUIIOSController class used to serve the internal debug pages disabled page in iOS Chrome.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_WEBUI_UI_BUNDLED_INTERNAL_DEBUG_PAGES_DISABLED_INTERNAL_DEBUG_PAGES_DISABLED_UI_H_
 #define IOS_CHROME_BROWSER_WEBUI_UI_BUNDLED_INTERNAL_DEBUG_PAGES_DISABLED_INTERNAL_DEBUG_PAGES_DISABLED_UI_H_
 

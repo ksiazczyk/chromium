@@ -1,0 +1,4 @@
+# Docerion header of on_device_llm_internals_ui.mm.
+type: source
+title: On-device LLM internals UI implementation
+summary: Implements the on-device LLM internals page, reporting model information and running test generations via the optimization guide.

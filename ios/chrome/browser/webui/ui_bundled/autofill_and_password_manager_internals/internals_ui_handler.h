@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InternalsUIHandler shared handler header
+// summary: Declares the shared InternalsUIHandler message handler and the CreateInternalsHTMLSource factory used by both the autofill and password manager internals pages.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_WEBUI_UI_BUNDLED_AUTOFILL_AND_PASSWORD_MANAGER_INTERNALS_INTERNALS_UI_HANDLER_H_
 #define IOS_CHROME_BROWSER_WEBUI_UI_BUNDLED_AUTOFILL_AND_PASSWORD_MANAGER_INTERNALS_INTERNALS_UI_HANDLER_H_
 

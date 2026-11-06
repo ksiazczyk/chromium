@@ -1,0 +1,4 @@
+# Docerion header of web_ui_test_utils.mm.
+type: test
+title: Web UI test utilities
+summary: Provides a helper that builds the chrome-scheme GURL for a given WebUI page host, used by iOS EarlGrey tests where the scheme is not registered.

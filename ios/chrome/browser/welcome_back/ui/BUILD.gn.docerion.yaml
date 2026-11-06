@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Welcome Back UI build definition
+summary: Defines the source_set, sources, dependencies, and frameworks for the Welcome Back UI build target.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build file for Optimization Guide internals WebUI
+summary: GN build definition for the iOS Optimization Guide internals WebUI, listing its sources, dependencies, and the Earl Grey test target.

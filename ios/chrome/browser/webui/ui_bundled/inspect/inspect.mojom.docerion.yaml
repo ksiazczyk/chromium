@@ -1,0 +1,4 @@
+# Docerion header of inspect.mojom.
+type: source
+title: Mojo interface definitions for the inspect WebUI page
+summary: Defines Mojo interfaces for the inspect page, its handler, and the factory that binds console logging requests.

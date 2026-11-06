@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile internals WebUI controller header
+// summary: Declares the WebUIIOSController subclass that hosts the profile internals page on iOS.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_WEBUI_UI_BUNDLED_PROFILE_INTERNALS_PROFILE_INTERNALS_UI_H_
 #define IOS_CHROME_BROWSER_WEBUI_UI_BUNDLED_PROFILE_INTERNALS_PROFILE_INTERNALS_UI_H_
 

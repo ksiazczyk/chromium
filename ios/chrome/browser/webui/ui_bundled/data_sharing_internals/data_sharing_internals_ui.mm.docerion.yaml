@@ -1,0 +1,4 @@
+# Docerion header of data_sharing_internals_ui.mm.
+type: source
+title: Data sharing internals WebUI controller implementation
+summary: Implements the data-sharing-internals WebUI controller, registering its data source and resources and binding the Mojo page handler factory to the handler implementation.

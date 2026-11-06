@@ -1,0 +1,4 @@
+# Docerion header of ukm_internals_ui.mm.
+type: source
+title: UKM internals UI implementation
+summary: Implements the UKM internals WebUI page and a message handler that returns structured UKM debug data from the UKM service.

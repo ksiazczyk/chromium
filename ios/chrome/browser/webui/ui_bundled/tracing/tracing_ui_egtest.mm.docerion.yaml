@@ -1,0 +1,4 @@
+# Docerion header of tracing_ui_egtest.mm.
+type: test
+title: Tracing WebUI Earl Grey test
+summary: Earl Grey integration test that loads the tracing page, starts and stops a recording via the UI buttons, and verifies the status text and share sheet behavior.

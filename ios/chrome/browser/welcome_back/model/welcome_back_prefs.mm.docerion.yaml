@@ -1,0 +1,4 @@
+# Docerion header of welcome_back_prefs.mm.
+type: source
+title: Welcome Back local state preferences implementation
+summary: Registers the eligible items list pref with defaults and maps stored integers to BestFeaturesItemType values.

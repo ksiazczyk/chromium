@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: About UI data source implementation
+// summary: Implements the WebUI data source that serves credits resources and renders histogram listings for iOS Chrome's internal about pages.
+// ---
+
 #include "ios/chrome/browser/webui/ui_bundled/about/about_ui.h"
 
 #include <algorithm>

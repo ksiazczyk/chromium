@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Welcome Back UI include rules
+summary: Restricts allowed header includes in the Welcome Back UI directory to two best features headers.

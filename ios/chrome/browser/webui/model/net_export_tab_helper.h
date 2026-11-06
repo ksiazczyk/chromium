@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetExportTabHelper class header
+// summary: Declares the NetExportTabHelper WebStateUserData class for the Net Export WebUI page, exposing mail composer display and delegate management.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_WEBUI_MODEL_NET_EXPORT_TAB_HELPER_H_
 #define IOS_CHROME_BROWSER_WEBUI_MODEL_NET_EXPORT_TAB_HELPER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for welcome back resources
+summary: Defines a bundle_data_xcassets target that packages the Assets.xcassets catalog, including confetti burst frame imagesets, for the iOS welcome back UI.

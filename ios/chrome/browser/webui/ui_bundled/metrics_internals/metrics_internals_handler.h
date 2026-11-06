@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MetricsInternalsHandler header
+// summary: Header declaring the iOS message handler for the metrics internals debug page, covering variations, UMA, UKM and encryption key data.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_WEBUI_UI_BUNDLED_METRICS_INTERNALS_METRICS_INTERNALS_HANDLER_H_
 #define IOS_CHROME_BROWSER_WEBUI_UI_BUNDLED_METRICS_INTERNALS_METRICS_INTERNALS_HANDLER_H_
 

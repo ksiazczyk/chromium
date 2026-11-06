@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for Welcome Back metrics source set
+summary: GN build file defining the metrics source set target that includes the Welcome Back metrics header.

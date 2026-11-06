@@ -1,0 +1,4 @@
+# Docerion header of management_ui.mm.
+type: source
+title: ManagementUI controller implementation
+summary: Implements the management WebUI handler, computing management messages from browser and profile policy state.

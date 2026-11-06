@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download internals WebUI controller header
+// summary: Declares DownloadInternalsUI, the WebUIIOSController for the download internals debugging page on iOS.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_WEBUI_UI_BUNDLED_DOWNLOAD_INTERNALS_UI_H_
 #define IOS_CHROME_BROWSER_WEBUI_UI_BUNDLED_DOWNLOAD_INTERNALS_UI_H_
 

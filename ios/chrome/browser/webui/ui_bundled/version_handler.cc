@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VersionHandler implementation for variation requests
+// summary: Implements the Version page message handler that responds to requestVariationInfo with the variations list and command line.
+// ---
+
 #include "ios/chrome/browser/webui/ui_bundled/version_handler.h"
 
 #include "base/base64.h"

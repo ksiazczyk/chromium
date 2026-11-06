@@ -1,0 +1,4 @@
+# Docerion header of inspect_ui.mm.
+type: source
+title: InspectUI controller implementation
+summary: Implements the inspect WebUI controller and its page handler, forwarding JavaScript console messages from web frames to the page via Mojo.

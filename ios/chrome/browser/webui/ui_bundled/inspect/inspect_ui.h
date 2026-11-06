@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InspectUI controller header
+// summary: Declares InspectUI, the WebUI controller for the inspect page that binds the Mojo page handler factory interface.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_WEBUI_UI_BUNDLED_INSPECT_INSPECT_UI_H_
 #define IOS_CHROME_BROWSER_WEBUI_UI_BUNDLED_INSPECT_INSPECT_UI_H_
 

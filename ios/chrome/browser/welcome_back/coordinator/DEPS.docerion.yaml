@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Welcome Back coordinator include rules
+summary: Specifies the allowed include directories for code in the Welcome Back coordinator directory.

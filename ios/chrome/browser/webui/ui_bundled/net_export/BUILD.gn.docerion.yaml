@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for the net_export source set
+summary: Defines the net_export source_set with its source files and build dependencies for the iOS net-export WebUI.

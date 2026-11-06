@@ -1,0 +1,4 @@
+# Docerion header of user_actions_handler.mm.
+type: source
+title: User actions handler implementation
+summary: Implements the user actions handler, registering a callback that pushes each recorded user action event to the page's JavaScript.

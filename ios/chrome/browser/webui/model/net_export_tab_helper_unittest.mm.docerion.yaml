@@ -1,0 +1,4 @@
+# Docerion header of net_export_tab_helper_unittest.mm.
+type: test
+title: NetExportTabHelper unit tests
+summary: Unit tests for NetExportTabHelper verifying its initial state and that the delegate is asked to show the mail composer with the correct context.

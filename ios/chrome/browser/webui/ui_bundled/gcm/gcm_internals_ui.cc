@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GCM internals WebUI implementation
+// summary: Implements the message handler for the iOS Chrome gcm-internals WebUI page, returning GCM statistics to the page and toggling GCM activity recording.
+// ---
+
 #include "ios/chrome/browser/webui/ui_bundled/gcm/gcm_internals_ui.h"
 
 #include <memory>

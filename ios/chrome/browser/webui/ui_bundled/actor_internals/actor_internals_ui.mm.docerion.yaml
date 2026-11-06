@@ -1,0 +1,4 @@
+# Docerion header of actor_internals_ui.mm.
+type: source
+title: WebUI controller implementation for the Actor Internals page
+summary: Implements the Actor Internals WebUI controller, registering page resources and creating a handler backed by the profile's actor service journal.

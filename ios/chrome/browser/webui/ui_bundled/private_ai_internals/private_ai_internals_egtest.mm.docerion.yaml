@@ -1,0 +1,4 @@
+# Docerion header of private_ai_internals_egtest.mm.
+type: test
+title: Private AI internals Earl Grey UI tests
+summary: Earl Grey test that loads the private AI internals page, checks that expected text renders, and verifies the create connection and disconnect buttons behave as expected.

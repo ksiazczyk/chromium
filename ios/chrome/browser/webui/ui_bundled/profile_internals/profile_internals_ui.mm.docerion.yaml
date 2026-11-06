@@ -1,0 +1,4 @@
+# Docerion header of profile_internals_ui.mm.
+type: source
+title: Profile internals WebUI controller implementation
+summary: Implements the controller that adds the message handler and registers the WebUI data source with the page's HTML resources.

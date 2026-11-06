@@ -1,0 +1,4 @@
+# Docerion header of inspect.html.
+type: source
+title: JavaScript console page markup
+summary: HTML page for the inspect WebUI that hosts the JavaScript console start and stop logging controls and the tab display.

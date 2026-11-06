@@ -1,0 +1,4 @@
+# Docerion header of structured_metrics_internals_handler.mm.
+type: source
+title: Structured metrics internals handler implementation
+summary: Implements the structured metrics internals handler, registering fetchStructuredMetricsEvents and fetchStructuredMetricsSummary callbacks that forward requests to the shared base handler.

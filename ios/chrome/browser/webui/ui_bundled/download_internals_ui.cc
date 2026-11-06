@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download internals WebUI implementation
+// summary: Implements the download internals page, wiring its JavaScript frontend to background download service status, downloads and test download requests.
+// ---
+
 #include "ios/chrome/browser/webui/ui_bundled/download_internals_ui.h"
 
 #include <vector>

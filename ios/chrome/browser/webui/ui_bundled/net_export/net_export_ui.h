@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetExportUI header for the net-export WebUI page
+// summary: Declares the NetExportUI controller class that acts as the C++ back-end for the net-export WebUI page in iOS Chrome.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_WEBUI_UI_BUNDLED_NET_EXPORT_NET_EXPORT_UI_H_
 #define IOS_CHROME_BROWSER_WEBUI_UI_BUNDLED_NET_EXPORT_NET_EXPORT_UI_H_
 

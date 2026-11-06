@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Welcome Back coordinator GN build targets
+summary: Defines GN source sets for the Welcome Back coordinator, display handler, and unit tests along with their dependencies and frameworks.

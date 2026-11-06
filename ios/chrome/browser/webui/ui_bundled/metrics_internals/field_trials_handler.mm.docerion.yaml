@@ -1,0 +1,4 @@
+# Docerion header of field_trials_handler.mm.
+type: source
+title: Field trials handler implementation
+summary: Implements field trial state fetching, enrollment overrides, group name lookup and restart handling for the metrics internals page.

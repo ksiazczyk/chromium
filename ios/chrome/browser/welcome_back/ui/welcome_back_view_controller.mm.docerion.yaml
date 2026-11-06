@@ -1,0 +1,4 @@
+# Docerion header of welcome_back_view_controller.mm.
+type: source
+title: Welcome Back view controller implementation
+summary: Implements the Welcome Back promo half-sheet, including the feature table view, avatar or logo image, and sheet detent handling.

@@ -1,0 +1,4 @@
+# Docerion header of internals_ui_handler.mm.
+type: source
+title: InternalsUIHandler shared handler implementation
+summary: Implements the shared internals handler, supplying version and locale data strings, managing log subscriptions, and handling loaded and dumpAddresses JavaScript messages.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Terms UI header
+// summary: Declares the TermsUI WebUI controller that serves the terms of service page in iOS Chrome.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_WEBUI_UI_BUNDLED_TERMS_UI_H_
 #define IOS_CHROME_BROWSER_WEBUI_UI_BUNDLED_TERMS_UI_H_
 

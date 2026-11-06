@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GCM internals WebUI header
+// summary: Declares GCMInternalsUI, the WebUIIOSController class that backs the gcm-internals diagnostics page in iOS Chrome.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_WEBUI_UI_BUNDLED_GCM_GCM_INTERNALS_UI_H_
 #define IOS_CHROME_BROWSER_WEBUI_UI_BUNDLED_GCM_GCM_INTERNALS_UI_H_
 
