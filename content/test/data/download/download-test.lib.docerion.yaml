@@ -1,0 +1,4 @@
+# Docerion header of download-test.lib.
+type: test
+title: Download test file with pseudo-binary content
+summary: Test fixture whose content looks binary for MIME sniffing and is used by download tests.

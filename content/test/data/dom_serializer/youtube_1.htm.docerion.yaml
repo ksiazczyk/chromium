@@ -1,0 +1,4 @@
+# Docerion header of youtube_1.htm.
+type: test
+title: YouTube test fixture for the DOM serializer
+summary: Test fixture mimicking a YouTube page with stylesheet, script, icon and iframe references, used to exercise DOM serializer behavior.

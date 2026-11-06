@@ -1,0 +1,4 @@
+# Docerion header of font_fallback.html.
+type: test
+title: Font fallback canvas test page
+summary: Test page that draws the Japanese character 日 on a canvas element to exercise font fallback rendering.

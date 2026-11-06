@@ -1,0 +1,4 @@
+# Docerion header of store_data.html.
+type: test
+title: localStorage data storing test page
+summary: Test page that clears localStorage and stores the value bar under the key foo, reporting pass or fail via the shared helpers.

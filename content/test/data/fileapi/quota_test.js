@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FileAPI quota test script
+// summary: Browser test that checks navigator.storage.estimate against an expected quota from the URL and verifies truncating beyond the quota fails.
+// ---
+
 function truncateFailByQuota(fs) {
   fs.root.getFile('fd', {create: false, exclusive: false}, function(fileEntry) {
     fileEntry.createWriter(function(fileWriter) {

@@ -1,0 +1,4 @@
+# Docerion header of basic_iframe.html.
+type: test
+title: Basic iframe test page
+summary: Test page containing a plain iframe named test_iframe for fenced frame comparison tests.

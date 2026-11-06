@@ -1,0 +1,4 @@
+# Docerion header of empty404.html.mock-http-headers.
+type: test
+title: Mock HTTP headers returning 404 for empty404.html
+summary: Mock HTTP response headers that serve empty404.html as a 404 with fenced-frame loading mode support.

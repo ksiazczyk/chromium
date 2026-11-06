@@ -1,0 +1,4 @@
+# Docerion header of ad_with_fenced_frame_private_aggregation_reporting.html.
+type: test
+title: Ad page with fenced frame private aggregation reporting
+summary: Test ad page for browser tests that reports an auctionwinner event via the private aggregation reportEvent path as soon as it loads in a fenced frame.

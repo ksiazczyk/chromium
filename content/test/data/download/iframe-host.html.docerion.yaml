@@ -1,0 +1,4 @@
+# Docerion header of iframe-host.html.
+type: test
+title: Iframe host test page
+summary: HTML test page that embeds an iframe whose source is taken from the query string of the page URL.

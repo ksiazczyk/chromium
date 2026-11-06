@@ -1,0 +1,4 @@
+# Docerion header of download-attribute-blob.html.
+type: test
+title: Download attribute test with Blob URL
+summary: Test page that triggers a download through a Blob URL revoked immediately after the click to verify blob lifetime handling.

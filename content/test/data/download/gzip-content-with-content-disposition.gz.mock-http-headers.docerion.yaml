@@ -1,0 +1,4 @@
+# Docerion header of gzip-content-with-content-disposition.gz.mock-http-headers.
+type: test
+title: Mock HTTP headers for gzip content with content disposition
+summary: Mock HTTP response headers serving gzipped content as an attachment named hello.txt.

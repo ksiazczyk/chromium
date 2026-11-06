@@ -1,0 +1,4 @@
+# Docerion header of viewport.html.
+type: test
+title: Viewport test page with fenced frame
+summary: Test page that embeds a fenced frame configured to load viewport_child.html to exercise viewport handling.

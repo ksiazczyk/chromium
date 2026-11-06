@@ -1,0 +1,4 @@
+# Docerion header of mathml_download_test.html.
+type: test
+title: MathML download test page
+summary: Test page with a download link inside MathML pointing to a data URL, plus a script that simulates clicking the link.

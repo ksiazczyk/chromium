@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker classic script import fixture
+// summary: Service worker that imports a classic script and serves its message variable for fetch events.
+// ---
+
 // global message var is provided by this classic script.
 importScripts("/devtools/worker_imported_classic.js");
 

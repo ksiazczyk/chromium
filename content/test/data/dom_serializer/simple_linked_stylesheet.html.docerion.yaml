@@ -1,0 +1,4 @@
+# Docerion header of simple_linked_stylesheet.html.
+type: test
+title: HTML test page with linked stylesheet
+summary: HTML test fixture that links style.css and renders an h1 heading to test serialization of pages with external stylesheets.

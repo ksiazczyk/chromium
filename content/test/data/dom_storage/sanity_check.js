@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DOM storage sanity check script
+// summary: JavaScript test that verifies localStorage and sessionStorage behavior, including item operations, clearing, and QuotaExceededError for oversized keys and values.
+// ---
+
 function startTestSoon() {
   window.setTimeout(test, 0);
 }

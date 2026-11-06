@@ -1,0 +1,4 @@
+# Docerion header of download-attribute.html.mock-http-headers.
+type: test
+title: Mock HTTP headers for the download attribute test page
+summary: Mock HTTP response headers that serve the download attribute test page as text/html.

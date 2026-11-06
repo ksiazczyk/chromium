@@ -1,0 +1,4 @@
+# Docerion header of non_html_namespace.htm.
+type: test
+title: HTML test page creating a non-HTML namespace element
+summary: HTML test fixture that creates an input element in the urn:x-foo namespace via createElementNS to exercise DOM serializer namespace handling.

@@ -1,0 +1,4 @@
+# Docerion header of ad_that_leaves_interest_group.html.
+type: test
+title: Ad page that leaves its interest group
+summary: Fenced frame test ad page that calls navigator.leaveAdInterestGroup() when loaded.

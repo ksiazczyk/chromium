@@ -1,0 +1,4 @@
+# Docerion header of test.mht.
+type: test
+title: MHT archive test file
+summary: Multipart MHT archive saved by UnMHT containing a simple HTML page, used as test data for download handling.

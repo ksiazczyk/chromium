@@ -1,0 +1,4 @@
+# Docerion header of outer_inner_frame_as_param.html.
+type: test
+title: Outer page loading inner frame from URL parameter
+summary: Test page that sets an iframe source from the innerFrame URL parameter to test outer-to-inner frame loading.

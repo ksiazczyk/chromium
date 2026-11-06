@@ -1,0 +1,4 @@
+# Docerion header of iframe-host.html.mock-http-headers.
+type: test
+title: Mock HTTP headers for iframe-host.html
+summary: Mock HTTP response headers serving iframe-host.html as text/html.

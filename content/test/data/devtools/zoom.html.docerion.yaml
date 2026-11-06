@@ -1,0 +1,4 @@
+# Docerion header of zoom.html.
+type: test
+title: Zoom test page
+summary: Minimal HTML page with a viewport meta tag and a button, used for zoom-related DevTools tests.

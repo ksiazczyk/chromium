@@ -1,0 +1,4 @@
+# Docerion header of page_with_data_image.html.
+type: test
+title: Page with data URI image
+summary: Test page embedding a PNG image as a base64 data URI, likely for download or image handling tests.

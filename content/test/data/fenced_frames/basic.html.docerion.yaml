@@ -1,0 +1,4 @@
+# Docerion header of basic.html.
+type: test
+title: Basic page with a fenced frame element
+summary: Minimal test page embedding a fencedframe element for basic fenced frame loading tests.

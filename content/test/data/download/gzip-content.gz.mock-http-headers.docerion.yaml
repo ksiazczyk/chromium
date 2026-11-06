@@ -1,0 +1,4 @@
+# Docerion header of gzip-content.gz.mock-http-headers.
+type: test
+title: Mock HTTP headers for gzip-content.gz
+summary: Mock HTTP response headers serving gzipped content with only a content length set.

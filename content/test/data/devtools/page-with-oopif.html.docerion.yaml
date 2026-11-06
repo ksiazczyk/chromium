@@ -1,0 +1,4 @@
+# Docerion header of page-with-oopif.html.
+type: test
+title: Page with out-of-process iframe
+summary: Test page embedding a cross-site iframe to produce an out-of-process iframe for DevTools tests.

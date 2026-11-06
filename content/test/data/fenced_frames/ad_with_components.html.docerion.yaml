@@ -1,0 +1,4 @@
+# Docerion header of ad_with_components.html.
+type: test
+title: Ad page with ad auction components
+summary: Fenced frame test ad page that loads the first ad auction component returned by navigator.adAuctionComponents into an embedded iframe.

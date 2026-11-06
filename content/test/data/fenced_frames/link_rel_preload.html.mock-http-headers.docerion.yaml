@@ -1,0 +1,4 @@
+# Docerion header of link_rel_preload.html.mock-http-headers.
+type: test
+title: Mock HTTP headers for link_rel_preload.html
+summary: Mock HTTP response headers that serve link_rel_preload.html with fenced-frame loading mode support.

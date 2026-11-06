@@ -1,0 +1,4 @@
+# Docerion header of forms.mhtml.
+type: test
+title: MHTML archive with a form
+summary: MHTML test archive saved by Chromium containing an HTML page with an input element.

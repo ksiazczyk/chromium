@@ -1,0 +1,4 @@
+# Docerion header of navigation.html.mock-http-headers.
+type: test
+title: Mock HTTP headers for the navigation page
+summary: Mock HTTP response headers marking the navigation page as supporting fenced frames.

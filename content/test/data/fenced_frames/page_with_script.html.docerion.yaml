@@ -1,0 +1,4 @@
+# Docerion header of page_with_script.html.
+type: test
+title: Test page with inline script
+summary: Test page containing an inline script that defines a constant, used for fenced frame script execution tests.

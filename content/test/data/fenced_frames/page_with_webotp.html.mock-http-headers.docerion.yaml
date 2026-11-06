@@ -1,0 +1,4 @@
+# Docerion header of page_with_webotp.html.mock-http-headers.
+type: test
+title: Mock HTTP headers for page_with_webotp
+summary: 'Mock HTTP response headers serving the WebOTP page with a 200 status and the Supports-Loading-Mode: fenced-frame header.'

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Direct Sockets UDP test helpers
+// summary: JavaScript test helpers covering UDP send, read, close, echo server, and multicast group operations for the Direct Sockets API.
+// ---
+
 'use strict';
 
 const assertEq = (actual, expected) => {

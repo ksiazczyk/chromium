@@ -1,0 +1,4 @@
+# Docerion header of sandbox_flags.html.mock-http-headers.
+type: test
+title: Sandbox flags mock HTTP headers
+summary: Mock HTTP headers serving the sandbox flags page with a sandbox allow-modals CSP and fenced-frame support.

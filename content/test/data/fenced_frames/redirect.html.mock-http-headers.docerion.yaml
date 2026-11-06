@@ -1,0 +1,4 @@
+# Docerion header of redirect.html.mock-http-headers.
+type: test
+title: Redirect page mock HTTP headers
+summary: Mock HTTP response headers that serve the redirect test page with fenced-frame support for content tests.

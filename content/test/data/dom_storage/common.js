@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DOM storage test helper functions
+// summary: Shared JavaScript helpers for the DOM storage test pages, providing debug output, pass and fail reporting, and log retrieval.
+// ---
+
 function debug(message) {
   var span = document.createElement("span");
   span.appendChild(document.createTextNode(message));

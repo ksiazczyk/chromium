@@ -1,0 +1,4 @@
+# Docerion header of device_inertial_sensor_diagnostics.html.
+type: test
+title: Device Motion and Orientation diagnostic measurements page
+summary: Diagnostics page that displays devicemotion, deviceorientation, and deviceorientationabsolute sensor availability, values, and event frequencies in a table.

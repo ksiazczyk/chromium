@@ -1,0 +1,4 @@
+# Docerion header of navigation.html.
+type: test
+title: Navigation dummy page
+summary: Minimal dummy page used as a navigation target in DevTools tests.

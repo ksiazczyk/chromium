@@ -1,0 +1,4 @@
+# Docerion header of udp.html.
+type: test
+title: Direct Sockets UDP test page
+summary: HTML page for the Direct Sockets UDP test that loads udp.js and displays the test title.

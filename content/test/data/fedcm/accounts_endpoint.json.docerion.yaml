@@ -1,0 +1,4 @@
+# Docerion header of accounts_endpoint.json.
+type: test
+title: FedCM accounts endpoint test data
+summary: Mock JSON response listing a test account for the FedCM accounts endpoint.

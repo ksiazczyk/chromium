@@ -1,0 +1,4 @@
+# Docerion header of ad_with_3pat_macro_reporting.html.mock-http-headers.
+type: test
+title: Mock HTTP headers for ad_with_3pat_macro_reporting.html
+summary: Mock HTTP response headers serving the macro reporting ad page with a 200 status and the fenced-frame Supports-Loading-Mode header.

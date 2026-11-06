@@ -1,0 +1,4 @@
+# Docerion header of viewport_child.html.
+type: test
+title: Fenced frame child page with viewport meta
+summary: Child document for the viewport test whose viewport meta tag should be ignored inside a fenced frame, showing a 100x100 red div.
