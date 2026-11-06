@@ -1,0 +1,4 @@
+# Docerion header of web_view_interaction_test_util.mm.
+type: test
+title: Web view interaction test utility implementation
+summary: Implements TapWebViewElementWithId by delegating to the shared ios/web public web view interaction utility on the shell's current WebState.

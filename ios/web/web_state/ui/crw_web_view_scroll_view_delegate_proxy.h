@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CRWWebViewScrollViewDelegateProxy header
+// summary: Declares the UIScrollView delegate proxy that forwards unimplemented delegate methods to the scroll view proxy's delegate.
+// ---
+
 #ifndef IOS_WEB_WEB_STATE_UI_CRW_WEB_VIEW_SCROLL_VIEW_DELEGATE_PROXY_H_
 #define IOS_WEB_WEB_STATE_UI_CRW_WEB_VIEW_SCROLL_VIEW_DELEGATE_PROXY_H_
 

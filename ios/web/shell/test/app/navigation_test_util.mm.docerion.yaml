@@ -1,0 +1,4 @@
+# Docerion header of navigation_test_util.mm.
+type: test
+title: Navigation test utility implementation for the web shell test app
+summary: Implements LoadUrl and IsLoading by delegating to the shared ios/web public navigation test utilities on the shell's current WebState.

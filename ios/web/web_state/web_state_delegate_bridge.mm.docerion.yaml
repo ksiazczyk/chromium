@@ -1,0 +1,4 @@
+# Docerion header of web_state_delegate_bridge.mm.
+type: source
+title: WebStateDelegateBridge implementation
+summary: Implements WebStateDelegateBridge, forwarding C++ delegate calls to the optional methods of the Objective-C CRWWebStateDelegate protocol.

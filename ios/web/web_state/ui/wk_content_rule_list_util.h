@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WK content rule list utilities
+// summary: Declares helpers that build JSON rule lists for blocking resources on app-specific scheme pages and upgrading mixed content.
+// ---
+
 #ifndef IOS_WEB_WEB_STATE_UI_WK_CONTENT_RULE_LIST_UTIL_H_
 #define IOS_WEB_WEB_STATE_UI_WK_CONTENT_RULE_LIST_UTIL_H_
 

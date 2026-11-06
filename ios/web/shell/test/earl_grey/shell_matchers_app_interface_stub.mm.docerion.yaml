@@ -1,0 +1,4 @@
+# Docerion header of shell_matchers_app_interface_stub.mm.
+type: test
+title: ShellMatchersAppInterface stub
+summary: Stubs the ShellMatchersAppInterface class in the app main queue for Earl Grey test runs.

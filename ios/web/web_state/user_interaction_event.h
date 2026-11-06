@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UserInteractionEvent struct definition
+// summary: Defines the UserInteractionEvent struct that records the time of a user interaction and the main document URL at that moment.
+// ---
+
 #ifndef IOS_WEB_WEB_STATE_USER_INTERACTION_EVENT_H_
 #define IOS_WEB_WEB_STATE_USER_INTERACTION_EVENT_H_
 

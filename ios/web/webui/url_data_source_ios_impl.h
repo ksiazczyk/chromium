@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL data source implementation interface
+// summary: Declares the refcounted URLDataSourceIOSImpl wrapper with UI-thread deletion handling for data sources.
+// ---
+
 #ifndef IOS_WEB_WEBUI_URL_DATA_SOURCE_IOS_IMPL_H_
 #define IOS_WEB_WEBUI_URL_DATA_SOURCE_IOS_IMPL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CRWScrollableContent protocol and fullscreen state enum
+// summary: Declares the protocol for views that display WebState content with scroll and inset handling, plus the CrFullscreenState enum used for fullscreen metrics.
+// ---
+
 #ifndef IOS_WEB_WEB_STATE_UI_CRW_CONTENT_VIEW_H_
 #define IOS_WEB_WEB_STATE_UI_CRW_CONTENT_VIEW_H_
 

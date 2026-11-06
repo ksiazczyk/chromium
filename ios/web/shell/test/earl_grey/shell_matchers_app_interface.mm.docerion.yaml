@@ -1,0 +1,4 @@
+# Docerion header of shell_matchers_app_interface.mm.
+type: test
+title: ShellMatchersAppInterface implementation
+summary: Implements matchers for the current web state's web view, scroll view and the shell's navigation buttons.

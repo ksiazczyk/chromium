@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for iOS WebUI
+summary: Defines the webui source set and internal_constants target with their sources and dependencies for the iOS WebUI implementation.

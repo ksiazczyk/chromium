@@ -1,0 +1,4 @@
+# Docerion header of wk_web_view_configuration_provider_unittest.mm.
+type: test
+title: WKWebViewConfigurationProvider unit tests
+summary: Unit tests for WKWebViewConfigurationProvider covering off-the-record and persistent configurations, universal opt-out preferences, and configuration reset behavior.

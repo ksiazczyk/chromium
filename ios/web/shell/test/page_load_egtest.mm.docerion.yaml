@@ -1,0 +1,4 @@
+# Docerion header of page_load_egtest.mm.
+type: test
+title: Web shell page load Earl Grey test
+summary: Earl Grey 2 test verifying that a simple page loads successfully in the web shell, enabled only on simulators due to flakiness.

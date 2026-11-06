@@ -1,0 +1,4 @@
+# Docerion header of web_state_policy_decider_bridge_unittest.mm.
+type: test
+title: WebStatePolicyDeciderBridge unit tests
+summary: Unit tests verifying that request and response policy decisions are forwarded correctly to the Objective-C decider through the bridge.

@@ -1,0 +1,4 @@
+# Docerion header of url_test_util.mm.
+type: test
+title: URL display title test utility
+summary: Test helper exposing GetDisplayTitleForUrl, which returns the display title for a URL by delegating to NavigationItemImpl.

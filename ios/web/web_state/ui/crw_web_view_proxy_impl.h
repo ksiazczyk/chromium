@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CRWWebViewProxyImpl header
+// summary: Declares the CRWWebViewProxyImpl class that implements the CRWWebViewProxy interface and manages the content view on behalf of CRWWebController.
+// ---
+
 #ifndef IOS_WEB_WEB_STATE_UI_CRW_WEB_VIEW_PROXY_IMPL_H_
 #define IOS_WEB_WEB_STATE_UI_CRW_WEB_VIEW_PROXY_IMPL_H_
 

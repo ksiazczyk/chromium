@@ -1,0 +1,4 @@
+# Docerion header of crw_html_element_fetch_request_unittest.mm.
+type: test
+title: CRWHTMLElementFetchRequest unit tests
+summary: Unit tests for CRWHTMLElementFetchRequest covering creation time, handler invocation with a response, and invalidation preventing handler calls.

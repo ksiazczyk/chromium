@@ -1,0 +1,4 @@
+# Docerion header of web_ui_mojo_inttest.mm.
+type: test
+title: WebUI Mojo integration test
+summary: Integration test verifying syn, ack, and fin message exchange between native code and a test WebUI page via Mojo.

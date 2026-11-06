@@ -1,0 +1,4 @@
+# Docerion header of shared_resources_data_source_ios.mm.
+type: source
+title: Shared resources data source implementation
+summary: Maps requested resource paths to bundled WebUI resource entries and returns their bytes and MIME type.

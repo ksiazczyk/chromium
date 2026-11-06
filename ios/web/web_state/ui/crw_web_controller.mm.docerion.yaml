@@ -1,0 +1,4 @@
+# Docerion header of crw_web_controller.mm.
+type: source
+title: CRWWebController implementation
+summary: Implements the core CRWWebController that drives WKWebView-based web state UI, navigation, fullscreen state, and metrics in Chromium's iOS web layer.

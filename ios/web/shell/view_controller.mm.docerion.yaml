@@ -1,0 +1,4 @@
+# Docerion header of view_controller.mm.
+type: source
+title: Web shell view controller implementation
+summary: Implements the main ios_web_shell user interface, including toolbar buttons, back and forward navigation, and an address field backed by a web::WebState.

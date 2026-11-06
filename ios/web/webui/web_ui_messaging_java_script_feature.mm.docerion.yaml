@@ -1,0 +1,4 @@
+# Docerion header of web_ui_messaging_java_script_feature.mm.
+type: source
+title: WebUIMessagingJavaScriptFeature implementation
+summary: Validates and forwards WebUI script messages from the main frame of app-specific URLs to the WebState.

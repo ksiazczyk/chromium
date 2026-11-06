@@ -1,0 +1,4 @@
+# Docerion header of web_state_impl_realized_web_state.mm.
+type: source
+title: RealizedWebState implementation
+summary: Implements the realized WebState internals, covering permission decisions, session restoration, WebUI setup, and observer notifications.

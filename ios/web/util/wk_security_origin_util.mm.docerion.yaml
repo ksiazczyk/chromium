@@ -1,0 +1,4 @@
+# Docerion header of wk_security_origin_util.mm.
+type: source
+title: WKSecurityOrigin conversion implementation
+summary: Converts WKSecurityOrigin objects to GURL and url::Origin, resolving default ports for the origin scheme.

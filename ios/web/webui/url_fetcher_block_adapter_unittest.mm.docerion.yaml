@@ -1,0 +1,4 @@
+# Docerion header of url_fetcher_block_adapter_unittest.mm.
+type: test
+title: URL fetcher block adapter unit tests
+summary: Unit tests verifying that URLFetcherBlockAdapter invokes its completion handler with the expected data and headers for text and PNG resources.

@@ -1,0 +1,4 @@
+# Docerion header of web_exe_main.mm.
+type: source
+title: Web shell app entry point
+summary: Entry point of the ios_web_shell application that starts the iOS app via UIApplicationMain with the AppDelegate class.

@@ -1,0 +1,4 @@
+# Docerion header of error_translation_util.mm.
+type: source
+title: Error translation utility implementation
+summary: Maps CFNetwork and iOS error codes to net error codes and wraps NSError with an underlying net error.

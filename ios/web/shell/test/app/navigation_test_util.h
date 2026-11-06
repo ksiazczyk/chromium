@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Navigation test utility declarations for the web shell test app
+// summary: Declares shell_test_util helpers that load a URL with a typed page transition in the current WebState and report whether the current page is loading.
+// ---
+
 #ifndef IOS_WEB_SHELL_TEST_APP_NAVIGATION_TEST_UTIL_H_
 #define IOS_WEB_SHELL_TEST_APP_NAVIGATION_TEST_UTIL_H_
 

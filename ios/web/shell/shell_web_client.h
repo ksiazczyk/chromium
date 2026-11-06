@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShellWebClient class declaration
+// summary: Declares the shell's WebClient covering user agent, resource loading, interface binding, and web inspector enablement.
+// ---
+
 #ifndef IOS_WEB_SHELL_SHELL_WEB_CLIENT_H_
 #define IOS_WEB_SHELL_SHELL_WEB_CLIENT_H_
 

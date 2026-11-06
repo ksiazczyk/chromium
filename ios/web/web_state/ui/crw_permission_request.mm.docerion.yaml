@@ -1,0 +1,4 @@
+# Docerion header of crw_permission_request.mm.
+type: source
+title: CRWPermissionRequest implementation
+summary: Implements CRWPermissionRequest, displaying media capture and geolocation prompts while handling presenter lifetime and denied decisions.

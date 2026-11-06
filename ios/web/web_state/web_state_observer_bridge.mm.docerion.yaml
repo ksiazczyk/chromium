@@ -1,0 +1,4 @@
+# Docerion header of web_state_observer_bridge.mm.
+type: source
+title: WebStateObserver bridge implementation
+summary: Forwards WebStateObserver C++ callbacks to an Objective-C CRWWebStateObserver delegate through respondsToSelector checks.

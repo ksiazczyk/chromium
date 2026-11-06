@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShellWebMainParts class declaration
+// summary: Declares the shell's WebMainParts that own the shell browser state created before the message loop runs.
+// ---
+
 #ifndef IOS_WEB_SHELL_SHELL_WEB_MAIN_PARTS_H_
 #define IOS_WEB_SHELL_SHELL_WEB_MAIN_PARTS_H_
 

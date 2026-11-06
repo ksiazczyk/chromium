@@ -1,0 +1,4 @@
+# Docerion header of wk_web_view_crash_utils.mm.
+type: test
+title: WKWebView crash simulation test utilities implementation
+summary: Implements WKWebView crash simulation via private API and OCMock-based mocks whose JavaScript evaluation fails with WKErrorWebContentProcessTerminated or succeeds with nil.

@@ -1,0 +1,4 @@
+# Docerion header of crw_web_controller_container_view.mm.
+type: source
+title: CRWWebControllerContainerView implementation
+summary: Implements the container view's layout, content view swapping, trait change handling, and viewport adjustment for the web controller.

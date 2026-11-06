@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTML element fetch request interface
+// summary: Declares CRWHTMLElementFetchRequest, which tracks element fetch details and guards the completion handler so it runs only once.
+// ---
+
 #ifndef IOS_WEB_WEB_STATE_UI_CRW_HTML_ELEMENT_FETCH_REQUEST_H_
 #define IOS_WEB_WEB_STATE_UI_CRW_HTML_ELEMENT_FETCH_REQUEST_H_
 

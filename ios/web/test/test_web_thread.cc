@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestWebThread implementation for test environments
+// summary: Implements TestWebThread, which starts real or fake web threads and resets thread globals for iOS web test environments.
+// ---
+
 #include "ios/web/public/test/test_web_thread.h"
 
 #include "base/message_loop/message_pump_type.h"

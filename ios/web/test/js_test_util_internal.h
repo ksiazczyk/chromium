@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Internal JavaScript execution test utilities header
+// summary: Declares internal helpers that synchronously execute and evaluate JavaScript in WKWebView content worlds for iOS web tests.
+// ---
+
 #ifndef IOS_WEB_TEST_JS_TEST_UTIL_INTERNAL_H_
 #define IOS_WEB_TEST_JS_TEST_UTIL_INTERNAL_H_
 

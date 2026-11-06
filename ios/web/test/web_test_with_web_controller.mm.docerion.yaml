@@ -1,0 +1,4 @@
+# Docerion header of web_test_with_web_controller.mm.
+type: test
+title: WebTestWithWebController fixture implementation
+summary: Implements WebTestWithWebController, ensuring the WKWebView configuration is initialized before navigations and providing access to the web controller.

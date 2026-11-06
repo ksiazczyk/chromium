@@ -1,0 +1,4 @@
+# Docerion header of LaunchScreen.xib.
+type: asset
+title: Launch screen XIB for the shell app
+summary: Interface Builder launch screen that shows a plain background view while the shell app starts.

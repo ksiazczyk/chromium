@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for the iOS web test directory
+summary: Defines GN build targets for the iOS web test directory, including Mojo bindings, packed test resources, test support sources, and JavaScript test scripts.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebTestWithWebStateImpl fixture header
+// summary: Declares a pass-key-restricted test fixture for the few tests that need to create WebStateImpl instances, such as WebStateImplTest.
+// ---
+
 #ifndef IOS_WEB_TEST_WEB_TEST_WITH_WEB_STATE_IMPL_H_
 #define IOS_WEB_TEST_WEB_TEST_WITH_WEB_STATE_IMPL_H_
 

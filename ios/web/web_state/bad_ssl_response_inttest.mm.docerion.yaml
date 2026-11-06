@@ -1,0 +1,4 @@
+# Docerion header of bad_ssl_response_inttest.mm.
+type: test
+title: Bad SSL response integration test
+summary: Integration test that verifies error pages and visible security state when loading HTTPS pages with untrusted certificates.

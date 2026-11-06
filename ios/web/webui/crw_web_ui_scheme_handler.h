@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CRWWebUISchemeHandler interface
+// summary: Declares the CRWWebUISchemeHandler class that serves WebUI pages through WKWebView custom scheme handling.
+// ---
+
 #ifndef IOS_WEB_WEBUI_CRW_WEB_UI_SCHEME_HANDLER_H_
 #define IOS_WEB_WEBUI_CRW_WEB_UI_SCHEME_HANDLER_H_
 

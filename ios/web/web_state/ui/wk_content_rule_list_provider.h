@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WKContentRuleListProvider class
+// summary: C++ class that compiles, stores, and applies WKContentRuleLists to a WKUserContentController.
+// ---
+
 #ifndef IOS_WEB_WEB_STATE_UI_WK_CONTENT_RULE_LIST_PROVIDER_H_
 #define IOS_WEB_WEB_STATE_UI_WK_CONTENT_RULE_LIST_PROVIDER_H_
 

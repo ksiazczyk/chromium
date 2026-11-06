@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebTestWithWebController fixture header
+// summary: Declares WebTestWithWebController, a base fixture that exposes the CRWWebController of the test WebState for testing.
+// ---
+
 #ifndef IOS_WEB_TEST_WEB_TEST_WITH_WEB_CONTROLLER_H_
 #define IOS_WEB_TEST_WEB_TEST_WITH_WEB_CONTROLLER_H_
 

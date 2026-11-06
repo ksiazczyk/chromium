@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake back forward list header for iOS web tests
+// summary: Declares CRWFakeBackForwardList, a stub for WKBackForwardList that simulates back and forward session history in iOS web tests.
+// ---
+
 #ifndef IOS_WEB_TEST_FAKES_CRW_FAKE_BACK_FORWARD_LIST_H_
 #define IOS_WEB_TEST_FAKES_CRW_FAKE_BACK_FORWARD_LIST_H_
 

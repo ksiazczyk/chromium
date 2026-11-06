@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the iOS web test directory
+summary: Sets per-file owners for Mojo test files, deferring to IPC security owners while allowing anyone to own the test-only Mojo files in practice.

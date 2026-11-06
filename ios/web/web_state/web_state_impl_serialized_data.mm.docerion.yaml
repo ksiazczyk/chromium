@@ -1,0 +1,4 @@
+# Docerion header of web_state_impl_serialized_data.mm.
+type: source
+title: SerializedData implementation
+summary: Implements SerializedData, serializing WebState metadata to protobuf and loading storage when the WebState transitions to the realized state.

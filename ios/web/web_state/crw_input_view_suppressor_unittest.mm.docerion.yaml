@@ -1,0 +1,4 @@
+# Docerion header of crw_input_view_suppressor_unittest.mm.
+type: test
+title: CRWInputViewSuppressor unit tests
+summary: Unit tests verifying that the suppressor returns empty input views, reloads the active first responder and restores assistant item groups.

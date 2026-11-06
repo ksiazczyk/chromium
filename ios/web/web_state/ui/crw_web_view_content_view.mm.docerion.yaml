@@ -1,0 +1,4 @@
+# Docerion header of crw_web_view_content_view.mm.
+type: source
+title: CRWWebViewContentView implementation
+summary: Implements the web view content view, including viewport inset validation, safe area adjustment, PDF inset handling, and fullscreen state updates.

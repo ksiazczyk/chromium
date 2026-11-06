@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Context menu element fetcher interface
+// summary: Declares CRWContextMenuElementFetcher, which asynchronously retrieves DOM element details at a point for context menu display.
+// ---
+
 #ifndef IOS_WEB_WEB_STATE_UI_CRW_CONTEXT_MENU_ELEMENT_FETCHER_H_
 #define IOS_WEB_WEB_STATE_UI_CRW_CONTEXT_MENU_ELEMENT_FETCHER_H_
 

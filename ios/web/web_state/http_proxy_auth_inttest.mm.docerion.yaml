@@ -1,0 +1,4 @@
+# Docerion header of http_proxy_auth_inttest.mm.
+type: test
+title: HTTP proxy authentication integration tests
+summary: Integration tests for WebStateDelegate::OnProxyAuthChallenge covering proxy authentication with dynamic route fetching enabled and disabled.

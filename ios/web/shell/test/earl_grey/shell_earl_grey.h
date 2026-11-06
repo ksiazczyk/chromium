@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shell Earl Grey test helper header
+// summary: Declares the ShellEarlGrey macro and ShellEarlGreyImpl helpers to load URLs and wait for web state text or UI elements to disappear.
+// ---
+
 #ifndef IOS_WEB_SHELL_TEST_EARL_GREY_SHELL_EARL_GREY_H_
 #define IOS_WEB_SHELL_TEST_EARL_GREY_SHELL_EARL_GREY_H_
 

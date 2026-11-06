@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UserInteractionState class interface
+// summary: Declares the UserInteractionState class that tracks user interactions with web content since page load, URL changes, and web view creation.
+// ---
+
 #ifndef IOS_WEB_WEB_STATE_USER_INTERACTION_STATE_H_
 #define IOS_WEB_WEB_STATE_USER_INTERACTION_STATE_H_
 

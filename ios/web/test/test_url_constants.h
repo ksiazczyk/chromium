@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test URL scheme constants declarations
+// summary: Declares the test URL scheme constants used for WebUI and app-specific URL scheme testing in iOS web.
+// ---
+
 #ifndef IOS_WEB_TEST_TEST_URL_CONSTANTS_H_
 #define IOS_WEB_TEST_TEST_URL_CONSTANTS_H_
 

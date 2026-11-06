@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeNavigationManagerDelegate header
+// summary: Declares FakeNavigationManagerDelegate, a mostly no-op NavigationManagerDelegate with setters to inject a test web view navigation proxy and WebState for navigation manager tests.
+// ---
+
 #ifndef IOS_WEB_TEST_FAKES_FAKE_NAVIGATION_MANAGER_DELEGATE_H_
 #define IOS_WEB_TEST_FAKES_FAKE_NAVIGATION_MANAGER_DELEGATE_H_
 

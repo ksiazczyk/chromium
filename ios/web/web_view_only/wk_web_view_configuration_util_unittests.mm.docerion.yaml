@@ -1,0 +1,4 @@
+# Docerion header of wk_web_view_configuration_util_unittests.mm.
+type: test
+title: Unit tests for the WKWebView configuration utility
+summary: Verifies that EnsureWebViewCreatedWithConfiguration creates a web view that adopts the supplied configuration, such as the minimum font size.

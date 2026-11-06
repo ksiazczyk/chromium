@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: ChromeWebView iOS framework build rules
+summary: GN build file defining the ChromeWebView framework bundle, umbrella header generation, source set, configs, and app-extension-safe toolchain handling.

@@ -1,0 +1,4 @@
+# Docerion header of shell_web_main_parts.mm.
+type: source
+title: ShellWebMainParts implementation
+summary: Implements shell main parts by creating the ShellBrowserState at startup and verifying display observers in debug builds.

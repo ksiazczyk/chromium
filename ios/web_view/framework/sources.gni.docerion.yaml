@@ -1,0 +1,4 @@
+# Docerion header of sources.gni.
+type: config
+title: ChromeWebView framework source lists
+summary: GN variables enumerating the public cwv headers and internal sources and deps used to build the ChromeWebView framework.

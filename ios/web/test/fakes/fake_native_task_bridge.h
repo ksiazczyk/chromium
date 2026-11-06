@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeNativeTaskBridge header
+// summary: Declares FakeNativeTaskBridge, a DownloadNativeTaskBridge subclass exposing download, progress, response and suggested filename properties for unit testing native download tasks.
+// ---
+
 #ifndef IOS_WEB_TEST_FAKES_FAKE_NATIVE_TASK_BRIDGE_H_
 #define IOS_WEB_TEST_FAKES_FAKE_NATIVE_TASK_BRIDGE_H_
 

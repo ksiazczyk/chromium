@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definitions for ios/web/util sources and unit tests
+summary: GN build file defining the util source set and the testonly unittests target for the ios/web/util directory.

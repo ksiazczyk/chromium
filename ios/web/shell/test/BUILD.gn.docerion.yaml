@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Web shell Earl Grey 2 test build targets
+summary: Defines GN build targets for the iOS web shell Earl Grey 2 tests, including app support, test support, and test module targets.

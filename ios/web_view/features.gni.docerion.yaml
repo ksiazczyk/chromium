@@ -1,0 +1,4 @@
+# Docerion header of features.gni.
+type: config
+title: WebView build feature arguments
+summary: Declares the ios_web_view_output_name build argument that controls the built framework's output name.

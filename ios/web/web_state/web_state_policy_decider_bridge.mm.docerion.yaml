@@ -1,0 +1,4 @@
+# Docerion header of web_state_policy_decider_bridge.mm.
+type: source
+title: WebStatePolicyDeciderBridge implementation
+summary: Bridges C++ WebStatePolicyDecider callbacks to the Objective-C CRWWebStatePolicyDecider protocol for request and response policy decisions.

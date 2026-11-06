@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShellURLRequestContextGetter class declaration
+// summary: Declares the shell's URLRequestContextGetter that provides the network task runner and URL request context.
+// ---
+
 #ifndef IOS_WEB_SHELL_SHELL_URL_REQUEST_CONTEXT_GETTER_H_
 #define IOS_WEB_SHELL_SHELL_URL_REQUEST_CONTEXT_GETTER_H_
 

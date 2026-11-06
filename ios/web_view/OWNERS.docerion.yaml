@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for ios/web_view
+summary: Lists the owners who must review changes to ios/web_view, with a per-file rule for BUILD.gn.

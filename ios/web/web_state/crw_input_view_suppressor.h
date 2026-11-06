@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CRWInputViewSuppressor interface
+// summary: Declares a helper that suppresses input views such as the software keyboard for an owning view until disconnected.
+// ---
+
 #ifndef IOS_WEB_WEB_STATE_CRW_INPUT_VIEW_SUPPRESSOR_H_
 #define IOS_WEB_WEB_STATE_CRW_INPUT_VIEW_SUPPRESSOR_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of user_interaction_state.mm.
+type: source
+title: UserInteractionState implementation
+summary: Implements UserInteractionState, using tap timing and scroll state to decide whether the user is currently interacting with the page.

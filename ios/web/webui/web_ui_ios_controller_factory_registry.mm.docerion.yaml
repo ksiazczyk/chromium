@@ -1,0 +1,4 @@
+# Docerion header of web_ui_ios_controller_factory_registry.mm.
+type: source
+title: WebUI controller factory registry implementation
+summary: Implements registration and deregistration of WebUI controller factories and dispatches controller creation and error code lookups across them.

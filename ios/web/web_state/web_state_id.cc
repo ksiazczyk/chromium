@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebStateID implementation
+// summary: Implements WebStateID helpers for creating unique identifiers and converting them to SessionID values.
+// ---
+
 #include "ios/web/public/web_state_id.h"
 
 #include <ostream>

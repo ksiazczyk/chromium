@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake WKNavigationAction header for tests
+// summary: Declares CRWFakeWKNavigationAction, a fake WKNavigationAction with readwrite source frame, target frame, navigation type, and request properties.
+// ---
+
 #ifndef IOS_WEB_TEST_FAKES_CRW_FAKE_WK_NAVIGATION_ACTION_H_
 #define IOS_WEB_TEST_FAKES_CRW_FAKE_WK_NAVIGATION_ACTION_H_
 

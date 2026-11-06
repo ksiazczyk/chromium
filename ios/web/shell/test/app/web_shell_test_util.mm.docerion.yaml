@@ -1,0 +1,4 @@
+# Docerion header of web_shell_test_util.mm.
+type: test
+title: Web shell test utility implementation
+summary: Finds the app's key UIWindow across connected scenes and returns the WebState exposed by the shell's root view controller.

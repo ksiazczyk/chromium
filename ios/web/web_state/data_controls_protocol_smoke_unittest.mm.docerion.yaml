@@ -1,0 +1,4 @@
+# Docerion header of data_controls_protocol_smoke_unittest.mm.
+type: test
+title: Data Controls protocol smoke test
+summary: Smoke test checking that the UIResponderStandardEditActions method count is unchanged so new data exfiltration vectors are noticed for Data Controls coverage.

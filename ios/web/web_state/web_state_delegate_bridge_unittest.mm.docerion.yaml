@@ -1,0 +1,4 @@
+# Docerion header of web_state_delegate_bridge_unittest.mm.
+type: test
+title: WebStateDelegateBridge unit tests
+summary: Unit tests verifying that WebStateDelegateBridge forwards web state delegate events to the Objective-C delegate correctly.

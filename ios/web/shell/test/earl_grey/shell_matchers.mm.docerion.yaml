@@ -1,0 +1,4 @@
+# Docerion header of shell_matchers.mm.
+type: test
+title: Web shell Earl Grey matcher implementations
+summary: Implements the shell matchers by delegating to the ShellMatchersAppInterface helper class.

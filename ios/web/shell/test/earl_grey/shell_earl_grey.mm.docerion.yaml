@@ -1,0 +1,4 @@
+# Docerion header of shell_earl_grey.mm.
+type: test
+title: Shell Earl Grey test helper implementation
+summary: Implements URL loading and wait helpers that poll conditions with GREYCondition and raise Earl Grey assertions on timeout.

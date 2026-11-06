@@ -1,0 +1,4 @@
+# Docerion header of web_ui_constants.mm.
+type: source
+title: WebUI constants definition
+summary: Defines the kWebUIResourcesHost constant with the value "resources" used for shared WebUI resource hosting.

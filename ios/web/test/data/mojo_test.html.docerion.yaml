@@ -1,0 +1,4 @@
+# Docerion header of mojo_test.html.
+type: test
+title: Mojo WebUI test page
+summary: HTML test page that loads Mojo bindings and scripts to exercise WebUI Mojo communication in iOS web tests.

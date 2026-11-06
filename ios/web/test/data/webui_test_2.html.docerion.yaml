@@ -1,0 +1,4 @@
+# Docerion header of webui_test_2.html.
+type: test
+title: Second WebUI test page
+summary: Minimal WebUI test page serving as the navigation target of the first WebUI test page.

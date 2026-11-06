@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for shell dependencies
+summary: Restricts the web shell to public ios/web API, common code, and its own headers through DEPS include rules.

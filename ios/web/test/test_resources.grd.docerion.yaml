@@ -1,0 +1,4 @@
+# Docerion header of test_resources.grd.
+type: config
+title: Grit resource list for iOS web test resources
+summary: Lists test HTML and JavaScript resources, including Mojo and WebUI test pages, that are packaged into a resource bundle for iOS web tests.

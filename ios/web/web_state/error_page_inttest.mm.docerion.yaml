@@ -1,0 +1,4 @@
+# Docerion header of error_page_inttest.mm.
+type: test
+title: Error page integration tests
+summary: Integration tests covering error page display for connection failures and for navigations cancelled or blocked by a WebStatePolicyDecider.

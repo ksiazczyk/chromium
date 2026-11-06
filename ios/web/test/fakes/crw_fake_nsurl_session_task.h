@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake NSURLSession task header for tests
+// summary: Declares CRWFakeNSURLSessionTask, a fake NSURLSessionDataTask whose cancel and resume only change the task state for testing.
+// ---
+
 #ifndef IOS_WEB_TEST_FAKES_CRW_FAKE_NSURL_SESSION_TASK_H_
 #define IOS_WEB_TEST_FAKES_CRW_FAKE_NSURL_SESSION_TASK_H_
 

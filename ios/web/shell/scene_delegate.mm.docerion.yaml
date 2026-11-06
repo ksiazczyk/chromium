@@ -1,0 +1,4 @@
+# Docerion header of scene_delegate.mm.
+type: source
+title: SceneDelegate implementation
+summary: Implements the SceneDelegate class, currently without any additional behavior.

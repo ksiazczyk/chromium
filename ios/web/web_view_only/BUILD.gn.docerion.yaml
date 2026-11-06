@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the web_view_only source set
+summary: Defines GN source_set targets for the WKWebView configuration utility and its unit tests, including dependencies and restricted visibility.

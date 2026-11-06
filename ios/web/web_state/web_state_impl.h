@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebStateImpl class declaration
+// summary: Declares WebStateImpl, the iOS implementation of WebState mirroring content's WebContents, with constructors for new, deserialized, cloned, and test-only states.
+// ---
+
 #ifndef IOS_WEB_WEB_STATE_WEB_STATE_IMPL_H_
 #define IOS_WEB_WEB_STATE_WEB_STATE_IMPL_H_
 

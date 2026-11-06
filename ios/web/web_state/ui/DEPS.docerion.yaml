@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for web state UI
+summary: Restricts includes in the web state UI directory to safe browsing and HTTPS-only mode feature headers.

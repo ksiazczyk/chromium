@@ -1,0 +1,4 @@
+# Docerion header of BaseScene.storyboard.
+type: asset
+title: Base scene storyboard for the shell app
+summary: Xcode storyboard providing the base scene and view controller used by the shell's scene startup flow for multi-window support.

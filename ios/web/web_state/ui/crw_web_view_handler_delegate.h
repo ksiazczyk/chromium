@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CRWWebViewHandlerDelegate protocol header
+// summary: Declares the delegate protocol supplying web state, document URL, user interaction state, navigation completion, SSL status and web view access to CRWWebViewHandler.
+// ---
+
 #ifndef IOS_WEB_WEB_STATE_UI_CRW_WEB_VIEW_HANDLER_DELEGATE_H_
 #define IOS_WEB_WEB_STATE_UI_CRW_WEB_VIEW_HANDLER_DELEGATE_H_
 

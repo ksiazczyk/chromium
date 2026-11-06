@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CRWWebViewContentView interface
+// summary: Declares CRWWebViewContentView, which wraps a web view in a content view with fullscreen state and viewport adjustment support.
+// ---
+
 #ifndef IOS_WEB_WEB_STATE_UI_CRW_WEB_VIEW_CONTENT_VIEW_H_
 #define IOS_WEB_WEB_STATE_UI_CRW_WEB_VIEW_CONTENT_VIEW_H_
 

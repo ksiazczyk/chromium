@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: iOS web shell GN build definition
+summary: Defines GN targets for the ios_web_shell app, including the app bundle, bundled resources, mojom interfaces, and the shell source set.

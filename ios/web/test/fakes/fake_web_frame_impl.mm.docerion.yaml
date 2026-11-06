@@ -1,0 +1,4 @@
+# Docerion header of fake_web_frame_impl.mm.
+type: test
+title: FakeWebFrameImpl implementation
+summary: Implements FakeWebFrameImpl with factory methods for main and child frames, JavaScript call history and configurable results for JavaScript function calls in tests.

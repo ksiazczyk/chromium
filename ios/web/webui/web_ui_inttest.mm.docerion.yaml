@@ -1,0 +1,4 @@
+# Docerion header of web_ui_inttest.mm.
+type: test
+title: WebUI integration test
+summary: Integration test that registers a test WebUI controller factory, loads test WebUI pages, and verifies page content and interaction.

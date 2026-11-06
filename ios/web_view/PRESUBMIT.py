@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: script
+# title: Presubmit checks for ios/web_view
+# summary: Presubmit script enforcing relative-path includes in public headers and running shared iOS lint checks on changes.
+# ---
+
 """Presubmit script for ios/web_view.
 
 See http://dev.chromium.org/developers/how-tos/depottools/presubmit-scripts

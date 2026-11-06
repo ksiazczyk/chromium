@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WKSecurityOrigin conversion declarations
+// summary: Declares converters from WKSecurityOrigin to GURL and url::Origin, returning empty values for nil input.
+// ---
+
 #ifndef IOS_WEB_UTIL_WK_SECURITY_ORIGIN_UTIL_H_
 #define IOS_WEB_UTIL_WK_SECURITY_ORIGIN_UTIL_H_
 

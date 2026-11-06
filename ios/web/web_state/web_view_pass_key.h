@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web view pass key
+// summary: Defines a pass key type that restricts access to a WebState's raw WKWebView to CobaltViewProvider, discouraging direct modification of global web view configuration.
+// ---
+
 #ifndef IOS_WEB_WEB_STATE_WEB_VIEW_PASS_KEY_H_
 #define IOS_WEB_WEB_STATE_WEB_VIEW_PASS_KEY_H_
 

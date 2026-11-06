@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CRWWKUIHandler delegate protocol
+// summary: Delegate protocol for CRWWKUIHandler covering web view creation and user-initiated action checks.
+// ---
+
 #ifndef IOS_WEB_WEB_STATE_UI_CRW_WK_UI_HANDLER_DELEGATE_H_
 #define IOS_WEB_WEB_STATE_UI_CRW_WK_UI_HANDLER_DELEGATE_H_
 

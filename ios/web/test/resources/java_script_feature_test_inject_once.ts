@@ -7,6 +7,12 @@
  * will be executed once for a given `window` JS object.
  */
 
+// ---docerion
+// type: test
+// title: JavaScriptFeature test script injected once per window
+// summary: TypeScript test resource that registers helper functions and properties used by JavaScriptFeature integration tests and is executed once for a given window.
+// ---
+
 import {CrWebApi, gCrWeb} from '//ios/web/public/js_messaging/resources/gcrweb.js';
 import {sendWebKitMessage, sendWebKitMessageWithReply} from '//ios/web/public/js_messaging/resources/utils.js';
 

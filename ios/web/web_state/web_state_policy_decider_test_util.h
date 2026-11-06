@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebState policy decider test matchers
+// summary: Declares helper functions that compare RequestInfo and ResponseInfo objects for use in Google Mock matchers within policy decider tests.
+// ---
+
 #ifndef IOS_WEB_WEB_STATE_WEB_STATE_POLICY_DECIDER_TEST_UTIL_H_
 #define IOS_WEB_WEB_STATE_WEB_STATE_POLICY_DECIDER_TEST_UTIL_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of url_data_source_ios.mm.
+type: source
+title: URL data source defaults
+summary: Implements default URLDataSourceIOS behaviors such as caching, CSP object-src, and X-Frame-Options denial.

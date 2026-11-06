@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeJavaScriptFeature header
+// summary: Declares FakeJavaScriptFeature, a test JavaScriptFeature that injects scripts, replaces div contents, posts messages and records received script messages for iOS web tests.
+// ---
+
 #ifndef IOS_WEB_TEST_FAKES_FAKE_JAVA_SCRIPT_FEATURE_H_
 #define IOS_WEB_TEST_FAKES_FAKE_JAVA_SCRIPT_FEATURE_H_
 

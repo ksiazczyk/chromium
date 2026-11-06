@@ -1,0 +1,4 @@
+# Docerion header of testbadpass.pkpass.
+type: test
+title: Invalid pass file fixture
+summary: Deliberately malformed pkpass fixture that is not a zip file, used to test error handling for bad pass data.

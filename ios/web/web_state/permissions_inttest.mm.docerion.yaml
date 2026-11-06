@@ -1,0 +1,4 @@
+# Docerion header of permissions_inttest.mm.
+type: test
+title: Permissions handling integration tests
+summary: Integration tests for web state permission requests, delegate handling, observer notifications and permission state changes.

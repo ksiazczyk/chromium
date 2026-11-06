@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: JavaScriptFeature test script reinjected on document changes
+// summary: TypeScript test resource that counts window error events for JavaScriptFeature integration tests and is reinjected when the document JS object is modified.
+// ---
+
 import {gCrWeb} from '//ios/web/public/js_messaging/resources/gcrweb.js';
 
 /**

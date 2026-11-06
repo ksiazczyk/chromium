@@ -1,0 +1,4 @@
+# Docerion header of web_test_with_web_state_impl.mm.
+type: test
+title: WebTestWithWebStateImpl fixture implementation
+summary: Implements the constructors of WebTestWithWebStateImpl, forwarding web client and main thread type options to the base WebTest fixture.

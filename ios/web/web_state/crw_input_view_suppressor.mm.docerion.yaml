@@ -1,0 +1,4 @@
+# Docerion header of crw_input_view_suppressor.mm.
+type: source
+title: CRWInputViewSuppressor implementation
+summary: Implements input view suppression, hiding the software keyboard and input assistant bar button groups for the active first responder.

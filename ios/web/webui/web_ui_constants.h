@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI constants header
+// summary: Declares kWebUIResourcesHost, the host name that provides shared resources to WebUI pages.
+// ---
+
 #ifndef IOS_WEB_WEBUI_WEB_UI_CONSTANTS_H_
 #define IOS_WEB_WEBUI_WEB_UI_CONSTANTS_H_
 

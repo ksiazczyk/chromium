@@ -1,0 +1,4 @@
+# Docerion header of page_state_egtest.mm.
+type: test
+title: Web shell page state Earl Grey tests
+summary: Earl Grey 2 tests verifying web shell page state, including restoring scroll positions when navigating back and forward.

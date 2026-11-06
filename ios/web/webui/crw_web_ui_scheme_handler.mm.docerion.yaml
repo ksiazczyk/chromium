@@ -1,0 +1,4 @@
+# Docerion header of crw_web_ui_scheme_handler.mm.
+type: source
+title: CRWWebUISchemeHandler implementation
+summary: Implements WKURLSchemeTask handling for WebUI URLs, including permission checks and loading responses via the URL loader factory.

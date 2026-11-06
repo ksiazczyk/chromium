@@ -1,0 +1,4 @@
+# Docerion header of crw_web_view_proxy_impl.mm.
+type: source
+title: CRWWebViewProxyImpl implementation
+summary: Implements the web view proxy, forwarding scroll view, content inset, gesture and link preview properties to the web controller and content view.

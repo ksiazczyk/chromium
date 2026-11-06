@@ -1,0 +1,4 @@
+# Docerion header of http_auth_inttest.mm.
+type: test
+title: HTTP authentication integration tests
+summary: Integration tests for WebStateDelegate::OnAuthRequired covering successful and unsuccessful basic HTTP authentication flows.

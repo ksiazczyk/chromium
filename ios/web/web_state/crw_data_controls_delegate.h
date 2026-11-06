@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CRWDataControlsDelegate protocol
+// summary: Declares a protocol that lets a delegate decide whether copy, paste and cut actions are allowed in the web view.
+// ---
+
 #ifndef IOS_WEB_WEB_STATE_CRW_DATA_CONTROLS_DELEGATE_H_
 #define IOS_WEB_WEB_STATE_CRW_DATA_CONTROLS_DELEGATE_H_
 

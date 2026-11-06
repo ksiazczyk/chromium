@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MojoFacade interface
+// summary: Declares the MojoFacade class that exchanges JSON-formatted Mojo messages between WebUI pages and native code.
+// ---
+
 #ifndef IOS_WEB_WEBUI_MOJO_FACADE_H_
 #define IOS_WEB_WEBUI_MOJO_FACADE_H_
 

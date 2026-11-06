@@ -1,0 +1,4 @@
+# Docerion header of web_state_policy_decider.mm.
+type: source
+title: WebStatePolicyDecider implementation
+summary: Implements the PolicyDecision factories and the WebStatePolicyDecider base class that registers with a WebState to decide whether requests and responses are allowed.

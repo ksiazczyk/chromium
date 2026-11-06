@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake web view navigation proxy header for tests
+// summary: Declares CRWFakeWebViewNavigationProxy, a test stand-in for the CRWWebViewNavigationProxy protocol with configurable URL and history.
+// ---
+
 #ifndef IOS_WEB_TEST_FAKES_CRW_FAKE_WEB_VIEW_NAVIGATION_PROXY_H_
 #define IOS_WEB_TEST_FAKES_CRW_FAKE_WEB_VIEW_NAVIGATION_PROXY_H_
 

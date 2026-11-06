@@ -1,0 +1,4 @@
+# Docerion header of web_state_impl_inttest.mm.
+type: test
+title: WebStateImpl integration tests
+summary: Integration tests for WebStateImpl, including a regression test verifying navigation does not crash when web usage is disabled.

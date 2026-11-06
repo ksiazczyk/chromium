@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for iOS web test fakes
+summary: GN build file defining the testonly fakes source set with its source files and dependencies for iOS web testing.

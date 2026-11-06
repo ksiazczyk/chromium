@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Error translation utility declarations
+// summary: Declares functions that translate iOS CFNetwork error codes and NSError objects into Chromium net error codes.
+// ---
+
 #ifndef IOS_WEB_UTIL_ERROR_TRANSLATION_UTIL_H_
 #define IOS_WEB_UTIL_ERROR_TRANSLATION_UTIL_H_
 
