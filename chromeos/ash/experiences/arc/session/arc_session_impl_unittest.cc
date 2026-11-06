@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ARC session implementation unit tests
+// summary: Unit tests for ArcSessionImpl that use a fake ArcClientAdapter without D-Bus calls to exercise session state transitions and start, upgrade, and stop behavior.
+// ---
+
 #include "chromeos/ash/experiences/arc/session/arc_session_impl.h"
 
 #include <fcntl.h>

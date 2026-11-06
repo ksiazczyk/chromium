@@ -1,0 +1,4 @@
+# Docerion header of video_common.mojom.
+type: source
+title: Common video Mojo definitions (video_common.mojom)
+summary: Defines shared video enums and structs such as codec profiles, HAL and pixel formats, and frame plane layouts used by ARC video interfaces.

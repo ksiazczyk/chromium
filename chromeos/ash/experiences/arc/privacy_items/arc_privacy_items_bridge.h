@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcPrivacyItemsBridge class declaration
+// summary: Declares the ArcPrivacyItemsBridge keyed service with its observer interface and privacy items host methods.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_PRIVACY_ITEMS_ARC_PRIVACY_ITEMS_BRIDGE_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_PRIVACY_ITEMS_ARC_PRIVACY_ITEMS_BRIDGE_H_
 

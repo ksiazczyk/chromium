@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the ARC power directory
+summary: Defines the allowed include dependencies for the ARC power directory via Chromium DEPS include rules.

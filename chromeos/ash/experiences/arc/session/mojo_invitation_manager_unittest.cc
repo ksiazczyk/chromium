@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for MojoInvitationManager proxy launching
+// summary: Tests that the invitation manager launches a Mojo Proxy process successfully using a multiprocess test with a fake proxy executable.
+// ---
+
 #include "chromeos/ash/experiences/arc/session/mojo_invitation_manager.h"
 
 #include "base/command_line.h"

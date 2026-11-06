@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Arc overlay controller implementation unit tests
+// summary: Tests that the overlay stacks on top of the host window and exposes the expected accessibility properties.
+// ---
+
 #include "chromeos/ash/experiences/arc/overlay/arc_overlay_controller_impl.h"
 
 #include "ash/test/ash_test_base.h"

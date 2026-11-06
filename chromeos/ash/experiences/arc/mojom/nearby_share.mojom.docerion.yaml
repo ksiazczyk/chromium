@@ -1,0 +1,4 @@
+# Docerion header of nearby_share.mojom.
+type: source
+title: ARC Nearby Share Mojo interface
+summary: Defines the Mojo interface that lets Android apps on ChromeOS share text and files to Nearby Share targets through Chrome's NearbyShare view.

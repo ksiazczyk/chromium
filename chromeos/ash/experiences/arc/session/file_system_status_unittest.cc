@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FileSystemStatus unit tests
+// summary: Unit tests for the ext4 magic number detection in FileSystemStatus, covering missing files, undersized files and matching or mismatching magic signatures.
+// ---
+
 #include "chromeos/ash/experiences/arc/session/file_system_status.h"
 
 #include <string.h>

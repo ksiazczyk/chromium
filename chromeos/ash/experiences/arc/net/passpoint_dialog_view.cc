@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Passpoint dialog view implementation
+// summary: Implements the confirmation dialog that lets users allow or deny an Android app from provisioning Passpoint credentials, showing subscription expiry details.
+// ---
+
 #include "chromeos/ash/experiences/arc/net/passpoint_dialog_view.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video encode accelerator Mojo traits implementation
+// summary: Implements Mojo enum, struct and union traits that convert media::VideoEncodeAccelerator configuration and bitrate types to and from their arc::mojom counterparts.
+// ---
+
 #include "chromeos/ash/experiences/arc/mojom/video_encode_accelerator_mojom_traits.h"
 
 #include <optional>

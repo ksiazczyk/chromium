@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC network utilities header
+// summary: Declares helper functions that translate Chrome OS network states, shill properties and patchpanel devices into ARC mojo network configurations and scan results.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_NET_ARC_NET_UTILS_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_NET_ARC_NET_UTILS_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of keymint.mojom.
+type: source
+title: ARC KeyMint Mojo interface
+summary: Defines the Mojo interface between Android and Chrome OS for the keymint implementation used in ARC, equivalent to the KeyMint AIDL interface.

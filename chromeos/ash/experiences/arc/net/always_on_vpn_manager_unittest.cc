@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Always-on VPN manager unit tests
+// summary: Unit tests verifying how always-on VPN package and lockdown preferences update Shill properties.
+// ---
+
 #include "chromeos/ash/experiences/arc/net/always_on_vpn_manager.h"
 
 #include <string_view>

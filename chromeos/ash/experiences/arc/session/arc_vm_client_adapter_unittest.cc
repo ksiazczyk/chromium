@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ARC VM client adapter unit tests
+// summary: Extensive unit tests for the ARCVM client adapter covering VM start, upgrade and stop flows using fake D-Bus clients and test helpers.
+// ---
+
 #include "chromeos/ash/experiences/arc/session/arc_vm_client_adapter.h"
 
 #include <inttypes.h>

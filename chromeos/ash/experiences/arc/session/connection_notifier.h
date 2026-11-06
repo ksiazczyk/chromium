@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ConnectionNotifier class declaration
+// summary: Declares ConnectionNotifier, an internal helper used by ConnectionHolder to manage an observer list and notify observers of connection ready and closed events.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_SESSION_CONNECTION_NOTIFIER_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_SESSION_CONNECTION_NOTIFIER_H_
 

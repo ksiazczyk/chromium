@@ -1,0 +1,4 @@
+# Docerion header of error_notification.mojom.
+type: source
+title: ARC error notification Mojo interfaces
+summary: Mojo interfaces for showing and managing Chrome error notifications for ARC app crashes and ANRs, including user interaction callbacks.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Passpoint dialog view header
+// summary: Declares PasspointDialogView, a dialog for user approval of Passpoint credential installation by an app, with a test API for internal views.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_NET_PASSPOINT_DIALOG_VIEW_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_NET_PASSPOINT_DIALOG_VIEW_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Connection observer interfaces
+// summary: Declares ConnectionObserverBase and the type-safe ConnectionObserver template for listening to ARC connection ready and closed events.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_SESSION_CONNECTION_OBSERVER_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_SESSION_CONNECTION_OBSERVER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MojoChannel wrapper for ARC mojo instances
+// summary: Declares MojoChannelBase and MojoChannel, thin type-erased wrappers around mojo Remote that register instances with a ConnectionHolder once the version is ready.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_SESSION_MOJO_CHANNEL_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_SESSION_MOJO_CHANNEL_H_
 

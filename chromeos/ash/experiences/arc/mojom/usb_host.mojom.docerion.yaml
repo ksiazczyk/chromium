@@ -1,0 +1,4 @@
+# Docerion header of usb_host.mojom.
+type: source
+title: USB host Mojo interface (usb_host.mojom)
+summary: Defines the Mojo interface for Android apps to open USB device nodes, query device descriptors and request user access permission.

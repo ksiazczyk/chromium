@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Arc data remover interface
+// summary: Declares ArcDataRemover, which schedules and runs removal of ARC user data while the ARC instance is stopped.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_SESSION_ARC_DATA_REMOVER_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_SESSION_ARC_DATA_REMOVER_H_
 

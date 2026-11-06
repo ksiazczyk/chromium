@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcSafetyBridge class declaration
+// summary: Declares the ArcSafetyBridge keyed service that implements the OnDeviceSafety Mojo host interface, with accessors for browser contexts and a testing variant.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_SAFETY_ARC_SAFETY_BRIDGE_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_SAFETY_ARC_SAFETY_BRIDGE_H_
 

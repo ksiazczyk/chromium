@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ArcPowerBridge unit tests
+// summary: Unit tests for ArcPowerBridge covering wake lock handling, wakefulness and brightness updates, and power instance lifecycle with fake clients.
+// ---
+
 #include "chromeos/ash/experiences/arc/power/arc_power_bridge.h"
 
 #include <utility>

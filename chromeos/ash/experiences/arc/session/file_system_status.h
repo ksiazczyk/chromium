@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FileSystemStatus class declaration
+// summary: Declares the move-only FileSystemStatus class holding host file system state for ArcVmClientAdapter's internal use, with setters for testing.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_SESSION_FILE_SYSTEM_STATUS_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_SESSION_FILE_SYSTEM_STATUS_H_
 

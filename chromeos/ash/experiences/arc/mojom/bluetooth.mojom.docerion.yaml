@@ -1,0 +1,4 @@
+# Docerion header of bluetooth.mojom.
+type: source
+title: ARC Bluetooth Mojo interface
+summary: Defines Mojo interfaces, structs and enums for Bluetooth adapter, device, property and GATT communication between Chrome OS and ARC.

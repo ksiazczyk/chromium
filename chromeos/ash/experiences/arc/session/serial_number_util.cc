@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC fake serial number generation implementation
+// summary: Implements generation of fake Android serial numbers from the ChromeOS user and a salt, including salt creation, storage in local state, and reading the salt from disk.
+// ---
+
 #include "chromeos/ash/experiences/arc/session/serial_number_util.h"
 
 #include <string_view>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake ARC overlay controller class declaration
+// summary: Declares FakeArcOverlayControllerImpl, a test fake of ArcOverlayController that accepts a host window.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_OVERLAY_TEST_FAKE_ARC_OVERLAY_CONTROLLER_IMPL_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_OVERLAY_TEST_FAKE_ARC_OVERLAY_CONTROLLER_IMPL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcServiceManager implementation
+// summary: Implements the global ArcServiceManager singleton that owns the ArcBridgeService and provides thread-checked access to it.
+// ---
+
 #include "chromeos/ash/experiences/arc/session/arc_service_manager.h"
 
 #include "base/check_op.h"

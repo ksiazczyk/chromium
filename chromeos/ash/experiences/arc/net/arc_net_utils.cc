@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC network utilities
+// summary: Provides helpers that convert Chrome OS network state into ARC Mojo network configuration objects.
+// ---
+
 #include "chromeos/ash/experiences/arc/net/arc_net_utils.h"
 
 #include <netinet/in.h>

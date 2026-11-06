@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcServiceManager class declaration
+// summary: Declares ArcServiceManager, which holds ARC global information such as the allowed BrowserContext and AccountId and owns the ArcBridgeService.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_SESSION_ARC_SERVICE_MANAGER_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_SESSION_ARC_SERVICE_MANAGER_H_
 

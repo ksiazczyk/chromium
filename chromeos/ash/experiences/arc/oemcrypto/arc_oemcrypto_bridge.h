@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcOemCryptoBridge class declaration
+// summary: Declares the ArcOemCryptoBridge keyed service that hosts the OemCrypto Mojo interface for ARC browser contexts.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_OEMCRYPTO_ARC_OEMCRYPTO_BRIDGE_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_OEMCRYPTO_ARC_OEMCRYPTO_BRIDGE_H_
 

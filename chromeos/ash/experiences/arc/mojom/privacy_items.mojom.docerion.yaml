@@ -1,0 +1,4 @@
+# Docerion header of privacy_items.mojom.
+type: source
+title: ARC privacy items Mojo interface
+summary: Defines Mojo interfaces for Android to notify Chrome about app access to privacy-indicator resources such as microphone, camera and location.

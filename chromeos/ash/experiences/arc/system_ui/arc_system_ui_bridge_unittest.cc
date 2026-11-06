@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the ARC system UI bridge
+// summary: Tests ArcSystemUIBridge behavior using a fake color palette controller and a fake system UI instance, verifying theme state and overlay color messaging including error logging.
+// ---
+
 #include "chromeos/ash/experiences/arc/system_ui/arc_system_ui_bridge.h"
 
 #include <memory>

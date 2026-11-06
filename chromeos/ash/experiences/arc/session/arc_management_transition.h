@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcManagementTransition enum definition
+// summary: Defines the ArcManagementTransition enum for ARC management state changes, kept in sync with the corresponding protobuf definition.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_SESSION_ARC_MANAGEMENT_TRANSITION_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_SESSION_ARC_MANAGEMENT_TRANSITION_H_
 

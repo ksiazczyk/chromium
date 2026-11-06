@@ -1,0 +1,4 @@
+# Docerion header of arc_bridge_policy.jsonc.
+type: config
+title: ARC bridge mojo service manager policy
+summary: Policy file granting the ChromiumArcBridgeHost service to the chronos user and the ARC VM server proxy identity.

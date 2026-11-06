@@ -1,0 +1,4 @@
+# Docerion header of chrome_feature_flags.mojom.
+type: source
+title: Chrome feature flags Mojo interface for ARC
+summary: Mojo interface that propagates Chrome feature flag states, such as touchscreen emulation and rounded window compat, to ARC++.

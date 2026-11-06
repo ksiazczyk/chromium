@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Arc overlay controller implementation header
+// summary: Declares ArcOverlayControllerImpl, which maintains an exo shell surface as an overlay on top of an Aura window.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_OVERLAY_ARC_OVERLAY_CONTROLLER_IMPL_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_OVERLAY_ARC_OVERLAY_CONTROLLER_IMPL_H_
 

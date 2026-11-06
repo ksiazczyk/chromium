@@ -1,0 +1,4 @@
+# Docerion header of tts.mojom.
+type: source
+title: TTS Mojo interface (tts.mojom)
+summary: Defines the Mojo interface for exchanging text-to-speech utterances, voices and events between Chrome and Android in ARC.

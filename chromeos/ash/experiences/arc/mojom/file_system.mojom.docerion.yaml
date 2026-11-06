@@ -1,0 +1,4 @@
+# Docerion header of file_system.mojom.
+type: source
+title: ARC file system Mojo interface
+summary: Defines Mojo structs and interfaces for accessing Android DocumentsProvider documents, roots, and file system operations from Chrome OS ARC.

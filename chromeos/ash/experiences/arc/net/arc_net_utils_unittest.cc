@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ARC network utilities unit tests
+// summary: Unit tests verifying translation of network states, devices and scan results into ARC mojo configurations in the ARC net utilities.
+// ---
+
 #include "chromeos/ash/experiences/arc/net/arc_net_utils.h"
 
 #include <memory>

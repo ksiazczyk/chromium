@@ -1,0 +1,4 @@
+# Docerion header of audio.mojom.
+type: source
+title: ARC audio Mojo interface
+summary: Defines Mojo interfaces and enums for audio volume, mute, spatial audio, device types and switch state notifications between Chrome OS and ARC.

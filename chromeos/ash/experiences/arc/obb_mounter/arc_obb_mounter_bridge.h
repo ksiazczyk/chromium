@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Arc OBB mounter bridge header
+// summary: Declares ArcObbMounterBridge, the ObbMounterHost keyed service that handles OBB mount and unmount requests from Android via the ARC bridge service.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_OBB_MOUNTER_ARC_OBB_MOUNTER_BRIDGE_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_OBB_MOUNTER_ARC_OBB_MOUNTER_BRIDGE_H_
 

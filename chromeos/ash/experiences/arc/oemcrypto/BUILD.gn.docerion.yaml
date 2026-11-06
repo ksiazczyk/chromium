@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for the oemcrypto static library
+summary: Defines the oemcrypto static library target with its source files and ChromeOS dependencies.

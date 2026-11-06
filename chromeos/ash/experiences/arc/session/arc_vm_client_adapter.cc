@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC VM client adapter implementation
+// summary: Implements the ARCVM client adapter that starts, stops and upgrades the ARC virtual machine via concierge, session manager and related D-Bus services.
+// ---
+
 #include "chromeos/ash/experiences/arc/session/arc_vm_client_adapter.h"
 
 #include <inttypes.h>

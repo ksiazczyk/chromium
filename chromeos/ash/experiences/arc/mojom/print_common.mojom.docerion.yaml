@@ -1,0 +1,4 @@
+# Docerion header of print_common.mojom.
+type: source
+title: ARC printing common Mojo types
+summary: Defines shared Mojo structs and enums mirroring Android printing types such as print attributes, page ranges and printer info.

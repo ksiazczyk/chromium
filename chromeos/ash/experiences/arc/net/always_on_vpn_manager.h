@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Always-on VPN manager class declaration
+// summary: Declares AlwaysOnVpnManager, which watches VPN preferences and configures Shill lockdown mode.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_NET_ALWAYS_ON_VPN_MANAGER_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_NET_ALWAYS_ON_VPN_MANAGER_H_
 

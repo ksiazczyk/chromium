@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcSession interface declaration
+// summary: Declares the ArcSession interface that starts the ARC instance, bootstraps the bridge connection, and notifies observers of session events.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_SESSION_ARC_SESSION_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_SESSION_ARC_SESSION_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of arc_wifi.mojom.
+type: source
+title: ARC WiFi Mojo interface
+summary: Defines Mojo interfaces for WiFi control between Chrome OS and ARC, covering enable state, scanning and scan results.

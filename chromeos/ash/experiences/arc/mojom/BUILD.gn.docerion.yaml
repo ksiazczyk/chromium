@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for ARC Mojo interfaces
+summary: GN build file listing the ARC .mojom sources and defining mojom targets, typemaps and public dependencies for generating bindings.

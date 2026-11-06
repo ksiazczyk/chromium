@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MojoInitData implementation
+// summary: Implements MojoInitData, building the protocol version, random token and interface version list sent at the beginning of the ARC mojo connection.
+// ---
+
 #include "chromeos/ash/experiences/arc/session/mojo_init_data.h"
 
 #include <fcntl.h>

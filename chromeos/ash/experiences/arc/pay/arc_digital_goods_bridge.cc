@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC digital goods bridge implementation
+// summary: Implements the ArcDigitalGoodsBridge keyed service that forwards digital goods calls such as GetDetails, Acknowledge and ListPurchases to the ARC container.
+// ---
+
 #include "chromeos/ash/experiences/arc/pay/arc_digital_goods_bridge.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Arc overlay controller interface
+// summary: Declares the ArcOverlayController interface for attaching an overlay window to a host window.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_OVERLAY_ARC_OVERLAY_CONTROLLER_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_OVERLAY_ARC_OVERLAY_CONTROLLER_H_
 

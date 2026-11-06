@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC digital goods bridge header
+// summary: Declares the ArcDigitalGoodsBridge keyed service for querying a TWA's digital goods, including details, purchases, acknowledge and consume operations.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_PAY_ARC_DIGITAL_GOODS_BRIDGE_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_PAY_ARC_DIGITAL_GOODS_BRIDGE_H_
 

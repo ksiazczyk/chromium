@@ -1,0 +1,4 @@
+# Docerion header of kiosk.mojom.
+type: source
+title: ARC Kiosk Mojo interface
+summary: Defines Mojo interfaces for notifying Chrome when kiosk maintenance sessions are created and finished in ARC.

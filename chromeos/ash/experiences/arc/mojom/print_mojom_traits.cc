@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: print_mojom_traits.cc
+// summary: Implements Mojo StructTraits converting Chrome printing capabilities and defaults into ARC print Mojo types.
+// ---
+
 #include "chromeos/ash/experiences/arc/mojom/print_mojom_traits.h"
 
 #include "base/strings/stringprintf.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ADB sideloading availability delegate interface
+// summary: Declares an abstract delegate that ArcSessionManager uses to query whether ADB sideloading can be changed.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_SESSION_ADB_SIDELOADING_AVAILABILITY_DELEGATE_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_SESSION_ADB_SIDELOADING_AVAILABILITY_DELEGATE_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of pip.mojom.
+type: source
+title: ARC picture-in-picture Mojo interface
+summary: Defines Mojo interfaces for coordinating picture-in-picture window events between Android and Chrome.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Arc overlay manager implementation
+// summary: Implements the singleton manager that registers host windows and attaches overlay windows matched by billing ID token.
+// ---
+
 #include "chromeos/ash/experiences/arc/overlay/arc_overlay_manager.h"
 
 #include "ash/public/cpp/app_types_util.h"

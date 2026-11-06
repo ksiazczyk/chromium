@@ -1,0 +1,4 @@
+# Docerion header of memory.mojom.
+type: source
+title: ARC Memory Mojo interface
+summary: Defines the Mojo interface for memory management, letting Chrome drop guest caches and request memory reclaim from ARC processes.

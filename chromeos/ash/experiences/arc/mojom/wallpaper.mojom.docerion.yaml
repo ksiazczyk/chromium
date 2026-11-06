@@ -1,0 +1,4 @@
+# Docerion header of wallpaper.mojom.
+type: source
+title: Wallpaper Mojo interface
+summary: Defines the WallpaperHost and WallpaperInstance interfaces for getting, setting and resetting the ChromeOS wallpaper from ARC.

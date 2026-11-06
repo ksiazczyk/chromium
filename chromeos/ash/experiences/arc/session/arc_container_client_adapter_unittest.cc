@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Arc container client adapter unit tests
+// summary: Unit tests for the container client adapter covering ARC instance stop notifications and nested instance handling with a fake session manager.
+// ---
+
 #include "chromeos/ash/experiences/arc/session/arc_container_client_adapter.h"
 
 #include <memory>

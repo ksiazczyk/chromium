@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for MojoInitData bootstrap data encoding
+// summary: Verifies that MojoInitData produces the correct iovec layout for protocol versions 0 and 1 of the ARC Mojo handshake, including sorted interface versions.
+// ---
+
 #include "chromeos/ash/experiences/arc/session/mojo_init_data.h"
 
 #include <string.h>

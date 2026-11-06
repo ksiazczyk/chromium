@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IME Mojo traits header
+// summary: Declares Mojo enum and struct traits mapping ui::TextInputType and ui::KeyEvent to their arc.mojom counterparts for serialization.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_MOJOM_IME_MOJOM_TRAITS_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_MOJOM_IME_MOJOM_TRAITS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcInstanceMode stream output implementation
+// summary: Implements ostream operators that stringify ArcInstanceMode values for logging, returning an empty string for invalid enum values.
+// ---
+
 #include "chromeos/ash/experiences/arc/session/arc_instance_mode.h"
 
 #include <string>

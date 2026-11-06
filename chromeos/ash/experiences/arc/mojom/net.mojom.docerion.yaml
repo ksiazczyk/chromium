@@ -1,0 +1,4 @@
+# Docerion header of net.mojom.
+type: source
+title: ARC Networking Mojo interface
+summary: Defines the Mojo interface between the ARC networking stack and Chrome OS, covering WiFi scanning, IP network configuration and VPN integration.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video accelerator Mojo traits header
+// summary: Declares Mojo EnumTraits and StructTraits for video codec profiles, frame planes, sizes, color plane layouts and video frame layouts.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_MOJOM_VIDEO_ACCELERATOR_MOJOM_TRAITS_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_MOJOM_VIDEO_ACCELERATOR_MOJOM_TRAITS_H_
 

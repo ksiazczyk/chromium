@@ -1,0 +1,4 @@
+# Docerion header of video_decoder.mojom.
+type: source
+title: Video decoder Mojo interface (video_decoder.mojom)
+summary: Defines the VideoDecoder Mojo service modeled on media::VideoDecoder that replaces the deprecated VideoDecodeAccelerator for ARCVM.

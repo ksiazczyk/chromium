@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IME Mojo traits unit tests
+// summary: Unit tests verifying that key events survive Mojo serialization and deserialization, including scan code handling and modifier flags.
+// ---
+
 #include <linux/input.h>
 
 #include "chromeos/ash/experiences/arc/mojom/ime.mojom.h"

@@ -1,0 +1,4 @@
+# Docerion header of arc_bridge.mojom.
+type: source
+title: ARC bridge Mojo interface
+summary: Central Mojo interface file that imports all ARC service interfaces and defines the ArcBridgeHost connection between Chrome and the ARC container.

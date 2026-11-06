@@ -1,0 +1,4 @@
+# Docerion header of crash_collector.mojom.
+type: source
+title: ARC crash collector Mojo interface
+summary: Mojo interface for the ARC crash collector host to receive non-native, native, and kernel crash dumps from the guest.

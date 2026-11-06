@@ -1,0 +1,4 @@
+# Docerion header of print_spooler.mojom.
+type: source
+title: ARC print spooler Mojo interface
+summary: Defines Mojo interfaces for printing from ARC apps through Chrome print preview and ARC Custom Tab print sessions.

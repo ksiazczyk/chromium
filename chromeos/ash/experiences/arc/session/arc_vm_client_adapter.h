@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC VM client adapter
+// summary: Declares the ARCVM client adapter factory functions, binary translation types, VM memory size constants and testing hooks.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_SESSION_ARC_VM_CLIENT_ADAPTER_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_SESSION_ARC_VM_CLIENT_ADAPTER_H_
 

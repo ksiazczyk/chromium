@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ARC bridge host unit tests
+// summary: Tests that ArcBridgeHostImpl creates and tears down mojo channels as ARC instances become ready and disconnect.
+// ---
+
 #include "chromeos/ash/experiences/arc/session/arc_bridge_host_impl.h"
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the ARC system UI directory
+summary: Defines the allowed include rules for the ARC system UI directory, permitting ash/shell.h and ash/shell_observer.h.

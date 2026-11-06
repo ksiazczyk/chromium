@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo connection holder
+// summary: Template class managing full-duplex Mojo connections between ARC instance and host, notifying observers when instances or hosts change.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_SESSION_CONNECTION_HOLDER_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_SESSION_CONNECTION_HOLDER_H_
 

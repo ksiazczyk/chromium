@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC gfx Mojo traits implementation
+// summary: Implements Mojo StructTraits that deserialize arc.mojom Rect and Range messages into gfx::Rect and gfx::Range with validation.
+// ---
+
 #include "chromeos/ash/experiences/arc/mojom/arc_gfx_mojom_traits.h"
 
 namespace mojo {

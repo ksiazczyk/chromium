@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: ARC session build targets
+summary: GN build file defining the ARC session static library with its sources and dependencies, plus helper targets and the unit test set.

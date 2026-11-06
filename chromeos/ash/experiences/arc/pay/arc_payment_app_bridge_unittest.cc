@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ARC payment app bridge unit tests
+// summary: Unit tests for ArcPaymentAppBridge covering IsPaymentImplemented, IsReadyToPay, InvokePaymentApp and AbortPaymentApp, including the unable-to-connect error path.
+// ---
+
 #include "chromeos/ash/experiences/arc/pay/arc_payment_app_bridge.h"
 
 #include <optional>

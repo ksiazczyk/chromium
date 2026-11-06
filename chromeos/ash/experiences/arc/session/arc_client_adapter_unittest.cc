@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Arc client adapter unit tests
+// summary: Unit tests constructing and destroying ArcClientAdapter instances for container and ARC VM modes using fake D-Bus clients.
+// ---
+
 #include "chromeos/ash/experiences/arc/session/arc_client_adapter.h"
 
 #include <memory>

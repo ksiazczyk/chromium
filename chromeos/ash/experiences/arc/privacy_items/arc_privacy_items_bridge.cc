@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcPrivacyItemsBridge implementation
+// summary: Implements the ArcPrivacyItemsBridge keyed service, forwarding privacy item changes and indicator bounds between the browser and the ARC bridge.
+// ---
+
 #include "chromeos/ash/experiences/arc/privacy_items/arc_privacy_items_bridge.h"
 
 #include "base/no_destructor.h"

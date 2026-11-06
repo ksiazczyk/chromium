@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC bridge host implementation
+// summary: Implements ArcBridgeHost, registering with the mojo service manager and handling instance-ready callbacks for ARC mojo channels.
+// ---
+
 #include "chromeos/ash/experiences/arc/session/arc_bridge_host_impl.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC VM data migration status implementation
+// summary: Implements the stream output operator printing ArcVmDataMigrationStatus enum values such as Unnotified, Started and Finished.
+// ---
+
 #include "chromeos/ash/experiences/arc/session/arc_vm_data_migration_status.h"
 
 namespace arc {

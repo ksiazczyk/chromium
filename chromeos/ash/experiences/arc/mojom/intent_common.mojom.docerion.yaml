@@ -1,0 +1,4 @@
+# Docerion header of intent_common.mojom.
+type: source
+title: ARC intent common Mojo types
+summary: Defines shared intent types for ARC, including the ActionType enum describing intent actions and the ActivityName struct identifying activities.

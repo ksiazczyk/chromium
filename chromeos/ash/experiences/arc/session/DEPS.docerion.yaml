@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: ARC session include rules
+summary: Lists the headers and components that files in the ARC session directory are allowed to include.

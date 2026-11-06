@@ -1,0 +1,4 @@
+# Docerion header of sharesheet.mojom.
+type: source
+title: ARC sharesheet Mojo interface
+summary: Defines Mojo interfaces for ARC to create sharesheet sessions that show the Chrome sharesheet from an Android app.

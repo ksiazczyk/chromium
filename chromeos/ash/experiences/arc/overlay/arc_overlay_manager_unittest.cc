@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Arc overlay manager unit tests
+// summary: Tests overlay token handling, system key consumption changes and closing the host window while an overlay is active.
+// ---
+
 #include "chromeos/ash/experiences/arc/overlay/arc_overlay_manager.h"
 
 #include "ash/wm/window_state.h"

@@ -1,0 +1,4 @@
+# Docerion header of on_device_safety.mojom.
+type: source
+title: ARC on-device safety Mojo interface
+summary: Defines Mojo interfaces forwarding Trust & Safety filtering requests between Chrome and the on-device Safety Service running in ARC.

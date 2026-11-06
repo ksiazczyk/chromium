@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Arc data remover unit tests
+// summary: Unit tests for ArcDataRemover covering scheduled and unscheduled runs, success and failure cases, and preference persistence across instances.
+// ---
+
 #include "chromeos/ash/experiences/arc/session/arc_data_remover.h"
 
 #include <memory>

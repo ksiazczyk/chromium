@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ConnectionHolder unit tests
+// summary: Unit tests for ConnectionHolder covering observer registration, connection ready and closed notifications, instance version handling and GetInstanceForVersionDoNotCallDirectly.
+// ---
+
 #include "chromeos/ash/experiences/arc/session/connection_holder.h"
 
 #include "chromeos/ash/experiences/arc/session/connection_observer.h"

@@ -1,0 +1,4 @@
+# Docerion header of metrics.mojom.
+type: source
+title: ARC Metrics Mojo interface
+summary: Defines the Mojo interface and data structures for reporting ARC metrics such as boot progress, graphics performance and network events to Chrome.

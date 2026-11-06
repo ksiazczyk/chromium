@@ -1,0 +1,4 @@
+# Docerion header of app.mojom.
+type: source
+title: ARC app management Mojo interface
+summary: Defines structs, enums and interfaces for installing, launching and managing Android apps and packages between Chrome and ARC.

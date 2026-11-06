@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ArcProcess unit tests
+// summary: Unit tests verifying ArcProcess priority sorting and the importance, persistence, caching, and background protection checks.
+// ---
+
 #include "chromeos/ash/experiences/arc/process/arc_process.h"
 
 #include <assert.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ArcStopReason unit tests
+// summary: Unit tests verifying that the stream output operator converts ArcStopReason enum values such as SHUTDOWN and CRASH to their expected strings.
+// ---
+
 #include "chromeos/ash/experiences/arc/session/arc_stop_reason.h"
 
 #include <sstream>

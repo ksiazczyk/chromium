@@ -1,0 +1,4 @@
+# Docerion header of obb_mounter.mojom.
+type: source
+title: ARC OBB mounter Mojo interface
+summary: Defines Mojo interfaces for mounting and unmounting OBB files with a specified owner GID in ARC.

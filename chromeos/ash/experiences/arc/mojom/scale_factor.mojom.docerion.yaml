@@ -1,0 +1,4 @@
+# Docerion header of scale_factor.mojom.
+type: source
+title: ARC resource scale factor Mojo enum
+summary: Defines an extensible enum duplicating ui::ResourceScaleFactor so the Android side can access ChromeOS resource scale factors.

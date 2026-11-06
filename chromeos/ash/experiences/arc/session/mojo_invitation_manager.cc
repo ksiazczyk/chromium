@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MojoInvitationManager implementation for ARCVM Mojo invitations
+// summary: Implements sending a Mojo invitation to ARCVM and launching a Mojo Proxy process as an IPCZ-to-Mojo Core translation layer, with process collection on shutdown.
+// ---
+
 #include "chromeos/ash/experiences/arc/session/mojo_invitation_manager.h"
 
 #include <string_view>

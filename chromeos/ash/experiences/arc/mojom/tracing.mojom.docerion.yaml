@@ -1,0 +1,4 @@
+# Docerion header of tracing.mojom.
+type: source
+title: ARC tracing Mojo interface
+summary: Defines the interface for querying available tracing categories and starting or stopping tracing in the ARC container.

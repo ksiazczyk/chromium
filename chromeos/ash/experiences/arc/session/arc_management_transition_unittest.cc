@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ArcManagementTransition stream output unit tests
+// summary: Unit tests checking that each ArcManagementTransition value is serialized to its expected string via the stream operator.
+// ---
+
 #include "chromeos/ash/experiences/arc/session/arc_management_transition.h"
 
 #include <sstream>

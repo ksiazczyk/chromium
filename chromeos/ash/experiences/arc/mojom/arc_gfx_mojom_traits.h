@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC gfx Mojo traits header
+// summary: Declares Mojo StructTraits specializations that map between arc.mojom Rect and Range types and the gfx geometry classes.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_MOJOM_ARC_GFX_MOJOM_TRAITS_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_MOJOM_ARC_GFX_MOJOM_TRAITS_H_
 

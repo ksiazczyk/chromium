@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MojoInvitationManager header for ARCVM Mojo invitations
+// summary: Declares MojoInvitationManager, which sends Mojo invitations to ARCVM, optionally launches a Mojo Proxy process, and collects it on destruction.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_SESSION_MOJO_INVITATION_MANAGER_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_SESSION_MOJO_INVITATION_MANAGER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC fake serial number generation header
+// summary: Declares helpers to generate fake Android serial numbers and to manage the ARC serial number salt in local state or on disk.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_SESSION_SERIAL_NUMBER_UTIL_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_SESSION_SERIAL_NUMBER_UTIL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Always-on VPN manager implementation
+// summary: Implements the manager that applies Android always-on VPN package and lockdown preferences to Shill.
+// ---
+
 #include "chromeos/ash/experiences/arc/net/always_on_vpn_manager.h"
 
 #include <string>

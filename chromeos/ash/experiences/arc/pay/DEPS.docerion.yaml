@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: ARC pay DEPS include rules
+summary: Defines the include rules allowing the ARC pay directory to depend on components/digital_goods.

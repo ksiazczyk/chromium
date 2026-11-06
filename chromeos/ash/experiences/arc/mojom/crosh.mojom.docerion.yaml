@@ -1,0 +1,4 @@
+# Docerion header of crosh.mojom.
+type: source
+title: ARC shell execution Mojo interface
+summary: Stable Mojo interface for executing supported shell commands on the ARC shell and returning their results, mirroring D-Bus messages.

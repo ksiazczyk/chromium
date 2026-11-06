@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser URL opener interface
+// summary: Declares a delegate interface with a singleton accessor for opening URLs in a new Chrome browser tab.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_NET_BROWSER_URL_OPENER_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_NET_BROWSER_URL_OPENER_H_
 

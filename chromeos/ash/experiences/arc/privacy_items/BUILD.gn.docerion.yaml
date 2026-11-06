@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for ARC privacy items
+summary: Defines the privacy_items static library and its unit test source set with their sources and dependencies.

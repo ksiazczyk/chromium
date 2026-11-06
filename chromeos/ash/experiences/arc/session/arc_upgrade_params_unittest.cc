@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ARC upgrade parameters unit tests
+// summary: Unit tests checking that UpgradeParams honors the TTS cache disable switch and defaults to keeping the TTS cache enabled.
+// ---
+
 #include "chromeos/ash/experiences/arc/session/arc_upgrade_params.h"
 
 #include "ash/constants/ash_switches.h"

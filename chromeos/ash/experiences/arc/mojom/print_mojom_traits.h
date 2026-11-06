@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: print_mojom_traits.h
+// summary: Declares Mojo StructTraits mappings between ARC print Mojo types and Chrome printing types such as page ranges and printer capabilities.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_MOJOM_PRINT_MOJOM_TRAITS_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_MOJOM_PRINT_MOJOM_TRAITS_H_
 

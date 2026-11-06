@@ -1,0 +1,4 @@
+# Docerion header of intent_helper.mojom.
+type: source
+title: ARC intent helper Mojo interface
+summary: Defines Mojo interfaces and types for handling Android intents in ARC, covering intent filters, handlers, activity icons, and Chrome settings pages.

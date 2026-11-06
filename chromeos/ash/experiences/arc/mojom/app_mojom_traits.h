@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo traits for app discovery request state
+// summary: C++ header mapping ArcPlayStoreSearchRequestState enum values to and from the arc.mojom AppDiscoveryRequestState Mojo type.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_MOJOM_APP_MOJOM_TRAITS_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_MOJOM_APP_MOJOM_TRAITS_H_
 

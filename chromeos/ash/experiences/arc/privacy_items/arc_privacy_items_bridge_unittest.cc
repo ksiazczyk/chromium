@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ArcPrivacyItemsBridge unit tests
+// summary: Verifies that static privacy indicator bounds changes are forwarded to the fake ARC privacy items instance.
+// ---
+
 #include "chromeos/ash/experiences/arc/privacy_items/arc_privacy_items_bridge.h"
 
 #include "chromeos/ash/experiences/arc/session/arc_bridge_service.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ConnectionNotifier implementation
+// summary: Implements ConnectionNotifier, which adds and removes connection observers and notifies them when the ARC connection becomes ready or is closed.
+// ---
+
 #include "chromeos/ash/experiences/arc/session/connection_notifier.h"
 
 #include "chromeos/ash/experiences/arc/session/connection_observer.h"

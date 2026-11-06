@@ -7,6 +7,12 @@
 // used. All read/write of its internal data structure (i.e., the mapping)
 // should be on this thread.
 
+// ---docerion
+// type: source
+// title: ArcProcessService implementation
+// summary: Implements the ARC process service that maintains the nspid-to-pid mapping on a dedicated worker thread and builds app and system process lists.
+// ---
+
 #include "chromeos/ash/experiences/arc/process/arc_process_service.h"
 
 #include <algorithm>

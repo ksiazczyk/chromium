@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC session runner implementation
+// summary: Implements ArcSessionRunner, handling start and stop requests, automatic restart after crashes, and UMA metrics for ARC container lifetime events.
+// ---
+
 #include "chromeos/ash/experiences/arc/session/arc_session_runner.h"
 
 #include <optional>

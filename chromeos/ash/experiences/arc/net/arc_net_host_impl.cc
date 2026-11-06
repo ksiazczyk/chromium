@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC net host implementation
+// summary: Implements the ARC NetHost Mojo service that bridges Android network requests to Chrome OS networking.
+// ---
+
 #include "chromeos/ash/experiences/arc/net/arc_net_host_impl.h"
 
 #include <net/if.h>

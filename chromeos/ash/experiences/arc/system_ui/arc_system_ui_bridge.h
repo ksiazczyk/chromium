@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC system UI bridge class declaration
+// summary: Declares ArcSystemUIBridge, which observes the color palette controller and shell to notify the Android side of ChromeOS dark theme and color scheme changes.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_SYSTEM_UI_ARC_SYSTEM_UI_BRIDGE_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_SYSTEM_UI_ARC_SYSTEM_UI_BRIDGE_H_
 

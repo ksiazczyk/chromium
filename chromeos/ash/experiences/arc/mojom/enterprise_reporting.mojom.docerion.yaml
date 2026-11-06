@@ -1,0 +1,4 @@
+# Docerion header of enterprise_reporting.mojom.
+type: source
+title: ARC enterprise reporting Mojo interface
+summary: Mojo interface for enterprise reporting of CloudDpc operation timings and status information from ARC to the host.
