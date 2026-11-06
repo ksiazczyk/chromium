@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS personal context eligibility service factory header
+// summary: Declares the iOS profile-keyed service factory that creates PersonalContextEligibilityService instances.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PERSONAL_CONTEXT_MODEL_IOS_PERSONAL_CONTEXT_ELIGIBILITY_SERVICE_FACTORY_H_
 #define IOS_CHROME_BROWSER_PERSONAL_CONTEXT_MODEL_IOS_PERSONAL_CONTEXT_ELIGIBILITY_SERVICE_FACTORY_H_
 

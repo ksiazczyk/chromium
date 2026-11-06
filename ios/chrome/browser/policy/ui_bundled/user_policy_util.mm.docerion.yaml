@@ -1,0 +1,4 @@
+# Docerion header of user_policy_util.mm.
+type: source
+title: Implementation of CanFetchUserPolicy
+summary: Implements CanFetchUserPolicy by returning whether the primary signed-in identity is managed.

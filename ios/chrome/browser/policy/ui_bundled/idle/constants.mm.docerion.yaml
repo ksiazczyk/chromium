@@ -1,0 +1,4 @@
+# Docerion header of constants.mm.
+type: source
+title: Idle timeout constants definitions
+summary: Defines the accessibility identifier strings for the idle timeout confirmation dialog and launch screen.

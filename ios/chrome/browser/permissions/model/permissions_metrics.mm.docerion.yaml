@@ -1,0 +1,4 @@
+# Docerion header of permissions_metrics.mm.
+type: source
+title: Permission metrics recording implementation
+summary: Records permission prompt shown, request resolution, prompt action and setting change histograms based on camera and microphone permissions.

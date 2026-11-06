@@ -1,0 +1,4 @@
+# Docerion header of schema_registry_factory.mm.
+type: source
+title: Profile schema registry factory
+summary: Builds a policy schema registry for a profile, registering the Chrome policy schema and tracking the registry in the global combined registry.

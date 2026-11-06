@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Idle timeout confirmation presenter protocol
+// summary: Declares the presenter protocol for dismissing the idle timeout dialog after user confirmation or expiry.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_POLICY_UI_BUNDLED_IDLE_IDLE_TIMEOUT_COFIRMATION_PRESENTER_H_
 #define IOS_CHROME_BROWSER_POLICY_UI_BUNDLED_IDLE_IDLE_TIMEOUT_COFIRMATION_PRESENTER_H_
 

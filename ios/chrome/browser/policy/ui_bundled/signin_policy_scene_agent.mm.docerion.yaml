@@ -1,0 +1,4 @@
+# Docerion header of signin_policy_scene_agent.mm.
+type: source
+title: Implementation of the sign-in policy scene agent
+summary: Implements the scene agent that observes identity, authentication, profile, and scene state changes to present policy-driven sign-in prompts.

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for iOS personal context model
+summary: Lists the allowed dependency includes for the iOS personal context model directory.

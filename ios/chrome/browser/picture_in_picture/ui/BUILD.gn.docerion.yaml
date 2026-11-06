@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Picture in Picture UI build definition
+summary: GN build file defining the ui source_set with its sources, dependencies and linked frameworks for the picture in picture UI.

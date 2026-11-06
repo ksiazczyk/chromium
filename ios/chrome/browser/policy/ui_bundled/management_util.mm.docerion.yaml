@@ -1,0 +1,4 @@
+# Docerion header of management_util.mm.
+type: source
+title: Implementation of management state helpers
+summary: Implements helpers that determine machine-level and user-level policy domains and build the management description for iOS Chrome.

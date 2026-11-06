@@ -1,0 +1,4 @@
+# Docerion header of add_contacts_coordinator.mm.
+type: source
+title: Add contacts coordinator implementation
+summary: Implements the coordinator that builds a contact with the detected phone number and presents the iOS contact view controller for editing.

@@ -1,0 +1,4 @@
+# Docerion header of geolocation_api_usage_java_script_feature.mm.
+type: source
+title: Geolocation API usage tracking and UMA metrics
+summary: Injects geolocation override scripts and logs UMA histograms for clearWatch, getCurrentPosition and watchPosition calls based on the iOS location authorization status.

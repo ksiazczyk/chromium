@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the policy UI directory
+summary: Specifies allowed include rules for the directory, with extra rules scoped to signin_policy_scene_agent.mm.

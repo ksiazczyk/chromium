@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SaaS usage report factory delegate for iOS header
+// summary: Declares the iOS implementation of SaasUsageReportFactory::Delegate that exposes the profile ID and profile affiliation status.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_POLICY_MODEL_REPORTING_SAAS_USAGE_SAAS_USAGE_REPORT_FACTORY_DELEGATE_IOS_H_
 #define IOS_CHROME_BROWSER_POLICY_MODEL_REPORTING_SAAS_USAGE_SAAS_USAGE_REPORT_FACTORY_DELEGATE_IOS_H_
 

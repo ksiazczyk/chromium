@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cloud management controller observer bridge header
+// summary: Declares an Objective-C protocol and a C++ bridge that forwards cloud management controller observer events to Objective-C delegates.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_POLICY_MODEL_CHROME_BROWSER_CLOUD_MANAGEMENT_CONTROLLER_OBSERVER_BRIDGE_H_
 #define IOS_CHROME_BROWSER_POLICY_MODEL_CHROME_BROWSER_CLOUD_MANAGEMENT_CONTROLLER_OBSERVER_BRIDGE_H_
 

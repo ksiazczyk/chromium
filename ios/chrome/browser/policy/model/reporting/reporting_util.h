@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise reporting utility header for iOS
+// summary: Declares helpers that check profile-browser affiliation, determine unaffiliation reasons, and sanitize profile paths for enterprise reporting.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_POLICY_MODEL_REPORTING_REPORTING_UTIL_H_
 #define IOS_CHROME_BROWSER_POLICY_MODEL_REPORTING_REPORTING_UTIL_H_
 

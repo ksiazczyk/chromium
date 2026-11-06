@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Permission metrics utility declarations
+// summary: Declares permission event enums and functions that record media permission metrics for iOS Chrome.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PERMISSIONS_UI_BUNDLED_PERMISSION_METRICS_UTIL_H_
 #define IOS_CHROME_BROWSER_PERMISSIONS_UI_BUNDLED_PERMISSION_METRICS_UTIL_H_
 

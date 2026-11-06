@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Add contacts coordinator interface
+// summary: Declares a Chrome coordinator that presents a contact view controller to save a detected phone number into contacts.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PHONE_NUMBER_UI_BUNDLED_ADD_CONTACTS_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_PHONE_NUMBER_UI_BUNDLED_ADD_CONTACTS_COORDINATOR_H_
 

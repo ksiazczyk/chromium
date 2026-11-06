@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PictureInPictureMediator interface
+// summary: Declares the mediator conforming to ButtonStackActionDelegate and PictureInPictureMutator, with initialization and tap count recording.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PICTURE_IN_PICTURE_COORDINATOR_PICTURE_IN_PICTURE_MEDIATOR_H_
 #define IOS_CHROME_BROWSER_PICTURE_IN_PICTURE_COORDINATOR_PICTURE_IN_PICTURE_MEDIATOR_H_
 

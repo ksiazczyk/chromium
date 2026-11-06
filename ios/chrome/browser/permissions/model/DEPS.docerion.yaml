@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the permissions model directory
+summary: Specifies the allowed include directories for code in the iOS permissions model directory.

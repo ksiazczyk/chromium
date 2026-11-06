@@ -1,0 +1,4 @@
+# Docerion header of user_policy_prompt_mediator.mm.
+type: source
+title: User policy prompt mediator implementation
+summary: Implements the mediator that stops prompt presentation, forwards primary and secondary alert actions to the presenter, and reacts to swipe dismissal.

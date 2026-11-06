@@ -1,0 +1,4 @@
+# Docerion header of browser_management_service.mm.
+type: source
+title: Browser management service implementation for iOS
+summary: Builds the iOS management service from cloud, local, and profile management status providers.

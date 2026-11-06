@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Phone number actions view controller header
+// summary: Declares a settings-style table view controller offering actions for a phone number such as call, message, add to contacts and FaceTime.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PHONE_NUMBER_UI_BUNDLED_PHONE_NUMBER_ACTIONS_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_PHONE_NUMBER_UI_BUNDLED_PHONE_NUMBER_ACTIONS_VIEW_CONTROLLER_H_
 

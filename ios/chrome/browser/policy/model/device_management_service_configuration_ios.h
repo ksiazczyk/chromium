@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceManagementServiceConfigurationIOS header
+// summary: Declares the iOS device management service configuration providing DM server, agent, platform, and reporting server URLs.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_POLICY_MODEL_DEVICE_MANAGEMENT_SERVICE_CONFIGURATION_IOS_H_
 #define IOS_CHROME_BROWSER_POLICY_MODEL_DEVICE_MANAGEMENT_SERVICE_CONFIGURATION_IOS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserSignin policy handler implementation
+// summary: Validates the BrowserSignin policy value and applies it by mapping the policy setting to the browser sign-in preference.
+// ---
+
 #include "ios/chrome/browser/policy/model/browser_signin_policy_handler.h"
 
 #include <memory>

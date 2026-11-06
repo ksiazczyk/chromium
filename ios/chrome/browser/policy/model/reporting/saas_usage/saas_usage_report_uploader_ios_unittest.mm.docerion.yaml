@@ -1,0 +1,4 @@
+# Docerion header of saas_usage_report_uploader_ios_unittest.mm.
+type: test
+title: SaaS usage report uploader iOS unit tests
+summary: Parameterized unit tests verifying that SaaS usage reports upload with the expected DM token and per-profile settings across managed and unmanaged browser and profile states.

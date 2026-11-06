@@ -1,0 +1,4 @@
+# Docerion header of idle_timeout_policy_utils.mm.
+type: source
+title: Idle Timeout Policy Utils Implementation
+summary: Implements helpers that map idle timeout action sets to localized title, subtitle, and snackbar message string IDs for iOS Chrome.

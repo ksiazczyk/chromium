@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile policy connector class header
+// summary: Declares ProfilePolicyConnector, which creates and manages per-profile policy components and their integration with the preferences service in iOS Chrome.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_POLICY_MODEL_PROFILE_POLICY_CONNECTOR_H_
 #define IOS_CHROME_BROWSER_POLICY_MODEL_PROFILE_POLICY_CONNECTOR_H_
 

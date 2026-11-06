@@ -1,0 +1,4 @@
+# Docerion header of user_policy_signin_service_unittest.mm.
+type: test
+title: User policy sign-in service unit tests
+summary: Unit tests for the iOS user policy sign-in service covering registration, policy fetching, and sign-out behavior for managed and unmanaged test users.

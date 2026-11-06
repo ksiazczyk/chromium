@@ -1,0 +1,4 @@
+# Docerion header of permission_info.mm.
+type: source
+title: PermissionInfo implementation
+summary: Implements the PermissionInfo object that stores site permission information.

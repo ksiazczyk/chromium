@@ -1,0 +1,4 @@
+# Docerion header of picture_in_picture_view_controller.mm.
+type: source
+title: Picture in Picture view controller implementation
+summary: Implements the picture in picture view controller, handling AVPlayer playback, PiP start and restore detection, auto-hiding controls and usage metrics.

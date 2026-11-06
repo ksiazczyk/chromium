@@ -1,0 +1,4 @@
+# Docerion header of media_api_usage_java_script_feature.mm.
+type: source
+title: Media API usage tracking and UMA metrics
+summary: Injects media override scripts and logs UMA histograms for getUserMedia audio and video usage based on the iOS microphone record permission.

@@ -1,0 +1,4 @@
+# Docerion header of user_policy_constants.mm.
+type: source
+title: User policy constants implementation
+summary: Defines the kShowUserPolicyNotificationAtStartupIfNeeded feature as enabled by default for the iOS user policy flow.

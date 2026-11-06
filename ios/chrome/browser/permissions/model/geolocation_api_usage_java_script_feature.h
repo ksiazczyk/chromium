@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Geolocation API usage JavaScript feature declaration
+// summary: Declares a singleton JavaScript feature that listens for geolocation API usage in web content and decides when to override the APIs.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PERMISSIONS_MODEL_GEOLOCATION_API_USAGE_JAVA_SCRIPT_FEATURE_H_
 #define IOS_CHROME_BROWSER_PERMISSIONS_MODEL_GEOLOCATION_API_USAGE_JAVA_SCRIPT_FEATURE_H_
 

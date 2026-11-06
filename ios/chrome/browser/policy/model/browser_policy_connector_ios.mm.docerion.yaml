@@ -1,0 +1,4 @@
+# Docerion header of browser_policy_connector_ios.mm.
+type: source
+title: BrowserPolicyConnectorIOS implementation
+summary: Implements the iOS browser policy connector, initializing the device management service, platform policy provider, affiliation IDs, and local test policy handling.

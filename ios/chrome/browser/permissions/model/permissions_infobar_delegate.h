@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Permissions infobar delegate interface
+// summary: Declares PermissionsInfobarDelegate, a ConfirmInfoBarDelegate exposing recently accessible permissions and the associated web state for the permissions infobar.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PERMISSIONS_MODEL_PERMISSIONS_INFOBAR_DELEGATE_H_
 #define IOS_CHROME_BROWSER_PERMISSIONS_MODEL_PERMISSIONS_INFOBAR_DELEGATE_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of chrome_browser_cloud_management_controller_observer_bridge.mm.
+type: source
+title: Cloud management controller observer bridge implementation
+summary: Implements the observer bridge that forwards policy registration completion and controller shutdown events to the Objective-C observer.

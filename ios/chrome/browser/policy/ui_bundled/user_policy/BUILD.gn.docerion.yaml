@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: User policy BUILD.gn build definition
+summary: Defines the user_policy source set with its Objective-C sources, dependencies, and the UIKit framework for GN builds.

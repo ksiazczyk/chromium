@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserSignin policy handler header
+// summary: Declares the schema-validating policy handler for the BrowserSignin policy on iOS.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_POLICY_MODEL_BROWSER_SIGNIN_POLICY_HANDLER_H_
 #define IOS_CHROME_BROWSER_POLICY_MODEL_BROWSER_SIGNIN_POLICY_HANDLER_H_
 

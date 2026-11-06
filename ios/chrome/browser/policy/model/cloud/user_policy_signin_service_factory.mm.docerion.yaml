@@ -1,0 +1,4 @@
+# Docerion header of user_policy_signin_service_factory.mm.
+type: source
+title: User policy sign-in service factory implementation
+summary: Implements the UserPolicySigninService factory, wiring dependencies such as the device management service and identity manager, and registers profile prefs.

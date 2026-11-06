@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile policy connector mock header
+// summary: Declares ProfilePolicyConnectorMock, a subclass allowing tests to inject a custom PolicyService, schema registry, and cloud policy store.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_POLICY_MODEL_PROFILE_POLICY_CONNECTOR_MOCK_H_
 #define IOS_CHROME_BROWSER_POLICY_MODEL_PROFILE_POLICY_CONNECTOR_MOCK_H_
 

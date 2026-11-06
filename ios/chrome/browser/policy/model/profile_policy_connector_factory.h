@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile policy connector factory header
+// summary: Declares BuildProfilePolicyConnector, a factory that constructs a ProfilePolicyConnector from a schema registry, browser connector, and policy manager.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_POLICY_MODEL_PROFILE_POLICY_CONNECTOR_FACTORY_H_
 #define IOS_CHROME_BROWSER_POLICY_MODEL_PROFILE_POLICY_CONNECTOR_FACTORY_H_
 

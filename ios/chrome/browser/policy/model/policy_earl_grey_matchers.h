@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy Earl Grey matchers
+// summary: Declares helpers to assert that collection buttons, context menu items and overflow menu elements are enabled or disabled.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_POLICY_MODEL_POLICY_EARL_GREY_MATCHERS_H_
 #define IOS_CHROME_BROWSER_POLICY_MODEL_POLICY_EARL_GREY_MATCHERS_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for phone number UI
+summary: Restricts includes in this directory to the settings UI bundle and the libphonenumber API header.

@@ -1,0 +1,4 @@
+# Docerion header of idle_timeout_launch_screen_view_controller.mm.
+type: source
+title: Idle timeout launch screen view controller implementation
+summary: Implements the idle timeout launch screen with an animating spinner and a dedicated accessibility identifier.

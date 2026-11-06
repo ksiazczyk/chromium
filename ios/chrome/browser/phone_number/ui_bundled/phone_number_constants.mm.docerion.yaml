@@ -1,0 +1,4 @@
+# Docerion header of phone_number_constants.mm.
+type: source
+title: Phone number UI constants implementation
+summary: Defines the accessibility identifier string constants for the country code picker and phone number actions table views.

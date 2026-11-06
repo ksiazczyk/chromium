@@ -1,0 +1,4 @@
+# Docerion header of report_generator_ios_unittest.mm.
+type: test
+title: iOS report generator unit tests
+summary: Unit tests for the iOS report generator, run with and without the feature that uses the email address as profile name.

@@ -1,0 +1,4 @@
+# Docerion header of picture_in_picture_player_view.mm.
+type: source
+title: Picture in Picture player view implementation
+summary: Implements the player view by returning AVPlayerLayer as the layer class and exposing it through the playerLayer property.

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Personal Context OWNERS
+summary: OWNERS file for the iOS personal_context directory that delegates ownership to the components/personal_context OWNERS file.

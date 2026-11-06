@@ -1,0 +1,4 @@
+# Docerion header of chrome_browser_cloud_management_controller_ios.mm.
+type: source
+title: iOS cloud management controller delegate implementation
+summary: Implements iOS-specific cloud management controller operations, noting unsupported features such as external policies, policy invalidations, and blocking enrollment.

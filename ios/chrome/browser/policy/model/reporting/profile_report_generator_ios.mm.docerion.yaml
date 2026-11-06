@@ -1,0 +1,4 @@
+# Docerion header of profile_report_generator_ios.mm.
+type: source
+title: iOS profile report generator implementation
+summary: Implements the iOS profile report generator that fills in signed-in user and affiliation information for enterprise profile reports.

@@ -1,0 +1,4 @@
+# Docerion header of policy_util_unittest.mm.
+type: test
+title: Policy utility unit tests
+summary: Unit tests verifying HasPlatformPolicies behavior for the iOS policy loader configuration key stored in NSUserDefaults.

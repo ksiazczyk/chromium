@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Picture-in-picture coordinator DEPS include rules
+summary: Restricts the directory's allowed includes to the default browser promo public headers.

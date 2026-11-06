@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for permissions UI
+summary: Specifies allowed include rules for this directory, permitting the page info action header.

@@ -1,0 +1,4 @@
+# Docerion header of features.mm.
+type: source
+title: Feature flag definition for permission-based API metrics
+summary: Defines the kJavaScriptPermissionBasedAPIMetricsEnabled feature flag with a disabled-by-default value.

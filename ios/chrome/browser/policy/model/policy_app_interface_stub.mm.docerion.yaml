@@ -1,0 +1,4 @@
+# Docerion header of policy_app_interface_stub.mm.
+type: test
+title: Policy app interface Earl Grey stub
+summary: Registers a stub PolicyAppInterface class in the app under test so Earl Grey policy tests can drive policies.

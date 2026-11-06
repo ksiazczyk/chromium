@@ -1,0 +1,4 @@
+# Docerion header of saas_usage_report_uploader_ios.mm.
+type: source
+title: SaaS usage report uploader for iOS implementation
+summary: Implements the iOS uploader, resolving a realtime reporting client and DM token to send SaaS usage report events for browser or profile level.

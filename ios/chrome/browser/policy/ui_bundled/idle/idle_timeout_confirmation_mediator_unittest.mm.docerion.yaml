@@ -1,0 +1,4 @@
+# Docerion header of idle_timeout_confirmation_mediator_unittest.mm.
+type: test
+title: Idle timeout confirmation mediator unit tests
+summary: Tests that the idle timeout confirmation mediator updates the consumer countdown every second and stops presenting once the dialog expires.

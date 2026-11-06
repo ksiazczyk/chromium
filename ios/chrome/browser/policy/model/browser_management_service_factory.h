@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser management service factory for iOS
+// summary: Declares the profile-keyed factory that creates BrowserManagementService instances for iOS profiles.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_POLICY_MODEL_BROWSER_MANAGEMENT_SERVICE_FACTORY_H_
 #define IOS_CHROME_BROWSER_POLICY_MODEL_BROWSER_MANAGEMENT_SERVICE_FACTORY_H_
 

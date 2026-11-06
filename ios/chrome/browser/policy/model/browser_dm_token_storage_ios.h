@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS browser DM token storage delegate declaration
+// summary: Declares the iOS delegate for BrowserDMTokenStorage that supplies client ID, enrollment token, and DM token values.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_POLICY_MODEL_BROWSER_DM_TOKEN_STORAGE_IOS_H_
 #define IOS_CHROME_BROWSER_POLICY_MODEL_BROWSER_DM_TOKEN_STORAGE_IOS_H_
 

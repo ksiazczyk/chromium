@@ -1,0 +1,4 @@
+# Docerion header of cloud_policy_client_observer_bridge.mm.
+type: source
+title: CloudPolicyClientObserverBridge implementation
+summary: Forwards CloudPolicyClient fetch, error, and registration change events to the Objective-C delegate observer.

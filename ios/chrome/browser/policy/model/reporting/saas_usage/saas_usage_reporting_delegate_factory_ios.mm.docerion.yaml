@@ -1,0 +1,4 @@
+# Docerion header of saas_usage_reporting_delegate_factory_ios.mm.
+type: source
+title: SaaS usage reporting delegate factory for iOS implementation
+summary: Implements browser-level and profile-level delegate creation for SaaS usage reporting, wiring the iOS uploader, report factory delegate, and scheduler delegate.

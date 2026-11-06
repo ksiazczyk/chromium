@@ -1,0 +1,4 @@
+# Docerion header of ios_personal_context_first_run_service_factory.mm.
+type: source
+title: iOS personal context first run service factory implementation
+summary: Creates PersonalContextFirstRunService per profile, depending on the eligibility service and identity manager.

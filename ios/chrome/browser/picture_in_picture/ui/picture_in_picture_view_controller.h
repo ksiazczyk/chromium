@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Picture in Picture view controller interface
+// summary: Declares the picture in picture view controller with mutator and command handler properties, a designated initializer and a dismissal helper.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PICTURE_IN_PICTURE_UI_PICTURE_IN_PICTURE_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_PICTURE_IN_PICTURE_UI_PICTURE_IN_PICTURE_VIEW_CONTROLLER_H_
 

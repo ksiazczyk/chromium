@@ -1,0 +1,4 @@
+# Docerion header of policy_earl_grey_matchers.mm.
+type: source
+title: Policy Earl Grey matchers implementation
+summary: Implements Earl Grey assertion helpers that check the enabled state of UI elements in collections and menus.

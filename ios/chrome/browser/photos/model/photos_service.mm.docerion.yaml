@@ -1,0 +1,4 @@
+# Docerion header of photos_service.mm.
+type: source
+title: PhotosService base class implementation
+summary: Provides the default constructor and destructor for the abstract PhotosService base class.

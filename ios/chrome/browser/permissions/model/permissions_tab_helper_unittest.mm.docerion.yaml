@@ -1,0 +1,4 @@
+# Docerion header of permissions_tab_helper_unittest.mm.
+type: test
+title: PermissionsTabHelper unit tests
+summary: Unit tests for PermissionsTabHelper covering infobar setup, acceptance state and permission metrics using fake web state and test profile.

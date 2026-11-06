@@ -1,0 +1,4 @@
+# Docerion header of real_time_event_uploader_ios_test_base.mm.
+type: test
+title: iOS real-time event uploader test base implementation
+summary: Implements test helpers that create personal and managed profiles and mock reporting clients for uploader unit tests.

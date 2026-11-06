@@ -1,0 +1,4 @@
+# Docerion header of profile_policy_connector.mm.
+type: source
+title: Profile policy connector implementation
+summary: Implements ProfilePolicyConnector, assembling policy providers into a PolicyService and supporting activation of the local test policy provider.

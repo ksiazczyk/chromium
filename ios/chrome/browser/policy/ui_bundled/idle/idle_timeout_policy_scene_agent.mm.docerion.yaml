@@ -1,0 +1,4 @@
+# Docerion header of idle_timeout_policy_scene_agent.mm.
+type: source
+title: Idle timeout policy scene agent implementation
+summary: Implements the scene agent that presents the timeout confirmation dialog, snackbars and launch screen window in response to idle timeout events.

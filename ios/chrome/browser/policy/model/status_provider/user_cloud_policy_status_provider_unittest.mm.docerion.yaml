@@ -1,0 +1,4 @@
+# Docerion header of user_cloud_policy_status_provider_unittest.mm.
+type: test
+title: User cloud policy status provider unit tests
+summary: Unit tests for UserCloudPolicyStatusProvider using mock cloud policy client and store, identity test environment and delegate mocks to verify status output, affiliation and flex org behavior.

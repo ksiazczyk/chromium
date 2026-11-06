@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scoped policy list declaration
+// summary: Declares a helper that sets policy values through the test app interface and resets them to their originals on destruction.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_POLICY_MODEL_SCOPED_POLICY_LIST_H_
 #define IOS_CHROME_BROWSER_POLICY_MODEL_SCOPED_POLICY_LIST_H_
 

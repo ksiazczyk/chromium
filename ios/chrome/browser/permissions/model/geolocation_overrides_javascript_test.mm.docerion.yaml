@@ -1,0 +1,4 @@
+# Docerion header of geolocation_overrides_javascript_test.mm.
+type: test
+title: JavaScript tests for geolocation API overrides
+summary: Verifies that geolocation_overrides.ts reports clearWatch, getCurrentPosition and watchPosition calls through the GeolocationAPIAccessedHandler message handler.

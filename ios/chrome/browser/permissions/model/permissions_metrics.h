@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Permission metrics histogram names and enums header
+// summary: Declares histogram names and persisted enums for permission prompt, request resolution and setting change metrics on iOS.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PERMISSIONS_MODEL_PERMISSIONS_METRICS_H_
 #define IOS_CHROME_BROWSER_PERMISSIONS_MODEL_PERMISSIONS_METRICS_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for policy URL blocking model
+summary: Declares the Monorail and Buganizer components used to track issues for this directory.

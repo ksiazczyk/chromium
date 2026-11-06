@@ -1,0 +1,4 @@
+# Docerion header of picture_in_picture_egtest.mm.
+type: test
+title: Earl Grey tests for Default Browser Picture in Picture promo
+summary: Earl Grey UI tests that open the Default Browser settings promo, verify the Picture in Picture window appears in SpringBoard, and dismiss or restore it.

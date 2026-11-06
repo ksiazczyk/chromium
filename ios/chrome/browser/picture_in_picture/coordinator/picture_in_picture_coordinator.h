@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PictureInPictureCoordinator interface
+// summary: Declares the ChromeCoordinator subclass that presents a video in picture-in-picture, with a designated initializer and dismissIfNotPipRestore.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PICTURE_IN_PICTURE_COORDINATOR_PICTURE_IN_PICTURE_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_PICTURE_IN_PICTURE_COORDINATOR_PICTURE_IN_PICTURE_COORDINATOR_H_
 

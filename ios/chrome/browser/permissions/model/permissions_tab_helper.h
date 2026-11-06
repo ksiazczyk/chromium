@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PermissionsTabHelper interface
+// summary: Declares PermissionsTabHelper, a WebStateUserData that observes permission and content setting changes and presents permission dialogs and infobars.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PERMISSIONS_MODEL_PERMISSIONS_TAB_HELPER_H_
 #define IOS_CHROME_BROWSER_PERMISSIONS_MODEL_PERMISSIONS_TAB_HELPER_H_
 

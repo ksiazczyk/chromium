@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser report generator iOS delegate declaration
+// summary: Declares the iOS delegate that supplies executable path, channel and reported profile data for enterprise browser report generation.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_POLICY_MODEL_REPORTING_BROWSER_REPORT_GENERATOR_IOS_H_
 #define IOS_CHROME_BROWSER_POLICY_MODEL_REPORTING_BROWSER_REPORT_GENERATOR_IOS_H_
 

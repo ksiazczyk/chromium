@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RestrictAccountsToPatterns policy handler unit tests
+// summary: Unit tests for RestrictAccountsPolicyHandler covering valid and invalid account patterns, wrong policy types, and error reporting.
+// ---
+
 #include "ios/chrome/browser/policy/model/restrict_accounts_policy_handler.h"
 
 #include <memory>

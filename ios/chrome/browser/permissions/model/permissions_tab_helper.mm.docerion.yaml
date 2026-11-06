@@ -1,0 +1,4 @@
+# Docerion header of permissions_tab_helper.mm.
+type: source
+title: PermissionsTabHelper implementation
+summary: Implements PermissionsTabHelper, handling permission state changes, decision dialogs, infobar updates and committing decisions to HostContentSettingsMap.

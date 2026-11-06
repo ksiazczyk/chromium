@@ -1,0 +1,4 @@
+# Docerion header of reporting_util.mm.
+type: source
+title: Enterprise reporting utility implementation for iOS
+summary: Implements affiliation checks, unaffiliation reason lookup, and stable profile path sanitization used by iOS enterprise reporting.

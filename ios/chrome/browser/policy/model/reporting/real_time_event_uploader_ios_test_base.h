@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: iOS real-time event uploader test base header
+// summary: Declares a test base class and a mock real-time reporting client used by iOS real-time event uploader unit tests.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_POLICY_MODEL_REPORTING_REAL_TIME_EVENT_UPLOADER_IOS_TEST_BASE_H_
 #define IOS_CHROME_BROWSER_POLICY_MODEL_REPORTING_REAL_TIME_EVENT_UPLOADER_IOS_TEST_BASE_H_
 

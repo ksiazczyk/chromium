@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Save to Photos UMA metrics enums and histogram names
+// summary: Defines UMA histogram names and enums covering Save to Photos actions, account picker, context menu, settings, upload latency, and sign-in outcomes.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PHOTOS_MODEL_PHOTOS_METRICS_H_
 #define IOS_CHROME_BROWSER_PHOTOS_MODEL_PHOTOS_METRICS_H_
 

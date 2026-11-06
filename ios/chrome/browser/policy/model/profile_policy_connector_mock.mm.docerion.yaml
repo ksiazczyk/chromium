@@ -1,0 +1,4 @@
+# Docerion header of profile_policy_connector_mock.mm.
+type: source
+title: Profile policy connector mock implementation
+summary: Implements ProfilePolicyConnectorMock, injecting the provided policy service, schema registry, and policy store into the connector.

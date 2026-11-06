@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RestrictAccountsToPatterns policy handler implementation
+// summary: Implements the policy handler for RestrictAccountsToPatterns, validating account restriction patterns and applying them to preferences.
+// ---
+
 #import "ios/chrome/browser/policy/model/restrict_accounts_policy_handler.h"
 
 #include <memory>

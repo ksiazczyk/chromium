@@ -1,0 +1,4 @@
+# Docerion header of country_code_picker_egtest.mm.
+type: test
+title: Country code picker Earl Grey UI tests
+summary: Earl Grey tests verifying that selecting a country code updates the phone number and shows call, message, contacts, and FaceTime actions.

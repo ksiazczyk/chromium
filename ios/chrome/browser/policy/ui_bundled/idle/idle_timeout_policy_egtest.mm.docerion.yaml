@@ -1,0 +1,4 @@
+# Docerion header of idle_timeout_policy_egtest.mm.
+type: test
+title: Idle timeout policy Earl Grey tests
+summary: Earl Grey UI tests verifying that the idle timeout confirmation dialog and related UI appear and behave correctly when the IdleTimeout policy triggers.

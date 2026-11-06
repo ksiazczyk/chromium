@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise policy test helper
+// summary: Declares a test helper that builds enterprise policy configuration and creates a profile configured with a mock policy provider.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_POLICY_MODEL_ENTERPRISE_POLICY_TEST_HELPER_H_
 #define IOS_CHROME_BROWSER_POLICY_MODEL_ENTERPRISE_POLICY_TEST_HELPER_H_
 

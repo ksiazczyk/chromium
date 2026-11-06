@@ -1,0 +1,4 @@
+# Docerion header of saas_usage_report_scheduler_delegate_ios.mm.
+type: source
+title: SaaS usage report scheduler delegate for iOS implementation
+summary: Implements the scheduler delegate by tracking loaded profiles with a realtime reporting client and toggling the scheduler's ready state accordingly.

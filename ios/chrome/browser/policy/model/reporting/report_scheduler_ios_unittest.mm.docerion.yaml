@@ -1,0 +1,4 @@
+# Docerion header of report_scheduler_ios_unittest.mm.
+type: test
+title: iOS report scheduler unit tests
+summary: Unit tests for the iOS report scheduler covering report triggers, upload scheduling and profile report requests.

@@ -1,0 +1,4 @@
+# Docerion header of permission_metrics_util.mm.
+type: source
+title: Permission metrics recording implementation
+summary: Records UMA histograms and user actions for camera and microphone permission events from modal infobars and page info.

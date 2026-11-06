@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser management service for iOS
+// summary: Declares the iOS keyed service that exposes information about the browser's management state.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_POLICY_MODEL_BROWSER_MANAGEMENT_SERVICE_H_
 #define IOS_CHROME_BROWSER_POLICY_MODEL_BROWSER_MANAGEMENT_SERVICE_H_
 

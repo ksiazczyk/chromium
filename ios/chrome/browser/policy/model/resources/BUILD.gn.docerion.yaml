@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for iOS policy model resources
+summary: Build file that bundles the Assets.xcassets catalog, including enterprise grey and blue icons, for the iOS Chrome policy model resources.

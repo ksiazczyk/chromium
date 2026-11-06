@@ -1,0 +1,4 @@
+# Docerion header of policy_url_blocking_tab_helper.mm.
+type: source
+title: Policy URL blocking tab helper implementation
+summary: Checks navigation requests against the profile's blocklist service and cancels blocked navigations with an administrator error.

@@ -1,0 +1,4 @@
+# Docerion header of photos_service_configuration.mm.
+type: source
+title: PhotosServiceConfiguration implementation
+summary: Implements the PhotosServiceConfiguration class, an empty Objective-C configuration object whose properties are set by the photos service factory.

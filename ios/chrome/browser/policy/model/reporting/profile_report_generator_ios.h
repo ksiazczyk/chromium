@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile report generator iOS delegate declaration
+// summary: Declares the iOS profile reporting delegate that fills in signin, affiliation, extension, profile ID and name details for profile reports.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_POLICY_MODEL_REPORTING_PROFILE_REPORT_GENERATOR_IOS_H_
 #define IOS_CHROME_BROWSER_POLICY_MODEL_REPORTING_PROFILE_REPORT_GENERATOR_IOS_H_
 

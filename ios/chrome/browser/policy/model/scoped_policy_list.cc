@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scoped policy list test helper
+// summary: Sets platform policies during tests and restores their original values automatically when the object goes out of scope.
+// ---
+
 #include "ios/chrome/browser/policy/model/scoped_policy_list.h"
 
 #import "ios/chrome/browser/policy/model/policy_earl_grey_utils.h"

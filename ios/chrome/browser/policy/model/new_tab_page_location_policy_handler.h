@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NewTabPageLocation policy handler
+// summary: Declares the policy handler that validates and applies the NewTabPageLocation policy setting on iOS.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_POLICY_MODEL_NEW_TAB_PAGE_LOCATION_POLICY_HANDLER_H_
 #define IOS_CHROME_BROWSER_POLICY_MODEL_NEW_TAB_PAGE_LOCATION_POLICY_HANDLER_H_
 

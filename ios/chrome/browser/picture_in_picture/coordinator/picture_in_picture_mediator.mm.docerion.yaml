@@ -1,0 +1,4 @@
+# Docerion header of picture_in_picture_mediator.mm.
+type: source
+title: PictureInPictureMediator implementation
+summary: Implements button stack actions that open the default browser settings page and records the primary button tap count histogram.

@@ -1,0 +1,4 @@
+# Docerion header of profile_policy_connector_factory.mm.
+type: source
+title: Profile policy connector factory implementation
+summary: Implements BuildProfilePolicyConnector, constructing and initializing a ProfilePolicyConnector for an iOS Chrome profile.

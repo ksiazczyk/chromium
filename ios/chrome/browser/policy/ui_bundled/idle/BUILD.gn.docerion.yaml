@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for idle timeout policy UI
+summary: Defines GN source sets and dependencies for the idle timeout scene agent, confirmation UI, constants and unit tests.

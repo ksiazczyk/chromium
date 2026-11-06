@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the iOS policy model directory
+summary: Declares the allowed include rules and per-file exceptions for dependencies of the iOS policy model directory.

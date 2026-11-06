@@ -1,0 +1,4 @@
+# Docerion header of country_code_picker_app_interface_stub.mm.
+type: test
+title: Country code picker app interface Earl Grey stub
+summary: Provides the Earl Grey stub registration of the country code picker app interface for test support builds.

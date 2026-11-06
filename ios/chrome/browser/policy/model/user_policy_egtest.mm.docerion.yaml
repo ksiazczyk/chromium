@@ -1,0 +1,4 @@
+# Docerion header of user_policy_egtest.mm.
+type: test
+title: User policy Earl Grey tests
+summary: Earl Grey tests verifying user policy fetch and application with an embedded policy test server and a signed-in enterprise account.
