@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioManagerAlsa class declaration
+// summary: Declares the AudioManagerAlsa class, the ALSA-backed audio manager providing device enumeration and stream creation for playback and capture.
+// ---
+
 #ifndef MEDIA_AUDIO_ALSA_AUDIO_MANAGER_ALSA_H_
 #define MEDIA_AUDIO_ALSA_AUDIO_MANAGER_ALSA_H_
 

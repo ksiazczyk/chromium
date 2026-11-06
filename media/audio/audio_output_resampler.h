@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioOutputResampler header for output resampling
+// summary: Declares the AudioOutputResampler dispatcher that converts audio data to required output parameters and reinitializes its underlying dispatcher on failure or timeout.
+// ---
+
 #ifndef MEDIA_AUDIO_AUDIO_OUTPUT_RESAMPLER_H_
 #define MEDIA_AUDIO_AUDIO_OUTPUT_RESAMPLER_H_
 

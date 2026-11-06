@@ -1,0 +1,4 @@
+# Docerion header of navigation_delegate_inttest.mm.
+type: test
+title: Navigation delegate integration tests
+summary: Integration tests verifying CWVNavigationDelegate callbacks for successful and failed navigations using OCMock and an embedded test server.

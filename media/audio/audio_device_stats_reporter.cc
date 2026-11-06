@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioDeviceStatsReporter implementation
+// summary: Implements reporting of audio device delay and glitch UMA histograms for input and output streams, discarding the first output callback.
+// ---
+
 #include "media/audio/audio_device_stats_reporter.h"
 #include "base/check.h"
 #include "base/check_op.h"

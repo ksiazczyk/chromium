@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Audio debug file writer unit tests
+// summary: Parameterized unit tests for AudioDebugFileWriter, checking WAVE output across channel layouts, sample rates, and buffer writes with a mocked audio bus pool.
+// ---
+
 #include "media/audio/audio_debug_file_writer.h"
 
 #include <stdint.h>

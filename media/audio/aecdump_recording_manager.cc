@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Aecdump recording manager implementation
+// summary: Implements the manager that starts and stops diagnostic aecdump recordings for registered audio sources, closing files without blocking the current thread.
+// ---
+
 #include "media/audio/aecdump_recording_manager.h"
 
 #include "base/functional/bind.h"

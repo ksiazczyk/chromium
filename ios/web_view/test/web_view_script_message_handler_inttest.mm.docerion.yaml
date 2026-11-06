@@ -1,0 +1,4 @@
+# Docerion header of web_view_script_message_handler_inttest.mm.
+type: test
+title: CWVWebView script message handler integration tests
+summary: Integration tests for the script message handler feature, covering handler registration, JavaScript-invoked messages, and behavior after state restoration.

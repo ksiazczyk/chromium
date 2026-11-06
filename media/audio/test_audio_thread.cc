@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test audio thread implementation
+// summary: Implements a test AudioThread that either runs on a real base::Thread or uses the current task runner for tests.
+// ---
+
 #include "media/audio/test_audio_thread.h"
 
 #include "base/run_loop.h"

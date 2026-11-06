@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioManagerBase implementation
+// summary: Implements shared AudioManager behavior including stream limits, device enumeration logging, stream format histograms and debug recording wiring.
+// ---
+
 #include "media/audio/audio_manager_base.h"
 
 #include <algorithm>

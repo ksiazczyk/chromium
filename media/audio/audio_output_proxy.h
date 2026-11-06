@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioOutputProxy resource-saving output stream header
+// summary: Declares an AudioOutputStream proxy that opens the audio device only between Start and Stop, using an AudioOutputDispatcher to manage physical streams.
+// ---
+
 #ifndef MEDIA_AUDIO_AUDIO_OUTPUT_PROXY_H_
 #define MEDIA_AUDIO_AUDIO_OUTPUT_PROXY_H_
 

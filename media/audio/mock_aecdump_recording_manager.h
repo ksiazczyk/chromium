@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MockAecdumpRecordingManager declaration
+// summary: Declares a gmock mock of AecdumpRecordingManager with stubbed source registration and debug recording methods.
+// ---
+
 #ifndef MEDIA_AUDIO_MOCK_AECDUMP_RECORDING_MANAGER_H_
 #define MEDIA_AUDIO_MOCK_AECDUMP_RECORDING_MANAGER_H_
 

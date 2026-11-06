@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioDeviceInfoAccessorForTests header
+// summary: Declares a test-only accessor exposing protected AudioManager device info methods for use in media unit tests.
+// ---
+
 #ifndef MEDIA_AUDIO_AUDIO_DEVICE_INFO_ACCESSOR_FOR_TESTS_H_
 #define MEDIA_AUDIO_AUDIO_DEVICE_INFO_ACCESSOR_FOR_TESTS_H_
 

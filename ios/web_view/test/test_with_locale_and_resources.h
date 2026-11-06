@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test suite with locale and resources header
+// summary: Declares a PlatformTest subclass that sets up locale and resources for tests that depend on localized strings.
+// ---
+
 #ifndef IOS_WEB_VIEW_TEST_TEST_WITH_LOCALE_AND_RESOURCES_H_
 #define IOS_WEB_VIEW_TEST_TEST_WITH_LOCALE_AND_RESOURCES_H_
 

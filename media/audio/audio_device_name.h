@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioDeviceName header
+// summary: Declares the AudioDeviceName struct holding a device's friendly name and unique ID, plus the AudioDeviceNames list type.
+// ---
+
 #ifndef MEDIA_AUDIO_AUDIO_DEVICE_NAME_H_
 #define MEDIA_AUDIO_AUDIO_DEVICE_NAME_H_
 

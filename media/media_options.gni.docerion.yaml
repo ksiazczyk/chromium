@@ -1,0 +1,4 @@
+# Docerion header of media_options.gni.
+type: config
+title: Media build options
+summary: Declares GN build arguments that control codec, audio and platform feature support for the media library across platforms.

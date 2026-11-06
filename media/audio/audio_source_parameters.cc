@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioSourceParameters implementation
+// summary: Implements constructors and destructor for the AudioSourceParameters struct used to configure audio input devices.
+// ---
+
 #include "media/audio/audio_source_parameters.h"
 
 namespace media {

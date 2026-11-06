@@ -1,0 +1,4 @@
+# Docerion header of shell_view_controller.m.
+type: source
+title: ShellViewController implementation
+summary: Implements the shell's main UI, wiring navigation, autofill, translation, auth, trusted vault, downloads, popups, and leak checks into the web view.

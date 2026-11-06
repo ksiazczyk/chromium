@@ -6,6 +6,12 @@
 // we want to use.  It's purpose is to allow injection of a mock so that the
 // higher level code is testable.
 
+// ---docerion
+// type: source
+// title: ALSA library wrapper class declaration
+// summary: Declares AlsaWrapper, a stateless virtual interface over the ALSA library commands so higher-level audio code can be tested with a mock.
+// ---
+
 #ifndef MEDIA_AUDIO_ALSA_ALSA_WRAPPER_H_
 #define MEDIA_AUDIO_ALSA_ALSA_WRAPPER_H_
 

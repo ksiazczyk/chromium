@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the shell
+summary: Declares the allowed include directories for code in ios/web_view/shell.

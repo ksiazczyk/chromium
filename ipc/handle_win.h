@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows HANDLE wrapper for IPC transport
+// summary: Declares HandleWin, a wrapper around a Windows HANDLE that can be transported across Chrome IPC channels supporting attachment brokering.
+// ---
+
 #ifndef IPC_HANDLE_WIN_H_
 #define IPC_HANDLE_WIN_H_
 

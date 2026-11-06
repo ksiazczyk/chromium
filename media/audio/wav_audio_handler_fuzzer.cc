@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WAV audio handler fuzzer
+// summary: Fuzz target that feeds arbitrary input bytes to WavAudioHandler and copies parsed frames into an AudioBus to uncover parsing crashes.
+// ---
+
 #include "media/audio/wav_audio_handler.h"
 
 #include <stddef.h>

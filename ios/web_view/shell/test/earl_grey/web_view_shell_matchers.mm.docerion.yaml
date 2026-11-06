@@ -1,0 +1,4 @@
+# Docerion header of web_view_shell_matchers.mm.
+type: test
+title: WebView shell Earl Grey matchers implementation
+summary: Implements the shell test matchers, matching UI elements by accessibility label and waiting for the address field text to equal an expected value.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioDeviceStatsReporter header
+// summary: Declares AudioDeviceStatsReporter, which aggregates delay and glitch stats and uploads UMA histograms per 1000 callbacks or on short-stream destruction.
+// ---
+
 #ifndef MEDIA_AUDIO_AUDIO_DEVICE_STATS_REPORTER_H_
 #define MEDIA_AUDIO_AUDIO_DEVICE_STATS_REPORTER_H_
 

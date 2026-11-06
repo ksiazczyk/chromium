@@ -1,0 +1,4 @@
+# Docerion header of build.py.
+type: script
+title: Build script for ChromeWebView.framework
+summary: Python script that generates and builds ChromeWebView.framework for iOS via GN and Ninja, then copies the framework and dSYM symbols into an output directory.

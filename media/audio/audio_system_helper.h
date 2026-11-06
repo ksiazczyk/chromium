@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioSystemHelper header
+// summary: Declares AudioSystemHelper, a helper wrapping AudioManager functionality for AudioSystem implementations, usable on the audio thread only.
+// ---
+
 #ifndef MEDIA_AUDIO_AUDIO_SYSTEM_HELPER_H_
 #define MEDIA_AUDIO_AUDIO_SYSTEM_HELPER_H_
 

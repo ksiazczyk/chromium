@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AudioSystemImpl unit tests
+// summary: Runs the AudioSystemTestTemplate suite against AudioSystemImpl with a MockAudioManager, covering both audio-thread and non-audio-thread variants.
+// ---
+
 #include "media/audio/audio_system_impl.h"
 
 #include "base/test/task_environment.h"

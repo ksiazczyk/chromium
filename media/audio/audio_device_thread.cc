@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioDeviceThread implementation
+// summary: Implements the audio worker thread that reads sync socket notifications and drives shared-memory audio callbacks until shutdown.
+// ---
+
 #include "media/audio/audio_device_thread.h"
 
 #include <limits>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AudioOutputDevice unit tests
+// summary: Unit tests for AudioOutputDevice using mock IPC and render callbacks to verify device authorization, stream creation, playback, and shared memory transport.
+// ---
+
 #include "media/audio/audio_output_device.h"
 
 #include <stdint.h>

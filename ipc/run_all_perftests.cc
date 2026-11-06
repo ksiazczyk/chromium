@@ -4,6 +4,12 @@
 
 // Copied from mojo/core/test/run_all_perftests.cc.
 
+// ---docerion
+// type: test
+// title: Entry point for IPC performance tests
+// summary: Main function that initializes Mojo IPC support and runs the base performance test suite for IPC benchmarks.
+// ---
+
 #include "base/command_line.h"
 #include "base/test/perf_test_suite.h"
 #include "base/test/test_io_thread.h"

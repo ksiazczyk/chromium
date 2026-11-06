@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System glitch reporter implementation
+// summary: Aggregates audio glitch statistics and periodically reports them as UMA metrics for capture, render, loopback, and loopback reference streams.
+// ---
+
 #include "media/audio/system_glitch_reporter.h"
 
 #include "base/metrics/histogram_functions.h"

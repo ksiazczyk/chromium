@@ -1,0 +1,4 @@
+# Docerion header of ui_delegate_inttest.mm.
+type: test
+title: UI delegate integration tests
+summary: Integration tests verifying CWVUIDelegate methods for creating web views and running JavaScript alert, confirm, and text input panels.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeAudioManager implementation (fake_audio_manager.cc)
+// summary: Implements a fake AudioManager that reports no audio devices and creates fake input and output streams with default 48 kHz parameters.
+// ---
+
 #include "media/audio/fake_audio_manager.h"
 
 #include <algorithm>

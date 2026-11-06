@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ALSA library wrapper implementation
+// summary: Implements AlsaWrapper methods that forward calls to the ALSA library for PCM open, write, read, hardware parameters, and device name hint operations.
+// ---
+
 #include "media/audio/alsa/alsa_wrapper.h"
 
 #include "base/compiler_specific.h"

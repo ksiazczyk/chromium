@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuchsia handle attachment implementation
+// summary: Implements the Fuchsia handle attachment type for Chrome IPC messages, wrapping an owned zx::handle.
+// ---
+
 #include "ipc/handle_attachment_fuchsia.h"
 
 #include <zircon/syscalls.h>

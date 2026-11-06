@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ALSA utility function declarations
+// summary: Declares alsa_util functions for opening and closing ALSA PCM devices and mixers, used by the ALSA audio input and output streams.
+// ---
+
 #ifndef MEDIA_AUDIO_ALSA_ALSA_UTIL_H_
 #define MEDIA_AUDIO_ALSA_ALSA_UTIL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac Mach port attachment implementation
+// summary: Implements the macOS Mach port attachment for IPC messages, managing Mach port send-right reference counts.
+// ---
+
 #include "ipc/mach_port_attachment_mac.h"
 
 #include <stdint.h>

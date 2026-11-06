@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for the iOS WebView shell
+summary: GN build file defining the ios_web_view_shell app bundle, source sets, and overridable build arguments for auth service, risk data loader, and trusted vault provider implementations.

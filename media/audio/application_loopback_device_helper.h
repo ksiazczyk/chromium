@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Application loopback device ID helper header
+// summary: Declares helpers to build and parse application loopback device IDs that encode bundle IDs and application PIDs for audio capture on Windows and macOS.
+// ---
+
 #ifndef MEDIA_AUDIO_APPLICATION_LOOPBACK_DEVICE_HELPER_H_
 #define MEDIA_AUDIO_APPLICATION_LOOPBACK_DEVICE_HELPER_H_
 

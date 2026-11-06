@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IPC listener interface
+// summary: Declares the IPC::Listener interface with callbacks for channel connection, channel errors, and associated interface requests.
+// ---
+
 #ifndef IPC_IPC_LISTENER_H_
 #define IPC_IPC_LISTENER_H_
 

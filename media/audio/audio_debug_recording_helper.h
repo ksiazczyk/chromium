@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio debug recording helper header
+// summary: Declares the AudioDebugRecorder interface and AudioDebugRecordingHelper, which manages AudioDebugFileWriter creation and thread-safe audio data feeding.
+// ---
+
 #ifndef MEDIA_AUDIO_AUDIO_DEBUG_RECORDING_HELPER_H_
 #define MEDIA_AUDIO_AUDIO_DEBUG_RECORDING_HELPER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio logging interfaces
+// summary: Declares AudioLog and AudioLogFactory interfaces for tracking audio component events such as creation, start, stop, volume changes and errors.
+// ---
+
 #ifndef MEDIA_AUDIO_AUDIO_LOGGING_H_
 #define MEDIA_AUDIO_AUDIO_LOGGING_H_
 

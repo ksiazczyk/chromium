@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioDeviceThread header
+// summary: Declares AudioDeviceThread and its Callback interface for transferring audio data between browser and render processes via sockets and shared memory.
+// ---
+
 #ifndef MEDIA_AUDIO_AUDIO_DEVICE_THREAD_H_
 #define MEDIA_AUDIO_AUDIO_DEVICE_THREAD_H_
 

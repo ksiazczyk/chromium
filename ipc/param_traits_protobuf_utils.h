@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ParamTraits for protobuf repeated fields
+// summary: Defines ParamTraits for serializing protobuf RepeatedField and RepeatedPtrField values over IPC pickles.
+// ---
+
 #ifndef IPC_PARAM_TRAITS_PROTOBUF_UTILS_H_
 #define IPC_PARAM_TRAITS_PROTOBUF_UTILS_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of features.gni.
+type: config
+title: IPC feature build arguments
+summary: Declares the enable_ipc_logging GN build argument, which currently controls nothing and is slated for removal.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioHandler interface
+// summary: Interface for classes that deliver decoded audio data sequentially into an AudioBus, with queries for channels, sample rate, duration and end of stream.
+// ---
+
 #ifndef MEDIA_AUDIO_AUDIO_HANDLER_H_
 #define MEDIA_AUDIO_AUDIO_HANDLER_H_
 

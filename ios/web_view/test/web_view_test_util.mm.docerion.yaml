@@ -1,0 +1,4 @@
+# Docerion header of web_view_test_util.mm.
+type: test
+title: WebView test utility helpers
+summary: Helper functions for CWVWebView integration tests, offering web view creation, URL loading, JavaScript evaluation, element tapping, state copying, and waits for load or text content.

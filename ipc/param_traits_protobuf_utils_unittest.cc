@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for protobuf repeated field ParamTraits
+// summary: Tests serialization of protobuf repeated fields via IPC ParamTraits, including empty and invalid pickle cases.
+// ---
+
 #include "ipc/param_traits_protobuf_utils.h"
 
 #include <initializer_list>

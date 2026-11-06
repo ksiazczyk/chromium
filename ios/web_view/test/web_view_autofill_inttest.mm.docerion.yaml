@@ -1,0 +1,4 @@
+# Docerion header of web_view_autofill_inttest.mm.
+type: test
+title: CWVWebView autofill integration tests
+summary: Integration tests verifying autofill behaviors of CWVWebView, including form field activity and submission handling through CWVAutofillController.

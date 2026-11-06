@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: KVO observer test helper header
+// summary: Declares an Observer class that watches a KVO-compliant property and records the last and previous values for use in tests.
+// ---
+
 #ifndef IOS_WEB_VIEW_TEST_OBSERVER_H_
 #define IOS_WEB_VIEW_TEST_OBSERVER_H_
 

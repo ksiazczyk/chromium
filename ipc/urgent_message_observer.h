@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UrgentMessageObserver interface for IPC
+// summary: Defines an interface with callbacks for when urgent IPC messages are received and when their processing tasks run or fail.
+// ---
+
 #ifndef IPC_URGENT_MESSAGE_OBSERVER_H_
 #define IPC_URGENT_MESSAGE_OBSERVER_H_
 

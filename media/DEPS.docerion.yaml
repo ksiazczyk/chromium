@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for //media
+summary: Lists allowed and forbidden include paths for media code, with per-file exceptions for tests and Fuchsia mojom traits.

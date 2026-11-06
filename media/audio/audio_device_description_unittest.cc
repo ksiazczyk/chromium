@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AudioDeviceDescription unit tests
+// summary: Unit tests verifying that localization leaves generic labels unchanged and sanitizes user names in device descriptions while preserving formatting.
+// ---
+
 #include "media/audio/audio_device_description.h"
 
 #include "media/audio/application_loopback_device_helper.h"

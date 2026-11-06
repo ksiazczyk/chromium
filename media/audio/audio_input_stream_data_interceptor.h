@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio input stream data interceptor
+// summary: Declares AudioInputStreamDataInterceptor, a wrapper around AudioInputStream that intercepts OnData callbacks to feed audio debug recorders.
+// ---
+
 #ifndef MEDIA_AUDIO_AUDIO_INPUT_STREAM_DATA_INTERCEPTOR_H_
 #define MEDIA_AUDIO_AUDIO_INPUT_STREAM_DATA_INTERCEPTOR_H_
 

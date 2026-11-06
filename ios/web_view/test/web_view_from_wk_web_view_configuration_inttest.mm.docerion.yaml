@@ -1,0 +1,4 @@
+# Docerion header of web_view_from_wk_web_view_configuration_inttest.mm.
+type: test
+title: CWVWebView creation from WKWebViewConfiguration tests
+summary: Integration tests verifying that a CWVWebView can be created from a WKWebViewConfiguration outside //ios/web, including via window.open().

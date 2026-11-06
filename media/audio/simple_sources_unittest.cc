@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Simple audio sources unit tests
+// summary: Unit tests validating sine wave sample values, sample capping, error counting, and WAV file source playback.
+// ---
+
 #include "media/audio/simple_sources.h"
 
 #include <stddef.h>

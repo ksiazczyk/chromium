@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MessageView class declaration
+// summary: Declares IPC::MessageView, a move-only view over serialized message bytes and optional Mojo serialized handles.
+// ---
+
 #ifndef IPC_MESSAGE_VIEW_H_
 #define IPC_MESSAGE_VIEW_H_
 

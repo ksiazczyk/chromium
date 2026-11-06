@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test suite with locale and resources implementation
+// summary: Implements TestWithLocaleAndResources, initializing the shared ResourceBundle with the Cocoa locale for tests.
+// ---
+
 #include "ios/web_view/test/test_with_locale_and_resources.h"
 
 #include "ui/base/l10n/l10n_util_mac.h"

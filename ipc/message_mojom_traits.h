@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojom struct traits for IPC message serialization
+// summary: Defines Mojo StructTraits that map IPC::MessageView bytes and serialized handles to the ipc.mojom Message type.
+// ---
+
 #ifndef IPC_MESSAGE_MOJOM_TRAITS_H_
 #define IPC_MESSAGE_MOJOM_TRAITS_H_
 

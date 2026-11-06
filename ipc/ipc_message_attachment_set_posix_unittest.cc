@@ -4,6 +4,12 @@
 
 // This test is POSIX only.
 
+// ---docerion
+// type: test
+// title: POSIX message attachment set unit tests
+// summary: Unit tests for MessageAttachmentSet on POSIX, covering adding, closing, size limits, and ordered access of file descriptors.
+// ---
+
 #include "ipc/ipc_message_attachment_set.h"
 
 #include <fcntl.h>

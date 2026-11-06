@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Audio system test callback utilities
+// summary: Implements AudioSystemCallbackExpectations helpers that build AudioSystem callbacks verifying received parameters against expected values in tests.
+// ---
+
 #include "media/audio/audio_system_test_util.h"
 
 #include "base/functional/bind.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo bootstrap header
+// summary: Declares MojoBootstrap, which sets up a pair of associated interfaces between two processes, along with scoped support for off-sequence channel-associated bindings.
+// ---
+
 #ifndef IPC_IPC_MOJO_BOOTSTRAP_H_
 #define IPC_IPC_MOJO_BOOTSTRAP_H_
 

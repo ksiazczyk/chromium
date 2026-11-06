@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AGC audio stream template
+// summary: Template base class adding automatic gain control microphone volume sampling to platform audio input and output stream implementations.
+// ---
+
 #ifndef MEDIA_AUDIO_AGC_AUDIO_STREAM_H_
 #define MEDIA_AUDIO_AGC_AUDIO_STREAM_H_
 

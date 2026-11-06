@@ -1,0 +1,4 @@
+# Docerion header of scroll_view_kvo_inttest.mm.
+type: test
+title: Scroll view KVO integration tests
+summary: Integration tests checking that the UIScrollView KVO properties contentOffset and contentSize report changes correctly.

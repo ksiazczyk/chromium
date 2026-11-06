@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShellTrustedVaultProvider interface header
+// summary: Declares ShellTrustedVaultProvider, which provides trusted vault functions such as key fetch and recoverability flows to ChromeWebView.
+// ---
+
 #ifndef IOS_WEB_VIEW_SHELL_SHELL_TRUSTED_VAULT_PROVIDER_H_
 #define IOS_WEB_VIEW_SHELL_SHELL_TRUSTED_VAULT_PROVIDER_H_
 

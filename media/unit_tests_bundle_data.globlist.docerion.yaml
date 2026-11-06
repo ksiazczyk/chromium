@@ -1,0 +1,4 @@
+# Docerion header of unit_tests_bundle_data.globlist.
+type: config
+title: Unit tests bundle data glob list
+summary: Lists glob patterns of media test and fuzz corpus files to include in the iOS unit tests bundle, with exclusions, for updating the .filelist counterpart.

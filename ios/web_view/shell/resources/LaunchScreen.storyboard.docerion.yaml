@@ -1,0 +1,4 @@
+# Docerion header of LaunchScreen.storyboard.
+type: asset
+title: Launch screen storyboard for the shell app
+summary: Interface Builder storyboard that defines the iOS launch screen, displaying a centered ChromeWebView title label for the web_view shell.

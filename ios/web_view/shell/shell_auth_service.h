@@ -1,6 +1,13 @@
 // Copyright 2018 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: ShellAuthService interface header
+// summary: Declares the authorization service for the shell, which supplies identities as a CWVSyncControllerDataSource.
+// ---
+
 #ifndef IOS_WEB_VIEW_SHELL_SHELL_AUTH_SERVICE_H_
 #define IOS_WEB_VIEW_SHELL_SHELL_AUTH_SERVICE_H_
 

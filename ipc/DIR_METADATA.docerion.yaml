@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Bug tracking metadata for ipc
+summary: Maps the ipc directory to the Internals>Core monorail component and a Buganizer component ID for issue tracking.

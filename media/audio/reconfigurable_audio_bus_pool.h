@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reconfigurable audio bus pool header
+// summary: Declares ReconfigurableAudioBusPoolImpl, an AudioBusPool supporting reconfiguration and dropping mismatched audio buses.
+// ---
+
 #ifndef MEDIA_AUDIO_RECONFIGURABLE_AUDIO_BUS_POOL_H_
 #define MEDIA_AUDIO_RECONFIGURABLE_AUDIO_BUS_POOL_H_
 

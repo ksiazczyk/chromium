@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ALSA audio manager implementation
+// summary: Implements AudioManagerAlsa, which enumerates ALSA sound cards and devices and creates audio input and output streams for Chromium's media stack.
+// ---
+
 #include "media/audio/alsa/audio_manager_alsa.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Null audio sink unit tests
+// summary: Unit tests for NullAudioSink, verifying that playback resumes and Render callbacks occur after Stop and re-initialization.
+// ---
+
 #include "media/audio/null_audio_sink.h"
 
 #include "base/test/task_environment.h"

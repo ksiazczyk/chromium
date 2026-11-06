@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WAV audio handler unit tests
+// summary: GoogleTest suite verifying WavAudioHandler parsing of PCM, float and extensible WAV test data, including channels, sample rate, duration and frame copying.
+// ---
+
 #include "media/audio/wav_audio_handler.h"
 
 #include <stddef.h>

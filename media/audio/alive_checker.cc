@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AliveChecker implementation
+// summary: Implements periodic liveness checks that run a callback when a client fails to report being alive within the timeout.
+// ---
+
 #include "media/audio/alive_checker.h"
 
 #include <utility>

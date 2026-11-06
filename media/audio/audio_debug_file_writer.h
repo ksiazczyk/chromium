@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio debug file writer header
+// summary: Declares AudioDebugFileWriter, which writes audio data to 16-bit PCM WAVE files for debugging, with creation and task-runner-based lifetime management.
+// ---
+
 #ifndef MEDIA_AUDIO_AUDIO_DEBUG_FILE_WRITER_H_
 #define MEDIA_AUDIO_AUDIO_DEBUG_FILE_WRITER_H_
 

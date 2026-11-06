@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Reconfigurable audio bus pool unit tests
+// summary: Unit tests verifying that the audio bus pool reconfigures to new audio parameters and enforces its maximum capacity.
+// ---
+
 #include "media/audio/reconfigurable_audio_bus_pool.h"
 
 #include <memory>

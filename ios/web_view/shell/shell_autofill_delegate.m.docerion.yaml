@@ -1,0 +1,4 @@
+# Docerion header of shell_autofill_delegate.m.
+type: source
+title: ShellAutofillDelegate implementation
+summary: Implements autofill suggestion handling, card verification progress dialogs, and risk data loading for the shell's autofill user interface.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WAV audio handler implementation
+// summary: Parses WAV file data, validates format parameters, and exposes audio buses and parameters through WavAudioHandler.
+// ---
+
 #include "media/audio/wav_audio_handler.h"
 
 #include <algorithm>

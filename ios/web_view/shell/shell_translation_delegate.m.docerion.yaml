@@ -1,0 +1,4 @@
+# Docerion header of shell_translation_delegate.m.
+type: source
+title: ShellTranslationDelegate implementation
+summary: Implements translation handling for the shell, prompting users with an action sheet to translate, always translate, or never translate pages.

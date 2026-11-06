@@ -1,0 +1,4 @@
+# Docerion header of web_view_back_forward_list_inttest.mm.
+type: test
+title: CWVBackForwardList integration tests
+summary: Integration tests covering CWVBackForwardList creation from CWVWebView and navigation to back and forward list items.

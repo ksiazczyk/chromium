@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows handle attachment for IPC messages
+// summary: Declares HandleAttachmentWin, a MessageAttachment that owns a Windows HANDLE attached to a Chrome IPC message, with constructors for sender and receiver ownership.
+// ---
+
 #ifndef IPC_HANDLE_ATTACHMENT_WIN_H_
 #define IPC_HANDLE_ATTACHMENT_WIN_H_
 

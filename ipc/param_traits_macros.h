@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Macros for declaring struct and enum ParamTraits
+// summary: Provides macros to declare ParamTraits specializations for structs and range-validated enums used in IPC messages.
+// ---
+
 #ifndef IPC_PARAM_TRAITS_MACROS_H_
 #define IPC_PARAM_TRAITS_MACROS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: POSIX platform file attachment declaration
+// summary: Declares PlatformFileAttachment, an optionally owning platform file sent over an IPC channel on POSIX systems.
+// ---
+
 #ifndef IPC_IPC_PLATFORM_FILE_ATTACHMENT_POSIX_H_
 #define IPC_IPC_PLATFORM_FILE_ATTACHMENT_POSIX_H_
 

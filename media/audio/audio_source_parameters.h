@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioSourceParameters header
+// summary: Declares the AudioSourceParameters struct with session ID and optional audio processing settings for AudioInputDevice creation.
+// ---
+
 #ifndef MEDIA_AUDIO_AUDIO_SOURCE_PARAMETERS_H_
 #define MEDIA_AUDIO_AUDIO_SOURCE_PARAMETERS_H_
 

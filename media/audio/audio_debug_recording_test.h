@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Audio debug recording test base class
+// summary: Declares a base test class for media/audio and services/audio debug recording tests, providing mock audio manager setup and shutdown helpers.
+// ---
+
 #ifndef MEDIA_AUDIO_AUDIO_DEBUG_RECORDING_TEST_H_
 #define MEDIA_AUDIO_AUDIO_DEBUG_RECORDING_TEST_H_
 

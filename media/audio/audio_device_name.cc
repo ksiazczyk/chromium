@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioDeviceName implementation
+// summary: Implements AudioDeviceName constructors and factories for default and communications audio device representations.
+// ---
+
 #include "media/audio/audio_device_name.h"
 
 #include <utility>

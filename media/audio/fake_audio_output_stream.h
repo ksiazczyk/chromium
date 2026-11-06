@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeAudioOutputStream class declaration
+// summary: Declares a fake AudioOutputStream used for testing and when no real audio output device is available.
+// ---
+
 #ifndef MEDIA_AUDIO_FAKE_AUDIO_OUTPUT_STREAM_H_
 #define MEDIA_AUDIO_FAKE_AUDIO_OUTPUT_STREAM_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioDeviceInfoAccessorForTests implementation
+// summary: Implements a test-only accessor that forwards AudioManager device info queries such as device lists, parameters and default device IDs.
+// ---
+
 #include "media/audio/audio_device_info_accessor_for_tests.h"
 
 #include "base/task/single_thread_task_runner.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Message attachment implementation
+// summary: Implements MessageAttachment helpers that convert platform files, Mach ports, Windows and Fuchsia handles, and Mojo handles into Mojo handles.
+// ---
+
 #include "ipc/ipc_message_attachment.h"
 
 #include "base/files/scoped_file.h"

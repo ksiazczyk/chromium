@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeAudioOutputStream implementation (fake_audio_output_stream.cc)
+// summary: Implements a fake AudioOutputStream that uses FakeAudioWorker to call the source callback with zeroed audio buffers and a fixed delay.
+// ---
+
 #include "media/audio/fake_audio_output_stream.h"
 
 #include "base/check.h"

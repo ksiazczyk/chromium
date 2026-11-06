@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioDeviceDescription interface
+// summary: Declares constants and helpers for audio device names and IDs, including default, communications, and various loopback capture device identifiers.
+// ---
+
 #ifndef MEDIA_AUDIO_AUDIO_DEVICE_DESCRIPTION_H_
 #define MEDIA_AUDIO_AUDIO_DEVICE_DESCRIPTION_H_
 

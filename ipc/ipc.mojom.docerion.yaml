@@ -1,0 +1,4 @@
+# Docerion header of ipc.mojom.
+type: source
+title: Mojo IPC channel interface definitions
+summary: Mojo interface definitions for the IPC module, including the Message struct and the Channel interface used to exchange IPC messages and peer PIDs.

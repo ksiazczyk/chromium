@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClocklessAudioSink header (clockless_audio_sink.h)
+// summary: Declares ClocklessAudioSink, an AudioRendererSink that consumes audio as fast as possible and reports the total render time for testing.
+// ---
+
 #ifndef MEDIA_AUDIO_CLOCKLESS_AUDIO_SINK_H_
 #define MEDIA_AUDIO_CLOCKLESS_AUDIO_SINK_H_
 

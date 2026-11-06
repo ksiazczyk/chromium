@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo handle attachment header
+// summary: Declares MojoHandleAttachment, a MessageAttachment that can hold any transferrable Mojo handle such as a message pipe or data pipe for IPC transfer.
+// ---
+
 #ifndef IPC_IPC_MOJO_HANDLE_ATTACHMENT_H_
 #define IPC_IPC_MOJO_HANDLE_ATTACHMENT_H_
 

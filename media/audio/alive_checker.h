@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AliveChecker header
+// summary: Declares AliveChecker, which monitors regular client notifications and reports dead clients, optionally pausing checks during system suspend.
+// ---
+
 #ifndef MEDIA_AUDIO_ALIVE_CHECKER_H_
 #define MEDIA_AUDIO_ALIVE_CHECKER_H_
 

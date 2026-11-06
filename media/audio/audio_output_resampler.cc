@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioOutputResampler implementation with fallback handling
+// summary: Implements browser-side resampling and buffering of audio output, routing source callbacks through AudioConverter and falling back from low latency to linear or fake streams.
+// ---
+
 #include "media/audio/audio_output_resampler.h"
 
 #include <stdint.h>

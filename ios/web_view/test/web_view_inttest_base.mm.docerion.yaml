@@ -1,0 +1,4 @@
+# Docerion header of web_view_inttest_base.mm.
+type: test
+title: Implementation of the CWVWebView test fixture
+summary: Implements WebViewInttestBase, initializing global state and a test server that renders HTML pages from base64-encoded title, body, or html parameters.

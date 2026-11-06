@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unit tests for the ALSA output stream
+// summary: GMock-based unit tests for AlsaPcmOutputStream covering device auto-selection, packet buffering, and error handling with a mocked ALSA wrapper and manager.
+// ---
+
 #include "media/audio/alsa/alsa_output.h"
 
 #include <stdint.h>

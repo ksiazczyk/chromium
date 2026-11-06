@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for AecdumpRecordingManager
+// summary: Unit tests verifying enable and disable of aecdump debug recording and correct start and stop behavior for registered sources.
+// ---
+
 #include "media/audio/aecdump_recording_manager.h"
 
 #include "base/files/file_path.h"

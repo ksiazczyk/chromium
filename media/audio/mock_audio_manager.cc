@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MockAudioManager implementation
+// summary: Implements a test-only AudioManager that fakes device queries and stream creation through configurable callbacks.
+// ---
+
 #include "media/audio/mock_audio_manager.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ParamTraits primary template
+// summary: Defines the generic IPC::ParamTraits template that fails compilation without a specialization, plus SimilarTypeTraits.
+// ---
+
 #ifndef IPC_PARAM_TRAITS_H_
 #define IPC_PARAM_TRAITS_H_
 

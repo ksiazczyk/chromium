@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AudioDebugRecordingHelper unit tests
+// summary: Unit tests for the audio debug recording helper, using a mock file writer and a test subclass to verify writing and enable/disable behavior.
+// ---
+
 
 #include "media/audio/audio_debug_recording_helper.h"
 

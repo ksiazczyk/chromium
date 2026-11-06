@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AudioManager unit tests
+// summary: Unit tests for AudioManager covering device enumeration, default and communications device labeling, and platform-specific manager creation for PulseAudio, ALSA, Mac, Windows, and CRAS.
+// ---
+
 #include "media/audio/audio_manager.h"
 
 #include <algorithm>

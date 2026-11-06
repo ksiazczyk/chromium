@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FlacAudioHandler unit tests
+// summary: Tests FLAC decoding, reset-and-redecode consistency, and partial frame copying behavior of FlacAudioHandler.
+// ---
+
 #include "media/audio/flac_audio_handler.h"
 
 #include <algorithm>

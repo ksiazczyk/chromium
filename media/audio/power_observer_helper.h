@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Power observer helper header
+// summary: Declares PowerObserverHelper, a PowerSuspendObserver that runs suspend and resume callbacks on a supplied task runner.
+// ---
+
 #ifndef MEDIA_AUDIO_POWER_OBSERVER_HELPER_H_
 #define MEDIA_AUDIO_POWER_OBSERVER_HELPER_H_
 

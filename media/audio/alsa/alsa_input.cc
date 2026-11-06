@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ALSA PCM input stream implementation
+// summary: Implements AlsaPcmInputStream, which captures audio from ALSA PCM devices with auto device selection, mixer handling, and a dedicated realtime capture thread.
+// ---
+
 #include "media/audio/alsa/alsa_input.h"
 
 #include <stddef.h>

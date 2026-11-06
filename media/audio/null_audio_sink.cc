@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Null audio sink implementation
+// summary: Implements NullAudioSink, a silent audio renderer sink that fakes rendering via FakeAudioWorker when no real sink exists.
+// ---
+
 #include "media/audio/null_audio_sink.h"
 
 #include <memory>

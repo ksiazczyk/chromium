@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Audio input stream data interceptor unit tests
+// summary: Unit tests for AudioInputStreamDataInterceptor using mock streams, callbacks and debug recorders to verify interception and forwarding behavior.
+// ---
+
 #include "media/audio/audio_input_stream_data_interceptor.h"
 
 #include <utility>

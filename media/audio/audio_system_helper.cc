@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioSystemHelper implementation
+// summary: Implements AudioSystemHelper methods that answer AudioSystem queries from AudioManager data on the audio thread.
+// ---
+
 #include "media/audio/audio_system_helper.h"
 
 #include "base/task/single_thread_task_runner.h"

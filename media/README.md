@@ -1,3 +1,13 @@
+---
+type: readme
+title: Overview of the //media directory
+summary: Introduces Chromium Media, breaking down its subdirectories and outlining the media playback pipeline and logging practices.
+relations:
+  - references /docs/media/media_pipeline_overview.png
+  - documents /media/audio/README.md
+  - documents /media/capture/README.md
+---
+
 # //media
 
 Welcome to Chromium Media! This directory primarily contains a collection of

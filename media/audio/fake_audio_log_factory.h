@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeAudioLogFactory header (fake_audio_log_factory.h)
+// summary: Declares FakeAudioLogFactory, which creates stub AudioLog instances that do nothing, for use in tests.
+// ---
+
 #ifndef MEDIA_AUDIO_FAKE_AUDIO_LOG_FACTORY_H_
 #define MEDIA_AUDIO_FAKE_AUDIO_LOG_FACTORY_H_
 

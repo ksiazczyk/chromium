@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ALSA device and mixer helper functions
+// summary: Implements alsa_util helpers that open and close ALSA capture and playback devices and mixers, configuring hardware and software parameters with error logging.
+// ---
+
 #include "media/audio/alsa/alsa_util.h"
 
 #include <stddef.h>

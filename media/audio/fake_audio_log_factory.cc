@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeAudioLogFactory implementation (fake_audio_log_factory.cc)
+// summary: Implements a no-op AudioLog and a factory that creates stub audio log instances for testing.
+// ---
+
 #include "media/audio/fake_audio_log_factory.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ParamTraits declarations for IPC parameter serialization
+// summary: Declares ParamTraits template specializations and WriteParam/ReadParam helpers used to serialize and deserialize IPC message parameters.
+// ---
+
 #ifndef IPC_PARAM_TRAITS_UTILS_H_
 #define IPC_PARAM_TRAITS_UTILS_H_
 

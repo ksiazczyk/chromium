@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Message attachment set implementation
+// summary: Implements the ordered attachment set for IPC messages, enforcing descriptor limits and strictly in-order consumption of attachments.
+// ---
+
 #include "ipc/ipc_message_attachment_set.h"
 
 #include <stddef.h>

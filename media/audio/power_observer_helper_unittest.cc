@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Power observer helper unit tests
+// summary: Unit tests for PowerObserverHelper covering suspend and resume notifications, threading, and the IsSuspending check.
+// ---
+
 #include <memory>
 
 #include "base/functional/bind.h"

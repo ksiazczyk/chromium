@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IPC ChannelProxy class declaration
+// summary: Declares ChannelProxy, a helper for running an IPC Channel on a background thread with thread-safe sending and listener dispatch options.
+// ---
+
 #ifndef IPC_IPC_CHANNEL_PROXY_H_
 #define IPC_IPC_CHANNEL_PROXY_H_
 

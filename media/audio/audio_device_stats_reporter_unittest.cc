@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AudioDeviceStatsReporter unit tests
+// summary: Parameterized unit tests verifying delay and glitch histogram reporting for input and output streams across latency types.
+// ---
+
 #include "media/audio/audio_device_stats_reporter.h"
 #include "base/time/time.h"
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mojo bootstrap unit tests
+// summary: Unit tests for MojoBootstrap that verify multiprocess connection setup, message exchange and peer PID propagation over the IPC channel.
+// ---
+
 #include "ipc/ipc_mojo_bootstrap.h"
 
 #include <cstdint>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClocklessAudioSink implementation (clockless_audio_sink.cc)
+// summary: Implements an AudioRendererSink that renders audio on a dedicated thread as fast as possible, tracking playback time and optional audio hashing for tests.
+// ---
+
 #include "media/audio/clockless_audio_sink.h"
 
 #include <memory>

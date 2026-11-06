@@ -1,0 +1,4 @@
+# Docerion header of web_view_inttest.mm.
+type: test
+title: CWVWebView public API integration tests
+summary: Integration tests for public CWVWebView methods, covering custom user agent and user agent product settings.

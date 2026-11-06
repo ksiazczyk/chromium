@@ -1,0 +1,4 @@
+# Docerion header of ipc_test.test-mojom.
+type: source
+title: IPC test Mojom interface definitions
+summary: Defines Mojo test interfaces for IPC testing, covering sync messages, associated interfaces, urgent methods and a ping reflector.

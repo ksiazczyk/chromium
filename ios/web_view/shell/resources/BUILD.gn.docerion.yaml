@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for web_view shell resources
+summary: Defines GN bundle_data targets that package the shell's asset catalog icons and the launch screen storyboard into the iOS app bundle.

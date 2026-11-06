@@ -1,0 +1,4 @@
+# Docerion header of Info.plist.
+type: config
+title: Info.plist for the iOS WebView shell app
+summary: iOS bundle configuration for the shell app covering bundle metadata, usage descriptions, supported orientations, transport security, and scene configuration.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioThreadHangMonitor header
+// summary: Declares the AudioThreadHangMonitor class, its thread status and hang action enums, and the factory for monitoring the audio thread.
+// ---
+
 #ifndef MEDIA_AUDIO_AUDIO_THREAD_HANG_MONITOR_H_
 #define MEDIA_AUDIO_AUDIO_THREAD_HANG_MONITOR_H_
 

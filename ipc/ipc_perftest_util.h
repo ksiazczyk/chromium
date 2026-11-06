@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IPC performance test utility declarations
+// summary: Declares helpers for IPC performance tests, including the LockThreadAffinity scope, MojoPerfTestClient and the ReflectorImpl receiver.
+// ---
+
 #ifndef IPC_IPC_PERFTEST_UTIL_H_
 #define IPC_IPC_PERFTEST_UTIL_H_
 

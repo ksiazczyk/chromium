@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mach port IPC parameter traits implementation
+// summary: Implements ParamTraits for MachPortMac, writing and reading Mach ports as IPC message attachments.
+// ---
+
 #include "ipc/mach_port_mac.h"
 
 #include "base/memory/ref_counted.h"

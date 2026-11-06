@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo handle attachment implementation
+// summary: Implements MojoHandleAttachment, a message attachment that stores a scoped Mojo handle and releases it for transfer when taken.
+// ---
+
 #include "ipc/ipc_mojo_handle_attachment.h"
 
 #include <utility>

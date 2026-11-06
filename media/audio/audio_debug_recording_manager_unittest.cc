@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AudioDebugRecordingManager unit tests
+// summary: Unit tests for the audio debug recording manager, using a mock helper to verify registration, automatic unregistration, and enable/disable flows.
+// ---
+
 #include "media/audio/audio_debug_recording_manager.h"
 
 #include <memory>

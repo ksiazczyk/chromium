@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio feature flags
+// summary: Defines base::Feature flags controlling audio driver selection, hang monitoring, resampling and capture behavior on Android, Mac and other platforms.
+// ---
+
 #include "media/audio/audio_features.h"
 
 #include "base/feature_list.h"

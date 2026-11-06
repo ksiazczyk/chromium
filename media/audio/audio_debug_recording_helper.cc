@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio debug recording helper implementation
+// summary: Implements AudioDebugRecordingHelper, which enables and disables debug recording and writes audio data to a debug file writer from any thread.
+// ---
+
 #include "media/audio/audio_debug_recording_helper.h"
 
 #include <memory>

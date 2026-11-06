@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioManager implementation
+// summary: Implements AudioManager creation and singleton tracking, testing helpers with a fake log factory, COM initialization on Windows and global app name handling.
+// ---
+
 #include "media/audio/audio_manager.h"
 
 #include <stdint.h>

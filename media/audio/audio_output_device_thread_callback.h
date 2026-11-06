@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioOutputDeviceThreadCallback header
+// summary: Declares the callback that invokes the render callback on the audio thread for each created output device stream, managing shared memory and glitch reporting.
+// ---
+
 #ifndef MEDIA_AUDIO_AUDIO_OUTPUT_DEVICE_THREAD_CALLBACK_H_
 #define MEDIA_AUDIO_AUDIO_OUTPUT_DEVICE_THREAD_CALLBACK_H_
 

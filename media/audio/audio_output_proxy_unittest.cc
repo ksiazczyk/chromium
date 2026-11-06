@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for AudioOutputProxy and dispatchers
+// summary: GTest and GMock unit tests covering AudioOutputProxy behavior with dispatcher implementations, mock audio managers, and the audio output resampler.
+// ---
+
 #include "media/audio/audio_output_proxy.h"
 
 #include <stdint.h>

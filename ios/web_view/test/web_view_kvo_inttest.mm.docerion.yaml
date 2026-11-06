@@ -1,0 +1,4 @@
+# Docerion header of web_view_kvo_inttest.mm.
+type: test
+title: CWVWebView KVO property integration tests
+summary: Integration tests checking that KVO-compliant CWVWebView properties such as canGoBack, canGoForward, and title report changes correctly.

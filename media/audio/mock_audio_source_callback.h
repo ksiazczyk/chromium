@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock audio source callback header
+// summary: Declares MockAudioSourceCallback, a gmock mock of AudioOutputStream::AudioSourceCallback for testing.
+// ---
+
 #ifndef MEDIA_AUDIO_MOCK_AUDIO_SOURCE_CALLBACK_H_
 #define MEDIA_AUDIO_MOCK_AUDIO_SOURCE_CALLBACK_H_
 

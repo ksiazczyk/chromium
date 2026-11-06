@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IPC Channel class declaration
+// summary: Declares the IPC Channel class, a Mojo message pipe based channel with server and client modes for sending and receiving IPC messages.
+// ---
+
 #ifndef IPC_IPC_CHANNEL_H_
 #define IPC_IPC_CHANNEL_H_
 

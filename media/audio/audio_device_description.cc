@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioDeviceDescription implementation
+// summary: Implements audio device ID constants and sanitization of device names, redacting user names from labels while preserving profiles, form factors, and connection types.
+// ---
+
 #include "media/audio/audio_device_description.h"
 
 #include <utility>
