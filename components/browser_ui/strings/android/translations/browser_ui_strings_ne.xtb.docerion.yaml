@@ -1,0 +1,4 @@
+# Docerion header of browser_ui_strings_ne.xtb.
+type: data
+title: Nepali browser UI translation bundle
+summary: Nepali translations of Chrome Android browser UI strings, stored as an XTB XML bundle that maps numeric message IDs to localized text.

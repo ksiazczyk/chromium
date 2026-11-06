@@ -1,0 +1,4 @@
+# Docerion header of browser_ui_strings_iw.xtb.
+type: data
+title: Hebrew translation bundle for Android browser UI strings
+summary: XML translation bundle providing Hebrew translations of Chrome's Android browser UI strings, keyed by numeric message IDs.

@@ -1,0 +1,4 @@
+# Docerion header of browser_ui_strings_de.xtb.
+type: data
+title: German translations of Android browser UI strings
+summary: XML translation bundle providing German translations of Chrome for Android browser UI strings, keyed by numeric message IDs.

@@ -1,0 +1,4 @@
+# Docerion header of browser_ui_strings_km.xtb.
+type: data
+title: Khmer translation bundle for Android browser UI strings
+summary: XML translation bundle providing Khmer translations of Chrome's Android browser UI strings, keyed by numeric message IDs.

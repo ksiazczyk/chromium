@@ -1,0 +1,4 @@
+# Docerion header of browser_ui_strings_et.xtb.
+type: data
+title: Estonian translations of Android browser UI strings
+summary: XML translation bundle providing Estonian translations of Chrome for Android browser UI strings, keyed by numeric message IDs.

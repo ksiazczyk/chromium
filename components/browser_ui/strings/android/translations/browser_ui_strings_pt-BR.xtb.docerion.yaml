@@ -1,0 +1,4 @@
+# Docerion header of browser_ui_strings_pt-BR.xtb.
+type: data
+title: Brazilian Portuguese browser UI translation bundle
+summary: Brazilian Portuguese translations of Chrome Android browser UI strings, stored as an XTB XML bundle that maps numeric message IDs to localized text.

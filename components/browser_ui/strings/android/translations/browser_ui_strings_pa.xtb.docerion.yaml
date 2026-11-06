@@ -1,0 +1,4 @@
+# Docerion header of browser_ui_strings_pa.xtb.
+type: data
+title: Punjabi browser UI translation bundle
+summary: Punjabi translations of Chrome Android browser UI strings, stored as an XTB XML bundle that maps numeric message IDs to localized text.

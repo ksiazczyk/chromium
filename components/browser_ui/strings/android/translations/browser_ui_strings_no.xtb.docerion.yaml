@@ -1,0 +1,4 @@
+# Docerion header of browser_ui_strings_no.xtb.
+type: data
+title: Norwegian browser UI translation bundle
+summary: Norwegian translations of Chrome Android browser UI strings, stored as an XTB XML bundle that maps numeric message IDs to localized text.

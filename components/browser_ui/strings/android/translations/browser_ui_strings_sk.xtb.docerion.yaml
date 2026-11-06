@@ -1,0 +1,4 @@
+# Docerion header of browser_ui_strings_sk.xtb.
+type: data
+title: Slovak translation bundle for Android browser UI strings
+summary: Slovak translations of Chrome Android browser UI strings, stored as an XML translation bundle keyed by numeric message IDs.

@@ -1,0 +1,4 @@
+# Docerion header of browser_ui_strings_sl.xtb.
+type: data
+title: Slovenian translation bundle for Android browser UI strings
+summary: Slovenian translations of Chrome Android browser UI strings, stored as an XML translation bundle keyed by numeric message IDs.

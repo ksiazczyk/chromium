@@ -1,0 +1,4 @@
+# Docerion header of browser_ui_strings_en-GB.xtb.
+type: data
+title: British English translations of Android browser UI strings
+summary: XML translation bundle providing British English translations of Chrome for Android browser UI strings, keyed by numeric message IDs.

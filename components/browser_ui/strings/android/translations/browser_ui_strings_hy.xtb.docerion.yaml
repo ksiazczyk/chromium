@@ -1,0 +1,4 @@
+# Docerion header of browser_ui_strings_hy.xtb.
+type: data
+title: Armenian translation bundle for Android browser UI strings
+summary: XML translation bundle providing Armenian translations of Chrome's Android browser UI strings, keyed by numeric message IDs.

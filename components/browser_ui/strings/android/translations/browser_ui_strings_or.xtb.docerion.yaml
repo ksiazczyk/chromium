@@ -1,0 +1,4 @@
+# Docerion header of browser_ui_strings_or.xtb.
+type: data
+title: Odia browser UI translation bundle
+summary: Odia translations of Chrome Android browser UI strings, stored as an XTB XML bundle that maps numeric message IDs to localized text.
