@@ -1,0 +1,4 @@
+# Docerion header of content-sniffer-test3.html.
+type: test
+title: Content sniffer test 3 page
+summary: Loads a text file in a hidden iframe to exercise content sniffing behavior.

@@ -1,0 +1,4 @@
+# Docerion header of cross-origin-opener-policy_redirect_initial.html.mock-http-headers.
+type: test
+title: COOP redirect initial mock HTTP headers
+summary: Mock HTTP headers that respond with a 301 redirect to the final COOP page, sending same-origin COOP and require-corp COEP headers.

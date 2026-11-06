@@ -1,0 +1,4 @@
+# Docerion header of find_in_page_two_frames.html.
+type: test
+title: Two-frame find-in-page test page
+summary: Test page embedding two copies of find_in_page_simple_frame.html to reproduce crbug.com/889075.

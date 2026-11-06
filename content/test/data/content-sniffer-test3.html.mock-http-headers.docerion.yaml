@@ -1,0 +1,4 @@
+# Docerion header of content-sniffer-test3.html.mock-http-headers.
+type: test
+title: Content sniffer test 3 mock HTTP headers
+summary: Mock HTTP headers serving content-sniffer-test3.html with a text/html content type.

@@ -1,0 +1,4 @@
+# Docerion header of page-with-trust-token-permissions-policy-disabled.html.mock-http-headers.
+type: test
+title: Mock HTTP headers disabling private state token policy
+summary: Mock HTTP headers that disable private-state-token-redemption and private-state-token-issuance via the Permissions-Policy header.

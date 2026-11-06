@@ -1,0 +1,4 @@
+# Docerion header of cacheable-isolated.jpg.mock-http-headers.
+type: test
+title: Cacheable isolated JPEG mock HTTP headers
+summary: Mock HTTP response headers that serve an isolated JPEG test image as cacheable with a 300-second max-age.

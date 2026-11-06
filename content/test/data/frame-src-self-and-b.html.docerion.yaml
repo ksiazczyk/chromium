@@ -1,0 +1,4 @@
+# Docerion header of frame-src-self-and-b.html.
+type: test
+title: Frame-src self and b.com CSP test page
+summary: Test page verifying that a CSP frame-src of 'self' and b.com only permits subframes from the same origin or b.com.

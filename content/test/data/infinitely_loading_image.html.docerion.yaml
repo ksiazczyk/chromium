@@ -1,0 +1,4 @@
+# Docerion header of infinitely_loading_image.html.
+type: test
+title: Infinitely loading image test page
+summary: Test page that embeds an image pointing at a never-completing request, used to exercise loading behavior for hung resources.

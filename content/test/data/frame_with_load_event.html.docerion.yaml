@@ -1,0 +1,4 @@
+# Docerion header of frame_with_load_event.html.
+type: test
+title: Frame with load event test page
+summary: Test page with a cross-site iframe whose onload handler appends LOADED to the document title.

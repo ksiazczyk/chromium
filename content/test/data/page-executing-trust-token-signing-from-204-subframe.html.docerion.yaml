@@ -1,0 +1,4 @@
+# Docerion header of page-executing-trust-token-signing-from-204-subframe.html.
+type: test
+title: Trust token signing from 204 subframe test page
+summary: Test page that creates a nocontent iframe and performs a trust token send-redemption-record signing operation from its document, related to crbug.com/1111735.

@@ -1,0 +1,4 @@
+# Docerion header of find_in_page_frame.html.mock-http-headers.
+type: test
+title: Mock HTTP headers for find_in_page_frame.html
+summary: Mock HTTP headers served for find_in_page_frame.html, declaring support for loading in fenced frames.

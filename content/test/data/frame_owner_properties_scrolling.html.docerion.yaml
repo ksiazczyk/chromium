@@ -1,0 +1,4 @@
+# Docerion header of frame_owner_properties_scrolling.html.
+type: test
+title: Frame owner scrolling attributes test page
+summary: Test page embedding a 200x200 borderless iframe that loads a tall cross-site page.

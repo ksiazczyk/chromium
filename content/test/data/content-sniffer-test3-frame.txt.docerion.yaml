@@ -1,0 +1,4 @@
+# Docerion header of content-sniffer-test3-frame.txt.
+type: test
+title: Content sniffer test 3 empty text frame
+summary: Empty text file used as the iframe target loaded by the content sniffer test 3 page.

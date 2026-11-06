@@ -1,0 +1,4 @@
+# Docerion header of echo-referrer.html.
+type: test
+title: Referrer echo test page
+summary: Test page that echoes the document referrer by writing it into the page title.

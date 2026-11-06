@@ -1,0 +1,4 @@
+# Docerion header of file_input_subframe.html.
+type: test
+title: File input in iframe subframe test page
+summary: Test page embedding an iframe with a multipart form containing a file input.

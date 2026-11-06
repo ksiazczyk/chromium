@@ -1,0 +1,4 @@
+# Docerion header of corp-cross-origin.html.mock-http-headers.
+type: test
+title: CORP cross-origin mock HTTP headers
+summary: Mock HTTP headers setting COEP require-corp and CORP cross-origin for the matching test page.

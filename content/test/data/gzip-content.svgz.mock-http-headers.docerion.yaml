@@ -1,0 +1,4 @@
+# Docerion header of gzip-content.svgz.mock-http-headers.
+type: test
+title: Mock HTTP headers for gzip-content.svgz
+summary: Mock HTTP response headers that serve gzipped plain-text content for the gzip-content.svgz test resource.

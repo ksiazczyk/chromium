@@ -1,0 +1,4 @@
+# Docerion header of redirect301-to-echo.
+type: test
+title: Redirect 301 to echo test body
+summary: Placeholder body served at the redirect301-to-echo URL for 301 redirect tests.

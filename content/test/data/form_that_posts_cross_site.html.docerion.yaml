@@ -1,0 +1,4 @@
+# Docerion header of form_that_posts_cross_site.html.
+type: test
+title: Cross-site POST form test page
+summary: Test page with text and file forms that POST to cross-site 307 redirect echoall endpoints.

@@ -3,3 +3,9 @@
 // found in the LICENSE file.
 
 /* empty */
+
+// ---docerion
+// type: test
+// title: Second empty cacheable JavaScript test resource
+// summary: Duplicate empty JavaScript file with a Chromium license header, providing another cacheable script resource for tests.
+// ---

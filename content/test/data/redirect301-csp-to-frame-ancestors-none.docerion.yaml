@@ -1,0 +1,4 @@
+# Docerion header of redirect301-csp-to-frame-ancestors-none.
+type: test
+title: Redirect 301 CSP to frame-ancestors-none test body
+summary: Placeholder body served at the redirect301-csp-to-frame-ancestors-none URL for 301 redirect tests.

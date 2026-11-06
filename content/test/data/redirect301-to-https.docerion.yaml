@@ -1,0 +1,4 @@
+# Docerion header of redirect301-to-https.
+type: test
+title: Redirect 301 to HTTPS test body
+summary: Placeholder body served at the redirect301-to-https URL for 301 redirect tests.

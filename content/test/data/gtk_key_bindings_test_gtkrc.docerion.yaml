@@ -1,0 +1,4 @@
+# Docerion header of gtk_key_bindings_test_gtkrc.
+type: test
+title: GTK key bindings test gtkrc
+summary: GTK keybinding set used to test GtkKeyBindingsHandler and kept in sync with its unit test, covering all supported key bindings.

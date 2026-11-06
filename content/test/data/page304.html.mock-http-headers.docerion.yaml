@@ -1,0 +1,4 @@
+# Docerion header of page304.html.mock-http-headers.
+type: test
+title: Mock HTTP headers returning 304 Not Modified
+summary: Mock HTTP headers that respond with HTTP 304 Not Modified for the page304 test.

@@ -1,0 +1,4 @@
+# Docerion header of redirect302-to-https.
+type: test
+title: 302 redirect test page to HTTPS URL
+summary: Test page body served with mock headers that issue a 302 redirect to an HTTPS test URL.

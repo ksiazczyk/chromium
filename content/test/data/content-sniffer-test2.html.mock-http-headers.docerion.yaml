@@ -1,0 +1,4 @@
+# Docerion header of content-sniffer-test2.html.mock-http-headers.
+type: test
+title: Content sniffer test 2 mock HTTP headers
+summary: Mock HTTP headers that serve content-sniffer-test2.html with an image/gif content type for content sniffing tests.

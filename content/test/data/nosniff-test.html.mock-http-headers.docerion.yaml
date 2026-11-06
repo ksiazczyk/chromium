@@ -1,0 +1,4 @@
+# Docerion header of nosniff-test.html.mock-http-headers.
+type: test
+title: Nosniff test mock HTTP headers
+summary: 'Mock HTTP headers that serve the nosniff test page with the X-Content-Type-Options: nosniff response header set.'

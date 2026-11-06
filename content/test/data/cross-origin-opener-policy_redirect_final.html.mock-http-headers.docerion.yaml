@@ -1,0 +1,4 @@
+# Docerion header of cross-origin-opener-policy_redirect_final.html.mock-http-headers.
+type: test
+title: Mock HTTP headers for cross-origin-opener-policy_redirect_final.html
+summary: Mock HTTP headers serving the final redirect page with COOP same-origin and COEP require-corp.

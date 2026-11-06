@@ -1,0 +1,4 @@
+# Docerion header of allowed_frames.html.
+type: test
+title: Allowed frames test page
+summary: Test page with iframes using allow attributes for feature policy creation and replication tests.

@@ -1,0 +1,4 @@
+# Docerion header of nostore.jpg.mock-http-headers.
+type: test
+title: Nostore image mock HTTP headers
+summary: 'Mock HTTP headers that serve a JPEG resource with a cache-control: no-store response header.'

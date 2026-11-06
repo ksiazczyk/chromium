@@ -1,0 +1,4 @@
+# Docerion header of local_storage.html.
+type: test
+title: localStorage read test page
+summary: HTML test page that reads pagehide, visibilitychange and unload storage items from localStorage at load.

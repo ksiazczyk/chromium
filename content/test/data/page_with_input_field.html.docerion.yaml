@@ -1,0 +1,4 @@
+# Docerion header of page_with_input_field.html.
+type: test
+title: Page with a text input field and cross-site iframe
+summary: Test page with a text input field and a cross-site iframe, reporting focus and blur events through a result queue for input interaction tests.

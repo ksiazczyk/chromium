@@ -1,0 +1,4 @@
+# Docerion header of iframe_out_of_view.html.
+type: test
+title: Out-of-view iframe test page
+summary: Test page with an iframe positioned far out of view, with helpers to report load, viewport changes and element visibility to the browser.

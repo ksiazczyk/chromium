@@ -1,0 +1,4 @@
+# Docerion header of large-cursor.html.
+type: test
+title: Large custom cursor test page
+summary: Test page that sets a large image-based cursor through -webkit-image-set for cursor rendering tests.

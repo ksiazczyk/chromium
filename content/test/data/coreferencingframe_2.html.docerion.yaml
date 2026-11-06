@@ -1,0 +1,4 @@
+# Docerion header of coreferencingframe_2.html.
+type: test
+title: Coreferencing frame 2
+summary: Test page embedding a cross-site iframe that points back to coreferencingframe_1.html.

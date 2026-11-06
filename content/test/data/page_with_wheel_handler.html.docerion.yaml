@@ -1,0 +1,4 @@
+# Docerion header of page_with_wheel_handler.html.
+type: test
+title: Page with wheel handler
+summary: Test page that registers a non-passive wheel listener on the body and exposes a promise that resolves when a wheel event fires.

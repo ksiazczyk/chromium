@@ -1,0 +1,4 @@
+# Docerion header of cross_site_scroll_into_view_factory.html.
+type: test
+title: Cross-site scroll-into-view frame tree factory
+summary: Test page that builds nested cross-site frames placed outside the viewport with an offscreen input box, for scroll-into-view testing via URL attributes.

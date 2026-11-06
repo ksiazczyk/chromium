@@ -1,0 +1,4 @@
+# Docerion header of content-sniffer-test5.not-html.
+type: test
+title: Content sniffer test 5 non-HTML file
+summary: HTML content stored with a non-HTML name to verify file URLs are not sniffed as HTML.

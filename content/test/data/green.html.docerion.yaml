@@ -1,0 +1,4 @@
+# Docerion header of green.html.
+type: test
+title: Green background test page
+summary: Test page with a green background and mobile viewport settings, used to check pages that must fit the viewport without scroll bars.

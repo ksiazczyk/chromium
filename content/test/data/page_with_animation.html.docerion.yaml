@@ -1,0 +1,4 @@
+# Docerion header of page_with_animation.html.
+type: test
+title: Page with CSS animation
+summary: Test page with a black div moved horizontally by an infinite CSS keyframe animation, used to exercise animation handling.

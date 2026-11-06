@@ -1,0 +1,4 @@
+# Docerion header of redirect302-to-echo.
+type: test
+title: 302 redirect test page to /echo
+summary: Test page body served with mock headers that issue a 302 redirect to the /echo endpoint.

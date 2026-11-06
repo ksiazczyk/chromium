@@ -1,0 +1,4 @@
+# Docerion header of location_equals_about_srcdoc_script.html.mock-http-headers.
+type: test
+title: Mock HTTP headers for location_equals_about_srcdoc_script.html
+summary: Mock HTTP headers serving the about:srcdoc navigation test page with Cross-Origin-Opener-Policy set to same-origin.

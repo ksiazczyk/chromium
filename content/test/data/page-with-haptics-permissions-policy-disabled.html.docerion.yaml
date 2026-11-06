@@ -1,0 +1,4 @@
+# Docerion header of page-with-haptics-permissions-policy-disabled.html.
+type: test
+title: Haptics permissions policy disabled page
+summary: Minimal test page whose title marks it for scenarios where the haptics permissions policy is disabled.

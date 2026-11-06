@@ -1,0 +1,4 @@
+# Docerion header of csp_report_only_data_url.html.
+type: test
+title: CSP report-only data URL test page
+summary: Test page loading a base64 data URL image to exercise report-only Content Security Policy handling.

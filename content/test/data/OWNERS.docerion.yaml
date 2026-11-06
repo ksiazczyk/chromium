@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for content test data
+summary: OWNERS rules for the test data directory, requiring IPC security owners with no parent set for Mojom files.

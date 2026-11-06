@@ -1,0 +1,4 @@
+# Docerion header of page204.html.
+type: test
+title: Intentionally blank page for HTTP 204 tests
+summary: Intentionally blank HTML page served alongside 204 mock headers for testing no-content responses.

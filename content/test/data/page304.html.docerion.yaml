@@ -1,0 +1,4 @@
+# Docerion header of page304.html.
+type: test
+title: Test page for HTTP 304 responses
+summary: HTML page titled HTTP 304 that is paired with mock headers to test not-modified response handling.

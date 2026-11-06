@@ -1,0 +1,4 @@
+# Docerion header of content-sniffer-test0.html.mock-http-headers.
+type: test
+title: Mock HTTP headers for content-sniffer-test0.html
+summary: Serves the sniffer test 0 page with a plain 200 OK response and no content type header.

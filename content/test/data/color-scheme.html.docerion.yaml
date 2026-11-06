@@ -1,0 +1,4 @@
+# Docerion header of color-scheme.html.
+type: test
+title: Color scheme test page
+summary: Test page that adapts its background and text colors to the user's preferred light or dark color scheme via matchMedia.

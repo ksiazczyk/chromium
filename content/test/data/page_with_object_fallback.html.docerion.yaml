@@ -1,0 +1,4 @@
+# Docerion header of page_with_object_fallback.html.
+type: test
+title: Page with object element fallback
+summary: Test page for object element rendering fallback with helpers to set the object URL and detect when the fallback content becomes visible.

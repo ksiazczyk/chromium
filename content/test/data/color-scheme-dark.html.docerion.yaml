@@ -1,0 +1,4 @@
+# Docerion header of color-scheme-dark.html.
+type: test
+title: Dark color scheme page fragment
+summary: Minimal HTML fragment declaring a dark color scheme through the color-scheme meta tag.

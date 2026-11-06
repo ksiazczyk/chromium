@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!--docerion
+type: test
+title: Permissions-Policy XML test page
+summary: XML test page served with a Permissions-Policy header and rendered through an XSLT stylesheet.
+-->
+
 <?xml-stylesheet href="permissions-policy.xslt" type="text/xsl"?>
 <!-- This page has a 'Permissions-Policy' header. -->
 <page>

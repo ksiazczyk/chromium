@@ -1,0 +1,4 @@
+# Docerion header of page_with_click_handler.html.
+type: test
+title: Page with click handler
+summary: Test page that counts clicks on the body and displays the number received in a click-results element.

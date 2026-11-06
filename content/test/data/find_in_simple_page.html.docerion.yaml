@@ -1,0 +1,4 @@
+# Docerion header of find_in_simple_page.html.
+type: test
+title: Find in page test page with result matches
+summary: Simple HTML page containing five case variants of the word 'result' for find-in-page tests.

@@ -1,0 +1,4 @@
+# Docerion header of https_upgrade_same_site.html.
+type: test
+title: Same-site HTTPS upgrade test page
+summary: Test page using the upgrade-insecure-requests CSP with a same-site HTTP iframe to exercise HTTPS upgrades.

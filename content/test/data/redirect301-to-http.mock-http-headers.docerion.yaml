@@ -1,0 +1,4 @@
+# Docerion header of redirect301-to-http.mock-http-headers.
+type: test
+title: 'Mock HTTP headers: 301 redirect to HTTP'
+summary: Mock HTTP response headers used by content tests to serve a 301 redirect whose Location points to an HTTP destination.

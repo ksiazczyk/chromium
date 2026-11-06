@@ -1,0 +1,4 @@
+# Docerion header of paste_listener.html.
+type: test
+title: Paste listener page
+summary: Test page with a paste listener that reads RTF clipboard data and displays it in the document title while waiting for a paste.

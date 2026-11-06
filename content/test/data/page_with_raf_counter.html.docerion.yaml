@@ -1,0 +1,4 @@
+# Docerion header of page_with_raf_counter.html.
+type: test
+title: Page with requestAnimationFrame counter
+summary: Test page running a requestAnimationFrame loop that counts frames and records recent timestamps for interval measurements.

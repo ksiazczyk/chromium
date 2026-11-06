@@ -1,0 +1,4 @@
+# Docerion header of cross-origin-opener-policy_redirect_final.html.
+type: test
+title: COOP redirect final page
+summary: Final document of a redirect chain, served with Cross-Origin-Opener-Policy same-origin.

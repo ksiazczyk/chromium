@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker fetch handler serving an octet-stream attachment
+// summary: Service worker test fixture whose fetch handler responds with an application/octet-stream attachment response.
+// ---
+
 self.addEventListener('fetch', e => {
   const headers = new Headers();
   const filename = 'octet-stream.abc';

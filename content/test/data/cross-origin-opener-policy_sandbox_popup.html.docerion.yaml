@@ -1,0 +1,4 @@
+# Docerion header of cross-origin-opener-policy_sandbox_popup.html.
+type: test
+title: COOP sandbox popup test page
+summary: Test page embedding a sandboxed iframe that loads empty.html for cross-origin opener policy popup testing.

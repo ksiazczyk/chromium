@@ -1,0 +1,4 @@
+# Docerion header of redirect302-to-echo.mock-http-headers.
+type: test
+title: Mock HTTP headers for 302 redirect to /echo
+summary: Mock HTTP response headers returning HTTP 302 with Location /echo for the redirect302-to-echo test page.

@@ -1,0 +1,4 @@
+# Docerion header of nocache-with-etag.html.mock-http-headers.
+type: test
+title: Nocache with ETag mock HTTP headers
+summary: Mock HTTP headers fixture responding 200 OK with a nocache Cache-Control directive and a unique ETag.

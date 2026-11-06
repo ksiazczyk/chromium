@@ -1,0 +1,4 @@
+# Docerion header of cors-ok.txt.mock-http-headers.
+type: test
+title: Mock HTTP headers for cors-ok.txt
+summary: Mock HTTP response headers serving cors-ok.txt as 200 text/plain with wildcard Access-Control-Allow-Origin.

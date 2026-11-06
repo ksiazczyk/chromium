@@ -1,0 +1,4 @@
+# Docerion header of frame_owner_properties_margin.html.
+type: test
+title: Frame owner margin attributes test page
+summary: Test page embedding a cross-site iframe with marginwidth 10 and marginheight 50 attributes.

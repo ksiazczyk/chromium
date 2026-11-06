@@ -1,0 +1,4 @@
+# Docerion header of pointerlock_on_dropped_elem.html.
+type: test
+title: Pointer lock on replaced element test page
+summary: Test page that requests pointer lock on a child element that is removed and replaced when the page is clicked.

@@ -1,0 +1,4 @@
+# Docerion header of link_rel_prefetch.html.
+type: test
+title: Prefetch link test page
+summary: HTML test page that triggers a prefetch of image.jpg through a link rel=prefetch element.

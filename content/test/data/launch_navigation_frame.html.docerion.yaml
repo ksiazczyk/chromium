@@ -1,0 +1,4 @@
+# Docerion header of launch_navigation_frame.html.
+type: test
+title: Navigation entry in a dynamically added frame
+summary: Test page that creates an iframe and reads its performance navigation entry, for testing navigation timing in newly created frames.

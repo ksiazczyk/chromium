@@ -1,0 +1,4 @@
+# Docerion header of page_with_allowfullscreen_frame.html.
+type: test
+title: Page with allowfullscreen frame
+summary: Test page embedding a cross-site iframe with the allowFullscreen attribute so fullscreen permission for cross-origin frames can be tested.

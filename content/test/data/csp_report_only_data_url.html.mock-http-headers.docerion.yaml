@@ -1,0 +1,4 @@
+# Docerion header of csp_report_only_data_url.html.mock-http-headers.
+type: test
+title: CSP report-only data URL mock HTTP headers
+summary: Mock HTTP headers sending a report-only Content Security Policy of img-src 'none' for the data URL test page.

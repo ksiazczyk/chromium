@@ -1,0 +1,4 @@
+# Docerion header of cross_site_scroll_into_view_factory.html.mock-http-headers.
+type: test
+title: Cross-site scroll-into-view factory mock HTTP headers
+summary: Mock HTTP headers serving the scroll-into-view factory page with fenced-frame loading mode support.

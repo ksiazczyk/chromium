@@ -1,0 +1,4 @@
+# Docerion header of plain.txt.
+type: test
+title: Plain text test data
+summary: Serves the text 'hello plain!' as a simple plain-text response used by content browser tests.

@@ -1,0 +1,4 @@
+# Docerion header of file_input_webkitdirectory.html.
+type: test
+title: webkitdirectory file input test page
+summary: Minimal test page containing a file input with the webkitdirectory attribute.

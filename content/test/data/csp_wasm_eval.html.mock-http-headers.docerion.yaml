@@ -1,0 +1,4 @@
+# Docerion header of csp_wasm_eval.html.mock-http-headers.
+type: test
+title: CSP wasm eval mock HTTP headers
+summary: Mock HTTP headers serving the wasm eval page with a report-only script-src Content-Security-Policy.

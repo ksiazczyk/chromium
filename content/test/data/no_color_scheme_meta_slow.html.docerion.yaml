@@ -1,0 +1,4 @@
+# Docerion header of no_color_scheme_meta_slow.html.
+type: test
+title: Slow stylesheet page without color scheme meta
+summary: Test page that loads a slow-response stylesheet while providing no color scheme meta tag.

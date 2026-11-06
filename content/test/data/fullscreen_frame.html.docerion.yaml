@@ -1,0 +1,4 @@
+# Docerion header of fullscreen_frame.html.
+type: test
+title: Fullscreen div test page
+summary: Test page that requests fullscreen on a div and reports resize events to automation via domAutomationController.

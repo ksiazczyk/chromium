@@ -1,0 +1,4 @@
+# Docerion header of content-disposition-empty.html.mock-http-headers.
+type: test
+title: Mock HTTP headers for content-disposition-empty.html
+summary: Serves the empty-disposition test page with a Content-Disposition header that lacks a disposition type.

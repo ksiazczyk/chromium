@@ -1,0 +1,4 @@
+# Docerion header of find_in_page_multi_frame.html.
+type: test
+title: Find-in-page test page with multiple frames
+summary: Test page with two empty iframes and text between them for find-in-page testing across multiple frames.

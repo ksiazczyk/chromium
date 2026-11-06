@@ -1,0 +1,4 @@
+# Docerion header of csp_wasm_eval.html.
+type: test
+title: CSP WebAssembly eval test page
+summary: Test page that compiles a minimal WebAssembly module to exercise CSP handling of wasm evaluation.

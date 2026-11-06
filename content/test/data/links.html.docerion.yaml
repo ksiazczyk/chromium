@@ -1,0 +1,4 @@
+# Docerion header of links.html.
+type: test
+title: Simple links test page
+summary: HTML test page containing a link to title1.html and an in-page anchor link for navigation testing.

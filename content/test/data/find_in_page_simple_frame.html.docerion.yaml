@@ -1,0 +1,4 @@
+# Docerion header of find_in_page_simple_frame.html.
+type: test
+title: Simple find-in-page frame content
+summary: Simple frame page containing several result strings used as iframe content in find-in-page tests.

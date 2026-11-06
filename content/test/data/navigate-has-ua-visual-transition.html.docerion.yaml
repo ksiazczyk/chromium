@@ -1,0 +1,4 @@
+# Docerion header of navigate-has-ua-visual-transition.html.
+type: test
+title: Navigation API hasUAVisualTransition test page
+summary: Test page that records event.hasUAVisualTransition from Navigation API navigate events during fragment navigation.

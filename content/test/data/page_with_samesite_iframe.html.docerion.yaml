@@ -1,0 +1,4 @@
+# Docerion header of page_with_samesite_iframe.html.
+type: test
+title: Test page with a same-site iframe
+summary: HTML test fixture with an image and a srcdoc iframe used for same-site iframe testing.

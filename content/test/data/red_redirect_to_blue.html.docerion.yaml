@@ -1,0 +1,4 @@
+# Docerion header of red_redirect_to_blue.html.
+type: test
+title: Red page redirecting to blue.html
+summary: 'Red test page that navigates to blue.html when the URL hash is #redirect, for redirect and viewport tests.'

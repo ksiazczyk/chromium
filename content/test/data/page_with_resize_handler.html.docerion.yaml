@@ -1,0 +1,4 @@
+# Docerion header of page_with_resize_handler.html.
+type: test
+title: Page with resize event handler
+summary: Test page that counts the resize events it receives to verify resize handling.

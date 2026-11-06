@@ -1,0 +1,4 @@
+# Docerion header of link_rel_prefetch_referrer_policy.html.
+type: test
+title: Prefetch test page with origin referrer policy
+summary: HTML test page that sets the referrer meta tag to origin and prefetches image.jpg via a link rel=prefetch element.

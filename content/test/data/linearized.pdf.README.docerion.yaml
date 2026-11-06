@@ -1,0 +1,4 @@
+# Docerion header of linearized.pdf.README.
+type: readme
+title: linearized.pdf test file notes
+summary: Explains that linearized.pdf is a linearized, large PDF fixture for chunked HTTP request tests and documents the commands used to generate it.
