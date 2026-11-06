@@ -1,0 +1,4 @@
+# Docerion header of age_mismatch_signout_view_controller.mm.
+type: source
+title: Age Mismatch Signout view controller implementation
+summary: Implements the age mismatch prompt UI with mode-specific titles, identity view, linked subtitle, action buttons, and UI blocking.

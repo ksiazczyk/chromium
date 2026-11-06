@@ -1,0 +1,4 @@
+# Docerion header of consistency_promo_signin_coordinator_unittest.mm.
+type: test
+title: Unit tests for ConsistencyPromoSigninCoordinator
+summary: Unit tests for ConsistencyPromoSigninCoordinator using OCMock mocks for the mediator, base view controller, and consistency sheet components.

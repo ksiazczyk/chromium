@@ -1,0 +1,4 @@
+# Docerion header of signin_earl_grey.mm.
+type: test
+title: SigninEarlGrey test helper implementation
+summary: Implements SigninEarlGreyImpl by forwarding calls to the app-side SigninEarlGreyAppInterface and adding waits and assertions for sign-in test scenarios.

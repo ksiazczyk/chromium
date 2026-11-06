@@ -1,0 +1,4 @@
+# Docerion header of app_store_rating_scene_agent.mm.
+type: source
+title: AppStoreRatingSceneAgent implementation
+summary: Checks default browser and credentials provider conditions to decide user engagement and registers the App Store rating promo.

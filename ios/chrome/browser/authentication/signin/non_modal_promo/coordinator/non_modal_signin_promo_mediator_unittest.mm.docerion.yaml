@@ -1,0 +1,4 @@
+# Docerion header of non_modal_signin_promo_mediator_unittest.mm.
+type: test
+title: Non-modal sign-in promo mediator unit tests
+summary: Tests the mediator's promo display, dismissal, and timeout behavior using fake identities, mock feature engagement trackers, and OCMock.

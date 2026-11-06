@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Age Mismatch Learn More view controller header
+// summary: Declares AgeMismatchLearnMoreViewController, a view controller that shows the Age Mismatch Learn More page in a web view, plus its delegate protocol for close requests.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTHENTICATION_AGE_MISMATCH_SIGNOUT_AGE_MISMATCH_LEARN_MORE_UI_AGE_MISMATCH_LEARN_MORE_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_AUTHENTICATION_AGE_MISMATCH_SIGNOUT_AGE_MISMATCH_LEARN_MORE_UI_AGE_MISMATCH_LEARN_MORE_VIEW_CONTROLLER_H_
 

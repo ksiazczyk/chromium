@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sign-in Earl Grey UI test utility header
+// summary: Declares SigninEarlGreyUI helper methods that perform and verify sign-in, sign-out and promo actions in Chrome UI during Earl Grey tests.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTHENTICATION_TEST_SIGNIN_EARL_GREY_UI_TEST_UTIL_H_
 #define IOS_CHROME_BROWSER_AUTHENTICATION_TEST_SIGNIN_EARL_GREY_UI_TEST_UTIL_H_
 

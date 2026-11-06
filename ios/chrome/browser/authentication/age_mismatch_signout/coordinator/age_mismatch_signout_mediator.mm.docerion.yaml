@@ -1,0 +1,4 @@
+# Docerion header of age_mismatch_signout_mediator.mm.
+type: source
+title: Age mismatch signout mediator implementation
+summary: Implements the mediator that populates the prompt with account details and controls stay signed out button visibility.

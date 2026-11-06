@@ -1,0 +1,4 @@
+# Docerion header of add_account_signin_coordinator_unittest.mm.
+type: test
+title: AddAccountSigninCoordinator unit tests
+summary: Unit tests for AddAccountSigninCoordinator using a mocked AddAccountSigninManager with test browser, profile, and scene state setup.

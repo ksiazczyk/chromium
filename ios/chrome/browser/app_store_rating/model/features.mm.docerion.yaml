@@ -1,0 +1,4 @@
+# Docerion header of features.mm.
+type: source
+title: App Store rating feature implementation
+summary: Defines the App Store rating feature flag and the list of countries excluded from the default browser eligibility condition.

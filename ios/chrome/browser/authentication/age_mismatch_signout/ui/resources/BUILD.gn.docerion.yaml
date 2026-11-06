@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for age mismatch signout UI resources
+summary: GN build file that bundles the Assets.xcassets catalog, including the age mismatch prompt image variants, for the iOS age mismatch signout UI.

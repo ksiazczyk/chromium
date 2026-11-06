@@ -1,0 +1,4 @@
+# Docerion header of assistant_container_view_controller.mm.
+type: source
+title: Assistant container view controller implementation
+summary: Implements the view controller managing the assistant sheet container, including detent heights, layout constraints, dimming view, and gesture handling.

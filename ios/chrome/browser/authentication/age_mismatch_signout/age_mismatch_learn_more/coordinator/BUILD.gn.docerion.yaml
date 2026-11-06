@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Age mismatch learn more coordinator BUILD.gn
+summary: Defines the source sets and dependencies for the age mismatch learn more coordinator and its unit tests.

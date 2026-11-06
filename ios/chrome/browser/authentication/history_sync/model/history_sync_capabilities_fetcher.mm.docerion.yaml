@@ -1,0 +1,4 @@
+# Docerion header of history_sync_capabilities_fetcher.mm.
+type: source
+title: HistorySyncCapabilitiesFetcher implementation
+summary: Implements fetching of the minor mode restriction capability with a deadline fallback value and latency histograms.

@@ -1,0 +1,4 @@
+# Docerion header of expected_signin_histograms.mm.
+type: test
+title: ExpectedSigninHistograms test helper implementation
+summary: Implements the ExpectedSigninHistograms initializer that stores the access point for expected signin histogram checks.

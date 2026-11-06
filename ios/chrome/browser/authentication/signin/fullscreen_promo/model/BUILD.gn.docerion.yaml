@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Fullscreen signin promo model build targets
+summary: Defines the model and unit_tests source sets with their sources and dependencies for the fullscreen signin promo scene agent.

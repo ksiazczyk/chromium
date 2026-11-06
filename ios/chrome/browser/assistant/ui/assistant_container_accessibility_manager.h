@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Assistant container accessibility manager header
+// summary: Declares the accessibility manager that updates grabber button accessibility and notifies a delegate of requested detent changes.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_ASSISTANT_UI_ASSISTANT_CONTAINER_ACCESSIBILITY_MANAGER_H_
 #define IOS_CHROME_BROWSER_ASSISTANT_UI_ASSISTANT_CONTAINER_ACCESSIBILITY_MANAGER_H_
 

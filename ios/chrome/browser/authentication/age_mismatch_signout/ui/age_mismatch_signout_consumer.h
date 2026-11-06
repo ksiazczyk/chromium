@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Age Mismatch Signout consumer protocol
+// summary: Declares the consumer protocol for the age mismatch prompt, covering identity details and visibility of the stay signed out button.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTHENTICATION_AGE_MISMATCH_SIGNOUT_UI_AGE_MISMATCH_SIGNOUT_CONSUMER_H_
 #define IOS_CHROME_BROWSER_AUTHENTICATION_AGE_MISMATCH_SIGNOUT_UI_AGE_MISMATCH_SIGNOUT_CONSUMER_H_
 

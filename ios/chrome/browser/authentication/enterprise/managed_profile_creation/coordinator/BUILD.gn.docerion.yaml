@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for managed profile creation coordinator
+summary: Defines the coordinator source_set, listing the coordinator and mediator sources together with their build dependencies.

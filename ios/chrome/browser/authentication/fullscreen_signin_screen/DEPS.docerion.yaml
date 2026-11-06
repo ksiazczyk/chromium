@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Fullscreen signin screen DEPS
+summary: Defines the allowed include rules for the fullscreen sign-in screen directory, listing permitted dependencies such as signin, first_run, and sync components.

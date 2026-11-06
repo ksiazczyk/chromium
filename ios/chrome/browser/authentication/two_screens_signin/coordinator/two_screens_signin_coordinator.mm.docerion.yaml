@@ -1,0 +1,4 @@
+# Docerion header of two_screens_signin_coordinator.mm.
+type: source
+title: Two screens sign-in coordinator implementation
+summary: Implements the coordinator that presents the fullscreen sign-in and history sync screens, handling screen providers, logging, and continuations.

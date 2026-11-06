@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for consistency promo signin
+summary: Defines dependency rules for the consistency promo signin directory, allowing includes from ios/chrome/browser/signin/model.

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for account_menu
+summary: Defines the allowed include dependencies for the account_menu directory, listing permitted component and iOS Chrome paths.

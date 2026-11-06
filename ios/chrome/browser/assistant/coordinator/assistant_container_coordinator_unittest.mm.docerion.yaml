@@ -1,0 +1,4 @@
+# Docerion header of assistant_container_coordinator_unittest.mm.
+type: test
+title: Assistant container coordinator unit tests
+summary: Tests the assistant container coordinator's detent and fullscreen behavior using fake delegates, observers, and a test browser setup.

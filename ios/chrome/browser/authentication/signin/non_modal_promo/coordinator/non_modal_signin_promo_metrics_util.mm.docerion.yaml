@@ -1,0 +1,4 @@
+# Docerion header of non_modal_signin_promo_metrics_util.mm.
+type: source
+title: Non-modal sign-in promo metrics utility implementation
+summary: Records UMA histograms and user actions for non-modal sign-in promo events, separated by password and bookmark promo types.

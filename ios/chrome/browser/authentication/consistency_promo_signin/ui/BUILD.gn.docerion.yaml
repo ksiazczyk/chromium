@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build file for consistency promo sign-in UI
+summary: Defines the ui source_set containing the consistency layout delegate header with a dependency on //ui/base.

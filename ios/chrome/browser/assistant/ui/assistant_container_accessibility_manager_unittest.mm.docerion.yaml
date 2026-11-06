@@ -1,0 +1,4 @@
+# Docerion header of assistant_container_accessibility_manager_unittest.mm.
+type: test
+title: Assistant container accessibility manager unit tests
+summary: Unit tests verifying accessibility values, custom actions, and delegate callbacks of the assistant container accessibility manager.

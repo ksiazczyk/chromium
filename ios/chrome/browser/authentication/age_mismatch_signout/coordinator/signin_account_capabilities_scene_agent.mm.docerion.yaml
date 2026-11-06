@@ -1,0 +1,4 @@
+# Docerion header of signin_account_capabilities_scene_agent.mm.
+type: source
+title: Signin account capabilities scene agent implementation
+summary: Implements the scene agent that fetches account capabilities and drives the age mismatch sign-out workflow, including UI blocking and sign-out completion handling.

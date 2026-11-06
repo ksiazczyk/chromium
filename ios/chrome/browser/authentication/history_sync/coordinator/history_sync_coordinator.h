@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History sync coordinator interface
+// summary: Declares the HistorySyncCoordinator interface and delegate protocol for showing the history sync opt-in view in a navigation controller.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTHENTICATION_HISTORY_SYNC_COORDINATOR_HISTORY_SYNC_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_AUTHENTICATION_HISTORY_SYNC_COORDINATOR_HISTORY_SYNC_COORDINATOR_H_
 

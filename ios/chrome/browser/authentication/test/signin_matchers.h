@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sign-in Earl Grey matcher declarations
+// summary: Declares Earl Grey matchers for sign-in UI elements such as identity cells, sign-in buttons and history opt-in screens.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTHENTICATION_TEST_SIGNIN_MATCHERS_H_
 #define IOS_CHROME_BROWSER_AUTHENTICATION_TEST_SIGNIN_MATCHERS_H_
 

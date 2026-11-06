@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the non-modal sign-in promo coordinator
+summary: Restricts the includes allowed in this directory to feature engagement, infobar UI, and signin model headers.

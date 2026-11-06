@@ -1,0 +1,4 @@
+# Docerion header of managed_profile_learn_more_view_controller.mm.
+type: source
+title: Managed profile learn more view controller implementation
+summary: Implements the Learn More screen explaining managed profile creation, with a Done button, close key command, and user metrics recording.

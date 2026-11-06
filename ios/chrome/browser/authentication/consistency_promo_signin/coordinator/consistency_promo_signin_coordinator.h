@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ConsistencyPromoSigninCoordinator interface header
+// summary: Declares the ConsistencyPromoSigninCoordinator interface that coordinates sign-in, Incognito, and add-account flows with profile-change confirmation blocks.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTHENTICATION_CONSISTENCY_PROMO_SIGNIN_COORDINATOR_CONSISTENCY_PROMO_SIGNIN_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_AUTHENTICATION_CONSISTENCY_PROMO_SIGNIN_COORDINATOR_CONSISTENCY_PROMO_SIGNIN_COORDINATOR_H_
 

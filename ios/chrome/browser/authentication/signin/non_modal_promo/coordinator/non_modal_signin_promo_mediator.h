@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Non-modal sign-in promo mediator header
+// summary: Declares NonModalSignInPromoMediator with its delegate protocol, timer controls, and a helper that checks whether sign-in is possible.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTHENTICATION_SIGNIN_NON_MODAL_PROMO_COORDINATOR_NON_MODAL_SIGNIN_PROMO_MEDIATOR_H_
 #define IOS_CHROME_BROWSER_AUTHENTICATION_SIGNIN_NON_MODAL_PROMO_COORDINATOR_NON_MODAL_SIGNIN_PROMO_MEDIATOR_H_
 

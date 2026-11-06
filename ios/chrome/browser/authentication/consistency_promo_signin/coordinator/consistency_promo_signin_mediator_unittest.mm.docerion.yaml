@@ -1,0 +1,4 @@
+# Docerion header of consistency_promo_signin_mediator_unittest.mm.
+type: test
+title: Unit tests for ConsistencyPromoSigninMediator
+summary: Unit tests for ConsistencyPromoSigninMediator covering sign-in success, cancellation, timeout, and error paths with fake identities and histogram checks.

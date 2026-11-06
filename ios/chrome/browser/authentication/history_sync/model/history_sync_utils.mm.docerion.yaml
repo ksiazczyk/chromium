@@ -1,0 +1,4 @@
+# Docerion header of history_sync_utils.mm.
+type: source
+title: History sync utils implementation
+summary: Implements skip logic based on sync policies, sign-in state, existing opt-in, and decline-count preferences with registration helpers.

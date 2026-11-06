@@ -1,0 +1,4 @@
+# Docerion header of assistant_container_detent.mm.
+type: source
+title: Assistant container detent implementation
+summary: Implements the detent accessibility identifier strings and the minimized detent height constant declared in the detent header.

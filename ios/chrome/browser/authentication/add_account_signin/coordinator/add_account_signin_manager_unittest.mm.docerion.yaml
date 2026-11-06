@@ -1,0 +1,4 @@
+# Docerion header of add_account_signin_manager_unittest.mm.
+type: test
+title: AddAccountSigninManager unit tests
+summary: Parameterized unit tests covering add account, reauth, and resign-in intents and the expected prefilled email for each case.

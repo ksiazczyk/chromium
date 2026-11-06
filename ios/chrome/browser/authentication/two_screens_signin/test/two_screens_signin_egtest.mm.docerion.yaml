@@ -1,0 +1,4 @@
+# Docerion header of two_screens_signin_egtest.mm.
+type: test
+title: Earl Grey tests for the fullscreen sign-in promo
+summary: Earl Grey UI tests verifying the fullscreen sign-in promo visibility, behavior and restrictions in Chrome for iOS.

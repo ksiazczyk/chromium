@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: test
+title: App switcher test support build target
+summary: Defines the testonly test_support source set that builds the app switcher test helper and its dependencies.

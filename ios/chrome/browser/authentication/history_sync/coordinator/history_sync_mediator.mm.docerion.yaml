@@ -1,0 +1,4 @@
+# Docerion header of history_sync_mediator.mm.
+type: source
+title: History sync mediator implementation
+summary: Implements the mediator that opts the user in to history sync, observes identity changes, and fetches capabilities for minor mode restrictions.

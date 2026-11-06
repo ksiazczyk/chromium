@@ -1,0 +1,4 @@
+# Docerion header of fullscreen_signin_promo_display_handler.mm.
+type: source
+title: FullscreenSigninPromoDisplayHandler.mm
+summary: Implements the fullscreen signin promo display handler, recording promo event metrics and triggering display of the fullscreen signin promo via its PromoConfig.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Consistency layout delegate header
+// summary: Declares the ConsistencySheetDisplayStyle enum and the ConsistencyLayoutDelegate protocol used to lay out the consistency sign-in sheet.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTHENTICATION_CONSISTENCY_PROMO_SIGNIN_UI_CONSISTENCY_LAYOUT_DELEGATE_H_
 #define IOS_CHROME_BROWSER_AUTHENTICATION_CONSISTENCY_PROMO_SIGNIN_UI_CONSISTENCY_LAYOUT_DELEGATE_H_
 

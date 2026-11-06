@@ -1,0 +1,4 @@
+# Docerion header of signin_reauth_coordinator_unittest.mm.
+type: test
+title: SigninReauthCoordinator unit tests
+summary: Tests the reauth coordinator with fake identity managers and OCMock, covering successful, cancelled, and interrupted flows plus histogram metrics.

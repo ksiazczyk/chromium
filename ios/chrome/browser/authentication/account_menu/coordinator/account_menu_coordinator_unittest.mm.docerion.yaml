@@ -1,0 +1,4 @@
+# Docerion header of account_menu_coordinator_unittest.mm.
+type: test
+title: Account menu coordinator unit tests
+summary: Unit tests for the account menu coordinator using fake identities, mocked sync service and OCMock.

@@ -1,0 +1,4 @@
+# Docerion header of history_sync_popup_coordinator.mm.
+type: source
+title: History sync popup coordinator implementation
+summary: Implements the popup coordinator that checks skip conditions, embeds the history sync coordinator in a navigation controller, and signs out if sync is declined.

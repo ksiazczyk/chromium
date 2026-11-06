@@ -1,0 +1,4 @@
+# Docerion header of age_mismatch_signout_ui_constants.mm.
+type: source
+title: Age Mismatch Signout UI constants implementation
+summary: Defines the age mismatch signout accessibility identifier strings and the internal learn more URL.

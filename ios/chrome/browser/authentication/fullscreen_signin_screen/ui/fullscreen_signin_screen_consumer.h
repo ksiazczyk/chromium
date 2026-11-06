@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fullscreen sign-in screen consumer protocol
+// summary: Declares the FullscreenSigninScreenConsumer protocol with sign-in status and screen intent enums used to update the fullscreen sign-in UI.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTHENTICATION_FULLSCREEN_SIGNIN_SCREEN_UI_FULLSCREEN_SIGNIN_SCREEN_CONSUMER_H_
 #define IOS_CHROME_BROWSER_AUTHENTICATION_FULLSCREEN_SIGNIN_SCREEN_UI_FULLSCREEN_SIGNIN_SCREEN_CONSUMER_H_
 

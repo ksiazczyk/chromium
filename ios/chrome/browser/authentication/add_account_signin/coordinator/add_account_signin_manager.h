@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AddAccountSigninManager header
+// summary: Declares the manager handling add account and reauthentication UI, its delegate protocol, and the SigninAddAccountToDeviceResult metrics enum.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTHENTICATION_ADD_ACCOUNT_SIGNIN_COORDINATOR_ADD_ACCOUNT_SIGNIN_MANAGER_H_
 #define IOS_CHROME_BROWSER_AUTHENTICATION_ADD_ACCOUNT_SIGNIN_COORDINATOR_ADD_ACCOUNT_SIGNIN_MANAGER_H_
 

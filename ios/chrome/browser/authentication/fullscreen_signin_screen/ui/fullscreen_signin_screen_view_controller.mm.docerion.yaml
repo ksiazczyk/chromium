@@ -1,0 +1,4 @@
+# Docerion header of fullscreen_signin_screen_view_controller.mm.
+type: source
+title: Fullscreen sign-in screen view controller implementation
+summary: Implements the fullscreen sign-in view controller, including banner setup, identity button, enterprise info, and UI enablement handling.

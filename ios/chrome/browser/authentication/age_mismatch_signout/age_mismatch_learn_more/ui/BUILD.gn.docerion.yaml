@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the Age Mismatch Learn More UI
+summary: Defines the GN source_set for the Age Mismatch Learn More UI, listing the view controller sources and dependencies on base, strings, symbols, colors and UI utilities.

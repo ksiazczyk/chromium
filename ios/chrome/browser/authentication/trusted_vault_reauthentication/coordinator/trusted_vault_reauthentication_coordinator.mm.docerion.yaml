@@ -1,0 +1,4 @@
+# Docerion header of trusted_vault_reauthentication_coordinator.mm.
+type: source
+title: TrustedVaultReauthenticationCoordinator implementation
+summary: Implements the Trusted Vault reauthentication coordinator, presenting reauthentication or degraded recoverability dialogs and recording UMA triggers.

@@ -1,0 +1,4 @@
+# Docerion header of add_account_signin_coordinator.mm.
+type: source
+title: AddAccountSigninCoordinator implementation
+summary: Implements the add account sign-in coordinator, wiring the sign-in manager, mediator, alert, and history sync coordinators into the flow.

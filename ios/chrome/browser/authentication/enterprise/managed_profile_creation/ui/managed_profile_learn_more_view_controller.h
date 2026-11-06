@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Managed profile learn more view controller interface
+// summary: Declares the Learn More dialog view controller for managed profile creation and its presentation delegate for dismissal.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTHENTICATION_ENTERPRISE_MANAGED_PROFILE_CREATION_UI_MANAGED_PROFILE_LEARN_MORE_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_AUTHENTICATION_ENTERPRISE_MANAGED_PROFILE_CREATION_UI_MANAGED_PROFILE_LEARN_MORE_VIEW_CONTROLLER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for managed profile creation UI
+summary: Defines the ui source_set listing the managed profile creation view controller sources and their build dependencies.

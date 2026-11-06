@@ -1,0 +1,4 @@
+# Docerion header of appearance_customization.mm.
+type: source
+title: Appearance customization implementation
+summary: Implements appearance overrides that apply the blue tint color to app windows and UISwitch controls.

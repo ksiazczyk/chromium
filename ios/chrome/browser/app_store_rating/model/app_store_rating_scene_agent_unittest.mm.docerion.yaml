@@ -1,0 +1,4 @@
+# Docerion header of app_store_rating_scene_agent_unittest.mm.
+type: test
+title: App Store rating scene agent unit tests
+summary: Tests the engagement conditions and promo registration of the App Store rating scene agent with fake scene state and variations services.

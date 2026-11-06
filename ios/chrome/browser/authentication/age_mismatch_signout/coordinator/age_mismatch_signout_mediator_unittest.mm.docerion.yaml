@@ -1,0 +1,4 @@
+# Docerion header of age_mismatch_signout_mediator_unittest.mm.
+type: test
+title: Age mismatch signout mediator unit tests
+summary: Unit tests verifying that the age mismatch sign-out mediator updates its consumer and records button-state histograms according to sign-in state.

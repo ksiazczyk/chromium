@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FullscreenSigninPromoDisplayHandler.h
+// summary: Declares FullscreenSigninPromoDisplayHandler, an Objective-C class implementing the StandardPromoDisplayHandler protocol with a PromosManagerCommands handler property.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTHENTICATION_SIGNIN_FULLSCREEN_PROMO_COORDINATOR_FULLSCREEN_SIGNIN_PROMO_DISPLAY_HANDLER_H_
 #define IOS_CHROME_BROWSER_AUTHENTICATION_SIGNIN_FULLSCREEN_PROMO_COORDINATOR_FULLSCREEN_SIGNIN_PROMO_DISPLAY_HANDLER_H_
 

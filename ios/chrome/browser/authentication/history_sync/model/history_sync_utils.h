@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History sync utils interface
+// summary: Declares the HistorySyncSkipReason enum and helper functions to decide whether the History Sync Opt-In screen should be skipped.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTHENTICATION_HISTORY_SYNC_MODEL_HISTORY_SYNC_UTILS_H_
 #define IOS_CHROME_BROWSER_AUTHENTICATION_HISTORY_SYNC_MODEL_HISTORY_SYNC_UTILS_H_
 

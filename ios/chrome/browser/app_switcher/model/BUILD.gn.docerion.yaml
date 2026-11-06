@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: App Switcher model BUILD.gn
+summary: Defines the model source_set for the iOS App Switcher, listing its header sources, the base dependency, and the Foundation framework.

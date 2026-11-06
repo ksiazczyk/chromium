@@ -1,0 +1,4 @@
+# Docerion header of signin_account_capabilities_scene_agent_unittest.mm.
+type: test
+title: Signin account capabilities scene agent unit tests
+summary: Unit tests covering the scene agent's account capabilities fetching, sign-out flow, and UI blocker behavior using fake identities and profile state.

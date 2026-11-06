@@ -1,0 +1,4 @@
+# Docerion header of age_mismatch_signout_view_controller_unittest.mm.
+type: test
+title: Age Mismatch Signout view controller unit tests
+summary: Unit tests verifying that blockUI adds a waiting view and disables interaction, and that the stay signed out button can be hidden.

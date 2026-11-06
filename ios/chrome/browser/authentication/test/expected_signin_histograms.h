@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ExpectedSigninHistograms test helper header
+// summary: Declares ExpectedSigninHistograms, a container of expected signin histogram counts for a given access point used by Earl Grey tests.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTHENTICATION_TEST_EXPECTED_SIGNIN_HISTOGRAMS_H_
 #define IOS_CHROME_BROWSER_AUTHENTICATION_TEST_EXPECTED_SIGNIN_HISTOGRAMS_H_
 

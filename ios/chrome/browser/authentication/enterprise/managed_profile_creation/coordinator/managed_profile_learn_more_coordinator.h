@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ManagedProfileLearnMoreCoordinator interface
+// summary: Declares the coordinator for the Learn More dialog shown during managed profile creation, including its delegate protocol for dismissal events.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTHENTICATION_ENTERPRISE_MANAGED_PROFILE_CREATION_COORDINATOR_MANAGED_PROFILE_LEARN_MORE_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_AUTHENTICATION_ENTERPRISE_MANAGED_PROFILE_CREATION_COORDINATOR_MANAGED_PROFILE_LEARN_MORE_COORDINATOR_H_
 

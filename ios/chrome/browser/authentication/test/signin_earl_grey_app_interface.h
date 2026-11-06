@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SigninEarlGreyAppInterface app-side test interface header
+// summary: Declares the app-side SigninEarlGreyAppInterface with helpers that manipulate fake identities, sign-in state, and sync settings via direct model access.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTHENTICATION_TEST_SIGNIN_EARL_GREY_APP_INTERFACE_H_
 #define IOS_CHROME_BROWSER_AUTHENTICATION_TEST_SIGNIN_EARL_GREY_APP_INTERFACE_H_
 

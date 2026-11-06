@@ -1,0 +1,4 @@
+# Docerion header of managed_profile_creation_coordinator.mm.
+type: source
+title: ManagedProfileCreationCoordinator implementation
+summary: Implements the coordinator that creates and presents the managed profile creation view controller, wires the mediator, and handles browsing data migration and learn-more flows.

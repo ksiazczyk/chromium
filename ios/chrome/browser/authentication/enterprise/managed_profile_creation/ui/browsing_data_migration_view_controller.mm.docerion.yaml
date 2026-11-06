@@ -1,0 +1,4 @@
+# Docerion header of browsing_data_migration_view_controller.mm.
+type: source
+title: Browsing data migration view controller implementation
+summary: Implements the browsing data migration table view screen, letting the user pick between keeping browsing data separate or merging it and notifying the mutator.

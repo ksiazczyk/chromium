@@ -1,0 +1,4 @@
+# Docerion header of consistency_promo_signin_mediator.mm.
+type: source
+title: ConsistencyPromoSigninMediator implementation
+summary: Implements the sign-in mediator that tracks web sign-in via WebSigninTracker, observes identity and authentication services, and reports timeouts and errors.

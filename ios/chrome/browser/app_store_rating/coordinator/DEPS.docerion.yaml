@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the coordinator
+summary: Restricts allowed includes in this directory to the standard promo display handler and promos manager model headers.

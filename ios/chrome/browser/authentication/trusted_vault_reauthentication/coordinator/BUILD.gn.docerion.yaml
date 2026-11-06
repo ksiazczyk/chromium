@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the trusted vault reauthentication coordinator
+summary: Defines the GN source sets and dependencies for the trusted vault reauthentication coordinator and its unit tests.

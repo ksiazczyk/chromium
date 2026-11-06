@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for two screens sign-in tests
+summary: Restricts includes in the two screens sign-in test directory to ios/chrome/browser/signin/model.

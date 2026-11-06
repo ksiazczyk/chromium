@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Account menu mediator delegate protocol
+// summary: Protocol for dismissal, authentication flow, sign-out and account management actions requested by the mediator.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTHENTICATION_ACCOUNT_MENU_COORDINATOR_ACCOUNT_MENU_MEDIATOR_DELEGATE_H_
 #define IOS_CHROME_BROWSER_AUTHENTICATION_ACCOUNT_MENU_COORDINATOR_ACCOUNT_MENU_MEDIATOR_DELEGATE_H_
 

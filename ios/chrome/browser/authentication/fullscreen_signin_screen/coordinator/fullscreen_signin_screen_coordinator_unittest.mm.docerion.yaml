@@ -1,0 +1,4 @@
+# Docerion header of fullscreen_signin_screen_coordinator_unittest.mm.
+type: test
+title: Fullscreen sign-in screen coordinator unit tests
+summary: Unit tests checking that UI actions triggered after the coordinator stops are safely ignored and do not crash.

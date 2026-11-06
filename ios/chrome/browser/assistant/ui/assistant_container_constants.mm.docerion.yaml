@@ -1,0 +1,4 @@
+# Docerion header of assistant_container_constants.mm.
+type: source
+title: Assistant container constants definitions
+summary: Defines the accessibility identifier string constants for the assistant container view and grabber button.

@@ -1,0 +1,4 @@
+# Docerion header of test_app_switcher_helper.mm.
+type: test
+title: Test app switcher helper implementation
+summary: Implements the test helper, returning incognito, error, timeout, or AI summarization results for the predefined test URLs.

@@ -1,0 +1,4 @@
+# Docerion header of age_mismatch_learn_more_view_controller.mm.
+type: source
+title: Age Mismatch Learn More view controller implementation
+summary: Implements the Age Mismatch Learn More view controller, setting up the web view, navigation bar title, Done button and a back-or-close button for the embedded page.

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Authentication OWNERS file
+summary: Delegates code ownership for the iOS authentication directory to the owners of components/signin/ios via a file reference.

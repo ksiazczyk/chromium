@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Assistant container layout utilities header
+// summary: Declares layout constants, morphing constraints, and helper functions for presenting the Assistant Container as a sheet or side panel.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_ASSISTANT_UI_ASSISTANT_CONTAINER_LAYOUT_UTILS_H_
 #define IOS_CHROME_BROWSER_ASSISTANT_UI_ASSISTANT_CONTAINER_LAYOUT_UTILS_H_
 

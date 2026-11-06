@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HistorySyncCapabilitiesFetcher interface
+// summary: Declares the Objective-C fetcher that retrieves account capabilities determining restrictions of the History Sync Opt-In screen.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTHENTICATION_HISTORY_SYNC_MODEL_HISTORY_SYNC_CAPABILITIES_FETCHER_H_
 #define IOS_CHROME_BROWSER_AUTHENTICATION_HISTORY_SYNC_MODEL_HISTORY_SYNC_CAPABILITIES_FETCHER_H_
 

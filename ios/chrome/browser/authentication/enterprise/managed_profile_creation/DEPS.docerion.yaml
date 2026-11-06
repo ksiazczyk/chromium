@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Managed profile creation DEPS include rules
+summary: Defines include rules granting the managed profile creation directory access to ios/chrome/browser/signin/model.

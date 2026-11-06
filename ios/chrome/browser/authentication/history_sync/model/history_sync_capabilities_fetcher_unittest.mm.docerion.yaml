@@ -1,0 +1,4 @@
+# Docerion header of history_sync_capabilities_fetcher_unittest.mm.
+type: test
+title: HistorySyncCapabilitiesFetcher unit tests
+summary: Parameterized tests verifying capability fetching when values are already available and the timeout fallback behavior.

@@ -1,0 +1,4 @@
+# Docerion header of assistant_egtest.mm.
+type: test
+title: Assistant container Earl Grey UI tests
+summary: Earl Grey eg2 test suite verifying the assistant container opens via omnibox long press and that sheet interactions such as dragging dismiss the keyboard.

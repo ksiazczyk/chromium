@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for fullscreen signin promo coordinator
+summary: Defines the coordinator source_set that builds the fullscreen signin promo display handler and lists its build dependencies.
