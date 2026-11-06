@@ -1,0 +1,4 @@
+# Docerion header of default_popup.html.
+type: test
+title: Default popup page for the action persistence test
+summary: Minimal HTML page declared as the extension action's default popup in the test manifest.

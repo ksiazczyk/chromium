@@ -3,6 +3,12 @@
 // found in the LICENSE file.
 
 
+// ---docerion
+// type: test
+// title: Tests for chrome.fileManagerPrivate.searchFiles
+// summary: Runs browser tests for searchFiles covering queries without rootDir, with rootDir at the root and a subdirectory, and with modified-date filters.
+// ---
+
 /**
  * Helper function that checks if the gotten entry list has entries with
  * wanted paths.

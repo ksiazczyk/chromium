@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the web_accessible test extension
+summary: Manifest v2 for the test extension declaring web accessible resources test.png and nonexistent.png plus a new tab page override.

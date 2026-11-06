@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Default file handler test extension manifest
+summary: Manifest for the ChromeOS File handler default test extension, declaring file handlers, permissions and the test script used to exercise default file handler selection.

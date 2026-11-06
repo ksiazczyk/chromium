@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for chrome.fileManagerPrivate crostini test extension
+summary: Manifest defining the chrome.fileManagerPrivate crostini API test extension, including its key, permissions, and test.js background script.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tests for chrome.action.isEnabled with default and tab-specific states
+// summary: Runs API tests that open two tabs and verify chrome.action enable and disable behavior globally and per tab.
+// ---
+
 import {openTab} from '/_test_resources/test_util/tabs_util.js';
 let tab1Id;
 let tab2Id;

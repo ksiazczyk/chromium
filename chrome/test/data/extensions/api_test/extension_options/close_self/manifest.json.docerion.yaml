@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: close_self test extension manifest
+summary: Manifest for the close_self_test extension that registers options.html as its options page to test close event propagation to the embedder.

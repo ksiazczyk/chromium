@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: User script testing fetch header setting and removal
+// summary: User script that performs fetches with allowed and forbidden headers, including setting and deleting the Origin header, then signals that the fetches completed.
+// ---
+
 (async function() {
   const allowedUrl = new URL('/fetch_allowed.html', location.href).href;
   await fetch(

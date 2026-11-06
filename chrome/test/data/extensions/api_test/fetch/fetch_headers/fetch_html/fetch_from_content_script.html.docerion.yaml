@@ -1,0 +1,4 @@
+# Docerion header of fetch_from_content_script.html.
+type: test
+title: fetch_from_content_script.html
+summary: Empty HTML fixture page used by the extension fetch headers API test for fetches from a content script.

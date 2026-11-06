@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Test extension manifest for options page loading
+summary: Manifest for the extension_with_options_page test extension, declaring options.html as its options page to test loading via <extensionoptions>.

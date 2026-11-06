@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the chrome.extension cognito_nofile test extension
+summary: Manifest for a browser test extension that runs the chrome.extension API cognito-mode test via the test.js service worker.

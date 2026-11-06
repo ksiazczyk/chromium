@@ -1,0 +1,4 @@
+# Docerion header of nonaccessible_resource.html.
+type: test
+title: Non-accessible resource test page
+summary: Test fixture that loads an image from a non-web-accessible extension resource and reports success or failure in the title.

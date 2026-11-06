@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the fileManagerPrivate permission test extension
+summary: Defines the test app that loads background.js and requests the fileManagerPrivate permission to verify it is denied.

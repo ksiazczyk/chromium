@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker driving the action persistence test
+// summary: Service worker that sets the action popup, title and badge text via chrome.action APIs and reports pass or fail through chrome.test.
+// ---
+
 chrome.storage.local.get('sentinel', (val) => {
   if (val.sentinel !== undefined) {
     // Note: We don't expect the event page to be invoked a second time,

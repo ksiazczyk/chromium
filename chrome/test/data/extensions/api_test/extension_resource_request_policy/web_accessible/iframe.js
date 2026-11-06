@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Dynamic iframe test script
+// summary: Script that verifies both static and dynamically created iframes load and notifies the Chrome test framework of success.
+// ---
+
 // Test that both static <iframe> tags and dynamically generated ones can be
 // loaded by their parent extension (iframe-contents.html is not listed in
 // web_accessible_resources).

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the experimental AI data API test extension
+summary: Manifest configuring the test extension for experimental AI data API browser tests, requesting the experimentalAiData and scripting permissions with test.js as service worker.

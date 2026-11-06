@@ -1,0 +1,4 @@
+# Docerion header of xhr_inaccessible_resource.html.
+type: test
+title: XHR inaccessible resource test page
+summary: Test fixture that sends a synchronous XHR to a non-web-accessible extension resource and reports the status in the title.

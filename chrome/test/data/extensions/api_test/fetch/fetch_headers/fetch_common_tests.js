@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Common fetch header tests for extensions API
+// summary: Exports a shared set of chrome.test cases verifying how fetch() and the Headers API handle forbidden headers such as Origin in extension test pages.
+// ---
+
 // Returns a common set of `fetch()` header test cases.
 export function getCommonFetchHeaderTests() {
   let config;

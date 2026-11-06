@@ -1,0 +1,4 @@
+# Docerion header of accessible_resource.html.
+type: test
+title: Image load test page for accessible resource
+summary: Test page that loads a web-accessible chrome-extension image and reports success or failure through the document title.

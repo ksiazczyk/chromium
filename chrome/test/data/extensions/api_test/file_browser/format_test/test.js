@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser test for chrome.fileManagerPrivate.formatVolume
+// summary: Runs browser tests that format removable volumes as VFAT, EXFAT and NTFS and asserts that an unsupported file system type throws the expected error.
+// ---
+
 const expectedError = 'Error in invocation of fileManagerPrivate.' +
     'formatVolume(string volumeId, fileManagerPrivate.FormatFileSystemType ' +
     'filesystem, string volumeLabel): Error at parameter \'filesystem\': ' +

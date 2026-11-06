@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for extension with some accessible pages
+summary: Extension manifest for the resource request policy test, declaring public.html as the only web-accessible resource.

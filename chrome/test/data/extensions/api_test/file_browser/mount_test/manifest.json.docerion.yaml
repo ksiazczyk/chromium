@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the fileManagerPrivate mount test extension
+summary: Extension manifest defining the chrome.fileManagerPrivate mount test extension, its background script and fileManagerPrivate permission.

@@ -1,0 +1,4 @@
+# Docerion header of inaccessible-iframe-contents.html.
+type: test
+title: Inaccessible iframe contents test page
+summary: HTML fixture for the extension resource request policy test that should not be displayed and loads the companion script that reports a test failure if the iframe loads.

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for chrome.fileManagerPrivate media metadata tests
+summary: Extension manifest for the test app that runs test.js in the background and requests fileManagerPrivate and fileSystem permissions for the media metadata API tests.

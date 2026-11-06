@@ -23,6 +23,12 @@
  * is given to file task handler.
  */
 
+// ---docerion
+// type: test
+// title: File browser task execution test script
+// summary: Test script that opens an external filesystem, locates test files, verifies exactly one registered task per file, and executes it via chrome.fileManagerPrivate.
+// ---
+
 /**
  * Files for which the file browser handlers will be executed by the extension.
  * @type {Array<string>}

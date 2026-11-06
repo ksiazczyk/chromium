@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the fetch headers test extension
+summary: Manifest version 3 configuration declaring host permissions, the userScripts permission, background service worker, content script, popup, and web-accessible test resources.

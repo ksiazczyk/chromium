@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the chrome.fileManagerPrivate tests extension
+summary: Chrome extension manifest declaring the test app that runs test.js in the background with fileManagerPrivate and file system permissions.

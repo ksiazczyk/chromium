@@ -1,0 +1,4 @@
+# Docerion header of fetch_allowed.html.
+type: test
+title: fetch_allowed.html
+summary: Empty HTML fixture page used by the extension fetch headers API test for the allowed fetch case.

@@ -1,0 +1,4 @@
+# Docerion header of accessible_link_resource.html.
+type: test
+title: Link click test page for accessible resource
+summary: Test page that automatically clicks a link pointing to a web-accessible chrome-extension image resource on load.

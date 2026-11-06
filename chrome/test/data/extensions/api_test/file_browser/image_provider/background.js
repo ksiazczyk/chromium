@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: File system provider test extension background script
+// summary: Implements a mock file system provider that mounts a test file system and serves inline GIF, PNG and text entries with metadata, open and read handling for the image provider API test.
+// ---
+
 'use strict';
 
 // A 1x1 transparent GIF in 42 bytes.

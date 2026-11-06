@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest of the file browser handler test extension
+summary: Manifest for the file browser handler API test extension, defining a ReadOnly handler for .xul files with read access and a ReadWrite handler for .tiff files, plus the required permissions.

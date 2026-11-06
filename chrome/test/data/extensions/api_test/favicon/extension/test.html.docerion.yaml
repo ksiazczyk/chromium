@@ -1,0 +1,4 @@
+# Docerion header of test.html.
+type: test
+title: HTML page hosting the favicon API test
+summary: Minimal HTML page that loads the test script to run the favicon extension API browser test.

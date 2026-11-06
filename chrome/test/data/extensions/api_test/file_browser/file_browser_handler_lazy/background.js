@@ -22,6 +22,12 @@
  * file.
  */
 
+// ---docerion
+// type: test
+// title: File browser handler lazy test background script
+// summary: Background script of a test extension that runs read and write tests on files handled by the ReadWrite file browser handler, verifying expected access and content.
+// ---
+
 // Initial content of handled files. The content is set in
 // external_filesystem_apitest.cc.
 const INITIAL_TEST_FILE_CONTENT = 'This is some test content.';

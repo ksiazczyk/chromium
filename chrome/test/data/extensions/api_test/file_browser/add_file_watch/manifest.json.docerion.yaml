@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for chrome.fileManagerPrivate addFileWatch tests
+summary: Extension manifest that defines the test app, its key, and the fileManagerPrivate and fileSystem permissions needed for the addFileWatch API tests.

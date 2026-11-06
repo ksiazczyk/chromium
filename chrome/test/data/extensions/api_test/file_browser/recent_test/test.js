@@ -6,6 +6,12 @@
  * Test files should be created before running the test extension.
  */
 
+// ---docerion
+// type: test
+// title: Tests for chrome.fileManagerPrivate.getRecentFiles
+// summary: JavaScript test script that requests all file systems and runs chrome.test cases verifying recent file queries with search terms and audio, image, and video type filters.
+// ---
+
 function getVolumeMetadataList() {
   return new Promise(function(resolve, reject) {
     chrome.fileManagerPrivate.getVolumeMetadataList(resolve);

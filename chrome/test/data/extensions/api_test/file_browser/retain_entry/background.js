@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background script for the retain entry API test
+// summary: Test script that retains a chosen directory entry, stores its ID, reloads the app, and verifies the entry can be restored.
+// ---
+
 /**
  * Retains a test directory.
  * @return {Promise} Promise fulflled/rejected depending on the test result.

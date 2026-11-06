@@ -1,0 +1,4 @@
+# Docerion header of iframe.html.
+type: test
+title: Static iframe test page for web accessible resources
+summary: Test page embedding a static iframe from the same extension that should load and one from a non-web-accessible extension that should not.

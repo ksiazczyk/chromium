@@ -12,6 +12,12 @@
  * handlers will be launched once and will carry on file entry.
  */
 
+// ---docerion
+// type: test
+// title: App file handler test extension background script
+// summary: Background script of a test extension that waits for xul and tiff file handler launch events and verifies the handled file entries can be read with the expected content.
+// ---
+
 /**
  * Attempts to read the file |entry| and verifies the file content is equal to
  * |expectedContent|.

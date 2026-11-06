@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the chrome.fileManagerPrivate format test extension
+summary: Manifest for a test extension that runs the chrome.fileManagerPrivate.FormatVolume API tests with the fileManagerPrivate permission and test.js as background script.

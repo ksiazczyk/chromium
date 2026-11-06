@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Expected volume definitions for mount tests
+// summary: Defines expected volume metadata for chrome.fileManagerPrivate mount tests, kept in sync with file_manager_private_apitest.cc.
+// ---
+
 // These have to be sync'd with file_manager_private_apitest.cc
 const expectedVolume1 = {
   volumeId: 'removable:mount_path1',

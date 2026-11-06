@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the fileManagerPrivate recent files test extension
+summary: Chrome extension manifest that sets up the test app with fileManagerPrivate and fileSystem permissions to run the getRecentFiles API tests.

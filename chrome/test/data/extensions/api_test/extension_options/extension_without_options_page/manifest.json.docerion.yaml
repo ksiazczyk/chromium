@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for extension without options page test
+summary: Manifest for a test extension that has no options page, used as fixture data in the extension options API browser tests.

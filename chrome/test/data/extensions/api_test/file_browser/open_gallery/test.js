@@ -7,6 +7,12 @@
  * types are handled by the appropriate default-installed system app.
  */
 
+// ---docerion
+// type: test
+// title: Browser test that opening a PNG launches the gallery app
+// summary: Runs chrome.fileManagerPrivate tests verifying that opening a PNG file via a file browser task is handled by the MediaApp gallery and returns the OPENED result.
+// ---
+
 const TEST_PNG = 'test_dir/test_file.png';
 
 /**

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: chrome.fileManagerPrivate DLP metadata browser tests
+// summary: Runs browser tests for getDlpMetadata, getDlpRestrictionDetails and getDlpBlockedComponents, switching test cases by the mode passed via customArg.
+// ---
+
 /**
  * Gets the metadata of a volume having a specified type.
  * @param {string} volumeType volume type for entry.

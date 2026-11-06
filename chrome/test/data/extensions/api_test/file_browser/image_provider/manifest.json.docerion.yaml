@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Test file system provider extension manifest
+summary: Manifest for the Testing File System Provider extension, declaring the fileSystemProvider permission, file-based provider capabilities and the test background script.

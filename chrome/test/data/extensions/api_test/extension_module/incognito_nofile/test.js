@@ -5,6 +5,12 @@
 // extension api test
 // browser_tests.exe --gtest_filter=ExtensionModuleApiTest.IncognitoNofile
 
+// ---docerion
+// type: test
+// title: chrome.extension incognito access browser test
+// summary: Browser test that verifies chrome.extension incognito access is allowed and file scheme access is not allowed.
+// ---
+
 chrome.test.runTests([
   function testPermissions() {
     chrome.extension.isAllowedIncognitoAccess(

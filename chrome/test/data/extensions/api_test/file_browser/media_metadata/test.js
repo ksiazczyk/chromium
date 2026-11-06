@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tests for getContentMimeType and getContentMetadata
+// summary: Browser test suite verifying that chrome.fileManagerPrivate detects content MIME types for empty, image, audio, and video entries and returns media metadata such as tags and duration.
+// ---
+
 /**
  * Test files should be created before running the tests.
  */

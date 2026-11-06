@@ -1,0 +1,4 @@
+# Docerion header of accessible_resource_with_csp.html.
+type: test
+title: CSP-restricted image load test page
+summary: Test page that loads a web-accessible extension image while a Content-Security-Policy meta tag blocks image sources.

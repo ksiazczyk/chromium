@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Hosted app test extension manifest
+summary: Manifest for a hosted app test extension used in extension resource request policy API tests, declaring test.png as a web-accessible resource and app launch details.
