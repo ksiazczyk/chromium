@@ -1,0 +1,4 @@
+# Docerion header of android_ui_strings_gl.xtb.
+type: data
+title: Android UI strings for Galician
+summary: Galician translation bundle with localized Android UI strings for Chrome, covering messages such as photo picker, clipboard, and menu items.

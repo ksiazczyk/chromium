@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the hierarchicalmenu JUnit tests
+summary: Delegates code ownership for the hierarchicalmenu JUnit tests to the OWNERS file of the main source directory.

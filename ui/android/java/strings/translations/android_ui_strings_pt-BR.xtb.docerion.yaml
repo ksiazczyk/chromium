@@ -1,0 +1,4 @@
+# Docerion header of android_ui_strings_pt-BR.xtb.
+type: data
+title: Brazilian Portuguese Android UI string translations
+summary: Brazilian Portuguese translations of Android UI strings covering photo picker, clipboard and error messages, stored as an XTB bundle.

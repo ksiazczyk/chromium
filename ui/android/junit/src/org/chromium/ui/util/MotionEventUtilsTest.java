@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MotionEventUtilsTest
+// summary: Robolectric unit tests checking that MotionEventUtils.isPointerEvent classifies mouse and trackpad events as pointer events while excluding touch, stylus, and eraser input.
+// ---
+
 package org.chromium.ui.util;
 
 import static org.junit.Assert.assertFalse;

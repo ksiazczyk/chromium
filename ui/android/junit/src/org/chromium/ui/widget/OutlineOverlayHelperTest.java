@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OutlineOverlayHelperTest
+// summary: Robolectric unit tests for OutlineOverlayHelper, checking that the focus outline overlay is attached, removed, and repositioned on focus and layout changes.
+// ---
+
 package org.chromium.ui.widget;
 
 import static org.junit.Assert.assertEquals;

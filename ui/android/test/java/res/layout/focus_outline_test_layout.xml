@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: test
+title: Focus outline test layout with two focusable buttons
+summary: Android test layout with a relative layout of green and red focusable buttons for exercising focus outline behavior.
+-->
+
 <RelativeLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/button_container"

@@ -1,0 +1,4 @@
+# Docerion header of android_ui_strings_uz.xtb.
+type: data
+title: Uzbek Android UI strings translation bundle
+summary: Uzbek XTB translation bundle providing localized Chrome Android UI strings for photo picker errors, copy confirmations, URL actions, and list menu labels.

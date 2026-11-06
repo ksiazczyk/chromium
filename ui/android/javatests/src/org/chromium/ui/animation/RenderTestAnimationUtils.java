@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Render test animation utilities
+// summary: Utility that steps a ValueAnimator through given fractions on the UI thread and captures a rendered image for each step in render tests.
+// ---
+
 package org.chromium.ui.animation;
 
 import android.animation.ValueAnimator;

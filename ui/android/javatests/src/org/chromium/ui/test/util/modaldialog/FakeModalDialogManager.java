@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake ModalDialogManager for tests
+// summary: Provides a fake ModalDialogManager subclass, driven by a native bridge, that records shown dialogs and simulates button, dismiss, and checkbox interactions in modal dialog tests.
+// ---
+
 package org.chromium.ui.test.util.modaldialog;
 
 import android.graphics.Bitmap;

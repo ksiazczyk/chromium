@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ResourceManager interface header
+// summary: Declares the ResourceManager interface, a cache for resources obtained through Android APIs and consumed by the compositor, with synchronous and tinted lookups.
+// ---
+
 #ifndef UI_ANDROID_RESOURCES_RESOURCE_MANAGER_H_
 #define UI_ANDROID_RESOURCES_RESOURCE_MANAGER_H_
 

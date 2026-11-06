@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for the modal dialog test directory
+summary: Declares the Chromium monorail and Buganizer components used for issues in the modal dialog test directory.

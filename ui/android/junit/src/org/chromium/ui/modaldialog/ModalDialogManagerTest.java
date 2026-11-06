@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ModalDialogManagerTest
+// summary: Robolectric unit tests validating ModalDialogManager behavior for showing, dismissing, prioritizing dialogs and notifying observers.
+// ---
+
 package org.chromium.ui.modaldialog;
 
 import static org.junit.Assert.assertEquals;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ResourceManagerImpl class declaration
+// summary: Declares the ResourceManagerImpl class that manages Android UI resources, tinted resource caches and memory dump reporting.
+// ---
+
 #ifndef UI_ANDROID_RESOURCES_RESOURCE_MANAGER_IMPL_H_
 #define UI_ANDROID_RESOURCES_RESOURCE_MANAGER_IMPL_H_
 

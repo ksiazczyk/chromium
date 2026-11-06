@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DynamicResource test utilities
+// summary: Shared test helper that synchronously fetches the bitmap, size, or resource from a DynamicResource via a ready callback, mainly supporting legacy synchronous-resource tests.
+// ---
+
 package org.chromium.ui.resources.dynamics;
 
 import static org.junit.Assert.assertNotNull;

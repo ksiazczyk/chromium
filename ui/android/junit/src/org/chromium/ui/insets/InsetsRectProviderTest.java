@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: InsetsRectProviderTest
+// summary: Robolectric unit tests for InsetsRectProvider verifying that observed inset rects and available areas stay up to date when window insets change.
+// ---
+
 package org.chromium.ui.insets;
 
 import static androidx.core.view.WindowInsetsCompat.Type.captionBar;

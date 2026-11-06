@@ -5,6 +5,12 @@
 // Note: This file refers to modifiers in ETC1 spec as "selectors". The jargon
 //       was inherited from etcpak.
 
+// ---docerion
+// type: source
+// title: ETC1 selector tables and search
+// summary: Implements the ETC1 selector tables, pixel and selector flip operations, and a SIMD search for the optimal table and selectors per subblock using a grayscale error metric.
+// ---
+
 use std::simd::prelude::*;
 use std::simd::{Mask, Select, Simd};
 

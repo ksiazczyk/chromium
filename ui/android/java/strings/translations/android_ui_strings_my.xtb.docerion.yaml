@@ -1,0 +1,4 @@
+# Docerion header of android_ui_strings_my.xtb.
+type: data
+title: Burmese Android UI string translations
+summary: Burmese translations of Android UI strings covering photo picker, clipboard and error messages, stored as an XTB translation bundle.

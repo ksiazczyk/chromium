@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Decoder benchmark tool
+// summary: Command-line benchmark that compresses a PNG to ETC1, decodes it 100 times, and reports average and standard deviation of execution time.
+// ---
+
 chromium::import! {
     "//ui/android:texture_compressor";
 }

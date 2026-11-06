@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DropDataAndroid unit tests
+// summary: Robolectric unit tests for DropDataAndroid verifying creation of drag data containing plain text, links, images, and combined image-link content.
+// ---
+
 package org.chromium.ui.dragdrop;
 
 import org.junit.Assert;

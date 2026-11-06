@@ -1,0 +1,4 @@
+# Docerion header of android_ui_strings_or.xtb.
+type: data
+title: Odia Android UI string translations
+summary: Odia translations of Android UI strings covering photo picker, clipboard and error messages, stored as an XTB translation bundle.

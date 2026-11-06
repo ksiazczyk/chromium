@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for clipboard test files
+summary: Chromium OWNERS entry assigning per-file reviewers for clipboard Java test files in this directory.

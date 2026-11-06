@@ -8,6 +8,12 @@ found in the LICENSE file.
 <!-- This layout file is used by ModelListAdapterTest to test the
      LayoutViewBuilder component. -->
 
+<!--docerion
+type: test
+title: LayoutViewBuilder test layout
+summary: TextView layout with margins, weight and gravity used by ModelListAdapterTest to exercise the LayoutViewBuilder component.
+-->
+
 <TextView
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/lvb_inflated_view"

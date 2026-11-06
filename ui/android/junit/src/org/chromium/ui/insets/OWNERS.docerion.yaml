@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: OWNERS file that delegates code review ownership for this test directory to the main ui/android insets OWNERS file.

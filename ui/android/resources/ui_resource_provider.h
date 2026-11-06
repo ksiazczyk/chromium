@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UI resource provider interface
+// summary: Declares the UIResourceProvider interface for creating and deleting compositor UI resources and checking ETC1 non-power-of-two support.
+// ---
+
 #ifndef UI_ANDROID_RESOURCES_UI_RESOURCE_PROVIDER_H_
 #define UI_ANDROID_RESOURCES_UI_RESOURCE_PROVIDER_H_
 

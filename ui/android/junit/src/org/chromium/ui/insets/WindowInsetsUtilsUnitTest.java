@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WindowInsetsUtilsUnitTest
+// summary: Unit tests for WindowInsetsUtils verifying conversion of insets to window rects and correct handling of null or invalid inset inputs.
+// ---
+
 package org.chromium.ui.insets;
 
 import static org.junit.Assert.assertEquals;

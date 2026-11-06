@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ViewLookupCachingFrameLayoutTest
+// summary: Robolectric unit tests verifying that ViewLookupCachingFrameLayout caches view lookups by ID and keeps the cache consistent when views with duplicate IDs are added or removed.
+// ---
+
 package org.chromium.ui.widget;
 
 import static org.junit.Assert.assertEquals;

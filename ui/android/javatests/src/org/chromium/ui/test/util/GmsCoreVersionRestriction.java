@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GmsCoreVersionRestriction
+// summary: Defines GMS Core version restrictions that skip tests when the device's GMS Core version is below a required threshold.
+// ---
+
 package org.chromium.ui.test.util;
 
 import org.chromium.base.DeviceInfo;

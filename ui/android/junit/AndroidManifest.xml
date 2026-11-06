@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Android manifest for UI unit tests
+summary: Declares test activities and the INTERNET permission so Android UI unit tests, including ActivityScenario-based tests, can run.
+-->
+
 <!-- This manifest is required for tests using
      androidx.test.core.app.ActivityScenario to work.
 -->

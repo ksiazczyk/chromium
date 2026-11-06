@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Hierarchical menu instrumentation tests
+// summary: Instrumentation tests for the Android hierarchical menu, covering drilldown and flyout behavior.
+// ---
+
 package org.chromium.ui.hierarchicalmenu;
 
 import android.app.Activity;

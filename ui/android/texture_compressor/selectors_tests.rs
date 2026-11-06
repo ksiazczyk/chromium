@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Selector unit tests
+// summary: Gtest unit tests for the selector module, verifying pixel and selector flipping and the table and selector search, including overflow handling of the error function.
+// ---
+
 use rust_gtest_interop::prelude::*;
 use std::simd::prelude::*;
 

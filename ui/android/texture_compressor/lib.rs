@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Texture compressor library core
+// summary: Crate root defining SIMD register types, ETC1 codeword interleaving, mirrored input block loading, and the compression pipeline.
+// ---
+
 #![feature(portable_simd)]
 
 // Modules public for testing, don't expect stable API.

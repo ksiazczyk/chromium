@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the Android UI dragdrop package
+summary: Chromium OWNERS file that delegates code ownership to the OWNERS file of the corresponding dragdrop source directory.

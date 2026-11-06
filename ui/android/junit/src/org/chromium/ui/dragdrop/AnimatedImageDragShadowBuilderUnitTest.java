@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AnimatedImageDragShadowBuilder unit tests
+// summary: Robolectric unit tests verifying how AnimatedImageDragShadowBuilder resizes drag shadow images, covering scaling down by ratio and scaling up to a minimum size.
+// ---
+
 package org.chromium.ui.dragdrop;
 
 import android.content.Context;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EventForwarderDeviceTest
+// summary: On-device tests for EventForwarder, verifying trackpad scroll and fling motion events are correctly classified and forwarded to native.
+// ---
+
 package org.chromium.ui.base;
 
 import static org.mockito.ArgumentMatchers.anyBoolean;

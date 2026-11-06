@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EventForwarder tests
+// summary: Robolectric tests for EventForwarder covering touch, trackpad, drag, and hover event forwarding to native plus window inset and histogram behavior.
+// ---
+
 package org.chromium.ui.base;
 
 import static android.view.WindowInsets.Type.systemGestures;

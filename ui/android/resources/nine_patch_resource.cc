@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nine-patch resource implementation
+// summary: Implements NinePatchResource behavior including draw size, draw position accounting for padding, border computation and copy creation.
+// ---
+
 #include "ui/android/resources/nine_patch_resource.h"
 
 #include <algorithm>

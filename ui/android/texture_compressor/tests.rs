@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test suite root module
+// summary: Root module of the texture compressor test crate, declaring the decoder, lib, quant, and selectors test modules.
+// ---
+
 #![feature(portable_simd)]
 
 mod decoder_tests;

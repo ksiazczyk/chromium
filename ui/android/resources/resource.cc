@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Base Resource class implementation
+// summary: Implements the base Resource class, storing the scoped UI resource and size and estimating memory usage for tracing.
+// ---
+
 #include "ui/android/resources/resource.h"
 
 #include "base/trace_event/memory_usage_estimator.h"

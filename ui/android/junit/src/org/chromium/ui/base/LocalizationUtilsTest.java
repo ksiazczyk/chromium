@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LocalizationUtils tests
+// summary: Robolectric tests for LocalizationUtils covering Android split language codes, Chromium locale matching, and BCP 47 tag to Java locale conversion.
+// ---
+
 package org.chromium.ui.base;
 
 import static org.junit.Assert.assertEquals;

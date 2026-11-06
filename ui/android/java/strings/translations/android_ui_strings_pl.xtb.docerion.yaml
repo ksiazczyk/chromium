@@ -1,0 +1,4 @@
+# Docerion header of android_ui_strings_pl.xtb.
+type: data
+title: Polish Android UI string translations
+summary: Polish translations of Android UI strings covering photo picker, clipboard and error messages, stored as an XTB translation bundle.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: View arc animation render test
+// summary: JUnit render tests that capture frames of the view arc animation from CommonAnimationsFactory across quadrants and arc directions.
+// ---
+
 package org.chromium.ui.animation;
 
 import static org.chromium.base.ThreadUtils.runOnUiThreadBlocking;

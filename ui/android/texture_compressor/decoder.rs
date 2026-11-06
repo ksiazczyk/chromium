@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ETC1 block decoder
+// summary: Implements ETC1 block decoding per the Khronos specification, parsing block metadata, base colors, deltas, and pixel modifiers.
+// ---
+
 use crate::selectors::TABLES;
 
 #[derive(Debug, PartialEq, Eq)]

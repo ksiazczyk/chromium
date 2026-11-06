@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AnimationPerformanceTrackerUnitTest
+// summary: Robolectric unit tests checking animation metrics such as start time, frame latency, frame count, and FPS reported by AnimationPerformanceTracker.
+// ---
+
 package org.chromium.ui.animation;
 
 import static org.junit.Assert.assertEquals;

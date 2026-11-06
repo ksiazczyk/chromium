@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RunOnNextLayoutDelegateUnitTest
+// summary: Robolectric tests ensuring RunOnNextLayoutDelegate runs runnables immediately or defers them until the next view layout.
+// ---
+
 package org.chromium.ui.animation;
 
 import static org.junit.Assert.assertEquals;

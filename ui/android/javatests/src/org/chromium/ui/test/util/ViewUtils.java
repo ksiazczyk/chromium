@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: 'ViewUtils: view assertion helpers for UI tests'
+// summary: Provides Espresso-based helpers to wait for visible views, await stable layout, create motion events, and match view properties in UI tests.
+// ---
+
 package org.chromium.ui.test.util;
 
 import static androidx.test.espresso.matcher.ViewMatchers.isDisplayed;

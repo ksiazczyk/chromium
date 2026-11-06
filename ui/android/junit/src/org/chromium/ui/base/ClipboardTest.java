@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Clipboard tests
+// summary: Robolectric tests for the Clipboard class covering clip data, MIME types, URI metadata, content provider interaction, and toast behavior.
+// ---
+
 package org.chromium.ui.base;
 
 import static android.content.ClipDescription.MIMETYPE_TEXT_HTML;

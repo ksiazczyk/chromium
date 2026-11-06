@@ -1,0 +1,4 @@
+# Docerion header of android_ui_strings_ru.xtb.
+type: data
+title: Android UI strings (Russian)
+summary: Russian translation bundle with localized Chrome Android UI strings for the photo picker, clipboard actions, URL display, and menus.

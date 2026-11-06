@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DeviceInput tests
+// summary: Robolectric tests for DeviceInput verifying alphabetic keyboard and precision pointer detection using shadowed InputDevice add, change, and remove events.
+// ---
+
 package org.chromium.ui.base;
 
 import static android.view.InputDevice.KEYBOARD_TYPE_ALPHABETIC;

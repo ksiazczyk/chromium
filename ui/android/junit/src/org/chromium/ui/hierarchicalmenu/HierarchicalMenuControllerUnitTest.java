@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HierarchicalMenuController unit tests
+// summary: Robolectric unit tests for HierarchicalMenuController, verifying submenu navigation, item clicks, and feature-flagged menu behavior.
+// ---
+
 package org.chromium.ui.hierarchicalmenu;
 
 import static org.junit.Assert.assertEquals;

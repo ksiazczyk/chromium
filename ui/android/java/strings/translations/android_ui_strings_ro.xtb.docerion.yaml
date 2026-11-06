@@ -1,0 +1,4 @@
+# Docerion header of android_ui_strings_ro.xtb.
+type: data
+title: Romanian Android UI string translations
+summary: Romanian translations of Android UI strings covering photo picker, clipboard and error messages, stored as an XTB translation bundle.

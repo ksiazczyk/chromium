@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TextViewWithClickableSpansTest
+// summary: Robolectric unit tests for TextViewWithClickableSpans, covering span focus handling, enter key activation, click callbacks, and accessibility behavior.
+// ---
+
 package org.chromium.ui.widget;
 
 import static org.junit.Assert.assertEquals;

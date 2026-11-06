@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TokenHolderTest
+// summary: Robolectric unit tests verifying TokenHolder token acquisition and release behavior and that its callback fires only when tokens become empty or non-empty.
+// ---
+
 package org.chromium.ui.util;
 
 import static org.junit.Assert.assertFalse;

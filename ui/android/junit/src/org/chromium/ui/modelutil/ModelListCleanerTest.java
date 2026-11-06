@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ModelListCleanerTest
+// summary: Robolectric tests for ModelListCleaner, checking that destroyable rows are destroyed and the list cleared correctly.
+// ---
+
 package org.chromium.ui.modelutil;
 
 import static org.junit.Assert.assertEquals;

@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: test
+title: JUnit test style resources
+summary: Defines test text appearance styles, including a custom font variant, for Chromium UI JUnit tests.
+-->
+
 <resources xmlns:tools="http://schemas.android.com/tools">
   <style name="TextAppearance.Test" parent="android:TextAppearance" tools:ignore="UnusedResources">
       <item name="android:fontFamily">sans-serif</item>

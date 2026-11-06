@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SimpleRecyclerViewAdapterTest
+// summary: Robolectric tests for SimpleRecyclerViewAdapter, verifying adapter notifications for list model changes.
+// ---
+
 package org.chromium.ui.modelutil;
 
 import static org.mockito.Mockito.times;

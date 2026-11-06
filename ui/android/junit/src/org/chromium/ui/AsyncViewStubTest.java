@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AsyncViewStubTest
+// summary: Robolectric unit tests covering AsyncViewStub inflation, including listener ordering and UI-thread invocation, and programmatic or XML inflated view IDs.
+// ---
+
 package org.chromium.ui;
 
 import static org.junit.Assert.assertEquals;

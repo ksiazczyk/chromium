@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CommonOnLayoutChangeListenersTest
+// summary: Robolectric unit tests verifying that layout change listeners fire only when view bounds or sizes actually change and pass the correct bounds to callbacks.
+// ---
+
 package org.chromium.ui.util;
 
 import static org.junit.Assert.assertEquals;

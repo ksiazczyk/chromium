@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LoadingViewTest
+// summary: Robolectric tests for LoadingView that verify show and hide loading UI callbacks and progress bar visibility for fast and slow loading scenarios.
+// ---
+
 package org.chromium.ui.widget;
 
 import android.app.Activity;

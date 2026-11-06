@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ClipboardAndroidTest
+// summary: JUnit tests for Android clipboard behavior, covering text and URL handling via ClipboardManager with native mocks and activity-based setup.
+// ---
+
 package org.chromium.ui.base;
 
 import static org.mockito.ArgumentMatchers.any;

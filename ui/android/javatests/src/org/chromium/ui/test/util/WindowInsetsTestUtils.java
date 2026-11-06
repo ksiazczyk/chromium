@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: 'WindowInsetsTestUtils: window insets test helpers'
+// summary: Offers utilities to build mocked WindowInsetsCompat objects via a deprecated spy builder and to apply insets to Rects in tests.
+// ---
+
 package org.chromium.ui.test.util;
 
 import static org.mockito.Mockito.doReturn;

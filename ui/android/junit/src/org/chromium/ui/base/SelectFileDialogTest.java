@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SelectFileDialogTest
+// summary: Extensive Robolectric tests for SelectFileDialog covering file selection intents, permissions, mime types and photo picker behavior.
+// ---
+
 package org.chromium.ui.base;
 
 import static org.junit.Assert.assertArrayEquals;

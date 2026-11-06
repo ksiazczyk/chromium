@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the modal dialog test directory
+summary: Points code review ownership to the OWNERS file of the main modal dialog source directory.

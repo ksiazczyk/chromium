@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AnchoredPopupWindowTest
+// summary: Robolectric unit tests for AnchoredPopupWindow, covering animation style calculation and popup positioning behavior relative to an anchor view.
+// ---
+
 package org.chromium.ui.widget;
 
 import static org.junit.Assert.assertEquals;

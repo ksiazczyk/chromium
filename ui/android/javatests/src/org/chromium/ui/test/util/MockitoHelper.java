@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockitoHelper
+// summary: Helper utilities that simplify common Mockito interactions in tests, such as triggering callbacks from mocks and verifying with timeouts.
+// ---
+
 package org.chromium.ui.test.util;
 
 import static org.mockito.ArgumentMatchers.any;

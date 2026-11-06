@@ -1,0 +1,4 @@
+# Docerion header of android_ui_strings_th.xtb.
+type: data
+title: Thai Android UI strings translation bundle
+summary: Thai XTB translation bundle providing localized Chrome Android UI strings for photo picker errors, copy confirmations, URL actions, and list menu labels.

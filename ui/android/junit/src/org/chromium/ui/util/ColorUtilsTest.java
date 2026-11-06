@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ColorUtilsTest
+// summary: Robolectric unit tests covering ColorUtils helpers such as color blending, opaque color extraction, color overlay, and luminance calculation.
+// ---
+
 package org.chromium.ui.util;
 
 import static org.junit.Assert.assertEquals;

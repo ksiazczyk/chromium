@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CaptureResult JNI wrapper implementation
+// summary: Implements the C++ CaptureResult wrapper around the Java CaptureResult, exposing the bitmap, hardware buffer handle and release callback.
+// ---
+
 #include "ui/android/resources/capture_result.h"
 
 #include <android/hardware_buffer_jni.h>

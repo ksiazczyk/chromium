@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TextAppearanceFontFeaturesTest
+// summary: Robolectric tests guarding that the root TextAppearance style and its descendants disable ligature-forming OpenType font features for browser UI text.
+// ---
+
 package org.chromium.ui;
 
 import static org.junit.Assert.assertEquals;

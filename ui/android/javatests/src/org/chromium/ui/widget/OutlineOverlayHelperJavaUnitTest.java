@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OutlineOverlayHelper Java unit test
+// summary: JUnit test that verifies OutlineOverlayHelper attaches focus outline overlays to the focused button and not to others, using a blank UI test activity and render test rule.
+// ---
+
 package org.chromium.ui.widget;
 
 import static org.junit.Assert.assertFalse;

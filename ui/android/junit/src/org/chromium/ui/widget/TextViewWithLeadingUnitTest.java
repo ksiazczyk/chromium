@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TextViewWithLeadingUnitTest
+// summary: Robolectric unit tests for TextViewWithLeading, verifying line spacing is applied across inflation paths and the REQUIRE_LEADING feature flag kill switch behavior.
+// ---
+
 package org.chromium.ui.widget;
 
 import static org.junit.Assert.assertNotEquals;

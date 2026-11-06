@@ -1,0 +1,4 @@
+# Docerion header of android_ui_strings_it.xtb.
+type: data
+title: Italian Android UI strings translation bundle
+summary: Italian translations of Chrome Android UI strings, covering photo picker, clipboard, URL, and menu messages in the XTB translation bundle format.

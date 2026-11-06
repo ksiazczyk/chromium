@@ -1,0 +1,4 @@
+# Docerion header of android_ui_strings_vi.xtb.
+type: data
+title: Vietnamese Android UI strings translation bundle
+summary: Vietnamese XTB translation bundle providing localized Chrome Android UI strings for photo picker errors, copy confirmations, URL actions, and list menu labels.

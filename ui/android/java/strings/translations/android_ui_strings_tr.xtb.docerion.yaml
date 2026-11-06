@@ -1,0 +1,4 @@
+# Docerion header of android_ui_strings_tr.xtb.
+type: data
+title: Turkish Android UI strings translation bundle
+summary: Turkish XTB translation bundle providing localized Chrome Android UI strings for photo picker errors, copy confirmations, URL actions, and list menu labels.

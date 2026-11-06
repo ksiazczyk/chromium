@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: Pointer file that defers review ownership for these animation tests to the OWNERS file of the corresponding source directory.

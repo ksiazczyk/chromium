@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RenderTestRule
+// summary: JUnit test rule for render tests that captures views and compares images against Skia Gold baselines with configurable corpus, revision and bug component.
+// ---
+
 package org.chromium.ui.test.util;
 
 import android.graphics.Bitmap;

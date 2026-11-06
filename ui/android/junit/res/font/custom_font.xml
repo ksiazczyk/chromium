@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: test
+title: Custom font family for Android JUnit tests
+summary: Defines a font-family resource that maps the test_font_file.ttf font, a copy of third_party test fonts, for use in Android JUnit tests.
+-->
+
 <font-family xmlns:android="http://schemas.android.com/apk/res/android">
     <!-- test_font_file.ttf is a copy of third_party/test_fonts
          GardinerModCat.ttf. -->

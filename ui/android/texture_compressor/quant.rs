@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Average quantization
+// summary: Computes subblock sums and averages and quantizes them into ETC1 444 or 555 codewords with error evaluation for endpoint selection.
+// ---
+
 use std::simd::prelude::*;
 use std::simd::{Select, Simd};
 

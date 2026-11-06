@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the ui insets Java test directory
+summary: OWNERS file that delegates review ownership to the OWNERS file of the main org.chromium.ui.insets source directory.

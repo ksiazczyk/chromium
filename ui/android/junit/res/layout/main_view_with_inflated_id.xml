@@ -4,6 +4,13 @@ Copyright 2026 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: test
+title: Main view layout with AsyncViewStub inflated ID
+summary: LinearLayout with an AsyncViewStub whose app:inflatedId attribute assigns an ID from XML, used to test inflated ID handling.
+-->
+
 <LinearLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"

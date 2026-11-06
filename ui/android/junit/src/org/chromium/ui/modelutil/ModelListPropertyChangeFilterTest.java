@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ModelListPropertyChangeFilterTest
+// summary: Unit tests for ModelListPropertyChangeFilter, covering property change callbacks and add/remove triggers.
+// ---
+
 package org.chromium.ui.modelutil;
 
 import org.junit.Assert;

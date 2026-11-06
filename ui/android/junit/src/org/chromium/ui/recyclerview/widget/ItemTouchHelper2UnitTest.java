@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ItemTouchHelper2 unit tests
+// summary: Robolectric unit tests for ItemTouchHelper2, covering its callback setup and external drag lifecycle behavior on a RecyclerView.
+// ---
+
 package org.chromium.ui.recyclerview.widget;
 
 import static androidx.recyclerview.widget.ItemTouchHelper.ACTION_STATE_DRAG;

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the modaldialog test utilities
+summary: Delegates code ownership of this test utility directory to the OWNERS file of the main ui modaldialog package.

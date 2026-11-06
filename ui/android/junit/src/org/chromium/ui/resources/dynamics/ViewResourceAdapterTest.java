@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ViewResourceAdapter unit tests
+// summary: Robolectric unit tests for ViewResourceAdapter verifying bitmap capture, dirty-state tracking, layout-change invalidation, and downscaled capture sizes.
+// ---
+
 package org.chromium.ui.resources.dynamics;
 
 import static org.junit.Assert.assertEquals;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MimeTypeUtilsTest
+// summary: Robolectric unit tests verifying MIME type detection from URLs for text, image, audio, video, PDF and unknown cases across OS versions.
+// ---
+
 package org.chromium.ui.base;
 
 import static org.junit.Assert.assertEquals;

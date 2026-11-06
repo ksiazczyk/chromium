@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ResourceBundleTest
+// summary: Unit tests for ResourceBundle locale pak resource path resolution, including gender variants, APK subpaths and fallback paths.
+// ---
+
 package org.chromium.ui.base;
 
 import static org.junit.Assert.assertEquals;

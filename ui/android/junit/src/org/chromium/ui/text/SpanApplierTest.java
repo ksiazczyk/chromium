@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SpanApplierTest
+// summary: JUnit Robolectric tests verifying that SpanApplier applies single and multiple spans, supports vararg SpanInfo constructors, and rejects malformed or nested tags.
+// ---
+
 package org.chromium.ui.text;
 
 import android.text.SpannableString;

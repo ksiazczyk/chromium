@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Robolectric shadow for AnimatedStateListDrawable
+// summary: Robolectric shadow extending ShadowStateListDrawable so addState accepts a state ID when testing AnimatedStateListDrawable in Android unit tests.
+// ---
+
 package org.chromium.ui.shadows;
 
 import android.graphics.drawable.AnimatedStateListDrawable;

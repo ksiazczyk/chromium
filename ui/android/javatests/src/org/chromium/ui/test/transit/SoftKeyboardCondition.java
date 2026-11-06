@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SoftKeyboardCondition
+// summary: Test condition that determines whether the Android soft keyboard should be shown and verifies its state, accounting for hard keyboards, desktop environments, and CTS MockIme.
+// ---
+
 package org.chromium.ui.test.transit;
 
 import android.app.Activity;
