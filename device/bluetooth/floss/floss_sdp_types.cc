@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Floss SDP record types implementation
+// summary: Implements D-Bus serialization for Floss SDP record variants plus helpers to extract the header overlay and UUID from an SDP record.
+// ---
+
 #include "device/bluetooth/floss/floss_sdp_types.h"
 
 #include <type_traits>

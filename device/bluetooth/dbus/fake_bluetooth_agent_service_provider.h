@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Bluetooth agent service provider header
+// summary: Declares FakeBluetoothAgentServiceProvider, which simulates a local Bluetooth agent object for test cases and on the Linux desktop.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_DBUS_FAKE_BLUETOOTH_AGENT_SERVICE_PROVIDER_H_
 #define DEVICE_BLUETOOTH_DBUS_FAKE_BLUETOOTH_AGENT_SERVICE_PROVIDER_H_
 

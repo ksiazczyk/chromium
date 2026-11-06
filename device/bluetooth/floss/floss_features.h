@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Floss feature flags header
+// summary: Declares ChromeOS feature flags and helper functions for checking whether Floss and LL privacy are enabled.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_FLOSS_FLOSS_FEATURES_H_
 #define DEVICE_BLUETOOTH_FLOSS_FLOSS_FEATURES_H_
 

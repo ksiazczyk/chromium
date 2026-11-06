@@ -1,6 +1,13 @@
 // Copyright 2017 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: FakeReadResponse class declaration
+// summary: Declares FakeReadResponse, which holds the GATT code and value needed to dispatch a fake read response.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_EMULATION_FAKE_READ_RESPONSE_H_
 #define DEVICE_BLUETOOTH_EMULATION_FAKE_READ_RESPONSE_H_
 

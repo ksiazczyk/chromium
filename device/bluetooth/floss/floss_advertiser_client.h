@@ -1,6 +1,13 @@
 // Copyright 2022 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: FlossAdvertiserClient header
+// summary: Declares advertising set parameter and advertise data structs plus the FlossAdvertiserClient D-Bus client and its observer interface.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_FLOSS_FLOSS_ADVERTISER_CLIENT_H_
 #define DEVICE_BLUETOOTH_FLOSS_FLOSS_ADVERTISER_CLIENT_H_
 

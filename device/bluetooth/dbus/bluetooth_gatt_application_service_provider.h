@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth GATT application service provider interface
+// summary: Declares the BluetoothGattApplicationServiceProvider interface used to register GATT service hierarchies with the Bluetooth daemon over D-Bus.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_DBUS_BLUETOOTH_GATT_APPLICATION_SERVICE_PROVIDER_H_
 #define DEVICE_BLUETOOTH_DBUS_BLUETOOTH_GATT_APPLICATION_SERVICE_PROVIDER_H_
 

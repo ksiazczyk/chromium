@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BlueZ D-Bus manager implementation
+// summary: Implements the global manager that owns D-Bus bus connections and creates the BlueZ and Floss Bluetooth D-Bus clients.
+// ---
+
 #include "device/bluetooth/dbus/bluez_dbus_manager.h"
 
 #include <memory>

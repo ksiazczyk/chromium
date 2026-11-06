@@ -1,6 +1,13 @@
 // Copyright 2022 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Fake Floss socket manager class declaration
+// summary: Declares FakeFlossSocketManager, a test fake for Bluetooth socket operations with test UUIDs and PSM.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_FLOSS_FAKE_FLOSS_SOCKET_MANAGER_H_
 #define DEVICE_BLUETOOTH_FLOSS_FAKE_FLOSS_SOCKET_MANAGER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Bluetooth debug manager client header
+// summary: Declares FakeBluetoothDebugManagerClient, which simulates the Bluetooth daemon's debug manager object for test cases and on the Linux desktop.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_DBUS_FAKE_BLUETOOTH_DEBUG_MANAGER_CLIENT_H_
 #define DEVICE_BLUETOOTH_DBUS_FAKE_BLUETOOTH_DEBUG_MANAGER_CLIENT_H_
 

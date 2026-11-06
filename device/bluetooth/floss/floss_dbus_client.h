@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FlossDBusClient declaration and D-Bus constants
+// summary: Declares the FlossDBusClient base class and constants for Floss D-Bus services, object paths, interfaces and method names.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_FLOSS_FLOSS_DBUS_CLIENT_H_
 #define DEVICE_BLUETOOTH_FLOSS_FLOSS_DBUS_CLIENT_H_
 

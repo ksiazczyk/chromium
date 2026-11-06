@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothGattServiceClient interface
+// summary: Declares the client for remote GATT service objects exposed by the Bluetooth daemon, with properties, observers, and service listing.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_DBUS_BLUETOOTH_GATT_SERVICE_CLIENT_H_
 #define DEVICE_BLUETOOTH_DBUS_BLUETOOTH_GATT_SERVICE_CLIENT_H_
 

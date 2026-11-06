@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Bluetooth agent service provider implementation
+// summary: Implements the fake Bluetooth agent service provider, forwarding pairing calls such as PIN code, passkey, confirmation and authorization requests to its delegate.
+// ---
+
 #include "device/bluetooth/dbus/fake_bluetooth_agent_service_provider.h"
 
 #include "base/logging.h"

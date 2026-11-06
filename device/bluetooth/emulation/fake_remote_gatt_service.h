@@ -1,6 +1,13 @@
 // Copyright 2017 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: FakeRemoteGattService class header
+// summary: Declares FakeRemoteGattService, a fake BluetoothRemoteGattService used by FakePeripheral to track service state and manage fake characteristics.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_EMULATION_FAKE_REMOTE_GATT_SERVICE_H_
 #define DEVICE_BLUETOOTH_EMULATION_FAKE_REMOTE_GATT_SERVICE_H_
 

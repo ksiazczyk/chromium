@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothGattCharacteristicServiceProviderImpl implementation
+// summary: Implements the production D-Bus service provider for local GATT characteristics, exporting Properties and GattCharacteristic1 methods such as ReadValue and WriteValue.
+// ---
+
 #include "device/bluetooth/dbus/bluetooth_gatt_characteristic_service_provider_impl.h"
 
 #include <cstddef>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth agent manager client class declaration
+// summary: Declares the client used to communicate with the Bluetooth daemon's agent manager for registering agents and requesting a default agent.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_DBUS_BLUETOOTH_AGENT_MANAGER_CLIENT_H_
 #define DEVICE_BLUETOOTH_DBUS_BLUETOOTH_AGENT_MANAGER_CLIENT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth metrics helper implementation
+// summary: Records UMA histograms for the result and latency of BlueZ D-Bus method calls.
+// ---
+
 #include "device/bluetooth/dbus/bluetooth_metrics_helper.h"
 #include "dbus/dbus_result.h"
 

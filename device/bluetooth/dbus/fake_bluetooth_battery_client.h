@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Bluetooth battery client header
+// summary: Declares FakeBluetoothBatteryClient, which simulates the Bluetooth daemon's battery objects for test cases and on the Linux desktop.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_DBUS_FAKE_BLUETOOTH_BATTERY_CLIENT_H_
 #define DEVICE_BLUETOOTH_DBUS_FAKE_BLUETOOTH_BATTERY_CLIENT_H_
 

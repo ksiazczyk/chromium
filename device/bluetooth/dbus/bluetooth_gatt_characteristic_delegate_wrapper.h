@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothGattCharacteristicDelegateWrapper header
+// summary: Declares a wrapper around BluetoothGattAttributeValueDelegate that routes value and notification requests for a single local GATT characteristic.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_DBUS_BLUETOOTH_GATT_CHARACTERISTIC_DELEGATE_WRAPPER_H_
 #define DEVICE_BLUETOOTH_DBUS_BLUETOOTH_GATT_CHARACTERISTIC_DELEGATE_WRAPPER_H_
 

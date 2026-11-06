@@ -1,6 +1,13 @@
 // Copyright 2017 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: FakePeripheral class declaration
+// summary: Declares FakePeripheral, a fake BluetoothDevice that models peripheral state, GATT services and simulated connection and discovery responses.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_EMULATION_FAKE_PERIPHERAL_H_
 #define DEVICE_BLUETOOTH_EMULATION_FAKE_PERIPHERAL_H_
 

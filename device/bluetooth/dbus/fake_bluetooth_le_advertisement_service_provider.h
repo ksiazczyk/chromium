@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Bluetooth LE advertisement service provider declaration
+// summary: Declares FakeBluetoothLEAdvertisementServiceProvider, a fake D-Bus advertisement object used in tests and on the Linux desktop that passes calls to an owner-supplied delegate.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_DBUS_FAKE_BLUETOOTH_LE_ADVERTISEMENT_SERVICE_PROVIDER_H_
 #define DEVICE_BLUETOOTH_DBUS_FAKE_BLUETOOTH_LE_ADVERTISEMENT_SERVICE_PROVIDER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Floss local GATT service implementation
+// summary: Implements BluetoothLocalGattService for the Floss backend, handling creation, registration, unregistration and deletion of local GATT services over D-Bus.
+// ---
+
 #include "device/bluetooth/floss/bluetooth_local_gatt_service_floss.h"
 
 #include "base/logging.h"

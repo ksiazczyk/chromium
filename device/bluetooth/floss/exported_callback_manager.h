@@ -1,6 +1,13 @@
 // Copyright 2022 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Exported D-Bus callback manager template
+// summary: Declares a template helper that exports D-Bus methods and forwards parsed parameters to registered callback objects, replying with errors on bad parameters.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_FLOSS_EXPORTED_CALLBACK_MANAGER_H_
 #define DEVICE_BLUETOOTH_FLOSS_EXPORTED_CALLBACK_MANAGER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth advertisement monitor manager client class declaration
+// summary: Declares the client used to communicate with the BlueZ advertisement monitor manager, including RegisterMonitor, UnregisterMonitor, properties and an observer interface.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_DBUS_BLUETOOTH_ADVERTISEMENT_MONITOR_MANAGER_CLIENT_H_
 #define DEVICE_BLUETOOTH_DBUS_BLUETOOTH_ADVERTISEMENT_MONITOR_MANAGER_CLIENT_H_
 

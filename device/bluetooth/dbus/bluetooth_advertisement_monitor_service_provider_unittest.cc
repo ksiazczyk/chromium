@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bluetooth advertisement monitor service provider unit tests
+// summary: Unit tests for the advertisement monitor service provider implementation, using mock D-Bus objects to verify activate, release, device found and device lost handling.
+// ---
+
 #include <cstdint>
 #include <memory>
 #include <utility>

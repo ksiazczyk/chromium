@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Bluetooth profile service provider declaration
+// summary: Declares FakeBluetoothProfileServiceProvider, a fake D-Bus profile object used in tests and on the Linux desktop that passes incoming method calls to its delegate.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_DBUS_FAKE_BLUETOOTH_PROFILE_SERVICE_PROVIDER_H_
 #define DEVICE_BLUETOOTH_DBUS_FAKE_BLUETOOTH_PROFILE_SERVICE_PROVIDER_H_
 

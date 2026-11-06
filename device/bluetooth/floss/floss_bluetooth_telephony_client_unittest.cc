@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FlossBluetoothTelephonyClient unit tests
+// summary: Unit tests for FlossBluetoothTelephonyClient verifying that SetPhoneOpsEnabled invokes the telephony D-Bus method using mock bus and object proxies.
+// ---
+
 #include "device/bluetooth/floss/floss_bluetooth_telephony_client.h"
 
 #include <utility>

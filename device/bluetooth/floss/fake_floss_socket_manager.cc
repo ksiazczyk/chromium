@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Floss socket manager implementation
+// summary: Implements a fake Floss socket manager that simulates RFCOMM and L2CAP sockets using an echo server.
+// ---
+
 #include "device/bluetooth/floss/fake_floss_socket_manager.h"
 
 #include <fcntl.h>

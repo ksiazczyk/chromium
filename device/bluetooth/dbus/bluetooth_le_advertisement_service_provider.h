@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth LE advertisement service provider interface
+// summary: Declares the D-Bus service provider for LE advertising data, including advertisement types, data maps, and a release delegate.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_DBUS_BLUETOOTH_LE_ADVERTISEMENT_SERVICE_PROVIDER_H_
 #define DEVICE_BLUETOOTH_DBUS_BLUETOOTH_LE_ADVERTISEMENT_SERVICE_PROVIDER_H_
 

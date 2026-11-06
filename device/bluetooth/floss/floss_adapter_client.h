@@ -1,6 +1,13 @@
 // Copyright 2021 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Floss adapter D-Bus client class declaration
+// summary: Declares FlossAdapterClient, the D-Bus client for a Bluetooth adapter with enums and observer notifications.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_FLOSS_FLOSS_ADAPTER_CLIENT_H_
 #define DEVICE_BLUETOOTH_FLOSS_FLOSS_ADAPTER_CLIENT_H_
 

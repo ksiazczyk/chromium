@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeBluetoothAdminPolicyClient implementation
+// summary: Implements a fake Bluetooth admin policy client that simulates daemon admin policy objects, managing properties and notifying observers for tests and the Linux desktop.
+// ---
+
 #include "device/bluetooth/dbus/fake_bluetooth_admin_policy_client.h"
 
 #include "base/logging.h"

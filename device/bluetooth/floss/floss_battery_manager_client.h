@@ -1,6 +1,13 @@
 // Copyright 2022 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: FlossBatteryManagerClient header
+// summary: Declares the Battery and BatterySet structs and the FlossBatteryManagerClient D-Bus client with its observer interface.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_FLOSS_FLOSS_BATTERY_MANAGER_CLIENT_H_
 #define DEVICE_BLUETOOTH_FLOSS_FLOSS_BATTERY_MANAGER_CLIENT_H_
 

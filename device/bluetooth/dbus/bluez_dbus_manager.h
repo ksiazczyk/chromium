@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BlueZ D-Bus manager interface
+// summary: Declares the manager that owns D-Bus connections and clients, with initialization, shutdown, and accessors for each Bluetooth client.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_DBUS_BLUEZ_DBUS_MANAGER_H_
 #define DEVICE_BLUETOOTH_DBUS_BLUEZ_DBUS_MANAGER_H_
 

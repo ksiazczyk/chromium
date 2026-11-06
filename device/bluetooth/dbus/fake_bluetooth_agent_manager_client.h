@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Bluetooth agent manager client header
+// summary: Declares FakeBluetoothAgentManagerClient, which simulates the Bluetooth daemon's agent manager object for test cases and on the Linux desktop.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_DBUS_FAKE_BLUETOOTH_AGENT_MANAGER_CLIENT_H_
 #define DEVICE_BLUETOOTH_DBUS_FAKE_BLUETOOTH_AGENT_MANAGER_CLIENT_H_
 

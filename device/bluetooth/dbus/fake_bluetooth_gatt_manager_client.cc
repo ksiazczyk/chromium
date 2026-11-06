@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Bluetooth GATT manager client implementation
+// summary: Implements the fake GATT manager client that simulates the Bluetooth daemon's GATT manager, tracking registered application, service, characteristic, and descriptor providers.
+// ---
+
 #include "device/bluetooth/dbus/fake_bluetooth_gatt_manager_client.h"
 
 #include <set>

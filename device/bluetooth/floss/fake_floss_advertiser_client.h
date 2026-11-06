@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Floss advertiser client class declaration
+// summary: Declares FakeFlossAdvertiserClient, a test fake tracking advertising calls, assigning advertiser IDs, and befriending BluetoothFlossTest for assertions.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_FLOSS_FAKE_FLOSS_ADVERTISER_CLIENT_H_
 #define DEVICE_BLUETOOTH_FLOSS_FAKE_FLOSS_ADVERTISER_CLIENT_H_
 

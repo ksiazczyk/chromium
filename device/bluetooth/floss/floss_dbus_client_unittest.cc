@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FlossDBusClient unit tests
+// summary: Unit tests verifying that GetDBusTypeInfo produces correct D-Bus signatures and type names for container types such as vectors and maps.
+// ---
+
 #include "device/bluetooth/floss/floss_dbus_client.h"
 
 #include "testing/gmock/include/gmock/gmock.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Floss logging client implementation
+// summary: Implements the adapter-specific D-Bus client for querying and toggling Floss debug logging.
+// ---
+
 #include "device/bluetooth/floss/floss_logging_client.h"
 
 namespace floss {

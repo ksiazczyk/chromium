@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Floss remote GATT descriptor implementation
+// summary: Implements BluetoothRemoteGattDescriptorFloss, handling reads and writes of remote GATT descriptors over the Floss D-Bus interface.
+// ---
+
 #include "device/bluetooth/floss/bluetooth_remote_gatt_descriptor_floss.h"
 
 #include <memory>

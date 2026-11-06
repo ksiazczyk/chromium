@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Bluetooth LE advertisement service provider implementation
+// summary: Implements the fake Bluetooth LE advertisement service provider that registers itself with the fake advertising manager client and forwards Release calls to its delegate.
+// ---
+
 #include "device/bluetooth/dbus/fake_bluetooth_le_advertisement_service_provider.h"
 
 #include "base/logging.h"

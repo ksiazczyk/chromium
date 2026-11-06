@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Floss version helpers implementation
+// summary: Implements conversion of packed Floss version integers and returns the supported Floss daemon API version range from 0.0 to 0.7.
+// ---
+
 #include "device/bluetooth/floss/floss_version.h"
 
 namespace floss::version {

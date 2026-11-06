@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Floss local GATT characteristic class declaration
+// summary: Declares the Floss local GATT characteristic class with server observer callbacks, instance ID resolution, and D-Bus conversion.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_FLOSS_BLUETOOTH_LOCAL_GATT_CHARACTERISTIC_FLOSS_H_
 #define DEVICE_BLUETOOTH_FLOSS_BLUETOOTH_LOCAL_GATT_CHARACTERISTIC_FLOSS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Bluetooth GATT manager client header
+// summary: Declares FakeBluetoothGattManagerClient, which simulates the Bluetooth daemon's GATT manager object for test cases and the Linux desktop.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_DBUS_FAKE_BLUETOOTH_GATT_MANAGER_CLIENT_H_
 #define DEVICE_BLUETOOTH_DBUS_FAKE_BLUETOOTH_GATT_MANAGER_CLIENT_H_
 

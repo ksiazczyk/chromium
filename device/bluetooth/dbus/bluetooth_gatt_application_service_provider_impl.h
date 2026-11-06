@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GATT application service provider implementation header
+// summary: Declares the production implementation of the GATT application service provider, including D-Bus message writers and managed object handling members.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_DBUS_BLUETOOTH_GATT_APPLICATION_SERVICE_PROVIDER_IMPL_H_
 #define DEVICE_BLUETOOTH_DBUS_BLUETOOTH_GATT_APPLICATION_SERVICE_PROVIDER_IMPL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Floss local GATT characteristic implementation
+// summary: Implements local GATT characteristics for Floss, covering creation, value notifications, and server read and write requests.
+// ---
+
 #include "device/bluetooth/floss/bluetooth_local_gatt_characteristic_floss.h"
 
 #include "base/logging.h"

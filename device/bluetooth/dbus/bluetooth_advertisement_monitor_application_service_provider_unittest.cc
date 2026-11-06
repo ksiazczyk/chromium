@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bluetooth advertisement monitor application service provider unit tests
+// summary: Unit tests for the Bluetooth advertisement monitor application service provider, checking D-Bus message encoding and low energy scan filter pattern handling.
+// ---
+
 #include <cstdint>
 #include <memory>
 #include <optional>

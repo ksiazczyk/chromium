@@ -1,6 +1,13 @@
 // Copyright 2023 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Fake Floss telephony client class declaration
+// summary: Declares FakeFlossBluetoothTelephonyClient, a test fake of the Floss telephony D-Bus client used in place of the real client.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_FLOSS_FAKE_FLOSS_BLUETOOTH_TELEPHONY_CLIENT_H_
 #define DEVICE_BLUETOOTH_FLOSS_FAKE_FLOSS_BLUETOOTH_TELEPHONY_CLIENT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeRemoteGattService implementation
+// summary: Implements FakeRemoteGattService, which creates and removes fake characteristics for a fake peripheral and checks that all pending characteristic responses are consumed.
+// ---
+
 #include "device/bluetooth/emulation/fake_remote_gatt_service.h"
 
 #include <algorithm>

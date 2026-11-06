@@ -1,6 +1,13 @@
 // Copyright 2017 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: FakeRemoteGattCharacteristic class header
+// summary: Declares FakeRemoteGattCharacteristic, a fake BluetoothRemoteGattCharacteristic used by FakeRemoteGattService to emulate GATT characteristic state, queued read/write/subscribe responses and fake descriptors.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_EMULATION_FAKE_REMOTE_GATT_CHARACTERISTIC_H_
 #define DEVICE_BLUETOOTH_EMULATION_FAKE_REMOTE_GATT_CHARACTERISTIC_H_
 

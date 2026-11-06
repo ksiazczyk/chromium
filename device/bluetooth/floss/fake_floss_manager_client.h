@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Floss manager client class declaration
+// summary: Declares FakeFlossManagerClient, a test fake used by unit tests and the emulator to manage adapter state.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_FLOSS_FAKE_FLOSS_MANAGER_CLIENT_H_
 #define DEVICE_BLUETOOTH_FLOSS_FAKE_FLOSS_MANAGER_CLIENT_H_
 

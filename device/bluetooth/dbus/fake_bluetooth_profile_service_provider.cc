@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Bluetooth profile service provider implementation
+// summary: Implements the fake Bluetooth profile service provider that registers with the fake profile manager client and forwards Released, NewConnection, RequestDisconnection and Cancel calls to its delegate.
+// ---
+
 #include "device/bluetooth/dbus/fake_bluetooth_profile_service_provider.h"
 
 #include <memory>

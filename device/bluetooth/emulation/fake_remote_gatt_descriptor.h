@@ -1,6 +1,13 @@
 // Copyright 2017 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: FakeRemoteGattDescriptor class header
+// summary: Declares FakeRemoteGattDescriptor, a fake BluetoothRemoteGattDescriptor that tracks descriptor state, the last written value and queued simulated read and write responses.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_EMULATION_FAKE_REMOTE_GATT_DESCRIPTOR_H_
 #define DEVICE_BLUETOOTH_EMULATION_FAKE_REMOTE_GATT_DESCRIPTOR_H_
 

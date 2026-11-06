@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Bluetooth debug manager client implementation
+// summary: Implements the fake debug manager client, simulating SetLogLevels calls with a hook to make the next call fail for testing purposes.
+// ---
+
 #include "device/bluetooth/dbus/fake_bluetooth_debug_manager_client.h"
 
 namespace bluez {

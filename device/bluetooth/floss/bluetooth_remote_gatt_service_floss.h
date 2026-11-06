@@ -1,6 +1,13 @@
 // Copyright 2022 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Floss remote GATT service class declaration
+// summary: Declares BluetoothRemoteGattServiceFloss, the Floss implementation of remote GATT services exposing UUID, primary flag and included services.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_FLOSS_BLUETOOTH_REMOTE_GATT_SERVICE_FLOSS_H_
 #define DEVICE_BLUETOOTH_FLOSS_BLUETOOTH_REMOTE_GATT_SERVICE_FLOSS_H_
 

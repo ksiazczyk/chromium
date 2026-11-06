@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Floss Bluetooth socket implementation
+// summary: Implements BluetoothSocketFloss, providing connect, listen and accept flows for RFCOMM and L2CAP sockets via the Floss socket manager over D-Bus.
+// ---
+
 #include "device/bluetooth/floss/bluetooth_socket_floss.h"
 
 #include "base/task/sequenced_task_runner.h"

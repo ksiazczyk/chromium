@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Floss version helpers
+// summary: Declares functions to convert packed Floss API versions and to query the minimal and maximal supported Floss daemon API versions.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_FLOSS_FLOSS_VERSION_H_
 #define DEVICE_BLUETOOTH_FLOSS_FLOSS_VERSION_H_
 

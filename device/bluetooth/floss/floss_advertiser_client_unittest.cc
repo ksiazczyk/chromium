@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FlossAdvertiserClient unit tests
+// summary: Unit tests for the Floss advertiser D-Bus client, exercising advertising set start, stop and update callbacks with mock D-Bus objects.
+// ---
+
 #include "device/bluetooth/floss/floss_advertiser_client.h"
 
 #include <utility>

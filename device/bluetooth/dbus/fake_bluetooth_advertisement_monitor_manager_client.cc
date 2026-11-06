@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeBluetoothAdvertisementMonitorManagerClient implementation
+// summary: Implements a fake advertisement monitor manager client that simulates the Bluetooth daemon's Advertisement Monitor Manager, handling monitor registration, properties and observer notifications for tests.
+// ---
+
 #include "device/bluetooth/dbus/fake_bluetooth_advertisement_monitor_manager_client.h"
 
 #include "base/functional/callback_helpers.h"

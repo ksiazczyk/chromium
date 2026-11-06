@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FlossDBusManager and client bundle declaration
+// summary: Declares FlossDBusManager and FlossClientBundle, which control creation, ordering and shutdown of all Floss D-Bus clients.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_FLOSS_FLOSS_DBUS_MANAGER_H_
 #define DEVICE_BLUETOOTH_FLOSS_FLOSS_DBUS_MANAGER_H_
 

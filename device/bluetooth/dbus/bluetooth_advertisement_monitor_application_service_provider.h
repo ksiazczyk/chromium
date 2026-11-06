@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Advertisement monitor application service provider interface
+// summary: Declares the D-Bus provider that registers advertisement monitor service hierarchies with the Bluetooth daemon and manages adding and removing monitors.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_DBUS_BLUETOOTH_ADVERTISEMENT_MONITOR_APPLICATION_SERVICE_PROVIDER_H_
 #define DEVICE_BLUETOOTH_DBUS_BLUETOOTH_ADVERTISEMENT_MONITOR_APPLICATION_SERVICE_PROVIDER_H_
 

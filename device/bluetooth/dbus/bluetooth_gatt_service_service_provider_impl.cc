@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth GATT service service provider implementation
+// summary: Production implementation that exports D-Bus property methods for a GATT service object to the Bluetooth daemon.
+// ---
+
 #include "device/bluetooth/dbus/bluetooth_gatt_service_service_provider_impl.h"
 
 #include "base/functional/bind.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeBluetoothAdapterClient class declaration
+// summary: Declares FakeBluetoothAdapterClient, which simulates Bluetooth daemon adapter objects for test cases and the Linux desktop, with controls for simulation intervals and failure injection.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_DBUS_FAKE_BLUETOOTH_ADAPTER_CLIENT_H_
 #define DEVICE_BLUETOOTH_DBUS_FAKE_BLUETOOTH_ADAPTER_CLIENT_H_
 

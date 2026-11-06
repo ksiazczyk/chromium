@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth D-Bus client bundle header
+// summary: Declares BluetoothDBusClientBundle, which groups all Bluetooth D-Bus clients used by DBusThreadManager so they can be deleted together before the system bus shuts down.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_DBUS_BLUETOOTH_DBUS_CLIENT_BUNDLE_H_
 #define DEVICE_BLUETOOTH_DBUS_BLUETOOTH_DBUS_CLIENT_BUNDLE_H_
 

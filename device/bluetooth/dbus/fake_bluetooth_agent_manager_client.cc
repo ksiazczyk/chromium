@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Bluetooth agent manager client implementation
+// summary: Implements the fake agent manager client that simulates the Bluetooth daemon's agent manager, handling agent registration, unregistration and default agent requests.
+// ---
+
 #include "device/bluetooth/dbus/fake_bluetooth_agent_manager_client.h"
 
 #include "base/logging.h"

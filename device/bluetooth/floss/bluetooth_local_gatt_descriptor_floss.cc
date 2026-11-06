@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Floss local GATT descriptor implementation
+// summary: Implements local GATT descriptors for Floss, handling server read and write requests with pending request tracking.
+// ---
+
 #include "device/bluetooth/floss/bluetooth_local_gatt_descriptor_floss.h"
 
 #include <utility>

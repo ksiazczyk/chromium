@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth LE advertisement service provider implementation
+// summary: Production implementation that exports a D-Bus LE advertisement object with properties and Release method to the Bluetooth daemon.
+// ---
+
 #include "device/bluetooth/dbus/bluetooth_le_advertisement_service_provider.h"
 
 #include <memory>

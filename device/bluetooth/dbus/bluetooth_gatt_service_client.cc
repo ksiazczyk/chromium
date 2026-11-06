@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothGattServiceClient implementation
+// summary: Production implementation of the GATT service client that tracks remote GATT service objects, their properties, and observer notifications.
+// ---
+
 #include "device/bluetooth/dbus/bluetooth_gatt_service_client.h"
 
 #include "base/functional/bind.h"

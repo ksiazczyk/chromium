@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothGattCharacteristicServiceProviderImpl header
+// summary: Declares the production implementation of the GATT characteristic service provider, handling property access and read, write, prepare-write, and notify requests from BlueZ.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_DBUS_BLUETOOTH_GATT_CHARACTERISTIC_SERVICE_PROVIDER_IMPL_H_
 #define DEVICE_BLUETOOTH_DBUS_BLUETOOTH_GATT_CHARACTERISTIC_SERVICE_PROVIDER_IMPL_H_
 

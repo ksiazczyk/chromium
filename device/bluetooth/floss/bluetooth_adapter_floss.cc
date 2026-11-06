@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Floss Bluetooth adapter implementation
+// summary: Implements the BluetoothAdapter interface for Floss, managing adapter power, discovery, advertising, sockets, and GATT services over D-Bus.
+// ---
+
 #include "device/bluetooth/floss/bluetooth_adapter_floss.h"
 
 #include "base/functional/callback_helpers.h"

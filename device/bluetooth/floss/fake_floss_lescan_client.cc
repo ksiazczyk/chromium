@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Floss LE scan client implementation
+// summary: Implements a fake Floss LE scan client that simulates scanner registration and scan start for tests.
+// ---
+
 #include "device/bluetooth/floss/fake_floss_lescan_client.h"
 
 #include "base/logging.h"

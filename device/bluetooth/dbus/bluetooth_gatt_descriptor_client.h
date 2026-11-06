@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothGattDescriptorClient header
+// summary: Declares the bluez D-Bus client for communicating with remote GATT characteristic descriptor objects, including properties, observers, and read/write methods.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_DBUS_BLUETOOTH_GATT_DESCRIPTOR_CLIENT_H_
 #define DEVICE_BLUETOOTH_DBUS_BLUETOOTH_GATT_DESCRIPTOR_CLIENT_H_
 

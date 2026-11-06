@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Bluetooth GATT characteristic client header
+// summary: Declares FakeBluetoothGattCharacteristicClient, which simulates Bluetooth daemon GATT characteristic objects and can expose or hide heart rate characteristics.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_DBUS_FAKE_BLUETOOTH_GATT_CHARACTERISTIC_CLIENT_H_
 #define DEVICE_BLUETOOTH_DBUS_FAKE_BLUETOOTH_GATT_CHARACTERISTIC_CLIENT_H_
 

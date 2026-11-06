@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Bluetooth GATT characteristic client implementation
+// summary: Implements a fake GATT characteristic client that simulates heart rate service characteristics, including notifications and delayed responses, for tests and the Linux desktop.
+// ---
+
 #include "device/bluetooth/dbus/fake_bluetooth_gatt_characteristic_client.h"
 
 #include <memory>

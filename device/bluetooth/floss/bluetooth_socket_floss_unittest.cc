@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Floss Bluetooth socket unit tests
+// summary: Unit tests for BluetoothSocketFloss that exercise connect, listen, accept, send and disconnect paths using fake Floss manager and adapter clients.
+// ---
+
 #include "device/bluetooth/floss/bluetooth_socket_floss.h"
 
 #include <memory>

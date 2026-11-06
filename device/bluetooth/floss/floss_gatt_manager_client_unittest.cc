@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Floss GATT manager client unit tests
+// summary: Unit tests for the Floss GATT manager client using mocked D-Bus bus, object proxies, and fake GATT responses.
+// ---
+
 #include "device/bluetooth/floss/floss_gatt_manager_client.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth device client header
+// summary: Declares BluetoothDeviceClient for communicating with remote Bluetooth device objects, defining device properties such as address, name, pairing state and service UUIDs.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_DBUS_BLUETOOTH_DEVICE_CLIENT_H_
 #define DEVICE_BLUETOOTH_DBUS_BLUETOOTH_DEVICE_CLIENT_H_
 

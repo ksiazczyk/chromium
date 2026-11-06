@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Advertisement monitor application service provider implementation
+// summary: Implements the exported D-Bus object that answers GetManagedObjects and signals interface additions and removals for advertisement monitors.
+// ---
+
 #include "device/bluetooth/dbus/bluetooth_advertisement_monitor_application_service_provider_impl.h"
 
 #include "base/functional/bind.h"

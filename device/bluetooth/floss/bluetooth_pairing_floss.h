@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Floss pairing class declaration
+// summary: Declares BluetoothPairingFloss, which represents an ongoing pairing with a remote device and tracks the pairing delegate and expected user response.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_FLOSS_BLUETOOTH_PAIRING_FLOSS_H_
 #define DEVICE_BLUETOOTH_FLOSS_BLUETOOTH_PAIRING_FLOSS_H_
 

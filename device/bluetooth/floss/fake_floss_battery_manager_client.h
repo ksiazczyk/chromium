@@ -1,6 +1,13 @@
 // Copyright 2022 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Fake Floss battery manager client class declaration
+// summary: Declares FakeFlossBatteryManagerClient, a test fake of the Floss battery manager client that serves battery information with a default 85 percent battery.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_FLOSS_FAKE_FLOSS_BATTERY_MANAGER_CLIENT_H_
 #define DEVICE_BLUETOOTH_FLOSS_FAKE_FLOSS_BATTERY_MANAGER_CLIENT_H_
 

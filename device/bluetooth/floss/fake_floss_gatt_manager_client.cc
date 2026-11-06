@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Floss GATT manager client implementation
+// summary: Implements FakeFlossGattManagerClient, a test fake simulating GATT server service registration and removal with random instance IDs and observer notifications.
+// ---
+
 #include "device/bluetooth/floss/fake_floss_gatt_manager_client.h"
 
 #include "base/rand_util.h"

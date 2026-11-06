@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeBluetoothAdvertisementMonitorApplicationServiceProvider implementation
+// summary: Implements a fake advertisement monitor application service provider that registers with the fake manager client and tracks added advertisement monitor providers for tests.
+// ---
+
 #include "device/bluetooth/dbus/fake_bluetooth_advertisement_monitor_application_service_provider.h"
 
 #include "device/bluetooth/dbus/bluez_dbus_manager.h"

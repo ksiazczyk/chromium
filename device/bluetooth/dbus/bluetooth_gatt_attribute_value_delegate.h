@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth GATT attribute value delegate interface
+// summary: Declares the delegate interface through which D-Bus attribute providers handle GATT read, write, notification and prepared write requests.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_DBUS_BLUETOOTH_GATT_ATTRIBUTE_VALUE_DELEGATE_H_
 #define DEVICE_BLUETOOTH_DBUS_BLUETOOTH_GATT_ATTRIBUTE_VALUE_DELEGATE_H_
 

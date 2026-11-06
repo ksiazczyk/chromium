@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth advertisement monitor service provider implementation header
+// summary: Declares the production BluetoothAdvertisementMonitorServiceProviderImpl class that exports advertisement monitor methods on a D-Bus connection.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_DBUS_BLUETOOTH_ADVERTISEMENT_MONITOR_SERVICE_PROVIDER_IMPL_H_
 #define DEVICE_BLUETOOTH_DBUS_BLUETOOTH_ADVERTISEMENT_MONITOR_SERVICE_PROVIDER_IMPL_H_
 

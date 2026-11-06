@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Bluetooth GATT service service provider header
+// summary: Declares FakeBluetoothGattServiceServiceProvider, a fake local GATT service provider used in test cases and on the Linux desktop.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_DBUS_FAKE_BLUETOOTH_GATT_SERVICE_SERVICE_PROVIDER_H_
 #define DEVICE_BLUETOOTH_DBUS_FAKE_BLUETOOTH_GATT_SERVICE_SERVICE_PROVIDER_H_
 

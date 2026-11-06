@@ -1,6 +1,13 @@
 // Copyright 2022 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Floss socket manager interface
+// summary: Declares FlossSocketManager, a D-Bus client for creating and connecting RFCOMM and L2CAP Bluetooth sockets with security flags and callbacks.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_FLOSS_FLOSS_SOCKET_MANAGER_H_
 #define DEVICE_BLUETOOTH_FLOSS_FLOSS_SOCKET_MANAGER_H_
 

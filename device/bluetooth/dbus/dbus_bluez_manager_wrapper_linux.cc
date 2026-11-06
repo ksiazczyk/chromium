@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux D-Bus BlueZ manager wrapper
+// summary: Initializes and shuts down BluezDBusManager on Linux using the shared system D-Bus thread.
+// ---
+
 #include "device/bluetooth/dbus/dbus_bluez_manager_wrapper_linux.h"
 
 #include "components/dbus/thread_linux/dbus_thread_linux.h"

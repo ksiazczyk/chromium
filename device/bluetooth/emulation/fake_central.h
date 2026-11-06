@@ -1,6 +1,13 @@
 // Copyright 2017 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: FakeCentral class declaration
+// summary: Declares FakeCentral, a fake BluetoothAdapter that simulates centrals, peripherals, GATT services and operation responses for testing.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_EMULATION_FAKE_CENTRAL_H_
 #define DEVICE_BLUETOOTH_EMULATION_FAKE_CENTRAL_H_
 

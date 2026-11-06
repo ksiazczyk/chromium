@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Bluetooth profile manager client declaration
+// summary: Declares FakeBluetoothProfileManagerClient, which simulates the Bluetooth daemon's profile manager for tests and the Linux desktop and maps profile UUIDs to service providers.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_DBUS_FAKE_BLUETOOTH_PROFILE_MANAGER_CLIENT_H_
 #define DEVICE_BLUETOOTH_DBUS_FAKE_BLUETOOTH_PROFILE_MANAGER_CLIENT_H_
 

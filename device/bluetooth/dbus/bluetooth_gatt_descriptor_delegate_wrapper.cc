@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothGattDescriptorDelegateWrapper implementation
+// summary: Implements the attribute value delegate wrapper that forwards GATT descriptor read and write requests to the local GATT service delegate.
+// ---
+
 #include "device/bluetooth/dbus/bluetooth_gatt_descriptor_delegate_wrapper.h"
 
 #include "device/bluetooth/bluez/bluetooth_local_gatt_descriptor_bluez.h"

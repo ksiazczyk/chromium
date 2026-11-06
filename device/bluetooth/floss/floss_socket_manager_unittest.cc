@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Floss socket manager unit tests
+// summary: Unit tests for FlossSocketManager covering callback registration, listening socket setup, and socket results over mocked D-Bus.
+// ---
+
 #include "device/bluetooth/floss/floss_socket_manager.h"
 
 #include <utility>

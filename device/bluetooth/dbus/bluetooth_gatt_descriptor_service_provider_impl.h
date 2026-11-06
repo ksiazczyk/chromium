@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothGattDescriptorServiceProviderImpl declaration
+// summary: Declares the production service provider implementation that exports descriptor properties and value read and write methods over D-Bus.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_DBUS_BLUETOOTH_GATT_DESCRIPTOR_SERVICE_PROVIDER_IMPL_H_
 #define DEVICE_BLUETOOTH_DBUS_BLUETOOTH_GATT_DESCRIPTOR_SERVICE_PROVIDER_IMPL_H_
 

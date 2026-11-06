@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Floss GATT characteristic class with property converters
+// summary: Declares the Floss GATT characteristic class that converts properties and permissions between Floss and Chromium representations.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_FLOSS_BLUETOOTH_GATT_CHARACTERISTIC_FLOSS_H_
 #define DEVICE_BLUETOOTH_FLOSS_BLUETOOTH_GATT_CHARACTERISTIC_FLOSS_H_
 

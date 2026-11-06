@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Floss Bluetooth test helpers
+// summary: Declares a gmock matcher that matches D-Bus method calls by their member name for use in Floss Bluetooth tests.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_FLOSS_TEST_HELPERS_H_
 #define DEVICE_BLUETOOTH_FLOSS_TEST_HELPERS_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of buildflags.gni.
+type: config
+title: Bluetooth emulation build flags
+summary: GN build flag file that enables Bluetooth device emulation on Windows, macOS, Linux and ChromeOS, keeping it off on size-constrained platforms.

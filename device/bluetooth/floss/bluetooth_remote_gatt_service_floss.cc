@@ -1,6 +1,13 @@
 // Copyright 2022 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Floss remote GATT service implementation
+// summary: Implements BluetoothRemoteGattServiceFloss, creating remote GATT services with characteristics and included services for a Floss device.
+// ---
+
 #include "device/bluetooth/floss/bluetooth_remote_gatt_service_floss.h"
 
 #include "base/memory/ptr_util.h"

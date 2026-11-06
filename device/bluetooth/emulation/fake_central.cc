@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeCentral implementation
+// summary: Implements the FakeCentral Mojo interface and BluetoothAdapter to simulate peripherals, advertisements and GATT operation responses.
+// ---
+
 #include "device/bluetooth/emulation/fake_central.h"
 
 #include <algorithm>

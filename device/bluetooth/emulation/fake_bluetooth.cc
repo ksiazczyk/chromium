@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeBluetooth implementation
+// summary: Implements the FakeBluetooth Mojo interface to toggle LE support and create fake centrals backed by the Bluetooth adapter factory for testing.
+// ---
+
 #include "device/bluetooth/emulation/fake_bluetooth.h"
 
 #include <utility>

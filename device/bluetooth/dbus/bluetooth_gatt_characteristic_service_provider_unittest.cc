@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BluetoothGattCharacteristicServiceProvider unit tests
+// summary: Unit tests verifying that the characteristic service provider returns successful and failed D-Bus responses for GATT read value requests.
+// ---
+
 #include <cstdint>
 #include <memory>
 #include <optional>

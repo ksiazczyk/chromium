@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothGattManagerClient implementation
+// summary: Production implementation of the GATT manager client that registers and unregisters local GATT applications with the Bluetooth daemon.
+// ---
+
 #include "device/bluetooth/dbus/bluetooth_gatt_manager_client.h"
 
 #include "base/check.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Bluetooth battery client implementation
+// summary: Implements the fake battery client that simulates Bluetooth battery objects, supporting battery creation, percentage changes, removal and observer notifications.
+// ---
+
 #include "device/bluetooth/dbus/fake_bluetooth_battery_client.h"
 
 #include <algorithm>

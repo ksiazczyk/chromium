@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Floss logging client implementation
+// summary: Implements a fake Floss logging client that tracks and reports the Bluetooth debug logging state.
+// ---
+
 #include "device/bluetooth/floss/fake_floss_logging_client.h"
 
 #include "base/logging.h"

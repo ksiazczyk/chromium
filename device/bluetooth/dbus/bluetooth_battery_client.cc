@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth battery client implementation
+// summary: Implements the D-Bus client for BlueZ's org.bluez.Battery1 interface, tracking battery objects and notifying observers of battery additions, removals and property changes.
+// ---
+
 #include "device/bluetooth/dbus/bluetooth_battery_client.h"
 
 #include "base/functional/bind.h"

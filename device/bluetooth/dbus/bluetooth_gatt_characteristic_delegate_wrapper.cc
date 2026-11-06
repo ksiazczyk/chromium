@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothGattCharacteristicDelegateWrapper implementation
+// summary: Implements the attribute value delegate wrapper that forwards characteristic read, write, prepare-write, and notification requests to the local GATT service delegate.
+// ---
+
 #include "device/bluetooth/dbus/bluetooth_gatt_characteristic_delegate_wrapper.h"
 
 #include "base/logging.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeBluetoothAdapterClient implementation
+// summary: Implements a fake Bluetooth adapter client that simulates BlueZ daemon adapter objects with two simulated adapters, discovery simulation and property handling for tests and the Linux desktop.
+// ---
+
 #include "device/bluetooth/dbus/fake_bluetooth_adapter_client.h"
 
 #include <map>

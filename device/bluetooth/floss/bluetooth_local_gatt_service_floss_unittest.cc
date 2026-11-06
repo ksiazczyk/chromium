@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Floss local GATT service unit tests
+// summary: Unit tests for BluetoothLocalGattServiceFloss verifying that client and Floss instance IDs are resolved for services, characteristics and descriptors.
+// ---
+
 #include "device/bluetooth/floss/bluetooth_local_gatt_service_floss.h"
 
 #include "base/strings/stringprintf.h"

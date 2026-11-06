@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Floss GATT manager client implementation
+// summary: Implements the Floss GATT manager D-Bus client, including template specializations for reading and writing GATT-related D-Bus parameters.
+// ---
+
 #include "device/bluetooth/floss/floss_gatt_manager_client.h"
 
 #include "base/logging.h"

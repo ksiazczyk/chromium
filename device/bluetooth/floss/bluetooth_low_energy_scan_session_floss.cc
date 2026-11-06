@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Floss low energy scan session implementation
+// summary: Implements BluetoothLowEnergyScanSession for Floss, converting scan filters and reporting session activation plus device found or lost events to the delegate.
+// ---
+
 #include "device/bluetooth/floss/bluetooth_low_energy_scan_session_floss.h"
 
 #include "base/memory/weak_ptr.h"

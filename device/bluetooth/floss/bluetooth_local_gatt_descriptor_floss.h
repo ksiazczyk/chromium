@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Floss local GATT descriptor class declaration
+// summary: Declares the Floss local GATT descriptor class with server request callbacks and conversion to the D-Bus descriptor struct.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_FLOSS_BLUETOOTH_LOCAL_GATT_DESCRIPTOR_FLOSS_H_
 #define DEVICE_BLUETOOTH_FLOSS_BLUETOOTH_LOCAL_GATT_DESCRIPTOR_FLOSS_H_
 

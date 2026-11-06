@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Floss admin client class declaration
+// summary: Declares FakeFlossAdminClient, a test fake overriding FlossAdminClient::Init to report readiness without D-Bus interaction.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_FLOSS_FAKE_FLOSS_ADMIN_CLIENT_H_
 #define DEVICE_BLUETOOTH_FLOSS_FAKE_FLOSS_ADMIN_CLIENT_H_
 

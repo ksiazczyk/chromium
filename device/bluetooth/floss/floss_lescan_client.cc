@@ -1,6 +1,13 @@
 // Copyright 2022 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Floss LE scan client implementation
+// summary: Implements the Floss LE scanning D-Bus client, exporting scanner callbacks and dispatching scan results to observers.
+// ---
+
 #include "device/bluetooth/floss/floss_lescan_client.h"
 
 #include <algorithm>
