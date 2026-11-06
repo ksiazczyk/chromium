@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CfM-enabled Ash ServiceConnection implementation
+// summary: Implements ServiceConnection for ash builds with the is_cfm flag, wrapping CfmServiceContext to forward mojo requests to the underlying CfM daemon.
+// ---
+
 #include <memory>
 
 #include "base/component_export.h"

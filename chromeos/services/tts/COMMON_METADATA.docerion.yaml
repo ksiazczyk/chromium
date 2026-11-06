@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: TTS service bug and team metadata
+summary: Specifies the monorail component, team email, and Buganizer component IDs for the text-to-speech directory.

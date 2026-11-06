@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TtsPlayer class declaration
+// summary: Declares TtsPlayer, a render callback that plays queued TTS audio buffers and reports playback events and timepoints.
+// ---
+
 #ifndef CHROMEOS_SERVICES_TTS_TTS_PLAYER_H_
 #define CHROMEOS_SERVICES_TTS_TTS_PLAYER_H_
 

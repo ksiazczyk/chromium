@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Recorder strings OWNERS
+summary: Delegates ownership of the recorder strings directory to the owners of the ash/webui/recorder_app_ui directory.

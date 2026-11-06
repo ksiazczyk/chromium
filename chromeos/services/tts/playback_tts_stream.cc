@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PlaybackTtsStream implementation
+// summary: Implements PlaybackTtsStream, forwarding play, stop, volume, pause and resume commands plus audio buffers to the TtsPlayer.
+// ---
+
 #include "chromeos/services/tts/playback_tts_stream.h"
 
 #include "chromeos/services/tts/constants.h"

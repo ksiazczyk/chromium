@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TtsService class declaration
+// summary: Declares TtsService, the Mojo service that owns the Google and playback TTS streams for the ChromeOS TTS process.
+// ---
+
 #ifndef CHROMEOS_SERVICES_TTS_TTS_SERVICE_H_
 #define CHROMEOS_SERVICES_TTS_TTS_SERVICE_H_
 

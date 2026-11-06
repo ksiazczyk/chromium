@@ -1,3 +1,9 @@
+---
+type: readme
+title: Network Health
+summary: Describes the mojo services for network health and diagnostics defined here, with the implementation in chromeos/ash/services/network_health.
+---
+
 # Network Health
 
 This directory defines several mojo services related to network health and

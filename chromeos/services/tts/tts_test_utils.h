@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TTS test utilities header
+// summary: Declares mock audio stream factory and TTS event observer classes plus a TtsTestBase fixture used by ChromeOS TTS unit tests.
+// ---
+
 #ifndef CHROMEOS_SERVICES_TTS_TTS_TEST_UTILS_H_
 #define CHROMEOS_SERVICES_TTS_TTS_TEST_UTILS_H_
 

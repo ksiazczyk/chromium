@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: ChromeOS services build configuration
+summary: GN build file for the chromeos services directory that aggregates unit test source sets from services such as Chromebox for Meetings, machine learning, network config, and TTS.

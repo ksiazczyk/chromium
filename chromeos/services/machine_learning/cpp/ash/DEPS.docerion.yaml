@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for ash machine learning services
+summary: Defines include rules that forbid code in the ash machine learning services directory from depending on lacros-chrome code.

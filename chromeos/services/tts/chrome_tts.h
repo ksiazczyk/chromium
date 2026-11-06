@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Native TTS library C interface
+// summary: Declares the C functions exposed by the libchrometts shared library, such as init, shutdown, voice install, and buffered reading.
+// ---
+
 #ifndef CHROMEOS_SERVICES_TTS_CHROME_TTS_H_
 #define CHROMEOS_SERVICES_TTS_CHROME_TTS_H_
 

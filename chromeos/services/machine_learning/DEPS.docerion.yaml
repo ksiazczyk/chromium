@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Machine learning service DEPS include rules
+summary: Defines the allowed include directories for the ChromeOS machine learning service, such as chromeos/dbus and mojo.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Handwriting model loader implementation
+// summary: Implements loading of the on-device handwriting recognition model from rootfs or the libhandwriting DLC, including DLC install handling and load result metrics.
+// ---
+
 #include "chromeos/services/machine_learning/cpp/ash/handwriting_model_loader.h"
 
 #include <string>

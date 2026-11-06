@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Handwriting model loader header
+// summary: Declares LoadHandwritingModelFromRootfsOrDlc, the helper that handwriting clients call to load the model from rootfs or an already present DLC.
+// ---
+
 #ifndef CHROMEOS_SERVICES_MACHINE_LEARNING_CPP_ASH_HANDWRITING_MODEL_LOADER_H_
 #define CHROMEOS_SERVICES_MACHINE_LEARNING_CPP_ASH_HANDWRITING_MODEL_LOADER_H_
 

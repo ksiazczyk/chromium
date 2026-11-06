@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash machine learning service connection implementation
+// summary: Implements the ash-chrome ServiceConnection that binds the MachineLearningService Mojo interface to the ML Service daemon via D-Bus bootstrap.
+// ---
+
 #include <utility>
 
 #include "base/component_export.h"

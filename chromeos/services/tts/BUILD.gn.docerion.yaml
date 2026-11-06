@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for the ChromeOS TTS service
+summary: Defines GN build targets for the TTS service, sandbox hook, libchrometts library loader, and unit tests.

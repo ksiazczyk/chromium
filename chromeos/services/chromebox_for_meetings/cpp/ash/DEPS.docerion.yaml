@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for ash Chromebox for Meetings
+summary: Restricts includes in the ash CfM directory, forbidding code in the ash-chrome binary from using lacros-chrome code.

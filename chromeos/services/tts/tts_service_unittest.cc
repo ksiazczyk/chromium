@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TtsService unit tests
+// summary: Unit tests for the TtsService interface that handles text-to-speech requests from clients on ChromeOS, covering playback stream disconnects and audio buffering behavior.
+// ---
+
 #include "chromeos/services/tts/tts_service.h"
 
 #include "chromeos/services/tts/public/mojom/tts_service.mojom.h"

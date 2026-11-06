@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TtsService implementation
+// summary: Implements TtsService, binding Google and playback TTS streams and exiting the process when no streams remain bound.
+// ---
+
 #include "chromeos/services/tts/tts_service.h"
 
 #include <dlfcn.h>

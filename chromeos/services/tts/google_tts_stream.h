@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GoogleTtsStream class declaration
+// summary: Declares GoogleTtsStream, a Mojo stream that installs and selects Google TTS voices and speaks via the prebuilt libchrometts library.
+// ---
+
 #ifndef CHROMEOS_SERVICES_TTS_GOOGLE_TTS_STREAM_H_
 #define CHROMEOS_SERVICES_TTS_GOOGLE_TTS_STREAM_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TtsPlayer implementation
+// summary: Implements TtsPlayer, which queues TTS audio buffers, renders them through an audio output device and fires start, end and timepoint events.
+// ---
+
 #include "chromeos/services/tts/tts_player.h"
 
 #include "base/task/single_thread_task_runner.h"
