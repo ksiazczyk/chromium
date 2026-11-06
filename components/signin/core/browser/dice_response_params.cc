@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dice response params implementation
+// summary: Implements DiceResponseParams accessors and validity checks for signin, signout and enable sync actions.
+// ---
+
 #include "components/signin/core/browser/dice_response_params.h"
 
 #include <algorithm>

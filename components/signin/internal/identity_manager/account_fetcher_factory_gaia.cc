@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gaia Account Fetcher Factory Implementation
+// summary: Gaia implementation of the account fetcher factory that preconnects to the account capabilities server to speed up future fetches.
+// ---
+
 #include "components/signin/internal/identity_manager/account_fetcher_factory_gaia.h"
 
 #include <memory>

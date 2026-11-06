@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Site engagement helper implementation
+// summary: Implements per-WebContents tracking of user input, media playback, and navigation to record site engagement with configurable delays between detections.
+// ---
+
 #include "components/site_engagement/content/site_engagement_helper.h"
 
 #include <utility>

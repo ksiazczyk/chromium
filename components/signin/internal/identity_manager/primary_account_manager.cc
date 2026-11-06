@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrimaryAccountManager implementation
+// summary: Implements management of the primary signed-in account, including setting and clearing it, consent handling, preference restoration and sign-in metrics.
+// ---
+
 #include "components/signin/internal/identity_manager/primary_account_manager.h"
 
 #include <memory>

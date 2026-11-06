@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for AccountInvestigator
+// summary: Tests account hashing, relation detection and periodic cookie jar reporting using histogram testers.
+// ---
+
 #include "components/signin/core/browser/account_investigator.h"
 
 #include <map>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Active primary accounts metrics recorder implementation
+// summary: Implements tracking of accounts active in the last 7 and 28 days, storing last-active times in local state prefs and emitting daily histogram metrics.
+// ---
+
 #include "components/signin/core/browser/active_primary_accounts_metrics_recorder.h"
 
 #include <optional>

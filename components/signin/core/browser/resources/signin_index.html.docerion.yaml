@@ -1,0 +1,4 @@
+# Docerion header of signin_index.html.
+type: source
+title: HTML page for the signin internals WebUI
+summary: Main HTML page of the signin internals WebUI with a JSON download button, an identifier toggle and tabs for overview and account capabilities.

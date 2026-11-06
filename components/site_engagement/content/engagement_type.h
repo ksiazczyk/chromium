@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EngagementType enum for site engagement
+// summary: Defines the EngagementType enum backing a UMA histogram, covering navigation, keypress, mouse, touch, media, shortcut launch, and notification engagement events.
+// ---
+
 #ifndef COMPONENTS_SITE_ENGAGEMENT_CONTENT_ENGAGEMENT_TYPE_H_
 #define COMPONENTS_SITE_ENGAGEMENT_CONTENT_ENGAGEMENT_TYPE_H_
 

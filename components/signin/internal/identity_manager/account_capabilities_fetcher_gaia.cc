@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gaia Account Capabilities Fetcher Implementation
+// summary: Implements fetching account capabilities from Gaia using an OAuth2 access token, with tracing and UMA metrics for fetch results and durations.
+// ---
+
 #include "components/signin/internal/identity_manager/account_capabilities_fetcher_gaia.h"
 
 #include <optional>

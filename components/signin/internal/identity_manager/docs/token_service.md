@@ -1,3 +1,13 @@
+---
+type: reference
+title: ProfileOAuth2TokenService Architecture
+summary: Architecture documentation for ProfileOAuth2TokenService describing its layered design with the access token manager, platform-specific delegates, observer interface, and testing infrastructure.
+relations:
+  - documents /components/signin/internal/identity_manager/fake_profile_oauth2_token_service.h
+  - documents /components/signin/internal/identity_manager/fake_profile_oauth2_token_service_delegate.h
+  - documents /components/signin/internal/identity_manager/mutable_profile_oauth2_token_service_delegate.h
+---
+
 # ProfileOAuth2TokenService Architecture
 
 Freshness: 2026-09-02

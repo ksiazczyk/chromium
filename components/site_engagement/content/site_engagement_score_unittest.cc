@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SiteEngagementScore unit tests
+// summary: Unit tests verifying score accumulation, daily limits, decay, and dictionary persistence behavior of the site engagement score.
+// ---
+
 #include "components/site_engagement/content/site_engagement_score.h"
 
 #include <optional>

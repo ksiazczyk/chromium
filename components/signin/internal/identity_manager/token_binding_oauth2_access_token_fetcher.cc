@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Token binding OAuth2 access token fetcher implementation
+// summary: Implements an OAuth2 access token fetcher that delays the actual fetch until a binding key assertion is set, delegating to a mint access token fetcher adapter.
+// ---
+
 #include "components/signin/internal/identity_manager/token_binding_oauth2_access_token_fetcher.h"
 
 #include <optional>

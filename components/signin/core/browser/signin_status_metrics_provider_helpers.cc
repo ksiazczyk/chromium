@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signin status metrics provider helpers
+// summary: Helper functions that aggregate per-profile sign-in and sync states and emit UMA histograms for profile sign-in and sync status.
+// ---
+
 #include "components/signin/core/browser/signin_status_metrics_provider_helpers.h"
 
 #include "base/metrics/histogram_functions.h"

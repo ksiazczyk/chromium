@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Signin internals WebUI build definition
+summary: GN build rules that build the signin internals WebUI from its CSS, HTML and TypeScript sources as a trusted WebUI target.

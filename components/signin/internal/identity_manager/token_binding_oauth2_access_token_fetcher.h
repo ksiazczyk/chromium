@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Token binding OAuth2 access token fetcher header
+// summary: Declares TokenBindingOAuth2AccessTokenFetcher, which waits for a binding key assertion before starting the delegated access token fetch.
+// ---
+
 #ifndef COMPONENTS_SIGNIN_INTERNAL_IDENTITY_MANAGER_TOKEN_BINDING_OAUTH2_ACCESS_TOKEN_FETCHER_H_
 #define COMPONENTS_SIGNIN_INTERNAL_IDENTITY_MANAGER_TOKEN_BINDING_OAUTH2_ACCESS_TOKEN_FETCHER_H_
 

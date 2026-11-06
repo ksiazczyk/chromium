@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Account metrics ID allocator unit tests
+// summary: Unit tests covering sequential and idempotent ID allocation, the 99-ID cap, overflow histogram logging, and metrics behavior.
+// ---
+
 #include "components/signin/core/browser/account_metrics_id_allocator.h"
 
 #include <memory>

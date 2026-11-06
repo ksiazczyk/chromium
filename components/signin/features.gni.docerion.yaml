@@ -1,0 +1,4 @@
+# Docerion header of features.gni.
+type: config
+title: Signin feature build flags
+summary: Declares GN build arguments and per-platform flags for signin features such as Bound Session Credentials and Dice.

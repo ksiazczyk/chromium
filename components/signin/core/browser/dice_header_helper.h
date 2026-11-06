@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dice header helper class declaration
+// summary: Declares DiceHeaderHelper, a SigninHeaderHelper that manages Dice request and response headers for account consistency with Gaia.
+// ---
+
 #ifndef COMPONENTS_SIGNIN_CORE_BROWSER_DICE_HEADER_HELPER_H_
 #define COMPONENTS_SIGNIN_CORE_BROWSER_DICE_HEADER_HELPER_H_
 

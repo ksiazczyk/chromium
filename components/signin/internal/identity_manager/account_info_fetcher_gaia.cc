@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccountInfoFetcherGaia implementation
+// summary: Implements the GAIA-based account info fetcher that obtains an OAuth token and queries GAIA user info, reporting results via callback.
+// ---
+
 #include "components/signin/internal/identity_manager/account_info_fetcher_gaia.h"
 
 #include <memory>

@@ -5,6 +5,12 @@
 // This file contains native implementation of AccountInfoSerializer.java
 // methods.
 
+// ---docerion
+// type: source
+// title: AccountInfoSerializer JNI implementation
+// summary: Native JNI implementation of AccountInfoSerializer.java that converts AccountInfo between Java objects and JSON strings.
+// ---
+
 #include "base/android/jni_string.h"
 #include "base/json/json_reader.h"
 #include "base/json/json_writer.h"

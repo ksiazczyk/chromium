@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OAuth Multilogin Helper Unit Tests
+// summary: Unit tests for the multilogin helper covering token fetching, cookie setting, retries and device bound session creation across multilogin modes.
+// ---
+
 #include "components/signin/internal/identity_manager/oauth_multilogin_helper.h"
 
 #include <memory>

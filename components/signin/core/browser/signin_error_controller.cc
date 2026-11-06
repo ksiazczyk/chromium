@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signin error controller implementation
+// summary: Implements SigninErrorController, which tracks persistent auth errors for primary and secondary accounts and notifies observers.
+// ---
+
 #include "components/signin/core/browser/signin_error_controller.h"
 
 #include "base/observer_list.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Account preview metrics recorder unit tests
+// summary: Unit tests verifying the histograms recorded by AccountPreviewMetricsRecorder for account preview and switching heuristic results.
+// ---
+
 #include "components/signin/core/browser/account_preview_metrics_recorder.h"
 
 #include <optional>

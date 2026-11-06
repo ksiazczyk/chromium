@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome connected header helper header
+// summary: Declares the SigninHeaderHelper subclass managing the X-Chrome-Connected header and CHROME_CONNECTED cookie used to convey signed-in state to GAIA.
+// ---
+
 #ifndef COMPONENTS_SIGNIN_CORE_BROWSER_CHROME_CONNECTED_HEADER_HELPER_H_
 #define COMPONENTS_SIGNIN_CORE_BROWSER_CHROME_CONNECTED_HEADER_HELPER_H_
 

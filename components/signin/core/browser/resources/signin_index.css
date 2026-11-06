@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: source
+title: Styles for the signin internals page
+summary: CSS that styles the signin internals WebUI, including detail tables, status colors, tab panels and column layouts.
+*/
+
 h2 {
   color: rgb(74, 142, 230);
   font-size: 100%;

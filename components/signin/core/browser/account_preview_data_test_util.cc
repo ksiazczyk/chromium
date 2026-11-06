@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Account preview data test utilities
+// summary: Provides helpers that mock successful, failed, and rate-limited responses from the stats and previews endpoints for account preview tests.
+// ---
+
 #include "components/signin/core/browser/account_preview_data_test_util.h"
 
 #include "base/strings/string_number_conversions.h"

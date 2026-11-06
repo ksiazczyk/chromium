@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS OAuth2 Token Service Delegate Implementation
+// summary: Implements the profile OAuth2 token service delegate for ChromeOS, bridging Account Manager accounts, persistent auth errors and network changes into the token service.
+// ---
+
 #include "components/signin/internal/identity_manager/profile_oauth2_token_service_delegate_chromeos.h"
 
 #include <algorithm>

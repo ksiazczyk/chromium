@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android OAuth2 Token Service Delegate Unit Tests
+// summary: Unit tests for the Android profile OAuth2 token service delegate, covering account seeding, refresh token availability and observer notifications.
+// ---
+
 #include "components/signin/internal/identity_manager/profile_oauth2_token_service_delegate_android.h"
 
 #include <memory>

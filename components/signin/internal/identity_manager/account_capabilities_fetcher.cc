@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Account Capabilities Fetcher Implementation
+// summary: Implements the base AccountCapabilitiesFetcher lifecycle, guarding single start and dispatching partial and complete fetch callbacks.
+// ---
+
 #include "components/signin/internal/identity_manager/account_capabilities_fetcher.h"
 
 AccountCapabilitiesFetcher::AccountCapabilitiesFetcher(

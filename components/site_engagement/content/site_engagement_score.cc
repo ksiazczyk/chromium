@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SiteEngagementScore implementation
+// summary: Implements the per-origin site engagement score, covering point accrual, decay, and field trial-configurable parameters persisted in content settings.
+// ---
+
 #include "components/site_engagement/content/site_engagement_score.h"
 
 #include <algorithm>

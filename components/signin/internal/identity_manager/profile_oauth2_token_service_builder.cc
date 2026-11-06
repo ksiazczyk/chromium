@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile OAuth2 token service builder implementation
+// summary: Builds a ProfileOAuth2TokenService with the delegate appropriate for Android, iOS, ChromeOS, or Dice-support desktop platforms.
+// ---
+
 #include "components/signin/internal/identity_manager/profile_oauth2_token_service_builder.h"
 
 #include <string>

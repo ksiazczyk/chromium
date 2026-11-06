@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signin cookie settings utilities implementation
+// summary: Implements checks for whether signin cookies are allowed by content settings and whether they should be deleted on browser exit.
+// ---
+
 #include "components/signin/core/browser/cookie_settings_util.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Profile OAuth2 Token Service Unit Tests
+// summary: Unit tests for ProfileOAuth2TokenService covering token requests, retries, multilogin token handling and observer notifications with a fake delegate.
+// ---
+
 #include "components/signin/internal/identity_manager/profile_oauth2_token_service.h"
 
 #include <optional>

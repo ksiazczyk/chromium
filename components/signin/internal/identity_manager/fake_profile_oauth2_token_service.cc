@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake ProfileOAuth2TokenService implementation
+// summary: Implements FakeProfileOAuth2TokenService, a test token service that forwards token issuing, error reporting, and pending request inspection to a fake OAuth2 access token manager.
+// ---
+
 #include "components/signin/internal/identity_manager/fake_profile_oauth2_token_service.h"
 
 #include <memory>

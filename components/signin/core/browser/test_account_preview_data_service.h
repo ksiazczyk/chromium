@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test account preview data service
+// summary: Declares a test double for AccountPreviewDataService with setters for preferences and controls to defer pending callbacks.
+// ---
+
 #ifndef COMPONENTS_SIGNIN_CORE_BROWSER_TEST_ACCOUNT_PREVIEW_DATA_SERVICE_H_
 #define COMPONENTS_SIGNIN_CORE_BROWSER_TEST_ACCOUNT_PREVIEW_DATA_SERVICE_H_
 

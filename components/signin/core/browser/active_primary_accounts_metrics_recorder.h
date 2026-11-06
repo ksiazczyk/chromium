@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Active primary accounts metrics recorder header
+// summary: Declares the recorder class that tracks active primary accounts by Gaia ID and emits daily counts of active and managed accounts to histograms.
+// ---
+
 #ifndef COMPONENTS_SIGNIN_CORE_BROWSER_ACTIVE_PRIMARY_ACCOUNTS_METRICS_RECORDER_H_
 #define COMPONENTS_SIGNIN_CORE_BROWSER_ACTIVE_PRIMARY_ACCOUNTS_METRICS_RECORDER_H_
 

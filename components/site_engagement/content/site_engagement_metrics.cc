@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Site engagement UMA metrics recording
+// summary: Records UMA histograms for total origins engaged, mean and median engagement, per-origin engagement scores, and engagement types.
+// ---
+
 #include "components/site_engagement/content/site_engagement_metrics.h"
 
 #include "base/metrics/histogram_macros.h"

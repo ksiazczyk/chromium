@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Site engagement content build configuration
+summary: Defines the GN source sets and dependencies for the site engagement content component, including Android-specific sources and unit test targets.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SiteEngagementScoreProvider interface
+// summary: Abstract C++ interface that exposes the engagement score for a URL and the total engagement points awarded across all sites.
+// ---
+
 #ifndef COMPONENTS_SITE_ENGAGEMENT_CORE_SITE_ENGAGEMENT_SCORE_PROVIDER_H_
 #define COMPONENTS_SITE_ENGAGEMENT_CORE_SITE_ENGAGEMENT_SCORE_PROVIDER_H_
 

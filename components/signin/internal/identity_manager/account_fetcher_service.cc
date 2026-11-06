@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Account Fetcher Service Implementation
+// summary: Implements the account fetcher service that refreshes account information, avatars and capabilities via the token service and account tracker.
+// ---
+
 #include "components/signin/internal/identity_manager/account_fetcher_service.h"
 
 #include <string>

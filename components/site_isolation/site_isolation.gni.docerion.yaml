@@ -1,0 +1,4 @@
+# Docerion header of site_isolation.gni.
+type: config
+title: Site isolation GN build arguments
+summary: Declares the use_internal_isolated_origins build argument that controls use of a Google-internal list of isolated origins in Android and Fuchsia builds.

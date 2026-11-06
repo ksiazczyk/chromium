@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeOS OAuth2 Token Service Delegate Unit Tests
+// summary: Unit tests for the ChromeOS token service delegate, exercising account upserts and removals, auth error propagation and access token fetching.
+// ---
+
 #include "components/signin/internal/identity_manager/profile_oauth2_token_service_delegate_chromeos.h"
 
 #include <algorithm>

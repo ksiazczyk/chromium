@@ -1,0 +1,4 @@
+# Docerion header of site_engagement_details.mojom.
+type: source
+title: Site engagement details Mojom definitions
+summary: Defines the SiteEngagementDetails struct and a provider interface for querying site engagement details and setting base scores over Mojo.

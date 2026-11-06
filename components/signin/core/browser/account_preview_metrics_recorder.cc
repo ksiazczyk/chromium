@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Account preview metrics recorder
+// summary: Records UMA metrics for account preview data, scaled per sync data type and keyed by an allocated account metrics index.
+// ---
+
 #include "components/signin/core/browser/account_preview_metrics_recorder.h"
 
 #include <array>

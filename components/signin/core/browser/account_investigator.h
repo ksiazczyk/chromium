@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccountInvestigator header (account_investigator.h)
+// summary: Declares AccountInvestigator, which tracks Chrome versus content area account relations and emits metrics.
+// ---
+
 #ifndef COMPONENTS_SIGNIN_CORE_BROWSER_ACCOUNT_INVESTIGATOR_H_
 #define COMPONENTS_SIGNIN_CORE_BROWSER_ACCOUNT_INVESTIGATOR_H_
 

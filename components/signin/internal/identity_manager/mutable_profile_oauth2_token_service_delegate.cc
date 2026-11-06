@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mutable Profile OAuth2 Token Service Delegate Implementation
+// summary: Implements the delegate that loads, persists, revokes and binds OAuth2 refresh tokens, including validation of unreadable tokens and token web data storage.
+// ---
+
 #include "components/signin/internal/identity_manager/mutable_profile_oauth2_token_service_delegate.h"
 
 #include <stddef.h>

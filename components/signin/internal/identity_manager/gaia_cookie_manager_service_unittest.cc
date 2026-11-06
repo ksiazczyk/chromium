@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Gaia cookie manager service unit tests
+// summary: Unit tests for GaiaCookieManagerService covering request queuing, cookie updates, logout, list accounts failures, and multilogin behavior using fake services and cookie managers.
+// ---
+
 #include "components/signin/internal/identity_manager/gaia_cookie_manager_service.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sign-in status metrics provider helpers unit tests
+// summary: Parameterized unit tests verifying that profile sign-in and sync status combinations emit the expected UMA histogram buckets.
+// ---
+
 #include "components/signin/core/browser/signin_status_metrics_provider_helpers.h"
 
 #include "base/test/metrics/histogram_tester.h"

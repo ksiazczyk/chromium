@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OAuthMultiloginTokenResponse implementation
+// summary: Implements constructors and move semantics for the value object returned by a successful multilogin token request.
+// ---
+
 #include "components/signin/internal/identity_manager/oauth_multilogin_token_response.h"
 
 namespace signin {

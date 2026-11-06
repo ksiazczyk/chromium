@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WaitForNetworkCallbackHelperIOS implementation
+// summary: Implements the iOS helper that delays network callbacks while offline and runs them when the network connection is restored.
+// ---
+
 #include "components/signin/ios/browser/wait_for_network_callback_helper_ios.h"
 
 #include <utility>

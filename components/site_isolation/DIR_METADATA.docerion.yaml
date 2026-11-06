@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Site isolation bug tracking metadata
+summary: Declares the Monorail and Buganizer components used for filing bugs against site isolation.

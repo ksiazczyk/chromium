@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Site engagement content include dependency rules
+summary: Lists the allowed include dependencies for code in the site engagement content directory.

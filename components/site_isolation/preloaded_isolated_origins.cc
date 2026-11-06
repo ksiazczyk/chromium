@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Preloaded isolated origins implementation
+// summary: Implements retrieval of browser-specific built-in isolated origins, loading them from bundled resources when site isolation policy allows.
+// ---
+
 #include "components/site_isolation/preloaded_isolated_origins.h"
 
 #include "base/strings/string_tokenizer.h"

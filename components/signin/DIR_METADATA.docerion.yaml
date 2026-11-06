@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the signin component
+summary: Applies the common signin metadata to this directory through a mixin reference.

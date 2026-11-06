@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceAccountsSynchronizerImpl implementation
+// summary: Implements DeviceAccountsSynchronizer by delegating account reloads from the operating system to the token service delegate on Android and iOS.
+// ---
+
 #include "components/signin/internal/identity_manager/device_accounts_synchronizer_impl.h"
 
 #include "base/check.h"

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of the signin component
+summary: Lists the default reviewers and review group email for signin code changes across platforms.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Account reconcilor implementation
+// summary: Implements AccountReconcilor, the keyed service that keeps Chrome signed-in accounts in sync with the accounts in Gaia cookies.
+// ---
+
 #include "components/signin/core/browser/account_reconcilor.h"
 
 #include <stddef.h>

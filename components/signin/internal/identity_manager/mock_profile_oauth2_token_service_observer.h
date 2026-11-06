@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock Profile OAuth2 Token Service Observer
+// summary: Gmock mock of the profile OAuth2 token service observer for signin unit tests, observing the token service or its delegate via scoped observations.
+// ---
+
 #ifndef COMPONENTS_SIGNIN_INTERNAL_IDENTITY_MANAGER_MOCK_PROFILE_OAUTH2_TOKEN_SERVICE_OBSERVER_H_
 #define COMPONENTS_SIGNIN_INTERNAL_IDENTITY_MANAGER_MOCK_PROFILE_OAUTH2_TOKEN_SERVICE_OBSERVER_H_
 

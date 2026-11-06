@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android Account Fetcher Factory Implementation
+// summary: Android implementation of the account fetcher factory that creates Gaia-based account info fetchers and GMSCore-based capabilities fetchers.
+// ---
+
 #include "components/signin/internal/identity_manager/account_fetcher_factory_android.h"
 
 #include "components/signin/internal/identity_manager/account_capabilities_fetcher.h"

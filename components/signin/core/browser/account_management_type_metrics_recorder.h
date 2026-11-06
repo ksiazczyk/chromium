@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccountManagementTypeMetricsRecorder header
+// summary: Declares a helper that records management type metrics for each account in the identity manager.
+// ---
+
 #ifndef COMPONENTS_SIGNIN_CORE_BROWSER_ACCOUNT_MANAGEMENT_TYPE_METRICS_RECORDER_H_
 #define COMPONENTS_SIGNIN_CORE_BROWSER_ACCOUNT_MANAGEMENT_TYPE_METRICS_RECORDER_H_
 

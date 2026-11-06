@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Dice header helper unit tests
+// summary: Unit tests verifying Dice request header handling and parsing of Dice signin, signout and linked accounts response headers.
+// ---
+
 #include "components/signin/core/browser/dice_header_helper.h"
 
 #include <memory>

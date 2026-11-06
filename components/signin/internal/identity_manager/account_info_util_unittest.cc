@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccountInfoUtil unit tests
+// summary: Unit tests verifying parsing of GAIA user info and serialization of AccountInfo and AccountCapabilities values.
+// ---
+
 #include "components/signin/internal/identity_manager/account_info_util.h"
 
 #include <optional>

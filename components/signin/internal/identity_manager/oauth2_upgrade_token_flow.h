@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OAuth2 Upgrade Token Flow Header
+// summary: Declares the OAuth2UpgradeTokenFlow API call flow and its result enum for upgrading refresh tokens with token binding.
+// ---
+
 #ifndef COMPONENTS_SIGNIN_INTERNAL_IDENTITY_MANAGER_OAUTH2_UPGRADE_TOKEN_FLOW_H_
 #define COMPONENTS_SIGNIN_INTERNAL_IDENTITY_MANAGER_OAUTH2_UPGRADE_TOKEN_FLOW_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Token binding OAuth2 access token fetcher unit tests
+// summary: Unit tests for TokenBindingOAuth2AccessTokenFetcher verifying fetch start ordering, assertion handling, and dark launch behavior with a mocked internal fetcher.
+// ---
+
 #include "components/signin/internal/identity_manager/token_binding_oauth2_access_token_fetcher.h"
 
 #include <optional>

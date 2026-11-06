@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Account metrics ID allocator header
+// summary: Declares GetOrAllocateAccountMetricsId, which returns or allocates a per-account metrics ID and returns nullopt once the cap of 99 is reached.
+// ---
+
 #ifndef COMPONENTS_SIGNIN_CORE_BROWSER_ACCOUNT_METRICS_ID_ALLOCATOR_H_
 #define COMPONENTS_SIGNIN_CORE_BROWSER_ACCOUNT_METRICS_ID_ALLOCATOR_H_
 

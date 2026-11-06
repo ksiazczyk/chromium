@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Account Capabilities Fetcher Unit Tests
+// summary: Unit tests for the account capabilities fetcher, covering the Android and Gaia implementations with fake token services and URL loader factories.
+// ---
+
 #include "components/signin/internal/identity_manager/account_capabilities_fetcher.h"
 
 #include <optional>

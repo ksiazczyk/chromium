@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signin header helper implementation
+// summary: Implements helpers that append or remove sign-in related HTTP request headers such as X-Chrome-Connected and DICE headers on Google requests.
+// ---
+
 #include "components/signin/core/browser/signin_header_helper.h"
 
 #include <stddef.h>

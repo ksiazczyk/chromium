@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gaia cookie manager service implementation
+// summary: Implements GaiaCookieManagerService, which manages Google authentication cookies and keeps the signed-in Gaia account list synchronized with Chrome's identity state, with retries and metrics.
+// ---
+
 #include "components/signin/internal/identity_manager/gaia_cookie_manager_service.h"
 
 #include <stddef.h>

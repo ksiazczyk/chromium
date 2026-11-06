@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS OAuth2 Token Service Delegate Implementation
+// summary: Implements the iOS profile OAuth2 token service delegate, fetching access tokens through device account providers and reloading accounts from the system.
+// ---
+
 #include "components/signin/internal/identity_manager/profile_oauth2_token_service_delegate_ios.h"
 
 #include <set>

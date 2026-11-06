@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Account preview data fetcher implementation
+// summary: Implements fetching of account statistics and entity previews from the Sync Preview API, including response parsing and fetch duration metrics.
+// ---
+
 #include "components/signin/core/browser/account_preview_data_fetcher.h"
 
 #include <algorithm>
