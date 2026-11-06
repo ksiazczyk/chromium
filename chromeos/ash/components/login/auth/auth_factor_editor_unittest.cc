@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Auth factor editor unit tests
+// summary: Unit tests verifying that AuthFactorEditor's LockCryptohomeRecoveryUntilReboot reports success and cryptohome errors correctly via a mocked UserDataAuthClient.
+// ---
+
 #include "chromeos/ash/components/login/auth/auth_factor_editor.h"
 
 #include <optional>

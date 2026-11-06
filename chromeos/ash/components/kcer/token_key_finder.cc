@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TokenKeyFinder implementation
+// summary: Implements a helper that aggregates key-location results from several tokens and reports the token holding the key or an error.
+// ---
+
 #include "chromeos/ash/components/kcer/token_key_finder.h"
 
 #include <optional>

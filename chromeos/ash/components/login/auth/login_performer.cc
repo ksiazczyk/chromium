@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LoginPerformer sign-in implementation
+// summary: Implements LoginPerformer, which runs offline-then-online sign-in, handles auth success and failure, and updates user and session state.
+// ---
+
 #include "chromeos/ash/components/login/auth/login_performer.h"
 
 #include "base/functional/bind.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MGLRU feature declarations
+// summary: Declares the kMGLRUEnable feature, its enable value parameter, and the InitializeMGLRU function for the ash memory component.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_MEMORY_MGLRU_H_
 #define CHROMEOS_ASH_COMPONENTS_MEMORY_MGLRU_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KcerImpl class header
+// summary: Declares KcerImpl, the exported Kcer implementation that queues requests until initialized and forwards operations to user and device tokens.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_KCER_KCER_IMPL_H_
 #define CHROMEOS_ASH_COMPONENTS_KCER_KCER_IMPL_H_
 

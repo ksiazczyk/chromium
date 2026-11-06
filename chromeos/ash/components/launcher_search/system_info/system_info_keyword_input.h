@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System info keyword input header
+// summary: Defines the SystemInfoInputType enum (CPU, version, memory, battery, storage) and the SystemInfoKeywordInput struct pairing keywords with those input types.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_LAUNCHER_SEARCH_SYSTEM_INFO_SYSTEM_INFO_KEYWORD_INPUT_H_
 #define CHROMEOS_ASH_COMPONENTS_LAUNCHER_SEARCH_SYSTEM_INFO_SYSTEM_INFO_KEYWORD_INPUT_H_
 

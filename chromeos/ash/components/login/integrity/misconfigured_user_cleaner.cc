@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MisconfiguredUserCleaner implementation
+// summary: Implements cleanup of users whose cryptohome creation was incomplete, removing the user or triggering a silent powerwash when the user is the device owner.
+// ---
+
 #include "chromeos/ash/components/login/integrity/misconfigured_user_cleaner.h"
 
 #include "ash/constants/ash_switches.h"

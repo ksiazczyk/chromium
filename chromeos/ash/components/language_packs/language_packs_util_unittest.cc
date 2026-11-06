@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Language packs utility unit tests
+// summary: Unit tests for language pack utilities, verifying DLC state and install result conversions, locale resolution and pref-based input method extraction.
+// ---
+
 #include "chromeos/ash/components/language_packs/language_packs_util.h"
 
 #include <optional>

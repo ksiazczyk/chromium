@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StubAuthenticatorBuilder test helper header
+// summary: Declares StubAuthenticatorBuilder, a helper for tests to inject configured StubAuthenticator instances during user login.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_LOGIN_AUTH_STUB_AUTHENTICATOR_BUILDER_H_
 #define CHROMEOS_ASH_COMPONENTS_LOGIN_AUTH_STUB_AUTHENTICATOR_BUILDER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test helper declarations
+// summary: Declares test helpers for creating test data, checking search results, and computing TF-IDF scores in unit tests.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_LOCAL_SEARCH_SERVICE_TEST_UTILS_H_
 #define CHROMEOS_ASH_COMPONENTS_LOCAL_SEARCH_SERVICE_TEST_UTILS_H_
 

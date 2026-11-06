@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TestAttemptState test state header
+// summary: Declares TestAttemptState, an AuthAttemptState subclass that lets tests preset and query online login and cryptohome state on the main thread.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_LOGIN_AUTH_TEST_ATTEMPT_STATE_H_
 #define CHROMEOS_ASH_COMPONENTS_LOGIN_AUTH_TEST_ATTEMPT_STATE_H_
 

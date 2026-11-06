@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local search service provider for testing implementation
+// summary: Implements an in-process LocalSearchService provider that binds service receivers for testing purposes.
+// ---
+
 #include "chromeos/ash/components/local_search_service/local_search_service_provider_for_testing.h"
 
 #include <memory>

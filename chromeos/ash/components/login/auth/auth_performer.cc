@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AuthPerformer implementation
+// summary: Implements the higher-level API for cryptohome AuthSession operations, including starting, authenticating, extending and invalidating sessions for various auth factors.
+// ---
+
 #include "chromeos/ash/components/login/auth/auth_performer.h"
 
 #include <cstdint>

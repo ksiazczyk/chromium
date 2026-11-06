@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System memory pressure evaluator implementation
+// summary: Implements the Ash system memory pressure evaluator, translating resourced pressure signals into listener notifications with a cooldown for repeated moderate-level alerts.
+// ---
+
 #include "chromeos/ash/components/memory/pressure/system_memory_pressure_evaluator.h"
 
 #include "base/logging.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Login readahead performer implementation
+// summary: Implements prefetching of critical login files via repeated 128KiB readahead calls on a thread pool, reporting results to UMA and honoring cancellation.
+// ---
+
 #include "chromeos/ash/components/login/readahead/login_readahead_performer.h"
 
 #include <fcntl.h>

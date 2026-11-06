@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cryptohome recovery service client header
+// summary: Declares CryptohomeRecoveryServiceClient, which handles fetching the epoch and sending recovery requests to the recovery service with retry backoff entries.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_LOGIN_AUTH_RECOVERY_CRYPTOHOME_RECOVERY_SERVICE_CLIENT_H_
 #define CHROMEOS_ASH_COMPONENTS_LOGIN_AUTH_RECOVERY_CRYPTOHOME_RECOVERY_SERVICE_CLIENT_H_
 

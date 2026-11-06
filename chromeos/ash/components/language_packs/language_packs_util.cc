@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Language packs utility functions
+// summary: Implements locale resolution for handwriting and TTS, UMA enum mapping for feature IDs, success and DLC errors, and DLC state conversion helpers.
+// ---
+
 #include "chromeos/ash/components/language_packs/language_packs_util.h"
 
 #include <optional>

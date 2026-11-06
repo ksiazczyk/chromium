@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PasswordUpdateFlow class declaration
+// summary: Declares PasswordUpdateFlow, a helper that executes the operation chain updating a user's password auth factor to a new credential.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_LOGIN_AUTH_PASSWORD_UPDATE_FLOW_H_
 #define CHROMEOS_ASH_COMPONENTS_LOGIN_AUTH_PASSWORD_UPDATE_FLOW_H_
 

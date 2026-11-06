@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AuthenticatorBuilder factory interface
+// summary: Defines an abstract builder interface that creates Authenticator instances for a given AuthStatusConsumer.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_LOGIN_AUTH_AUTHENTICATOR_BUILDER_H_
 #define CHROMEOS_ASH_COMPONENTS_LOGIN_AUTH_AUTHENTICATOR_BUILDER_H_
 

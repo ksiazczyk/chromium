@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ELF section address declarations for the chrome binary
+// summary: Declares extern C addresses and sizes of the .rodata and .text.hot ELF sections in the chrome binary for use by the memory component.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_MEMORY_ELF_SECTIONS_H_
 #define CHROMEOS_ASH_COMPONENTS_MEMORY_ELF_SECTIONS_H_
 

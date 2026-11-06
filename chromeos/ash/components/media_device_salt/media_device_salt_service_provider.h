@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaDeviceSaltServiceProvider interface header
+// summary: Declares an abstract singleton that lets ChromeOS callers obtain a user's MediaDeviceSaltService without depending on the Chrome-side factory implementation.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_MEDIA_DEVICE_SALT_MEDIA_DEVICE_SALT_SERVICE_PROVIDER_H_
 #define CHROMEOS_ASH_COMPONENTS_MEDIA_DEVICE_SALT_MEDIA_DEVICE_SALT_SERVICE_PROVIDER_H_
 

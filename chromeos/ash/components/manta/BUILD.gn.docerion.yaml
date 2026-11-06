@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the manta service provider component
+summary: GN build rules defining the manta_service_provider component and a test-only source_set with the fake provider.

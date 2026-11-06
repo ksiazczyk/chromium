@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for the ash memory component
+summary: Defines the memory component sources and dependencies plus the unit_tests source set for ChromeOS ash.

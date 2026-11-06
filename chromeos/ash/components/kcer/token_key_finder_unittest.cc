@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TokenKeyFinder unit tests
+// summary: Unit tests for TokenKeyFinder covering synchronous, asynchronous, key-found, key-not-found and failure results.
+// ---
+
 #include "chromeos/ash/components/kcer/token_key_finder.h"
 
 #include "base/test/task_environment.h"

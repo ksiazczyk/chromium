@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared token utilities declarations
+// summary: Declares PKCS#11 id and public key construction helpers plus the KcerTokenUtils class that shares Chaps operations between token implementations.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_KCER_KCER_TOKEN_UTILS_H_
 #define CHROMEOS_ASH_COMPONENTS_KCER_KCER_TOKEN_UTILS_H_
 

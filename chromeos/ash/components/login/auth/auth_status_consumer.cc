@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AuthStatusConsumer implementation
+// summary: Provides default implementations of AuthStatusConsumer callbacks for unusable online passwords, password change detection, local authentication and old encryption.
+// ---
+
 #include "chromeos/ash/components/login/auth/auth_status_consumer.h"
 
 #include "base/notreached.h"

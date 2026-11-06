@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TokenKeyFinder header
+// summary: Declares a ref-counted helper for Kcer::FindKeyLocation that merges key search results collected from multiple tokens.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_KCER_TOKEN_KEY_FINDER_H_
 #define CHROMEOS_ASH_COMPONENTS_KCER_TOKEN_KEY_FINDER_H_
 

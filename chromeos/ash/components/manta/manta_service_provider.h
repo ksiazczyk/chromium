@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Manta service provider interface
+// summary: Declares the abstract provider that gives ChromeOS callers per-account MantaService access without depending on //chrome's factory.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_MANTA_MANTA_SERVICE_PROVIDER_H_
 #define CHROMEOS_ASH_COMPONENTS_MANTA_MANTA_SERVICE_PROVIDER_H_
 

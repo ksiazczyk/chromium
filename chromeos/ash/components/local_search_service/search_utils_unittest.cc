@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Search utils unit tests
+// summary: Unit tests covering prefix match scores, block match scores, and relevance coefficient behavior of the search utilities.
+// ---
+
 #include "chromeos/ash/components/local_search_service/search_utils.h"
 
 #include <algorithm>

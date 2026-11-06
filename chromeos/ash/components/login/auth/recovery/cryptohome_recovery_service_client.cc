@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cryptohome recovery service client implementation
+// summary: Implements the network client that fetches the recovery epoch and sends recovery requests, with authorization headers, protobuf content type and retry backoff handling.
+// ---
+
 #include "chromeos/ash/components/login/auth/recovery/cryptohome_recovery_service_client.h"
 
 #include <stdint.h>

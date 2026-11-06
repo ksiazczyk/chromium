@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InstallAttributes class header
+// summary: Declares the InstallAttributes class, its lock result codes, and APIs for reading immutable attributes, setting TPM firmware parameters, and locking the device mode.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_INSTALL_ATTRIBUTES_INSTALL_ATTRIBUTES_H_
 #define CHROMEOS_ASH_COMPONENTS_INSTALL_ATTRIBUTES_INSTALL_ATTRIBUTES_H_
 

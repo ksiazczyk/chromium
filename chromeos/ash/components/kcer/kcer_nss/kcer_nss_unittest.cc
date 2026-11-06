@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: KcerNss unit tests
+// summary: Unit tests for the NSS-backed Kcer implementation covering key generation, imports, signing, listing, and key permissions.
+// ---
+
 #include <stdint.h>
 
 #include <ostream>

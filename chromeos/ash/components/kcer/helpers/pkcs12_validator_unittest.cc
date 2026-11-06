@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for kcer PKCS#12 validator
+// summary: Unit tests for ValidateAndPrepareCertData, verifying successful validation of RSA and EC PKCS#12 test files and correct nickname selection.
+// ---
+
 #include "chromeos/ash/components/kcer/helpers/pkcs12_validator.h"
 
 #include "base/compiler_specific.h"

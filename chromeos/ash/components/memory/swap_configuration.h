@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Swap configuration header
+// summary: Declares the memory pressure signal features, their threshold parameters, and the ConfigureSwap entry point for ARC-enabled and ARC-disabled devices.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_MEMORY_SWAP_CONFIGURATION_H_
 #define CHROMEOS_ASH_COMPONENTS_MEMORY_SWAP_CONFIGURATION_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for language_preferences
+summary: GN build file defining the language_preferences static library with its sources and a dependency on components/prefs.

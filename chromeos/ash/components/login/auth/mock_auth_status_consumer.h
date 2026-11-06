@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockAuthStatusConsumer gmock class
+// summary: Declares a gmock-based AuthStatusConsumer with quit helpers for verifying login success, failure and migration outcomes in tests.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_LOGIN_AUTH_MOCK_AUTH_STATUS_CONSUMER_H_
 #define CHROMEOS_ASH_COMPONENTS_LOGIN_AUTH_MOCK_AUTH_STATUS_CONSUMER_H_
 

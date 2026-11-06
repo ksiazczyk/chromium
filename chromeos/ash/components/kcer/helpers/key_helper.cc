@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Key helper implementation for kcer
+// summary: Implements kcer internal helpers that compute PKCS#11 key IDs, extract EC public and private key bytes, and DER-encode ASN.1 octet strings and EC parameters.
+// ---
+
 #include "chromeos/ash/components/kcer/helpers/key_helper.h"
 
 #include <pk11pub.h>

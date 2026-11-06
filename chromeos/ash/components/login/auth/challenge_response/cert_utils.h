@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Challenge-response certificate utilities header
+// summary: Declares functions for mapping TLS signature schemes to challenge-response key algorithms and building a ChallengeResponseKey from a certificate's public key.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_LOGIN_AUTH_CHALLENGE_RESPONSE_CERT_UTILS_H_
 #define CHROMEOS_ASH_COMPONENTS_LOGIN_AUTH_CHALLENGE_RESPONSE_CERT_UTILS_H_
 

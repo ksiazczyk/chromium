@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cryptohome parameter utilities declarations
+// summary: Declares helper functions for building cryptohome key definitions and authorization parameters from Chrome OS login user contexts.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_LOGIN_AUTH_CRYPTOHOME_PARAMETER_UTILS_H_
 #define CHROMEOS_ASH_COMPONENTS_LOGIN_AUTH_CRYPTOHOME_PARAMETER_UTILS_H_
 

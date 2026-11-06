@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Launcher search system info utility implementation
+// summary: Implements helpers that populate battery power status text for the launcher and build the localized keyword list used to match system info searches (version, battery, memory, CPU, storage).
+// ---
+
 #include "chromeos/ash/components/launcher_search/system_info/launcher_util.h"
 
 #include <string>

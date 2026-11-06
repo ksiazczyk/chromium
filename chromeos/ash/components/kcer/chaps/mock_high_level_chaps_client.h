@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MockHighLevelChapsClient class
+// summary: GMock implementation of the HighLevelChapsClient interface, mocking all Chaps operations for use in unit tests.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_KCER_CHAPS_MOCK_HIGH_LEVEL_CHAPS_CLIENT_H_
 #define CHROMEOS_ASH_COMPONENTS_KCER_CHAPS_MOCK_HIGH_LEVEL_CHAPS_CLIENT_H_
 

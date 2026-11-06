@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search scoring utility implementations
+// summary: Implements prefix and block match scoring, relevance coefficient computation, and result comparison helpers for the search service.
+// ---
+
 #include "chromeos/ash/components/local_search_service/search_utils.h"
 
 #include <algorithm>

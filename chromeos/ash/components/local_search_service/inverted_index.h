@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Inverted index for local search service
+// summary: Declares the InvertedIndex class that stores an inverted index with posting lists and TF-IDF scores for local search.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_LOCAL_SEARCH_SERVICE_INVERTED_INDEX_H_
 #define CHROMEOS_ASH_COMPONENTS_LOCAL_SEARCH_SERVICE_INVERTED_INDEX_H_
 

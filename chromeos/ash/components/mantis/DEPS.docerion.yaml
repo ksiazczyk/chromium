@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Mantis component DEPS dependency rules
+summary: Declares the include dependencies allowed for the mantis component, such as mojo service manager, specialized features, and machine learning service public headers.

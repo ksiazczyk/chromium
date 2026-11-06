@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MantisUntrustedService unit tests
+// summary: Unit tests verifying that the untrusted service forwards segmentation, generative fill, inpaint, outpaint and safety requests to a mocked Mantis processor.
+// ---
+
 #include "chromeos/ash/components/mantis/media_app/mantis_untrusted_service.h"
 
 #include <cstdint>

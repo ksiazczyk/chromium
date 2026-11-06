@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Local search service proxy unit tests
+// summary: Unit tests for LocalSearchServiceProxy covering index access and metrics reporter creation with and without local state.
+// ---
+
 #include "chromeos/ash/components/local_search_service/public/cpp/local_search_service_proxy.h"
 
 #include <memory>

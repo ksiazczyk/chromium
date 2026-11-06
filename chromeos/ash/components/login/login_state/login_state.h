@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LoginState class interface
+// summary: Declares the LoginState singleton API for querying login state, session type, and observing changes.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_LOGIN_LOGIN_STATE_LOGIN_STATE_H_
 #define CHROMEOS_ASH_COMPONENTS_LOGIN_LOGIN_STATE_LOGIN_STATE_H_
 

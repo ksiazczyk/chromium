@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MantisUntrustedServiceManager implementation
+// summary: Implements availability checks and creation of the Mantis untrusted service, wiring feature access, ML service connection and progress reporting.
+// ---
+
 #include "chromeos/ash/components/mantis/media_app/mantis_untrusted_service_manager.h"
 
 #include <memory>

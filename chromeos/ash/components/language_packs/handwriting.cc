@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Handwriting DLC and locale mapping implementation
+// summary: Implements mapping between input method IDs, handwriting locales and handwriting DLC IDs.
+// ---
+
 #include "chromeos/ash/components/language_packs/handwriting.h"
 
 #include <optional>

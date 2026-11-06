@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MantisUntrustedService class declaration
+// summary: Declares the Mojo service bridging the media app UI to the ChromeOS Mantis processor, with lifetime tied to the opened image file.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_MANTIS_MEDIA_APP_MANTIS_UNTRUSTED_SERVICE_H_
 #define CHROMEOS_ASH_COMPONENTS_MANTIS_MEDIA_APP_MANTIS_UNTRUSTED_SERVICE_H_
 

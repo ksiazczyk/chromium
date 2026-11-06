@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for LoginState
+// summary: Unit tests verifying login state transitions, safe mode, user type changes, and observer notifications.
+// ---
+
 #include "chromeos/ash/components/login/login_state/login_state.h"
 
 #include "base/command_line.h"

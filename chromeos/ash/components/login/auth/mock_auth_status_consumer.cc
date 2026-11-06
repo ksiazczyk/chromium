@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockAuthStatusConsumer implementation
+// summary: Implements MockAuthStatusConsumer quit helpers that end test message loops and flag unexpected auth outcomes.
+// ---
+
 #include "chromeos/ash/components/login/auth/mock_auth_status_consumer.h"
 
 #include "google_apis/gaia/gaia_auth_consumer.h"

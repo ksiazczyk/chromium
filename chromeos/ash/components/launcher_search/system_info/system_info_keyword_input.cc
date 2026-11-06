@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System info keyword input implementation
+// summary: Implements the SystemInfoKeywordInput constructor and accessors that store and return a keyword string and its associated system info input type.
+// ---
+
 #include "chromeos/ash/components/launcher_search/system_info/system_info_keyword_input.h"
 
 namespace launcher_search {

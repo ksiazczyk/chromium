@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for CertCache
+// summary: Unit tests verifying that CertCache stores, finds and returns certificates, including handling of duplicates.
+// ---
+
 #include "chromeos/ash/components/kcer/cert_cache.h"
 
 #include <memory>

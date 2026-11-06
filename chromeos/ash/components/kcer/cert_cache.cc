@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the certificate cache
+// summary: Implements CertCache, a sorted set of refcounted certificates that supports lookup and comparison by DER encoding.
+// ---
+
 #include "chromeos/ash/components/kcer/cert_cache.h"
 
 #include <stdint.h>

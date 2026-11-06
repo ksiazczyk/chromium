@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Challenge-response certificate utilities unit tests
+// summary: Unit tests verifying successful extraction of a challenge-response key from a test certificate and failure handling when no signature algorithms are provided.
+// ---
+
 #include "chromeos/ash/components/login/auth/challenge_response/cert_utils.h"
 
 #include <string>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the login readahead component
+summary: Defines the GN component target for the ChromeOS Ash login readahead code, listing its sources and its base and session manager dependencies.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ComputeStringsDiff
+// summary: Parameterized tests verifying ComputeStringsDiff across empty, duplicate and overlapping set cases.
+// ---
+
 #include "chromeos/ash/components/language_packs/diff.h"
 
 #include <string>

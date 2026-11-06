@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtraInstances implementation
+// summary: Implements the ExtraInstances singleton that stores and returns the default, empty and device Kcer instances.
+// ---
+
 #include "chromeos/ash/components/kcer/extra_instances.h"
 
 #include "base/no_destructor.h"

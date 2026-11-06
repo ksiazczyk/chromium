@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the login session directory
+summary: Declares allowed include dependencies for the directory, restricting most Abseil features and granting keep-alive registry and testing includes to specific files.

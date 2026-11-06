@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Recovery default state utility implementation
+// summary: Implements GetRecoveryDefaultState, returning whether the recovery auth factor should be activated based on policy for managed users or a feature flag for consumers.
+// ---
+
 #include "chromeos/ash/components/login/auth/recovery/recovery_utils.h"
 
 #include "ash/constants/ash_features.h"

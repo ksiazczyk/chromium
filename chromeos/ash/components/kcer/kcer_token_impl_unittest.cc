@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for KcerTokenImpl
+// summary: Unit tests covering KcerTokenImpl behavior with a mocked Chaps client, including key generation, import, signing and certificate operations.
+// ---
+
 #include "chromeos/ash/components/kcer/kcer_token_impl.h"
 
 #include <string_view>

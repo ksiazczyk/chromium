@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local search service preference name definitions
+// summary: Defines preference name constants used by the search metrics reporter for daily samples and per-index search counts.
+// ---
+
 #include "chromeos/ash/components/local_search_service/pref_names.h"
 
 namespace ash::local_search_service::prefs {

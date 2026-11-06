@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KcerNotifierNet header
+// summary: Declares a helper class that observes net::CertDatabase and forwards client cert store change notifications to Kcer observers.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_KCER_KCER_NOTIFIER_NET_H_
 #define CHROMEOS_ASH_COMPONENTS_KCER_KCER_NOTIFIER_NET_H_
 

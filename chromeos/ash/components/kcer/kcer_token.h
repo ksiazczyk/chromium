@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KcerToken interface for a single PKCS#11 token
+// summary: Declares the KcerToken interface that performs key and certificate storage operations for one PKCS#11 token, with factory methods for NSS and non-NSS variants.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_KCER_KCER_TOKEN_H_
 #define CHROMEOS_ASH_COMPONENTS_KCER_KCER_TOKEN_H_
 

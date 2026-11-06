@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Recovery service constants and URL helpers
+// summary: Defines recovery service URLs, HSM and ledger public keys, endpoint suffixes and OAuth2 scope, selecting production or test values via command-line switches.
+// ---
+
 #include "chromeos/ash/components/login/auth/recovery/service_constants.h"
 
 #include "ash/constants/ash_switches.h"

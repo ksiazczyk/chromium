@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session termination manager implementation
+// summary: Implements session termination handling, stopping sessions via the session manager and forcing reboots when the device is locked to a single user or reboot-on-signout is requested.
+// ---
+
 #include "chromeos/ash/components/login/session/session_termination_manager.h"
 
 #include "base/functional/bind.h"

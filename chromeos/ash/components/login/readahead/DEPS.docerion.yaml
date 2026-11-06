@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the readahead directory
+summary: Grants the readahead directory permission to include headers from the ChromeOS Ash session manager DBus component.

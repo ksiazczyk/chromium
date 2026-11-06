@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Language pack manager unit tests
+// summary: Unit tests for LanguagePackManager covering pack state, install, uninstall and OOBE flows with a fake DLC service client and histogram checks.
+// ---
+
 #include "chromeos/ash/components/language_packs/language_pack_manager.h"
 
 #include <string>

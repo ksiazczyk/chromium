@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Out-of-process local search service provider header
+// summary: Declares a LocalSearchServiceProvider that runs the LocalSearchService in the LSS service process.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_LOCAL_SEARCH_SERVICE_OOP_LOCAL_SEARCH_SERVICE_PROVIDER_H_
 #define CHROMEOS_ASH_COMPONENTS_LOCAL_SEARCH_SERVICE_OOP_LOCAL_SEARCH_SERVICE_PROVIDER_H_
 

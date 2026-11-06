@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Login readahead performer header
+// summary: Declares LoginReadaheadPerformer and CancelNotifier, which speed up login by prefetching files and canceling tasks once a session starts.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_LOGIN_READAHEAD_LOGIN_READAHEAD_PERFORMER_H_
 #define CHROMEOS_ASH_COMPONENTS_LOGIN_READAHEAD_LOGIN_READAHEAD_PERFORMER_H_
 

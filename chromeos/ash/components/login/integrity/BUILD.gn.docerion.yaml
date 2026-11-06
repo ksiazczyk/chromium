@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Login integrity component build definition
+summary: Defines the GN build target for the integrity component, listing its sources and dependencies on cryptohome, session manager, and user manager code.

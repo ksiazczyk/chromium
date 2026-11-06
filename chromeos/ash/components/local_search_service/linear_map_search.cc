@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linear map search backend implementation
+// summary: Implements a search backend that linearly scans stored search tags and matches queries using fuzzy tokenized string matching.
+// ---
+
 #include "chromeos/ash/components/local_search_service/linear_map_search.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Challenge-response key label utilities implementation
+// summary: Generates cryptohome key labels for challenge-response keys by hashing the public key SPKI with SHA-256 under a fixed challenge-response prefix.
+// ---
+
 #include "chromeos/ash/components/login/auth/challenge_response/key_label_utils.h"
 
 #include "base/check_op.h"

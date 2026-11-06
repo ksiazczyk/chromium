@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of string set diffing
+// summary: Implements ComputeStringsDiff, which computes the strings to add and remove to turn one string set into another.
+// ---
+
 #include "chromeos/ash/components/language_packs/diff.h"
 
 #include <string>

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata mixin reference
+summary: DIR_METADATA file that reuses the common metadata of the kcer directory via a mixin.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AuthAttemptState implementation
+// summary: Implements state tracking for a single ChromeOS login attempt, recording online login completion, cryptohome status and username hash results.
+// ---
+
 #include "chromeos/ash/components/login/auth/auth_attempt_state.h"
 
 #include <utility>

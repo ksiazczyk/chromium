@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Mantis mojom build configuration
+summary: GN build file that defines the Mojo bindings target for the Mantis mojom sources, including legacy JS bindings generation for the internal repository.

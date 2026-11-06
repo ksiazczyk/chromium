@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SystemMemoryPressureEvaluator class declaration
+// summary: Declares the Ash system memory pressure evaluator that observes free memory via the resourced client and notifies memory pressure listeners of level changes.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_MEMORY_PRESSURE_SYSTEM_MEMORY_PRESSURE_EVALUATOR_H_
 #define CHROMEOS_ASH_COMPONENTS_MEMORY_PRESSURE_SYSTEM_MEMORY_PRESSURE_EVALUATOR_H_
 

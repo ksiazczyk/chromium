@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaDeviceSaltServiceProvider implementation
+// summary: Implements the process-wide singleton lifecycle for MediaDeviceSaltServiceProvider, registering and clearing the global instance with checks.
+// ---
+
 #include "chromeos/ash/components/media_device_salt/media_device_salt_service_provider.h"
 
 #include "base/check.h"

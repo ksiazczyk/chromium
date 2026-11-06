@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for kcer dependencies
+summary: DEPS include rules listing the dependencies that code in the kcer directory is allowed to use.

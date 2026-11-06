@@ -1,3 +1,9 @@
+---
+type: readme
+title: 'kcer_nss: NSS-based Kcer implementation'
+summary: Describes KcerNss, a temporary NSS-backed implementation of Kcer, and the plan to migrate to a Kcer that does not rely on NSS.
+---
+
 kcer_nss directory contains `KcerNss` - an implementation of `Kcer`
 (see `//components/kcer`) that relies on NSS to store keys and client
 certificates.

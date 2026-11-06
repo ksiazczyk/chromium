@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Memory component API for locking main program text
+// summary: Declares the kCrOSLockMainProgramText feature, its maximum lock size parameter, and the LockMainProgramText function.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_MEMORY_MEMORY_H_
 #define CHROMEOS_ASH_COMPONENTS_MEMORY_MEMORY_H_
 

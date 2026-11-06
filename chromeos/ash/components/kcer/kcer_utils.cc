@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Kcer utility functions for signing schemes
+// summary: Implements helpers that list supported signing schemes per key type and re-encode raw ECDSA signatures as DER-encoded ASN.1 values.
+// ---
+
 #include "chromeos/ash/components/kcer/kcer_utils.h"
 
 #include "base/containers/span.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for AuthEventsRecorder
+// summary: Verifies that authentication events are reported to the expected UMA histograms and crash keys for failures, successes and recovery outcomes.
+// ---
+
 #include "chromeos/ash/components/login/auth/auth_events_recorder.h"
 
 #include <vector>

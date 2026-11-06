@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password visibility utilities implementation
+// summary: Implements password_visibility::AccountHasUserFacingPassword, which reports whether an account has a user-enterable password based on SAML principal settings.
+// ---
+
 #include "chromeos/ash/components/login/auth/password_visibility_utils.h"
 
 #include "components/prefs/pref_service.h"

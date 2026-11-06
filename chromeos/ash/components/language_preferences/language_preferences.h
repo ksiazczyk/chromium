@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Language preferences header
+// summary: Declares constants and RegisterPrefs used by the Languages and Input settings in Chromium OS.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_LANGUAGE_PREFERENCES_LANGUAGE_PREFERENCES_H_
 #define CHROMEOS_ASH_COMPONENTS_LANGUAGE_PREFERENCES_LANGUAGE_PREFERENCES_H_
 

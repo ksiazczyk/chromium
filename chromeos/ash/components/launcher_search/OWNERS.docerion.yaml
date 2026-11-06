@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Launcher search directory owners
+summary: Names the owners responsible for reviewing changes in the launcher_search directory.

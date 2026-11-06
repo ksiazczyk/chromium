@@ -1,0 +1,4 @@
+# Docerion header of mantis_service.mojom.
+type: source
+title: MantisService Mojo interface
+summary: Defines the Mojo interface for checking Mantis feature availability and initializing the processor, with model loading progress observation and DLC-based asset loading.

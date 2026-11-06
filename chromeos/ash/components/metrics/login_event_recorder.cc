@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LoginEventRecorder implementation
+// summary: Implements LoginEventRecorder, recording Chrome OS boot and login times to UMA histograms, bootstat files, and perfetto traces.
+// ---
+
 #include "chromeos/ash/components/metrics/login_event_recorder.h"
 
 #include <vector>

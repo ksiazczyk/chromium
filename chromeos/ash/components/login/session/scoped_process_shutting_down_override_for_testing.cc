@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped process shutting down test override implementation
+// summary: Implements the scoped helper that sets the KeepAliveRegistry shutting-down flag on construction and clears it on destruction for use in tests.
+// ---
+
 #include "chromeos/ash/components/login/session/scoped_process_shutting_down_override_for_testing.h"
 
 #include "base/check.h"

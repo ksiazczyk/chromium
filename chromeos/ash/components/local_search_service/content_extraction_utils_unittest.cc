@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Content extraction utilities unit tests
+// summary: Unit tests covering token consolidation, content extraction, and stopword detection.
+// ---
+
 #include "chromeos/ash/components/local_search_service/content_extraction_utils.h"
 
 #include "base/strings/utf_string_conversions.h"

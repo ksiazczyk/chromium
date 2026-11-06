@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClientCertIdentityKcer class header
+// summary: Declares ClientCertIdentityKcer, a net::ClientCertIdentity that acquires an SSL private key for a certificate through a Kcer instance.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_KCER_CLIENT_CERT_IDENTITY_KCER_H_
 #define CHROMEOS_ASH_COMPONENTS_KCER_CLIENT_CERT_IDENTITY_KCER_H_
 

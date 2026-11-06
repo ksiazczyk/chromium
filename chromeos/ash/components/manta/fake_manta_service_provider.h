@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Manta service provider header
+// summary: Declares a test MantaServiceProvider that installs itself process-wide and hands out services only for accounts a test registered.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_MANTA_FAKE_MANTA_SERVICE_PROVIDER_H_
 #define CHROMEOS_ASH_COMPONENTS_MANTA_FAKE_MANTA_SERVICE_PROVIDER_H_
 

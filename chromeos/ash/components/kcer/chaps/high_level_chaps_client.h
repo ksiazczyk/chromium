@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HighLevelChapsClient interface
+// summary: Declares the high-level Chaps client interface with friendlier argument types, an attribute ID enum, and helpers that simplify the SessionChapsClient D-Bus protocol.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_KCER_CHAPS_HIGH_LEVEL_CHAPS_CLIENT_H_
 #define CHROMEOS_ASH_COMPONENTS_KCER_CHAPS_HIGH_LEVEL_CHAPS_CLIENT_H_
 

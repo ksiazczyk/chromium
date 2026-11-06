@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AuthEventsRecorder implementation
+// summary: Implements recording of login and authentication events as UMA histograms and crash keys, covering failures, successes and cryptohome recovery.
+// ---
+
 #include "chromeos/ash/components/login/auth/auth_events_recorder.h"
 
 #include <algorithm>

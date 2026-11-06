@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Manta service provider implementation
+// summary: Implements the fake provider that maps account IDs to registered MantaService instances and returns them only for registered accounts.
+// ---
+
 #include "chromeos/ash/components/manta/fake_manta_service_provider.h"
 
 #include "base/check.h"

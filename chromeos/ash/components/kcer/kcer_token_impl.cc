@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KcerToken implementation communicating directly with Chaps
+// summary: Implements KcerToken by talking to Chaps for key generation, import, export, removal, listing and signing operations on a PKCS#11 token.
+// ---
+
 #include "chromeos/ash/components/kcer/kcer_token_impl.h"
 
 #include <stdint.h>

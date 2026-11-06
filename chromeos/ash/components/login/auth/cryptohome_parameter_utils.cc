@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cryptohome parameter utilities implementation
+// summary: Implements helpers that convert a UserContext's credentials into cryptohome key definitions, covering challenge-response, password and PIN keys.
+// ---
+
 #include "chromeos/ash/components/login/auth/cryptohome_parameter_utils.h"
 
 #include "base/check_op.h"

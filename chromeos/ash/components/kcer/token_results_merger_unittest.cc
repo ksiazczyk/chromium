@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TokenResultsMerger unit tests
+// summary: Unit tests for TokenResultsMerger covering synchronous and asynchronous aggregation of success and failure results from tokens.
+// ---
+
 #include "chromeos/ash/components/kcer/token_results_merger.h"
 
 #include "base/containers/flat_map.h"

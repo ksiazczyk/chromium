@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KcerImpl implementation
+// summary: Implements the Kcer interface by queueing requests until initialization and dispatching key and certificate operations to user and device tokens.
+// ---
+
 #include "chromeos/ash/components/kcer/kcer_impl.h"
 
 #include <stdint.h>

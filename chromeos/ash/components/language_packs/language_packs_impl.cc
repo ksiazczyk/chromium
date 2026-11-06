@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Language Packs Mojo interface implementation
+// summary: Implements the LanguagePacks Mojo interface by converting between PackResult and Mojo types and delegating operations to LanguagePackManager.
+// ---
+
 #include "chromeos/ash/components/language_packs/language_packs_impl.h"
 
 #include <optional>

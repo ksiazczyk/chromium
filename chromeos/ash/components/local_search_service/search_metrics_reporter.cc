@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search metrics reporter implementation
+// summary: Reports daily local search usage histograms per index using prefs and a metrics DailyEvent timer.
+// ---
+
 #include "chromeos/ash/components/local_search_service/search_metrics_reporter.h"
 
 #include <array>

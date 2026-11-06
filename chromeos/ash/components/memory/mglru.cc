@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MGLRU kernel feature initialization
+// summary: Implements InitializeMGLRU, which enables the kernel multi-gen LRU feature through the swap_management DBus client when kernel support is detected.
+// ---
+
 #include "chromeos/ash/components/memory/mglru.h"
 
 #include "base/feature_list.h"

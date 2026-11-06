@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Language Packs Mojo interface header
+// summary: Declares LanguagePacksImpl, which binds the Mojo LanguagePacks interface to LanguagePackManager and forwards pack state changes to observers.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_LANGUAGE_PACKS_LANGUAGE_PACKS_IMPL_H_
 #define CHROMEOS_ASH_COMPONENTS_LANGUAGE_PACKS_LANGUAGE_PACKS_IMPL_H_
 

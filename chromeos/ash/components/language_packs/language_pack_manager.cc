@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Language pack manager implementation
+// summary: Implements LanguagePackManager, which installs, uninstalls and tracks DLC-based language packs through the DLC service client.
+// ---
+
 #include "chromeos/ash/components/language_packs/language_pack_manager.h"
 
 #include <optional>

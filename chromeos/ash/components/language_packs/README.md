@@ -1,3 +1,9 @@
+---
+type: readme
+title: Language Packs README
+summary: Describes the ChromeOS Language Packs layer with sample usage of install, state and availability APIs and the observer pattern.
+---
+
 # Language Packs
 
 Language Packs are a ChromeOS layer that allows language-specific assets to be

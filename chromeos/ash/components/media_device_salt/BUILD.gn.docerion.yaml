@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the media_device_salt_service_provider component
+summary: Defines the GN build target for the media_device_salt_service_provider component, listing its public header, sources, export define, and base dependency.

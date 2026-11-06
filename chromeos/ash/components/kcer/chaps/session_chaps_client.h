@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SessionChapsClient interface
+// summary: Declares the low-level Chaps client that manages PKCS#11 sessions per slot and exposes object, attribute, signing and key generation operations over D-Bus.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_KCER_CHAPS_SESSION_CHAPS_CLIENT_H_
 #define CHROMEOS_ASH_COMPONENTS_KCER_CHAPS_SESSION_CHAPS_CLIENT_H_
 
