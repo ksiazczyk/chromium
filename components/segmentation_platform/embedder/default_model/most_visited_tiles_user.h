@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Most visited tiles user segmentation model header
+// summary: Declares the MostVisitedTilesUser model provider, its feature enum, segmentation keys, and enabling feature flag.
+// ---
+
 #ifndef COMPONENTS_SEGMENTATION_PLATFORM_EMBEDDER_DEFAULT_MODEL_MOST_VISITED_TILES_USER_H_
 #define COMPONENTS_SEGMENTATION_PLATFORM_EMBEDDER_DEFAULT_MODEL_MOST_VISITED_TILES_USER_H_
 

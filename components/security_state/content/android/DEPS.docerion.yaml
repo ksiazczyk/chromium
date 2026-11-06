@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for Android security state
+summary: Restricts includes from content/public/android to the allowed Chromium public Java source paths.

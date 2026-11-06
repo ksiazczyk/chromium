@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shopping user model implementation
+// summary: Implements the shopping user default model provider, defining UMA features, custom inputs, and binary classifier output for the shopping user segment.
+// ---
+
 #include "components/segmentation_platform/embedder/default_model/shopping_user_model.h"
 
 #include <array>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Database API clients model
+// summary: Implements a default model that registers custom events and SQL sum features so the segmentation platform stores and deletes signals needed by database API clients.
+// ---
+
 #include "components/segmentation_platform/embedder/default_model/database_api_clients.h"
 
 #include <memory>

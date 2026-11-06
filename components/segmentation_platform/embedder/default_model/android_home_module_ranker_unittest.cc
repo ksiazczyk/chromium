@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Android home module ranker model
+// summary: Tests model initialization and execution of the Android home module ranker, verifying classifier results for clicks and impressions across modules.
+// ---
+
 #include "components/segmentation_platform/embedder/default_model/android_home_module_ranker.h"
 
 #include "components/segmentation_platform/embedder/default_model/default_model_test_base.h"

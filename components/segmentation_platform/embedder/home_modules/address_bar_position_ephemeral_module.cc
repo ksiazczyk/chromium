@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Address bar position ephemeral module implementation
+// summary: Implements the Magic Stack module that decides when to show the address bar position tip based on required signals and impression counts.
+// ---
+
 #include "components/segmentation_platform/embedder/home_modules/address_bar_position_ephemeral_module.h"
 
 #include <algorithm>

@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Segmentation platform component metadata
+summary: Declares the monorail component, team email, and Buganizer component used for issues in this directory.

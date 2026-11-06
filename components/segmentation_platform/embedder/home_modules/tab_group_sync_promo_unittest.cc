@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab group sync promo unit tests
+// summary: Unit tests for TabGroupSyncPromo, verifying expected inputs and card result positions when the card is enabled, disabled, or has reached its display limit.
+// ---
+
 #include "components/segmentation_platform/embedder/home_modules/tab_group_sync_promo.h"
 
 #include "components/prefs/testing_pref_service.h"

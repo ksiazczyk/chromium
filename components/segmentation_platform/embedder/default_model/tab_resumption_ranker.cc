@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab resumption ranker implementation
+// summary: Implements the tab resumption ranker default model, defining SQL features over UKM page load metrics to score tab resumption.
+// ---
+
 #include "components/segmentation_platform/embedder/default_model/tab_resumption_ranker.h"
 
 #include "base/task/sequenced_task_runner.h"

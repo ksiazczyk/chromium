@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NTP customization ephemeral module implementation
+// summary: Implements the NTP customization ephemeral Magic Stack module, using impression counters and signals like never-customized NTP and new-user status to decide whether to show the tip.
+// ---
+
 #include "components/segmentation_platform/embedder/home_modules/ntp_customization_ephemeral_module.h"
 
 #include <optional>

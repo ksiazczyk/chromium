@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS default browser promo ephemeral module
+// summary: Implements the iOS default browser promo module, showing the card when the user is not new and Chrome is not the default browser.
+// ---
+
 #include "components/segmentation_platform/embedder/home_modules/default_browser_promo_ephemeral_module.h"
 
 #include "base/containers/fixed_flat_set.h"

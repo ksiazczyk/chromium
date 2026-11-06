@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Security state client implementation
+// summary: Implements the global SecurityStateClient registry and lazily creates and returns the client's SecurityStateModelDelegate.
+// ---
+
 #include "components/security_state/content/android/security_state_client.h"
 
 namespace security_state {

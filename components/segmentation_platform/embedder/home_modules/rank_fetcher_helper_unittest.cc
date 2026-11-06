@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Rank fetcher helper unit tests
+// summary: Tests RankFetcherHelper's rank fetching and merging of module and ephemeral card results using a mock segmentation platform service.
+// ---
+
 #include "components/segmentation_platform/embedder/home_modules/rank_fetcher_helper.h"
 
 #include "base/memory/scoped_refptr.h"

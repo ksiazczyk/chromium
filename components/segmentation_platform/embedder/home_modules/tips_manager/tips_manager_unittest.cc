@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TipsManager unit tests
+// summary: Unit tests verifying signal notification, occurrence counting, pruning of unused signal data, and time-window queries of the TipsManager.
+// ---
+
 #include "components/segmentation_platform/embedder/home_modules/tips_manager/tips_manager.h"
 
 #include <optional>

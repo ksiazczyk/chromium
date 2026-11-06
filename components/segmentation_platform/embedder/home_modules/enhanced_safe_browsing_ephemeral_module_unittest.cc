@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Enhanced Safe Browsing ephemeral module unit tests
+// summary: Unit tests verifying label identification, expected inputs, and card result computation for the Enhanced Safe Browsing ephemeral home module.
+// ---
+
 #include "components/segmentation_platform/embedder/home_modules/enhanced_safe_browsing_ephemeral_module.h"
 
 #include "base/test/scoped_feature_list.h"

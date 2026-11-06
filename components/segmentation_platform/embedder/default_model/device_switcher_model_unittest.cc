@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Device switcher model unit tests
+// summary: Unit tests verifying the device switcher model's metadata validation and classification results for phone, tablet, desktop, synced and other device inputs.
+// ---
+
 #include "components/segmentation_platform/embedder/default_model/device_switcher_model.h"
 
 #include "components/segmentation_platform/embedder/default_model/default_model_test_base.h"

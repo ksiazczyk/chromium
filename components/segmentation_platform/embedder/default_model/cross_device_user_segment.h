@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cross device user segment header
+// summary: Declares the CrossDeviceUserSegment model provider with its label and feature enums for the cross device user optimization target.
+// ---
+
 #ifndef COMPONENTS_SEGMENTATION_PLATFORM_EMBEDDER_DEFAULT_MODEL_CROSS_DEVICE_USER_SEGMENT_H_
 #define COMPONENTS_SEGMENTATION_PLATFORM_EMBEDDER_DEFAULT_MODEL_CROSS_DEVICE_USER_SEGMENT_H_
 

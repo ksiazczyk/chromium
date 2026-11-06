@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the security_state content library
+summary: Defines the static_library target for the security_state content component, listing content_utils sources and dependencies on core, dom_distiller, and content.

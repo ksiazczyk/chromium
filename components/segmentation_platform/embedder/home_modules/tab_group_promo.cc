@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab group promo card implementation
+// summary: Implements the TabGroupPromo ephemeral card for Chrome Android, using signals such as tab count, sign-in state, and impression history to decide whether to show the tab group promo.
+// ---
+
 #include "components/segmentation_platform/embedder/home_modules/tab_group_promo.h"
 
 #include "base/metrics/field_trial_params.h"

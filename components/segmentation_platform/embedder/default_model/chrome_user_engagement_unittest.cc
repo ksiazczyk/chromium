@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Chrome user engagement model
+// summary: Tests the Chrome user engagement model, verifying bucketed classifier results across engagement levels and error handling for invalid inputs.
+// ---
+
 #include "components/segmentation_platform/embedder/default_model/chrome_user_engagement.h"
 
 #include "components/segmentation_platform/embedder/default_model/default_model_test_base.h"

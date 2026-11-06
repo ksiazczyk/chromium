@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Contextual page actions model unit tests
+// summary: Unit tests verifying model execution and classification results for discounts, price insights, price tracking, reader mode, and tab grouping inputs.
+// ---
+
 #include "components/segmentation_platform/embedder/default_model/contextual_page_actions_model.h"
 
 #include "base/test/scoped_feature_list.h"

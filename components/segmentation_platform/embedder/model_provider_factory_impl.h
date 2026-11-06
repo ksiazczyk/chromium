@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Model provider factory header
+// summary: Declares ModelProviderFactoryImpl for creating model providers and the test-only TestDefaultModelOverride singleton for swapping default providers.
+// ---
+
 #ifndef COMPONENTS_SEGMENTATION_PLATFORM_EMBEDDER_MODEL_PROVIDER_FACTORY_IMPL_H_
 #define COMPONENTS_SEGMENTATION_PLATFORM_EMBEDDER_MODEL_PROVIDER_FACTORY_IMPL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NTP customization ephemeral module unit tests
+// summary: Unit tests verifying module label identification, expected inputs, and card ranking behavior of the NTP customization ephemeral module.
+// ---
+
 #include "components/segmentation_platform/embedder/home_modules/ntp_customization_ephemeral_module.h"
 
 #include "base/test/scoped_feature_list.h"

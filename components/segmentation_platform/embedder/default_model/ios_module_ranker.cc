@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS module ranker model implementation
+// summary: Implements the default and test models that rank iOS MagicStack modules using UMA click and impression metrics over 7 and 28 days.
+// ---
+
 #include "components/segmentation_platform/embedder/default_model/ios_module_ranker.h"
 
 #include <memory>

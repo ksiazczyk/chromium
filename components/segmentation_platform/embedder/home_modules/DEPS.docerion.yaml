@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for home modules
+summary: Defines allowed include rules for send_tab_to_self and signin switches headers in this directory.

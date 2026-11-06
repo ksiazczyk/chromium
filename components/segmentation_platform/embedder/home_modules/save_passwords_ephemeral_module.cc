@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Save passwords ephemeral module implementation
+// summary: Implements the Save Passwords ephemeral module, managing impression and interaction prefs and evaluating required and disqualifying signals for showing the tip.
+// ---
+
 #include "components/segmentation_platform/embedder/home_modules/save_passwords_ephemeral_module.h"
 
 #include <algorithm>

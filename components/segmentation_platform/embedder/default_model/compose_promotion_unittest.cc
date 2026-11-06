@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Compose promotion model unit tests
+// summary: Unit tests for the ComposePromotion default model, checking model initialization and classifier show/dont-show results based on the random label probability.
+// ---
+
 #include "components/segmentation_platform/embedder/default_model/compose_promotion.h"
 
 #include "components/compose/core/browser/config.h"

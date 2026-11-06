@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab rank dispatcher implementation
+// summary: Fetches local and synced tabs, ranks them via segmentation predictions, and records sync session latency and tab count metrics.
+// ---
+
 #include "components/segmentation_platform/embedder/input_delegate/tab_rank_dispatcher.h"
 #include <memory>
 #include <queue>

@@ -1,6 +1,13 @@
 // Copyright 2025 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Tips notifications ranker model implementation
+// summary: Implements the default segmentation model that ranks tips notification candidates such as Enhanced Safe Browsing, Quick Delete, Google Lens, and Signin based on user feature usage.
+// ---
+
 #include "components/segmentation_platform/embedder/default_model/tips_notifications_ranker.h"
 
 #include <memory>

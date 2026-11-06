@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Home modules card registry implementation
+// summary: Implements the home modules card registry, creating platform-specific registries and mapping card labels and signals to model outputs.
+// ---
+
 #include "components/segmentation_platform/embedder/home_modules/home_modules_card_registry.h"
 
 #include <string>

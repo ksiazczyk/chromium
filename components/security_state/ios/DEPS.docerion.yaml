@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: iOS security state include rules
+summary: Declares the directories that the iOS security_state component is allowed to include from.

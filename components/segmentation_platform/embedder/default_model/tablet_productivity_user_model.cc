@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tablet productivity user model implementation
+// summary: Implements the tablet productivity user default model provider with UMA features covering multi-instance, tab group, and drag-drop usage on Android tablets.
+// ---
+
 #include "components/segmentation_platform/embedder/default_model/tablet_productivity_user_model.h"
 
 #include <array>

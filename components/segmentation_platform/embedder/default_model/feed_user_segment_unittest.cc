@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Feed user segment model unit tests
+// summary: Unit tests verifying the Feed user model initializes and classifies inputs based on feed engagement features.
+// ---
+
 #include "components/segmentation_platform/embedder/default_model/feed_user_segment.h"
 
 #include "components/segmentation_platform/embedder/default_model/default_model_test_base.h"

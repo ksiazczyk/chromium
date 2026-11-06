@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Power user segment model implementation
+// summary: Implements the default power user segment model that classifies engagement levels from 28 days of UMA user actions and histogram signals.
+// ---
+
 #include "components/segmentation_platform/embedder/default_model/power_user_segment.h"
 
 #include <array>

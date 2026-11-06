@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Visible security state extraction from WebContents
+// summary: Implements GetVisibleSecurityState, which collects SSL status, mixed content, and page-type flags from the visible navigation entry of a WebContents.
+// ---
+
 #include "components/security_state/content/content_utils.h"
 
 #include <memory>

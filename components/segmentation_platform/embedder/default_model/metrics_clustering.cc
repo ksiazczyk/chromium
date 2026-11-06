@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Metrics clustering segmentation model implementation
+// summary: Implements the MetricsClustering default model that counts active session days from Session.TotalDuration UMA data for the survey page feature.
+// ---
+
 #include "components/segmentation_platform/embedder/default_model/metrics_clustering.h"
 
 #include <memory>

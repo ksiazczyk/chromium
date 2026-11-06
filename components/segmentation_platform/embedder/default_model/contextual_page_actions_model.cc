@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual page actions model
+// summary: Implements the default contextual page actions model that classifies pages for toolbar actions such as discounts, price insights, price tracking, reader mode, and tab grouping.
+// ---
+
 #include "components/segmentation_platform/embedder/default_model/contextual_page_actions_model.h"
 
 #include "base/feature_list.h"

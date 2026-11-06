@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Send Tab notification promo card header
+// summary: Declares the SendTabNotificationPromo class, which defines input labels and ranking logic for the Send Tab To Self notification ephemeral card on the home modules stack.
+// ---
+
 #ifndef COMPONENTS_SEGMENTATION_PLATFORM_EMBEDDER_HOME_MODULES_SEND_TAB_NOTIFICATION_PROMO_H_
 #define COMPONENTS_SEGMENTATION_PLATFORM_EMBEDDER_HOME_MODULES_SEND_TAB_NOTIFICATION_PROMO_H_
 

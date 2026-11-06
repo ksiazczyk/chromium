@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS module ranker model header
+// summary: Declares the IosModuleRanker and TestIosModuleRanker providers that rank iOS MagicStack modules such as Most Visited Tiles and Shortcuts.
+// ---
+
 #ifndef COMPONENTS_SEGMENTATION_PLATFORM_EMBEDDER_DEFAULT_MODEL_IOS_MODULE_RANKER_H_
 #define COMPONENTS_SEGMENTATION_PLATFORM_EMBEDDER_DEFAULT_MODEL_IOS_MODULE_RANKER_H_
 

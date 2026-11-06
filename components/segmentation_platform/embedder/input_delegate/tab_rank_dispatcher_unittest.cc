@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab rank dispatcher unit tests
+// summary: Unit tests for TabRankDispatcher covering tab ranking with mocked session sync and segmentation platform services.
+// ---
+
 #include "components/segmentation_platform/embedder/input_delegate/tab_rank_dispatcher.h"
 
 #include <memory>

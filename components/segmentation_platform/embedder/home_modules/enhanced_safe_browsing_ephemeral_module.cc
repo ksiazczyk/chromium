@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enhanced Safe Browsing ephemeral module implementation
+// summary: Implements the Enhanced Safe Browsing tip module, gating visibility on required signals, impressions and interactions.
+// ---
+
 #include "components/segmentation_platform/embedder/home_modules/enhanced_safe_browsing_ephemeral_module.h"
 
 #include <algorithm>

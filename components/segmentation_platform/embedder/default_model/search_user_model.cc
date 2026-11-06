@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search user model implementation
+// summary: Implements the default search user segment model using omnibox suggestion usage and page load UKM signals, gated by a feature flag.
+// ---
+
 #include "components/segmentation_platform/embedder/default_model/search_user_model.h"
 
 #include <array>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History sync promo card declarations
+// summary: Declares the HistorySyncPromo card class that decides when to show the history sync promo based on eligibility and interaction history.
+// ---
+
 #ifndef COMPONENTS_SEGMENTATION_PLATFORM_EMBEDDER_HOME_MODULES_HISTORY_SYNC_PROMO_H_
 #define COMPONENTS_SEGMENTATION_PLATFORM_EMBEDDER_HOME_MODULES_HISTORY_SYNC_PROMO_H_
 

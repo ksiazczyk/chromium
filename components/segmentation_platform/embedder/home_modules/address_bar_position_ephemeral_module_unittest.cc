@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the address bar position ephemeral module
+// summary: Tests module label detection, expected inputs, and card result computation for the address bar position module.
+// ---
+
 #include "components/segmentation_platform/embedder/home_modules/address_bar_position_ephemeral_module.h"
 
 #include "base/test/scoped_feature_list.h"

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for tips_manager
+summary: Declares allowed include dependencies on the pref_registry and sync_preferences components for the tips_manager directory.

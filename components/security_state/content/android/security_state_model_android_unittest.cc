@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Android security state model bridge
+// summary: Tests the internal security level and malicious content status functions using mock clients, mock delegates, and test web contents.
+// ---
+
 #include <memory>
 
 #include "base/memory/raw_ptr.h"

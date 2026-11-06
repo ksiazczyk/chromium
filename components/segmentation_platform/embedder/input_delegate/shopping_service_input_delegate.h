@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shopping service input delegate class declaration
+// summary: Declares the ShoppingServiceInputDelegate class, an InputDelegate that supplies shopping bookmark counts as custom model input.
+// ---
+
 #ifndef COMPONENTS_SEGMENTATION_PLATFORM_EMBEDDER_INPUT_DELEGATE_SHOPPING_SERVICE_INPUT_DELEGATE_H_
 #define COMPONENTS_SEGMENTATION_PLATFORM_EMBEDDER_INPUT_DELEGATE_SHOPPING_SERVICE_INPUT_DELEGATE_H_
 

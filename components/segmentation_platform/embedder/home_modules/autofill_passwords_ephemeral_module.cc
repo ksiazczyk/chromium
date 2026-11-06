@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill passwords ephemeral module implementation
+// summary: Implements the Magic Stack module for the autofill passwords tip, gated by required signals and impression counters.
+// ---
+
 #include "components/segmentation_platform/embedder/home_modules/autofill_passwords_ephemeral_module.h"
 
 #include <algorithm>

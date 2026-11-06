@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android home module ranker model header
+// summary: Declares the AndroidHomeModuleRanker default model provider class that predicts user membership in the Android home module ranker segment.
+// ---
+
 #ifndef COMPONENTS_SEGMENTATION_PLATFORM_EMBEDDER_DEFAULT_MODEL_ANDROID_HOME_MODULE_RANKER_H_
 #define COMPONENTS_SEGMENTATION_PLATFORM_EMBEDDER_DEFAULT_MODEL_ANDROID_HOME_MODULE_RANKER_H_
 

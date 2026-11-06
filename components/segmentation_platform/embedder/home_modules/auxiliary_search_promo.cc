@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Auxiliary search promo implementation
+// summary: Implements selection logic for the auxiliary search promo card, including impression and interaction prefs, once-per-session display, and force-show field trial parameters.
+// ---
+
 #include "components/segmentation_platform/embedder/home_modules/auxiliary_search_promo.h"
 
 #include <optional>

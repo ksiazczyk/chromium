@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tip identifier mapping for home module output labels
+// summary: Maps segmentation output labels to tip identifiers and back for the ephemeral home module cards.
+// ---
+
 #include "components/segmentation_platform/embedder/home_modules/constants.h"
 
 #include "components/segmentation_platform/embedder/home_modules/tips_manager/constants.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tips manager constants and tip identifier enums
+// summary: Defines the TipIdentifier and TipPresentationContext enums, the ephemeral card impression limit, and keys for the tips signal history dictionary pref.
+// ---
+
 #ifndef COMPONENTS_SEGMENTATION_PLATFORM_EMBEDDER_HOME_MODULES_TIPS_MANAGER_CONSTANTS_H_
 #define COMPONENTS_SEGMENTATION_PLATFORM_EMBEDDER_HOME_MODULES_TIPS_MANAGER_CONSTANTS_H_
 

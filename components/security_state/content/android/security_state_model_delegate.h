@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SecurityStateModelDelegate interface header
+// summary: Declares the delegate interface providing security level, malicious content status, and visible security state for web contents.
+// ---
+
 #include <memory>
 
 #include "components/security_state/core/security_state.h"

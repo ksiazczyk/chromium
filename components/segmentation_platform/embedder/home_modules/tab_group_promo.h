@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab group promo card header
+// summary: Declares the TabGroupPromo class, an ephemeral home module that determines whether the tab group promo card should be shown based on enable signals and user interaction history.
+// ---
+
 #ifndef COMPONENTS_SEGMENTATION_PLATFORM_EMBEDDER_HOME_MODULES_TAB_GROUP_PROMO_H_
 #define COMPONENTS_SEGMENTATION_PLATFORM_EMBEDDER_HOME_MODULES_TAB_GROUP_PROMO_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include dependency rules for security_state content
+summary: Specifies allowed include dependencies for the directory, with special rules for the browser test and unit test files.

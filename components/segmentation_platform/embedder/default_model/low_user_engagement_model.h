@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Low user engagement model header
+// summary: Declares the LowUserEngagementModel provider supplying the default model and metadata for the low user engagement optimization target.
+// ---
+
 #ifndef COMPONENTS_SEGMENTATION_PLATFORM_EMBEDDER_DEFAULT_MODEL_LOW_USER_ENGAGEMENT_MODEL_H_
 #define COMPONENTS_SEGMENTATION_PLATFORM_EMBEDDER_DEFAULT_MODEL_LOW_USER_ENGAGEMENT_MODEL_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Segmentation platform dependency rules
+summary: Defines include rules that allow or block dependencies such as history, prefs, UKM, and TFLite for the component.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome user engagement segment model header
+// summary: Declares the ChromeUserEngagement default model provider class and its feature flag for the Chrome user engagement segment.
+// ---
+
 #ifndef COMPONENTS_SEGMENTATION_PLATFORM_EMBEDDER_DEFAULT_MODEL_CHROME_USER_ENGAGEMENT_H_
 #define COMPONENTS_SEGMENTATION_PLATFORM_EMBEDDER_DEFAULT_MODEL_CHROME_USER_ENGAGEMENT_H_
 

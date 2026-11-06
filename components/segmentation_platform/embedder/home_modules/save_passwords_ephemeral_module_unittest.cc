@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Save passwords ephemeral module unit tests
+// summary: Unit tests for SavePasswordsEphemeralModule, covering module label validation, output labels, expected inputs, and card result computation for the save passwords promo card.
+// ---
+
 #include "components/segmentation_platform/embedder/home_modules/save_passwords_ephemeral_module.h"
 
 #include "base/test/scoped_feature_list.h"

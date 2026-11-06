@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: iOS module ranker unit tests
+// summary: Tests the iOS module ranker's model initialization and ranking order under default, all-module, and freshness-only inputs.
+// ---
+
 #include "components/segmentation_platform/embedder/default_model/ios_module_ranker.h"
 
 #include "components/segmentation_platform/embedder/default_model/default_model_test_base.h"

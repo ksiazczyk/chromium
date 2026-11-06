@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ephemeral home module backend unit tests
+// summary: Unit tests exercising model initialization and execution of the ephemeral home module backend using a test card registry and test card info.
+// ---
+
 #include "components/segmentation_platform/embedder/home_modules/ephemeral_home_module_backend.h"
 
 #include "base/test/scoped_feature_list.h"

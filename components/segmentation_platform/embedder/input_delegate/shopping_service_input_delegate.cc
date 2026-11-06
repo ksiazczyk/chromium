@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shopping service input delegate implementation
+// summary: Implements an input delegate that feeds the count of shopping bookmarks from the ShoppingService into segmentation platform models as a tensor.
+// ---
+
 #include "components/segmentation_platform/embedder/input_delegate/shopping_service_input_delegate.h"
 
 namespace segmentation_platform {

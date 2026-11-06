@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab session source class declaration
+// summary: Declares TabSessionSource, the input delegate that fills tab metrics for CustomInput::FILL_TAB_METRICS, with input index constants.
+// ---
+
 #ifndef COMPONENTS_SEGMENTATION_PLATFORM_EMBEDDER_INPUT_DELEGATE_TAB_SESSION_SOURCE_H_
 #define COMPONENTS_SEGMENTATION_PLATFORM_EMBEDDER_INPUT_DELEGATE_TAB_SESSION_SOURCE_H_
 

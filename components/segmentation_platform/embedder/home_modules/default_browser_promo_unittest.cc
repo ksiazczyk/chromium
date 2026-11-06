@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Default browser promo card unit tests
+// summary: Unit tests verifying the inputs and card result computation of the Android default browser promo card.
+// ---
+
 #include "components/segmentation_platform/embedder/home_modules/default_browser_promo.h"
 
 #include "components/prefs/testing_pref_service.h"

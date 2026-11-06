@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for default segmentation models
+summary: Defines the default_model static library with its sources and dependencies, plus the unit_tests source_set for the segmentation platform embedder.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cross device user segment model
+// summary: Implements the cross device user segment default model that classifies users by synced device counts across phone, desktop, and tablet.
+// ---
+
 #include "components/segmentation_platform/embedder/default_model/cross_device_user_segment.h"
 
 #include <array>

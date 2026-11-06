@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: History sync promo unit tests
+// summary: Unit tests verifying that the history sync promo card is shown or hidden based on eligibility, prior interaction, and impression limits.
+// ---
+
 #include "components/segmentation_platform/embedder/home_modules/history_sync_promo.h"
 
 #include "components/prefs/testing_pref_service.h"

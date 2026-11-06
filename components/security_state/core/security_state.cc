@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Security level computation implementation
+// summary: Implements GetSecurityLevel and helpers that map visible security state, certificate errors, mixed content, and malicious content to security levels.
+// ---
+
 #include "components/security_state/core/security_state.h"
 
 #include <stdint.h>

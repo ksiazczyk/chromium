@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Quick delete promo unit tests
+// summary: Tests the quick delete promo's expected inputs, card result ranking for various browsing data clearing scenarios, and impression handling.
+// ---
+
 #include "components/segmentation_platform/embedder/home_modules/quick_delete_promo.h"
 
 #include "components/prefs/testing_pref_service.h"

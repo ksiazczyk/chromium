@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Most visited tiles user segmentation model implementation
+// summary: Implements the MostVisitedTilesUser model that bins users by MobileNTPMostVisited usage into None, Low, Medium, and High segments.
+// ---
+
 #include "components/segmentation_platform/embedder/default_model/most_visited_tiles_user.h"
 
 #include <memory>

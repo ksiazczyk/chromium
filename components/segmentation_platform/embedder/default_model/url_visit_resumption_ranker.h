@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL visit resumption ranker header
+// summary: Declares the URLVisitResumptionRanker default model provider that supplies scores for tab resumption.
+// ---
+
 #ifndef COMPONENTS_SEGMENTATION_PLATFORM_EMBEDDER_DEFAULT_MODEL_URL_VISIT_RESUMPTION_RANKER_H_
 #define COMPONENTS_SEGMENTATION_PLATFORM_EMBEDDER_DEFAULT_MODEL_URL_VISIT_RESUMPTION_RANKER_H_
 

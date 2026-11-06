@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill passwords ephemeral module header
+// summary: Declares the AutofillPasswordsEphemeralModule class that decides whether the Autofill Passwords tip is shown in the Magic Stack based on user signals and interaction history.
+// ---
+
 #ifndef COMPONENTS_SEGMENTATION_PLATFORM_EMBEDDER_HOME_MODULES_AUTOFILL_PASSWORDS_EPHEMERAL_MODULE_H_
 #define COMPONENTS_SEGMENTATION_PLATFORM_EMBEDDER_HOME_MODULES_AUTOFILL_PASSWORDS_EPHEMERAL_MODULE_H_
 

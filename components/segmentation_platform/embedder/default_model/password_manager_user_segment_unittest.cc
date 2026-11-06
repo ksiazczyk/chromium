@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Password manager user segment model unit tests
+// summary: Tests the password manager user model's initialization and classification of positive and negative inputs against the stored password threshold.
+// ---
+
 #include "components/segmentation_platform/embedder/default_model/password_manager_user_segment.h"
 
 #include "components/segmentation_platform/embedder/default_model/default_model_test_base.h"

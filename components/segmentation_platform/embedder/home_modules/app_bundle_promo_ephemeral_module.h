@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App bundle promo ephemeral module header
+// summary: Declares the AppBundlePromoEphemeralModule class and constants for impression limits and the installed app count signal.
+// ---
+
 #ifndef COMPONENTS_SEGMENTATION_PLATFORM_EMBEDDER_HOME_MODULES_APP_BUNDLE_PROMO_EPHEMERAL_MODULE_H_
 #define COMPONENTS_SEGMENTATION_PLATFORM_EMBEDDER_HOME_MODULES_APP_BUNDLE_PROMO_EPHEMERAL_MODULE_H_
 

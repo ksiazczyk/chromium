@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Device switcher result dispatcher unit tests
+// summary: Unit tests covering the result dispatcher's caching, waiting, timeout and field trial registration behavior using fake device info and mock services.
+// ---
+
 #include "components/segmentation_platform/embedder/default_model/device_switcher_result_dispatcher.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shopping user model unit tests
+// summary: Unit tests checking shopping user classification results and invalid input handling for the shopping user model.
+// ---
+
 #include "components/segmentation_platform/embedder/default_model/shopping_user_model.h"
 
 #include "components/segmentation_platform/embedder/default_model/default_model_test_base.h"

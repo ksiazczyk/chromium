@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device switcher result dispatcher implementation
+// summary: Implements a helper that caches device switcher classification results in prefs, refreshes them on device info changes and registers related field trials.
+// ---
+
 #include "components/segmentation_platform/embedder/default_model/device_switcher_result_dispatcher.h"
 
 #include "base/feature_list.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab group sync promo card header
+// summary: Declares the TabGroupSyncPromo class, an ephemeral home module that determines whether the tab group sync promo card should be shown based on signals and interaction history.
+// ---
+
 #ifndef COMPONENTS_SEGMENTATION_PLATFORM_EMBEDDER_HOME_MODULES_TAB_GROUP_SYNC_PROMO_H_
 #define COMPONENTS_SEGMENTATION_PLATFORM_EMBEDDER_HOME_MODULES_TAB_GROUP_SYNC_PROMO_H_
 

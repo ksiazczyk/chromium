@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Optimization target segmentation dummy model unit tests
+// summary: Unit tests verifying init, fetch, and the constant execution result of the dummy optimization target segmentation model.
+// ---
+
 #include "components/segmentation_platform/embedder/default_model/optimization_target_segmentation_dummy.h"
 
 #include "components/segmentation_platform/embedder/default_model/default_model_test_base.h"

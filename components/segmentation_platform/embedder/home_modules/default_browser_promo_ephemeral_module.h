@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS default browser promo ephemeral module declaration
+// summary: Declares the DefaultBrowserPromoEphemeralModule class for the Magic Stack default browser promo card on iOS.
+// ---
+
 #ifndef COMPONENTS_SEGMENTATION_PLATFORM_EMBEDDER_HOME_MODULES_DEFAULT_BROWSER_PROMO_EPHEMERAL_MODULE_H_
 #define COMPONENTS_SEGMENTATION_PLATFORM_EMBEDDER_HOME_MODULES_DEFAULT_BROWSER_PROMO_EPHEMERAL_MODULE_H_
 

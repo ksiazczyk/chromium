@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab fetcher interface
+// summary: Declares the TabFetcher interface for enumerating local and remote tabs and resolving tab entries to URLs and modification times.
+// ---
+
 #ifndef COMPONENTS_SEGMENTATION_PLATFORM_EMBEDDER_TAB_FETCHER_H_
 #define COMPONENTS_SEGMENTATION_PLATFORM_EMBEDDER_TAB_FETCHER_H_
 

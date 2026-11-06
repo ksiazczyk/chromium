@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick delete promo implementation
+// summary: Implements the Quick Delete promo ephemeral home module, registering impression and interaction prefs and computing card results from browsing data clearing and sign-in signals.
+// ---
+
 #include "components/segmentation_platform/embedder/home_modules/quick_delete_promo.h"
 
 #include "base/metrics/field_trial_params.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SecurityStateClient class header
+// summary: Declares the SecurityStateClient interface and free functions for registering a client and obtaining its SecurityStateModelDelegate.
+// ---
+
 #ifndef COMPONENTS_SECURITY_STATE_CONTENT_ANDROID_SECURITY_STATE_CLIENT_H_
 #define COMPONENTS_SECURITY_STATE_CONTENT_ANDROID_SECURITY_STATE_CLIENT_H_
 

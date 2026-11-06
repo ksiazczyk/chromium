@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Default browser promo ephemeral module unit tests
+// summary: Unit tests verifying inputs, card result ranking and impression limits for the iOS default browser promo ephemeral module.
+// ---
+
 #include "components/segmentation_platform/embedder/home_modules/default_browser_promo_ephemeral_module.h"
 
 #include "base/test/scoped_feature_list.h"

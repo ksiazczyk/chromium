@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enhanced Safe Browsing ephemeral module declaration
+// summary: Declares the EnhancedSafeBrowsingEphemeralModule class that decides when the Enhanced Safe Browsing tip is shown.
+// ---
+
 #ifndef COMPONENTS_SEGMENTATION_PLATFORM_EMBEDDER_HOME_MODULES_ENHANCED_SAFE_BROWSING_EPHEMERAL_MODULE_H_
 #define COMPONENTS_SEGMENTATION_PLATFORM_EMBEDDER_HOME_MODULES_ENHANCED_SAFE_BROWSING_EPHEMERAL_MODULE_H_
 

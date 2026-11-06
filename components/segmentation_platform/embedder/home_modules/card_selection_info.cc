@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Card selection info implementation
+// summary: Implements CardSelectionInfo constructors, the ShowResult struct, and default output labels for ephemeral home module cards.
+// ---
+
 #include "components/segmentation_platform/embedder/home_modules/card_selection_info.h"
 
 namespace segmentation_platform::home_modules {

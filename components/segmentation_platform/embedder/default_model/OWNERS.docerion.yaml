@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Per-file OWNERS rule for tips notifications ranker
+summary: Delegates review ownership of tips_notifications_ranker files to the notification scheduler OWNERS.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Metrics clustering model unit tests
+// summary: Unit tests checking model init and fetch plus execution with active and inactive 14-day inputs for the MetricsClustering model.
+// ---
+
 #include "components/segmentation_platform/embedder/default_model/metrics_clustering.h"
 
 #include "components/segmentation_platform/embedder/default_model/default_model_test_base.h"

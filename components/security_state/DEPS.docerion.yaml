@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for security_state
+summary: Defines the include dependencies allowed for the security_state component, such as net, services/network/public/cpp, and blink public mojom.

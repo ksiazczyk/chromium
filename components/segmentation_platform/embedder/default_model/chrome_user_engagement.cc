@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome user engagement segment model implementation
+// summary: Implements the Chrome user engagement segmentation model that buckets users by session duration into None, OneDay, Low, Medium and Power engagement groups.
+// ---
+
 #include "components/segmentation_platform/embedder/default_model/chrome_user_engagement.h"
 
 #include <memory>

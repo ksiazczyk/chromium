@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History sync promo card implementation
+// summary: Implements the history sync promo ephemeral card, defining its signals, impression counters, and eligibility rules for showing the promo.
+// ---
+
 #include "components/segmentation_platform/embedder/home_modules/history_sync_promo.h"
 
 #include "base/metrics/field_trial_params.h"

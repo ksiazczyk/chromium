@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Compose promotion segment model implementation
+// summary: Implements the Compose promotion segmentation model that randomly decides whether to show the Compose proactive nudge based on a configured probability.
+// ---
+
 #include "components/segmentation_platform/embedder/default_model/compose_promotion.h"
 
 #include <memory>

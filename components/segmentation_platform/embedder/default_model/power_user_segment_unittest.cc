@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Power user segment model unit tests
+// summary: Verifies the power user model returns None, Low, Medium and High labels for progressively stronger feature inputs and rejects invalid inputs.
+// ---
+
 #include "components/segmentation_platform/embedder/default_model/power_user_segment.h"
 
 #include "components/segmentation_platform/embedder/default_model/default_model_test_base.h"

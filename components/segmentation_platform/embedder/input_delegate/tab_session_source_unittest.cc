@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab session source unit tests
+// summary: Unit tests for TabSessionSource verifying tab metric tensor generation using fake synced sessions and a mock session sync service.
+// ---
+
 #include "components/segmentation_platform/embedder/input_delegate/tab_session_source.h"
 
 #include <math.h>

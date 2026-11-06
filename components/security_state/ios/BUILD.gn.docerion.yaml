@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: iOS security state build targets
+summary: Defines the iOS security_state component sources and its unit test source_set with their build dependencies.
