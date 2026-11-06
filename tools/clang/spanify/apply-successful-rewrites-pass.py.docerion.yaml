@@ -1,0 +1,4 @@
+# Docerion header of apply-successful-rewrites-pass.py.
+type: script
+title: Apply successful Spanifier rewrites
+summary: Applies patches marked as passing by evaluate_patches.py, collecting their edits from the scratch directory into the source tree.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Spanify paren expression expected test
+// summary: Expected output of the spanify test checking that parenthesized index expressions are rewritten to subspan without crashing.
+// ---
+
 #include <cstdint>
 #include <vector>
 

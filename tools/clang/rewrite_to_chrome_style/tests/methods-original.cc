@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Method renaming test input for rewrite_to_chrome_style
+// summary: Blink-style method declarations and calls used as input to verify the Clang tool renames Blink methods to Chrome style while skipping operators, begin/end and overrides outside Blink.
+// ---
+
 #include "gen/thing.h"
 
 namespace v8 {

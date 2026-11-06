@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: 'Class inheritance test: original input'
+// summary: Original input for the class inheritance test, using raw char pointers in virtual methods and factory functions that should be rewritten to SkSpan<char>.
+// ---
+
 #include <vector>
 
 class SkRawStream {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: raw-ptr-fields original test input
+// summary: Original spanify test input covering rewrites of raw_ptr fields, out-of-line templates, and pointer usage into base::span.
+// ---
+
 #include "base/memory/raw_ptr.h"
 
 struct S {

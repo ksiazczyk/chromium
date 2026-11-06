@@ -1,0 +1,4 @@
+# Docerion header of remove-unneeded-pragmas.py.
+type: script
+title: Remove unneeded unsafe buffers pragmas
+summary: Script that finds files carrying the allow_unsafe_buffers pragma and removes it from files whose unsafe buffer usage has been fixed by spanification.

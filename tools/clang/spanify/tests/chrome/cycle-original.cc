@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: 'Spanify test input: cyclic buffer dependencies'
+// summary: Input with int* variables forming assignment cycles to test how the spanifier handles cyclic buffer dependencies.
+// ---
+
 #include <tuple>
 
 #include "third_party/do_not_rewrite/third_party_api.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: 'Spanify test input: class inheritance with out-of-line method'
+// summary: Input with a virtual function taking char* and an out-of-line override, exercising span rewriting across an inheritance hierarchy.
+// ---
+
 #include <vector>
 
 int UnsafeIndex();  // This function might return an out-of-bound index.

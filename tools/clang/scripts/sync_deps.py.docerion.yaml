@@ -1,0 +1,4 @@
+# Docerion header of sync_deps.py.
+type: script
+title: Sync Clang and Rust revisions with DEPS
+summary: Updates the DEPS entries for Clang and Rust toolchain packages to match the revisions defined in update.py and update_rust.py.

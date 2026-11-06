@@ -1,6 +1,13 @@
 // Copyright 2026 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Spanify test input for implicit casts
+// summary: Original test input using raw pointer assignment and short-typed offset arithmetic to exercise spanify implicit-cast rewrites.
+// ---
+
 #include <vector>
 
 short get_offset() {

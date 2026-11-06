@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Spanify original test input for pointers into C-style arrays (issue 402806166)
+// summary: Original input for the spanify tool testing rewrites of pointers into C-style arrays, including call-site rewrites, subspan offsets and raw_ptr usage, tracked as issue 402806166.
+// ---
+
 #include <algorithm>
 
 #include "base/memory/raw_ptr.h"

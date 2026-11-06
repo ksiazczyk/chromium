@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock raw_ptr header for spanify tests
+// summary: Provides a no-op mock of base::raw_ptr with pointer traits and arithmetic operators, serving as a test fixture for the spanify clang tool's tests.
+// ---
+
 #ifndef TOOLS_CLANG_SPANIFY_TESTS_CHROME_BASE_MEMORY_RAW_PTR_H_
 #define TOOLS_CLANG_SPANIFY_TESTS_CHROME_BASE_MEMORY_RAW_PTR_H_
 

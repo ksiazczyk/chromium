@@ -1,0 +1,4 @@
+# Docerion header of rewrite_multiple_platforms.py.
+type: script
+title: Run spanify rewrites across multiple platforms
+summary: Script that builds the spanify rewriter and runs Chromium spanification rewrites across the configured platforms and GN configurations.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Span frontier basic test, original input
+// summary: Original C++ input for the basic span frontier test using raw pointers into std::vector buffers.
+// ---
+
 #include <vector>
 
 // Test the frontier change are applied correctly. Below, there are 3 kinds of

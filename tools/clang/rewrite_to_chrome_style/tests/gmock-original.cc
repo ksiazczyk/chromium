@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Original gmock test input for Chrome style rewriter
+// summary: Blink-style gmock test input verifying renaming inside MOCK_METHOD macros and EXPECT_CALL and ON_CALL matchers.
+// ---
+
 #include "gmock/gmock.h"
 
 namespace blink {

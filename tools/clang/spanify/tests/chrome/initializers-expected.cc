@@ -1,6 +1,13 @@
 // Copyright 2024 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Initializers expected output
+// summary: Expected spanify output showing rewrites of constructors, members, and initializers to base::span and raw_span types.
+// ---
+
 #include <utility>
 #include <vector>
 

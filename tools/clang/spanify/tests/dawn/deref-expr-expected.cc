@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Spanify dereference expression test, expected output
+// summary: Expected spanify rewrite for Dawn dereference expressions, converting a struct member, function parameter, and return values to dawn::Span<char>.
+// ---
+
 #include <vector>
 
 #include "src/utils/span.h"

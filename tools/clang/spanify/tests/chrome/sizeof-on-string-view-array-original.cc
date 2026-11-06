@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sizeof on string-view array test, original input
+// summary: Original C++ input verifying that const char arrays used in sizeof are not converted to string views during spanification.
+// ---
+
 #include <tuple>
 
 int UnsafeIndex();  // This function might return an out-of-bound index.

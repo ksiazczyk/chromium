@@ -1,0 +1,4 @@
+# Docerion header of gnconfigs.py.
+type: source
+title: GN build configuration presets
+summary: Provides GN argument sets for various Chromium builders and platforms consumed by the spanify scripts.

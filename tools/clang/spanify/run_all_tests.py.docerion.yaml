@@ -1,0 +1,4 @@
+# Docerion header of run_all_tests.py.
+type: test
+title: Run spanify tool tests
+summary: Test runner that applies the spanify tool to per-project test files and compares the actual rewrite results against the expected files.

@@ -1,0 +1,4 @@
+# Docerion header of build.py.
+type: script
+title: Clang build script
+summary: Builds clang binaries from LLVM source to create the prebuilt packages downloaded by update.py.

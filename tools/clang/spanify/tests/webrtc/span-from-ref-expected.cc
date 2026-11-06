@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Expected spanify output for the span-from-ref case
+// summary: Expected spanify output showing that converting a reference to a single int is unavailable, so the pointer parameter stays unchanged.
+// ---
+
 #include <span>
 #include <tuple>
 

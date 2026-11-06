@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Spanify basics test, original input
+// summary: Original input for the Dawn basics spanify test, using an int* pointer into a buffer that the tool is expected to rewrite to dawn::Span<int>.
+// ---
+
 namespace dawn::internal {
 
 void fct() {

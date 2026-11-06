@@ -7,6 +7,12 @@
 // The increments are rewritten using only the span's own `subspan()` and the
 // standard library, so no project-specific helper is needed.
 
+// ---docerion
+// type: test
+// title: 'Post-increment span test: original input'
+// summary: Original input for the post-increment test, copying buffers with pointer increments on raw int pointers that the tool should rewrite using subspan.
+// ---
+
 // Expected rewrite:
 // void copy(SkSpan<int> dst, SkSpan<int> src, int count) {
 //   while (count-- > 0) {

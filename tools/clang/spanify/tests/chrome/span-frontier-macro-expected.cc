@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Span frontier macro test, expected output
+// summary: Expected output for the macro-related span frontier test, documenting cases where spanification is aborted or adjusted around macros.
+// ---
+
 #include <tuple>
 #include <vector>
 

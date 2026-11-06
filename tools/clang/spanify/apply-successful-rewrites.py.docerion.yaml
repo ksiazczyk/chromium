@@ -1,0 +1,4 @@
+# Docerion header of apply-successful-rewrites.py.
+type: script
+title: Apply and validate spanification patches across platforms
+summary: Applies spanification patches, compiles them across GN platform configurations, and caches results to produce a merged patch likely to build on bots.

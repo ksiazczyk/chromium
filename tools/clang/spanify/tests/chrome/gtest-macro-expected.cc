@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Spanify expected output for gtest macro handling
+// summary: Expected spanify rewrite showing EXPECT_EQ-family macros being converted to span-based code while custom and non-allow-listed macros stay unchanged.
+// ---
+
 #include <array>
 #include <cstring>
 #include <tuple>

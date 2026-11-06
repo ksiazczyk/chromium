@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: 'Spanify test expected output: class inheritance with out-of-line method'
+// summary: Expected result of rewriting a char* virtual method parameter and its out-of-line derived override to base::span<char>.
+// ---
+
 #include <vector>
 
 #include "base/containers/span.h"

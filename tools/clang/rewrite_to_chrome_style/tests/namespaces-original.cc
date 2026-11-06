@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Namespace renaming test input
+// summary: Blink-style test case verifying the tool renames functions in blink and WTF namespaces, including nested ones, but leaves identifiers in other namespaces alone.
+// ---
+
 namespace blink {
 
 // Stuff in blink:: should be renamed.

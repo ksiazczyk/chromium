@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Spanify test input for temporary unnamed span issue
+// summary: Original C++ test case checking spanification of a static char buffer returned as a string_view with an offset.
+// ---
+
 #include <cstdint>
 #include <string_view>
 

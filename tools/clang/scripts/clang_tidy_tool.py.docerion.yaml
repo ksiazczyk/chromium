@@ -1,0 +1,4 @@
+# Docerion header of clang_tidy_tool.py.
+type: script
+title: Clang-tidy fetch, build and run tool
+summary: Automates fetching, building, and running clang-tidy from source, either on whole ninja targets or on changes from a diff.

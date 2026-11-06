@@ -1,0 +1,4 @@
+# Docerion header of upload-rewrites.py.
+type: script
+title: Upload spanification rewrites to Gerrit
+summary: Script that refines automatic spanification patches, runs AI-assisted memory safety fixes, commits compiler fixes, and uploads the rewrites to Gerrit.

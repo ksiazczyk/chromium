@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Function pointer variable spanify test, original input
+// summary: Original code with function pointer variables and typedefs using raw pointers that the spanify tool should convert to base::span types.
+// ---
+
 #include "base/memory/raw_ptr.h"
 
 int UnsafeIndex();  // This function might return an out-of-bound index.

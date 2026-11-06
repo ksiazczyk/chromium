@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Function declaration spanify tests, expected output
+// summary: Expected spanified output covering function declarations, virtual methods, inheritance and third-party interfaces that should not be rewritten.
+// ---
+
 #include <array>
 #include <vector>
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Function declaration spanify tests, original input
+// summary: Original pointer-based declarations of functions, methods and overrides that the spanify tool should convert to base::span signatures.
+// ---
+
 #include <vector>
 
 #include "base/memory/raw_ptr.h"

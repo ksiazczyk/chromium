@@ -1,0 +1,4 @@
+# Docerion header of process_crashreports_test.py.
+type: test
+title: Tests for the Clang crash report processing script
+summary: Unit tests verifying that process_crashreports.py handles local and RBE crash reports and uploads archives to Google Cloud Storage.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Original input for constants test
+// summary: Blink-style input for the constants test, exercising renaming of global, static, and function-local constants.
+// ---
+
 namespace blink {
 
 // Simple global constants.

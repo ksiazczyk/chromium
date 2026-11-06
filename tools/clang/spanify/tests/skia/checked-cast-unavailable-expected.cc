@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: 'Checked-cast-unavailable test: expected rewrite'
+// summary: Expected rewrite mimicking a Skia scenario where an int offset in pointer arithmetic is converted with SkTo<size_t> because base::checked_cast is unavailable.
+// ---
+
 #include <cstdint>
 #include <cstring>
 

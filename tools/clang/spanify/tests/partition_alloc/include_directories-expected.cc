@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Spanify test expected output covering include directory handling
+// summary: Expected spanify output showing required includes and span rewrites for safe conversions, subspan, and member pointers.
+// ---
+
 #include <cstdint>
 #include <utility>
 

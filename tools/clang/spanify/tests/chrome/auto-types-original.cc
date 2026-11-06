@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Spanify test input for auto-typed pointers
+// summary: Original auto-typed pointer code for the spanify auto-types test, with TODO comments marking cases the tool does not yet support.
+// ---
+
 #include <tuple>
 
 #include "base/memory/raw_ptr.h"

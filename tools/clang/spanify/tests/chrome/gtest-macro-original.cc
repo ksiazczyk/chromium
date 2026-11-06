@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Spanify test input for gtest macro handling
+// summary: Original test input with raw pointer arithmetic inside gtest-style macros, used to verify which macros the spanify rewriter may modify.
+// ---
+
 #include <cstring>
 #include <tuple>
 

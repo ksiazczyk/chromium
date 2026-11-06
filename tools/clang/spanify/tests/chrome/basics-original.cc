@@ -1,6 +1,13 @@
 // Copyright 2024 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Spanify test input covering basic pointer-to-span rewrites
+// summary: Original pointer-based code for the spanify basics test, covering classes, casts and malloc usage with comments describing the expected span rewrites.
+// ---
+
 #include <stdlib.h>
 
 #include <cstdint>

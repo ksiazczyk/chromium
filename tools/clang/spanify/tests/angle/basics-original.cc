@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Spanify ANGLE basics original input
+// summary: Input with raw pointers and C arrays used to test basic ANGLE spanification of vectors, macros, struct arrays and static const arrays.
+// ---
+
 #include <vector>
 
 void f() {

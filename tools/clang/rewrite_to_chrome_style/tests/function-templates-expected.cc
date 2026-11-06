@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Expected output for function-templates test
+// summary: Expected Chrome-style output of the function-templates test, covering renaming inside WTF and mojo templates.
+// ---
+
 namespace WTF {
 
 template <typename To, typename From>

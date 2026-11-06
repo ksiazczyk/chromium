@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Array external call original input
+// summary: Input fixture with raw C arrays and pointer-based calls used to test spanify rewrites at external call sites, paired with an expected output file.
+// ---
+
 #include <cstdint>
 #include <cstring>
 #include <iterator>

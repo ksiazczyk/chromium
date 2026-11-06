@@ -28,6 +28,12 @@
 //         └── another_ns (ns)
 //             └── level_5()   <----- '::partition_alloc::internal::base::span'
 
+// ---docerion
+// type: test
+// title: Spanify input for shadowing namespaces
+// summary: Input for the spanify shadowing-namespace test with identically named namespaces in different branches of the tree.
+// ---
+
 namespace partition_alloc {
 
 namespace internal::another_ns {

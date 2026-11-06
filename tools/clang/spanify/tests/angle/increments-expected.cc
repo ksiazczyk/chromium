@@ -5,6 +5,12 @@
 // Increments are rewritten with the span's own `subspan()`, as in every other
 // project.
 
+// ---docerion
+// type: test
+// title: Spanify ANGLE increments expected output
+// summary: Expected output showing pointer increments rewritten with subspan() in loops, comma expressions and unsafe-buffer macros.
+// ---
+
 #include "common/span.h"
 
 int Sum(angle::Span<const int> values, int count) {

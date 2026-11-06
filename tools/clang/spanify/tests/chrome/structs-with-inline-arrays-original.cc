@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Spanify structs with inline arrays test input
+// summary: Original test source declaring structs, classes and unions as inline arrays to trigger spanification.
+// ---
+
 #include <tuple>
 
 // Expected rewrite:

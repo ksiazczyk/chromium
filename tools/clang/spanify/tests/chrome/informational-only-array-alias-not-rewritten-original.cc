@@ -5,6 +5,12 @@
 // This test is informational and documents a pattern not handled by
 // `spanify` which is thankfully rarely used in Chromium.
 
+// ---docerion
+// type: test
+// title: Informational array alias not rewritten test input
+// summary: Original test input documenting an array alias pattern spanify does not handle, explaining why converting it to std::array would break pass-by-pointer semantics.
+// ---
+
 // A well-meaning human author could rewrite this to a `std::array`...
 using EightIntegers = int[8];
 

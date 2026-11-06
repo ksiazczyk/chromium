@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Expected method renaming test output for Chrome style rewriter
+// summary: Expected Chrome-style output for method renaming, covering overrides, special methods like begin and trace, static methods and method pointers.
+// ---
+
 #include "gen/thing.h"
 
 namespace v8 {

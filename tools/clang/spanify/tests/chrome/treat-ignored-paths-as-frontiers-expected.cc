@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Spanify expected output for ignored-path frontier handling
+// summary: Expected spanified output verifying how rewrites are limited when excluded paths are treated as rewriting frontiers.
+// ---
+
 #include "base/containers/span.h"
 
 // Represents code that's excluded - i.e. not desirable to rewrite, even

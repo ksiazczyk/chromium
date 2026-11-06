@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Operator test input
+// summary: Blink-style operator declarations used to check that the tool does not rename overloaded operators.
+// ---
+
 namespace blink {
 
 struct Op {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Template handling test input
+// summary: Blink-style template test case exercising constant detection and renaming of functions, methods, members and template arguments.
+// ---
+
 #include <type_traits>
 
 namespace not_blink {

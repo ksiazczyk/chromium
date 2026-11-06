@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Safe conversions original input
+// summary: Original input for the safe conversions test, using raw pointer arithmetic with UnsafeIndex that should become span subspan with checked_cast.
+// ---
+
 namespace webrtc {
 
 int UnsafeIndex();

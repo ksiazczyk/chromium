@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Expected output for fields test
+// summary: Expected Chrome-style output of the fields test, covering class, struct, union, and type-trait field renaming.
+// ---
+
 namespace blink {
 
 // Note: do not add any copy or move constructors to this class: doing so will

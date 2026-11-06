@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Manual path exclusions for spanification
+// summary: Lists regular expressions of source paths that the spanifier must skip, with comments explaining why each path cannot be rewritten.
+// ---
+
 #ifndef TOOLS_CLANG_SPANIFY_SPANIFYMANUALPATHSTOIGNORE_H_
 #define TOOLS_CLANG_SPANIFY_SPANIFYMANUALPATHSTOIGNORE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Spanify test input for void pointer cases
+// summary: Original test input for the spanify Clang tool covering void pointer usages that must not be rewritten to base::span, since void lacks size information.
+// ---
+
 #include <tuple>
 
 int UnsafeIndex();  // This function might return an out-of-bound index.

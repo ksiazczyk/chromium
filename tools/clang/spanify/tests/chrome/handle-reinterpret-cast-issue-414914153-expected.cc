@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Spanify expected output for reinterpret_cast handling
+// summary: Expected spanify rewrite turning reinterpret_cast of string data into base::as_byte_span calls for issue 414914153.
+// ---
+
 #include <cstdint>
 #include <string>
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Original function renaming test input for Chrome style rewriter
+// summary: Blink-style test input covering function declarations, definitions, calls, function pointers and the method blocklist for the rewriter.
+// ---
+
 namespace blink {
 
 namespace {

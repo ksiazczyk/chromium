@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Enum indices spanify test, expected output
+// summary: Expected spanified output for subspan calls with unsigned and signed enum indices, including checked_cast handling for signed enums.
+// ---
+
 #include <array>
 #include <cstdint>
 

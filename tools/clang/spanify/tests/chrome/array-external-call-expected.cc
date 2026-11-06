@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Array external call expected output
+// summary: Expected result fixture for the spanify rewriter showing C arrays and string views rewritten to std::array and .data() calls at external call sites.
+// ---
+
 #include <array>
 #include <cstdint>
 #include <cstring>

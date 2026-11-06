@@ -1,6 +1,13 @@
 // Copyright 2024 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Netlink header test fixture
+// summary: Stub Linux netlink header defining nlmsghdr and related macros, used as test input for the spanify tool's Chrome tests.
+// ---
+
 #ifndef TOOLS_CLANG_SPANIFY_TESTS_CHROME_USR_INCLUDE_LINUX_NETLINK_H_
 #define TOOLS_CLANG_SPANIFY_TESTS_CHROME_USR_INCLUDE_LINUX_NETLINK_H_
 

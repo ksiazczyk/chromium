@@ -1,0 +1,4 @@
+# Docerion header of apply_fixits.py.
+type: script
+title: Apply clang fixits from build output
+summary: Parses parseable clang fixit diagnostics from a build log and applies them to the affected source files.

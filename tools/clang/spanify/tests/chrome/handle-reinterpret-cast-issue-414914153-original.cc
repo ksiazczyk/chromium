@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Spanify test input for reinterpret_cast handling
+// summary: Original test input using reinterpret_cast on std::string data pointers to exercise the spanify rewrite tracked in issue 414914153.
+// ---
+
 #include <cstdint>
 #include <string>
 

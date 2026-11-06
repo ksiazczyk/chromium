@@ -1,0 +1,4 @@
+# Docerion header of 2p_perftest.py.
+type: script
+title: Pinpoint performance test runner for 2P library CLs
+summary: Runs Pinpoint performance tests for 2P library CLs by injecting DEPS hooks, uploading a temporary Chromium CL, and triggering benchmark comparisons.

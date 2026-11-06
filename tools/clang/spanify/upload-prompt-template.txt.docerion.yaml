@@ -1,0 +1,4 @@
+# Docerion header of upload-prompt-template.txt.
+type: asset
+title: Prompt template for upload rewrite agent
+summary: Prompt template that instructs an AI agent to fix compilation and modernization issues in target files while preserving the spanification effort.

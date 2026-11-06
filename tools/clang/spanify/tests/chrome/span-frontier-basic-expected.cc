@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Span frontier basic test, expected output
+// summary: Expected output for the basic span frontier test, showing which pointer variables are converted to base::span and which are left as raw pointers.
+// ---
+
 #include <vector>
 
 #include "base/containers/span.h"

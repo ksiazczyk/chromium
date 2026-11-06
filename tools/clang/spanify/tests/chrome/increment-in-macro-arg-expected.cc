@@ -6,6 +6,12 @@
 // macro is an unsafe-buffers macro or an allow-listed one (EXPECT_ family).
 // Otherwise the pointer is excluded, as `++` can't be applied to a span.
 
+// ---docerion
+// type: test
+// title: Spanify expected output for increments in macro arguments
+// summary: Expected spanify rewrite showing pointer increments in macro arguments rewritten in place for allow-listed macros and excluded otherwise.
+// ---
+
 #include <tuple>
 #include <utility>
 

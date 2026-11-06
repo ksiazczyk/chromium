@@ -1,0 +1,4 @@
+# Docerion header of blocked_methods.txt.
+type: test
+title: Method blocklist test input
+summary: Test input listing methods for the --method-blocklist parameter of the rewrite_to_chrome_style tool.

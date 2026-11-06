@@ -1,0 +1,4 @@
+# Docerion header of upload_revision.py.
+type: script
+title: Upload a Clang revision for toolchain builds
+summary: Automates Clang roll preparation by creating a branch, updating update.py, uploading a CL, and triggering Clang and Rust upload try bots.

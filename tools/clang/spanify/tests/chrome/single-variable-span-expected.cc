@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Spanify expected output for single-variable span rewrites
+// summary: Expected result of rewriting single-variable pointer arguments with base::span_from_ref and byte-span calls across arrays, vectors and fields.
+// ---
+
 #include <array>
 #include <cstdint>
 #include <vector>

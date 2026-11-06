@@ -1,6 +1,13 @@
 // Copyright 2024 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Deref expression spanify test, expected output
+// summary: Expected spanified output for dereference expressions, showing how char* members, parameters, returns and call sites become base::span.
+// ---
+
 #include <vector>
 
 #include "base/containers/span.h"

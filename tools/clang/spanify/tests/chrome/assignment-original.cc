@@ -1,6 +1,13 @@
 // Copyright 2024 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Spanify test input for pointer assignments
+// summary: Original pointer-based code for the spanify assignment test, annotated with the expected rewrites of vector and array data assignments into spans.
+// ---
+
 #include <array>
 #include <vector>
 

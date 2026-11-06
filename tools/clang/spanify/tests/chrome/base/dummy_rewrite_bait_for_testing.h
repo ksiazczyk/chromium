@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Dummy rewrite bait for spanify Chrome base tests
+// summary: Test fixture header with deliberately unsafe buffer code that the spanify tool should leave unrewritten.
+// ---
+
 #ifndef TOOLS_CLANG_SPANIFY_TESTS_CHROME_BASE_DUMMY_REWRITE_BAIT_FOR_TESTING_H_
 #define TOOLS_CLANG_SPANIFY_TESTS_CHROME_BASE_DUMMY_REWRITE_BAIT_FOR_TESTING_H_
 

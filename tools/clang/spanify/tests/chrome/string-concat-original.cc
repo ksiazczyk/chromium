@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Spanify string concatenation test input
+// summary: Original test source with char arrays and string concatenation used to verify spanification behavior.
+// ---
+
 #include <string>
 
 int UnsafeIndex();  // This function might return an out-of-bound index.

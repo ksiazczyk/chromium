@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Original function templates test input for Chrome style rewriter
+// summary: Blink-style test input with WTF function templates and mojo array traits used to verify renaming of template functions and methods.
+// ---
+
 namespace WTF {
 
 template<typename To, typename From>

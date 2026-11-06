@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Spanify structs with inline arrays expected output
+// summary: Expected output rewriting structs, classes and unions with inline arrays into std::array-based buffers.
+// ---
+
 #include <array>
 #include <tuple>
 

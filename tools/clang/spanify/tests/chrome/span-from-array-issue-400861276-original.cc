@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Span from array issue 400861276 test, original input
+// summary: Original C++ input for the span-from-array test covering issue 400861276 with raw array pointer arithmetic.
+// ---
+
 int UnsafeIndex();
 
 // Expected rewrite:

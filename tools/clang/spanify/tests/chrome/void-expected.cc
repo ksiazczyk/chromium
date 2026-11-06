@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Spanify test case for void pointer non-rewrite behavior
+// summary: Test fixture verifying that void pointers and void-typed buffers are not rewritten to spans.
+// ---
+
 #include <tuple>
 
 int UnsafeIndex();  // This function might return an out-of-bound index.

@@ -5,6 +5,12 @@
 // Arrays declared together with other declarators are not rewritten: the edit
 // starts at the shared type and would delete the siblings.
 
+// ---docerion
+// type: test
+// title: Spanify expected output for sibling declarator cases
+// summary: Expected result showing arrays declared alongside sibling declarators are not rewritten, while lone arrays and fields become std::array.
+// ---
+
 #include <array>
 
 unsigned UnsafeIndex();

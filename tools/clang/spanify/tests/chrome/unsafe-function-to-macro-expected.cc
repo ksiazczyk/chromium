@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Spanify expected output for unsafe function to macro rewrites
+// summary: Expected spanified output where unsafe SkBitmap and harfbuzz calls are replaced with UNSAFE_ wrapper macros.
+// ---
+
 #include <memory>
 #include <tuple>
 

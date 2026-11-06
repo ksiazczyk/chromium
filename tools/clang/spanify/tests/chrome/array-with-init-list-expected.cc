@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Array with init list expected output
+// summary: Expected result fixture showing initializer-list C arrays, including nested arrays, structs, strings and cv-qualified arrays, rewritten to std::array.
+// ---
+
 #include <array>
 #include <string>
 #include <vector>

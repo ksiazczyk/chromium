@@ -1,0 +1,4 @@
+# Docerion header of run_tool.py.
+type: script
+title: Run Clang tools across Chromium code
+summary: Runs a Clang tool in parallel across Chromium source files, with output that can be piped into extract_edits.py and apply_edits.py.

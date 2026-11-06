@@ -7,6 +7,12 @@
 // The increments are rewritten using only the span's own `subspan()` and the
 // standard library, so no project-specific helper is needed.
 
+// ---docerion
+// type: test
+// title: 'Post-increment span test: expected rewrite'
+// summary: Expected rewrite for the post-increment test, replacing pointer increments with SkSpan subspan and std::exchange so no project-specific helper is needed.
+// ---
+
 #include <utility>
 
 #include "include/core/SkSpan.h"

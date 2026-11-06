@@ -1,6 +1,13 @@
 // Copyright 2024 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Deref expression spanify test, original input
+// summary: Original pointer-based code with dereference expressions that the spanify tool should rewrite to base::span, paired with the expected output file.
+// ---
+
 #include <vector>
 
 struct S {

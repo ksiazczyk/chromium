@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EditTracker.h
+// summary: Declares the EditTracker class and RenameCategory enum used to track and dump rename edits by filename.
+// ---
+
 #ifndef TOOLS_CLANG_REWRITE_TO_CHROME_STYLE_EDIT_TRACKER_H_
 #define TOOLS_CLANG_REWRITE_TO_CHROME_STYLE_EDIT_TRACKER_H_
 

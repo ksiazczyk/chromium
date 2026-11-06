@@ -1,0 +1,4 @@
+# Docerion header of update.py.
+type: script
+title: Download prebuilt Clang binaries
+summary: Downloads and installs prebuilt Clang toolchain binaries as a gclient hook, managing package versions and stamp files.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Spanify expected output for trailing comma array rewrites
+// summary: Expected spanified output showing std::array rewrites of aggregate initializers, including cases with trailing commas.
+// ---
+
 #include <array>
 #include <tuple>
 

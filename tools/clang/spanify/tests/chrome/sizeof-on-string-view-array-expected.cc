@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sizeof on string-view array test, expected output
+// summary: Expected output showing which char arrays used in sizeof are rewritten to std::array and which are deliberately left unchanged.
+// ---
+
 #include <array>
 #include <tuple>
 

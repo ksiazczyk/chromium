@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Array tests original input
+// summary: Input fixture exercising many C array patterns such as qualifiers, mutable members, for loops and function parameters for spanify rewrite testing.
+// ---
+
 #include <cstdint>
 #include <cstring>
 #include <iterator>

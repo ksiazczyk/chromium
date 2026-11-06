@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Array static global expected output
+// summary: Expected result fixture showing a static global const char pointer array rewritten with std::to_array for spanification testing.
+// ---
+
 #include <array>
 #include <tuple>
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Spanify original test input for static constexpr qualifier order
+// summary: Original test input checking that spanify emits static constexpr rather than constexpr static when rewriting a constexpr array for span usage.
+// ---
+
 int UnsafeIndex();
 
 int UnsafeBufferUsage() {

@@ -1,0 +1,4 @@
+# Docerion header of run_tool.args.
+type: config
+title: Tool arguments for the rewrite tests
+summary: Supplies the method blocklist file to the rewrite_to_chrome_style tool when the test suite runs it.

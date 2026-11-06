@@ -1,0 +1,4 @@
+# Docerion header of extract_edits.py.
+type: script
+title: Spanification edit extraction script
+summary: Parses the clang spanify tool's graph output and emits replacement and include edits for reachable nodes.

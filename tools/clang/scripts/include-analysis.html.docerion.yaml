@@ -1,0 +1,4 @@
+# Docerion header of include-analysis.html.
+type: asset
+title: Chrome include analysis report page
+summary: HTML front-end for the Chrome include analysis produced by analyze_includes.py, showing per-file and per-edge statistics.

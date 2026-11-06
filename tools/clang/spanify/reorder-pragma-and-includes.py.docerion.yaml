@@ -1,0 +1,4 @@
+# Docerion header of reorder-pragma-and-includes.py.
+type: script
+title: Reorder unsafe buffers pragma and includes
+summary: Script that reorders the allow_unsafe_buffers pragma and span-related includes in modified files so clang-format can sort the includes correctly.

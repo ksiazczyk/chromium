@@ -1,0 +1,4 @@
+# Docerion header of compiler_inputs_size_diff.py.
+type: script
+title: Compiler input size diff calculator
+summary: Compares two compiler_inputs_size.py reports and prints per-translation-unit size deltas sorted by change.

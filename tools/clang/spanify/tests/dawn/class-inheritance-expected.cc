@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Spanify class inheritance test, expected output
+// summary: Expected spanify rewrite for a Dawn class hierarchy, with virtual and overridden methods, return values, and call sites converted to dawn::Span<char>.
+// ---
+
 #include <vector>
 
 #include "src/utils/span.h"

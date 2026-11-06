@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Vertex attribute original input
+// summary: Original input for the vertex attribute spanify test using a raw GLfloat array with dynamic index access that is passed to the external glVertexAttrib4fv call.
+// ---
+
 #include "third_party/mock_egl.h"
 
 void SetupAttributes() {

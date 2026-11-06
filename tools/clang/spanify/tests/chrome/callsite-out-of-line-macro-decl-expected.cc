@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Spanify test expected output for macro-declared out-of-line functions
+// summary: Expected output verifying that out-of-line definitions whose declarations or parameter types come from macros are not rewritten to spans.
+// ---
+
 #include <cstdint>
 
 #define DECLARE_OUT_OF_LINE_FUNC(name) void name(int* ptr)

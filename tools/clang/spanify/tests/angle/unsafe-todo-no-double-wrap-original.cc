@@ -6,6 +6,12 @@
 // be wrapped in one a second time; only `.data()` is appended. See
 // AdaptBinaryOpInMacro() in tools/clang/spanify/Spanifier.cpp for why.
 
+// ---docerion
+// type: test
+// title: Unsafe-todo no double wrap original input
+// summary: Original input for the spanify test checking that buffer access already inside ANGLE_UNSAFE_TODO or ANGLE_UNSAFE_BUFFERS macros is not wrapped in a second such macro.
+// ---
+
 // The macros are defined here, with no effect, because the header that defines
 // them is not on this corpus' include path. Both levels are needed to mirror
 // how the real macros are defined: the rewrite has to identify the outermost

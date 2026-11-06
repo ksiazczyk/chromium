@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Spanify subspan unsigned argument expected output
+// summary: Expected output for issue 412395846 covering how unsigned subspan arguments are propagated or cast during spanification.
+// ---
+
 #include <array>
 #include <cstdint>
 #include <vector>

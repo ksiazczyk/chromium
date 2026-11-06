@@ -1,0 +1,4 @@
+# Docerion header of compiler_inputs_size.py.
+type: script
+title: Compiler input size measurement
+summary: Measures the compiler input size of each translation unit in a build target using ninja command and deps output.

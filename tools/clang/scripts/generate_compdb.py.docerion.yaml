@@ -1,0 +1,4 @@
+# Docerion header of generate_compdb.py.
+type: script
+title: Compilation database generator
+summary: Generates ninja-based compilation databases suited for clang tooling, with argument filtering and target OS options.

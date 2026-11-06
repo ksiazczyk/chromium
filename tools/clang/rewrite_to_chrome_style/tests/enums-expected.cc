@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Expected output for enums test
+// summary: Expected Chrome-style output of the enums test, covering enum values in namespaces, classes, and enum classes.
+// ---
+
 namespace blink {
 
 enum EnumInNamespace {

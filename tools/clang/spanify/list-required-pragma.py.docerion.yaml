@@ -1,0 +1,4 @@
+# Docerion header of list-required-pragma.py.
+type: script
+title: Unsafe buffers pragma listing script
+summary: Lists Chromium files requiring the allow_unsafe_buffers pragma and helps identify files fixed by a spanification.

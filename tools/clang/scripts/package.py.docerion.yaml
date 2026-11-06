@@ -1,0 +1,4 @@
+# Docerion header of package.py.
+type: script
+title: LLVM and Clang packaging script
+summary: Checks out LLVM and Clang, packages the build results into tarballs, and uploads them to a Google Cloud Storage bucket.

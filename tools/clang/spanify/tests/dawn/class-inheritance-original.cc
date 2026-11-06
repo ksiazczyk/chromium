@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Spanify class inheritance test, original input
+// summary: Original input for the Dawn class inheritance spanify test, using char* parameters, returns, and dereferences that should be rewritten to dawn::Span<char>.
+// ---
+
 #include <vector>
 
 namespace dawn::internal {

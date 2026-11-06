@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Spanify expected output for right-hand-side array rewrite
+// summary: Expected result of rewriting a const pointer to an int16_t array into base::span together with a subspan assignment.
+// ---
+
 #include <cstdint>
 
 #include "base/containers/span.h"

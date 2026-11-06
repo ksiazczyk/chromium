@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Array tests expected output
+// summary: Expected result fixture covering a broad range of spanify array rewrites, including struct members, function parameters, sizeof handling and spans.
+// ---
+
 #include <array>
 #include <cstdint>
 #include <cstring>

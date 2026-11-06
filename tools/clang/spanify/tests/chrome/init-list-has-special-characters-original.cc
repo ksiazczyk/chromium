@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Initializer list with special characters test input
+// summary: Original test input with a const char* array initializer list holding special characters to exercise spanify rewriting of initializer lists.
+// ---
+
 void fct() {
   // Expected rewrite:
   // auto buf = std::to_array<const char*>({

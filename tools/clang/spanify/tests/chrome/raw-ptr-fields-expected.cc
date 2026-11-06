@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Spanify expected output for raw_ptr and raw_span class fields
+// summary: Expected spanify rewrite covering raw_span and raw_ptr class fields, including constructor parameters, return types and std::exchange advancement.
+// ---
+
 #include <utility>
 
 #include "base/containers/span.h"

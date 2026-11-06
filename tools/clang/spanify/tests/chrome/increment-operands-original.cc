@@ -5,6 +5,12 @@
 // The rewrite of an increment spells its operand twice, e.g. `s.ptr++` becomes
 // `s.ptr = s.ptr.subspan(1u)`.
 
+// ---docerion
+// type: test
+// title: Increment operands test input
+// summary: Original test input with raw pointer increments on members, parenthesized operands, and C-style casts used to verify spanify rewrite behavior.
+// ---
+
 #include <vector>
 
 struct S {

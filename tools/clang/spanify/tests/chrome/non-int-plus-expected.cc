@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Spanify non-int plus expected test
+// summary: Expected output of the spanify test verifying that pointer plus expressions with non-integer right-hand sides are not rewritten to subspan.
+// ---
+
 #include <array>
 #include <string>
 #include <tuple>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Spanify ANGLE complex case original input
+// summary: Input with a raw int* function parameter and vector data pointer used to test complex ANGLE spanification.
+// ---
+
 #include <vector>
 
 // Expected rewrite:

@@ -1,0 +1,4 @@
+# Docerion header of extract_edits.py.
+type: script
+title: Clang tool edit extractor
+summary: Extracts deduplicated edit lines from concatenated clang tool output between BEGIN/END EDITS markers, mainly for Windows.

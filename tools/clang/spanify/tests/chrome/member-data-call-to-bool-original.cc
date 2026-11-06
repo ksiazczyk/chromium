@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Spanify member data call to bool original test
+// summary: Original input of the spanify test checking that member data calls used in boolean contexts are not rewritten to spans.
+// ---
+
 #include <string_view>
 
 struct MyBuffer {

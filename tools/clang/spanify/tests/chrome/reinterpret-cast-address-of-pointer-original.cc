@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: reinterpret-cast-address-of-pointer original test input
+// summary: Original test input with reinterpret_cast and C-style casts writing into pointers, verifying spanify skips such rewrites.
+// ---
+
 #include <cstdint>
 
 unsigned UnsafeIndex();

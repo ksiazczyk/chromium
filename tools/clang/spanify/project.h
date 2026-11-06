@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Project base class for spanification
+// summary: Declares the Project interface supplying span type names, include paths, macro names, and exclusion rules per project.
+// ---
+
 #ifndef TOOLS_CLANG_SPANIFY_PROJECT_H_
 #define TOOLS_CLANG_SPANIFY_PROJECT_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of package_test.py.
+type: test
+title: Package script unit tests
+summary: Unit tests for package.py covering TeeCmd output logging and its exit behavior on failing commands.

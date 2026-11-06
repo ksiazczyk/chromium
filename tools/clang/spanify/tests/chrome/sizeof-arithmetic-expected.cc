@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sizeof arithmetic spanification test, expected output
+// summary: Expected spanified output for the sizeof arithmetic test, showing memcpy calls rewritten to base::span subspan expressions.
+// ---
+
 #include <array>
 #include <cstring>
 #include <tuple>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Original input for fields test
+// summary: Blink-style input for the fields test, exercising renaming of fields with m_ and s_ prefixes and type traits.
+// ---
+
 namespace blink {
 
 // Note: do not add any copy or move constructors to this class: doing so will

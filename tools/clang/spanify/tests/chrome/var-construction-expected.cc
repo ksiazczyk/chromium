@@ -1,6 +1,13 @@
 // Copyright 2024 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Spanify expected output for variable construction rewrites
+// summary: Expected spanified output covering span, raw_span and raw_ptr variable constructions, assignments and subspan updates.
+// ---
+
 #include <array>
 #include <cstdint>
 #include <vector>
