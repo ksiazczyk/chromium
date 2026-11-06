@@ -1,0 +1,4 @@
+# Docerion header of NTPOutlookCardVisible.json.
+type: test
+title: NTPOutlookCardVisible policy pref mapping test
+summary: Test data mapping the NTPOutlookCardVisible policy to the NewTabPage.OutlookModuleVisible pref with true and false values across win, linux, mac, chromeos and fuchsia.

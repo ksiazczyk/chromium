@@ -1,0 +1,4 @@
+# Docerion header of KeepFullscreenWithoutNotificationUrlAllowList.json.
+type: test
+title: KeepFullscreenWithoutNotificationUrlAllowList pref mapping test data
+summary: Test data verifying the KeepFullscreenWithoutNotificationUrlAllowList policy maps to the keep_fullscreen_without_notification_url_allow_list pref on ChromeOS.

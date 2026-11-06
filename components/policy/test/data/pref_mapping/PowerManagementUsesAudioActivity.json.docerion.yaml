@@ -1,0 +1,4 @@
+# Docerion header of PowerManagementUsesAudioActivity.json.
+type: test
+title: PowerManagementUsesAudioActivity pref mapping test data
+summary: Test data verifying that the PowerManagementUsesAudioActivity policy maps to the power.use_audio_activity pref on ChromeOS.

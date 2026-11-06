@@ -1,0 +1,4 @@
+# Docerion header of PdfUseSkiaRendererEnabled.json.
+type: test
+title: PdfUseSkiaRendererEnabled pref mapping test data
+summary: Test data mapping the PdfUseSkiaRendererEnabled policy to the pdf.enable_skia pref, testing true and false values against the default of true.

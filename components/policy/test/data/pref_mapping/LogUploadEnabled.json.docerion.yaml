@@ -1,0 +1,4 @@
+# Docerion header of LogUploadEnabled.json.
+type: test
+title: LogUploadEnabled pref mapping test data
+summary: Test data entry recording that no pref mapping test exists for the LogUploadEnabled policy because it maps into CrosSettings.

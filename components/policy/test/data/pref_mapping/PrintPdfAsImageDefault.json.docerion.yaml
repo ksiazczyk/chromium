@@ -1,0 +1,4 @@
+# Docerion header of PrintPdfAsImageDefault.json.
+type: test
+title: PrintPdfAsImageDefault policy pref mapping test data
+summary: Test data mapping the PrintPdfAsImageDefault policy to the printing.print_pdf_as_image_default preference across desktop platforms.

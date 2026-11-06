@@ -1,0 +1,4 @@
+# Docerion header of OnFileTransferEnterpriseConnector.json.
+type: test
+title: OnFileTransferEnterpriseConnector pref mapping test data
+summary: ChromeOS test cases verifying that the OnFileTransferEnterpriseConnector policy maps to the enterprise_connectors.on_file_transfer pref.

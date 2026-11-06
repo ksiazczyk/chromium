@@ -1,0 +1,4 @@
+# Docerion header of QuickAnswersUnitConversionEnabled.json.
+type: test
+title: QuickAnswersUnitConversionEnabled policy pref mapping test data
+summary: ChromeOS test data verifying the QuickAnswersUnitConversionEnabled policy maps to the quick answers unit conversion preference with true and false values.

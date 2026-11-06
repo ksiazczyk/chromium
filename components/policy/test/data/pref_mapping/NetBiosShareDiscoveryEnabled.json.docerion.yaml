@@ -1,0 +1,4 @@
+# Docerion header of NetBiosShareDiscoveryEnabled.json.
+type: test
+title: NetBiosShareDiscoveryEnabled policy pref mapping test data
+summary: Test fixture checking that the NetBiosShareDiscoveryEnabled policy controls the network_file_shares.netbios_discovery.enabled preference on ChromeOS.

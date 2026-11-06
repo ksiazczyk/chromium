@@ -1,0 +1,4 @@
+# Docerion header of IsolateOriginsShortlist.json.
+type: test
+title: IsolateOriginsShortlist pref mapping test data
+summary: Test data recording that the IsolateOriginsShortlist policy has no pref mapping test because trybots override the default with a command-line flag.

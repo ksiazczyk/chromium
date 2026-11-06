@@ -1,0 +1,4 @@
+# Docerion header of ListenToThisPageEnabled.json.
+type: test
+title: ListenToThisPageEnabled policy pref mapping test data
+summary: Test data verifying that the ListenToThisPageEnabled policy maps to the readaloud.listen_to_this_page_enabled pref on Android.

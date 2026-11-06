@@ -1,0 +1,4 @@
+# Docerion header of LiveCaptionEnabled.json.
+type: test
+title: LiveCaptionEnabled policy pref mapping test data
+summary: Test data verifying that the LiveCaptionEnabled policy maps to the accessibility.captions.live_caption_enabled pref on Windows, Mac, Linux and ChromeOS.

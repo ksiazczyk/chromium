@@ -1,0 +1,4 @@
+# Docerion header of PrinterTypeDenyList.json.
+type: test
+title: PrinterTypeDenyList policy pref mapping test data
+summary: Test data verifying that the PrinterTypeDenyList policy maps to the printing.printer_type_deny_list preference across supported platforms.

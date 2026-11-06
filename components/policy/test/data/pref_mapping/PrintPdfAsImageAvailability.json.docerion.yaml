@@ -1,0 +1,4 @@
+# Docerion header of PrintPdfAsImageAvailability.json.
+type: test
+title: PrintPdfAsImageAvailability policy pref mapping test data
+summary: Test data mapping the PrintPdfAsImageAvailability policy to the printing.print_pdf_as_image_availability preference on Windows and Mac.

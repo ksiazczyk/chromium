@@ -1,0 +1,4 @@
+# Docerion header of OnFileDownloadedEnterpriseConnector.json.
+type: test
+title: OnFileDownloadedEnterpriseConnector pref mapping test data
+summary: Test cases verifying that the OnFileDownloadedEnterpriseConnector policy maps to the enterprise_connectors.on_file_downloaded pref across several platforms.

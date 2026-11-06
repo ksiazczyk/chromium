@@ -1,0 +1,4 @@
+# Docerion header of PowerManagementIdleSettings.json.
+type: test
+title: PowerManagementIdleSettings pref mapping test data
+summary: Test data verifying that the PowerManagementIdleSettings policy maps to the ChromeOS power management delay and idle action prefs.

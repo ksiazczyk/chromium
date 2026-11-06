@@ -1,0 +1,4 @@
+# Docerion header of PrintingAPIExtensionsAllowlist.json.
+type: test
+title: PrintingAPIExtensionsAllowlist policy pref mapping test data
+summary: Test data verifying that the PrintingAPIExtensionsAllowlist policy maps to the printing.printing_api_extensions_whitelist preference on ChromeOS with CUPS enabled.

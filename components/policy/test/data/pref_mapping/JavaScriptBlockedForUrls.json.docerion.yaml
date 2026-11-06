@@ -1,0 +1,4 @@
+# Docerion header of JavaScriptBlockedForUrls.json.
+type: test
+title: JavaScriptBlockedForUrls policy pref mapping test data
+summary: Test data verifying that the JavaScriptBlockedForUrls policy maps to the managed JavaScript blocked-URLs preference, with a URL pattern example.

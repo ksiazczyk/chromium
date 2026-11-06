@@ -1,0 +1,4 @@
+# Docerion header of JavaScriptAllowedForUrls.json.
+type: test
+title: JavaScriptAllowedForUrls policy pref mapping test data
+summary: Test data verifying that the JavaScriptAllowedForUrls policy maps to the managed JavaScript allowed-URLs preference, with a URL pattern example.

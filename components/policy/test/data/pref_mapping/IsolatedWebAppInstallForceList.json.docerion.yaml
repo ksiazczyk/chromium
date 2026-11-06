@@ -1,0 +1,4 @@
+# Docerion header of IsolatedWebAppInstallForceList.json.
+type: test
+title: IsolatedWebAppInstallForceList policy pref mapping test data
+summary: Test data verifying that the IsolatedWebAppInstallForceList policy maps to the profile.isolated_web_app.install.forcelist preference using sample update manifest and web bundle entries.

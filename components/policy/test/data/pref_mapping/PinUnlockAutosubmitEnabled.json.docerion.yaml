@@ -1,0 +1,4 @@
+# Docerion header of PinUnlockAutosubmitEnabled.json.
+type: test
+title: PinUnlockAutosubmitEnabled policy pref mapping test data
+summary: Test data verifying the PinUnlockAutosubmitEnabled policy maps to the pin_unlock_autosubmit_enabled preference on ChromeOS, marked as recommendable.

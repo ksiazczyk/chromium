@@ -1,0 +1,4 @@
+# Docerion header of IntranetRedirectBehavior.json.
+type: test
+title: IntranetRedirectBehavior pref mapping test data
+summary: Test data verifying that the IntranetRedirectBehavior policy maps to the local_state preference browser.intranet_redirect_behavior with values 0 through 3.

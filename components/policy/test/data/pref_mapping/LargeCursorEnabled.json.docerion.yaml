@@ -1,0 +1,4 @@
+# Docerion header of LargeCursorEnabled.json.
+type: test
+title: LargeCursorEnabled pref mapping test data
+summary: Test data verifying that the LargeCursorEnabled policy maps to the settings.a11y.large_cursor_enabled preference on ChromeOS.

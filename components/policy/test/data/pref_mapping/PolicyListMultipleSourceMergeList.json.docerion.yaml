@@ -1,0 +1,4 @@
+# Docerion header of PolicyListMultipleSourceMergeList.json.
+type: test
+title: PolicyListMultipleSourceMergeList no-pref placeholder
+summary: Placeholder pref mapping entry stating that no test exists because the policy has no pref and is read directly by the policy system.

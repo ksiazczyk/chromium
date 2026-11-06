@@ -1,0 +1,4 @@
+# Docerion header of PostQuantumKeyAgreementEnabled.json.
+type: test
+title: PostQuantumKeyAgreementEnabled missing test placeholder
+summary: Placeholder recording that no pref mapping test exists for PostQuantumKeyAgreementEnabled because the policy was removed.

@@ -1,0 +1,4 @@
+# Docerion header of KerberosUseCustomPrefilledConfig.json.
+type: test
+title: KerberosUseCustomPrefilledConfig pref mapping test data
+summary: Test data verifying the KerberosUseCustomPrefilledConfig policy maps to the kerberos.use_custom_prefilled_config local state pref on ChromeOS.

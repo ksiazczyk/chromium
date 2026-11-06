@@ -1,0 +1,4 @@
+# Docerion header of PrintingAllowedColorModes.json.
+type: test
+title: PrintingAllowedColorModes policy pref mapping test data
+summary: Test fixture verifying that the PrintingAllowedColorModes policy maps to the printing.allowed_color_modes preference on ChromeOS.

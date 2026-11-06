@@ -1,0 +1,4 @@
+# Docerion header of NtlmV2Enabled.json.
+type: test
+title: NtlmV2Enabled pref mapping test data
+summary: Test cases verifying that the NtlmV2Enabled policy maps to the auth.ntlm_v2_enabled local state pref on Linux, Mac, ChromeOS and Android.

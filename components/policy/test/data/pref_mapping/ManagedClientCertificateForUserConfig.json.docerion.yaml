@@ -1,0 +1,4 @@
+# Docerion header of ManagedClientCertificateForUserConfig.json.
+type: test
+title: ManagedClientCertificateForUserConfig pref mapping test data
+summary: Test data verifying the client_certificates.managed_user_config.value pref mapping in the user profile for the policy across platforms.

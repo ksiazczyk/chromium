@@ -1,0 +1,4 @@
+# Docerion header of NoteTakingAppsLockScreenAllowlist.json.
+type: test
+title: NoteTakingAppsLockScreenAllowlist pref mapping test data
+summary: Test data noting that the NoteTakingAppsLockScreenAllowlist policy was removed, so no pref mapping test cases exist for it.

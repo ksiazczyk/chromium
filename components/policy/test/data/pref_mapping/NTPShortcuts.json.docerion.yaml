@@ -1,0 +1,4 @@
+# Docerion header of NTPShortcuts.json.
+type: test
+title: NTPShortcuts policy pref mapping placeholder
+summary: Pref mapping entry recording that NTPShortcuts test cases are pending until the policy handler feature is enabled, referencing crbug.com/439823163.

@@ -1,0 +1,4 @@
+# Docerion header of ManagedAccountsSigninRestriction.json.
+type: test
+title: ManagedAccountsSigninRestriction pref mapping test data
+summary: Test data checking profile.managed_accounts.restriction pref values for the policy across desktop platforms, with ChromeOS marked as future work.

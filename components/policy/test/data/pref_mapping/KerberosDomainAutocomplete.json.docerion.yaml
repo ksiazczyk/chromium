@@ -1,0 +1,4 @@
+# Docerion header of KerberosDomainAutocomplete.json.
+type: test
+title: KerberosDomainAutocomplete pref mapping test data
+summary: Test data verifying the KerberosDomainAutocomplete policy maps to the kerberos.domain_autocomplete local state pref on ChromeOS.

@@ -1,0 +1,4 @@
+# Docerion header of LocalAuthFactorsComplexity.json.
+type: test
+title: LocalAuthFactorsComplexity policy pref mapping test data
+summary: Test data covering default, invalid and valid values of the LocalAuthFactorsComplexity policy and its ash.local_auth_factors.complexity pref on ChromeOS.

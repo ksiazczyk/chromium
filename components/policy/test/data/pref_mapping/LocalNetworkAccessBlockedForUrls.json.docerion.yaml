@@ -1,0 +1,4 @@
+# Docerion header of LocalNetworkAccessBlockedForUrls.json.
+type: test
+title: LocalNetworkAccessBlockedForUrls policy pref mapping test data
+summary: Test data verifying that the LocalNetworkAccessBlockedForUrls policy maps to the profile.managed_local_network_access_blocked_for_urls pref across supported platforms.

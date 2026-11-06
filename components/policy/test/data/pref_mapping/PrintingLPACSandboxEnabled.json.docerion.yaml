@@ -1,0 +1,4 @@
+# Docerion header of PrintingLPACSandboxEnabled.json.
+type: test
+title: PrintingLPACSandboxEnabled policy pref mapping test data
+summary: Test fixture verifying that the PrintingLPACSandboxEnabled policy controls the local state preference printing_lpac_sandbox_enabled on Windows.

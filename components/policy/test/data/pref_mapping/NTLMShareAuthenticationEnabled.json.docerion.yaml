@@ -1,0 +1,4 @@
+# Docerion header of NTLMShareAuthenticationEnabled.json.
+type: test
+title: NTLMShareAuthenticationEnabled policy pref mapping test data
+summary: Test data mapping the NTLMShareAuthenticationEnabled policy to the network file share NTLM authentication pref on ChromeOS.

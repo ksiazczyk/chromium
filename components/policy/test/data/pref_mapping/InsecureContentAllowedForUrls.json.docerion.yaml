@@ -1,0 +1,4 @@
+# Docerion header of InsecureContentAllowedForUrls.json.
+type: test
+title: InsecureContentAllowedForUrls policy pref mapping test data
+summary: Test fixture mapping the InsecureContentAllowedForUrls policy to the managed insecure content allowed URLs preference with a URL pattern value.

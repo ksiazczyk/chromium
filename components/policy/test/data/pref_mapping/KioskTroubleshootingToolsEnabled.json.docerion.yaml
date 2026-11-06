@@ -1,0 +1,4 @@
+# Docerion header of KioskTroubleshootingToolsEnabled.json.
+type: test
+title: KioskTroubleshootingToolsEnabled pref mapping test data
+summary: Defines the ChromeOS pref mapping test for the KioskTroubleshootingToolsEnabled policy, checking the kiosk_troubleshooting_tools_enabled pref with true and false values.

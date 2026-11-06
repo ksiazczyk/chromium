@@ -1,0 +1,4 @@
+# Docerion header of NotificationsAllowedForUrls.json.
+type: test
+title: NotificationsAllowedForUrls pref mapping test data
+summary: Test cases verifying that the NotificationsAllowedForUrls policy maps to the profile.managed_notifications_allowed_for_urls pref across all supported platforms.

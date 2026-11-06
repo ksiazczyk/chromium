@@ -1,0 +1,4 @@
+# Docerion header of NTPFooterManagementNoticeEnabled.json.
+type: test
+title: NTPFooterManagementNoticeEnabled policy pref mapping test
+summary: Test data mapping the NTPFooterManagementNoticeEnabled policy to the local_state pref ntp_footer.settings.management_notice with true and false values on win, linux and mac.

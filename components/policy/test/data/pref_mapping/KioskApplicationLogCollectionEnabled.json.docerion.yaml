@@ -1,0 +1,4 @@
+# Docerion header of KioskApplicationLogCollectionEnabled.json.
+type: test
+title: KioskApplicationLogCollectionEnabled pref mapping test data
+summary: Defines the ChromeOS pref mapping test for the KioskApplicationLogCollectionEnabled policy, checking the user profile pref kiosk_application_log_collection_enabled with true and false values.

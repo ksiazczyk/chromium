@@ -1,0 +1,4 @@
+# Docerion header of OnSecurityEventEnterpriseConnector.json.
+type: test
+title: OnSecurityEventEnterpriseConnector policy pref mapping test data
+summary: Test data verifying that the OnSecurityEventEnterpriseConnector policy maps to the enterprise_connectors.on_security_event preference.

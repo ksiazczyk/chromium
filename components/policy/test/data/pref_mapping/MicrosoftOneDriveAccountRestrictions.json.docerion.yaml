@@ -1,0 +1,4 @@
+# Docerion header of MicrosoftOneDriveAccountRestrictions.json.
+type: test
+title: MicrosoftOneDriveAccountRestrictions policy pref mapping test data
+summary: Test data mapping the MicrosoftOneDriveAccountRestrictions policy to the OneDrive account restrictions pref on ChromeOS.

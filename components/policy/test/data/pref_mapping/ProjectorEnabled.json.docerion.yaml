@@ -1,0 +1,4 @@
+# Docerion header of ProjectorEnabled.json.
+type: test
+title: ProjectorEnabled policy pref mapping test data
+summary: ChromeOS simple policy pref mapping test for the ProjectorEnabled policy and the ash.projector.allow_by_policy pref.

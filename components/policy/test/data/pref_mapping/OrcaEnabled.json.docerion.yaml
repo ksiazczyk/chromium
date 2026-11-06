@@ -1,0 +1,4 @@
+# Docerion header of OrcaEnabled.json.
+type: test
+title: OrcaEnabled policy pref mapping test data
+summary: ChromeOS test data verifying that the OrcaEnabled policy maps to the assistive_input.managed.orca_enabled preference.

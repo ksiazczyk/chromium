@@ -1,0 +1,4 @@
+# Docerion header of PerAppTimeLimits.json.
+type: test
+title: PerAppTimeLimits pref mapping test data
+summary: ChromeOS test data verifying that the PerAppTimeLimits policy, including app limits and reset time, maps to the child_user.per_app_time_limits.policy pref.

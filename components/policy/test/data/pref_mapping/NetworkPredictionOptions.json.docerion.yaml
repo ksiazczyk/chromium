@@ -1,0 +1,4 @@
+# Docerion header of NetworkPredictionOptions.json.
+type: test
+title: NetworkPredictionOptions policy pref mapping test data
+summary: Test fixture verifying the NetworkPredictionOptions policy maps to the net.network_prediction_options preference across desktop and mobile platforms.

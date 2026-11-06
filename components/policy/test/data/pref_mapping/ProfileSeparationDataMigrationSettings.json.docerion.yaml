@@ -1,0 +1,4 @@
+# Docerion header of ProfileSeparationDataMigrationSettings.json.
+type: test
+title: ProfileSeparationDataMigrationSettings policy pref mapping test data
+summary: Test data checking how the ProfileSeparationDataMigrationSettings policy sets the profile_separation.data_migration_settings pref, alone and combined with ProfileSeparationSettings.

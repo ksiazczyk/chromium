@@ -1,0 +1,4 @@
+# Docerion header of NetworkThrottlingEnabled.json.
+type: test
+title: NetworkThrottlingEnabled policy pref mapping test data
+summary: Test fixture verifying the NetworkThrottlingEnabled policy maps to the net.throttling_enabled preference with download and upload rate values on ChromeOS.

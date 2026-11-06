@@ -1,0 +1,4 @@
+# Docerion header of RemoteAccessHostClientDomainList.json.
+type: test
+title: RemoteAccessHostClientDomainList pref mapping test data
+summary: Policy test data stating that RemoteAccessHostClientDomainList has no pref mapping test because it is handled by the Chrome Remote Desktop host, not the browser.

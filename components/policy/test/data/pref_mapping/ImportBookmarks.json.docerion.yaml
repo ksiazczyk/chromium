@@ -1,0 +1,4 @@
+# Docerion header of ImportBookmarks.json.
+type: test
+title: ImportBookmarks policy pref mapping test data
+summary: Test fixture mapping the ImportBookmarks policy to the import_dialog_bookmarks preference, checking true and false values on desktop platforms.

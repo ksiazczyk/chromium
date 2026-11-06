@@ -1,0 +1,4 @@
+# Docerion header of PrintingSendUsernameAndFilenameEnabled.json.
+type: test
+title: PrintingSendUsernameAndFilenameEnabled pref mapping test data
+summary: Simple policy pref mapping test checking that PrintingSendUsernameAndFilenameEnabled toggles the printing.send_username_and_filename_enabled pref on ChromeOS.

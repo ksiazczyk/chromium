@@ -1,0 +1,4 @@
+# Docerion header of LockScreenReauthenticationEnabled.json.
+type: test
+title: LockScreenReauthenticationEnabled pref mapping test data
+summary: ChromeOS-only test data checking that the LockScreenReauthenticationEnabled policy maps to its pref with the expected default and boolean values.

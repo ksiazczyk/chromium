@@ -1,0 +1,4 @@
+# Docerion header of PrintingAllowedBackgroundGraphicsModes.json.
+type: test
+title: PrintingAllowedBackgroundGraphicsModes policy pref mapping test data
+summary: Test fixture verifying that the PrintingAllowedBackgroundGraphicsModes policy sets the printing.allowed_background_graphics_modes preference across all major platforms.

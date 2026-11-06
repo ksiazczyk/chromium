@@ -1,0 +1,4 @@
+# Docerion header of LocalNetworkAccessPermissionsPolicyDefaultEnabled.json.
+type: test
+title: LocalNetworkAccessPermissionsPolicyDefaultEnabled pref mapping test data
+summary: Test data checking that the LocalNetworkAccessPermissionsPolicyDefaultEnabled policy maps to its local_state pref with the expected default and values on Windows, Linux, Mac, ChromeOS and Android.

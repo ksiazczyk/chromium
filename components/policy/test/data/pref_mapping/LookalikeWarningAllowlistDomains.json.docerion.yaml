@@ -1,0 +1,4 @@
+# Docerion header of LookalikeWarningAllowlistDomains.json.
+type: test
+title: LookalikeWarningAllowlistDomains pref mapping test data
+summary: Test data verifying the profile.lookalike_domain_allowlist pref mapping for the policy across all supported platforms.

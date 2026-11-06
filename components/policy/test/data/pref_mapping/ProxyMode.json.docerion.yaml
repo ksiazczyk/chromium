@@ -1,0 +1,4 @@
+# Docerion header of ProxyMode.json.
+type: test
+title: ProxyMode policy pref mapping test data
+summary: Test data verifying the ProxyMode policy maps to the mode field of the proxy pref, tested with the direct setting.

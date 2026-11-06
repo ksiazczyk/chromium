@@ -1,0 +1,4 @@
+# Docerion header of ManagedClientCertificateForBrowserConfig.json.
+type: test
+title: ManagedClientCertificateForBrowserConfig pref mapping test data
+summary: Test data verifying the client_certificates.managed_browser_config.value pref mapping in local_state for the policy on desktop platforms.

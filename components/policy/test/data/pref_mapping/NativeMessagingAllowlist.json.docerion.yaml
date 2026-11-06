@@ -1,0 +1,4 @@
+# Docerion header of NativeMessagingAllowlist.json.
+type: test
+title: NativeMessagingAllowlist policy pref mapping test
+summary: Test data verifying the NativeMessagingAllowlist policy sets the native_messaging.allowlist pref to a list of native messaging host names on win, linux, mac and fuchsia.

@@ -1,0 +1,4 @@
+# Docerion header of PdfXfaFormsEnabled.json.
+type: test
+title: PdfXfaFormsEnabled pref mapping test data
+summary: ChromeOS-only test data mapping the PdfXfaFormsEnabled policy to the pdf.xfa_forms_enabled pref, testing true and false values against the default of false.

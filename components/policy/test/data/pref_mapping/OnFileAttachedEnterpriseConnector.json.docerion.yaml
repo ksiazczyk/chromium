@@ -1,0 +1,4 @@
+# Docerion header of OnFileAttachedEnterpriseConnector.json.
+type: test
+title: OnFileAttachedEnterpriseConnector pref mapping test data
+summary: Test cases verifying that the OnFileAttachedEnterpriseConnector policy maps to the enterprise_connectors.on_file_attached pref across several platforms.

@@ -1,0 +1,4 @@
+# Docerion header of IsolatedModeSettings.json.
+type: test
+title: IsolatedModeSettings policy pref mapping test data
+summary: Test data verifying that the IsolatedModeSettings policy maps to the enterprise.isolated_mode preference across Windows, Linux, Mac, ChromeOS and Android.

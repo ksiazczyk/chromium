@@ -1,0 +1,4 @@
+# Docerion header of LockScreenAutoStartOnlineReauth.json.
+type: test
+title: LockScreenAutoStartOnlineReauth pref mapping test data
+summary: ChromeOS-only test data checking that the LockScreenAutoStartOnlineReauth policy maps to its pref with the expected default and boolean values.

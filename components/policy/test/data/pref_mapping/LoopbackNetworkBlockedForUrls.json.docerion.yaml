@@ -1,0 +1,4 @@
+# Docerion header of LoopbackNetworkBlockedForUrls.json.
+type: test
+title: LoopbackNetworkBlockedForUrls pref mapping test data
+summary: Test data verifying the profile.managed_loopback_network_blocked_for_urls pref mapping for the policy on desktop and ChromeOS platforms.

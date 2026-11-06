@@ -1,0 +1,4 @@
+# Docerion header of ProjectorDogfoodForFamilyLinkEnabled.json.
+type: test
+title: ProjectorDogfoodForFamilyLinkEnabled policy pref mapping test data
+summary: ChromeOS simple policy pref mapping test for the ProjectorDogfoodForFamilyLinkEnabled policy and the ash.projector.dogfood_for_family_link_enabled pref.

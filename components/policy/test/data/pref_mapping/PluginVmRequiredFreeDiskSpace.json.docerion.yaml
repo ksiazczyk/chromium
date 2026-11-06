@@ -1,0 +1,4 @@
+# Docerion header of PluginVmRequiredFreeDiskSpace.json.
+type: test
+title: PluginVmRequiredFreeDiskSpace deprecated policy placeholder
+summary: Placeholder pref mapping entry stating that no test exists because the PluginVmRequiredFreeDiskSpace policy was deprecated in M152.

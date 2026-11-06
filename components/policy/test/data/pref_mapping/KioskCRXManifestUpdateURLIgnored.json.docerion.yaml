@@ -1,0 +1,4 @@
+# Docerion header of KioskCRXManifestUpdateURLIgnored.json.
+type: test
+title: KioskCRXManifestUpdateURLIgnored pref mapping test data
+summary: Declares that no pref mapping test exists for the KioskCRXManifestUpdateURLIgnored policy because it maps into CrosSettings rather than a regular pref.

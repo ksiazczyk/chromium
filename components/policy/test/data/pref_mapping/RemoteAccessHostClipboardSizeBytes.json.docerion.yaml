@@ -1,0 +1,4 @@
+# Docerion header of RemoteAccessHostClipboardSizeBytes.json.
+type: test
+title: RemoteAccessHostClipboardSizeBytes pref mapping test data
+summary: Policy test data stating that RemoteAccessHostClipboardSizeBytes has no pref mapping test because it is handled by the Chrome Remote Desktop host, not the browser.

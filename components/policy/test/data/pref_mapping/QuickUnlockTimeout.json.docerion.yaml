@@ -1,0 +1,4 @@
+# Docerion header of QuickUnlockTimeout.json.
+type: test
+title: QuickUnlockTimeout policy pref mapping test data
+summary: Test data verifying the QuickUnlockTimeout policy maps to the quick_unlock_timeout pref on ChromeOS with default value 2 and tested values 0 to 2.

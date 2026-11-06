@@ -1,0 +1,4 @@
+# Docerion header of ProfileSeparationDomainExceptionList.json.
+type: test
+title: ProfileSeparationDomainExceptionList policy pref mapping test data
+summary: Simple policy pref mapping test for the ProfileSeparationDomainExceptionList policy and the profile_separation.domain_exception_list pref with sample domain values.

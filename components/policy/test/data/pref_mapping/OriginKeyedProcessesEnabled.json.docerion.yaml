@@ -1,0 +1,4 @@
+# Docerion header of OriginKeyedProcessesEnabled.json.
+type: test
+title: OriginKeyedProcessesEnabled policy pref mapping test data
+summary: Test data verifying that the OriginKeyedProcessesEnabled policy maps to the site_isolation.origin_keyed_processes_enabled local state preference.

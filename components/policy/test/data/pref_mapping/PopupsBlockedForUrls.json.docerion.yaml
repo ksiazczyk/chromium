@@ -1,0 +1,4 @@
+# Docerion header of PopupsBlockedForUrls.json.
+type: test
+title: PopupsBlockedForUrls pref mapping test data
+summary: Test data verifying that the PopupsBlockedForUrls policy maps to the managed popups blocked for URLs pref on supported platforms.

@@ -1,0 +1,4 @@
+# Docerion header of PrintingPaperSizeDefault.json.
+type: test
+title: PrintingPaperSizeDefault policy pref mapping test data
+summary: Defines policy pref mapping test cases checking that PrintingPaperSizeDefault sets the printing.paper_size_default pref, including a custom paper size, across desktop platforms.

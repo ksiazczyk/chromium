@@ -1,0 +1,4 @@
+# Docerion header of PromotionsEnabled.json.
+type: test
+title: PromotionsEnabled policy pref mapping test data
+summary: Test data for the PromotionsEnabled policy mapping to the browser.promotions_enabled pref across platforms, including the deprecated PromotionalTabsEnabled combination.

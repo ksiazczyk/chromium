@@ -1,0 +1,4 @@
+# Docerion header of QRCodeGeneratorEnabled.json.
+type: test
+title: QRCodeGeneratorEnabled policy pref mapping test data
+summary: Test data verifying the QRCodeGeneratorEnabled policy maps to the qr_code_generator_enabled local state preference with true and false values.

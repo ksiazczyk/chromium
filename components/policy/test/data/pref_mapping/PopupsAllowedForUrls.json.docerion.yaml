@@ -1,0 +1,4 @@
+# Docerion header of PopupsAllowedForUrls.json.
+type: test
+title: PopupsAllowedForUrls pref mapping test data
+summary: Test data verifying that the PopupsAllowedForUrls policy maps to the managed popups allowed for URLs pref on supported platforms.

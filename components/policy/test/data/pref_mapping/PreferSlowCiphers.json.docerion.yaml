@@ -1,0 +1,4 @@
+# Docerion header of PreferSlowCiphers.json.
+type: test
+title: PreferSlowCiphers policy pref mapping test data
+summary: Test data mapping the PreferSlowCiphers policy to the ssl.compliance.cipher preference for machine and user scope across all major platforms.

@@ -1,0 +1,4 @@
+# Docerion header of PreconfiguredDeskTemplates.json.
+type: test
+title: PreconfiguredDeskTemplates missing test placeholder
+summary: Placeholder recording that no pref mapping test exists for PreconfiguredDeskTemplates because external data policies are not yet supported.

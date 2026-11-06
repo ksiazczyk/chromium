@@ -1,0 +1,4 @@
+# Docerion header of NTPContentSuggestionsEnabled.json.
+type: test
+title: NTPContentSuggestionsEnabled policy pref mapping test data
+summary: Test data mapping the NTPContentSuggestionsEnabled policy to the NTP snippets enable pref on Android.

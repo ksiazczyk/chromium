@@ -1,0 +1,4 @@
+# Docerion header of PrintingEnabled.json.
+type: test
+title: PrintingEnabled policy pref mapping test data
+summary: Test fixture verifying that the PrintingEnabled policy controls the printing.enabled preference with true and false values across platforms.

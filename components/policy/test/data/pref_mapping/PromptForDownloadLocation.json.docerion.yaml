@@ -1,0 +1,4 @@
+# Docerion header of PromptForDownloadLocation.json.
+type: test
+title: PromptForDownloadLocation policy pref mapping test data
+summary: Simple policy pref mapping test for the PromptForDownloadLocation policy and the download.prompt_for_download pref.

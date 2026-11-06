@@ -1,0 +1,4 @@
+# Docerion header of ProtectedContentIdentifiersAllowed.json.
+type: test
+title: ProtectedContentIdentifiersAllowed policy pref mapping test data
+summary: Test data verifying the ProtectedContentIdentifiersAllowed policy maps to its protected content pref with default true on Windows, Android and ChromeOS.

@@ -1,0 +1,4 @@
+# Docerion header of MemorySaverModeSavings.json.
+type: test
+title: MemorySaverModeSavings policy pref mapping test data
+summary: Test data checking the MemorySaverModeSavings policy maps to the high efficiency mode aggressiveness pref in local state.

@@ -1,0 +1,4 @@
+# Docerion header of PrivacySandboxSiteEnabledAdsEnabled.json.
+type: test
+title: PrivacySandboxSiteEnabledAdsEnabled policy pref mapping test data
+summary: Policy pref mapping tests verifying PrivacySandboxSiteEnabledAdsEnabled controls the privacy_sandbox.m1.fledge_enabled pref, noting true values are not applied.

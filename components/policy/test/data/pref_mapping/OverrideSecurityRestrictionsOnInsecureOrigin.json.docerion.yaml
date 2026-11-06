@@ -1,0 +1,4 @@
+# Docerion header of OverrideSecurityRestrictionsOnInsecureOrigin.json.
+type: test
+title: OverrideSecurityRestrictionsOnInsecureOrigin policy pref mapping test data
+summary: Test data verifying that the policy maps to the unsafely_treat_insecure_origin_as_secure local state preference.

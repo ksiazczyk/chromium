@@ -1,0 +1,4 @@
+# Docerion header of MaxConnectionsPerProxyForWebSocket.json.
+type: test
+title: MaxConnectionsPerProxyForWebSocket policy pref mapping test data
+summary: Test data checking the MaxConnectionsPerProxyForWebSocket policy maps to the net.max_connections_per_proxy_for_websocket pref in local state.

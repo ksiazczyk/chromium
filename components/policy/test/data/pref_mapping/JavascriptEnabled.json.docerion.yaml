@@ -1,0 +1,4 @@
+# Docerion header of JavascriptEnabled.json.
+type: test
+title: JavascriptEnabled policy pref mapping test data
+summary: Test data covering default, disabled and enabled cases for the JavascriptEnabled policy, including its deprecation override by DefaultJavaScriptSetting.

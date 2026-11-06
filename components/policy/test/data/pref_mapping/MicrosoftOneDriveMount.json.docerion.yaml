@@ -1,0 +1,4 @@
+# Docerion header of MicrosoftOneDriveMount.json.
+type: test
+title: MicrosoftOneDriveMount policy pref mapping test data
+summary: Test data mapping the MicrosoftOneDriveMount policy to the OneDrive mount pref on ChromeOS with allowed, disallowed and automated values.

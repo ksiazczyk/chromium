@@ -1,0 +1,4 @@
+# Docerion header of MonoAudioEnabled.json.
+type: test
+title: MonoAudioEnabled policy pref mapping test data
+summary: Test data mapping the MonoAudioEnabled policy to the accessibility mono audio pref on ChromeOS with true and false values.

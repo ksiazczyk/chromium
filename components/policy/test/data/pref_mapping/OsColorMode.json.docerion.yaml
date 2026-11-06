@@ -1,0 +1,4 @@
+# Docerion header of OsColorMode.json.
+type: test
+title: OsColorMode policy pref mapping test data
+summary: ChromeOS test data verifying that the OsColorMode policy maps to the ash dark mode enabled and schedule type preferences, including recommended values.

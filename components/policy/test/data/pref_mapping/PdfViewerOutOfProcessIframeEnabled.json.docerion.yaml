@@ -1,0 +1,4 @@
+# Docerion header of PdfViewerOutOfProcessIframeEnabled.json.
+type: test
+title: PdfViewerOutOfProcessIframeEnabled pref mapping test data
+summary: Test data mapping the PdfViewerOutOfProcessIframeEnabled policy to the local-state pref pdf.enable_out_of_process_iframe_viewer, testing true and false values.

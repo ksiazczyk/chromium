@@ -1,0 +1,4 @@
+# Docerion header of NativeMessagingBlocklist.json.
+type: test
+title: NativeMessagingBlocklist policy pref mapping test
+summary: Test data verifying the NativeMessagingBlocklist policy sets the native_messaging.blocklist pref, using a wildcard blocklist value on win, linux, mac and fuchsia.

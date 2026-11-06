@@ -1,0 +1,4 @@
+# Docerion header of PluginVmAllowed.json.
+type: test
+title: PluginVmAllowed deprecated policy placeholder
+summary: Placeholder pref mapping entry stating that no test exists because the PluginVmAllowed policy was deprecated in M152.

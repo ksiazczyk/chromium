@@ -1,0 +1,4 @@
+# Docerion header of NativeHostsExecutablesLaunchDirectly.json.
+type: test
+title: NativeHostsExecutablesLaunchDirectly policy pref mapping test
+summary: Test data mapping the NativeHostsExecutablesLaunchDirectly policy to the native_hosts_executables_launch_directly pref with true and false values on Windows.

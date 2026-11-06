@@ -1,0 +1,4 @@
+# Docerion header of PrintingDuplexDefault.json.
+type: test
+title: PrintingDuplexDefault policy pref mapping test data
+summary: Test fixture verifying that the PrintingDuplexDefault policy maps to the printing.duplex_default preference on ChromeOS.

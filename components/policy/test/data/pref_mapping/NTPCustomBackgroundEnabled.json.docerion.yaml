@@ -1,0 +1,4 @@
+# Docerion header of NTPCustomBackgroundEnabled.json.
+type: test
+title: NTPCustomBackgroundEnabled policy pref mapping test data
+summary: Test data mapping the NTPCustomBackgroundEnabled policy to the custom background dict pref across desktop, ChromeOS and Android platforms.

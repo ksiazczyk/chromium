@@ -1,0 +1,4 @@
+# Docerion header of PrintRasterizationMode.json.
+type: test
+title: PrintRasterizationMode policy pref mapping test data
+summary: Test data verifying that the PrintRasterizationMode policy maps to the printing.rasterization_mode preference on Windows.

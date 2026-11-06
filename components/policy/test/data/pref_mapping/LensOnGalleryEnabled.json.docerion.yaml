@@ -1,0 +1,4 @@
+# Docerion header of LensOnGalleryEnabled.json.
+type: test
+title: LensOnGalleryEnabled pref mapping test data
+summary: Test data verifying that the LensOnGalleryEnabled policy maps to the media_app.enable_lens preference on ChromeOS.

@@ -1,0 +1,4 @@
+# Docerion header of IncognitoModeUrlAllowlist.json.
+type: test
+title: IncognitoModeUrlAllowlist policy pref mapping test data
+summary: Test fixture mapping the IncognitoModeUrlAllowlist policy to the policy.incognito_mode_url_allowlist preference with an example.com allowlist value.

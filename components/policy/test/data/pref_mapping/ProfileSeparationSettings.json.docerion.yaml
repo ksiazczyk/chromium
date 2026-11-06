@@ -1,0 +1,4 @@
+# Docerion header of ProfileSeparationSettings.json.
+type: test
+title: ProfileSeparationSettings policy pref mapping test data
+summary: Test data for the ProfileSeparationSettings policy mapping to the profile_separation.settings pref, covering defaults and interaction with ManagedAccountsSigninRestriction.

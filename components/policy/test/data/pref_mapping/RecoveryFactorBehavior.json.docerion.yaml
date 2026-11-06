@@ -1,0 +1,4 @@
+# Docerion header of RecoveryFactorBehavior.json.
+type: test
+title: RecoveryFactorBehavior policy pref mapping test data
+summary: Test data verifying the RecoveryFactorBehavior policy maps to the ash.recovery.recovery_factor_behavior pref on ChromeOS and can be recommended.

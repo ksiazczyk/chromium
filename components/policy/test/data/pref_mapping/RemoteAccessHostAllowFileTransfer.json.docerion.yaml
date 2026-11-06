@@ -1,0 +1,4 @@
+# Docerion header of RemoteAccessHostAllowFileTransfer.json.
+type: test
+title: RemoteAccessHostAllowFileTransfer pref mapping test data
+summary: Marks the policy as lacking a pref mapping test because it is not used by the browser and is handled by the CRD host.

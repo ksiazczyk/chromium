@@ -1,0 +1,4 @@
+# Docerion header of PhoneHubTaskContinuationAllowed.json.
+type: test
+title: PhoneHubTaskContinuationAllowed policy pref mapping test data
+summary: Test data verifying the PhoneHubTaskContinuationAllowed policy maps to the phone_hub_task_continuation.allowed preference on ChromeOS with true and false values.

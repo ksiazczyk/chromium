@@ -1,0 +1,4 @@
+# Docerion header of LegacyCookieScopeEnabled.json.
+type: test
+title: LegacyCookieScopeEnabled pref mapping test data
+summary: Test data verifying that the LegacyCookieScopeEnabled policy maps to the managed default legacy cookie scope content setting across all platforms.

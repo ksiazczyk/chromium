@@ -1,0 +1,4 @@
+# Docerion header of NetworkFileSharesAllowed.json.
+type: test
+title: NetworkFileSharesAllowed policy pref mapping test data
+summary: Test fixture checking that the NetworkFileSharesAllowed policy controls the network_file_shares.allowed preference on ChromeOS.

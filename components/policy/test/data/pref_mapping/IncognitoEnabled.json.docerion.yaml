@@ -1,0 +1,4 @@
+# Docerion header of IncognitoEnabled.json.
+type: test
+title: IncognitoEnabled policy pref mapping test data
+summary: Test fixture verifying the deprecated IncognitoEnabled policy maps to incognito.mode_availability and that IncognitoModeAvailability takes precedence over it.

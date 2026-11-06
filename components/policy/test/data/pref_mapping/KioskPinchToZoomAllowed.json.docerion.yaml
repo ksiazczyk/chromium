@@ -1,0 +1,4 @@
+# Docerion header of KioskPinchToZoomAllowed.json.
+type: test
+title: KioskPinchToZoomAllowed pref mapping test data
+summary: Defines the ChromeOS pref mapping test for the KioskPinchToZoomAllowed policy, checking the user profile pref policy.kiosk_pinch_to_zoom_allowed with true and false values.

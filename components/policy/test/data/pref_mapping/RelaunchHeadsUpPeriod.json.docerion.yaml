@@ -1,0 +1,4 @@
+# Docerion header of RelaunchHeadsUpPeriod.json.
+type: test
+title: RelaunchHeadsUpPeriod policy pref mapping test data
+summary: Test data verifying the RelaunchHeadsUpPeriod policy maps to the browser.relaunch_heads_up_period local state pref on ChromeOS.

@@ -1,0 +1,4 @@
+# Docerion header of PrintHeaderFooter.json.
+type: test
+title: PrintHeaderFooter policy pref mapping test data
+summary: Test data mapping the PrintHeaderFooter policy to the printing.print_header_footer preference across desktop platforms.

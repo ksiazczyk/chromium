@@ -1,0 +1,4 @@
+# Docerion header of PreferSlowKexAlgorithms.json.
+type: test
+title: PreferSlowKexAlgorithms policy pref mapping test data
+summary: Test data mapping the PreferSlowKexAlgorithms policy to the ssl.compliance.key_exchange preference for machine and user scope across all major platforms.

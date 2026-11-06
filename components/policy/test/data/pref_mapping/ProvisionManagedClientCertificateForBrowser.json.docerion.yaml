@@ -1,0 +1,4 @@
+# Docerion header of ProvisionManagedClientCertificateForBrowser.json.
+type: test
+title: ProvisionManagedClientCertificateForBrowser policy pref mapping test data
+summary: Test data verifying the ProvisionManagedClientCertificateForBrowser policy maps to a local state client certificate pref on Mac, Windows, Linux and Android.

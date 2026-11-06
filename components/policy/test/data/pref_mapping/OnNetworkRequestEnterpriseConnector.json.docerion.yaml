@@ -1,0 +1,4 @@
+# Docerion header of OnNetworkRequestEnterpriseConnector.json.
+type: test
+title: OnNetworkRequestEnterpriseConnector pref mapping test data
+summary: Test cases verifying that the OnNetworkRequestEnterpriseConnector policy maps to the enterprise_connectors.on_network_request pref across several platforms.

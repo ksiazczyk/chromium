@@ -1,0 +1,4 @@
+# Docerion header of PreciseGeolocationAllowedForUrls.json.
+type: test
+title: PreciseGeolocationAllowedForUrls pref mapping test data
+summary: Test data verifying that the PreciseGeolocationAllowedForUrls policy maps to the managed geolocation allowed for URLs pref.

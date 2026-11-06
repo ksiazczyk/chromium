@@ -1,0 +1,4 @@
+# Docerion header of PrintingBackgroundGraphicsDefault.json.
+type: test
+title: PrintingBackgroundGraphicsDefault policy pref mapping test data
+summary: Test fixture verifying that the PrintingBackgroundGraphicsDefault policy maps to the printing.background_graphics_default preference across platforms.

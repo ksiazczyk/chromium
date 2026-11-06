@@ -1,0 +1,4 @@
+# Docerion header of PrintJobHistoryExpirationPeriod.json.
+type: test
+title: PrintJobHistoryExpirationPeriod policy pref mapping test data
+summary: ChromeOS test data mapping the PrintJobHistoryExpirationPeriod policy to the printing.print_job_history_expiration_period preference.

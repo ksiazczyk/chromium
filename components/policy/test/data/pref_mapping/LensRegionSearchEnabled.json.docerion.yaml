@@ -1,0 +1,4 @@
+# Docerion header of LensRegionSearchEnabled.json.
+type: test
+title: LensRegionSearchEnabled pref mapping test data
+summary: Test data verifying that the LensRegionSearchEnabled policy maps to its user profile preference, including a default value check with no policies set.

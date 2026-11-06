@@ -1,0 +1,4 @@
+# Docerion header of PromptOnMultipleMatchingCertificates.json.
+type: test
+title: PromptOnMultipleMatchingCertificates policy pref mapping test data
+summary: Simple policy pref mapping test for the PromptOnMultipleMatchingCertificates policy and the prompt_on_multiple_matching_certificates pref.

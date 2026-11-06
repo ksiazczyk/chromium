@@ -1,0 +1,4 @@
+# Docerion header of PrintingAllowedDuplexModes.json.
+type: test
+title: PrintingAllowedDuplexModes policy pref mapping test data
+summary: Test fixture verifying that the PrintingAllowedDuplexModes policy maps to the printing.allowed_duplex_modes preference on ChromeOS.

@@ -1,0 +1,4 @@
+# Docerion header of KeyboardDefaultToFunctionKeys.json.
+type: test
+title: KeyboardDefaultToFunctionKeys pref mapping test data
+summary: Test data verifying the KeyboardDefaultToFunctionKeys policy maps to the settings.language.send_function_keys pref on ChromeOS.

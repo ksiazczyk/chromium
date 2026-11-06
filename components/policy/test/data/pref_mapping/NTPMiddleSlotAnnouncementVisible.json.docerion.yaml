@@ -1,0 +1,4 @@
+# Docerion header of NTPMiddleSlotAnnouncementVisible.json.
+type: test
+title: NTPMiddleSlotAnnouncementVisible deprecated policy placeholder
+summary: Pref mapping entry noting that no test exists for NTPMiddleSlotAnnouncementVisible because the policy was deprecated in M154.

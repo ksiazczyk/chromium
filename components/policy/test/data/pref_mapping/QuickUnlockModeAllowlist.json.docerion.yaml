@@ -1,0 +1,4 @@
+# Docerion header of QuickUnlockModeAllowlist.json.
+type: test
+title: QuickUnlockModeAllowlist policy pref mapping test data
+summary: ChromeOS test data verifying the QuickUnlockModeAllowlist policy maps to the quick unlock mode allowlist preference, covering the default empty state and a PIN value.

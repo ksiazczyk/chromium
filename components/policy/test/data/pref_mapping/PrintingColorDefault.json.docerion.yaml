@@ -1,0 +1,4 @@
+# Docerion header of PrintingColorDefault.json.
+type: test
+title: PrintingColorDefault policy pref mapping test data
+summary: Test fixture verifying that the PrintingColorDefault policy maps to the printing.color_default preference on ChromeOS.

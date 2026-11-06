@@ -1,0 +1,4 @@
+# Docerion header of OnDataCopiedEnterpriseConnector.json.
+type: test
+title: OnDataCopiedEnterpriseConnector pref mapping test data
+summary: Test cases verifying that the OnDataCopiedEnterpriseConnector policy maps to the enterprise_connectors.on_data_copied pref across several platforms.

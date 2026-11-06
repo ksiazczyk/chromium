@@ -1,0 +1,4 @@
+# Docerion header of OriginAgentClusterDefaultEnabled.json.
+type: test
+title: OriginAgentClusterDefaultEnabled policy pref mapping test data
+summary: Test data verifying that the OriginAgentClusterDefaultEnabled policy maps to the origin_agent_cluster_default_enabled preference.
