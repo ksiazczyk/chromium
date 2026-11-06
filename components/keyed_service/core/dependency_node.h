@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DependencyNode base class
+// summary: Defines the base class for nodes participating in a DependencyGraph.
+// ---
+
 #ifndef COMPONENTS_KEYED_SERVICE_CORE_DEPENDENCY_NODE_H_
 #define COMPONENTS_KEYED_SERVICE_CORE_DEPENDENCY_NODE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser context keyed service shutdown notifier factory declaration
+// summary: Declares a base class for factories that supply per-BrowserContext KeyedServiceShutdownNotifier objects.
+// ---
+
 #ifndef COMPONENTS_KEYED_SERVICE_CONTENT_BROWSER_CONTEXT_KEYED_SERVICE_SHUTDOWN_NOTIFIER_FACTORY_H_
 #define COMPONENTS_KEYED_SERVICE_CONTENT_BROWSER_CONTEXT_KEYED_SERVICE_SHUTDOWN_NOTIFIER_FACTORY_H_
 

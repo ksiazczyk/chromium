@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KeyedServiceFactory class header
+// summary: Declares the base factory class that maps contexts one-to-one to KeyedService instances, requiring concrete factories to be singletons.
+// ---
+
 #ifndef COMPONENTS_KEYED_SERVICE_CORE_KEYED_SERVICE_FACTORY_H_
 #define COMPONENTS_KEYED_SERVICE_CORE_KEYED_SERVICE_FACTORY_H_
 

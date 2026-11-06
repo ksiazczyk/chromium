@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RefcountedKeyedServiceFactory class declaration
+// summary: Declares a keyed service factory specialization for refcounted services, guaranteeing UI-thread shutdown while allowing destruction on any thread.
+// ---
+
 #ifndef COMPONENTS_KEYED_SERVICE_CORE_REFCOUNTED_KEYED_SERVICE_FACTORY_H_
 #define COMPONENTS_KEYED_SERVICE_CORE_REFCOUNTED_KEYED_SERVICE_FACTORY_H_
 

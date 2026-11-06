@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for JavaScript dialogs views
+summary: Defines the allowed include dependencies for the JavaScript dialogs views directory, permitting ui/events/keycodes and ui/views.

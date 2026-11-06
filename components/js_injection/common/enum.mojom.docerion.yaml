@@ -1,0 +1,4 @@
+# Docerion header of enum.mojom.
+type: source
+title: Mojom enums for JavaScript injection timing and errors
+summary: Defines DocumentInjectionTime and JavaScriptExecutionError enums for the js_injection Mojom module, generated for Java use.

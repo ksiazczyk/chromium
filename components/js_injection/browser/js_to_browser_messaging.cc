@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JsToBrowserMessaging implementation
+// summary: Implements the JsToBrowserMessaging Mojo interface, handling PostMessage calls from the renderer and queuing messages posted during prerendering per document.
+// ---
+
 #include "components/js_injection/browser/js_to_browser_messaging.h"
 
 #include <algorithm>

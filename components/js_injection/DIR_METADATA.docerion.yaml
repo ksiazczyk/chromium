@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for js_injection
+summary: Declares the Monorail component Mobile>WebView, the android-webview-dev team email, and the public Buganizer component for this directory.

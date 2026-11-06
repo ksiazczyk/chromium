@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS list for keyed_service
+summary: Lists the email addresses of the owners responsible for reviewing changes to the keyed_service component.

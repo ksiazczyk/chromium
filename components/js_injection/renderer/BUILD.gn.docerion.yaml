@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build configuration for the js_injection renderer
+summary: GN build file defining the renderer source set with the js_binding and js_communication sources and its Chromium dependencies.

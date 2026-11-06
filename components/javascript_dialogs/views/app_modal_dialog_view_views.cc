@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppModalDialogViewViews implementation
+// summary: Implements the Views-based app modal dialog for JavaScript dialogs, wiring message box input, accept, cancel, and close callbacks to the dialog controller.
+// ---
+
 #include "components/javascript_dialogs/views/app_modal_dialog_view_views.h"
 
 #include "base/strings/utf_string_conversions.h"

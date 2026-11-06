@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DependencyManager implementation
+// summary: Implements keyed service factory dependency management, including registration checks, preference registration, and context service creation and destruction.
+// ---
+
 #include "components/keyed_service/core/dependency_manager.h"
 
 #include <ostream>

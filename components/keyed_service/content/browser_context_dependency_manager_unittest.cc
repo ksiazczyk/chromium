@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser context dependency manager unit tests
+// summary: Unit tests verifying that browser context keyed services shut down in correct dependency order for single, chained, and multi-parent configurations.
+// ---
+
 #include "components/keyed_service/content/browser_context_dependency_manager.h"
 #include "base/memory/raw_ptr.h"
 #include "components/keyed_service/content/browser_context_keyed_service_factory.h"

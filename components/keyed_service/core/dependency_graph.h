@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DependencyGraph class declaration
+// summary: Declares a dynamic graph of dependencies between nodes that computes safe construction and destruction orders via topological sort.
+// ---
+
 #ifndef COMPONENTS_KEYED_SERVICE_CORE_DEPENDENCY_GRAPH_H_
 #define COMPONENTS_KEYED_SERVICE_CORE_DEPENDENCY_GRAPH_H_
 

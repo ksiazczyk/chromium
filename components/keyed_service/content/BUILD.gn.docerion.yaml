@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for the keyed_service content component
+summary: GN build configuration defining the keyed_service_content component with its sources and dependencies, plus the unit_tests source_set.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab modal dialog view interface
+// summary: Abstract view interface for tab modal dialogs, letting the manager close a dialog without a callback and read the user input of a prompt dialog.
+// ---
+
 #ifndef COMPONENTS_JAVASCRIPT_DIALOGS_TAB_MODAL_DIALOG_VIEW_H_
 #define COMPONENTS_JAVASCRIPT_DIALOGS_TAB_MODAL_DIALOG_VIEW_H_
 

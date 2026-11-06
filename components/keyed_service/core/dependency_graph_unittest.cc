@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DependencyGraph unit tests
+// summary: Unit tests verifying construction and destruction ordering for single nodes, simple dependencies, and multi-parent graph configurations.
+// ---
+
 #include "components/keyed_service/core/dependency_graph.h"
 
 #include <string_view>

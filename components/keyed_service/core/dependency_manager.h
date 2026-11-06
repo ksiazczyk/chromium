@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DependencyManager class declaration
+// summary: Declares the manager that broadcasts context creation and destruction to keyed service factories in a dependency-safe order, including interlocked two-phase shutdown.
+// ---
+
 #ifndef COMPONENTS_KEYED_SERVICE_CORE_DEPENDENCY_MANAGER_H_
 #define COMPONENTS_KEYED_SERVICE_CORE_DEPENDENCY_MANAGER_H_
 

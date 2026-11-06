@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App modal dialog controller implementation
+// summary: Implements the controller for app-modal JavaScript alert, confirm, prompt and beforeunload dialogs, including platform-specific text eliding.
+// ---
+
 #include "components/javascript_dialogs/app_modal_dialog_controller.h"
 
 #include <utility>

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the iOS JavaScript dialogs component
+summary: Lists the code owners for the iOS JavaScript dialogs component and references the owners file of ios/web/content.

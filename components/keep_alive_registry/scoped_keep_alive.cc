@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedKeepAlive implementation
+// summary: Implements ScopedKeepAlive, which registers with the KeepAliveRegistry on construction and unregisters on destruction to keep the BrowserProcess alive.
+// ---
+
 #include "components/keep_alive_registry/scoped_keep_alive.h"
 
 #include "components/keep_alive_registry/keep_alive_registry.h"

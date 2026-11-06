@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the android folder
+summary: Declares the allowed dependency for this folder, granting includes from ui/android.

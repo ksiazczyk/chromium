@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JavaScript dialog view coordinator header
+// summary: Declares the JavascriptDialogViewCoordinator Objective-C class that presents JavaScript dialogs with UIAlertController and exposes the entered prompt text.
+// ---
+
 #ifndef COMPONENTS_JAVASCRIPT_DIALOGS_IOS_JAVASCRIPT_DIALOG_VIEW_COORDINATOR_H_
 #define COMPONENTS_JAVASCRIPT_DIALOGS_IOS_JAVASCRIPT_DIALOG_VIEW_COORDINATOR_H_
 

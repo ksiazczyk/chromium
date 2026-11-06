@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS delegation to android_webview
+summary: Delegates ownership review for the js_injection directory to the OWNERS file of android_webview.

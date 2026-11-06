@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SimpleFactoryKey implementation
+// summary: Implements the SimpleFactoryKey constructor and destructor, marking each newly created key as live in the SimpleDependencyManager.
+// ---
+
 #include "components/keyed_service/core/simple_factory_key.h"
 
 #include "components/keyed_service/core/simple_dependency_manager.h"

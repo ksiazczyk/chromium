@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App modal dialog controller
+// summary: Declares the controller class and Chrome-specific extra data used to show, validate and close app-modal JavaScript dialogs.
+// ---
+
 #ifndef COMPONENTS_JAVASCRIPT_DIALOGS_APP_MODAL_DIALOG_CONTROLLER_H_
 #define COMPONENTS_JAVASCRIPT_DIALOGS_APP_MODAL_DIALOG_CONTROLLER_H_
 

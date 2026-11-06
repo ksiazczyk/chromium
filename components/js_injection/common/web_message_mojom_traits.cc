@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Traits implementation for JsWebMessage serialization
+// summary: Implements StructTraits and UnionTraits that convert blink WebMessagePayload between string, array buffer, and shared memory forms for Mojom serialization.
+// ---
+
 #include "components/js_injection/common/web_message_mojom_traits.h"
 
 #include <string>

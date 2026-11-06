@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build config for the JavaScript dialogs core util source set
+summary: Defines the util source set containing dialog_util.cc and dialog_util.h with dependencies on base, strings, url_formatter, ui/base, and url.

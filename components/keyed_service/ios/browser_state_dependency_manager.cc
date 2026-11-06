@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserStateDependencyManager implementation
+// summary: Implements the BrowserStateDependencyManager singleton that creates, tests, and destroys BrowserState services in dependency order.
+// ---
+
 #include "components/keyed_service/ios/browser_state_dependency_manager.h"
 
 #include "base/memory/singleton.h"

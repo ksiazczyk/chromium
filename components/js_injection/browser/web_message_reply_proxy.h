@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebMessageReplyProxy interface for sending messages back to a page
+// summary: Defines the WebMessageReplyProxy interface used to post web messages to a page, execute JavaScript with a result callback, and query the target page and its cross-origin isolation state.
+// ---
+
 #ifndef COMPONENTS_JS_INJECTION_BROWSER_WEB_MESSAGE_REPLY_PROXY_H_
 #define COMPONENTS_JS_INJECTION_BROWSER_WEB_MESSAGE_REPLY_PROXY_H_
 

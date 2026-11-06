@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stream output operators for keep-alive types
+// summary: Implements operator<< for KeepAliveOrigin and KeepAliveRestartOption so enum values print as readable names for logging and debugging.
+// ---
+
 #include "components/keep_alive_registry/keep_alive_types.h"
 
 #include "base/logging.h"

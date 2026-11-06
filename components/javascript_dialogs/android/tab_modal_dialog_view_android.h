@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android tab modal JavaScript dialog view class declaration
+// summary: Declares TabModalDialogViewAndroid, a JavaScript dialog that automatically dismisses itself when the user switches to a different tab.
+// ---
+
 #ifndef COMPONENTS_JAVASCRIPT_DIALOGS_ANDROID_TAB_MODAL_DIALOG_VIEW_ANDROID_H_
 #define COMPONENTS_JAVASCRIPT_DIALOGS_ANDROID_TAB_MODAL_DIALOG_VIEW_ANDROID_H_
 

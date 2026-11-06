@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for JavaScript dialogs
+summary: Lists the directories and headers that code in this component is allowed to include.

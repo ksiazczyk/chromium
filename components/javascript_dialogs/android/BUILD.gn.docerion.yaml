@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for Android JavaScript dialogs
+summary: Defines GN targets for the Android JavaScript dialogs component, including the Java library, resources, JNI header generation, and translated strings.

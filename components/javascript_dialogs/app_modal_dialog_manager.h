@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App modal dialog manager
+// summary: Declares the singleton JavaScriptDialogManager for app-modal dialogs with hooks for a native view factory, delegate and extensions client.
+// ---
+
 #ifndef COMPONENTS_JAVASCRIPT_DIALOGS_APP_MODAL_DIALOG_MANAGER_H_
 #define COMPONENTS_JAVASCRIPT_DIALOGS_APP_MODAL_DIALOG_MANAGER_H_
 

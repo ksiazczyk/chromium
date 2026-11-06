@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for keyed_service content
+summary: Chromium DEPS file allowing includes only from content/public/browser and content/public/common in this directory.

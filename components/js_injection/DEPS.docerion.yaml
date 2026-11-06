@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for js_injection
+summary: Defines allowed include dependencies for the js_injection component, with a special rule letting navigation_listener_browsertest.cc include the content shell header.

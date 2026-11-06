@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KeyedService interface
+// summary: Defines the interface for keyed services supporting two-phase shutdown, where references are dropped in a first pass before deletion.
+// ---
+
 #ifndef COMPONENTS_KEYED_SERVICE_CORE_KEYED_SERVICE_H_
 #define COMPONENTS_KEYED_SERVICE_CORE_KEYED_SERVICE_H_
 

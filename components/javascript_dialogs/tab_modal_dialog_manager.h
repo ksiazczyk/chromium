@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab modal dialog manager header
+// summary: Declares TabModalDialogManager, the JavaScriptDialogManager for tab modal dialogs, with a DismissalCause enum used for UMA reporting.
+// ---
+
 #ifndef COMPONENTS_JAVASCRIPT_DIALOGS_TAB_MODAL_DIALOG_MANAGER_H_
 #define COMPONENTS_JAVASCRIPT_DIALOGS_TAB_MODAL_DIALOG_MANAGER_H_
 

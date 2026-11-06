@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JavascriptModalDialog
+// summary: Abstract base class that builds, shows and dismisses modal dialogs for JavaScript popups using the ModalDialogManager and the shared custom dialog view.
+// ---
+
 package org.chromium.components.javascript_dialogs;
 
 import android.content.Context;

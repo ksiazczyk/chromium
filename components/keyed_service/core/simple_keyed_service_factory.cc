@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SimpleKeyedServiceFactory implementation
+// summary: Implements the simple keyed service factory base, wiring testing factories, per-key service lookup, incognito defaults, and context shutdown and destruction hooks.
+// ---
+
 #include "components/keyed_service/core/simple_keyed_service_factory.h"
 
 #include "base/check_op.h"

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for js_injection browser
+summary: GN build file defining the browser source set and the browser_tests test target with their sources and dependencies for the js_injection component.

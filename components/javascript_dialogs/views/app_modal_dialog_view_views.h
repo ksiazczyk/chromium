@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppModalDialogViewViews class declaration
+// summary: Declares the AppModalDialogViewViews class, a Views dialog delegate that presents JavaScript app modal dialogs and forwards user actions to its controller.
+// ---
+
 #ifndef COMPONENTS_JAVASCRIPT_DIALOGS_VIEWS_APP_MODAL_DIALOG_VIEW_VIEWS_H_
 #define COMPONENTS_JAVASCRIPT_DIALOGS_VIEWS_APP_MODAL_DIALOG_VIEW_VIEWS_H_
 

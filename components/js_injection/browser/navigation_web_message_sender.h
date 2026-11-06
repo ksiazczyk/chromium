@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NavigationWebMessageSender class declaration
+// summary: Declares NavigationWebMessageSender, a per-Page WebContents observer that injects navigation notification messages for special navigation listeners, with BFCache handling options.
+// ---
+
 #ifndef COMPONENTS_JS_INJECTION_BROWSER_NAVIGATION_WEB_MESSAGE_SENDER_H_
 #define COMPONENTS_JS_INJECTION_BROWSER_NAVIGATION_WEB_MESSAGE_SENDER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RefcountedKeyedService class header
+// summary: Declares a refcounted base class for services tied to a BrowserContext, with mandatory UI-thread shutdown and optional sequence-specific deletion.
+// ---
+
 #ifndef COMPONENTS_KEYED_SERVICE_CORE_REFCOUNTED_KEYED_SERVICE_H_
 #define COMPONENTS_KEYED_SERVICE_CORE_REFCOUNTED_KEYED_SERVICE_H_
 

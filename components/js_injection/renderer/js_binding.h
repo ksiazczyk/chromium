@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JsBinding class declaration
+// summary: Declares the gin-wrappable JsBinding class that exposes a named JavaScript object per world and handles browser-to-JS messaging.
+// ---
+
 #ifndef COMPONENTS_JS_INJECTION_RENDERER_JS_BINDING_H_
 #define COMPONENTS_JS_INJECTION_RENDERER_JS_BINDING_H_
 

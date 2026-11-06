@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KeyedServiceBaseFactory class header
+// summary: Declares the abstract base class for keyed service factories, covering dependency declaration, context staleness checks, and service creation lifecycle hooks.
+// ---
+
 #ifndef COMPONENTS_KEYED_SERVICE_CORE_KEYED_SERVICE_BASE_FACTORY_H_
 #define COMPONENTS_KEYED_SERVICE_CORE_KEYED_SERVICE_BASE_FACTORY_H_
 

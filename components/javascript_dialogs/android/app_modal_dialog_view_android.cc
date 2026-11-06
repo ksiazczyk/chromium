@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android app modal JavaScript dialog view implementation
+// summary: Implements the Android view for app modal JavaScript dialogs, creating and showing alert, confirm, beforeunload, and prompt dialogs through JNI.
+// ---
+
 #include "components/javascript_dialogs/android/app_modal_dialog_view_android.h"
 
 #include "base/android/jni_android.h"

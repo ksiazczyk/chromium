@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebMessageHost interface for the browser side of a WebMessage channel
+// summary: Defines the WebMessageHost interface with an OnPostMessage callback that receives WebMessage objects arriving from the renderer side of the channel.
+// ---
+
 #ifndef COMPONENTS_JS_INJECTION_BROWSER_WEB_MESSAGE_HOST_H_
 #define COMPONENTS_JS_INJECTION_BROWSER_WEB_MESSAGE_HOST_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android app modal JavaScript dialog view class declaration
+// summary: Declares AppModalDialogViewAndroid, the Android AppModalDialogView that bridges native controller callbacks to the Java dialog object.
+// ---
+
 #ifndef COMPONENTS_JAVASCRIPT_DIALOGS_ANDROID_APP_MODAL_DIALOG_VIEW_ANDROID_H_
 #define COMPONENTS_JAVASCRIPT_DIALOGS_ANDROID_APP_MODAL_DIALOG_VIEW_ANDROID_H_
 

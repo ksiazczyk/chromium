@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keep-alive origin and restart option enums
+// summary: Defines the KeepAliveOrigin enum listing browser subsystems that hold keep-alives and the KeepAliveRestartOption enum controlling restart permission.
+// ---
+
 #ifndef COMPONENTS_KEEP_ALIVE_REGISTRY_KEEP_ALIVE_TYPES_H_
 #define COMPONENTS_KEEP_ALIVE_REGISTRY_KEEP_ALIVE_TYPES_H_
 

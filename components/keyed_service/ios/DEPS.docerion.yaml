@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for iOS keyed service
+summary: Grants code in this directory include access to ios/web/public headers.

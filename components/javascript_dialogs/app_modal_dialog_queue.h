@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App modal dialog queue header
+// summary: Declares the AppModalDialogQueue singleton, which queues app modal dialog controllers so only one is shown at a time and exposes queue iteration and state queries.
+// ---
+
 #ifndef COMPONENTS_JAVASCRIPT_DIALOGS_APP_MODAL_DIALOG_QUEUE_H_
 #define COMPONENTS_JAVASCRIPT_DIALOGS_APP_MODAL_DIALOG_QUEUE_H_
 

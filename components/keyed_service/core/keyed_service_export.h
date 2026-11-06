@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keyed service export macro header
+// summary: Defines the KEYED_SERVICE_EXPORT macro for symbol visibility under Windows and component builds.
+// ---
+
 #ifndef COMPONENTS_KEYED_SERVICE_CORE_KEYED_SERVICE_EXPORT_H_
 #define COMPONENTS_KEYED_SERVICE_CORE_KEYED_SERVICE_EXPORT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SimpleKeyMap class declaration
+// summary: Declares a singleton map from BrowserContext pointers to SimpleFactoryKeys so embedders can resolve keys when only a browser context is available.
+// ---
+
 #ifndef COMPONENTS_KEYED_SERVICE_CORE_SIMPLE_KEY_MAP_H_
 #define COMPONENTS_KEYED_SERVICE_CORE_SIMPLE_KEY_MAP_H_
 

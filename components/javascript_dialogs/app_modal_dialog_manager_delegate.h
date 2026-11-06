@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App modal dialog manager delegate
+// summary: Declares the delegate interface that returns a displayable title for a JavaScript dialog origin.
+// ---
+
 #ifndef COMPONENTS_JAVASCRIPT_DIALOGS_APP_MODAL_DIALOG_MANAGER_DELEGATE_H_
 #define COMPONENTS_JAVASCRIPT_DIALOGS_APP_MODAL_DIALOG_MANAGER_DELEGATE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserStateKeyedServiceFactory implementation
+// summary: Implements the base factory that maps each web::BrowserState to a KeyedService, including incognito defaults and testing factory support.
+// ---
+
 #include "components/keyed_service/ios/browser_state_keyed_service_factory.h"
 
 #include "base/check_op.h"

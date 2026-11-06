@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for keyed_service
+summary: Defines include rules for the keyed_service component, blocking content subdirectory dependencies and allowing prefs-related includes.

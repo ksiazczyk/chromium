@@ -1,0 +1,4 @@
+# Docerion header of javascript_dialogs_android_strings_my.xtb.
+type: data
+title: Burmese strings for Android JavaScript dialogs
+summary: Burmese translation bundle with Android JavaScript dialog strings, covering the warning that stops a page from creating more dialogs and the leave button label.

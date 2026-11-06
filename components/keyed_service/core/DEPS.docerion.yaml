@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for keyed_service core
+summary: Allows includes of tracing, Perfetto track event protos, and re2 (tests only) within the keyed_service core directory.

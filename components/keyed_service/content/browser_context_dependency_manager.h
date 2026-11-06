@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser context dependency manager class declaration
+// summary: Declares the BrowserContextDependencyManager singleton that rebroadcasts browser context creation and destruction notifications to keyed service factories in dependency order.
+// ---
+
 #ifndef COMPONENTS_KEYED_SERVICE_CONTENT_BROWSER_CONTEXT_DEPENDENCY_MANAGER_H_
 #define COMPONENTS_KEYED_SERVICE_CONTENT_BROWSER_CONTEXT_DEPENDENCY_MANAGER_H_
 

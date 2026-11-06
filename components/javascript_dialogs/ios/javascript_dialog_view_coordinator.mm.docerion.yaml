@@ -1,0 +1,4 @@
+# Docerion header of javascript_dialog_view_coordinator.mm.
+type: source
+title: JavaScript dialog view coordinator implementation
+summary: Implements the coordinator that builds OK, cancel, and prompt text field actions for alert, confirm, and prompt dialogs and reports results to the dialog view.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DependencyGraph implementation
+// summary: Implements the dependency graph with Kahn topological sorting for construction and destruction orders and Graphviz dumping of the graph.
+// ---
+
 #include "components/keyed_service/core/dependency_graph.h"
 
 #include <stddef.h>

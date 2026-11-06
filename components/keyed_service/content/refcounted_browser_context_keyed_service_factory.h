@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RefcountedBrowserContextKeyedServiceFactory header
+// summary: Declares a factory class that manages refcounted keyed service instances per browser context, including testing factory hooks, incognito context handling, and UI-thread shutdown guarantees.
+// ---
+
 #ifndef COMPONENTS_KEYED_SERVICE_CONTENT_REFCOUNTED_BROWSER_CONTEXT_KEYED_SERVICE_FACTORY_H_
 #define COMPONENTS_KEYED_SERVICE_CONTENT_REFCOUNTED_BROWSER_CONTEXT_KEYED_SERVICE_FACTORY_H_
 

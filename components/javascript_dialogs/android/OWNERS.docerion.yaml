@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the android folder
+summary: Delegates code ownership for this folder to the owners of the ui modal dialog component.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JsCommunication class declaration
+// summary: Declares the RenderFrameObserver that manages injected JavaScript objects and scripts for a render frame and exposes the JsCommunication Mojo interface.
+// ---
+
 #ifndef COMPONENTS_JS_INJECTION_RENDERER_JS_COMMUNICATION_H_
 #define COMPONENTS_JS_INJECTION_RENDERER_JS_COMMUNICATION_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keyed service templated factory implementation
+// summary: Implements context-to-service mappings, testing factory installation, service lookup and creation, and shutdown handling for the templated keyed service factory.
+// ---
+
 #include "components/keyed_service/core/keyed_service_templated_factory.h"
 
 #include <concepts>

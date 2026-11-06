@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Keyed service factory unit tests
+// summary: Unit tests verifying that services are created or skipped for contexts whose services are disabled by default, including per-context scoping and cleanup on destruction.
+// ---
+
 #include "components/keyed_service/core/keyed_service_factory.h"
 
 #include <memory>

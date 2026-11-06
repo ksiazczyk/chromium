@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extensions client interface for JavaScript dialogs
+// summary: Client interface for accessing and controlling extensions or apps that opened a JavaScript dialog, notifying them when dialogs open and close.
+// ---
+
 #ifndef COMPONENTS_JAVASCRIPT_DIALOGS_EXTENSIONS_CLIENT_H_
 #define COMPONENTS_JAVASCRIPT_DIALOGS_EXTENSIONS_CLIENT_H_
 
