@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Accessibility page tests
+// summary: Tests for the accessibility settings page, covering preference toggles, screen reader state, and browser proxy behavior.
+// ---
+
 import 'chrome://settings/lazy_load.js';
 
 // clang-format off

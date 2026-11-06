@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Site shortcuts page tests
+// summary: WebUI test suite for the site shortcuts page covering active and inactive search site shortcut sections and their visibility.
+// ---
+
 import 'chrome://settings/settings.js';
 
 import {webUIListenerCallback} from 'chrome://resources/js/cr.js';

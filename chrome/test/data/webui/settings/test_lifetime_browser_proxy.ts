@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test lifetime browser proxy
+// summary: Fake LifetimeBrowserProxy that records restart, relaunch and ChromeOS sign-out or factory reset calls in settings WebUI tests.
+// ---
+
 import type {LifetimeBrowserProxy} from 'chrome://settings/settings.js';
 import {TestBrowserProxy} from 'chrome://webui-test/test_browser_proxy.js';
 

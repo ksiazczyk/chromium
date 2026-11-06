@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Search engine list dialog WebUI tests
+// summary: Tests the search engine list dialog, covering engine listing, default engine selection, the more-engines entry point, and reaction to changes.
+// ---
+
 // clang-format off
 import 'chrome://settings/settings.js';
 

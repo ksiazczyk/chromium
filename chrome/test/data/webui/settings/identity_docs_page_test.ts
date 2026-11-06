@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Identity docs page tests
+// summary: WebUI tests for the settings identity docs page, covering the Autofill AI opt-in toggle state and its updates to identity entities prefs.
+// ---
+
 import 'chrome://settings/settings.js';
 
 import {AiEnterpriseFeaturePrefName, EntityDataManagerProxyImpl} from 'chrome://settings/lazy_load.js';

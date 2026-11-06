@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Searchable view container Lit mixin tests
+// summary: Tests the Lit-based SearchableViewContainerMixin for show-all behavior and search highlighting across parent and child views.
+// ---
+
 import {CrLitElement, css, html} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 import {loadTimeData, Router, routes, SearchableViewContainerMixinLit, SettingsViewMixinLit} from 'chrome://settings/settings.js';
 import {assertEquals, assertFalse, assertTrue} from 'chrome://webui-test/chai_assert.js';

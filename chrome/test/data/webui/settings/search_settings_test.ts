@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Settings search tests
+// summary: Tests the settings SearchManager highlighting of search hits in sections, selects, and ignored elements.
+// ---
+
 // clang-format off
 import type {SearchManager} from 'chrome://settings/settings.js';
 import {getSearchManager, getTrustedHTML as getTrustedStaticHtml, showBubble} from 'chrome://settings/settings.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Site entry element tests
+// summary: WebUI test suite for the site-entry element covering origin grouping, expand and collapse behavior, and navigation to site details.
+// ---
+
 // clang-format off
 import 'chrome://webui-test/cr_elements/cr_policy_strings.js';
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Collapse radio button tests
+// summary: WebUI test suite checking open and close behavior of the settings collapse radio button, including the noAutomaticCollapse flag and expand button.
+// ---
+
 import 'chrome://settings/lazy_load.js';
 
 import type {SettingsCollapseRadioButtonElement} from 'chrome://settings/lazy_load.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Settings radio group tests
+// summary: Tests that settings-radio-group reflects and updates a string preference through the prefs browser proxy.
+// ---
+
 import 'chrome://settings/lazy_load.js';
 
 import {PrefsBrowserProxy, PrefService} from 'chrome://settings/settings.js';

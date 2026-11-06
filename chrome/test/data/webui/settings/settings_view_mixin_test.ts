@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SettingsViewMixin focus tests
+// summary: WebUI test suite for the Polymer SettingsViewMixin verifying focus moves between parent and child views on navigation.
+// ---
+
 import {html, PolymerElement} from 'chrome://resources/polymer/v3_0/polymer/polymer_bundled.min.js';
 import {Router, routes, SettingsViewMixin} from 'chrome://settings/settings.js';
 import type {Route} from 'chrome://settings/settings.js';

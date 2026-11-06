@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension controlled message tests
+// summary: Tests for the extension-controlled message element, checking the disable link visibility and manage and disable link proxy calls.
+// ---
+
 // clang-format off
 import type {ExtensionControlledMessageElement} from 'chrome://settings/settings.js';
 import {OpenWindowProxyImpl, ExtensionControlBrowserProxyImpl} from 'chrome://settings/settings.js';

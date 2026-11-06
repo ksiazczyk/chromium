@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Import data dialog tests
+// summary: WebUI tests for the settings import data dialog, checking browser profile listing, supported import types and checkbox pref handling.
+// ---
+
 // clang-format off
 import {webUIListenerCallback} from 'chrome://resources/js/cr.js';
 import {dashToCamelCase} from 'chrome://resources/polymer/v3_0/polymer/polymer_bundled.min.js';

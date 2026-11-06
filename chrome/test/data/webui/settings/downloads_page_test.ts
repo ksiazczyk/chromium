@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Downloads page tests
+// summary: Tests for the settings downloads page, covering download location selection, initialization, and pref-controlled button behavior.
+// ---
+
 // clang-format off
 import type {ControlledButtonElement, DownloadsBrowserProxy, SettingsDownloadsPageElement} from 'chrome://settings/lazy_load.js';
 import {DownloadsBrowserProxyImpl} from 'chrome://settings/lazy_load.js';

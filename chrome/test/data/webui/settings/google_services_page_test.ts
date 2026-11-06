@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Google services page WebUI tests
+// summary: WebUI tests for the Google services settings page covering visible personalization options and redirect to the people route when syncing.
+// ---
+
 import 'chrome://settings/lazy_load.js';
 
 import {webUIListenerCallback} from 'chrome://resources/js/cr.js';

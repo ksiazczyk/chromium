@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autofill page index WebUI tests
+// summary: WebUI tests for the settings autofill page index, covering routing to payments, contact info and Autofill AI subpages plus search behavior.
+// ---
+
 import 'chrome://settings/settings.js';
 import 'chrome://settings/lazy_load.js';
 

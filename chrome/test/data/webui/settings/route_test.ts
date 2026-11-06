@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Settings router and route tests
+// summary: WebUI tests for the settings router, covering route tree structure, history-based back navigation, and URL query parameter updates.
+// ---
+
 // clang-format off
 import type {SettingsRoutes} from 'chrome://settings/settings.js';
 import {resetRouterForTesting, buildRouter, loadTimeData, Route, Router, routes, resetPageVisibilityForTesting} from 'chrome://settings/settings.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Skills page WebUI tests
+// summary: WebUI tests for the settings skills page, verifying the enable toggle updates the preference and that the gallery link opens the skills page.
+// ---
+
 import 'chrome://settings/lazy_load.js';
 import 'chrome://settings/settings.js';
 

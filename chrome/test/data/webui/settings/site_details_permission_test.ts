@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Site details permission element tests
+// summary: WebUI test suite for the site-details-permission element covering permission changes, default option labels, and browser proxy interactions.
+// ---
+
 // clang-format off
 import 'chrome://webui-test/cr_elements/cr_policy_strings.js';
 

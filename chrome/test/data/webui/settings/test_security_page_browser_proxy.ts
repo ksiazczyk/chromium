@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test security page browser proxy for settings
+// summary: Test double of SecurityPageBrowserProxy that mocks secure DNS settings, resolver lists, and config validation and probe results.
+// ---
+
 // clang-format off
 import type {ResolverOption, SecureDnsSetting, SecurityPageBrowserProxy} from 'chrome://settings/settings.js';
 import {SecureDnsMode, SecureDnsUiManagementMode} from 'chrome://settings/settings.js';

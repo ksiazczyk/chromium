@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Performance page index tests
+// summary: WebUI tests for the performance page index, covering routing and visibility of the memory saver and battery saver sections.
+// ---
+
 import 'chrome://settings/settings.js';
 import 'chrome://settings/lazy_load.js';
 

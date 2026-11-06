@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autofill fake data helpers
+// summary: Test helpers that create fake autofill addresses, credit cards, IBANs and account info for use in settings WebUI tests.
+// ---
+
 // clang-format off
 import type {AutofillManagerProxy, PaymentsManagerProxy, PersonalDataChangedListener} from 'chrome://settings/lazy_load.js';
 import {assertEquals, assertFalse} from 'chrome://webui-test/chai_assert.js';

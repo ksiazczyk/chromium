@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test utilities for site settings mocks
+// summary: Helper functions that build mock content settings, site and chooser exceptions, and site settings preference objects for settings WebUI tests.
+// ---
+
 // clang-format off
 import type {CrTooltipElement, StorageAccessEmbeddingException, StorageAccessSiteException, ChooserException, DefaultContentSetting, OriginInfo, RawChooserException, RawSiteException, SiteException, SiteGroup} from 'chrome://settings/lazy_load.js';
 import {ChooserType, ContentSetting, DefaultSettingSource, ContentSettingsTypes, SiteSettingSource} from 'chrome://settings/lazy_load.js';

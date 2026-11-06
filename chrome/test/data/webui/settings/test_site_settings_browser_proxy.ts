@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test site settings browser proxy for settings
+// summary: Test double of SiteSettingsBrowserProxy that records calls and provides mock content settings, exceptions, protocols, and zoom data for site settings tests.
+// ---
+
 // clang-format off
 import {assert} from 'chrome://resources/js/assert.js';
 import {webUIListenerCallback} from 'chrome://resources/js/cr.js';

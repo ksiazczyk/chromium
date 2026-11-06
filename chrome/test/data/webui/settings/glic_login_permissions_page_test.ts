@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic login permissions page WebUI tests
+// summary: WebUI tests for the Glic login permissions page covering the permissions list, the remove confirmation dialog, and revoking actor login permissions.
+// ---
+
 import 'chrome://settings/settings.js';
 
 import type {CrToastElement, SettingsGlicLoginPermissionsPageElement} from 'chrome://settings/lazy_load.js';

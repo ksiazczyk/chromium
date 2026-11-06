@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Protected content page tests
+// summary: WebUI tests for the protected content page, verifying localized strings and the encrypted media allowed/blocked radio group pref updates.
+// ---
+
 // clang-format off
 import 'chrome://settings/lazy_load.js';
 

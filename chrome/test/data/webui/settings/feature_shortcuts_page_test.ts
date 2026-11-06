@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Feature shortcuts page tests
+// summary: Tests for the feature shortcuts settings page, covering section visibility, empty states, and reactions to search engine changes.
+// ---
+
 // clang-format off
 import 'chrome://settings/settings.js';
 

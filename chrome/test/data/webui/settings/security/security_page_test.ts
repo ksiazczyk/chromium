@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Security page tests
+// summary: Tests the Chrome settings security page, covering Safe Browsing, HTTPS-First Mode, secure DNS, and related preferences.
+// ---
+
 // clang-format off
 import {flush} from 'chrome://resources/polymer/v3_0/polymer/polymer_bundled.min.js';
 import type {SettingsSecurityPageElement} from 'chrome://settings/lazy_load.js';

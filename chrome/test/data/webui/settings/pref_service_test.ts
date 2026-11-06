@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PrefService WebUI tests
+// summary: WebUI tests for the settings PrefService covering initialization, pref lookup, observer behavior, and synchronous setPrefValue updates via a fake prefs browser proxy.
+// ---
+
 import {PrefsBrowserProxy, PrefService} from 'chrome://settings/settings.js';
 import {assertDeepEquals, assertEquals, assertFalse, assertNull, assertThrows, assertTrue} from 'chrome://webui-test/chai_assert.js';
 import {eventToPromise} from 'chrome://webui-test/test_util.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: System page tests
+// summary: WebUI test suite for the settings system page, covering background mode, hardware acceleration, proxy settings, and Windows-specific toggles.
+// ---
+
 // clang-format off
 import 'chrome://settings/lazy_load.js';
 

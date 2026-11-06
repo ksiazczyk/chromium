@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autofill page WebUI tests
+// summary: WebUI tests for the settings autofill page, covering saved addresses, cards, IBANs, passwords and related chips with mocked managers.
+// ---
+
 import 'chrome://settings/settings.js';
 
 import type {CrIconElement} from 'chrome://resources/cr_elements/cr_icon/cr_icon.js';

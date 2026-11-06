@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Languages helper tests
+// summary: Tests for the settings language helper, checking the languages model, language code lookups and language code conversion utilities.
+// ---
+
 // clang-format off
 import type {LanguageHelper} from 'chrome://settings/lazy_load.js';
 import {LanguageHelperImpl, LanguagesBrowserProxyImpl, getLanguageHelperInstance} from 'chrome://settings/lazy_load.js';

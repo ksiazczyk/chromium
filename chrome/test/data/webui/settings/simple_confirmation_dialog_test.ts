@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Simple confirmation dialog WebUI tests
+// summary: WebUI test suite for the settings simple confirmation dialog covering strings, primary button and confirmation result.
+// ---
+
 import 'chrome://settings/lazy_load.js';
 
 import type {SettingsSimpleConfirmationDialogElement} from 'chrome://settings/lazy_load.js';

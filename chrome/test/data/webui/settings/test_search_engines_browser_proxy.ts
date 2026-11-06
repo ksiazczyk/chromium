@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test search engines browser proxy for settings
+// summary: Test double of SearchEnginesBrowserProxy that records calls and returns configurable mock search engine lists and picker data for settings tests.
+// ---
+
 // clang-format off
 import type {SearchEngine, SearchEngineId, SearchEnginesBrowserProxy, SearchEnginesInfo, DefaultSearchEnginePickerData, CategorizedTemplateUrls, SearchEnginesInteractions, ChoiceMadeLocation} from 'chrome://settings/settings.js';
 import {TestBrowserProxy} from 'chrome://webui-test/test_browser_proxy.js';

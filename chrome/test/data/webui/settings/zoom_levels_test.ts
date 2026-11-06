@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Zoom levels WebUI test
+// summary: Browser test suite covering the zoom levels site settings list, including empty and populated states and removing a zoom level entry.
+// ---
+
 // clang-format off
 import type {ZoomLevelEntry, ZoomLevelsElement} from 'chrome://settings/lazy_load.js';
 import {SiteSettingsBrowserProxyImpl} from 'chrome://settings/lazy_load.js';

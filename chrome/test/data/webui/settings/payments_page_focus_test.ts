@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Payments page focus tests
+// summary: WebUI tests verifying keyboard focus placement on the payments page after deleting credit cards and IBAN payment methods.
+// ---
+
 // clang-format off
 import {getDeepActiveElement} from 'chrome://resources/js/util.js';
 import {PaymentsManagerImpl} from 'chrome://settings/lazy_load.js';

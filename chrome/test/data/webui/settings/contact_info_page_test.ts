@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Contact Info Page Test
+// summary: Extensive WebUI test suite covering the settings contact info page, including address editing dialogs, country-specific layouts, prefs, and Gmail OTP opt-in metrics.
+// ---
+
 // clang-format off
 import 'chrome://settings/settings.js';
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Safety Hub unused site permissions module tests
+// summary: Tests the unused site permissions module, covering mock permission revocation data, site list rendering, metrics, and keyboard interactions.
+// ---
+
 // clang-format off
 import 'chrome://settings/lazy_load.js';
 

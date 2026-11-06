@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test languages browser proxy for settings
+// summary: Fake LanguagesBrowserProxy that wraps a fake language settings private API and simulates prospective UI language calls for tests.
+// ---
+
 // clang-format off
 import type {LanguagesBrowserProxy} from 'chrome://settings/lazy_load.js';
 import {TestBrowserProxy} from 'chrome://webui-test/test_browser_proxy.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test clear browsing data browser proxy for settings
+// summary: Fake ClearBrowsingDataBrowserProxy that simulates clearing browsing data, sync state, and counters for settings WebUI tests.
+// ---
+
 // clang-format off
 import {webUIListenerCallback} from 'chrome://resources/js/cr.js';
 import type {ClearBrowsingDataBrowserProxy, ClearBrowsingDataResult, TimePeriod, UpdateSyncStateEvent} from 'chrome://settings/lazy_load.js';

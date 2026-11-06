@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Offer writing help page tests
+// summary: WebUI tests for the offer writing help settings page, covering the main toggle, disabled sites list, and enterprise policy and metrics interactions.
+// ---
+
 // clang-format off
 import type {SettingsOfferWritingHelpPageElement} from 'chrome://settings/lazy_load.js';
 import {AiEnterpriseFeaturePrefName, AiPageActions, COMPOSE_PROACTIVE_NUDGE_DISABLED_SITES_PREF, COMPOSE_PROACTIVE_NUDGE_PREF} from 'chrome://settings/lazy_load.js';

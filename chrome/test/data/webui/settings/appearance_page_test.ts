@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Appearance page WebUI tests
+// summary: WebUI tests for the settings appearance page, covering theme, color scheme, home button and related preferences using mocked browser proxies.
+// ---
+
 import type {CrLinkRowElement} from 'chrome://resources/cr_elements/cr_link_row/cr_link_row.js';
 import type {CustomizeColorSchemeModeClientRemote, SettingsAppearancePageElement, SettingsDropdownMenuElement, SettingsToggleButtonElement} from 'chrome://settings/settings.js';
 import {AppearanceBrowserProxyImpl, ColorSchemeMode, customizeColorSchemeModeBrowserProxyFactory, CustomizeColorSchemeModeHandlerRemote, loadTimeData, MetricsBrowserProxyImpl, PrefsBrowserProxy, PrefService, SystemTheme} from 'chrome://settings/settings.js';

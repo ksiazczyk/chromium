@@ -6,6 +6,12 @@
  * @fileoverview Tests for the passkeys subpage.
  */
 
+// ---docerion
+// type: test
+// title: Passkey edit dialog tests
+// summary: WebUI tests for editing passkeys in settings, covering username editing, validation errors, and dialog save and cancel behavior.
+// ---
+
 import type {CrInputElement, Passkey, PasskeysBrowserProxy, SettingsPasskeysPageElement} from 'chrome://settings/lazy_load.js';
 import {PasskeysBrowserProxyImpl} from 'chrome://settings/lazy_load.js';
 import {assertDeepEquals, assertEquals, assertFalse, assertTrue} from 'chrome://webui-test/chai_assert.js';

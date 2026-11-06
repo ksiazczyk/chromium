@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Home URL input WebUI tests
+// summary: WebUI tests for the home URL input verifying that user input updates the homepage preference.
+// ---
+
 import {AppearanceBrowserProxyImpl, PrefsBrowserProxy, PrefService} from 'chrome://settings/settings.js';
 import type {HomeUrlInputElement} from 'chrome://settings/settings.js';
 import {assertEquals} from 'chrome://webui-test/chai_assert.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test dictation browser proxy for settings
+// summary: Fake DictationBrowserProxy that simulates getting and setting the dictation shortcut with configurable results for settings tests.
+// ---
+
 import type {DictationBrowserProxy} from 'chrome://settings/lazy_load.js';
 import {TestBrowserProxy} from 'chrome://webui-test/test_browser_proxy.js';
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeOS people page tests
+// summary: ChromeOS-specific WebUI tests for the people page's Account Manager, checking GAIA account name and picture display.
+// ---
+
 // clang-format off
 import 'chrome://settings/lazy_load.js';
 import 'chrome://settings/settings.js';

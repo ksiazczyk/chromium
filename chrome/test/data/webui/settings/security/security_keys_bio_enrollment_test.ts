@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Security keys biometric enrollment tests
+// summary: Tests the security key biometric enrollment dialog flows with a mocked browser proxy.
+// ---
+
 import {webUIListenerCallback} from 'chrome://resources/js/cr.js';
 import {PromiseResolver} from 'chrome://resources/js/promise_resolver.js';
 import type {Enrollment, EnrollmentResponse, SecurityKeysBioEnrollProxy, SensorInfo, SettingsSecurityKeysBioEnrollDialogElement} from 'chrome://settings/lazy_load.js';

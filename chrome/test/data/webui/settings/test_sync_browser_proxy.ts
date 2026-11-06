@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test sync browser proxy for settings
+// summary: Test double of SyncBrowserProxy that provides fake sync status, stored accounts, and signin and sync control behavior for settings tests.
+// ---
+
 // clang-format off
 import type {StoredAccount, SyncBrowserProxy, SyncPrefs, SyncStatus} from 'chrome://settings/settings.js';
 import type {ChromeSigninUserChoiceInfo} from 'chrome://settings/settings.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Settings focus interactive UI browser tests
+// summary: C++ browser test harness that runs WebUI Mocha focus and interactive tests for various Chrome settings pages.
+// ---
+
 #include "chrome/browser/glic/test_support/glic_test_environment.h"
 #include "chrome/browser/ui/ui_features.h"
 #include "chrome/common/webui_url_constants.h"

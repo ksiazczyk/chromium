@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Search page index tests
+// summary: Tests routing and view switching for the settings search page index element with sample search engine data.
+// ---
+
 import 'chrome://settings/settings.js';
 import 'chrome://settings/lazy_load.js';
 

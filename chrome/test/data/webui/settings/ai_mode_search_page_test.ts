@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AI mode search page tests
+// summary: WebUI test suite for the settings-ai-mode-search-page element, covering tab sharing toggles, policy-disabled smart tab sharing, and learn-more links.
+// ---
+
 import 'chrome://settings/lazy_load.js';
 
 import type {SettingsAiModeSearchPageElement} from 'chrome://settings/lazy_load.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Appearance page index WebUI tests
+// summary: WebUI tests for the settings appearance page index, covering routing between the parent and fonts views and search behavior via SearchableViewContainerMixin.
+// ---
+
 import 'chrome://settings/settings.js';
 import 'chrome://settings/lazy_load.js';
 

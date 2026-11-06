@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chooser exception list entry tests
+// summary: WebUI test suite checking reset button and policy indicator visibility for user-granted and policy-granted chooser exception entries.
+// ---
+
 // clang-format off
 import 'chrome://webui-test/cr_elements/cr_policy_strings.js';
 

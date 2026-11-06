@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Other Google data dialog tests
+// summary: WebUI tests for the other Google data dialog, covering password manager and My Activity links, sync state handling, and related metrics.
+// ---
+
 import 'chrome://settings/lazy_load.js';
 
 import {webUIListenerCallback} from 'chrome://resources/js/cr.js';

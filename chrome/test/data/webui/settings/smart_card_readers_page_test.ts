@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Smart card readers page WebUI tests
+// summary: Verifies that the smart card readers settings page passes the correct content setting and chooser exception types to its radio group and exception list.
+// ---
+
 // clang-format off
 import 'chrome://settings/lazy_load.js';
 

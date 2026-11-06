@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ActiveTimer tests
+// summary: Tests for the ActiveTimer utility that measures active page time across focus changes, visibility, and BFCache transitions.
+// ---
+
 import {ActiveTimer} from 'chrome://settings/settings.js';
 import {assertEquals} from 'chrome://webui-test/chai_assert.js';
 

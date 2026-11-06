@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Settings prefs test cases
+// summary: Shared test case data with preferences and successive values used by the settings prefs tests.
+// ---
+
 /**
  * Test cases containing preference data. Each test case has a pref with an
  * initial value, and two "next" values used to change the pref. Intentionally,

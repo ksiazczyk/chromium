@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic settings page WebUI tests
+// summary: WebUI tests for the Glic settings page covering navigation to the Gemini route and metrics reporting for the Learn more link.
+// ---
+
 import 'chrome://settings/settings.js';
 
 import {AiPageActions} from 'chrome://settings/lazy_load.js';

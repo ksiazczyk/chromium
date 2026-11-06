@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Settings prefs tests
+// summary: Tests that settings-prefs receives, caches, and forwards preference changes using a fake settings API.
+// ---
+
 // clang-format off
 import 'chrome://settings/settings.js';
 

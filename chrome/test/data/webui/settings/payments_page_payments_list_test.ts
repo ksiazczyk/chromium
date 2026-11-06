@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Payments list tests
+// summary: WebUI tests for the settings payments list layout, checking border styling across credit cards, IBANs, and pay over time issuers.
+// ---
+
 // clang-format off
 import 'chrome://settings/lazy_load.js';
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Privacy page tests
+// summary: WebUI tests for the settings privacy page, covering the clear browsing data dialog, pref setup, and browser proxy interactions.
+// ---
+
 // clang-format off
 import {webUIListenerCallback} from 'chrome://resources/js/cr.js';
 import {ClearBrowsingDataBrowserProxyImpl, CookieControlsMode, TimePeriod} from 'chrome://settings/lazy_load.js';

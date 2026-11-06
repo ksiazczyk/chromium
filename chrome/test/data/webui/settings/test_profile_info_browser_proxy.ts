@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test profile info browser proxy
+// summary: Fake ProfileInfoBrowserProxy that returns fake profile info and records profile stats count queries in settings tests.
+// ---
+
 import type {ProfileInfo, ProfileInfoBrowserProxy} from 'chrome://settings/settings.js';
 import {TestBrowserProxy} from 'chrome://webui-test/test_browser_proxy.js';
 

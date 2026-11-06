@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Payments page interactive tests
+// summary: WebUI tests for interactive payment dialogs, covering credit card edit dialog input such as nicknames and IBAN validation flows.
+// ---
+
 // clang-format off
 import 'chrome://settings/lazy_load.js';
 

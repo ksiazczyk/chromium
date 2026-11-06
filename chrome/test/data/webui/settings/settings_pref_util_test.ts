@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Settings pref util tests
+// summary: Tests conversion between preference values and strings for various pref types in Settings.PrefUtil.
+// ---
+
 // clang-format off
 import {prefToString, stringToPrefValue} from 'chrome://settings/settings.js';
 import {assertEquals, assertNotReached} from 'chrome://webui-test/chai_assert.js';

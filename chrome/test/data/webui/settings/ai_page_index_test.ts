@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AI page index tests
+// summary: WebUI test suite for the settings-ai-page-index element, checking routing to AI subpages and visibility of feature sections under various flags.
+// ---
+
 import 'chrome://settings/settings.js';
 import 'chrome://settings/lazy_load.js';
 

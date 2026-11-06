@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Site data page WebUI tests
+// summary: WebUI test suite for the site data page covering default cookie content setting changes and the block confirmation dialog.
+// ---
+
 // clang-format off
 import {flush} from 'chrome://resources/polymer/v3_0/polymer/polymer_bundled.min.js';
 import type {SettingsSiteDataElement} from 'chrome://settings/lazy_load.js';

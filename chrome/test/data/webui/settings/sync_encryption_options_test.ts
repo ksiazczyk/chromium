@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sync encryption options tests
+// summary: WebUI test suite for the sync encryption options element, covering passphrase radio labels, encryption choice switching, and passphrase input behavior.
+// ---
+
 import 'chrome://settings/lazy_load.js';
 
 import type {CrInputElement, SettingsSyncEncryptionOptionsElement} from 'chrome://settings/lazy_load.js';

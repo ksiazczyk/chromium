@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic subpage shortcut focus tests
+// summary: Interactive WebUI tests for the Glic subpage shortcut input covering shortcut suspension, updating, and clearing behavior.
+// ---
+
 import 'chrome://settings/settings.js';
 
 import type {CrShortcutInputElement} from 'chrome://settings/lazy_load.js';

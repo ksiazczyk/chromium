@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Payments page card rows tests
+// summary: WebUI tests for credit card rows on the Chrome settings payments page, covering card fields, row menu buttons, and card benefits behavior.
+// ---
+
 // clang-format off
 import {PaymentsManagerImpl} from 'chrome://settings/lazy_load.js';
 import {CardBenefitsUserAction, loadTimeData, MetricsBrowserProxyImpl, OpenWindowProxyImpl} from 'chrome://settings/settings.js';

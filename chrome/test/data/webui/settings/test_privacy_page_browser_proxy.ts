@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test privacy page browser proxy
+// summary: Fake PrivacyPageBrowserProxy that returns metrics reporting state and records enabling changes in settings tests.
+// ---
+
 // clang-format off
 import type {MetricsReporting, PrivacyPageBrowserProxy} from 'chrome://settings/settings.js';
 import {TestBrowserProxy} from 'chrome://webui-test/test_browser_proxy.js';

@@ -4,6 +4,12 @@
 
 /** @fileoverview Suite of tests for site-list-entry. */
 
+// ---docerion
+// type: test
+// title: Site list entry element tests
+// summary: WebUI test suite for the site-list-entry element covering policy indicator tooltips and navigation to the site details page.
+// ---
+
 // clang-format off
 import 'chrome://webui-test/cr_elements/cr_policy_strings.js';
 

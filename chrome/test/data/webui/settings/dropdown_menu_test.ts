@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Dropdown menu tests
+// summary: Tests for the settings dropdown menu element, checking option selection and two-way synchronization with preferences.
+// ---
+
 import {PrefsBrowserProxy, PrefService} from 'chrome://settings/settings.js';
 import type {SettingsDropdownMenuElement} from 'chrome://settings/settings.js';
 import {assertEquals, assertFalse, assertNotReached, assertTrue} from 'chrome://webui-test/chai_assert.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Privacy Guide test utilities
+// summary: Shared helpers for privacy guide tests providing initial prefs, route setup, step navigation, sync setup, and cookie and safe browsing setting setters.
+// ---
+
 // clang-format off
 import {webUIListenerCallback} from 'chrome://resources/js/cr.js';
 import type {SettingsPrivacyGuidePageElement} from 'chrome://settings/lazy_load.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Relaunch confirmation dialog tests
+// summary: WebUI tests for the relaunch confirmation dialog, verifying restart and relaunch behavior with and without the confirmation dialog shown.
+// ---
+
 // clang-format off
 import {CrLitElement, html} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 import {LifetimeBrowserProxyImpl, RelaunchMixinLit, RestartType} from 'chrome://settings/settings.js';

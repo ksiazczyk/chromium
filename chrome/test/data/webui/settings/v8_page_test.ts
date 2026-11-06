@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: V8 page WebUI test
+// summary: Browser test suite verifying that the JavaScript optimizer radio buttons on the V8 settings page enable or disable depending on Safe Browsing state.
+// ---
+
 // clang-format off
 import 'chrome://settings/lazy_load.js';
 

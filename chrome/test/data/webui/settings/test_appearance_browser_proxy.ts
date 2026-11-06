@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test appearance browser proxy
+// summary: Fake AppearanceBrowserProxy for settings tests that records calls and returns configurable zoom, theme, child account, and startup page responses.
+// ---
+
 import type {AppearanceBrowserProxy} from 'chrome://settings/settings.js';
 import {TestBrowserProxy} from 'chrome://webui-test/test_browser_proxy.js';
 

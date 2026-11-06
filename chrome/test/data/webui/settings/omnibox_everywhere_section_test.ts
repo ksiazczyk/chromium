@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Omnibox Everywhere section tests
+// summary: WebUI tests for the Omnibox Everywhere settings section, covering initial state, shortcut visibility preference, and main toggle behavior.
+// ---
+
 import 'chrome://settings/settings.js';
 
 import type {CrCollapseElement} from 'chrome://resources/cr_elements/cr_collapse/cr_collapse.js';

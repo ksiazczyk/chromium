@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Privacy Guide page tests
+// summary: WebUI tests for the privacy guide page and dialog covering step navigation, fragment visibility, cookie and safe browsing settings, and metrics.
+// ---
+
 // clang-format off
 import {webUIListenerCallback} from 'chrome://resources/js/cr.js';
 import type {SettingsPrivacyGuideDialogElement, SettingsPrivacyGuidePageElement} from 'chrome://settings/lazy_load.js';

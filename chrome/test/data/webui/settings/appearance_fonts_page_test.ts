@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Appearance fonts page tests
+// summary: WebUI test suite for the settings-appearance-fonts-page element, testing font data fetching and font size preview behavior via mocked proxies.
+// ---
+
 // clang-format off
 import {PrefService, PrefsBrowserProxy} from 'chrome://settings/settings.js';
 import type {FontsBrowserProxy, FontsData, SettingsAppearanceFontsPageElement} from 'chrome://settings/lazy_load.js';

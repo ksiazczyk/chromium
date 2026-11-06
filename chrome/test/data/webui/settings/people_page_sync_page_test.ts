@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: People page sync page tests
+// summary: WebUI tests for the settings sync page, covering sync configuration, encryption options, and platform-specific sign-in behavior.
+// ---
+
 // clang-format off
 import 'chrome://settings/lazy_load.js';
 

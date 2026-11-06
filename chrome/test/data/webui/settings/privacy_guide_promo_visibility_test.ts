@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Privacy Guide promo visibility tests
+// summary: WebUI tests checking when the privacy guide promo appears on the privacy page, including supervised and managed account cases.
+// ---
+
 // clang-format off
 import 'chrome://settings/settings.js';
 import 'chrome://settings/lazy_load.js';

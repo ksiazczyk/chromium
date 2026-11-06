@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: People page sync controls tests
+// summary: WebUI tests for the settings sync controls element, covering sync-all versus customized datatype selection, managed prefs, and policy indicator visibility.
+// ---
+
 // clang-format off
 import 'chrome://settings/lazy_load.js';
 

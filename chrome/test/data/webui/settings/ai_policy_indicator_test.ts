@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AI policy indicator tests
+// summary: WebUI test suite for the settings-ai-policy-indicator element, checking that the indicator shows for disabled AI enterprise policies and hides otherwise.
+// ---
+
 // clang-format off
 import 'chrome://settings/lazy_load.js';
 

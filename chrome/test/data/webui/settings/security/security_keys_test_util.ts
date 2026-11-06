@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Security keys test utilities
+// summary: Provides the assertShown helper used to verify the visible page in security key dialog tests.
+// ---
+
 import {assertEquals, assertTrue} from 'chrome://webui-test/chai_assert.js';
 
 export function assertShown(

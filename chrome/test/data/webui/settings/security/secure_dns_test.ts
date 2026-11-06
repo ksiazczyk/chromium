@@ -7,6 +7,12 @@
  * secure-dns-input.
  */
 
+// ---docerion
+// type: test
+// title: Secure DNS tests
+// summary: Tests secure DNS input validation and settings behavior using mocked browser proxies and preferences.
+// ---
+
 // clang-format off
 import 'chrome://settings/lazy_load.js';
 

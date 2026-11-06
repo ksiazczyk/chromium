@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Settings WebUI browser test runner
+// summary: C++ browser test fixture that runs the settings WebUI mocha test suites with feature flags and policy test setup.
+// ---
+
 #include "base/test/scoped_feature_list.h"
 #include "build/branding_buildflags.h"
 #include "build/build_config.h"

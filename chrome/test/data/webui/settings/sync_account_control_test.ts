@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sync account control tests
+// summary: WebUI test suite for the sync account control element, covering sign-in promo, stored accounts, avatar row, and account menu behavior across sign-in states.
+// ---
+
 // clang-format off
 import 'chrome://settings/settings.js';
 

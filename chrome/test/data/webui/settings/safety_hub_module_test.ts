@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Safety Hub module WebUI tests
+// summary: Tests the generic settings-safety-hub-module element, covering header and subheader text, per-item button clicks, and the site entry list rendering.
+// ---
+
 // clang-format off
 import 'chrome://settings/lazy_load.js';
 

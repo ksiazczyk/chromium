@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AI suggestions page tests
+// summary: WebUI test suite for the settings-ai-suggestions-page element, covering the suggestions toggle, enterprise policy indicators, and interaction metrics.
+// ---
+
 import 'chrome://settings/lazy_load.js';
 import 'chrome://settings/settings.js';
 

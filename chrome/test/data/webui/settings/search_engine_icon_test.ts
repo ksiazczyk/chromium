@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Search engine icon tests
+// summary: WebUI tests for the search engine icon element, verifying when the downloaded icon or the site favicon is shown depending on the engine's icon path and icon URL.
+// ---
+
 import 'chrome://settings/lazy_load.js';
 
 import type {SettingsSearchEngineIconElement} from 'chrome://settings/lazy_load.js';

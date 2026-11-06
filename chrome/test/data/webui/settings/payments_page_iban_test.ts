@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Payments page IBAN tests
+// summary: WebUI tests for IBAN handling on the payments page, including add and edit dialogs, validation, and list entry behavior.
+// ---
+
 // clang-format off
 import 'chrome://settings/lazy_load.js';
 

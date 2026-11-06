@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Polymer site settings mixin tests
+// summary: WebUI test suite for the Polymer site settings mixin covering port sanitization, URL parsing, and site exception expansion.
+// ---
+
 import {html, PolymerElement} from 'chrome://resources/polymer/v3_0/polymer/polymer_bundled.min.js';
 import {ContentSetting, ContentSettingsTypes, SiteSettingsBrowserProxyImpl, SiteSettingsMixin, SiteSettingSource} from 'chrome://settings/lazy_load.js';
 import {assertEquals, assertNull, assertTrue} from 'chrome://webui-test/chai_assert.js';

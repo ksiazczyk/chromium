@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for settings tests
+summary: Include rule configuration specifying which Chromium components the settings WebUI test directory may depend on.

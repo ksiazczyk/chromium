@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Inline cue menu page tests
+// summary: WebUI tests for the inline cue menu settings page, covering the main toggle and the blocked sites list rendering and deletion.
+// ---
+
 // clang-format off
 import 'chrome://settings/lazy_load.js';
 
