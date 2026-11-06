@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InputRouterImpl implementation
+// summary: Implements the browser-side input event router that sends mouse, wheel, keyboard, gesture and touch events to the renderer and processes their acknowledgements.
+// ---
+
 #include "components/input/input_router_impl.h"
 
 #include <math.h>

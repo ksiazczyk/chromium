@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Render widget host view input base implementation
+// summary: Implements base RenderWidgetHostViewInput behavior such as observer shutdown notification, acked touch event processing, and coordinate space transforms via viz hit test queries.
+// ---
+
 #include "components/input/render_widget_host_view_input.h"
 
 #include "base/notreached.h"

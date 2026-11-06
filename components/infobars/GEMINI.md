@@ -1,3 +1,13 @@
+---
+type: guide
+title: InfoBars component guidelines
+summary: Guidelines for changing the shared InfoBars component, covering layering rules, Desktop framework usage, Android deprecation, iOS considerations, identifier metrics, and verification.
+relations:
+  - references /chrome/browser/infobars/GEMINI.md
+  - references /chrome/browser/infobars/browser_infobar_manager.h
+  - references /chrome/browser/infobars/infobar_spec.h
+---
+
 # InfoBars Component Guidelines
 
 These instructions apply to the shared InfoBars component in

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImageDecoder interface for safe image decoding
+// summary: Defines the ImageDecoder interface that decodes untrusted image data safely and returns a gfx::Image through a callback.
+// ---
+
 #ifndef COMPONENTS_IMAGE_FETCHER_CORE_IMAGE_DECODER_H_
 #define COMPONENTS_IMAGE_FETCHER_CORE_IMAGE_DECODER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android web input event builders header
+// summary: Declares builder classes that construct Blink mouse, wheel, keyboard, and gesture events from Android events.
+// ---
+
 #ifndef COMPONENTS_INPUT_WEB_INPUT_EVENT_BUILDERS_ANDROID_H_
 #define COMPONENTS_INPUT_WEB_INPUT_EVENT_BUILDERS_ANDROID_H_
 

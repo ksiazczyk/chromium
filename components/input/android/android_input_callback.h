@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AndroidInputCallback class declaration
+// summary: Declares the AndroidInputCallback class and its client interface for receiving Android input events with observer support.
+// ---
+
 #ifndef COMPONENTS_INPUT_ANDROID_ANDROID_INPUT_CALLBACK_H_
 #define COMPONENTS_INPUT_ANDROID_ANDROID_INPUT_CALLBACK_H_
 

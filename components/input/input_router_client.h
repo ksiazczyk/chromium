@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InputRouterClient and stylus interfaces
+// summary: Declares the InputRouterClient interface for filtering, acking, and forwarding input events, plus a StylusInterface for stylus handwriting support.
+// ---
+
 #ifndef COMPONENTS_INPUT_INPUT_ROUTER_CLIENT_H_
 #define COMPONENTS_INPUT_INPUT_ROUTER_CLIENT_H_
 

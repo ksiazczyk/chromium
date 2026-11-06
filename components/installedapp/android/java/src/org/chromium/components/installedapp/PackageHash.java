@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PackageHash
+// summary: Helper that computes a salted, per-browser-session hash of Android package names to add pseudo-random delay and counter timing attacks against getInstalledRelatedApps.
+// ---
+
 package org.chromium.components.installedapp;
 
 import android.util.SparseArray;

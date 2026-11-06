@@ -1,0 +1,4 @@
+# Docerion header of native_web_keyboard_event_mac.mm.
+type: source
+title: NativeWebKeyboardEvent macOS implementation
+summary: Implements the macOS-specific NativeWebKeyboardEvent, converting between NSEvent objects and blink WebKeyboardEvents including modifier flags and text.

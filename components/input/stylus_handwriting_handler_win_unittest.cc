@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows stylus handwriting handler unit tests
+// summary: Unit tests for the Windows stylus handwriting handler using synthetic touch and gesture events, test stylus interfaces, and a stub input router client.
+// ---
+
 #include "components/input/stylus_handwriting_handler_win.h"
 
 #include <cmath>

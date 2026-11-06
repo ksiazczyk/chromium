@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FlingController class declaration
+// summary: Declares the FlingController that drives fling animation progress, tap suppression, and gesture event consumption through event sender and scheduler client interfaces.
+// ---
+
 #ifndef COMPONENTS_INPUT_FLING_CONTROLLER_H_
 #define COMPONENTS_INPUT_FLING_CONTROLLER_H_
 

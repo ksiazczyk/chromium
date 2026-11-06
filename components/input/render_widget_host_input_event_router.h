@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Render widget host input event router class
+// summary: Declares the router that directs input events to the right RenderWidgetHost on pages with multiple widget hosts, mapping views to surface IDs for hit-test based routing.
+// ---
+
 #ifndef COMPONENTS_INPUT_RENDER_WIDGET_HOST_INPUT_EVENT_ROUTER_H_
 #define COMPONENTS_INPUT_RENDER_WIDGET_HOST_INPUT_EVENT_ROUTER_H_
 

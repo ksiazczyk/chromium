@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JNI feature map for input features
+// summary: Exposes the input component's feature flags to Java through a base FeatureMap accessed via JNI.
+// ---
+
 #include "base/android/feature_map.h"
 #include "base/feature_list.h"
 #include "base/no_destructor.h"

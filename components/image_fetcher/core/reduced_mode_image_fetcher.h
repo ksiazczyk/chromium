@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ReducedModeImageFetcher class declaration
+// summary: Declares an ImageFetcher for Chrome's reduced mode that defers image decoding and returns untranscoded image data.
+// ---
+
 #ifndef COMPONENTS_IMAGE_FETCHER_CORE_REDUCED_MODE_IMAGE_FETCHER_H_
 #define COMPONENTS_IMAGE_FETCHER_CORE_REDUCED_MODE_IMAGE_FETCHER_H_
 

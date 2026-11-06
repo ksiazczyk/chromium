@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Touchpad pinch event queue implementation
+// summary: Implements TouchpadPinchEventQueue, which converts touchpad pinch gestures into synthetic ctrl-modified mouse wheel events so pages can prevent pinch zoom.
+// ---
+
 #include "components/input/touchpad_pinch_event_queue.h"
 
 #include "base/functional/bind.h"

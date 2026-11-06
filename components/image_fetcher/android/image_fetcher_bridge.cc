@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImageFetcherBridge JNI implementation
+// summary: Implements the native counterpart of ImageFetcherBridge.java, handling image data and image fetches, cache file paths, and metric reporting between Java and the C++ image fetcher service.
+// ---
+
 #include "components/image_fetcher/android/image_fetcher_bridge.h"
 
 #include <jni.h>

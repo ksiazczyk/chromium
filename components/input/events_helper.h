@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Input event ack state helper header
+// summary: Declares InputEventResultStateIsSetBlocking, a utility reporting whether an input event ack state is blocking.
+// ---
+
 #ifndef COMPONENTS_INPUT_EVENTS_HELPER_H_
 #define COMPONENTS_INPUT_EVENTS_HELPER_H_
 

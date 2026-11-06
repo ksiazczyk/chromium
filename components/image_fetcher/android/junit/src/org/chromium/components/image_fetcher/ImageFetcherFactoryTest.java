@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ImageFetcherFactoryTest
+// summary: Robolectric unit tests for ImageFetcherFactory, checking that image fetchers are created with the requested configuration for each supported ImageFetcherConfig.
+// ---
+
 package org.chromium.components.image_fetcher;
 
 import static org.junit.Assert.assertEquals;

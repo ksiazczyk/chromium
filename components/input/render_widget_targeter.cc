@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RenderWidgetTargeter implementation
+// summary: Implements input event targeting that finds the render widget view to receive an event, queues and coalesces targeting requests, and dispatches events through a delegate.
+// ---
+
 #include "components/input/render_widget_targeter.h"
 
 #include <memory>

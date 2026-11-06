@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Touch emulator interface header
+// summary: Declares the TouchEmulator interface, which emulates touch input either by transforming mouse events into touches or by handling injected touch events.
+// ---
+
 #ifndef COMPONENTS_INPUT_TOUCH_EMULATOR_H_
 #define COMPONENTS_INPUT_TOUCH_EMULATOR_H_
 

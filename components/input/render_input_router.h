@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RenderInputRouter header
+// summary: Declares the RenderInputRouter class, owned by RenderWidgetHostImpl, which maintains Mojo connections to renderers for input event forwarding and acks.
+// ---
+
 #ifndef COMPONENTS_INPUT_RENDER_INPUT_ROUTER_H_
 #define COMPONENTS_INPUT_RENDER_INPUT_ROUTER_H_
 

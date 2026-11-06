@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ConfirmInfoBarDelegate and MessageSubstitution declarations
+// summary: Declares the ConfirmInfoBarDelegate interface for OK, Cancel, and Extra button infobars plus the MessageSubstitution struct for localized template messages.
+// ---
+
 #ifndef COMPONENTS_INFOBARS_CORE_CONFIRM_INFOBAR_DELEGATE_H_
 #define COMPONENTS_INFOBARS_CORE_CONFIRM_INFOBAR_DELEGATE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeRegistrationTokenHandler implementation
+// summary: Implements a fake registration token handler that stores the registration token and its end-of-life time received during tests.
+// ---
+
 #include "components/invalidation/test_support/fake_registration_token_handler.h"
 
 namespace invalidation {

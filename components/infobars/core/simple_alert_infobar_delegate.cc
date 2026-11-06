@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SimpleAlertInfoBarDelegate implementation
+// summary: Implements a simple alert infobar delegate that shows a message with configurable icon, auto-expiry, animation, closeability and priority.
+// ---
+
 #include "components/infobars/core/simple_alert_infobar_delegate.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ImageFetcherBridgeTest
+// summary: Robolectric unit tests for ImageFetcherBridge, verifying native fetch calls, request metadata creation with net errors, and expiration interval handling.
+// ---
+
 package org.chromium.components.image_fetcher;
 
 import static org.mockito.ArgumentMatchers.anyInt;

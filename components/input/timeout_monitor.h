@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Timeout monitor header
+// summary: Declares TimeoutMonitor, a utility class for handling a timeout callback with periodic starts, restarts and stops on a single task sequence.
+// ---
+
 #ifndef COMPONENTS_INPUT_TIMEOUT_MONITOR_H_
 #define COMPONENTS_INPUT_TIMEOUT_MONITOR_H_
 

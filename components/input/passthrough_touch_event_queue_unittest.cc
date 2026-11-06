@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Passthrough touch event queue unit tests
+// summary: Unit tests covering the passthrough touch event queue, including touch move slop, ack timeouts, filtering, and event acknowledgement behaviour.
+// ---
+
 #include "components/input/passthrough_touch_event_queue.h"
 
 #include <stddef.h>

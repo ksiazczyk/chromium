@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stylus handwriting handler base implementation
+// summary: Implements the default stylus handwriting handler, starting stylus writing through the client's stylus interface and providing no-op gesture and touch handling.
+// ---
+
 #include "components/input/stylus_handwriting_handler.h"
 
 #include "components/input/input_router_client.h"

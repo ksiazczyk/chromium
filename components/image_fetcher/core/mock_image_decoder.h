@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock image decoder for tests
+// summary: Declares a gmock mock of ImageDecoder that stubs DecodeImage for use in unit tests.
+// ---
+
 #ifndef COMPONENTS_IMAGE_FETCHER_CORE_MOCK_IMAGE_DECODER_H_
 #define COMPONENTS_IMAGE_FETCHER_CORE_MOCK_IMAGE_DECODER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestImageFetcher test double for image fetching
+// summary: A test double of ImageFetcher that returns a preset bitmap and request metadata for fetch calls, used in tests of the image_fetcher component.
+// ---
+
 package org.chromium.components.image_fetcher.test;
 
 import android.graphics.Bitmap;

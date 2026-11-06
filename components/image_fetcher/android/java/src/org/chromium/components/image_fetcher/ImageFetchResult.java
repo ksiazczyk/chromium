@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImageFetchResult
+// summary: Holds a fetched bitmap together with its request metadata, passed between native and Java via JNI.
+// ---
+
 package org.chromium.components.image_fetcher;
 
 import android.graphics.Bitmap;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentInfoBarManager implementation
+// summary: Implements the infobar manager for WebContents, converting navigation details, reacting to navigation events, and opening URLs with adjusted dispositions.
+// ---
+
 #include "components/infobars/content/content_infobar_manager.h"
 
 #include "base/command_line.h"

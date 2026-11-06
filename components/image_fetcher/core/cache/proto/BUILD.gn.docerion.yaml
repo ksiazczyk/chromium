@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for cached image metadata proto
+summary: Defines a GN proto_library target that compiles cached_image_metadata.proto for the image fetcher cache.

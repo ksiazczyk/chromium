@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CachedImageFetcher class declaration
+// summary: Declares CachedImageFetcher, an ImageFetcher that fetches images from the network and caches them, with an optional read-only cache mode.
+// ---
+
 #ifndef COMPONENTS_IMAGE_FETCHER_CORE_CACHED_IMAGE_FETCHER_H_
 #define COMPONENTS_IMAGE_FETCHER_CORE_CACHED_IMAGE_FETCHER_H_
 

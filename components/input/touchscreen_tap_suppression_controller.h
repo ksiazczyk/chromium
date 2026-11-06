@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TouchscreenTapSuppressionController class header
+// summary: Declares a controller that suppresses touchscreen taps immediately after a GestureFlingCancel event is dispatched.
+// ---
+
 #ifndef COMPONENTS_INPUT_TOUCHSCREEN_TAP_SUPPRESSION_CONTROLLER_H_
 #define COMPONENTS_INPUT_TOUCHSCREEN_TAP_SUPPRESSION_CONTROLLER_H_
 

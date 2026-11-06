@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ImageFetcherImpl
+// summary: Tests image and data fetching, request queuing, and callback behavior using a fake decoder and a test URL loader factory.
+// ---
+
 #include "components/image_fetcher/core/image_fetcher_impl.h"
 
 #include <memory>

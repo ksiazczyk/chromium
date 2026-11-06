@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Touchpad tap suppression controller implementation
+// summary: Implements TouchpadTapSuppressionController, deciding whether mouse down and up events should be suppressed after a fling cancel.
+// ---
+
 #include "components/input/touchpad_tap_suppression_controller.h"
 
 namespace input {

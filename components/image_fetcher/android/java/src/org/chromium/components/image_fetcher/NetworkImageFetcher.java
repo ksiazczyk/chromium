@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkImageFetcher
+// summary: ImageFetcher implementation that fetches images and GIFs directly from the network through the bridge and reports fetch timing.
+// ---
+
 package org.chromium.components.image_fetcher;
 
 import android.graphics.Bitmap;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CachedImageFetcher unit tests
+// summary: Unit tests for CachedImageFetcher covering cache hits, network fetches, transcoding, read-only mode and reported histograms.
+// ---
+
 #include "components/image_fetcher/core/cached_image_fetcher.h"
 
 #include <map>

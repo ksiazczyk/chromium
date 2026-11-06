@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Disk-backed image data store declaration
+// summary: Declares ImageDataStoreDisk, an ImageDataStore implementation that saves and loads image data as files under a storage path using a task runner.
+// ---
+
 #ifndef COMPONENTS_IMAGE_FETCHER_CORE_CACHE_IMAGE_DATA_STORE_DISK_H_
 #define COMPONENTS_IMAGE_FETCHER_CORE_CACHE_IMAGE_DATA_STORE_DISK_H_
 

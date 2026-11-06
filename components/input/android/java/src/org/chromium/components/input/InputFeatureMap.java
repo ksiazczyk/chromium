@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InputFeatureMap Java class for input feature flags
+// summary: Java accessor for the state of Input feature flags, providing a singleton that statically checks flag enablement against the native feature map over JNI.
+// ---
+
 package org.chromium.components.input;
 
 import org.jni_zero.JNINamespace;

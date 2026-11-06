@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Image cache implementation
+// summary: Implements the ImageCache class that queues save, load and delete requests, hashes URLs to keys and runs startup and LRU eviction of cached images.
+// ---
+
 #include "components/image_fetcher/core/cache/image_cache.h"
 
 #include <algorithm>

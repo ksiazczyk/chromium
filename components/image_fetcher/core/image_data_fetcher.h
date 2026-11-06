@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImageDataFetcher class declaration
+// summary: Declares ImageDataFetcher, which fetches raw image bytes from a URL and reports metadata such as MIME type and HTTP response code.
+// ---
+
 #ifndef COMPONENTS_IMAGE_FETCHER_CORE_IMAGE_DATA_FETCHER_H_
 #define COMPONENTS_IMAGE_FETCHER_CORE_IMAGE_DATA_FETCHER_H_
 

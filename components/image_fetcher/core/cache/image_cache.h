@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Image cache class declaration
+// summary: Declares the ref-counted ImageCache class, which persists image data and metadata through pluggable data and metadata stores with eviction support.
+// ---
+
 #ifndef COMPONENTS_IMAGE_FETCHER_CORE_CACHE_IMAGE_CACHE_H_
 #define COMPONENTS_IMAGE_FETCHER_CORE_CACHE_IMAGE_CACHE_H_
 

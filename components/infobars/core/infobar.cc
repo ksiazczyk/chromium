@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InfoBar base class implementation
+// summary: Implements the cross-platform InfoBar base class handling show, hide, slide animation, height recalculation, and self-deletion after closing.
+// ---
+
 #include "components/infobars/core/infobar.h"
 
 #include <cmath>

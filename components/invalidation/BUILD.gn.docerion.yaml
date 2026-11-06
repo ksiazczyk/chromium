@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build rules for the invalidation component
+summary: Defines the invalidation static library, test support, and unit test targets with their sources and dependencies.

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Infobars DEPS include rules
+summary: Defines include rules for the infobars component, allowing ui and third_party/skia while requiring subdirectories to opt in to the content layer.

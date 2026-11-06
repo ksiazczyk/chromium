@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Image Fetcher directory metadata
+summary: Applies the shared Image Fetcher metadata mixins to this directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GestureEventStreamValidator class declaration
+// summary: Declares a utility class that validates a stream of WebGestureEvents and returns error messages for invalid sequences.
+// ---
+
 #ifndef COMPONENTS_INPUT_GESTURE_EVENT_STREAM_VALIDATOR_H_
 #define COMPONENTS_INPUT_GESTURE_EVENT_STREAM_VALIDATOR_H_
 

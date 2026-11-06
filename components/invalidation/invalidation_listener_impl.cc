@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InvalidationListenerImpl implementation
+// summary: Implements GCM registration token retrieval with retry backoff, incoming message parsing, and observer notification for invalidations.
+// ---
+
 #include "components/invalidation/invalidation_listener_impl.h"
 
 #include <stdint.h>

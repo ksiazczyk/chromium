@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImageFetcherServiceProvider implementation
+// summary: Implements setters and getters for the image fetcher service and cache path provider callbacks, storing them in no-destructor singletons keyed by SimpleFactoryKey.
+// ---
+
 #include "components/image_fetcher/android/image_fetcher_service_provider.h"
 
 #include "base/no_destructor.h"

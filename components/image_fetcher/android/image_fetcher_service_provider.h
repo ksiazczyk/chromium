@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImageFetcherServiceProvider callback declarations
+// summary: Declares the service and cache path provider callback types plus functions to set and retrieve the ImageFetcherService and cache path for a given SimpleFactoryKey.
+// ---
+
 #ifndef COMPONENTS_IMAGE_FETCHER_ANDROID_IMAGE_FETCHER_SERVICE_PROVIDER_H_
 #define COMPONENTS_IMAGE_FETCHER_ANDROID_IMAGE_FETCHER_SERVICE_PROVIDER_H_
 

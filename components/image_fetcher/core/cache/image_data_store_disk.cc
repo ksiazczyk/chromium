@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Disk-backed image data store implementation
+// summary: Implements ImageDataStoreDisk, which stores image data as files on disk via a task runner and marks entries needing transcoding with a filename prefix.
+// ---
+
 #include "components/image_fetcher/core/cache/image_data_store_disk.h"
 
 #include <utility>

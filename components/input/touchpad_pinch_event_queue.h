@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Touchpad pinch event queue class declaration
+// summary: Declares TouchpadPinchEventQueue and its client interface for queuing touchpad pinch events and forwarding synthetic wheel events to detect prevented pinch zoom.
+// ---
+
 #ifndef COMPONENTS_INPUT_TOUCHPAD_PINCH_EVENT_QUEUE_H_
 #define COMPONENTS_INPUT_TOUCHPAD_PINCH_EVENT_QUEUE_H_
 

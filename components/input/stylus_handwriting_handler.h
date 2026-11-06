@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stylus handwriting handler interface
+// summary: Declares the stylus handwriting handler used by the input router for touch, touch action, and gesture handling during stylus writing sessions.
+// ---
+
 #ifndef COMPONENTS_INPUT_STYLUS_HANDWRITING_HANDLER_H_
 #define COMPONENTS_INPUT_STYLUS_HANDWRITING_HANDLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Render input router latency tracker implementation
+// summary: Implements latency tracking for input events passing through the render input router, populating LatencyInfo components and reporting per-event-type UMA latency histograms.
+// ---
+
 #include "components/input/render_input_router_latency_tracker.h"
 
 #include <stddef.h>

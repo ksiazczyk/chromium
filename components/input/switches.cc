@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Input component command-line switches
+// summary: Defines command-line switches for the input component, including disabling the hang monitor, disabling pinch gestures, and validating the input event stream.
+// ---
+
 #include "components/input/switches.h"
 
 #include "base/command_line.h"

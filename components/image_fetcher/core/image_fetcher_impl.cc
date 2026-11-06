@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImageFetcherImpl fetch and decode logic
+// summary: Implements the standard ImageFetcher, queuing duplicate URL requests and running image data and decoded image callbacks.
+// ---
+
 #include "components/image_fetcher/core/image_fetcher_impl.h"
 
 #include <string>

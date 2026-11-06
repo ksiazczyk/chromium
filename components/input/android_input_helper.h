@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android input helper class declaration
+// summary: Declares AndroidInputHelper, which shares Android input handling between RenderWidgetHostViewAndroid in the browser and its viz counterpart.
+// ---
+
 #ifndef COMPONENTS_INPUT_ANDROID_INPUT_HELPER_H_
 #define COMPONENTS_INPUT_ANDROID_INPUT_HELPER_H_
 

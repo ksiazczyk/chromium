@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Render input router iterator interface
+// summary: Minimal interface for iterating over a list of render input routers, returning the next available router or nullptr when none remains.
+// ---
+
 #ifndef COMPONENTS_INPUT_RENDER_INPUT_ROUTER_ITERATOR_H_
 #define COMPONENTS_INPUT_RENDER_INPUT_ROUTER_ITERATOR_H_
 

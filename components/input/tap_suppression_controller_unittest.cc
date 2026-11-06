@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tap suppression controller unit tests
+// summary: Unit tests covering TapSuppressionController's suppression of tap down and tap end events after a fling cancel, using a mock controller with controllable time.
+// ---
+
 #include "components/input/tap_suppression_controller.h"
 
 #include <memory>

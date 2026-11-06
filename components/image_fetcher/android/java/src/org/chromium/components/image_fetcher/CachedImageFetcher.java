@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'CachedImageFetcher: disk-cached ImageFetcher implementation'
+// summary: ImageFetcher implementation that loads images and GIFs from a disk cache and falls back to the bridge when the file is missing or unreadable.
+// ---
+
 package org.chromium.components.image_fetcher;
 
 import android.graphics.Bitmap;

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for iOS image fetcher
+summary: Restricts includes to ios/web/public and ui/gfx and permits only WebP decoding from libwebp.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CachedImageFetcher implementation
+// summary: Implements CachedImageFetcher, which serves images from a cache or the network, handles PNG transcoding, tracing and fetch metrics.
+// ---
+
 #include "components/image_fetcher/core/cached_image_fetcher.h"
 
 #include <utility>

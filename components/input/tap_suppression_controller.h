@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tap suppression controller header
+// summary: Declares the input component's TapSuppressionController, which suppresses touchpad or touchscreen taps occurring shortly after a GestureFlingCancel stopped a fling.
+// ---
+
 #ifndef COMPONENTS_INPUT_TAP_SUPPRESSION_CONTROLLER_H_
 #define COMPONENTS_INPUT_TAP_SUPPRESSION_CONTROLLER_H_
 

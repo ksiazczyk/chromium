@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedInputReceiver class declaration
+// summary: Declares a move-only wrapper managing the lifecycle of the Android NDK AInputReceiver used for input callbacks.
+// ---
+
 #ifndef COMPONENTS_INPUT_ANDROID_SCOPED_INPUT_RECEIVER_H_
 #define COMPONENTS_INPUT_ANDROID_SCOPED_INPUT_RECEIVER_H_
 

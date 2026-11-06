@@ -1,0 +1,4 @@
+# Docerion header of ios_image_data_fetcher_wrapper_unittest.mm.
+type: test
+title: IOSImageDataFetcherWrapper unit tests
+summary: Tests the wrapper's fetch and WebP decode behavior using embedded JPG and PNG data and a test URL loader factory.

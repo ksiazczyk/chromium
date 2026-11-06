@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of the input component
+summary: Lists the code owners for the input directory and per-file owner rules for mojom files.

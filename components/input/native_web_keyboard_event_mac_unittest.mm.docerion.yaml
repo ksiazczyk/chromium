@@ -1,0 +1,4 @@
+# Docerion header of native_web_keyboard_event_mac_unittest.mm.
+type: test
+title: NativeWebKeyboardEvent macOS unit tests
+summary: Unit test verifying that macOS NSEvent to WebKeyboardEvent conversion round trips correctly for a Ctrl-Cmd space key down.

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Image Fetcher dependency include rules
+summary: Declares the allowed include rules for the Image Fetcher directory, with a special rule for test files.

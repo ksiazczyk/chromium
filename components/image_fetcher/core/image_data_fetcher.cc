@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImageDataFetcher implementation
+// summary: Implements ImageDataFetcher, which downloads raw image bytes over the network with SimpleURLLoader, referrer handling, download limits and metrics.
+// ---
+
 #include "components/image_fetcher/core/image_data_fetcher.h"
 
 #include <optional>

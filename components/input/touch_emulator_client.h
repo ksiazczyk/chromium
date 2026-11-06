@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Touch emulator client interface header
+// summary: Declares the TouchEmulatorClient interface with callbacks for forwarding emulated gesture and touch events, setting the cursor and showing context menus.
+// ---
+
 #ifndef COMPONENTS_INPUT_TOUCH_EMULATOR_CLIENT_H_
 #define COMPONENTS_INPUT_TOUCH_EMULATOR_CLIENT_H_
 

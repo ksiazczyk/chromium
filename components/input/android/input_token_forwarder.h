@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InputTokenForwarder interface
+// summary: Declares an interface for forwarding Viz input transfer tokens back to the browser to transfer touch sequences.
+// ---
+
 #ifndef COMPONENTS_INPUT_ANDROID_INPUT_TOKEN_FORWARDER_H_
 #define COMPONENTS_INPUT_ANDROID_INPUT_TOKEN_FORWARDER_H_
 

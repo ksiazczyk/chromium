@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedInputReceiver implementation
+// summary: Implements the move-only RAII wrapper that releases AInputReceiver instances on supported Android versions.
+// ---
+
 #include "components/input/android/scoped_input_receiver.h"
 
 #include "base/android/android_info.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InputEventStreamValidator class declaration
+// summary: Declares InputEventStreamValidator, which checks that streams of touch and gesture input events are valid when the validation switch is enabled.
+// ---
+
 #ifndef COMPONENTS_INPUT_INPUT_EVENT_STREAM_VALIDATOR_H_
 #define COMPONENTS_INPUT_INPUT_EVENT_STREAM_VALIDATOR_H_
 

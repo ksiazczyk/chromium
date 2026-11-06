@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImageFetcherFactory
+// summary: Factory that creates the ImageFetcher implementation best suited for a given configuration, such as network-only, disk cache, or in-memory caching.
+// ---
+
 package org.chromium.components.image_fetcher;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

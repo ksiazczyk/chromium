@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for image fetcher core
+summary: DEPS file listing the allowed include paths such as keyed_service, leveldb_proto, prefs and gfx for the image fetcher core directory.

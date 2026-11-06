@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Input event stream validator implementation
+// summary: Implements InputEventStreamValidator, which DCHECK-validates touch and touchscreen gesture event streams when enabled by a command-line switch.
+// ---
+
 #include "components/input/input_event_stream_validator.h"
 
 #include "base/check.h"

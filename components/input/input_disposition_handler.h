@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InputDispositionHandler interface for input event acks
+// summary: Defines the InputDispositionHandler interface with callbacks invoked when wheel, touch, and gesture event acks are received from the renderer.
+// ---
+
 #ifndef COMPONENTS_INPUT_INPUT_DISPOSITION_HANDLER_H_
 #define COMPONENTS_INPUT_INPUT_DISPOSITION_HANDLER_H_
 

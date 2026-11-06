@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Touchpad pinch event queue unit tests
+// summary: Unit tests for TouchpadPinchEventQueue covering pinch begin, update, end and double tap queuing, wheel event acks, and zoom prevention behavior.
+// ---
+
 #include "components/input/touchpad_pinch_event_queue.h"
 
 #include <string>

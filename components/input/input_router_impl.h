@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InputRouterImpl class declaration
+// summary: Declares the default InputRouter implementation, which coordinates event queues, touch action filtering, fling control and renderer input dispatch.
+// ---
+
 #ifndef COMPONENTS_INPUT_INPUT_ROUTER_IMPL_H_
 #define COMPONENTS_INPUT_INPUT_ROUTER_IMPL_H_
 

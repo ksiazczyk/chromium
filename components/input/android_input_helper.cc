@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android input helper implementation
+// summary: Implements AndroidInputHelper, which routes or forwards touch and gesture events and manages gesture detection for Android views.
+// ---
+
 #include "components/input/android_input_helper.h"
 
 #include "base/metrics/histogram_macros.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IOSImageDataFetcherWrapper class declaration
+// summary: Declares a wrapper that downloads images via ImageDataFetcher and decodes WebP data before invoking an Objective-C callback block.
+// ---
+
 #ifndef COMPONENTS_IMAGE_FETCHER_IOS_IOS_IMAGE_DATA_FETCHER_WRAPPER_H_
 #define COMPONENTS_IMAGE_FETCHER_IOS_IOS_IMAGE_DATA_FETCHER_WRAPPER_H_
 

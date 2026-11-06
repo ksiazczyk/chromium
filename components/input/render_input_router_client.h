@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RenderInputRouterClient interface
+// summary: Declares the RenderInputRouterClient interface with callbacks for wheel events, mouse capture and lock, IME composition, and stylus writing.
+// ---
+
 #ifndef COMPONENTS_INPUT_RENDER_INPUT_ROUTER_CLIENT_H_
 #define COMPONENTS_INPUT_RENDER_INPUT_ROUTER_CLIENT_H_
 

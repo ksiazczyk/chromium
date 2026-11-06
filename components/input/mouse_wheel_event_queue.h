@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MouseWheelEventQueue class declaration
+// summary: Declares the mouse wheel event queue and its client interface for forwarding wheel events, handling acknowledgements and generated gesture scrolls.
+// ---
+
 #ifndef COMPONENTS_INPUT_MOUSE_WHEEL_EVENT_QUEUE_H_
 #define COMPONENTS_INPUT_MOUSE_WHEEL_EVENT_QUEUE_H_
 

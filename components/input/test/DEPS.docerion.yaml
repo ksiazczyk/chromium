@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for input tests
+summary: Defines the allowed include rules for the input test directory, permitting content public browser, test, and shell headers.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Touch timeout handler implementation
+// summary: Implements TouchTimeoutHandler, which monitors blocking touch event acks and sends touch cancel events when the renderer fails to acknowledge in time.
+// ---
+
 #include "components/input/touch_timeout_handler.h"
 
 #include <utility>

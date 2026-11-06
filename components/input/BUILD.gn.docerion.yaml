@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for the input component
+summary: GN build file defining the input component target, listing its sources and platform-specific dependencies.

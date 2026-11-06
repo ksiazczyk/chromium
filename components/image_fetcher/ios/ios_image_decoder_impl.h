@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CreateIOSImageDecoder factory declaration
+// summary: Declares CreateIOSImageDecoder, the factory for the iOS implementation of ImageDecoder.
+// ---
+
 #ifndef COMPONENTS_IMAGE_FETCHER_IOS_IOS_IMAGE_DECODER_IMPL_H_
 #define COMPONENTS_IMAGE_FETCHER_IOS_IOS_IMAGE_DECODER_IMPL_H_
 

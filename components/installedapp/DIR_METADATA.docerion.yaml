@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for the installed app component
+summary: Maps the directory to the UI>Browser>WebAppInstalls Monorail component and Buganizer public component 1457043.

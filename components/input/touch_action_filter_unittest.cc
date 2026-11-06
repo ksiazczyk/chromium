@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Touch action filter unit tests
+// summary: Extensive unit tests for TouchActionFilter covering pan, pinch and tap filtering across touch-action configurations using synthetic gesture events.
+// ---
+
 #include "components/input/touch_action_filter.h"
 
 #include "components/input/event_with_latency_info.h"

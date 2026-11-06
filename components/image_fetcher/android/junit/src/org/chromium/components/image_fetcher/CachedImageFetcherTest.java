@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CachedImageFetcherTest
+// summary: Robolectric unit tests for CachedImageFetcher, covering disk cache lookups, image and GIF fetching, and callback behavior through a mocked ImageFetcherBridge.
+// ---
+
 package org.chromium.components.image_fetcher;
 
 import static org.mockito.ArgumentMatchers.any;

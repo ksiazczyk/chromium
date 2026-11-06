@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ImageFetcherTest
+// summary: Robolectric unit tests for the base ImageFetcher class, covering image resizing edge cases, parameter aliasing, and Params creation.
+// ---
+
 package org.chromium.components.image_fetcher;
 
 import static org.junit.Assert.assertEquals;

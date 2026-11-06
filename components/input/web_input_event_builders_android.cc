@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android web input event builders implementation
+// summary: Converts Android native key, motion, and touch data into Blink web keyboard, mouse, wheel, gesture, and touch events.
+// ---
+
 #include "components/input/web_input_event_builders_android.h"
 
 #include <android/input.h>

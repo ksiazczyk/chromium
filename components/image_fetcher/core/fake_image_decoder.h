@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeImageDecoder class declaration
+// summary: Declares FakeImageDecoder, a test double for ImageDecoder with controls for enabling, validity and the decoded image result.
+// ---
+
 #ifndef COMPONENTS_IMAGE_FETCHER_CORE_FAKE_IMAGE_DECODER_H_
 #define COMPONENTS_IMAGE_FETCHER_CORE_FAKE_IMAGE_DECODER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NativeWebKeyboardEvent Android implementation
+// summary: Implements the Android variant of NativeWebKeyboardEvent, building web keyboard events from Android key events and holding a global reference to the Java event.
+// ---
+
 #include "components/input/native_web_keyboard_event.h"
 
 #include "base/android/jni_android.h"

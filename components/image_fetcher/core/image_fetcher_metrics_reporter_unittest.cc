@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ImageFetcherMetricsReporter
+// summary: Verifies that fetcher events, load times, and status codes are recorded in the expected UMA histograms.
+// ---
+
 #include "components/image_fetcher/core/image_fetcher_metrics_reporter.h"
 
 #include <string>

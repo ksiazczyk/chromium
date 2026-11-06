@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FlingController unit tests
+// summary: Unit tests covering fling start, progress, stopping, and the generated wheel and gesture scroll events produced by the FlingController.
+// ---
+
 #include "components/input/fling_controller.h"
 
 #include "base/rand_util.h"

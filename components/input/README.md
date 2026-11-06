@@ -1,3 +1,12 @@
+---
+type: readme
+title: Overview of the //components/input directory
+summary: Explains that the directory holds input processing code shared between browser and viz, created for the InputVizard project.
+relations:
+  - references /cc/input/README.md
+  - references /content/browser/renderer_host/input/README.md
+---
+
 # //components/input
 
 The directory contains input processing code shared across browser and viz.

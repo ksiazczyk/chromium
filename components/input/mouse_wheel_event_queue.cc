@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mouse wheel event queue implementation
+// summary: Implements a queue that throttles and coalesces mouse wheel events, tracks in-flight events and generates gesture scroll events for unhandled wheel input.
+// ---
+
 #include "components/input/mouse_wheel_event_queue.h"
 
 #include "base/functional/bind.h"

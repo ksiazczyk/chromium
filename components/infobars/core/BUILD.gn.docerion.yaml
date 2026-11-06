@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the infobars core library
+summary: GN build file defining the infobars core static library, its dependencies, and a unit_tests source set for the container tests.

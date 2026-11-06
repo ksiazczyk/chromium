@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Touch event stream validator class declaration
+// summary: Declares TouchEventStreamValidator, a utility class that validates sequences of WebTouchEvents and returns an error message for invalid streams.
+// ---
+
 #ifndef COMPONENTS_INPUT_TOUCH_EVENT_STREAM_VALIDATOR_H_
 #define COMPONENTS_INPUT_TOUCH_EVENT_STREAM_VALIDATOR_H_
 

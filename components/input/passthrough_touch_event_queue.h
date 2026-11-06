@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Passthrough touch event queue header
+// summary: Declares the PassthroughTouchEventQueue and its client interface for forwarding touch events to the renderer and reordering acknowledgements.
+// ---
+
 #ifndef COMPONENTS_INPUT_PASSTHROUGH_TOUCH_EVENT_QUEUE_H_
 #define COMPONENTS_INPUT_PASSTHROUGH_TOUCH_EVENT_QUEUE_H_
 

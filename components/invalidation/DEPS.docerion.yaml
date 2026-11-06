@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include dependency rules for the invalidation component
+summary: Sets include rules that forbid content dependencies and allow invalidation, GCM driver, keyed service, and net backoff headers.

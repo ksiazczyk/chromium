@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cached image metadata protobuf definition
+// summary: Defines the image_fetcher protobuf message and CacheStrategy enum describing metadata and lifecycle rules for cached image fetcher disk cache entries.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

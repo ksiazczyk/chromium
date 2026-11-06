@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImageFetcherService keyed service header
+// summary: Declares the keyed service that creates and hands out image fetchers for network, disk cache, in-memory and reduced mode configurations.
+// ---
+
 #ifndef COMPONENTS_IMAGE_FETCHER_CORE_IMAGE_FETCHER_SERVICE_H_
 #define COMPONENTS_IMAGE_FETCHER_CORE_IMAGE_FETCHER_SERVICE_H_
 

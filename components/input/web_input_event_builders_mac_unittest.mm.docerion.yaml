@@ -1,0 +1,4 @@
+# Docerion header of web_input_event_builders_mac_unittest.mm.
+type: test
+title: Unit tests for macOS web input event builders
+summary: Unit tests that verify conversion of macOS keyboard and mouse events into Blink web input events, including modifier key and tablet event handling.

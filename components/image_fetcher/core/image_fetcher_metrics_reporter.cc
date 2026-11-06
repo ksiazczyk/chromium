@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Image fetcher UMA metrics reporting
+// summary: Reports image fetcher events, load times, request status codes, and cache status to UMA histograms per client name.
+// ---
+
 #include "components/image_fetcher/core/image_fetcher_metrics_reporter.h"
 
 #include "base/metrics/histogram.h"

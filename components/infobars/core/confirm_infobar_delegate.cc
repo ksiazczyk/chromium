@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ConfirmInfoBarDelegate implementation
+// summary: Implements default behavior for confirm infobar delegates, including button labels, message templates with substitutions, and observer notifications.
+// ---
+
 #include "components/infobars/core/confirm_infobar_delegate.h"
 
 #include <optional>

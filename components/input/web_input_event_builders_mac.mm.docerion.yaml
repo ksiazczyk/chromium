@@ -1,0 +1,4 @@
+# Docerion header of web_input_event_builders_mac.mm.
+type: source
+title: macOS web input event builders implementation
+summary: Implements conversion of macOS NSEvents into Blink keyboard, mouse, wheel, gesture, and touch events, based on Apple WebKit code.
