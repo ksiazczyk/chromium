@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GC controller implementation for web tests
+// summary: Installs a GCController JavaScript object that triggers V8 garbage collection, including asynchronous collection with an empty stack, in web tests.
+// ---
+
 #include "content/web_test/renderer/gc_controller.h"
 
 #include <tuple>

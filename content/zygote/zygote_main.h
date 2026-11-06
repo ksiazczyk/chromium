@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ZygoteMain function declaration
+// summary: Declares the ZygoteMain entry point that starts the zygote process with a list of fork delegates.
+// ---
+
 #ifndef CONTENT_ZYGOTE_ZYGOTE_MAIN_H_
 #define CONTENT_ZYGOTE_ZYGOTE_MAIN_H_
 

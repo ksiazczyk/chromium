@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web test download manager delegate class declaration
+// summary: Declares WebTestDownloadManagerDelegate, which customizes download opening and permission checks for the web test browser environment.
+// ---
+
 #ifndef CONTENT_WEB_TEST_BROWSER_WEB_TEST_DOWNLOAD_MANAGER_DELEGATE_H_
 #define CONTENT_WEB_TEST_BROWSER_WEB_TEST_DOWNLOAD_MANAGER_DELEGATE_H_
 

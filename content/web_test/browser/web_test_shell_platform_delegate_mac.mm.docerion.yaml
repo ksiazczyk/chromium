@@ -1,0 +1,4 @@
+# Docerion header of web_test_shell_platform_delegate_mac.mm.
+type: source
+title: WebTestShellPlatformDelegate Mac implementation
+summary: macOS implementation of the web test shell platform delegate that overrides headless window handling while deferring to the base shell otherwise.

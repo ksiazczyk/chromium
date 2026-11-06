@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the web test renderer directory
+summary: Defines the allowed include dependencies for the web test renderer directory, with special rules for test proxy headers and cc files.

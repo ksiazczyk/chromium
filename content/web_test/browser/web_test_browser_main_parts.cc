@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebTestBrowserMainParts implementation
+// summary: Implements the web test browser main parts that create the web test browser context, install a plugin service filter, and supply the web test shell platform delegate.
+// ---
+
 #include "content/web_test/browser/web_test_browser_main_parts.h"
 
 #include <memory>

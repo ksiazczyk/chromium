@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the web test browser directory
+summary: Defines the allowed include dependencies for the web test browser directory, with extra rules permitting cc and mm files to reference content/browser internals.

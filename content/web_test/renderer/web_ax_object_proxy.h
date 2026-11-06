@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAXObjectProxy class header
+// summary: Declares the gin-wrapped WebAXObjectProxy that exposes accessibility object properties, states, and selection information to web tests.
+// ---
+
 #ifndef CONTENT_WEB_TEST_RENDERER_WEB_AX_OBJECT_PROXY_H_
 #define CONTENT_WEB_TEST_RENDERER_WEB_AX_OBJECT_PROXY_H_
 

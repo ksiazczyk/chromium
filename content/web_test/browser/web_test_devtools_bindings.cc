@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web test DevTools bindings implementation
+// summary: Implements DevTools frontend bindings for web tests, including mapping DevTools test URLs to a same-origin frontend and navigating the inspected page.
+// ---
+
 #include "content/web_test/browser/web_test_devtools_bindings.h"
 #include "base/memory/raw_ptr.h"
 

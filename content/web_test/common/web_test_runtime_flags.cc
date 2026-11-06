@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web test runtime flags defaults
+// summary: Implements WebTestRuntimeFlags, resetting all testRunner-controlled runtime flags such as dump modes, printing settings and callback dumping to their defaults.
+// ---
+
 #include "content/web_test/common/web_test_runtime_flags.h"
 
 namespace content {

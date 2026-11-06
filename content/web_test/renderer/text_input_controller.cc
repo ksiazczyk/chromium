@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TextInputController implementation
+// summary: Implements the textInputController JavaScript bindings that let web tests exercise text insertion, composition, and selection commands.
+// ---
+
 #include "content/web_test/renderer/text_input_controller.h"
 
 #include "content/web_test/renderer/web_frame_test_proxy.h"

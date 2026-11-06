@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web test Bluetooth adapter provider header
+// summary: Declares WebTestBluetoothAdapterProvider and documents the fake adapters, their devices and mock behaviors available to web tests.
+// ---
+
 #ifndef CONTENT_WEB_TEST_BROWSER_WEB_TEST_BLUETOOTH_ADAPTER_PROVIDER_H_
 #define CONTENT_WEB_TEST_BROWSER_WEB_TEST_BLUETOOTH_ADAPTER_PROVIDER_H_
 

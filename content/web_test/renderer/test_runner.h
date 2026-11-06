@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test runner class declaration
+// summary: Declares the TestRunner class that implements TestRunner JavaScript bindings and manages global web test state such as loading frames and runtime flags.
+// ---
+
 #ifndef CONTENT_WEB_TEST_RENDERER_TEST_RUNNER_H_
 #define CONTENT_WEB_TEST_RENDERER_TEST_RUNNER_H_
 

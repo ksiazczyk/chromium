@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web test browser context implementation
+// summary: Implements a web test browser context that supplies test delegates and services for downloads, permissions, push messaging, notifications and more.
+// ---
+
 #include "content/web_test/browser/web_test_browser_context.h"
 
 #include <memory>

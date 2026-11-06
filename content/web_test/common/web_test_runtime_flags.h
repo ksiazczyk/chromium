@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web test runtime flags class declaration
+// summary: Declares the WebTestRuntimeFlags class that stores flags controlled by web tests at runtime in a tracked dictionary so changes can be replicated across renderers.
+// ---
+
 #ifndef CONTENT_WEB_TEST_COMMON_WEB_TEST_RUNTIME_FLAGS_H_
 #define CONTENT_WEB_TEST_COMMON_WEB_TEST_RUNTIME_FLAGS_H_
 

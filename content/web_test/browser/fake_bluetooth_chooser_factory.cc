@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Bluetooth chooser factory implementation
+// summary: Implements the Mojo factory that creates FakeBluetoothChooser instances and hands them to the caller for use in web tests.
+// ---
+
 #include "content/web_test/browser/fake_bluetooth_chooser_factory.h"
 
 #include "content/web_test/browser/fake_bluetooth_chooser.h"

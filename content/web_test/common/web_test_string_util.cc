@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web test string utilities implementation
+// summary: Implements helpers that normalize web test URLs for text output, describe URLs, convert navigation policies and window dispositions to strings, and convert V8 strings to WebStrings.
+// ---
+
 #include "content/web_test/common/web_test_string_util.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TestWebSocketHandshakeThrottleProvider class header
+// summary: Declares a test WebSocketHandshakeThrottleProvider that creates WebSocket handshake throttles for use during web tests.
+// ---
+
 #ifndef CONTENT_WEB_TEST_RENDERER_TEST_WEBSOCKET_HANDSHAKE_THROTTLE_PROVIDER_H_
 #define CONTENT_WEB_TEST_RENDERER_TEST_WEBSOCKET_HANDSHAKE_THROTTLE_PROVIDER_H_
 

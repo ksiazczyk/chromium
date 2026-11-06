@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file delegating ownership for web test files
+summary: Delegates per-file review ownership for Bluetooth, FedCM and tracing related web test files to the owning teams of those components.

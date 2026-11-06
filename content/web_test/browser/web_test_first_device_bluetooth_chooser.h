@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web test first-device Bluetooth chooser header
+// summary: Declares WebTestFirstDeviceBluetoothChooser, a default Bluetooth chooser for testing that picks the first added device or cancels.
+// ---
+
 #ifndef CONTENT_WEB_TEST_BROWSER_WEB_TEST_FIRST_DEVICE_BLUETOOTH_CHOOSER_H_
 #define CONTENT_WEB_TEST_BROWSER_WEB_TEST_FIRST_DEVICE_BLUETOOTH_CHOOSER_H_
 

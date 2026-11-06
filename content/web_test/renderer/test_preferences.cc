@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test preferences defaults implementation
+// summary: Implements the Reset method of TestPreferences, setting default Blink web preference values used by web tests.
+// ---
+
 #include "content/web_test/renderer/test_preferences.h"
 
 #include "build/build_config.h"

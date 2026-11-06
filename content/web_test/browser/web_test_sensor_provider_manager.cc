@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web test sensor provider manager implementation
+// summary: Implements the WebSensorProviderAutomation Mojo interface so web tests can create, update, remove and query virtual sensors through WebContentsSensorProviderProxy.
+// ---
+
 #include "content/web_test/browser/web_test_sensor_provider_manager.h"
 
 #include "base/notreached.h"

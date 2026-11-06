@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web test permission manager implementation
+// summary: Implements a permission controller delegate for web tests that tracks, sets and resets permission statuses and supports PermissionAutomation over Mojo.
+// ---
+
 #include "content/web_test/browser/web_test_permission_manager.h"
 
 #include <functional>

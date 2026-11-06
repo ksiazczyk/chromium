@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebTestContentBrowserClient class declaration
+// summary: Declares the WebTestContentBrowserClient, a ShellContentBrowserClient subclass exposing the web test browser context, mock clipboard, fake Bluetooth chooser, and automation interfaces.
+// ---
+
 #ifndef CONTENT_WEB_TEST_BROWSER_WEB_TEST_CONTENT_BROWSER_CLIENT_H_
 #define CONTENT_WEB_TEST_BROWSER_WEB_TEST_CONTENT_BROWSER_CLIENT_H_
 

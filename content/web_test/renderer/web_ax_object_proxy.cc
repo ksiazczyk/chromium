@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAXObjectProxy implementation
+// summary: Implements JavaScript-accessible accessibility object proxies that expose roles, values, bounds, and attributes for web test output.
+// ---
+
 #include "content/web_test/renderer/web_ax_object_proxy.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web test browser main platform support declarations
+// summary: Declares platform-specific entry points for web tests, including browser platform initialization and a Windows-only layout system dependency check.
+// ---
+
 #ifndef CONTENT_WEB_TEST_BROWSER_WEB_TEST_BROWSER_MAIN_PLATFORM_SUPPORT_H_
 #define CONTENT_WEB_TEST_BROWSER_WEB_TEST_BROWSER_MAIN_PLATFORM_SUPPORT_H_
 

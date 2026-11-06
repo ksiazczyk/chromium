@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Web test directory metadata
+summary: Declares the issue tracker routing for the web_test directory, mapping it to the Monorail Test component and a Buganizer component ID.

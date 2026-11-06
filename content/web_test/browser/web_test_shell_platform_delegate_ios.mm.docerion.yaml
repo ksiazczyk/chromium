@@ -1,0 +1,4 @@
+# Docerion header of web_test_shell_platform_delegate_ios.mm.
+type: source
+title: Web test shell platform delegate for iOS
+summary: iOS implementation of WebTestShellPlatformDelegate that forwards shell platform operations to the base ShellPlatformDelegate.

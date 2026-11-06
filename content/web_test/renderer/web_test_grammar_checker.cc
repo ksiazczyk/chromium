@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebTestGrammarChecker implementation
+// summary: Implements a grammar checker for web tests that flags occurrences of known grammar errors in the checked text.
+// ---
+
 #include "content/web_test/renderer/web_test_grammar_checker.h"
 
 #include <stddef.h>

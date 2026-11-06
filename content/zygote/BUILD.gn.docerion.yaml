@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Zygote build target definition
+summary: GN build rules that compile the Linux and ChromeOS zygote sources into a source_set with sandbox, IPC, and ICU dependencies.

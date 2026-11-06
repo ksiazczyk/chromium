@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebTestBrowserMainRunner class declaration
+// summary: Declares the WebTestBrowserMainRunner class with early initialization before child processes launch and the main routine for the web test browser process.
+// ---
+
 #ifndef CONTENT_WEB_TEST_BROWSER_WEB_TEST_BROWSER_MAIN_RUNNER_H_
 #define CONTENT_WEB_TEST_BROWSER_WEB_TEST_BROWSER_MAIN_RUNNER_H_
 

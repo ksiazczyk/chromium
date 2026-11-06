@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebTestStorageAccessManager class declaration
+// summary: Declares the WebTestStorageAccessManager class that exposes the StorageAccessAutomation Mojo interface for web tests.
+// ---
+
 #ifndef CONTENT_WEB_TEST_BROWSER_WEB_TEST_STORAGE_ACCESS_MANAGER_H_
 #define CONTENT_WEB_TEST_BROWSER_WEB_TEST_STORAGE_ACCESS_MANAGER_H_
 

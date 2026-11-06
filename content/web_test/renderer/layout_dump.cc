@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Layout dump implementation
+// summary: Dumps a frame's text, markup or layout tree as a string for web test results, adding frame headers and scroll positions for subframes.
+// ---
+
 #include "content/web_test/renderer/layout_dump.h"
 
 #include "base/check.h"

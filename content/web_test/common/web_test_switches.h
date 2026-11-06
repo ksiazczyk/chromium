@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web test command-line switch names
+// summary: Defines command-line switch constants for web tests, covering external page access, leak detection, DevTools options, canvas and font settings, and origin isolation behavior.
+// ---
+
 #ifndef CONTENT_WEB_TEST_COMMON_WEB_TEST_SWITCHES_H_
 #define CONTENT_WEB_TEST_COMMON_WEB_TEST_SWITCHES_H_
 

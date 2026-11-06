@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TextInputController class header
+// summary: Declares TextInputController, which is bound to window.textInputController in content_shell so web tests can drive text input behavior.
+// ---
+
 #ifndef CONTENT_WEB_TEST_RENDERER_TEXT_INPUT_CONTROLLER_H_
 #define CONTENT_WEB_TEST_RENDERER_TEXT_INPUT_CONTROLLER_H_
 

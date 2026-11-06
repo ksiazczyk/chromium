@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebTestTtsPlatform class declaration
+// summary: Declares the singleton WebTestTtsPlatform class, a dummy TtsPlatform implementation for web tests that can be extended for detailed testing.
+// ---
+
 #ifndef CONTENT_WEB_TEST_BROWSER_WEB_TEST_TTS_PLATFORM_H_
 #define CONTENT_WEB_TEST_BROWSER_WEB_TEST_TTS_PLATFORM_H_
 

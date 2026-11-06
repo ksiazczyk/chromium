@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tracked dictionary implementation
+// summary: Implements TrackedDictionary, which wraps a base dictionary and records changes made through its Set methods since the last change-tracking reset.
+// ---
+
 #include "content/web_test/common/tracked_dictionary.h"
 
 #include <utility>

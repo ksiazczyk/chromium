@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebTestContentRendererClient class header
+// summary: Declares the web test renderer client that owns the TestRunner and installs test-only renderer hooks and providers.
+// ---
+
 #ifndef CONTENT_WEB_TEST_RENDERER_WEB_TEST_CONTENT_RENDERER_CLIENT_H_
 #define CONTENT_WEB_TEST_RENDERER_WEB_TEST_CONTENT_RENDERER_CLIENT_H_
 

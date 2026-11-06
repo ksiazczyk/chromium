@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web test helper declarations
+// summary: Declares helpers for exporting test preferences, rewriting web test and WPT file URLs, and detecting web platform tests.
+// ---
+
 #ifndef CONTENT_WEB_TEST_RENDERER_BLINK_TEST_HELPERS_H_
 #define CONTENT_WEB_TEST_RENDERER_BLINK_TEST_HELPERS_H_
 

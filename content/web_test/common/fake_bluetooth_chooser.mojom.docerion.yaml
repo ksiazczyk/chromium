@@ -1,0 +1,4 @@
+# Docerion header of fake_bluetooth_chooser.mojom.
+type: source
+title: Fake Bluetooth chooser Mojo interfaces
+summary: Defines Mojo interfaces for a fake Bluetooth chooser that web tests use to simulate chooser events and user device selections during Web Bluetooth testing.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo web test helper header
+// summary: Declares the MojoWebTestHelper class, a Mojo service that reverses a message string for web test purposes.
+// ---
+
 #ifndef CONTENT_WEB_TEST_BROWSER_MOJO_WEB_TEST_HELPER_H_
 #define CONTENT_WEB_TEST_BROWSER_MOJO_WEB_TEST_HELPER_H_
 

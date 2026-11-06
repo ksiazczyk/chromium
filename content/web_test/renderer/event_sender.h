@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Event sender class declaration
+// summary: Declares the EventSender class that dispatches simulated input events and manages saved events and touch points during web tests.
+// ---
+
 #ifndef CONTENT_WEB_TEST_RENDERER_EVENT_SENDER_H_
 #define CONTENT_WEB_TEST_RENDERER_EVENT_SENDER_H_
 

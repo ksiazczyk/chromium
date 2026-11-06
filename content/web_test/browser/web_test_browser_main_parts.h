@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebTestBrowserMainParts class declaration
+// summary: Declares the WebTestBrowserMainParts class, a ShellBrowserMainParts subclass customizing browser contexts, message loop setup, and platform delegate for web tests.
+// ---
+
 #ifndef CONTENT_WEB_TEST_BROWSER_WEB_TEST_BROWSER_MAIN_PARTS_H_
 #define CONTENT_WEB_TEST_BROWSER_WEB_TEST_BROWSER_MAIN_PARTS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web test background fetch delegate implementation
+// summary: Implements the BackgroundFetchDelegate used by web tests, backed by an in-memory download service with test blob and URL loader factory helpers.
+// ---
+
 #include "content/web_test/browser/web_test_background_fetch_delegate.h"
 
 #include <memory>

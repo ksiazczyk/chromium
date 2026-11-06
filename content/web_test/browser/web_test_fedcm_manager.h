@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web test FedCM manager header
+// summary: Declares WebTestFedCmManager, which implements the FederatedAuthRequestAutomation Mojo interface for controlling FedCM dialogs during web tests.
+// ---
+
 #ifndef CONTENT_WEB_TEST_BROWSER_WEB_TEST_FEDCM_MANAGER_H_
 #define CONTENT_WEB_TEST_BROWSER_WEB_TEST_FEDCM_MANAGER_H_
 

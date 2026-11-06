@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Optional numerics Mojo test params implementation
+// summary: Implements the Params mojom interface, verifying that optional numeric, enum, vector, and map values arrive null or intact over Mojo during web tests.
+// ---
+
 #include "content/web_test/browser/mojo_optional_numerics_unittest.h"
 
 #include "mojo/public/cpp/bindings/self_owned_receiver.h"

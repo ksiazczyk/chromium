@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web test Bluetooth fake adapter setter header
+// summary: Declares WebTestBluetoothFakeAdapterSetterImpl, the self-owned Mojo receiver that sets fake Bluetooth adapters during web tests.
+// ---
+
 #ifndef CONTENT_WEB_TEST_BROWSER_WEB_TEST_BLUETOOTH_FAKE_ADAPTER_SETTER_IMPL_H_
 #define CONTENT_WEB_TEST_BROWSER_WEB_TEST_BLUETOOTH_FAKE_ADAPTER_SETTER_IMPL_H_
 

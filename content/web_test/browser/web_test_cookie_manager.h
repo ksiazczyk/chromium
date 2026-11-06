@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web test cookie manager class declaration
+// summary: Declares WebTestCookieManager, which exposes cookie automation operations such as deleting all cookies and getting named cookies for web test purposes.
+// ---
+
 #ifndef CONTENT_WEB_TEST_BROWSER_WEB_TEST_COOKIE_MANAGER_H_
 #define CONTENT_WEB_TEST_BROWSER_WEB_TEST_COOKIE_MANAGER_H_
 

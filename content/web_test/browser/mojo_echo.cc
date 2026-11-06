@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo echo test service implementation
+// summary: Implements the MojoEcho mojom interface, echoing values as, from, and through unions, optional unions, and nested unions for Mojo binding tests.
+// ---
+
 #include "content/web_test/browser/mojo_echo.h"
 
 #include "mojo/public/cpp/bindings/self_owned_receiver.h"

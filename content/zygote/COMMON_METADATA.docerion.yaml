@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Common directory metadata
+summary: Declares the Monorail component, security team email, and Buganizer component used for issues in the zygote directory.

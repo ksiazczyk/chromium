@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test preferences struct declaration
+// summary: Declares the TestPreferences struct holding Blink web preference settings with a constructor and Reset method for web tests.
+// ---
+
 #ifndef CONTENT_WEB_TEST_RENDERER_TEST_PREFERENCES_H_
 #define CONTENT_WEB_TEST_RENDERER_TEST_PREFERENCES_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Bluetooth delegate implementation
+// summary: Implements a fake Bluetooth delegate that emulates Chrome's Web Bluetooth permission handling, chooser, scanning prompt and pairing behavior for web tests.
+// ---
+
 #include "content/web_test/browser/fake_bluetooth_delegate.h"
 
 #include "content/public/browser/web_contents.h"

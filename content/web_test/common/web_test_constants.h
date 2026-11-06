@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web test constants
+// summary: Declares the dictionary key constant used to indicate whether the web test work queue has pending items.
+// ---
+
 #ifndef CONTENT_WEB_TEST_COMMON_WEB_TEST_CONSTANTS_H_
 #define CONTENT_WEB_TEST_COMMON_WEB_TEST_CONSTANTS_H_
 

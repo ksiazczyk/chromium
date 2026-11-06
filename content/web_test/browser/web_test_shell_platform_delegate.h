@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web test shell platform delegate header
+// summary: Declares WebTestShellPlatformDelegate, the web test variant of the content shell platform delegate with per-shell and per-platform data structures.
+// ---
+
 #ifndef CONTENT_WEB_TEST_BROWSER_WEB_TEST_SHELL_PLATFORM_DELEGATE_H_
 #define CONTENT_WEB_TEST_BROWSER_WEB_TEST_SHELL_PLATFORM_DELEGATE_H_
 

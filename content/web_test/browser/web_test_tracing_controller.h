@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebTestTracingController class declaration
+// summary: Declares the WebTestTracingController class that manages Perfetto tracing sessions and trace file output for web tests.
+// ---
+
 #ifndef CONTENT_WEB_TEST_BROWSER_WEB_TEST_TRACING_CONTROLLER_H_
 #define CONTENT_WEB_TEST_BROWSER_WEB_TEST_TRACING_CONTROLLER_H_
 

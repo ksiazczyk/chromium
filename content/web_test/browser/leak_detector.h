@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web test leak detector header
+// summary: Declares the LeakDetector class, which counts DOM objects across page loads and reports leak detection results through a callback.
+// ---
+
 #ifndef CONTENT_WEB_TEST_BROWSER_LEAK_DETECTOR_H_
 #define CONTENT_WEB_TEST_BROWSER_LEAK_DETECTOR_H_
 

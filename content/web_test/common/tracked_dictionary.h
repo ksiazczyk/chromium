@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tracked dictionary header
+// summary: Declares the TrackedDictionary class, which forces dictionary mutations through Set methods so accumulated changes can be tracked between resets.
+// ---
+
 #ifndef CONTENT_WEB_TEST_COMMON_TRACKED_DICTIONARY_H_
 #define CONTENT_WEB_TEST_COMMON_TRACKED_DICTIONARY_H_
 

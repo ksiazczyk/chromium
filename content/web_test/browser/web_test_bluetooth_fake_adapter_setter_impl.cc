@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web test Bluetooth fake adapter setter implementation
+// summary: Implements the WebTestBluetoothFakeAdapterSetter Mojo interface that installs a named fake Bluetooth adapter with immediate scan timeout for web tests.
+// ---
+
 #include "content/web_test/browser/web_test_bluetooth_fake_adapter_setter_impl.h"
 
 #include <memory>

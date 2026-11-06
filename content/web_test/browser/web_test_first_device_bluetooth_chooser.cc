@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web test first-device Bluetooth chooser implementation
+// summary: Implements a Bluetooth chooser for web tests that automatically selects the first discovered device or cancels when no device is found.
+// ---
+
 #include "content/web_test/browser/web_test_first_device_bluetooth_chooser.h"
 
 #include "base/logging.h"

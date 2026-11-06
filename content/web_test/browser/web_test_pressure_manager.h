@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web test pressure manager header
+// summary: Declares WebTestPressureManager, a WebContentsUserData that forwards testdriver.js compute pressure automation calls to WebContentsPressureManagerProxy.
+// ---
+
 #ifndef CONTENT_WEB_TEST_BROWSER_WEB_TEST_PRESSURE_MANAGER_H_
 #define CONTENT_WEB_TEST_BROWSER_WEB_TEST_PRESSURE_MANAGER_H_
 

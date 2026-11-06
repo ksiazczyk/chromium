@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web test Bluetooth chooser factory header
+// summary: Declares WebTestBluetoothChooserFactory, which creates recording Bluetooth choosers and exposes their collected events to tests.
+// ---
+
 #ifndef CONTENT_WEB_TEST_BROWSER_WEB_TEST_BLUETOOTH_CHOOSER_FACTORY_H_
 #define CONTENT_WEB_TEST_BROWSER_WEB_TEST_BLUETOOTH_CHOOSER_FACTORY_H_
 

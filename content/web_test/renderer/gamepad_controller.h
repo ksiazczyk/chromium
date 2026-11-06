@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gamepad controller header
+// summary: Declares GamepadController and its gamepad monitor plumbing for simulating gamepads in web tests.
+// ---
+
 #ifndef CONTENT_WEB_TEST_RENDERER_GAMEPAD_CONTROLLER_H_
 #define CONTENT_WEB_TEST_RENDERER_GAMEPAD_CONTROLLER_H_
 
