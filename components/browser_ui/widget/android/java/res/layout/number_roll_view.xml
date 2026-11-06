@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Number roll view layout
+summary: Layout for the NumberRollView widget that displays a selection-mode count with up and down text views for rolling animation.
+-->
+
 <org.chromium.components.browser_ui.widget.NumberRollView
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/selection_mode_number"

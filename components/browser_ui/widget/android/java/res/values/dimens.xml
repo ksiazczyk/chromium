@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Browser UI widget dimension resources
+summary: Defines dimension values for dialogs, list items, settings rows, and other shared widget spacing and sizing.
+-->
+
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Miscellaneous -->
     <dimen name="action_bar_shadow_height">10dp</dimen>

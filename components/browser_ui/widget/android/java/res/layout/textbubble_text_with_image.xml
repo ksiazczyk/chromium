@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Text bubble with image layout
+summary: Android layout for a text bubble showing an icon or loading spinner next to a message.
+-->
+
 <!-- TODO(crbug.com/40749767): For some reason the layout measurements in AnchoredPopupWindow are
      cutting off part of the text when a text view with a compound drawable is used. Figure out
      why and switch this to use TextViewWithCompoundDrawable. -->

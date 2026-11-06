@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DimensionCompatUnitTest
+// summary: Robolectric unit tests checking window, status bar and navigation bar dimension calculations of DimensionCompat on Android R and legacy versions.
+// ---
+
 package org.chromium.components.browser_ui.util;
 
 import static org.junit.Assert.assertEquals;

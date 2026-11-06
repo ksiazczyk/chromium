@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GlobalDiscardableReferencePool
+// summary: Global accessor that lazily creates and exposes a singleton DiscardableReferencePool for the browser UI component.
+// ---
+
 package org.chromium.components.browser_ui.util;
 
 import org.chromium.base.DiscardableReferencePool;

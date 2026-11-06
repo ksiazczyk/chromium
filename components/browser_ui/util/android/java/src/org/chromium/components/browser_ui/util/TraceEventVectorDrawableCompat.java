@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TraceEventVectorDrawableCompat
+// summary: Wraps VectorDrawableCompat.create with a scoped trace event for tracing vector drawable creation.
+// ---
+
 package org.chromium.components.browser_ui.util;
 
 import android.content.res.Resources;

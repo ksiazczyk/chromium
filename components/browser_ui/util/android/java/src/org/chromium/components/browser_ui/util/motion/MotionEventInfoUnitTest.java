@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MotionEventInfo unit tests
+// summary: Robolectric unit tests verifying that MotionEventInfo captures fields from mocked MotionEvents and correctly reports Ctrl, Meta and Shift modifier keys.
+// ---
+
 package org.chromium.components.browser_ui.util.motion;
 
 import static org.junit.Assert.assertArrayEquals;

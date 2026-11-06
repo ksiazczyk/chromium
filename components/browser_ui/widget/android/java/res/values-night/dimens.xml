@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Night-mode dimension resources for chips
+summary: Defines dark-theme dimension overrides for chip state layer hover, focused, and pressed alpha values in the Android browser UI widget library.
+-->
+
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Chips default measures -->
     <dimen name="chip_state_layer_hover_alpha">@dimen/chip_state_layer_hover_alpha_dark</dimen>

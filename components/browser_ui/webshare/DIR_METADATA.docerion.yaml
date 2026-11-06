@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: WebShare directory issue-tracker metadata
+summary: Maps the webshare directory to the Blink>WebShare Monorail component and a Buganizer component ID for issue routing.

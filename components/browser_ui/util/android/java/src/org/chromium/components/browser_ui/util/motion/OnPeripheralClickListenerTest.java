@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OnPeripheralClickListener tests
+// summary: Activity-based tests verifying that OnPeripheralClickListener ignores touchscreen events and triggers the click callback for mouse and peripheral input.
+// ---
+
 package org.chromium.components.browser_ui.util.motion;
 
 import static org.junit.Assert.assertEquals;

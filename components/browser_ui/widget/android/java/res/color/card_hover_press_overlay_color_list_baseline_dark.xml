@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Baseline dark card hover and press overlay color state list
+summary: Baseline dark variant of the card hover and press overlay color state list, using fixed baseline neutral 90 alpha colors for the pressed and hovered states.
+-->
+
 <!-- Default color state list paired with card that should have hover / press
      state, while the focus state needs a outline highlight. -->
 <selector

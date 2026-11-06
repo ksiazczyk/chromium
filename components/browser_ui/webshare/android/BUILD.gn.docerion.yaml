@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Webshare Android build targets
+summary: Defines the android_library target for the webshare component and a robolectric_library target for its JUnit tests, with their sources and dependencies.

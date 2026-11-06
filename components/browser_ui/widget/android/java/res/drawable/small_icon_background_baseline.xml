@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Small icon background ripple drawable, baseline variant
+summary: Baseline variant of the small icon background ripple drawable using a white alpha ripple and the baseline default icon background selector.
+-->
+
 <ripple xmlns:android="http://schemas.android.com/apk/res/android"
   android:color="@color/white_alpha_20">
   <item

@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Default icon background on-primary state selector
+summary: Layer-list drawable providing pressed, hovered, and focus ring states for icon backgrounds drawn on primary surfaces.
+-->
+
 <layer-list xmlns:android="http://schemas.android.com/apk/res/android">
   <!-- Layer 0: Background Fill (Hovered/Pressed states) -->
   <item>

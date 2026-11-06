@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Tile view icon background oval shape
+summary: Oval shape drawable filled with the tile view icon background color for modern tile view icons.
+-->
+
 <shape xmlns:android="http://schemas.android.com/apk/res/android"
   android:shape="oval">
   <solid android:color="@color/tile_view_icon_background_color"/>

@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Popup background shadow 16dp drawable
+summary: Nine-patch drawable that applies the 16dp popup background with a multiply tint of the menu background color.
+-->
+
 <nine-patch
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:src="@drawable/popup_bg_16dp"

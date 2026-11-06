@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Chip text color state list
+summary: Color state list for chip text that applies disabled alpha to selected and assistive text colors and otherwise uses the selected or default chip text color.
+-->
+
 <selector
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"

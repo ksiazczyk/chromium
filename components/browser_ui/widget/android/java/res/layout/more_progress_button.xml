@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: More progress button layout
+summary: Layout for the MoreProgressButton widget, showing a More action button alongside an indeterminate progress spinner.
+-->
+
 <org.chromium.components.browser_ui.widget.MoreProgressButton
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"

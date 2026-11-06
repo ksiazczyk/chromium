@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AvatarGeneratorTest
+// summary: On-device unit tests for AvatarGenerator that verify merged round avatars using colored bitmap slices.
+// ---
+
 package org.chromium.components.browser_ui.util;
 
 import static org.junit.Assert.assertTrue;

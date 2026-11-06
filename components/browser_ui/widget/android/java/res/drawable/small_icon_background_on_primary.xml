@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Small icon background ripple drawable for on-primary surfaces
+summary: Ripple drawable for small icon backgrounds on primary surfaces, using an on-primary alpha ripple color and the matching on-primary selector.
+-->
+
 <ripple xmlns:android="http://schemas.android.com/apk/res/android"
   android:color="@color/color_on_primary_with_alpha_12">
   <item

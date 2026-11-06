@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Splash screen background color resource (colors.xml)
+summary: Defines the splash_screen_bg color for the browser theme, referencing the system neutral1_10 color resource with a note about devices without dynamic color support.
+-->
+
 <resources>
     <!-- This points to a system color resource in API 31+. However, it's unclear what its value is
          on devices that don't support dynamic colors. -->

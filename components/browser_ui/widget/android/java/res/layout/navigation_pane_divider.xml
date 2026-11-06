@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Navigation pane divider layout
+summary: Simple layout resource rendering a horizontal divider with vertical margins for the navigation pane.
+-->
+
 <View
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_marginTop="@dimen/navigation_pane_divider_margin"

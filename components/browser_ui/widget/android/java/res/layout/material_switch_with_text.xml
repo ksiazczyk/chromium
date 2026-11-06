@@ -3,6 +3,13 @@ Copyright 2023 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: source
+title: Material switch with text layout
+summary: Reusable merge layout pairing a text label with a Material-style preference switch for settings rows.
+-->
+
 <merge xmlns:android="http://schemas.android.com/apk/res/android">
     <org.chromium.ui.widget.TextViewWithLeading
         android:id="@+id/switch_text"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ToolbarUtils
+// summary: Helper class for Android toolbars that manages overflow menu visibility and enabled state and locates the title text view.
+// ---
+
 package org.chromium.components.browser_ui.util;
 
 import android.text.TextUtils;

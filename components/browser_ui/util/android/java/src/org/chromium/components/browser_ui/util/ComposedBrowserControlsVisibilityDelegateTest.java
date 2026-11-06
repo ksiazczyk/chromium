@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ComposedBrowserControlsVisibilityDelegateTest
+// summary: Robolectric unit tests verifying how the composed browser controls visibility delegate combines hidden, shown and both constraints from its delegates.
+// ---
+
 package org.chromium.components.browser_ui.util;
 
 import org.junit.Assert;

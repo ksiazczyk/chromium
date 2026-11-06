@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Browser UI widget custom view attributes
+summary: Declares styleable attributes for shared Android widgets such as BoundedLinearLayout, DualControlLayout, ChipView, and RadioButtonWithDescription.
+-->
+
 <resources>
     <declare-styleable name="BoundedLinearLayout">
         <attr name="maxWidthLandscape" format="dimension" />

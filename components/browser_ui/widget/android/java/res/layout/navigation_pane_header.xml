@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Navigation pane header layout
+summary: Layout for the NavigationPaneHeaderView, displaying a padded section title within the navigation pane.
+-->
+
 <org.chromium.components.browser_ui.widget.navigation_pane.NavigationPaneHeaderView
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"

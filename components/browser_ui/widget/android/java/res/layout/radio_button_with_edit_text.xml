@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Radio button with edit text layout
+summary: Android layout combining a radio button with an editable text field and an optional description line.
+-->
+
 <!-- RadioButtonWithEditText extends RelativeLayout -->
 <merge xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools">

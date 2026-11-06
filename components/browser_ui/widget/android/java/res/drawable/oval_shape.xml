@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Tintable oval shape drawable
+summary: Plain white oval shape drawable whose base color is meant to be overridden by tinting.
+-->
+
 <shape xmlns:android="http://schemas.android.com/apk/res/android"
     android:shape="oval">
   <!-- base color that will get overridden by tint. -->

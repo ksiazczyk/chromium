@@ -4,6 +4,13 @@ Copyright 2023 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: asset
+title: Home surface UI background drawable
+summary: Rounded rectangle shape drawable that paints the home surface UI background color with a themed corner radius.
+-->
+
 <shape xmlns:android="http://schemas.android.com/apk/res/android"
     android:shape="rectangle">
   <solid android:color="@color/home_surface_ui_background_color"/>

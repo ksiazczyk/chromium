@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserControlsVisibilityDelegate
+// summary: Observable supplier delegate that determines and publishes the visibility state of the browser controls.
+// ---
+
 package org.chromium.components.browser_ui.util;
 
 import org.chromium.base.Callback;

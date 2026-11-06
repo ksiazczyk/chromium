@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for Android theme resources
+summary: Defines GN targets that package Android theme resources, including jinja template resources and day/night color and theme XML files.

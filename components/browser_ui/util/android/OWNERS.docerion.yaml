@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for browser UI Android utilities
+summary: Delegates code ownership for this directory to the Chrome Android OWNERS file.

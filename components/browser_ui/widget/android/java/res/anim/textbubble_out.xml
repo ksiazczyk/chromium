@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Text bubble exit animation
+summary: Android view animation that fades a text bubble out from alpha 1 to 0 using a linear interpolator and the system short animation duration.
+-->
+
 <set xmlns:android="http://schemas.android.com/apk/res/android"
     android:duration="@android:integer/config_shortAnimTime"
     android:interpolator="@android:anim/linear_interpolator" >

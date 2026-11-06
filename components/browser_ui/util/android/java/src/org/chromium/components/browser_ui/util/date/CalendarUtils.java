@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CalendarUtils
+// summary: Utility methods for working with localized Calendar instances, including getting the start of a day and checking whether two timestamps fall on the same calendar day.
+// ---
+
 package org.chromium.components.browser_ui.util.date;
 
 import org.chromium.build.annotations.NullMarked;

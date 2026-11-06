@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for browser_ui components
+summary: Defines include rules that allow code in this components directory to depend on the OfflineItem class from the offline_items_collection core Java sources.

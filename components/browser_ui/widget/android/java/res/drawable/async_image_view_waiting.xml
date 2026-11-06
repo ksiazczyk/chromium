@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Async image view waiting animated vector drawable
+summary: Animated vector drawable that pulses the placeholder shapes' alpha while AsyncImageView waits for an image to load.
+-->
+
 <animated-vector xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:aapt="http://schemas.android.com/aapt"
     android:drawable="@drawable/async_image_view_unavailable">

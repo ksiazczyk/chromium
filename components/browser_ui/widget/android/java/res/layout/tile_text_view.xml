@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Tile title text view with optional pinned shortcut badge
+summary: Android layout for the title text of a tile, including an optional pinned shortcut badge icon.
+-->
+
 <!-- The title / name text view of a tile, with optional icon. -->
 <merge
     xmlns:android="http://schemas.android.com/apk/res/android"

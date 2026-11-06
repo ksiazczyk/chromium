@@ -1,2 +1,8 @@
+---
+type: readme
+title: README for the browser_ui widget package
+summary: Describes the org.chromium.components.browser_ui.widget package as generally useful UI utilities without feature-specific code or dependencies.
+---
+
 The org.chromium.components.browser_ui.widget package contains generally useful
 UI utilities with no feature-specific code or dependencies.

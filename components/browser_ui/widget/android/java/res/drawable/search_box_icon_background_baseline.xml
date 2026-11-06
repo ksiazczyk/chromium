@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Search box icon background baseline ripple
+summary: Baseline color variant of the ripple drawable wrapping the search box icon background selector.
+-->
+
 <ripple xmlns:android="http://schemas.android.com/apk/res/android"
   android:color="@color/white_alpha_20">
   <item

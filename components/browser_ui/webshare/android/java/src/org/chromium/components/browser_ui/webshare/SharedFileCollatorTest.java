@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for SharedFileCollator
+// summary: Robolectric unit tests covering commonMimeType results for identical, differing, and malformed MIME type combinations.
+// ---
+
 package org.chromium.components.browser_ui.webshare;
 
 import org.junit.Assert;

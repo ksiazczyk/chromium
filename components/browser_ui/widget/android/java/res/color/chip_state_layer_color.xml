@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Chip state layer color state list
+summary: Translucent overlay color state list for chips that applies state-specific alphas and macro colors for selected, pressed, focused and hovered states.
+-->
+
 <!-- Translucent layer that will overlay the chip background based on the current state. This
      separate layer is used to make overlaying dynamic colors easier. -->
 <selector xmlns:android="http://schemas.android.com/apk/res/android">

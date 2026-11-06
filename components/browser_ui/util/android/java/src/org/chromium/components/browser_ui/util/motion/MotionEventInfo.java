@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MotionEventInfo data class for Android motion events
+// summary: Immutable data class that snapshots action, source, per-pointer tool types and meta state from an Android MotionEvent, safe to keep after the event is recycled.
+// ---
+
 package org.chromium.components.browser_ui.util.motion;
 
 import android.view.KeyEvent;

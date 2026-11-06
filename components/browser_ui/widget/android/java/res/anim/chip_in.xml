@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Chip enter animation resource
+summary: Android view animation that fades a chip in from alpha 0 to 1 while translating it up, over the system short animation duration.
+-->
+
 <set xmlns:android="http://schemas.android.com/apk/res/android"
     android:duration="@android:integer/config_shortAnimTime"
     android:interpolator="@android:anim/accelerate_decelerate_interpolator" >
