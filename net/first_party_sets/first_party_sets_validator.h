@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FirstPartySetsValidator class header
+// summary: Declares a helper class that checks the validity of Related Website Sets, detecting singleton primaries, orphaned non-primary sites, and overlapping sets.
+// ---
+
 #ifndef NET_FIRST_PARTY_SETS_FIRST_PARTY_SETS_VALIDATOR_H_
 #define NET_FIRST_PARTY_SETS_FIRST_PARTY_SETS_VALIDATOR_H_
 

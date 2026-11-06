@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FirstPartySetMetadata implementation
+// summary: Implements FirstPartySetMetadata, including the check whether frame and top-frame entries belong to the same First-Party Set.
+// ---
+
 #include "net/first_party_sets/first_party_set_metadata.h"
 
 #include <utility>

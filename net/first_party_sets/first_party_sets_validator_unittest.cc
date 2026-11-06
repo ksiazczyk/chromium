@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FirstPartySetsValidator unit tests
+// summary: Unit tests verifying validator behavior for valid sets and invalid cases such as singletons, orphans, and sites listed in more than one set.
+// ---
+
 #include "net/first_party_sets/first_party_sets_validator.h"
 
 #include <initializer_list>

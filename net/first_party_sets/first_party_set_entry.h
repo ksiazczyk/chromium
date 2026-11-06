@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FirstPartySetEntry class and SiteType enum
+// summary: Declares the FirstPartySetEntry class and the persisted SiteType enum bundling a site's primary and role within a First-Party Set.
+// ---
+
 #ifndef NET_FIRST_PARTY_SETS_FIRST_PARTY_SET_ENTRY_H_
 #define NET_FIRST_PARTY_SETS_FIRST_PARTY_SET_ENTRY_H_
 

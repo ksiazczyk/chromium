@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: First-Party Sets directory owners
+summary: Delegates code review ownership for this directory to the chrome/browser/first_party_sets OWNERS file.

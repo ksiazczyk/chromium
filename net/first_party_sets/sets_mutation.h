@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SetsMutation class header
+// summary: Declares SetsMutation, representing changes to global Related Website Sets from the RelatedWebsiteSetsOverrides policy via replacement sets, addition sets, and aliases.
+// ---
+
 #ifndef NET_FIRST_PARTY_SETS_SETS_MUTATION_H_
 #define NET_FIRST_PARTY_SETS_SETS_MUTATION_H_
 

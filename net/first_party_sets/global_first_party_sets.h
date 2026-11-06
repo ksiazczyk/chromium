@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GlobalFirstPartySets class header
+// summary: Declares the class holding all parsed First-Party Sets known to the browser, suitable for plumbing to the network service and answering queries, with support for applying customizations.
+// ---
+
 #ifndef NET_FIRST_PARTY_SETS_GLOBAL_FIRST_PARTY_SETS_H_
 #define NET_FIRST_PARTY_SETS_GLOBAL_FIRST_PARTY_SETS_H_
 

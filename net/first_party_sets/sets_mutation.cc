@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SetsMutation implementation
+// summary: Implements SetsMutation construction and stream output, checking that replacement and addition sets are disjoint and that aliases match their canonical entries.
+// ---
+
 #include "net/first_party_sets/sets_mutation.h"
 
 #include <algorithm>

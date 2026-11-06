@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FirstPartySetsValidator implementation
+// summary: Implements FirstPartySetsValidator, tracking per-primary state to detect singletons, orphans, and sets that are not disjoint among Related Website Sets.
+// ---
+
 #include "net/first_party_sets/first_party_sets_validator.h"
 
 #include <algorithm>

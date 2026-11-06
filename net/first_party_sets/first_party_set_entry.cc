@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FirstPartySetEntry implementation
+// summary: Implements the FirstPartySetEntry class, including SiteType-to-string conversion, deserialization and debug output.
+// ---
+
 #include "net/first_party_sets/first_party_set_entry.h"
 
 #include <utility>
