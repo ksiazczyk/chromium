@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dialog footer
+// summary: Footer UI shown when the Files app is opened as a file or folder selecting dialog, with OK, cancel, new folder, and file type controls.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_input/cr_input.js';
 
 import type {CrInputElement} from 'chrome://resources/ash/common/cr_elements/cr_input/cr_input.js';

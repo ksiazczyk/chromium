@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Single selection model unit tests
+// summary: Unit tests for ListSingleSelectionModel covering index adjustments and single-selection, lead index and anchor behavior.
+// ---
+
 // clang-format off
 import {ListSingleSelectionModel} from './list_single_selection_model.js';
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Metadata box controller
+// summary: Controls the quick view metadata box, loading and displaying general and file-specific metadata for the selected entry.
+// ---
+
 import type {VolumeManager} from '../../background/js/volume_manager.js';
 import {isDirectoryEntry, isNativeEntry, isSameEntry, unwrapEntry} from '../../common/js/entry_utils.js';
 import {getType} from '../../common/js/file_type.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File table list
+// summary: Table list component that renders file list items, group headings, selection state, and drag selection support for the file table.
+// ---
+
 import {assert} from 'chrome://resources/js/assert.js';
 
 import type {EntryLocation} from '../../../background/js/entry_location_impl.js';

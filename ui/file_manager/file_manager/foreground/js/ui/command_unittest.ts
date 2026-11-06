@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Command unit tests
+// summary: Unit tests for the command element covering default prevention of canExecute events and keyboard shortcut matching across layouts.
+// ---
+
 import {assertEquals, assertFalse, assertTrue} from 'chrome://webui-test/chromeos/chai_assert.js';
 
 import {crInjectTypeAndInit} from '../../../common/js/cr_ui.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Files confirm dialog
+// summary: Confirm dialog subclass for the Files app with modal handling, optional cancel-button focus, and done callbacks.
+// ---
+
 import {getFilesAppModalDialogInstance} from '../../../common/js/util.js';
 
 import {ConfirmDialog} from './dialogs.js';

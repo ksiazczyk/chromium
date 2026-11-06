@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Files alert dialog
+// summary: Alert dialog subclass for the Files app that shows messages inside the app's modal container and offers an async show helper.
+// ---
+
 import {getFilesAppModalDialogInstance} from '../../../common/js/util.js';
 
 import {AlertDialog} from './dialogs.js';

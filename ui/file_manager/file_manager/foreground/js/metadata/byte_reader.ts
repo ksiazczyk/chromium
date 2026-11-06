@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ByteReader class for reading binary data from ArrayBuffers
+// summary: Provides a ByteReader utility with static helpers to read strings, UTF-16 strings, scalars and base64 data from DataView buffers, used by the metadata parsers.
+// ---
+
 export class ByteReader {
   private readonly view_: DataView;
   private pos_ = 0;

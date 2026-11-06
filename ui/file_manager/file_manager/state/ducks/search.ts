@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search slice of the Files app store
+// summary: Implements the search slice of the store with reducers and actions to update, clear and provide default search parameters.
+// ---
+
 import {Slice} from '../../lib/base_store.js';
 import {type SearchData, SearchLocation, type SearchOptions, SearchRecency, type State} from '../../state/state.js';
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: File list selection model unit tests
+// summary: Unit tests for the file list selection model verifying selection behavior when items are deleted.
+// ---
+
 import {assertArrayEquals, assertFalse, assertTrue} from 'chrome://webui-test/chromeos/chai_assert.js';
 
 import {FileListSelectionModel} from './file_list_selection_model.js';

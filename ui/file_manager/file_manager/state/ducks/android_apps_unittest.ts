@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android apps store slice unit tests
+// summary: Tests that Android apps are added to the store correctly, including fallback to a generic icon when no icon set applies.
+// ---
+
 import {ICON_TYPES} from '../../foreground/js/constants.js';
 import type {State} from '../../state/state.js';
 import {setupStore, waitDeepEquals} from '../for_tests.js';

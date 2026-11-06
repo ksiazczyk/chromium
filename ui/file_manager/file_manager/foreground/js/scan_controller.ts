@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Directory scan event controller
+// summary: Handles directory scan events from the DirectoryModel, updating the store, spinner, and batched UI refreshes while scans run.
+// ---
+
 import {recordDirectoryListLoadWithTolerance, startInterval} from '../../common/js/metrics.js';
 import {RootType, VolumeType} from '../../common/js/volume_manager_types.js';
 import {updateDirectoryContent} from '../../state/ducks/current_directory.js';

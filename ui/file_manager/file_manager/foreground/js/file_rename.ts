@@ -7,6 +7,12 @@
  * by the files app frontend.
  */
 
+// ---docerion
+// type: source
+// title: File and drive rename validation
+// summary: Frontend renaming utilities that validate file, folder, and external drive names against File API and filesystem-specific restrictions.
+// ---
+
 import {assert} from 'chrome://resources/js/assert.js';
 
 import type {VolumeInfo} from '../../background/js/volume_info.js';

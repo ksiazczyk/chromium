@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: List container for file table and grid
+// summary: Container coordinating the file table and grid views, including rename input, loading spinner, text search state and context menu handling.
+// ---
+
 import {dispatchSimpleEvent} from 'chrome://resources/ash/common/cr_deprecated.js';
 import {assert, assertInstanceof, assertNotReached, assertNotReachedCase} from 'chrome://resources/js/assert.js';
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android app list model
+// summary: Model holding the list of Android picker apps fetched via fileManagerPrivate and dispatching them to the app store.
+// ---
+
 import {NativeEventTarget as EventTarget} from 'chrome://resources/ash/common/event_target.js';
 
 import type {TypeList} from '../../common/js/files_app_state.js';

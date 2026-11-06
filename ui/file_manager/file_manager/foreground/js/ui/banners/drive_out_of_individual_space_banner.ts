@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Drive out of individual space banner custom element
+// summary: Defines the drive-out-of-individual-space-banner custom element that warns about individual Drive quota exhaustion on the My Drive root.
+// ---
+
 import {RootType, VolumeType} from '../../../../common/js/volume_manager_types.js';
 
 import {getTemplate} from './drive_out_of_individual_space_banner.html.js';

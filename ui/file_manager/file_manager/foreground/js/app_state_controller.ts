@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App state controller
+// summary: Loads, restores, and persists Files app view options such as list type, sort order, column config, and Android folder visibility.
+// ---
+
 import {assert} from 'chrome://resources/js/assert.js';
 
 import {isRecentFileData, isRecentRoot} from '../../common/js/entry_utils.js';

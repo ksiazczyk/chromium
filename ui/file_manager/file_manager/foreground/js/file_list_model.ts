@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File list model
+// summary: Data model for the file list providing sorting, file and folder counts, and grouping by modification time or directory.
+// ---
+
 import {assert} from 'chrome://resources/js/assert.js';
 
 import type {EntryLocation} from '../../background/js/entry_location_impl.js';

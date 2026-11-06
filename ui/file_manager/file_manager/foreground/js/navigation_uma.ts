@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Navigation UMA metrics for directory changes
+// summary: Records a UMA histogram capturing the root type of the current directory whenever the file manager navigates to a new directory.
+// ---
+
 import type {VolumeManager} from '../../background/js/volume_manager.js';
 import type {UniversalDirectory} from '../../common/js/files_app_entry_types.js';
 import {recordEnum} from '../../common/js/metrics.js';

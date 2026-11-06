@@ -6,6 +6,12 @@
  * @fileoverview This implements a common button control, bound to command.
  */
 
+// ---docerion
+// type: source
+// title: Command button
+// summary: Implements a button element bound to a command, syncing its label, disabled and hidden state and executing the command on click.
+// ---
+
 import {CrButtonElement} from 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';
 import {assert} from 'chrome://resources/js/assert.js';
 

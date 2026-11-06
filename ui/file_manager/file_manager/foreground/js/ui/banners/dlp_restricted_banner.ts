@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DLP restricted banner
+// summary: Custom element that warns users when files or save destinations are restricted by Data Leak Prevention, adapting its text to the dialog type.
+// ---
+
 import {str} from '../../../../common/js/translations.js';
 import {RootType} from '../../../../common/js/volume_manager_types.js';
 import {DialogType} from '../../../../state/state.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File drag-and-drop and copy-paste controller
+// summary: Controller implementing drag-and-drop and clipboard file transfers, including drop target validation, transfer confirmations, and progress center integration.
+// ---
+
 import {assert, assertNotReached, assertNotReachedCase} from 'chrome://resources/js/assert.js';
 import {sanitizeInnerHtml} from 'chrome://resources/js/parse_html_subset.js';
 

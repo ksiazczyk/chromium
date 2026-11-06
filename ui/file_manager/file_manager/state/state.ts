@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Files app state type definitions
+// summary: Defines the core types and enums for the Files app state, including FileData, FileKey, VolumeId, PropStatus, and file task types.
+// ---
+
 import type {FilesAppEntry} from '../common/js/files_app_entry_types.js';
 import type {DialogType} from '../common/js/shared_types.js';
 import type {RootType, VolumeType} from '../common/js/volume_manager_types.js';

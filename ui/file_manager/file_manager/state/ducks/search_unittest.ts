@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the search slice
+// summary: Verifies that search actions correctly update, preserve and clear query, status and options state in the store.
+// ---
+
 import {assertDeepEquals, assertFalse, assertTrue} from 'chrome://webui-test/chromeos/chai_assert.js';
 
 import {PropStatus, type SearchData, SearchLocation, SearchRecency} from '../../state/state.js';

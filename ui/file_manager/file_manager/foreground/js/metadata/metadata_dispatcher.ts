@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Metadata parser dispatcher
+// summary: Worker-side dispatcher that routes file URLs to the matching metadata parsers and posts results or errors back to the caller.
+// ---
+
 import {ExifParser} from './exif_parser.js';
 import {Id3Parser} from './id3_parser.js';
 import {BmpParser, GifParser, IcoParser, PngParser, WebpParser} from './image_parsers.js';

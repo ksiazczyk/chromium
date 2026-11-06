@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File watcher for tracked directory changes
+// summary: Watches a tracked directory via fileManagerPrivate events and dispatches watcher-directory-changed events when its contents change or it is deleted.
+// ---
+
 import {assert} from 'chrome://resources/js/assert.js';
 
 import {AsyncQueue} from '../../common/js/async_util.js';

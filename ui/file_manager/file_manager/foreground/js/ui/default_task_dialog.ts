@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default task dialog
+// summary: Dialog with a message, list box, and OK/cancel buttons used as a task picker for file operations.
+// ---
+
 import {assert} from 'chrome://resources/ash/common/assert.js';
 
 import {ArrayDataModel} from '../../../common/js/array_data_model.js';

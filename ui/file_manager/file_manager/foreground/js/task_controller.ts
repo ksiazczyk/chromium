@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Task controller
+// summary: Manages file task execution and the default/open-with task UI, tracking extract IO tasks, task history, and store-driven selection updates.
+// ---
+
 import {assertInstanceof, assertNotReached} from 'chrome://resources/ash/common/assert.js';
 
 import type {ProgressCenter} from '../../background/js/progress_center.js';

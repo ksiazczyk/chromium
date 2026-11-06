@@ -18,6 +18,12 @@
  *
  */
 
+// ---docerion
+// type: source
+// title: Splitter element
+// summary: Splitter element that resizes adjacent panes when dragged with the mouse or touch, resizing the previous or next sibling element.
+// ---
+
 import {dispatchSimpleEvent} from 'chrome://resources/ash/common/cr_deprecated.js';
 
 interface SplitterHandlers {

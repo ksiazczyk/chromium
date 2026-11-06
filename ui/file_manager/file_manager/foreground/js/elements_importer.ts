@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Deferred elements importer
+// summary: Loads the deferred elements script for the Files app and records the import duration as a metric.
+// ---
+
 import {ScriptLoader} from '../../common/js/script_loader.js';
 
 export async function importElements(): Promise<void> {

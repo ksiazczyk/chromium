@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File tap handler
+// summary: Processes touch events to detect taps, long presses, and two-finger taps, optionally suppressing browser mouse event generation.
+// ---
+
 /**
  * Processes touch events and calls back to the class user when tap events
  * defined by FileTapHandler.TapEvent are detected.

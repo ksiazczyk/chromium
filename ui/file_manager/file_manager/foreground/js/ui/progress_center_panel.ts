@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Progress center panel
+// summary: UI panel that shows progress of file operations such as copy, move, delete, and extract, with cancel and error dismissal callbacks.
+// ---
+
 import {assert, assertNotReachedCase} from 'chrome://resources/js/assert.js';
 
 import type {ProgressCenterItem} from '../../../common/js/progress_center_common.js';

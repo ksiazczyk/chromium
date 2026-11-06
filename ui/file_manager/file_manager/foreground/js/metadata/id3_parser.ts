@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ID3 metadata parser
+// summary: Parses ID3v1 and ID3v2 tags from MP3 files to extract title, artist, album and other frame metadata.
+// ---
+
 import type {ByteReader} from './byte_reader.js';
 import {SeekOrigin} from './byte_reader.js';
 import type {Id3v2Frame, ParserMetadata} from './metadata_item.js';

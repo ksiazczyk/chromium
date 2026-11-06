@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File grid
+// summary: Grid view component for the file manager, rendering grouped file items with thumbnails and selection support.
+// ---
+
 import {assertInstanceof} from 'chrome://resources/ash/common/assert.js';
 import {dispatchSimpleEvent} from 'chrome://resources/ash/common/cr_deprecated.js';
 import {isRTL} from 'chrome://resources/ash/common/util.js';

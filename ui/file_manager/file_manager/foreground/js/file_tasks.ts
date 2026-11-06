@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File open task handling
+// summary: Implements the FileTasks class that gathers, annotates, and executes tasks for opening selected entries, including default task selection and progress reporting.
+// ---
+
 import {assert} from 'chrome://resources/ash/common/assert.js';
 
 import type {ProgressCenter} from '../../background/js/progress_center.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for banner volume helpers
+// summary: Tests the isAllowedVolume and isBelowThreshold helpers that filter banners by volume type, id, root type, and free disk space.
+// ---
+
 import {assertFalse, assertTrue} from 'chrome://webui-test/chromeos/chai_assert.js';
 
 import type {VolumeInfo} from '../../background/js/volume_info.js';

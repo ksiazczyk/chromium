@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File system metadata provider
+// summary: Metadata provider that supplies modification time, size, presence and offline availability for file entries via FileEntry#getMetadata.
+// ---
+
 import {MetadataItem} from './metadata_item.js';
 import {MetadataProvider} from './metadata_provider.js';
 import type {MetadataRequest} from './metadata_request.js';

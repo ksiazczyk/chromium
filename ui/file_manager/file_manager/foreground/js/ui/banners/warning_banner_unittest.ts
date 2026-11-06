@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Warning banner unit tests
+// summary: Unit tests covering the warning banner dismiss event, extra button link visits and default configuration values.
+// ---
+
 import './warning_banner.js';
 
 import type {CrButtonElement} from 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';

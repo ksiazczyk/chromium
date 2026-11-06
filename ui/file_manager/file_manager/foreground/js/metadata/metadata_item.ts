@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MetadataItem class defining file metadata properties
+// summary: Defines the MetadataItem class holding file metadata such as size, thumbnails, media info, Drive availability flags, and DataLeakPrevention restrictions.
+// ---
+
 import type {ExifEntry, ExifTag} from './exif_constants.js';
 
 export interface ImageTransformation {

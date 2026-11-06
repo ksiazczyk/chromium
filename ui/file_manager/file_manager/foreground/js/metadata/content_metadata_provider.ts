@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content metadata provider backed by a shared worker
+// summary: Metadata provider that requests content metadata such as image transforms, thumbnails and media tags from a shared worker dispatcher and converts results into MetadataItem objects.
+// ---
+
 import {ImageLoaderClient} from 'chrome-extension://pmfjbimdmchhbnneeidfognadeopoehp/image_loader_client.js';
 import {createForUrl, type LoadImageResponse, LoadImageResponseStatus} from 'chrome-extension://pmfjbimdmchhbnneeidfognadeopoehp/load_image_request.js';
 import {assert, assertNotReached} from 'chrome://resources/js/assert.js';

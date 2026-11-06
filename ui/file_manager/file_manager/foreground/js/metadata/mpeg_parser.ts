@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MpegParser for MP4 and MPEG metadata
+// summary: Parses MP4 and MPEG atom structures to extract duration, dimensions, title, album, artist, and thumbnail metadata.
+// ---
+
 import {ByteReader, SeekOrigin} from './byte_reader.js';
 import type {ParserMetadata} from './metadata_item.js';
 import {MetadataParser, type MetadataParserLogger} from './metadata_parser.js';

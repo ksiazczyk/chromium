@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome preferences slice of the Files App store
+// summary: Defines the preferences store slice with an update action that handles both full Preferences objects and partial PreferencesChange payloads.
+// ---
+
 import {Slice} from '../../lib/base_store.js';
 import type {State} from '../../state/state.js';
 

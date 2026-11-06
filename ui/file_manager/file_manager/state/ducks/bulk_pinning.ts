@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bulk pinning store slice
+// summary: Defines the bulkPinning slice that tracks progress and error states of pinning My Drive files for offline availability.
+// ---
+
 import {Slice} from '../../lib/base_store.js';
 import type {State} from '../../state/state.js';
 

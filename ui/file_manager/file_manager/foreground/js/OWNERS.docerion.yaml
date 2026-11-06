@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for foreground JS
+summary: Per-file OWNERS entry assigning review ownership of import_controller files to smckay@chromium.org.

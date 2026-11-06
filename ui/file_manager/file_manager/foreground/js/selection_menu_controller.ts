@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Selection menu controller
+// summary: Controls the selection menu button, toggling the toolbar-menu class when the menu is shown or hidden while avoiding flicker during close animation.
+// ---
+
 import type {Menu} from './ui/menu.js';
 import type {MultiMenuButton} from './ui/multi_menu_button.js';
 

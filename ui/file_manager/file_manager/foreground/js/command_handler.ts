@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Command handler for the Files app
+// summary: Implements the CommandHandler that wires up and executes Files app menu and context menu commands such as copy, paste, delete, rename, sort and zoom.
+// ---
+
 import {assert} from 'chrome://resources/js/assert.js';
 
 import type {Crostini} from '../../background/js/crostini.js';

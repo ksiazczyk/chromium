@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Grid control with multi-column layout
+// summary: Implements the Grid element, a multi-column list control that computes column counts from item size, margins and available width.
+// ---
+
 import {assert} from 'chrome://resources/js/assert.js';
 
 import {crInjectTypeAndInit} from '../../../common/js/cr_ui.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Metadata cache item unit tests
+// summary: Unit tests for request creation, property storage, invalidation, cloning and fresh-cache checks of MetadataCacheItem.
+// ---
+
 import {assertEquals, assertFalse, assertThrows, assertTrue} from 'chrome://webui-test/chromeos/chai_assert.js';
 
 import {MetadataCacheItem} from './metadata_cache_item.js';

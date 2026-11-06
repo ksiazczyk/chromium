@@ -6,6 +6,12 @@
  * @fileoverview This implements a combobutton control.
  */
 
+// ---docerion
+// type: source
+// title: Combo button control
+// summary: Implements a combo button control with a default action and a drop-down list of task items.
+// ---
+
 import {assert} from 'chrome://resources/js/assert.js';
 
 import {boolAttrSetter, crInjectTypeAndInit} from '../../../common/js/cr_ui.js';

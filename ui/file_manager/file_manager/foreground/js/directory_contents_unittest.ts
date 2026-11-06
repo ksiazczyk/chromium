@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for directory contents
+// summary: Tests hidden file filtering and that the recent content scanner filters out entries whose query does not match or whose volume is disallowed.
+// ---
+
 import {assertEquals, assertFalse} from 'chrome://webui-test/chromeos/chai_assert.js';
 
 import type {VolumeInfo} from '../../background/js/volume_info.js';

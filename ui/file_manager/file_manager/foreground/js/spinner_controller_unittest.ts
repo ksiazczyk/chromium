@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Spinner controller unit tests
+// summary: Unit tests for SpinnerController covering blink, delayed show, show during blink, and stacked show/hide behavior using mutation observers.
+// ---
+
 import {assertFalse, assertTrue} from 'chrome://webui-test/chromeos/chai_assert.js';
 
 import {SpinnerController} from './spinner_controller.js';

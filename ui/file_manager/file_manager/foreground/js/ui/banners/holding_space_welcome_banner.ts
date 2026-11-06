@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Holding space welcome banner
+// summary: Defines an educational banner introducing the Holding space feature on volumes that allow pinning files to the shelf.
+// ---
+
 import {RootType, VolumeType} from '../../../../common/js/volume_manager_types.js';
 import {getAllowedVolumeTypes, maybeStoreTimeOfFirstWelcomeBannerShow} from '../../holding_space_util.js';
 

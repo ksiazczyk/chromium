@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Volumes slice of the Files app store
+// summary: Defines the volumes slice, converting volume info and metadata to store state and providing actions to add, update and remove volumes.
+// ---
+
 import type {VolumeInfo} from '../../background/js/volume_info.js';
 import {isOneDriveId, isSameEntry} from '../../common/js/entry_utils.js';
 import type {FilesAppEntry} from '../../common/js/files_app_entry_types.js';

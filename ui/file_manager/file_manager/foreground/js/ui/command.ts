@@ -15,6 +15,12 @@
  * command if there might be other command listeners higher up in the DOM tree.
  */
 
+// ---docerion
+// type: source
+// title: Command element for UI actions
+// summary: Implements a command element abstracting user actions with keyboard shortcuts, canExecute events and disabled or hidden state.
+// ---
+
 import {dispatchPropertyChange} from 'chrome://resources/ash/common/cr_deprecated.js';
 import {KeyboardShortcutList} from 'chrome://resources/ash/common/keyboard_shortcut_list_js.js';
 import {assert} from 'chrome://resources/js/assert.js';

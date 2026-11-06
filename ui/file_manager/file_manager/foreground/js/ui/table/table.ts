@@ -6,6 +6,12 @@
  * @fileoverview This implements a table control.
  */
 
+// ---docerion
+// type: source
+// title: Table control for the Files app
+// summary: Implements the table custom element that combines a list, header, and column model, exposing data, selection, and column model accessors for the Files app UI.
+// ---
+
 import {dispatchSimpleEvent} from 'chrome://resources/ash/common/cr_deprecated.js';
 import {assert} from 'chrome://resources/js/assert.js';
 

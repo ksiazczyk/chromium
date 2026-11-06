@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UI entries slice of the Files app store
+// summary: Manages UI-only fake entries such as Recents, Trash and Drive wrappers, including adding and removing them and rescanning MyFiles.
+// ---
+
 import {isSameEntry, isVolumeEntry} from '../../common/js/entry_utils.js';
 import type {EntryList, FakeEntry} from '../../common/js/files_app_entry_types.js';
 import {RootType} from '../../common/js/volume_manager_types.js';

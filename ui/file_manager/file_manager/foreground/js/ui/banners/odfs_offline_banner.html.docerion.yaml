@@ -1,0 +1,4 @@
+# Docerion header of odfs_offline_banner.html.
+type: source
+title: OneDrive offline banner template
+summary: HTML template displaying the warning text shown when OneDrive is unavailable while the device is offline.

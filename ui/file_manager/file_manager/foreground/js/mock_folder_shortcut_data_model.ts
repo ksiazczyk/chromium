@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock folder shortcut data model
+// summary: Mock FolderShortcutDataModel extending ArrayDataModel with a simple path-based compare for use in tests.
+// ---
+
 import {ArrayDataModel} from '../../common/js/array_data_model.js';
 import type {MockEntry} from '../../common/js/mock_entry.js';
 

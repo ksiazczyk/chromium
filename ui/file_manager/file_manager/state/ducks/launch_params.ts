@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Launch parameters slice of the Files App store
+// summary: Defines the launchParams store slice with a set action that stores launch parameters when the dialog type changes.
+// ---
+
 import {Slice} from '../../lib/base_store.js';
 import type {LaunchParams, State} from '../../state/state.js';
 

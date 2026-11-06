@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Metadata cache set unit tests
+// summary: Unit tests for caching, partial stores, invalidation and snapshot behaviour of MetadataCacheSet.
+// ---
+
 import {assertDeepEquals, assertEquals, assertFalse, assertTrue} from 'chrome://webui-test/chromeos/chai_assert.js';
 
 import type {MetadataSetEvent} from './metadata_cache_set.js';

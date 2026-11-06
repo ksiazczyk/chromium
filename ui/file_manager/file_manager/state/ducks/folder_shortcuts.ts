@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Folder shortcuts slice of the Files App store
+// summary: Defines the folderShortcuts store slice with actions to refresh, add, and remove folder shortcuts, keeping the list sorted and entries cached.
+// ---
+
 import {comparePath} from '../../common/js/entry_utils.js';
 import type {FilesAppEntry} from '../../common/js/files_app_entry_types.js';
 import {Slice} from '../../lib/base_store.js';

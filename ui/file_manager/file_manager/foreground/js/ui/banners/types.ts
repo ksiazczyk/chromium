@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared types and interfaces for Files app banners
+// summary: Defines banner events, allowed volume and disk threshold types, and the Banner interface and base class used by banner implementations.
+// ---
+
 import type {RootType, VolumeType} from '../../../../common/js/volume_manager_types.js';
 
 

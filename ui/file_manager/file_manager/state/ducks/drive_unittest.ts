@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Drive store slice
+// summary: Tests that the updateDriveConnectionStatus action correctly stores connection type and offline reason for online, metered, and offline states.
+// ---
+
 import {assertEquals} from 'chrome://webui-test/chromeos/chai_assert.js';
 
 import {setUpFileManagerOnWindow} from '../for_tests.js';

@@ -1,0 +1,4 @@
+# Docerion header of drive_out_of_organization_space_banner.html.
+type: source
+title: Drive out of organization space banner HTML template
+summary: HTML template for the warning banner shown when the user's Google Drive organization runs out of quota, with a manage storage link.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Menu unit tests
+// summary: Unit tests for Menu and MenuItem covering mouse handling, command attribute copying and separator visibility rules.
+// ---
+
 import {assertEquals, assertFalse, assertTrue} from 'chrome://webui-test/chromeos/chai_assert.js';
 
 import {crInjectTypeAndInit} from '../../../common/js/cr_ui.js';

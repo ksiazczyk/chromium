@@ -6,6 +6,12 @@
  * @fileoverview Utility methods for the holding space feature.
  */
 
+// ---docerion
+// type: source
+// title: Holding space utility methods
+// summary: Utilities for the holding space feature that store first pin and welcome banner timestamps and record related histogram metrics.
+// ---
+
 import {storage} from '../../common/js/storage.js';
 import {VolumeType} from '../../common/js/volume_manager_types.js';
 

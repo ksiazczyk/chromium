@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Files migrating to cloud banner
+// summary: Defines a warning banner shown in local directories when SkyVault policies move local files to Google Drive, OneDrive or delete them.
+// ---
+
 import {assertNotReachedCase} from 'chrome://resources/js/assert.js';
 
 import {str, strf} from '../../../../common/js/translations.js';

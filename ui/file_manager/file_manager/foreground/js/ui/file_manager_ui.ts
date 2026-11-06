@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Files app UI root class
+// summary: Root view class of the Files app that wires up dialogs, menus, list containers, and other UI components from the app DOM.
+// ---
+
 import '../../elements/icons.html.js';
 
 import {assertInstanceof} from 'chrome://resources/js/assert.js';

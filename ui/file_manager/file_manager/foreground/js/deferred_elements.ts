@@ -6,6 +6,12 @@
  * @fileoverview Elements not used in the first painting of the app.
  */
 
+// ---docerion
+// type: source
+// title: Deferred element imports
+// summary: Imports custom elements that are not needed for the first paint of the Files app so they can be loaded lazily.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';
 import 'chrome://resources/ash/common/cr_elements/cr_checkbox/cr_checkbox.js';
 import 'chrome://resources/ash/common/cr_elements/cr_dialog/cr_dialog.js';

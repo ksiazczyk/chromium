@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Menu element
+// summary: Implements the Menu custom element that decorates menu items, manages selection and guards against accidental mouseup activation.
+// ---
+
 import {dispatchPropertyChange} from 'chrome://resources/ash/common/cr_deprecated.js';
 import {assert, assertInstanceof} from 'chrome://resources/js/assert.js';
 

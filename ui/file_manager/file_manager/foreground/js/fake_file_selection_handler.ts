@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake file selection handler
+// summary: Mock FileSelectionHandler that fakes selection updates and store dispatches for use in unit tests.
+// ---
+
 import {NativeEventTarget as EventTarget} from 'chrome://resources/ash/common/event_target.js';
 
 import {MockVolumeManager} from '../../background/js/mock_volume_manager.js';

@@ -1,0 +1,4 @@
+# Docerion header of dlp_restricted_banner.html.
+type: source
+title: DLP restricted banner template
+summary: HTML template providing the state-banner markup with a text slot for the DLP restricted banner element.

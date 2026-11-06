@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gear menu controller
+// summary: Implements the gear menu, managing the Drive sync checkbox, providers entry and a volume space info bar with usage meter.
+// ---
+
 import {loadTimeData} from 'chrome://resources/ash/common/load_time_data.m.js';
 import {assertInstanceof} from 'chrome://resources/js/assert.js';
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Invalid USB filesystem banner
+// summary: Custom element that warns when a removable device has an unknown or unsupported filesystem and offers a format action.
+// ---
+
 import {str} from '../../../../common/js/translations.js';
 import {RootType, VolumeError} from '../../../../common/js/volume_manager_types.js';
 

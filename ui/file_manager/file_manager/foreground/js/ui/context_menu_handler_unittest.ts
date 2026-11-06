@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Context menu handler unit tests
+// summary: Unit tests for the context menu handler covering show and hide events and that non-menu key events are not consumed.
+// ---
+
 import {assertEquals, assertFalse, assertTrue} from 'chrome://webui-test/chromeos/chai_assert.js';
 
 import {crInjectTypeAndInit} from '../../../common/js/cr_ui.js';

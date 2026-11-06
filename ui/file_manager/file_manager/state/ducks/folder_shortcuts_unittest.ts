@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the folder shortcuts slice
+// summary: Tests the refresh, add, and remove folder shortcut actions against a mock file system, verifying store state after each dispatch.
+// ---
+
 import {MockFileSystem} from '../../common/js/mock_entry.js';
 import type {State} from '../../state/state.js';
 import {convertEntryToFileData} from '../ducks/all_entries.js';

@@ -1,0 +1,4 @@
+# Docerion header of drive_out_of_individual_space_banner.html.
+type: source
+title: Drive out of individual space banner HTML template
+summary: HTML template for the warning banner shown when the user exceeds their individual Google Drive quota, with a link to manage storage.

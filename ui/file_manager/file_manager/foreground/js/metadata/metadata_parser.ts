@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MetadataParser abstract base class for file parsers
+// summary: Defines the abstract MetadataParser and ImageParser base classes with logging helpers and byte-range reading used by file metadata parsers.
+// ---
+
 import {ByteReader} from './byte_reader.js';
 import type {ParserMetadata} from './metadata_item.js';
 

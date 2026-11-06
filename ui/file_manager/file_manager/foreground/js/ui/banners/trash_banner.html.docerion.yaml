@@ -1,0 +1,4 @@
+# Docerion header of trash_banner.html.
+type: source
+title: Trash banner HTML template
+summary: HTML template for the trash banner showing the deleted-forever warning text and an empty trash button.

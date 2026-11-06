@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Navigation slice of the Files App store
+// summary: Defines the navigation store slice and a refresh-roots action that rebuilds navigation roots in a defined order across sections like Recents, Cloud, and Removable.
+// ---
+
 import {isOneDrive, isOneDriveId} from '../../common/js/entry_utils.js';
 import type {EntryList, FilesAppEntry, VolumeEntry} from '../../common/js/files_app_entry_types.js';
 import {isSkyvaultV2Enabled} from '../../common/js/flags.js';

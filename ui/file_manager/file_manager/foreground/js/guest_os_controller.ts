@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Guest OS controller
+// summary: Keeps Guest OS placeholder entries in the directory tree in sync with the list of mountable guests and redraws the UI accordingly.
+// ---
+
 import {listMountableGuests} from '../../common/js/api.js';
 import {GuestOsPlaceholder} from '../../common/js/files_app_entry_types.js';
 import {isGuestOsEnabled} from '../../common/js/flags.js';

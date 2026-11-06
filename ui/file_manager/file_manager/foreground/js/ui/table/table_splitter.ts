@@ -10,6 +10,12 @@
  * It is column model responsibility to resize other columns accordingly.
  */
 
+// ---docerion
+// type: source
+// title: Table column splitter
+// summary: Implements a draggable splitter element that resizes its associated table column during drag operations and notifies the column model.
+// ---
+
 import {dispatchSimpleEvent} from 'chrome://resources/ash/common/cr_deprecated.js';
 
 import {jsSetter} from '../../../../common/js/cr_ui.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Current directory store slice unit tests
+// summary: Tests directory changes, selection updates and file task fetching in the currentDirectory slice.
+// ---
+
 import {assertEquals, assertTrue} from 'chrome://webui-test/chai_assert.js';
 
 import {fakeMyFilesVolumeId} from '../../background/js/mock_volume_manager.js';

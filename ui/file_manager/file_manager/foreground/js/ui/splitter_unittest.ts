@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Splitter unit tests
+// summary: Unit tests for the splitter element covering right-click handling and resizing of the previous and next elements via mouse events.
+// ---
+
 import {getRequiredElement} from 'chrome://resources/ash/common/util.js';
 import {getTrustedHTML} from 'chrome://resources/js/static_types.js';
 import {assertEquals, assertFalse, assertTrue} from 'chrome://webui-test/chromeos/chai_assert.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File manager main class
+// summary: Main FileManager class that wires UI controllers, the state store, volume management, and dialogs for the ChromeOS Files app.
+// ---
+
 import 'chrome://resources/cros_components/switch/switch.js';
 import '../../background/js/file_manager_base.js';
 import '../../background/js/test_util.js';

@@ -1,0 +1,4 @@
+# Docerion header of local_disk_low_space_banner.html.
+type: source
+title: Local disk low space banner template
+summary: HTML template for the warning banner shown when Downloads free space runs low, with a learn-more link and dismiss button.

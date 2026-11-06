@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Drive bulk pinning banner unit tests
+// summary: Unit tests checking that clicking the banner's Get started button opens the bulk pinning activation dialog.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';
 import 'chrome://resources/ash/common/cr_elements/cr_dialog/cr_dialog.js';
 import '../../../../widgets/xf_bulk_pinning_dialog.js';

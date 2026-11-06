@@ -6,6 +6,12 @@
  * @fileoverview This is a table column model
  */
 
+// ---docerion
+// type: source
+// title: Table column model
+// summary: Manages an array of table columns, providing accessors for names, widths, visibility, and render functions and dispatching change and resize events.
+// ---
+
 import {dispatchSimpleEvent} from 'chrome://resources/ash/common/cr_deprecated.js';
 import {NativeEventTarget as EventTarget} from 'chrome://resources/ash/common/event_target.js';
 

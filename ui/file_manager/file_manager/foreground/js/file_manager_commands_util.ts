@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Helpers for Files app command events
+// summary: Utility functions that resolve the entries targeted by command events, determine sharesheet launch sources, and validate command contexts for the Files app.
+// ---
+
 import type {VolumeInfo} from '../../background/js/volume_info.js';
 import type {VolumeManager} from '../../background/js/volume_manager.js';
 import {isModal} from '../../common/js/dialog_type.js';

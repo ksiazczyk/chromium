@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: State banner base class for Files app banners
+// summary: Base web component class for banners shown when the Files app reaches a state, extended by concrete banners that override allowedVolumes.
+// ---
+
 import {assertInstanceof} from 'chrome://resources/ash/common/assert.js';
 
 import {visitURL} from '../../../../common/js/util.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OneDrive offline banner
+// summary: Custom element that shows a persistent warning that OneDrive is not usable while the device is offline.
+// ---
+
 import {VolumeType} from '../../../../common/js/volume_manager_types.js';
 
 import {getTemplate} from './odfs_offline_banner.html.js';

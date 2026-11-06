@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared with Crostini banner
+// summary: Custom element that shows a persistent banner when the current directory is shared with Crostini.
+// ---
+
 import {RootType} from '../../../../common/js/volume_manager_types.js';
 
 import {getTemplate} from './shared_with_crostini_banner.html.js';

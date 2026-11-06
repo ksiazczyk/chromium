@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: List item element
+// summary: Defines the ListItem base element with label, list index, lead and selected attributes used by list controls.
+// ---
+
 import {boolAttrSetter, crInjectTypeAndInit, jsSetter} from '../../../common/js/cr_ui.js';
 
 /** The next id suffix to use when giving each item an unique id. */

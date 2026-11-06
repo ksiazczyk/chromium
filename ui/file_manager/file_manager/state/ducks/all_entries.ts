@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: All entries store slice
+// summary: Implements the allEntries slice of the Files app store, caching directory entries and clearing stale cached entries.
+// ---
+
 import {assert} from 'chrome://resources/js/assert.js';
 
 import type {EntryLocation} from '../../background/js/entry_location_impl.js';

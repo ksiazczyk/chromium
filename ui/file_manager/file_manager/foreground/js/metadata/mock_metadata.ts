@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MockMetadataModel test double for metadata model
+// summary: Provides MockMetadataModel, a test double of MetadataModel that returns per-entry or default properties configured by tests.
+// ---
+
 import {assertNotReached} from 'chrome://resources/js/assert.js';
 
 import type {FilesAppEntry} from '../../../common/js/files_app_entry_types.js';

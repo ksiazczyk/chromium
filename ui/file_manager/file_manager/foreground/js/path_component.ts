@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Breadcrumb path component model
+// summary: Represents a file path as a series of components and computes breadcrumb components from a given entry using volume and location information.
+// ---
+
 import type {VolumeManager} from '../../background/js/volume_manager.js';
 import {isFakeEntry} from '../../common/js/entry_utils.js';
 import type {FilesAppEntry} from '../../common/js/files_app_entry_types.js';

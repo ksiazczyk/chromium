@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for MetadataModel
+// summary: Unit tests verifying MetadataModel caching, request batching, and provider callback behavior using test metadata providers.
+// ---
+
 import {assertEquals, assertThrows} from 'chrome://webui-test/chromeos/chai_assert.js';
 
 import {FilesAppEntry} from '../../../common/js/files_app_entry_types.js';

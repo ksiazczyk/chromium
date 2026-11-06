@@ -7,6 +7,12 @@
  * SelectorEmitter helper class that allows selectors to be efficiently updated.
  */
 
+// ---docerion
+// type: source
+// title: Selector implementation for the store
+// summary: Implements Selector and SelectorNode as a DAG for efficient state selection, plus a Lit ReactiveController for automatic re-rendering.
+// ---
+
 import type {ReactiveController, ReactiveControllerHost} from 'chrome://resources/mwc/lit/index.js';
 
 import {isDebugStoreEnabled} from './base_store.js';

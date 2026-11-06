@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Drive slice of the Files App store
+// summary: Defines the Drive store slice and a reducer that updates the Drive connection type and offline reason in the Files App state.
+// ---
+
 import {Slice} from '../../lib/base_store.js';
 import type {State} from '../../state/state.js';
 

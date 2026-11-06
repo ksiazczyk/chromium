@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: List selection model unit tests
+// summary: Unit tests verifying how ListSelectionModel keeps lead, anchor and selected indexes consistent when items are inserted or removed.
+// ---
+
 // clang-format off
 import {ListSelectionModel, type SelectionChangeEvent} from './list_selection_model.js';
 
