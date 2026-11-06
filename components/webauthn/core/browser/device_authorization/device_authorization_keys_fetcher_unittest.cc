@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Device authorization keys fetcher unit tests
+// summary: Unit tests covering successful key fetches, error handling and UMA metrics for the device authorization keys fetcher.
+// ---
+
 #include "components/webauthn/core/browser/device_authorization/device_authorization_keys_fetcher.h"
 
 #include <memory>

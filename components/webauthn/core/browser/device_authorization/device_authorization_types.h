@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device authorization shared types
+// summary: Defines protobuf type aliases, the DeviceAuthFetchResult variant with success, ReAuth, and error statuses, and callback types for key operations.
+// ---
+
 #ifndef COMPONENTS_WEBAUTHN_CORE_BROWSER_DEVICE_AUTHORIZATION_DEVICE_AUTHORIZATION_TYPES_H_
 #define COMPONENTS_WEBAUTHN_CORE_BROWSER_DEVICE_AUTHORIZATION_DEVICE_AUTHORIZATION_TYPES_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAuthn browser JNI bridge header
+// summary: Declares the WebauthnBrowserBridge class that receives WebAuthn and Credential Manager events from Java and forwards them to the browser-side WebAuthn client.
+// ---
+
 #ifndef COMPONENTS_WEBAUTHN_ANDROID_WEBAUTHN_BROWSER_BRIDGE_H_
 #define COMPONENTS_WEBAUTHN_ANDROID_WEBAUTHN_BROWSER_BRIDGE_H_
 

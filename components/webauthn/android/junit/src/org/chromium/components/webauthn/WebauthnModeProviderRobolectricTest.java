@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebauthnModeProvider Robolectric tests
+// summary: Robolectric tests verifying WebauthnModeProvider returns the correct Credential Manager decorator and FIDO2 API call parameters for each WebAuthn mode.
+// ---
+
 package org.chromium.components.webauthn;
 
 import static com.google.common.truth.Truth.assertThat;

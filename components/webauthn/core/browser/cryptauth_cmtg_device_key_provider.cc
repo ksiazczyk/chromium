@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CryptAuth CMTG device key provider implementation
+// summary: Fetches or creates CMTG wrapper keys from the CryptAuth service over the network using OAuth tokens and reports result metrics.
+// ---
+
 #include "components/webauthn/core/browser/cryptauth_cmtg_device_key_provider.h"
 
 #include <cstdint>

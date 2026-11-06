@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAuthn mode provider
+// summary: Resolves the WebAuthn mode for a WebContents and supplies matching credential manager decorators and FIDO2 API call parameters.
+// ---
+
 package org.chromium.components.webauthn;
 
 import org.jni_zero.JNINamespace;

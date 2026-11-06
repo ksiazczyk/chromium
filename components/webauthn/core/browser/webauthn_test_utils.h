@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebAuthn test utility declarations
+// summary: Declares the origin and relying party ID test case structure and accessors for shared authenticator test cases.
+// ---
+
 #ifndef COMPONENTS_WEBAUTHN_CORE_BROWSER_WEBAUTHN_TEST_UTILS_H_
 #define COMPONENTS_WEBAUTHN_CORE_BROWSER_WEBAUTHN_TEST_UTILS_H_
 

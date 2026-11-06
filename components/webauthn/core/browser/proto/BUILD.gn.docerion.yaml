@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the webauthn proto library
+summary: Defines the proto_library GN target that compiles cmtg_key_service.proto with a protobuf timestamp dependency.

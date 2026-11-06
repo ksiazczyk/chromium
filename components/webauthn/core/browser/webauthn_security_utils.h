@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAuthn security utility declarations
+// summary: Declares origin validation, relying party ID claiming, and remote validation URL helpers for WebAuthn.
+// ---
+
 #ifndef COMPONENTS_WEBAUTHN_CORE_BROWSER_WEBAUTHN_SECURITY_UTILS_H_
 #define COMPONENTS_WEBAUTHN_CORE_BROWSER_WEBAUTHN_SECURITY_UTILS_H_
 

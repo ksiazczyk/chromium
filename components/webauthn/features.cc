@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAuthn feature flag definitions
+// summary: Defines WebAuthn base::Feature flags and field trial parameters, including Android Credential Manager dev mode, smart-card transport filtering and passkey cleanup flags.
+// ---
+
 #include "components/webauthn/features.h"
 
 #include "base/feature_list.h"

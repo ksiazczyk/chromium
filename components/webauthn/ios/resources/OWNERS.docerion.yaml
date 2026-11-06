@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for WebAuthn iOS resources
+summary: Delegates ownership of trivial or mechanical JS/CSS/HTML changes in this directory to the WebUI PLATFORM_OWNERS file.

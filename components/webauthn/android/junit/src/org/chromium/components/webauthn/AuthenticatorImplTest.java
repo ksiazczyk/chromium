@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AuthenticatorImpl unit tests
+// summary: Robolectric tests covering AuthenticatorImpl WebAuthn request handling, including credential manager paths, capabilities, and UKM metrics.
+// ---
+
 package org.chromium.components.webauthn;
 
 import static org.junit.Assert.assertEquals;

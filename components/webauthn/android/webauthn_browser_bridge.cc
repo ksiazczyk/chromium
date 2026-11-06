@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAuthn browser JNI bridge implementation
+// summary: Implements the JNI bridge that converts Java credential details into metadata and forwards credential selections, password fills, and Credential Manager events to the browser-side client.
+// ---
+
 #include "components/webauthn/android/webauthn_browser_bridge.h"
 
 #include <jni.h>

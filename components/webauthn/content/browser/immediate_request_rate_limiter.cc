@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Immediate request rate limiter implementation
+// summary: Implements per-relying-party sliding window rate limiting that decides whether WebAuthn immediate requests from a frame are allowed, exempting localhost origins.
+// ---
+
 #include "components/webauthn/content/browser/immediate_request_rate_limiter.h"
 
 #include <memory>

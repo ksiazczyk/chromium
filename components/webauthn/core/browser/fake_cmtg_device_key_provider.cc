@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake CMTG device key provider implementation
+// summary: Implements a fake CryptAuth CMTG wrapper key service that models devices and trust groups, delivering keys, errors or held callbacks for browser and unit tests.
+// ---
+
 #include "components/webauthn/core/browser/fake_cmtg_device_key_provider.h"
 
 #include <string>

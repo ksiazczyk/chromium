@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Passkey change quota tracker declaration
+// summary: Declares a singleton that limits client-side passkey changes per eTLD+1 with a token quota, exempting localhost and the virtual authenticator.
+// ---
+
 #ifndef COMPONENTS_WEBAUTHN_CORE_BROWSER_PASSKEY_CHANGE_QUOTA_TRACKER_H_
 #define COMPONENTS_WEBAUTHN_CORE_BROWSER_PASSKEY_CHANGE_QUOTA_TRACKER_H_
 

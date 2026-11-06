@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CredManHelper Robolectric tests
+// summary: Extensive Robolectric tests for CredManHelper covering create, get, and prepare credential manager flows, responses, and metrics using shadowed Android Credential Manager classes.
+// ---
+
 package org.chromium.components.webauthn.cred_man;
 
 import static com.google.common.truth.Truth.assertThat;

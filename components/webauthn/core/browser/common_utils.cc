@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAuthn common utilities implementation
+// summary: Implements base64url encoding of WebAuthn challenges with padding omitted.
+// ---
+
 #include "components/webauthn/core/browser/common_utils.h"
 
 #include <string>

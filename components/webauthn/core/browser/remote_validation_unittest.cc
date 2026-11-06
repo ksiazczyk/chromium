@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Remote validation unit tests
+// summary: Unit tests for remote validation covering CSP-allowed and disallowed cases and related validation behavior using a test URL loader factory.
+// ---
+
 #include "components/webauthn/core/browser/remote_validation.h"
 
 #include "base/functional/callback_helpers.h"

@@ -1,3 +1,9 @@
+---
+type: readme
+title: Android WebAuthn component overview
+summary: Explains how the component bridges Blink's WebAuthn Mojo interface to Android backends, covering request routing, underlying backends, and support matrices.
+---
+
 # components/webauthn/android
 
 This directory contains the Java orchestration and JNI translation layer

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CollectedClientData JSON builder declarations
+// summary: Declares the client data request type enum, parameter struct, and functions for building WebAuthn client data JSON.
+// ---
+
 #ifndef COMPONENTS_WEBAUTHN_CORE_BROWSER_CLIENT_DATA_JSON_H_
 #define COMPONENTS_WEBAUTHN_CORE_BROWSER_CLIENT_DATA_JSON_H_
 

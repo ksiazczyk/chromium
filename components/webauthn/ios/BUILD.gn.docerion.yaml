@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for iOS WebAuthn passkey components
+summary: Defines source sets, test support, TypeScript passkey controller target, and dependencies for the iOS passkey code.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stub WebAuthn client interface for Android
+// summary: Declares StubWebAuthnClientAndroid, a no-op WebAuthnClientAndroid subclass with a ClearClient helper for resetting the client in tests.
+// ---
+
 #ifndef COMPONENTS_WEBAUTHN_ANDROID_STUB_WEBAUTHN_CLIENT_ANDROID_H_
 #define COMPONENTS_WEBAUTHN_ANDROID_STUB_WEBAUTHN_CLIENT_ANDROID_H_
 

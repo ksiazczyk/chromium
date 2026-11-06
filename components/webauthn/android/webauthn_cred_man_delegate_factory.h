@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Credential Manager delegate factory header
+// summary: Declares WebAuthnCredManDelegateFactory, a WebContentsUserData that maps render frames to WebAuthnCredManDelegate instances and cleans them up on navigation.
+// ---
+
 #ifndef COMPONENTS_WEBAUTHN_ANDROID_WEBAUTHN_CRED_MAN_DELEGATE_FACTORY_H_
 #define COMPONENTS_WEBAUTHN_ANDROID_WEBAUTHN_CRED_MAN_DELEGATE_FACTORY_H_
 

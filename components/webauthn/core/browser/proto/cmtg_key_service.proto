@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CMTG key service protobuf definitions
+// summary: Defines protobuf messages for server-managed CMTG wrapper keys and the request and response types for getting or creating them.
+// ---
+
 edition = "2024";
 
 package webauthn_pb;

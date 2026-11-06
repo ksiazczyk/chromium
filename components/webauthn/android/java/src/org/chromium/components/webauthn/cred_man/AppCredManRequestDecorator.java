@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App-mode CredMan request decorator with no-op updates
+// summary: Implements CredManRequestDecorator with empty update methods for app-mode WebAuthn requests that need no extra decoration.
+// ---
+
 package org.chromium.components.webauthn.cred_man;
 
 import android.credentials.CreateCredentialRequest.Builder;

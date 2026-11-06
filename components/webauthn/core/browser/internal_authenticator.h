@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Internal authenticator interface for browser components
+// summary: Defines an InternalAuthenticator interface that lets internal Chrome components create or use public key credentials with a caller-set effective origin.
+// ---
+
 #ifndef COMPONENTS_WEBAUTHN_CORE_BROWSER_INTERNAL_AUTHENTICATOR_H_
 #define COMPONENTS_WEBAUTHN_CORE_BROWSER_INTERNAL_AUTHENTICATOR_H_
 

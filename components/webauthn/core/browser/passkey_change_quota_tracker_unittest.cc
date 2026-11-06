@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the passkey change quota tracker
+// summary: Verifies that quota is tracked per relying party including subdomains and that localhost changes are exempt from the quota.
+// ---
+
 #include "components/webauthn/core/browser/passkey_change_quota_tracker.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

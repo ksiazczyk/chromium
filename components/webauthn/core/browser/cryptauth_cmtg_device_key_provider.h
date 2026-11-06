@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CryptAuth CMTG device key provider declarations
+// summary: Declares the CryptAuth-backed CMTG device key provider class and its service URL and endpoint path constants.
+// ---
+
 #ifndef COMPONENTS_WEBAUTHN_CORE_BROWSER_CRYPTAUTH_CMTG_DEVICE_KEY_PROVIDER_H_
 #define COMPONENTS_WEBAUTHN_CORE_BROWSER_CRYPTAUTH_CMTG_DEVICE_KEY_PROVIDER_H_
 

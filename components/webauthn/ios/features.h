@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS passkey feature flags
+// summary: Declares feature flags for the iOS passkey shim, modal and conditional login, and a WebKit UVPAA workaround.
+// ---
+
 #ifndef COMPONENTS_WEBAUTHN_IOS_FEATURES_H_
 #define COMPONENTS_WEBAUTHN_IOS_FEATURES_H_
 

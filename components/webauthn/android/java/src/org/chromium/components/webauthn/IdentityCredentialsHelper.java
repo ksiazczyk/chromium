@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IdentityCredentialsHelper
+// summary: Handles WebAuthn requests dispatched to the GMS Core identity_credentials module, including conditional create requests.
+// ---
+
 package org.chromium.components.webauthn;
 
 import static org.chromium.build.NullUtil.assertNonNull;

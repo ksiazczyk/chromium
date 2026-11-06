@@ -1,0 +1,4 @@
+# Docerion header of features.mm.
+type: source
+title: iOS passkey feature flag definitions
+summary: Defines the iOS passkey feature flags and a helper reporting whether conditional passkey login is enabled.

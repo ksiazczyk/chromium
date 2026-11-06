@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test passkey model implementation
+// summary: Implements an in-memory fake PasskeyModel that stores, queries, updates and deletes passkeys for use in tests.
+// ---
+
 #include "components/webauthn/core/browser/test_passkey_model.h"
 
 #include <algorithm>

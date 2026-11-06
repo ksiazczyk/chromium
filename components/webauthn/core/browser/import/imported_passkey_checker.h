@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImportedPasskeyStatus enum and passkey check declaration
+// summary: Declares the ImportedPasskeyStatus enum of validity check outcomes and the CheckImportedPasskey function for passkeys about to be imported.
+// ---
+
 #ifndef COMPONENTS_WEBAUTHN_CORE_BROWSER_IMPORT_IMPORTED_PASSKEY_CHECKER_H_
 #define COMPONENTS_WEBAUTHN_CORE_BROWSER_IMPORT_IMPORTED_PASSKEY_CHECKER_H_
 

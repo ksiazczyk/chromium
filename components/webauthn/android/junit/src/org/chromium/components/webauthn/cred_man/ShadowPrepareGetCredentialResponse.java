@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ShadowPrepareGetCredentialResponse
+// summary: Robolectric shadow of the Android PrepareGetCredentialResponse that always reports available credential and authentication results for WebAuthn tests.
+// ---
+
 package org.chromium.components.webauthn.cred_man;
 
 import android.credentials.PrepareGetCredentialResponse;

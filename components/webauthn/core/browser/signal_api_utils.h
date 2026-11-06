@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAuthn signal API utilities declarations
+// summary: Declares result enums and functions for applying WebAuthn signal API requests to the passkey model, with quota enforcement via PasskeyChangeQuotaTracker.
+// ---
+
 #ifndef COMPONENTS_WEBAUTHN_CORE_BROWSER_SIGNAL_API_UTILS_H_
 #define COMPONENTS_WEBAUTHN_CORE_BROWSER_SIGNAL_API_UTILS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImportProcessingResult and ImportedPasskeyInfo declarations
+// summary: Declares structs describing imported passkey attributes and import processing results, including conflicts, errors and valid passkey counts.
+// ---
+
 #ifndef COMPONENTS_WEBAUTHN_CORE_BROWSER_IMPORT_IMPORT_PROCESSING_RESULT_H_
 #define COMPONENTS_WEBAUTHN_CORE_BROWSER_IMPORT_IMPORT_PROCESSING_RESULT_H_
 

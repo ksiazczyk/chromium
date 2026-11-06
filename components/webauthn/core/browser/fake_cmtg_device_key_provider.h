@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake CMTG device key provider class declaration
+// summary: Declares a configurable fake of CmtgDeviceKeyProvider for tests, usable directly or as a stand-in responder for network requests, with injectable keys, errors and held callbacks.
+// ---
+
 #ifndef COMPONENTS_WEBAUTHN_CORE_BROWSER_FAKE_CMTG_DEVICE_KEY_PROVIDER_H_
 #define COMPONENTS_WEBAUTHN_CORE_BROWSER_FAKE_CMTG_DEVICE_KEY_PROVIDER_H_
 

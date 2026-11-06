@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAuthn RP ID remote validation implementation
+// summary: Implements remote validation of WebAuthn relying party IDs by fetching and checking the /.well-known/webauthn file, including CSP checks and metrics.
+// ---
+
 #include "components/webauthn/core/browser/remote_validation.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Immediate request rate limiter class declaration
+// summary: Declares the ImmediateRequestRateLimiter KeyedService with configurable long and short window limits scoped by the top frame origin.
+// ---
+
 #ifndef COMPONENTS_WEBAUTHN_CONTENT_BROWSER_IMMEDIATE_REQUEST_RATE_LIMITER_H_
 #define COMPONENTS_WEBAUTHN_CONTENT_BROWSER_IMMEDIATE_REQUEST_RATE_LIMITER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAuthn mode enum definition
+// summary: Header defining the WebauthnMode enum covering disabled, app, browser, Chrome, and third-party password manager modes for Java generation.
+// ---
+
 #ifndef COMPONENTS_WEBAUTHN_ANDROID_WEBAUTHN_MODE_H_
 #define COMPONENTS_WEBAUTHN_ANDROID_WEBAUTHN_MODE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAuthn origin and relying party ID validation
+// summary: Implements checks for whether a caller origin may make WebAuthn requests and claim a given relying party ID.
+// ---
+
 #include "components/webauthn/core/browser/webauthn_security_utils.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stub WebAuthn client implementation for Android
+// summary: Implements a no-op StubWebAuthnClientAndroid whose request handlers do nothing, providing a stub WebAuthnClientAndroid that can be cleared and reset for testing.
+// ---
+
 #include "components/webauthn/android/stub_webauthn_client_android.h"
 
 #include "base/functional/callback.h"

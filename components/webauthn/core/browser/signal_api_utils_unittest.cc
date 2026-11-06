@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebAuthn signal API utilities unit tests
+// summary: Unit tests for the signal API utilities verifying hiding, restoring and updating passkeys through a test passkey model with a reset quota tracker.
+// ---
+
 #include "components/webauthn/core/browser/signal_api_utils.h"
 
 #include <string>

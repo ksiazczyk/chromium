@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GpmBrowserOptionsHelper
+// summary: Adds Google Password Manager-specific options such as channel and incognito status to credential request browser options.
+// ---
+
 package org.chromium.components.webauthn;
 
 import android.os.Bundle;

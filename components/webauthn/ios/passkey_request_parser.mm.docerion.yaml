@@ -1,0 +1,4 @@
+# Docerion header of passkey_request_parser.mm.
+type: source
+title: Passkey request parser implementation
+summary: Implements parsing of passkey script messages, converting dictionaries into validated request info, assertion, registration, and signal parameters with typed parsing errors.

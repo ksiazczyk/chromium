@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the PasskeyImporter
+// summary: Unit tests covering the PasskeyImporter flow, including valid and invalid passkeys, conflicts, import completion and histogram metrics.
+// ---
+
 #include "components/webauthn/core/browser/import/passkey_importer.h"
 
 #include <memory>

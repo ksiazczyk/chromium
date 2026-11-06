@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Factory creating the Android Authenticator implementation
+// summary: Creates AuthenticatorImpl instances for incoming Mojo Authenticator requests after checking the frame, web contents, and WebAuthn mode.
+// ---
+
 package org.chromium.components.webauthn;
 
 import android.content.Context;

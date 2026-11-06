@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Builder helper for Android get-credential requests
+// summary: Holds the arguments and builds an Android GetCredentialRequest for passkey and password retrieval, with options for auto-select, origin and GPM handling.
+// ---
+
 package org.chromium.components.webauthn.cred_man;
 
 import static org.chromium.components.webauthn.cred_man.CredManHelper.CRED_MAN_PREFIX;

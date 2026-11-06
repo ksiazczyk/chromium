@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fido2Api JNI attestation parsing
+// summary: Implements the JNI function that parses a CTAP2 attestation object into the parts exposed to JavaScript for the Java Fido2Api.
+// ---
+
 #include <jni.h>
 
 #include <cstdint>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceAuthorizationKeysFetcher class
+// summary: Declares the fetcher that requests device authorization keys for password manager passkeys, with error outcomes and cancellation support.
+// ---
+
 #ifndef COMPONENTS_WEBAUTHN_CORE_BROWSER_DEVICE_AUTHORIZATION_DEVICE_AUTHORIZATION_KEYS_FETCHER_H_
 #define COMPONENTS_WEBAUTHN_CORE_BROWSER_DEVICE_AUTHORIZATION_DEVICE_AUTHORIZATION_KEYS_FETCHER_H_
 

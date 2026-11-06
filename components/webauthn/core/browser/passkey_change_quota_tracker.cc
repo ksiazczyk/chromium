@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Passkey change quota tracker implementation
+// summary: Implements per-relying-party quota tracking for passkey changes, allocating commit quotas keyed by eTLD+1 and exempting localhost.
+// ---
+
 #include "components/webauthn/core/browser/passkey_change_quota_tracker.h"
 
 #include <tuple>

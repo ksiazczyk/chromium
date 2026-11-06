@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the webauthn component
+summary: Lists the allowed include paths for the webauthn component, covering CBOR, device event log, signin, sync, crypto, FIDO, network services and Blink mojom.

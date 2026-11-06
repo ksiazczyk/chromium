@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sliding-window rate limiter unit tests
+// summary: Unit tests covering the sliding-window rate limiter's behavior for singular, steady, randomized and sparse event streams using mocked time.
+// ---
+
 #include "components/webauthn/core/browser/rate_limiter_slide_window.h"
 
 #include <cstddef>

@@ -5,6 +5,12 @@
 // Keep in sync with server-side definitions, last updated at cl/953212908.
 // Messages not used in Chrome have been omitted.
 
+// ---docerion
+// type: source
+// title: Device authorization key protobuf definitions
+// summary: Defines protobuf request and response messages for fetching device authorization keys, kept in sync with server-side definitions.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

@@ -1,0 +1,4 @@
+# Docerion header of passkey_test_util.mm.
+type: test
+title: Passkey test utilities for iOS WebAuthn
+summary: Implements helper functions that build test passkey credentials and passkey, registration, and assertion request params for iOS WebAuthn tests.

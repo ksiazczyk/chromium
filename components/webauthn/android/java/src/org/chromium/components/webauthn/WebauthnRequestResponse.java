@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAuthn request response wrapper
+// summary: Builds response objects for WebAuthn operations covering make credential, get credential, assertion, and password outcomes.
+// ---
+
 package org.chromium.components.webauthn;
 
 import org.chromium.blink.mojom.AuthenticatorStatus;

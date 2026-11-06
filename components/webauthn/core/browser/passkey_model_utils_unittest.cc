@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Passkey model utils unit tests
+// summary: Unit tests for passkey model utilities covering encryption, decryption, device authorization keys, PRF evaluation, and passkey format validation.
+// ---
+
 #include "components/webauthn/core/browser/passkey_model_utils.h"
 
 #include <array>

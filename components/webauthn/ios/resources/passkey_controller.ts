@@ -7,6 +7,12 @@
  * the renderer by shimming the `navigator.credentials` API.
  */
 
+// ---docerion
+// type: source
+// title: Passkey controller shimming navigator.credentials on iOS
+// summary: TypeScript source that shims the navigator.credentials API to route passkey registration and assertion requests between the iOS browser and the renderer, including Google Password Manager AAGUID handling.
+// ---
+
 import {getOrCreateRemoteFrameToken} from '//components/autofill/ios/form_util/resources/fill_util.js';
 import {CrWebApi, gCrWeb} from '//ios/web/public/js_messaging/resources/gcrweb.js';
 import {generateRandomId, sendWebKitMessage} from '//ios/web/public/js_messaging/resources/utils.js';

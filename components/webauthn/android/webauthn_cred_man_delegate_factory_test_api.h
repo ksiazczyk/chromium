@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebAuthn credential manager delegate factory test API
+// summary: Header providing a test API that lets tests insert delegates directly into the WebAuthnCredManDelegateFactory's per-frame delegate map.
+// ---
+
 #ifndef COMPONENTS_WEBAUTHN_ANDROID_WEBAUTHN_CRED_MAN_DELEGATE_FACTORY_TEST_API_H_
 #define COMPONENTS_WEBAUTHN_ANDROID_WEBAUTHN_CRED_MAN_DELEGATE_FACTORY_TEST_API_H_
 

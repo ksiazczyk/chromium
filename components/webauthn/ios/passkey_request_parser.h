@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Passkey request parser header
+// summary: Declares functions that parse passkey JavaScript shim events and build request info, assertion, registration, and signal request parameter objects for iOS WebAuthn.
+// ---
+
 #ifndef COMPONENTS_WEBAUTHN_IOS_PASSKEY_REQUEST_PARSER_H_
 #define COMPONENTS_WEBAUTHN_IOS_PASSKEY_REQUEST_PARSER_H_
 

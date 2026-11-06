@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device authorization endpoint switch handling
+// summary: Resolves the device authorization key endpoint URL, honoring the device-authorization-key-server-url command line switch when it holds a valid URL.
+// ---
+
 #include "components/webauthn/core/browser/device_authorization/device_authorization_switches.h"
 
 #include "base/command_line.h"

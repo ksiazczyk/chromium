@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Credential Manager delegate implementation
+// summary: Implements WebAuthnCredManDelegate, caching conditional UI callbacks, recording passkey metrics, filling usernames and passwords, and resolving the Credential Manager support mode via JNI.
+// ---
+
 #include "components/webauthn/android/webauthn_cred_man_delegate.h"
 
 #include <optional>

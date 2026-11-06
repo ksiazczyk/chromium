@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PasskeySyncBridge sync bridge header
+// summary: Declares PasskeySyncBridge, the syncer data type bridge implementing PasskeyModel for storing, querying and modifying synced WebAuthn passkey credentials.
+// ---
+
 #ifndef COMPONENTS_WEBAUTHN_CORE_BROWSER_PASSKEY_SYNC_BRIDGE_H_
 #define COMPONENTS_WEBAUTHN_CORE_BROWSER_PASSKEY_SYNC_BRIDGE_H_
 

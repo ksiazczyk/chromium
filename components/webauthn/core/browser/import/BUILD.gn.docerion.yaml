@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for passkey import
+summary: Defines the import source set and unit test targets with their dependencies for the passkey import module.

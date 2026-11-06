@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CredManCreateCredentialRequestHelper Robolectric tests
+// summary: Robolectric tests verifying that CredManCreateCredentialRequestHelper builds Android Credential Manager create-credential requests with the correct type, request JSON, client data hash, and decorator updates.
+// ---
+
 package org.chromium.components.webauthn.cred_man;
 
 import static com.google.common.truth.Truth.assertThat;

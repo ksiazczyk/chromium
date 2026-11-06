@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for WebAuthn features
+summary: Defines the "features" source set that compiles features.cc and features.h with a dependency on //base.

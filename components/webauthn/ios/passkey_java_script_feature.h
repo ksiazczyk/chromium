@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Passkey JavaScript feature
+// summary: Declares the JavaScript feature that communicates with the passkey_controller shim of navigator.credentials to resolve, reject, or defer passkey requests.
+// ---
+
 #ifndef COMPONENTS_WEBAUTHN_IOS_PASSKEY_JAVA_SCRIPT_FEATURE_H_
 #define COMPONENTS_WEBAUTHN_IOS_PASSKEY_JAVA_SCRIPT_FEATURE_H_
 

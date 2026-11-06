@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shadow of Credential for Robolectric tests
+// summary: Robolectric shadow of android.credentials.Credential that stores and exposes the credential type and data bundle for tests.
+// ---
+
 package org.chromium.components.webauthn.cred_man;
 
 import android.credentials.Credential;

@@ -1,0 +1,4 @@
+# Docerion header of passkey_suggestion_utils_unittest.mm.
+type: test
+title: Passkey suggestion utilities unit tests
+summary: Unit tests verifying conversion of passkey credentials to form suggestions, display description formatting, and merging with password suggestions.

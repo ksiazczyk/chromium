@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAuthn client capability constants
+// summary: Defines string constants for the WebAuthn client capabilities that the browser reports, such as relatedOrigins and hybridTransport.
+// ---
+
 package org.chromium.components.webauthn;
 
 import org.chromium.build.annotations.NullMarked;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InternalAuthenticator
+// summary: Bridges the native InternalAuthenticator to AuthenticatorImpl for handling WebAuthn requests originating from native code.
+// ---
+
 package org.chromium.components.webauthn;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

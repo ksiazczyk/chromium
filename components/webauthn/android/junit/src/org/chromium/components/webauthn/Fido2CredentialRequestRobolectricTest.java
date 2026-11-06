@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fido2CredentialRequest Robolectric tests
+// summary: Robolectric tests for Fido2CredentialRequest covering make and get credential flows, Credential Manager integration, and result histograms.
+// ---
+
 package org.chromium.components.webauthn;
 
 import static com.google.common.truth.Truth.assertThat;

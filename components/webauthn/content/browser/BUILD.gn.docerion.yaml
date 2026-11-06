@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: WebAuthn content browser BUILD.gn build targets
+summary: Defines the static library and unit test source set for the WebAuthn content browser component, listing its sources and dependencies.

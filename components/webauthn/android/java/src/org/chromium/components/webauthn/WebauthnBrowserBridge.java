@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAuthn browser bridge
+// summary: Bridges Android Web Authentication request handlers to the embedding browser, including credential selection and hybrid sign-in callbacks.
+// ---
+
 package org.chromium.components.webauthn;
 
 import static org.chromium.components.webauthn.WebauthnLogger.log;

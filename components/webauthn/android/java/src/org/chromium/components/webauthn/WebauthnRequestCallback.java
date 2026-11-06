@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAuthn request callback wrapper
+// summary: Manages the callback set for a WebAuthn operation, enforcing that only one of GetCredential, MakeCredential, or Report is active.
+// ---
+
 package org.chromium.components.webauthn;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

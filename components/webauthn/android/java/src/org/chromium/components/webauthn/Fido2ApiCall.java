@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Binder calls to Play Services FIDO API
+// summary: Makes direct Binder calls to Play Services' FIDO API for WebAuthn register and get operations, supporting both browser and app variants.
+// ---
+
 package org.chromium.components.webauthn;
 
 import static org.chromium.build.NullUtil.assertNonNull;

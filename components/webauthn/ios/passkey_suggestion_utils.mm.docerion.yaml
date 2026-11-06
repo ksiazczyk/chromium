@@ -1,0 +1,4 @@
+# Docerion header of passkey_suggestion_utils.mm.
+type: source
+title: Passkey suggestion utilities implementation
+summary: Implements creation of passkey form suggestions with encoded credential IDs, merging with password suggestions, and formatting of labels and manual fill subtitles.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shadow of CredentialManager for Robolectric tests
+// summary: Robolectric shadow of android.credentials.CredentialManager that captures create, get, and prepare requests and callbacks so tests can inspect and trigger them.
+// ---
+
 package org.chromium.components.webauthn.cred_man;
 
 import android.content.Context;

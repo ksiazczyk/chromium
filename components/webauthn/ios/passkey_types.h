@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared passkey type definitions for iOS WebAuthn
+// summary: Header defining enums, error constants, block types, and callbacks shared by iOS passkey request handling, including welcome screen and user verification purposes.
+// ---
+
 #ifndef COMPONENTS_WEBAUTHN_IOS_PASSKEY_TYPES_H_
 #define COMPONENTS_WEBAUTHN_IOS_PASSKEY_TYPES_H_
 

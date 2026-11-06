@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Builder helper for Android create-credential requests
+// summary: Holds the arguments and builds an Android CreateCredentialRequest for passkey creation, including request JSON, client data hash, user ID and origin.
+// ---
+
 package org.chromium.components.webauthn.cred_man;
 
 import static org.chromium.components.webauthn.cred_man.CredManHelper.CRED_MAN_PREFIX;

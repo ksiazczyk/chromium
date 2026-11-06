@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fido2Api credential list parsing tests
+// summary: Robolectric tests that parse FIDO2 API credential lists from Parcel data and check discoverable credential details for cache and non-cache paths.
+// ---
+
 package org.chromium.components.webauthn;
 
 import static com.google.common.truth.Truth.assertThat;
