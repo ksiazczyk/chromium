@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for extensions/common
+summary: Assigns review ownership of IPC message, Mojo, typemap, and traits files in extensions/common to the IPC security owners.

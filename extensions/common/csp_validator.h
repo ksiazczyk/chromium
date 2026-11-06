@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content Security Policy validator interface
+// summary: Declares CSP legality checks, sanitization options, sandboxed page CSP generation, and a CSP parser used by the extension manifest system.
+// ---
+
 #ifndef EXTENSIONS_COMMON_CSP_VALIDATOR_H_
 #define EXTENSIONS_COMMON_CSP_VALIDATOR_H_
 

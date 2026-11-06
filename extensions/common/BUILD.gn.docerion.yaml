@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for extensions/common
+summary: Defines GN build targets, sources, and dependencies for the extensions/common module, including constants, export, feature, and Mojo binding targets.

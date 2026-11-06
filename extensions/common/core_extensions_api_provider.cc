@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Core extensions API provider implementation
+// summary: Implements the core API provider that supplies feature files, generated API schemas, permissions, and manifest handlers for the extensions system.
+// ---
+
 #include "extensions/common/core_extensions_api_provider.h"
 
 #include <string_view>

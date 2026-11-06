@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CRX verifier format declarations
+// summary: Declares functions returning the CRX verifier format required for Webstore, policy, external and test extension installs.
+// ---
+
 #ifndef EXTENSIONS_COMMON_VERIFIER_FORMATS_H_
 #define EXTENSIONS_COMMON_VERIFIER_FORMATS_H_
 

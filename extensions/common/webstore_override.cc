@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Webstore override availability check
+// summary: Implements a delegated availability check that exposes webstorePrivate and management APIs on a webstore override URL supplied via command line switch.
+// ---
+
 #include "extensions/common/webstore_override.h"
 
 #include <algorithm>

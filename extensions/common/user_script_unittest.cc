@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for UserScript
+// summary: Unit tests verifying user script URL matching via globs and URL patterns across static, dynamic content and userScripts ID sources.
+// ---
+
 #include <stddef.h>
 
 #include "base/files/file_path.h"

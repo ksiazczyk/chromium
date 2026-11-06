@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionsClient class header
+// summary: Declares the ExtensionsClient interface that sets up global state for the extensions system once per process and defines virtual hooks for clients.
+// ---
+
 #ifndef EXTENSIONS_COMMON_EXTENSIONS_CLIENT_H_
 #define EXTENSIONS_COMMON_EXTENSIONS_CLIENT_H_
 

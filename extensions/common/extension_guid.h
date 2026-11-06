@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionGuid type alias
+// summary: Defines the ExtensionGuid type alias that uniquely identifies an extension via a generated GUID.
+// ---
+
 #ifndef EXTENSIONS_COMMON_EXTENSION_GUID_H_
 #define EXTENSIONS_COMMON_EXTENSION_GUID_H_
 

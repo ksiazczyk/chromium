@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EventMatcher class interface for event filtering criteria
+// summary: Declares EventMatcher, which matches EventFilteringInfo against filter criteria while leaving URL matching to EventFilter.
+// ---
+
 #ifndef EXTENSIONS_COMMON_EVENT_MATCHER_H_
 #define EXTENSIONS_COMMON_EVENT_MATCHER_H_
 

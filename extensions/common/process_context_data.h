@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Process context data interface
+// summary: Declares ProcessContextData, a ContextData interface adding cloning support for browser- and renderer-based context data.
+// ---
+
 #ifndef EXTENSIONS_COMMON_PROCESS_CONTEXT_DATA_H_
 #define EXTENSIONS_COMMON_PROCESS_CONTEXT_DATA_H_
 

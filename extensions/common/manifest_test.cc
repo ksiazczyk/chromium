@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Manifest test base implementation
+// summary: Implements the ManifestTest base class that loads manifest test data files and builds extension manifests for manifest parsing tests.
+// ---
+
 #include "extensions/common/manifest_test.h"
 
 #include <optional>

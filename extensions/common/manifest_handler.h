@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ManifestHandler interface for manifest keys
+// summary: Declares the ManifestHandler interface for parsing and validating specific extension manifest keys, including permission creation hooks and prerequisite keys.
+// ---
+
 #ifndef EXTENSIONS_COMMON_MANIFEST_HANDLER_H_
 #define EXTENSIONS_COMMON_MANIFEST_HANDLER_H_
 

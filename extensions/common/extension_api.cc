@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionAPI implementation for API feature availability
+// summary: Implements ExtensionAPI, which loads JSON API schemas and checks whether API namespaces or members are available to a given extension context.
+// ---
+
 #include "extensions/common/extension_api.h"
 
 #include <stddef.h>

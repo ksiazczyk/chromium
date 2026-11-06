@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EventFilter implementation for matching events against matchers
+// summary: Implements EventFilter, which registers event matchers, builds URLMatcher condition sets from their URL filters, and matches incoming events to matcher ids.
+// ---
+
 #include "extensions/common/event_filter.h"
 
 #include <string>

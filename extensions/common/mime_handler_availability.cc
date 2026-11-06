@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mime handler API availability check
+// summary: Implements the delegated availability check for the mimeHandler extension API based on the feature override state.
+// ---
+
 #include "extensions/common/mime_handler_availability.h"
 
 #include <optional>

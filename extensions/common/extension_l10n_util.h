@@ -4,6 +4,12 @@
 //
 // This file declares extension specific l10n utils.
 
+// ---docerion
+// type: source
+// title: Extension localization utilities declaration
+// summary: Declares extension localization helpers for message catalogs, manifest localization, locale lookup, and fallback handling.
+// ---
+
 #ifndef EXTENSIONS_COMMON_EXTENSION_L10N_UTIL_H_
 #define EXTENSIONS_COMMON_EXTENSION_L10N_UTIL_H_
 

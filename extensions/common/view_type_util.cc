@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: View type string conversion
+// summary: Converts view type name strings such as APP_WINDOW or TAB into the corresponding mojom::ViewType value.
+// ---
+
 #include "extensions/common/view_type_util.h"
 
 #include <string_view>

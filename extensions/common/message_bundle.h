@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Message bundle class declaration
+// summary: Declares MessageBundle, which holds localized extension messages for one locale and replaces message placeholders in text.
+// ---
+
 #ifndef EXTENSIONS_COMMON_MESSAGE_BUNDLE_H_
 #define EXTENSIONS_COMMON_MESSAGE_BUNDLE_H_
 

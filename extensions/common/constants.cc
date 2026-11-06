@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension constants implementation
+// summary: Implements shared extension constants, including the webstore signature public key and helpers that identify demo mode, system UI, and QuickOffice apps by extension ID.
+// ---
+
 #include "extensions/common/constants.h"
 
 #include <string_view>

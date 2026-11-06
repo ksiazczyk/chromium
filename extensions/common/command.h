@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the extension Command class
+// summary: Declares the extensions Command class for parsing and representing extension keyboard shortcut commands.
+// ---
+
 #ifndef EXTENSIONS_COMMON_COMMAND_H_
 #define EXTENSIONS_COMMON_COMMAND_H_
 

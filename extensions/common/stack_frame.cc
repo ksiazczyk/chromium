@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StackFrame implementation
+// summary: Implements the StackFrame class, parsing plain-text V8 stack frames into line, column, source and function fields.
+// ---
+
 #include "extensions/common/stack_frame.h"
 
 #include <memory>

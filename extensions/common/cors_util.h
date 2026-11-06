@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CORS utility header
+// summary: Declares functions that create CORS origin access allow and block lists for an extension for registration with the network context and security policy.
+// ---
+
 #ifndef EXTENSIONS_COMMON_CORS_UTIL_H_
 #define EXTENSIONS_COMMON_CORS_UTIL_H_
 

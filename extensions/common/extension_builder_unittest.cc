@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ExtensionBuilder unit tests
+// summary: Unit tests verifying ExtensionBuilder manifest construction, API and host permissions, optional permissions, and resulting extension properties.
+// ---
+
 #include "extensions/common/extension_builder.h"
 
 #include "base/values.h"

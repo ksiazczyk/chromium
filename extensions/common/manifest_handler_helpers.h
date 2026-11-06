@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Manifest handler helper function declarations
+// summary: Declares manifest handler helpers for dictionary path tokenization, icon loading from manifest dictionaries, and extension image MIME type checks.
+// ---
+
 #ifndef EXTENSIONS_COMMON_MANIFEST_HANDLER_HELPERS_H_
 #define EXTENSIONS_COMMON_MANIFEST_HANDLER_HELPERS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension command-line switch declarations
+// summary: Declares extension command-line switch names with comments explaining each switch's purpose and behavior.
+// ---
+
 #ifndef EXTENSIONS_COMMON_SWITCHES_H_
 #define EXTENSIONS_COMMON_SWITCHES_H_
 

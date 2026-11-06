@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension URL helpers implementation
+// summary: Implements Chrome Web Store URL constants, utm source values, and checks for generated favicon and background page URLs.
+// ---
+
 #include "extensions/common/extension_urls.h"
 
 #include <string_view>

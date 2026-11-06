@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FeatureSwitch implementation
+// summary: Implements command-line-controlled feature switches with default values, scoped overrides, and legacy enable and disable flags.
+// ---
+
 #include "extensions/common/feature_switch.h"
 
 #include "base/command_line.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for URLPatternSet
+// summary: Unit tests covering URLPatternSet URL matching, overlap checks, set difference and intersection behaviors, and stream output.
+// ---
+
 #include "extensions/common/url_pattern_set.h"
 
 #include <stddef.h>

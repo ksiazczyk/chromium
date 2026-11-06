@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionId type alias
+// summary: Defines the ExtensionId type alias for 32-character identifiers plus ExtensionIdList and ExtensionIdSet convenience types.
+// ---
+
 #ifndef EXTENSIONS_COMMON_EXTENSION_ID_H_
 #define EXTENSIONS_COMMON_EXTENSION_ID_H_
 

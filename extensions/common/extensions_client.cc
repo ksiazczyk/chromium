@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionsClient implementation
+// summary: Implements the ExtensionsClient singleton that initializes global extension system state, creates feature providers, and supplies API schemas and browser image paths.
+// ---
+
 #include "extensions/common/extensions_client.h"
 
 #include <string_view>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tests for component extension URL pattern access
+// summary: Verifies that component extensions cannot access chrome scheme URLs via the <all_urls> pattern unless allowlisted or explicitly permitted.
+// ---
+
 #include "content/public/test/test_utils.h"
 #include "extensions/common/constants.h"
 #include "extensions/common/extension.h"

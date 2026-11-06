@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionBuilder class declaration
+// summary: Declares ExtensionBuilder, a fluent helper supporting aided and custom manifest construction to build extensions for tests.
+// ---
+
 #ifndef EXTENSIONS_COMMON_EXTENSION_BUILDER_H_
 #define EXTENSIONS_COMMON_EXTENSION_BUILDER_H_
 

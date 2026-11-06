@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InstallWarning implementation
+// summary: Implements InstallWarning constructors, move operations, and gtest printing for non-fatal extension installation issues.
+// ---
+
 #include "extensions/common/install_warning.h"
 
 namespace extensions {

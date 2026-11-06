@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension logging constants header
+// summary: Defines the minimum log severity at which extension errors are reported to the browser, kept separate from constants.h to limit logging includes.
+// ---
+
 #ifndef EXTENSIONS_COMMON_LOGGING_CONSTANTS_H_
 #define EXTENSIONS_COMMON_LOGGING_CONSTANTS_H_
 

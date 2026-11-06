@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Registration of common extension manifest handlers
+// summary: Registers the manifest handlers shared by all embedders of the extensions system into the manifest handler registry.
+// ---
+
 #include "extensions/common/common_manifest_handlers.h"
 
 #include <memory>

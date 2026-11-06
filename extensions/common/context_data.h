@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContextData interface
+// summary: Defines the ContextData interface for checking whether a given context has Controlled Frame capability.
+// ---
+
 #ifndef EXTENSIONS_COMMON_CONTEXT_DATA_H_
 #define EXTENSIONS_COMMON_CONTEXT_DATA_H_
 

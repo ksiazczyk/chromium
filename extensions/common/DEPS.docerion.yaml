@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include dependency rules for extensions/common
+summary: Specifies allowed include dependencies for extensions/common sources, with special rules for fuzzer files.

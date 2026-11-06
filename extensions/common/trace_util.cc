@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension tracing utility implementation
+// summary: Implements WriteIntoTrace for ExtensionIdForTracing, writing raw and pseudonymized extension IDs into perfetto traces.
+// ---
+
 #include "extensions/common/trace_util.h"
 
 #include "content/public/common/pseudonymization_util.h"

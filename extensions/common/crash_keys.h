@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crash keys for active extensions
+// summary: Declares functions that record the set of active extensions and component extensions as crash report keys for the current process.
+// ---
+
 #ifndef EXTENSIONS_COMMON_CRASH_KEYS_H_
 #define EXTENSIONS_COMMON_CRASH_KEYS_H_
 

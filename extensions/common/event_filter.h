@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EventFilter class interface for event matcher management
+// summary: Declares the EventFilter class, which matches incoming events against a collection of EventMatchers and returns the ids of the matchers that matched.
+// ---
+
 #ifndef EXTENSIONS_COMMON_EVENT_FILTER_H_
 #define EXTENSIONS_COMMON_EVENT_FILTER_H_
 

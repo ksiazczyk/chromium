@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content script injection URL getter header
+// summary: Declares ContentScriptInjectionUrlGetter, a helper that finds the effective document URL for content script injection decisions.
+// ---
+
 #ifndef EXTENSIONS_COMMON_CONTENT_SCRIPT_INJECTION_URL_GETTER_H_
 #define EXTENSIONS_COMMON_CONTENT_SCRIPT_INJECTION_URL_GETTER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web file handler constants
+// summary: Defines the QuickOffice key constant used by web file handlers in the extensions system.
+// ---
+
 #ifndef EXTENSIONS_COMMON_WEB_FILE_HANDLER_CONSTANTS_H_
 #define EXTENSIONS_COMMON_WEB_FILE_HANDLER_CONSTANTS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content Security Policy validator implementation
+// summary: Implements parsing, legality checks, and sanitization of extension content security policies, including sandboxed page policies and remote source restrictions.
+// ---
+
 #include "extensions/common/csp_validator.h"
 
 #include <stddef.h>

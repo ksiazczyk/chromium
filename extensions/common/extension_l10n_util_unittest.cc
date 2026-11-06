@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension l10n util unit tests
+// summary: Unit tests for extension localization utilities, covering locale validation with malformed messages files, erroneous localizations, and gzip-related permissions.
+// ---
+
 #include "extensions/common/extension_l10n_util.h"
 
 #include <memory>

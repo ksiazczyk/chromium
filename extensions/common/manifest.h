@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Manifest class for extension manifest data
+// summary: Defines the extensions::Manifest class wrapping an extension's manifest dictionary, with manifest types and helpers for install locations, file access, and validation.
+// ---
+
 #ifndef EXTENSIONS_COMMON_MANIFEST_H_
 #define EXTENSIONS_COMMON_MANIFEST_H_
 

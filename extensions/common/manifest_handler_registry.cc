@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ManifestHandlerRegistry implementation
+// summary: Implements the global registry that owns manifest handlers, orders them by prerequisites, and drives parsing, validation, and permission collection.
+// ---
+
 #include "extensions/common/manifest_handler_registry.h"
 
 #include <stddef.h>

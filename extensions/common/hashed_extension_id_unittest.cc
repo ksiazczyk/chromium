@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HashedExtensionId unit tests
+// summary: Unit tests verifying HashedExtensionId returns the expected SHA-1 and SHA-256 hashes depending on the SHA-256 feature flag.
+// ---
+
 #include "extensions/common/hashed_extension_id.h"
 
 #include "base/test/scoped_feature_list.h"

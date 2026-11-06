@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the extension Command class
+// summary: Implements parsing of extension keyboard shortcuts, including platform-specific normalization of modifier keys on Mac and accelerator error message generation.
+// ---
+
 #include "extensions/common/command.h"
 
 #include <stddef.h>

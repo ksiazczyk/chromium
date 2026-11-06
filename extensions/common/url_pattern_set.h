@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URLPatternSet class declaration
+// summary: Declares the URLPatternSet class representing the set of URLs an extension uses for web content, with set operations and pattern management.
+// ---
+
 #ifndef EXTENSIONS_COMMON_URL_PATTERN_SET_H_
 #define EXTENSIONS_COMMON_URL_PATTERN_SET_H_
 

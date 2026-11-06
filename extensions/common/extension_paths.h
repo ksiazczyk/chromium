@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension path keys declaration
+// summary: Declares path keys for extensions used with the PathService and the RegisterPathProvider function to register their provider.
+// ---
+
 #ifndef EXTENSIONS_COMMON_EXTENSION_PATHS_H_
 #define EXTENSIONS_COMMON_EXTENSION_PATHS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension command-line switch definitions
+// summary: 'Defines string constants for extension-related command-line switches plus helpers that check whether extensions may run on chrome: and extension URLs.'
+// ---
+
 #include "extensions/common/switches.h"
 
 #include "base/command_line.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UserScript class declaration
+// summary: Declares the UserScript class representing standalone or extension user scripts, with ID prefixes, script sources and content handling.
+// ---
+
 #ifndef EXTENSIONS_COMMON_USER_SCRIPT_H_
 #define EXTENSIONS_COMMON_USER_SCRIPT_H_
 

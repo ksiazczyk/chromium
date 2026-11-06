@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Manifest handler unit tests
+// summary: Unit tests for the manifest handler registry, checking parse ordering, prerequisites, validation, and failure handling of manifest handlers.
+// ---
+
 #include "extensions/common/manifest_handler.h"
 
 #include <stddef.h>

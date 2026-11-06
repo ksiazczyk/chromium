@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ValueCounter implementation
+// summary: Implements ValueCounter's Add and Remove operations that maintain a running count of equal base::Value entries.
+// ---
+
 #include "extensions/common/value_counter.h"
 
 #include <algorithm>

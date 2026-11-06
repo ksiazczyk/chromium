@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content script injection URL getter implementation
+// summary: Implements the logic for choosing the effective URL used to match content script injection, handling opaque origins and match-origin-as-fallback behaviors.
+// ---
+
 #include "extensions/common/content_script_injection_url_getter.h"
 
 #include <algorithm>

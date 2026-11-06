@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Manifest key name constants
+// summary: Declares the string constants for keys used in extension manifest JSON, including keys that are silently ignored when unrecognized.
+// ---
+
 #ifndef EXTENSIONS_COMMON_MANIFEST_CONSTANTS_H_
 #define EXTENSIONS_COMMON_MANIFEST_CONSTANTS_H_
 

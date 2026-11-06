@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Manifest class implementation
+// summary: Implements the Manifest class, including extension location priority ranking, manifest version detection, and filtering of available manifest values by feature access.
+// ---
+
 #include "extensions/common/manifest.h"
 
 #include <algorithm>

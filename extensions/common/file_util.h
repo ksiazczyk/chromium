@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension file utilities header
+// summary: Declares utilities for manipulating on-disk extension storage, including installation, deletion, and manifest loading functions.
+// ---
+
 #ifndef EXTENSIONS_COMMON_FILE_UTIL_H_
 #define EXTENSIONS_COMMON_FILE_UTIL_H_
 

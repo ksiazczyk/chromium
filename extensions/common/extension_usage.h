@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension usage action enum
+// summary: Defines the ExtensionUsageAction enum used in UKM by the Chrome Web Store team to monitor extension usage actions like pinning and toggling.
+// ---
+
 #ifndef EXTENSIONS_COMMON_EXTENSION_USAGE_H_
 #define EXTENSIONS_COMMON_EXTENSION_USAGE_H_
 

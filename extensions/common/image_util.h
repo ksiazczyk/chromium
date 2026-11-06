@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension image utility header
+// summary: Declares image and color utility functions for extension icons, including visibility analysis, rendering for analysis, and PNG loading.
+// ---
+
 #ifndef EXTENSIONS_COMMON_IMAGE_UTIL_H_
 #define EXTENSIONS_COMMON_IMAGE_UTIL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Alias struct for extension feature names
+// summary: Defines a struct that maps an old extension feature name, such as a permission or API, to its new name to preserve backward compatibility after renames.
+// ---
+
 #ifndef EXTENSIONS_COMMON_ALIAS_H_
 #define EXTENSIONS_COMMON_ALIAS_H_
 

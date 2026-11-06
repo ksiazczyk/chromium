@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EventMatcher implementation for non-URL event criteria
+// summary: Implements EventMatcher, evaluating non-URL criteria such as instance id, window type, and service type filters, and exposing URL filter accessors.
+// ---
+
 #include "extensions/common/event_matcher.h"
 
 #include <utility>

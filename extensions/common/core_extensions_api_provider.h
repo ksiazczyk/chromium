@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Core extensions API provider header
+// summary: Declares CoreExtensionsAPIProvider, which registers core extension API features, permissions, schemas, and manifest handlers.
+// ---
+
 #ifndef EXTENSIONS_COMMON_CORE_EXTENSIONS_API_PROVIDER_H_
 #define EXTENSIONS_COMMON_CORE_EXTENSIONS_API_PROVIDER_H_
 

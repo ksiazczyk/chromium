@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User scripts availability check implementation
+// summary: Implements a delegated availability check that gates the userScripts API feature on the extension's current user script allowed state.
+// ---
+
 #include "extensions/common/user_scripts_availability.h"
 
 #include <array>

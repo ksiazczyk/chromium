@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionResource implementation
+// summary: Implements resolution of extension resource file paths with symlink policies and platform-specific validation for macOS and Windows path quirks.
+// ---
+
 #include "extensions/common/extension_resource.h"
 
 #include "base/check.h"

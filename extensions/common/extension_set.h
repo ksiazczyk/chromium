@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionSet container header
+// summary: Declares the ExtensionSet class, a container of extensions keyed by ID with iteration, insertion, removal, and URL-based lookup support.
+// ---
+
 #ifndef EXTENSIONS_COMMON_EXTENSION_SET_H_
 #define EXTENSIONS_COMMON_EXTENSION_SET_H_
 

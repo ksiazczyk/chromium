@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User scripts allowed state tracking
+// summary: Tracks per-context, per-extension user scripts API permission in a thread-safe map with getter and setter functions.
+// ---
+
 #include "extensions/common/user_scripts_allowed_state.h"
 
 #include <map>

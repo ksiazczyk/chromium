@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: StackFrame unit tests
+// summary: Unit tests verifying that StackFrame::CreateFromText parses valid frame text and rejects malformed formats.
+// ---
+
 #include "extensions/common/stack_frame.h"
 
 #include <stddef.h>

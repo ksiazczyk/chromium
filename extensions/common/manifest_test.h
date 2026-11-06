@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Manifest test base class header
+// summary: Declares the ManifestTest base class with helpers to load manifests and expect success, warnings, or errors in extension tests.
+// ---
+
 #ifndef EXTENSIONS_COMMON_MANIFEST_TEST_H_
 #define EXTENSIONS_COMMON_MANIFEST_TEST_H_
 
