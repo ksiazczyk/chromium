@@ -1,0 +1,4 @@
+# Docerion header of permissions_android_strings_sr-Latn.xtb.
+type: data
+title: Android permission strings in Serbian (Latin)
+summary: Xtb translation bundle with Serbian Latin strings for Chrome Android permission prompts, covering camera, microphone, location, Bluetooth and NFC dialogs.

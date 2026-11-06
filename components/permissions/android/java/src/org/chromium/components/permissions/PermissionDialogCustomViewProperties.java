@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PermissionDialogCustomViewProperties
+// summary: Defines the property keys for the permission dialog custom view, such as icon, icon tint, message text, bolded ranges and close button callback.
+// ---
+
 package org.chromium.components.permissions;
 
 import android.content.res.ColorStateList;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PermissionDialogCustomViewBinder
+// summary: View binder for the permission dialog custom view that updates message text, icon and icon tint from the property model.
+// ---
+
 package org.chromium.components.permissions;
 
 import android.content.res.ColorStateList;

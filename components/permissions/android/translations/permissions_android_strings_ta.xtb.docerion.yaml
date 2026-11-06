@@ -1,0 +1,4 @@
+# Docerion header of permissions_android_strings_ta.xtb.
+type: data
+title: Android permission strings in Tamil
+summary: Xtb translation bundle with Tamil strings for Chrome Android permission prompts, covering camera, microphone, location, Bluetooth and NFC dialogs.

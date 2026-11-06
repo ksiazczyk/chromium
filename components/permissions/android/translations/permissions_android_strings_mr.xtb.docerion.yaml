@@ -1,0 +1,4 @@
+# Docerion header of permissions_android_strings_mr.xtb.
+type: data
+title: Marathi Android permissions strings translation bundle
+summary: Marathi translations of Chrome Android permission strings, covering camera, microphone, Bluetooth, NFC, and location permission dialogs.

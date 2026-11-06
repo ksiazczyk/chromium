@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Permission dialog controller JNI bridge implementation
+// summary: Bridges native code to the Java PermissionDialogController for creating dialogs and showing or dismissing clapper quiet and result icons.
+// ---
+
 #include "components/permissions/android/permission_prompt/permission_dialog_controller.h"
 
 // Must come after all headers that specialize FromJniType() / ToJniType().

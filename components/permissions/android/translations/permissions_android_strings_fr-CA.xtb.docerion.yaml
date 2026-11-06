@@ -1,0 +1,4 @@
+# Docerion header of permissions_android_strings_fr-CA.xtb.
+type: data
+title: Canadian French Android permissions strings translation bundle
+summary: XML translation bundle with Canadian French (fr-CA) strings for Android permission dialogs, covering camera, microphone, location, Bluetooth and NFC prompts.

@@ -1,0 +1,4 @@
+# Docerion header of permissions_android_strings_hr.xtb.
+type: data
+title: Croatian Android permissions strings translation bundle
+summary: XML translation bundle with Croatian (hr) strings for Android permission dialogs, covering camera, microphone, location, Bluetooth and NFC permission prompts.

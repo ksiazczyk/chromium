@@ -1,0 +1,4 @@
+# Docerion header of permissions_android_strings_it.xtb.
+type: data
+title: Italian Android permission strings translation bundle
+summary: Italian translations of Chrome on Android permission prompts covering camera, microphone, location, Bluetooth pairing, and nearby device scanning.

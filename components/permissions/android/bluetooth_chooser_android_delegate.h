@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth chooser delegate interface
+// summary: Declares the delegate interface that supplies embedder-level information such as security level to the Bluetooth chooser.
+// ---
+
 #ifndef COMPONENTS_PERMISSIONS_ANDROID_BLUETOOTH_CHOOSER_ANDROID_DELEGATE_H_
 #define COMPONENTS_PERMISSIONS_ANDROID_BLUETOOTH_CHOOSER_ANDROID_DELEGATE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Permission prompt factory implementation
+// summary: Implements PermissionPrompt::Create, selecting between embedded prompts, quiet clapper icon, message UI, or dialog for Android permission requests.
+// ---
+
 #include <memory>
 
 #include "components/permissions/android/permission_prompt/embedded_permission_prompt_android.h"

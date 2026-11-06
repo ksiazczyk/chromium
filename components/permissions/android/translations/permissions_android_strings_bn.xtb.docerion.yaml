@@ -1,0 +1,4 @@
+# Docerion header of permissions_android_strings_bn.xtb.
+type: data
+title: Android permissions strings (Bengali)
+summary: Bengali translation bundle of Chrome Android permission prompts covering camera, microphone, location, Bluetooth device scanning and pairing, NFC and hand tracking.

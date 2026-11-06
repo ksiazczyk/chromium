@@ -1,0 +1,4 @@
+# Docerion header of permissions_android_strings_kn.xtb.
+type: data
+title: Kannada Android permission strings translation bundle
+summary: Kannada translations of Chrome on Android permission prompts covering camera, microphone, location, Bluetooth pairing, and nearby device scanning.

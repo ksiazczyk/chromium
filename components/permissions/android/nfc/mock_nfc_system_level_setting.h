@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock NFC system level setting class
+// summary: Declares MockNfcSystemLevelSetting, a test double for NfcSystemLevelSetting with static helpers to control NFC state and track prompt display.
+// ---
+
 #ifndef COMPONENTS_PERMISSIONS_ANDROID_NFC_MOCK_NFC_SYSTEM_LEVEL_SETTING_H_
 #define COMPONENTS_PERMISSIONS_ANDROID_NFC_MOCK_NFC_SYSTEM_LEVEL_SETTING_H_
 

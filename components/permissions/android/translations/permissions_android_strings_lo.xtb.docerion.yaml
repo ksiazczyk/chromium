@@ -1,0 +1,4 @@
+# Docerion header of permissions_android_strings_lo.xtb.
+type: data
+title: Lao Android permissions strings translation bundle
+summary: Lao translations of Chrome Android permission strings, covering camera, microphone, Bluetooth, NFC, and location permission dialogs.

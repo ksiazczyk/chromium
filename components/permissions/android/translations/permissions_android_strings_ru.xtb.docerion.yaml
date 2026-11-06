@@ -1,0 +1,4 @@
+# Docerion header of permissions_android_strings_ru.xtb.
+type: data
+title: Android permission strings in Russian
+summary: Xtb translation bundle with Russian strings for Chrome Android permission prompts, covering camera, microphone, location, Bluetooth and NFC dialogs.

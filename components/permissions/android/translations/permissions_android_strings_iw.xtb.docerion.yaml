@@ -1,0 +1,4 @@
+# Docerion header of permissions_android_strings_iw.xtb.
+type: data
+title: Hebrew Android permission strings translation bundle
+summary: Hebrew translations of Chrome on Android permission prompts covering camera, microphone, location, Bluetooth pairing, and nearby device scanning.

@@ -1,0 +1,4 @@
+# Docerion header of permissions_android_strings_id.xtb.
+type: data
+title: Indonesian Android permission strings translation bundle
+summary: Indonesian translations of Chrome on Android permission prompts covering camera, microphone, location, Bluetooth pairing, and nearby device scanning.

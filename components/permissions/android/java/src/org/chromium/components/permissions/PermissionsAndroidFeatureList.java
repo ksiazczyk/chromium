@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PermissionsAndroidFeatureList
+// summary: Defines constants for Android permissions base::Features and cached feature params, kept in sync with the native permissions_android_feature_map.cc.
+// ---
+
 package org.chromium.components.permissions;
 
 import org.chromium.build.annotations.NullMarked;

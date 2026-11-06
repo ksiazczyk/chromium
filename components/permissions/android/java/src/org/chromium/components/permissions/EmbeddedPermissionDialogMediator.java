@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EmbeddedPermissionDialogMediator
+// summary: Mediator handling the embedded permission prompt flow, including showing the OS permission prompt directly for the OS_PROMPT variant.
+// ---
+
 package org.chromium.components.permissions;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

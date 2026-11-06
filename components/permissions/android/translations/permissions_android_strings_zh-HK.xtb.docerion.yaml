@@ -1,0 +1,4 @@
+# Docerion header of permissions_android_strings_zh-HK.xtb.
+type: data
+title: Android permission strings in Traditional Chinese (Hong Kong)
+summary: Traditional Chinese (Hong Kong) translation bundle with localized strings for Chrome's Android permission dialogs covering camera, microphone, Bluetooth, and location.

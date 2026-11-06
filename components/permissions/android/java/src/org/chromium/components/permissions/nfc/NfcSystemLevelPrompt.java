@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android NFC system-level enable prompt dialog
+// summary: Implements a modal Android dialog that asks the user to turn on the device's NFC adapter at the system level, showing a turn-on action and a cancel button.
+// ---
+
 package org.chromium.components.permissions.nfc;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

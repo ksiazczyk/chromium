@@ -7,6 +7,13 @@ found in the LICENSE file.
 <!-- We cannot set android:background to @color/item_chooser_row_background because it is a color
      state list. This is a framework limitation that we work around by setting
      android:backgroundTint instead. This in turn requires an android:background value. -->
+
+<!--docerion
+type: source
+title: Item chooser dialog row layout
+summary: Android layout for a row in the item chooser dialog, pairing an icon with a single-line, ellipsized description text.
+-->
+
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
                 xmlns:tools="http://schemas.android.com/tools"
                 android:layout_width="match_parent"

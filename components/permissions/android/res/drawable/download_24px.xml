@@ -1,3 +1,9 @@
+<!--docerion
+type: asset
+title: Download icon vector drawable
+summary: Android vector drawable of a download arrow icon used in the permissions component.
+-->
+
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
     android:width="24dp"
     android:height="24dp"

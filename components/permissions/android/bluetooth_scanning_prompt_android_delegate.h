@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth scanning prompt Android delegate interface
+// summary: Defines the delegate interface that supplies embedder-level information, such as the Java object and security level, to the Android Bluetooth scanning prompt.
+// ---
+
 #ifndef COMPONENTS_PERMISSIONS_ANDROID_BLUETOOTH_SCANNING_PROMPT_ANDROID_DELEGATE_H_
 #define COMPONENTS_PERMISSIONS_ANDROID_BLUETOOTH_SCANNING_PROMPT_ANDROID_DELEGATE_H_
 

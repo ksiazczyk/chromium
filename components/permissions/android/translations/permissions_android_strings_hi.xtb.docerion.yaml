@@ -1,0 +1,4 @@
+# Docerion header of permissions_android_strings_hi.xtb.
+type: data
+title: Hindi Android permissions strings translation bundle
+summary: XML translation bundle with Hindi (hi) strings for Android permission dialogs, covering camera, microphone, location, Bluetooth and NFC permission prompts.

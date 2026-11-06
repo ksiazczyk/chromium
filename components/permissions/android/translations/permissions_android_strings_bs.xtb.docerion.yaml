@@ -1,0 +1,4 @@
+# Docerion header of permissions_android_strings_bs.xtb.
+type: data
+title: Android permissions strings (Bosnian)
+summary: Bosnian translation bundle of Chrome Android permission prompts covering camera, microphone, location, Bluetooth device scanning and pairing, NFC and hand tracking.

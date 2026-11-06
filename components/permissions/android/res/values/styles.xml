@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Android style for the top button bar divider
+summary: Defines an Android style that renders a 1dp horizontal divider used above the button bar in permission prompts.
+-->
+
 <resources xmlns:tools="http://schemas.android.com/tools">
     <style name="ButtonBarTopDivider">
         <item name="android:layout_width">match_parent</item>

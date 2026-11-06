@@ -1,0 +1,4 @@
+# Docerion header of permissions_android_strings_ky.xtb.
+type: data
+title: Kyrgyz Android permissions strings translation bundle
+summary: Kyrgyz translations of Chrome Android permission strings, covering camera, microphone, Bluetooth, NFC, and location permission dialogs.

@@ -1,6 +1,13 @@
 // Copyright 2021 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Permission dialog delegate unit tests
+// summary: Unit tests verifying that the dialog is dismissed when the primary page changes and that geolocation accuracy is propagated for Android permission dialogs.
+// ---
+
 #include "components/permissions/android/permission_prompt/permission_dialog_delegate.h"
 
 #include <memory>

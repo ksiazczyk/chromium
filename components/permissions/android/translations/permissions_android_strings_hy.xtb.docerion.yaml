@@ -1,0 +1,4 @@
+# Docerion header of permissions_android_strings_hy.xtb.
+type: data
+title: Armenian Android permission strings translation bundle
+summary: Armenian translations of Chrome on Android permission prompts covering camera, microphone, location, Bluetooth pairing, and nearby device scanning.

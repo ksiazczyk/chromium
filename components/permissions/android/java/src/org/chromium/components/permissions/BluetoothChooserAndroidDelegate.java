@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothChooserAndroidDelegate
+// summary: Interface providing embedder-level information, such as an autocomplete scheme classifier, to the Bluetooth chooser dialog.
+// ---
+
 package org.chromium.components.permissions;
 
 import org.chromium.build.annotations.NullMarked;

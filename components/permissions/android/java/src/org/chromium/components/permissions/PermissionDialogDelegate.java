@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PermissionDialogDelegate
+// summary: Delegate holding the data shown in a modal permission prompt and bridging the user's decision over JNI to the native permissions code.
+// ---
+
 package org.chromium.components.permissions;
 
 import android.graphics.Bitmap;

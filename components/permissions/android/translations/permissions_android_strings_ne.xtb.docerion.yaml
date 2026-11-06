@@ -1,0 +1,4 @@
+# Docerion header of permissions_android_strings_ne.xtb.
+type: data
+title: Nepali Android permission strings translation bundle
+summary: Nepali translations of Android permission prompts for Chrome, covering camera, microphone, location, Bluetooth pairing, and device scanning messages.

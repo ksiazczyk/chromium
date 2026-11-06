@@ -1,0 +1,4 @@
+# Docerion header of permissions_android_strings_si.xtb.
+type: data
+title: Android permission strings in Sinhala
+summary: Xtb translation bundle with Sinhala strings for Chrome Android permission prompts, covering camera, microphone, location, Bluetooth and NFC dialogs.

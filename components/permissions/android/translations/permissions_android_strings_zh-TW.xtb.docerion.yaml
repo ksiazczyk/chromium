@@ -1,0 +1,4 @@
+# Docerion header of permissions_android_strings_zh-TW.xtb.
+type: data
+title: Android permission strings in Traditional Chinese (Taiwan)
+summary: Traditional Chinese (Taiwan) translation bundle with localized strings for Chrome's Android permission dialogs covering camera, microphone, Bluetooth, and location.

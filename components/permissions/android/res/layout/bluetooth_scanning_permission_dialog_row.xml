@@ -4,6 +4,13 @@ Copyright 2019 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: source
+title: Bluetooth scanning permission dialog row layout
+summary: Android layout for a single-line description row used inside the Bluetooth scanning permission dialog.
+-->
+
 <TextView xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/description"
     android:layout_width="match_parent"

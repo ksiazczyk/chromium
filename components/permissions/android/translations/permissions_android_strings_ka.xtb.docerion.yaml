@@ -1,0 +1,4 @@
+# Docerion header of permissions_android_strings_ka.xtb.
+type: data
+title: Georgian Android permission strings translation bundle
+summary: Georgian translations of Chrome on Android permission prompts covering camera, microphone, location, Bluetooth pairing, and nearby device scanning.

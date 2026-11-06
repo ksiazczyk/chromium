@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android Bluetooth scanning prompt implementation
+// summary: Implements the Android dialog for Bluetooth scanning permission, listing devices and reporting allow, block, or cancel.
+// ---
+
 #include "components/permissions/android/bluetooth_scanning_prompt_android.h"
 
 #include "base/android/jni_android.h"

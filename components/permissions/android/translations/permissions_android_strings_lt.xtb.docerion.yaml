@@ -1,0 +1,4 @@
+# Docerion header of permissions_android_strings_lt.xtb.
+type: data
+title: Lithuanian Android permissions strings translation bundle
+summary: Lithuanian translations of Chrome Android permission strings, covering camera, microphone, Bluetooth, NFC, and location permission dialogs.

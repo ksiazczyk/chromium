@@ -1,0 +1,4 @@
+# Docerion header of permissions_android_strings_is.xtb.
+type: data
+title: Icelandic Android permission strings translation bundle
+summary: Icelandic translations of Chrome on Android permission prompts covering camera, microphone, location, Bluetooth pairing, and nearby device scanning.

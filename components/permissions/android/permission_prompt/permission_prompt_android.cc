@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android permission prompt base implementation
+// summary: Implements PermissionPromptAndroid, the base class providing accept, deny, dismiss, button text, and request handling behavior for Android permission prompts.
+// ---
+
 #include "components/permissions/android/permission_prompt/permission_prompt_android.h"
 
 #include <memory>

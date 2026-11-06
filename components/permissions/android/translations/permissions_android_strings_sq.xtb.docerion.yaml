@@ -1,0 +1,4 @@
+# Docerion header of permissions_android_strings_sq.xtb.
+type: data
+title: Android permission strings in Albanian
+summary: Xtb translation bundle with Albanian strings for Chrome Android permission prompts, covering camera, microphone, location, Bluetooth and NFC dialogs.

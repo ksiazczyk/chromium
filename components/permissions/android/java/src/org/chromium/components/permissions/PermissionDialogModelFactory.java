@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PermissionDialogModelFactory
+// summary: Factory that builds the modal dialog property model for permission prompts, configuring buttons, touch filtering and layout options.
+// ---
+
 package org.chromium.components.permissions;
 
 import android.content.Context;

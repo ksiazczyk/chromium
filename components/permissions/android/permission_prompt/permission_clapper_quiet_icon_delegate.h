@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quiet clapper icon delegate class declaration
+// summary: Declares PermissionClapperQuietIconDelegate, which manages the lifecycle of the Java-side omnibox icon for quiet notification prompts.
+// ---
+
 #ifndef COMPONENTS_PERMISSIONS_ANDROID_PERMISSION_PROMPT_PERMISSION_CLAPPER_QUIET_ICON_DELEGATE_H_
 #define COMPONENTS_PERMISSIONS_ANDROID_PERMISSION_PROMPT_PERMISSION_CLAPPER_QUIET_ICON_DELEGATE_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of permissions_android_strings_mk.xtb.
+type: data
+title: Macedonian Android permissions strings translation bundle
+summary: Macedonian translations of Chrome Android permission strings, covering camera, microphone, Bluetooth, NFC, and location permission dialogs.

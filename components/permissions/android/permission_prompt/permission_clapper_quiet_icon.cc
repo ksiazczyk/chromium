@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quiet clapper omnibox icon implementation
+// summary: Implements a quiet notification permission prompt on Android that only shows a crossed-out bell icon at the left of the omnibox instead of a dialog.
+// ---
+
 #include "components/permissions/android/permission_prompt/permission_clapper_quiet_icon.h"
 
 #include "base/android/jni_array.h"

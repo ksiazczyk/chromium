@@ -1,0 +1,4 @@
+# Docerion header of permissions_android_strings_as.xtb.
+type: data
+title: Android permissions strings (Assamese)
+summary: Assamese translation bundle of Chrome Android permission prompts covering camera, microphone, location, Bluetooth device scanning and pairing, NFC and hand tracking.

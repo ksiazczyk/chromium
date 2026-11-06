@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android Bluetooth chooser header
+// summary: Declares BluetoothChooserAndroid, which asks the user to select a Bluetooth device through a Java dialog.
+// ---
+
 #ifndef COMPONENTS_PERMISSIONS_ANDROID_BLUETOOTH_CHOOSER_ANDROID_H_
 #define COMPONENTS_PERMISSIONS_ANDROID_BLUETOOTH_CHOOSER_ANDROID_H_
 

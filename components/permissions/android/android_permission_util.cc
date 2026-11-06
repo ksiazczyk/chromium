@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android permission utility implementation
+// summary: Implements JNI-backed helpers that map content settings to Android permissions and decide when to re-prompt users.
+// ---
+
 #include "components/permissions/android/android_permission_util.h"
 
 #include <variant>

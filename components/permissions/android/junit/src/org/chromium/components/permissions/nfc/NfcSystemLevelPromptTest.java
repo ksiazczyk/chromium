@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NfcSystemLevelPrompt unit tests
+// summary: Robolectric JUnit tests for the NfcSystemLevelPrompt class, verifying that the NFC settings dialog is shown and its dismissal and intent callbacks behave correctly.
+// ---
+
 package org.chromium.components.permissions.nfc;
 
 import static org.mockito.ArgumentMatchers.any;

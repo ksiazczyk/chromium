@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Embedded permission prompt for Android implementation
+// summary: Implements the Android embedded permission prompt for <permission> element requests, handling prompt variants, metrics recording, and accept, deny, and dismiss actions.
+// ---
+
 #include "components/permissions/android/permission_prompt/embedded_permission_prompt_android.h"
 
 #include <variant>

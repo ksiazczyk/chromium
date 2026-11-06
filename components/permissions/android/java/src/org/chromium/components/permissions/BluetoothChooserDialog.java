@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothChooserDialog
+// summary: Android dialog letting the user pick a Bluetooth device when a website requests pairing, for example via a bluetooth.requestDevice call.
+// ---
+
 package org.chromium.components.permissions;
 
 import static org.chromium.build.NullUtil.assertNonNull;

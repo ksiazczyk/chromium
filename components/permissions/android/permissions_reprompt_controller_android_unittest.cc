@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android permissions reprompt controller unit tests
+// summary: Unit tests covering reprompt request deduplication and callback handling for geolocation, camera, AR, and local network access permissions.
+// ---
+
 #include "components/permissions/android/permissions_reprompt_controller_android.h"
 
 #include <memory>

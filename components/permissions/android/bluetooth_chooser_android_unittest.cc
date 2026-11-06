@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bluetooth chooser Android unit tests
+// summary: Tests that the Bluetooth chooser dialog is created with the main frame origin when requested from a subframe.
+// ---
+
 #include "components/permissions/android/bluetooth_chooser_android.h"
 
 #include <string>
