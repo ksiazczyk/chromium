@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sandbox feature test base implementation
+// summary: Implements the SandboxFeatureTest base class with expected integrity levels, token levels, mitigation flags, and policy validation helpers.
+// ---
+
 #include "sandbox/policy/win/sandbox_policy_feature_test.h"
 
 #include "sandbox/policy/features.h"

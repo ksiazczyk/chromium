@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Broker process seccomp-BPF policy header
+// summary: Declares BrokerProcessPolicy, the policy for a privileged syscall broker that permits a limited set of filesystem calls.
+// ---
+
 #ifndef SANDBOX_POLICY_LINUX_BPF_BROKER_POLICY_LINUX_H_
 #define SANDBOX_POLICY_LINUX_BPF_BROKER_POLICY_LINUX_H_
 

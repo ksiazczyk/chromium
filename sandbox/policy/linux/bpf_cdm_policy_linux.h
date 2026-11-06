@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CDM process seccomp-BPF policy header
+// summary: Declares CdmProcessPolicy, the seccomp-BPF policy for a process hosting a Content Decryption Module.
+// ---
+
 #ifndef SANDBOX_POLICY_LINUX_BPF_CDM_POLICY_LINUX_H_
 #define SANDBOX_POLICY_LINUX_BPF_CDM_POLICY_LINUX_H_
 

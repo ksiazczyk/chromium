@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SeatbeltExec server unit test
+// summary: Unit test that spawns a child applying a parameterized sandbox profile via SeatbeltExecServer and verifies the resulting filesystem restrictions.
+// ---
+
 #include "sandbox/mac/seatbelt_exec.h"
 
 #include "base/process/kill.h"

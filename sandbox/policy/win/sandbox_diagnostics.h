@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sandbox policy diagnostics receiver declaration
+// summary: Declares ServiceManagerDiagnosticsReceiver, which mediates responses from BrokerServices->GetPolicyDiagnostics.
+// ---
+
 #ifndef SANDBOX_POLICY_WIN_SANDBOX_DIAGNOSTICS_H_
 #define SANDBOX_POLICY_WIN_SANDBOX_DIAGNOSTICS_H_
 

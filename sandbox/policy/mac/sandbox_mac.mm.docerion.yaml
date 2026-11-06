@@ -1,0 +1,4 @@
+# Docerion header of sandbox_mac.mm.
+type: source
+title: macOS sandbox profile selection implementation
+summary: Implements macOS sandbox helpers, mapping each sandbox type to its compiled seatbelt policy string, which is combined with the common profile, and applying cacheability rules.

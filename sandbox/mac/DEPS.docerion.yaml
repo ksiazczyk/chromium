@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Mac sandbox dependency include rules
+summary: Restricts which headers Mac sandbox sources may include, keeping security-sensitive shim code from linking against //base.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Broker process seccomp-BPF policy implementation
+// summary: Implements BrokerProcessPolicy, allowing only the filesystem syscalls enabled in the broker command set for the privileged syscall broker.
+// ---
+
 #include "sandbox/policy/linux/bpf_broker_policy_linux.h"
 
 #include "sandbox/linux/bpf_dsl/bpf_dsl.h"

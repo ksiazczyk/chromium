@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SeatbeltExtensionToken class interface
+// summary: Declares the move-only token object used to pass sandbox extensions between processes over IPC.
+// ---
+
 #ifndef SANDBOX_MAC_SEATBELT_EXTENSION_TOKEN_H_
 #define SANDBOX_MAC_SEATBELT_EXTENSION_TOKEN_H_
 

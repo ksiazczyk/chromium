@@ -1,0 +1,4 @@
+# Docerion header of print_backend.sb.
+type: config
+title: Print backend service sandbox profile for macOS
+summary: Seatbelt policy for the print backend service, permitting reads of the user's CUPS options file and outbound network access to connect to the CUPS server.

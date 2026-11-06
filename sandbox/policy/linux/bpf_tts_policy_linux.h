@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TTS process BPF sandbox policy header
+// summary: Declares TtsProcessPolicy, the seccomp-BPF syscall policy applied to text-to-speech processes on Linux.
+// ---
+
 #ifndef SANDBOX_POLICY_LINUX_BPF_TTS_POLICY_LINUX_H_
 #define SANDBOX_POLICY_LINUX_BPF_TTS_POLICY_LINUX_H_
 

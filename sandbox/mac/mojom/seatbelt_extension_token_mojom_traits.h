@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SeatbeltExtensionToken Mojom traits header
+// summary: Declares StructTraits mapping between the Mojom struct and the native SeatbeltExtensionToken class.
+// ---
+
 #ifndef SANDBOX_MAC_MOJOM_SEATBELT_EXTENSION_TOKEN_MOJOM_TRAITS_H_
 #define SANDBOX_MAC_MOJOM_SEATBELT_EXTENSION_TOKEN_MOJOM_TRAITS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sandbox policy export macros
+// summary: Defines the SANDBOX_POLICY_EXPORT macro controlling shared library symbol visibility for component and non-component builds.
+// ---
+
 #ifndef SANDBOX_POLICY_EXPORT_H_
 #define SANDBOX_POLICY_EXPORT_H_
 

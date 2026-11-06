@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IME process sandbox policy implementation
+// summary: Implements the seccomp-BPF syscall policy for IME processes, allowing uname and clock calls and routing other syscalls via the broker or baseline policy.
+// ---
+
 #include "sandbox/policy/linux/bpf_ime_policy_linux.h"
 
 #include <sys/socket.h>

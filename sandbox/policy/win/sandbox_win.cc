@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows sandbox policy implementation
+// summary: Implements launching and configuring sandboxed processes on Windows, including policy generation, mitigation setup, and a blocklist of troublesome DLLs.
+// ---
+
 #include "sandbox/policy/win/sandbox_win.h"
 
 #include <windows.h>

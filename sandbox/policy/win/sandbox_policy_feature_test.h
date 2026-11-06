@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sandbox feature test base class declaration
+// summary: Declares SandboxFeatureTest, a parameterized gtest base class for validating Windows sandbox policy security levels and mitigation flags.
+// ---
+
 #ifndef SANDBOX_POLICY_WIN_SANDBOX_POLICY_FEATURE_TEST_H_
 #define SANDBOX_POLICY_WIN_SANDBOX_POLICY_FEATURE_TEST_H_
 

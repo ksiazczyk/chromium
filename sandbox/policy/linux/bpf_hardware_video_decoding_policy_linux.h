@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hardware video decoding sandbox policy header
+// summary: Declares HardwareVideoDecodingProcessPolicy with policy variants for VA-API on Intel or AMD and V4L2 hardware video decoding sandboxes.
+// ---
+
 #ifndef SANDBOX_POLICY_LINUX_BPF_HARDWARE_VIDEO_DECODING_POLICY_LINUX_H_
 #define SANDBOX_POLICY_LINUX_BPF_HARDWARE_VIDEO_DECODING_POLICY_LINUX_H_
 

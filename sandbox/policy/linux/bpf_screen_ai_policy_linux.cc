@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Screen AI process BPF sandbox policy implementation
+// summary: Implements the Screen AI process syscall filter, restricting futex, prlimit64, mremap and related calls for the utility process loading the Screen AI library.
+// ---
+
 #include "sandbox/policy/linux/bpf_screen_ai_policy_linux.h"
 
 #include <sys/mman.h>

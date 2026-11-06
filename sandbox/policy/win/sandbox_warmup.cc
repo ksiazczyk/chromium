@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sandbox warmup implementation
+// summary: Implements warmup of the randomness infrastructure and an IAT hook on dwrite.dll's GetUserDefaultLCID to avoid crashes under Csrss lockdown.
+// ---
+
 #include "sandbox/policy/win/sandbox_warmup.h"
 
 #include <windows.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nearby process sandbox policy implementation
+// summary: Implements syscall filtering for Nearby utility processes, permitting only the TCP socket operations needed for device-to-device transfer mediums.
+// ---
+
 #include "sandbox/policy/linux/bpf_nearby_policy_linux.h"
 
 #include <netinet/in.h>

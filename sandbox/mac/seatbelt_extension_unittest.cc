@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SeatbeltExtension unit tests
+// summary: Unit tests verifying that sandboxed child processes gain file read or write access only after consuming issued seatbelt extension tokens.
+// ---
+
 #include "sandbox/mac/seatbelt_extension.h"
 
 #include <sys/stat.h>

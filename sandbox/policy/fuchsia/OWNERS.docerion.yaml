@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of the Fuchsia sandbox policy directory
+summary: Delegates review ownership of the Fuchsia sandbox policy code to the Fuchsia security owners list.

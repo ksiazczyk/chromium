@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network service sandbox policy implementation
+// summary: Implements the network service seccomp-BPF policy, restricting ioctls and socket options to those needed for networking and crashing on disallowed calls.
+// ---
+
 #include "sandbox/policy/linux/bpf_network_policy_linux.h"
 
 #include <memory>

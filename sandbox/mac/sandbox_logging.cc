@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sandbox logging implementation
+// summary: Implements sandbox logging to os_log and syslog with fatal abort handling, independent of //base.
+// ---
+
 #include "sandbox/mac/sandbox_logging.h"
 
 #include <errno.h>

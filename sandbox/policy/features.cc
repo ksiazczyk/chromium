@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sandbox policy feature definitions
+// summary: Defines base::Feature flags that control sandbox behavior, such as the network service sandbox, Windows mitigations, and macOS sandbox logging.
+// ---
+
 #include "sandbox/policy/features.h"
 
 #include "base/feature_list.h"

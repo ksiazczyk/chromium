@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print compositor process BPF sandbox policy header
+// summary: Declares PrintCompositorProcessPolicy, the seccomp-BPF policy applied to print compositor utility processes.
+// ---
+
 #ifndef SANDBOX_POLICY_LINUX_BPF_PRINT_COMPOSITOR_POLICY_LINUX_H_
 #define SANDBOX_POLICY_LINUX_BPF_PRINT_COMPOSITOR_POLICY_LINUX_H_
 

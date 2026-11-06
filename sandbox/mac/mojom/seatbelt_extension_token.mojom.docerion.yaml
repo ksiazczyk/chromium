@@ -1,0 +1,4 @@
+# Docerion header of seatbelt_extension_token.mojom.
+type: source
+title: SeatbeltExtensionToken Mojom struct definition
+summary: Defines the typemapped Mojom struct representing a macOS sandbox SeatbeltExtensionToken.

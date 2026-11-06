@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome OS AMD GPU process sandbox policy header
+// summary: Declares CrosAmdGpuProcessPolicy, a seccomp-BPF sandbox policy class for GPU processes on AMD GPUs running on Chrome OS, extending the generic GPU process policy.
+// ---
+
 #ifndef SANDBOX_POLICY_LINUX_BPF_CROS_AMD_GPU_POLICY_LINUX_H_
 #define SANDBOX_POLICY_LINUX_BPF_CROS_AMD_GPU_POLICY_LINUX_H_
 

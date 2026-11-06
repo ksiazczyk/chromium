@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU process sandbox policy implementation
+// summary: Implements the generic Linux GPU process seccomp-BPF policy, allowing syscalls needed by GPU drivers such as dlopen, ioctl, mmap and mremap, and serves as the base for Chrome OS GPU variants.
+// ---
+
 #include "sandbox/policy/linux/bpf_gpu_policy_linux.h"
 
 #include <errno.h>

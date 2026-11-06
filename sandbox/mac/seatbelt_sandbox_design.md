@@ -1,3 +1,9 @@
+---
+type: decision
+title: Mac Sandbox V2 design document
+summary: Design document for Mac Sandbox V2, which removes the unsandboxed warmup phase by applying sandbox profiles and parameters in Helper executables.
+---
+
 # **Mac Sandbox V2 Design Doc**
 *Status: Final, Authors: kerrnel@chromium.org, rsesek@chromium.org, Last Updated: 2025-01-30*
 

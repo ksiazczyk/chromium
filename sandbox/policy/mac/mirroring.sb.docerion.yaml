@@ -1,0 +1,4 @@
+# Docerion header of mirroring.sb.
+type: config
+title: Screen mirroring macOS sandbox profile
+summary: Seatbelt profile allowing IOSurface access for GPU memory buffer video frames during screen mirroring.

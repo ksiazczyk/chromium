@@ -1,0 +1,4 @@
+# Docerion header of gpu.sb.
+type: config
+title: GPU process macOS sandbox profile
+summary: Seatbelt profile granting the GPU process access to graphics, video decoding, Metal, and Neural Engine services on macOS.

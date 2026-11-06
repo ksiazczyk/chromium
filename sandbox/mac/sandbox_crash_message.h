@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sandbox crash message interface
+// summary: Declares SetCrashMessage, a wrapper around macOS crash reporter annotations used to record sandbox crash context.
+// ---
+
 #ifndef SANDBOX_MAC_SANDBOX_CRASH_MESSAGE_H_
 #define SANDBOX_MAC_SANDBOX_CRASH_MESSAGE_H_
 

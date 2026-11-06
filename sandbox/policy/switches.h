@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sandbox policy switch declarations
+// summary: Declares exported command-line switch constants used to configure and disable sandboxes.
+// ---
+
 #ifndef SANDBOX_POLICY_SWITCHES_H_
 #define SANDBOX_POLICY_SWITCHES_H_
 

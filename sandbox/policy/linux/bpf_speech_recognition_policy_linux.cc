@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Speech recognition process BPF sandbox policy implementation
+// summary: Implements the seccomp-BPF policy for the sandboxed speech recognition utility process, allowing the syscalls the SODA binary needs to transcribe audio.
+// ---
+
 #include "sandbox/policy/linux/bpf_speech_recognition_policy_linux.h"
 
 #include <sys/mman.h>

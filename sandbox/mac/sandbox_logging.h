@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sandbox logging interface
+// summary: Declares the sandbox's own logging functions for info, warning, error and fatal messages, avoiding a //base dependency.
+// ---
+
 #ifndef SANDBOX_MAC_SANDBOX_LOGGING_H_
 #define SANDBOX_MAC_SANDBOX_LOGGING_H_
 

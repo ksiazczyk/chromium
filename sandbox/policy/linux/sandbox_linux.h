@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux sandbox core header
+// summary: Declares the SandboxLinux singleton class, its sandbox status bitmask, IPC method enum, and options for initializing the Linux sandbox.
+// ---
+
 #ifndef SANDBOX_POLICY_LINUX_SANDBOX_LINUX_H_
 #define SANDBOX_POLICY_LINUX_SANDBOX_LINUX_H_
 

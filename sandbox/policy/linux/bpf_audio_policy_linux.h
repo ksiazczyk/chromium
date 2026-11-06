@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio process seccomp-BPF policy header
+// summary: Declares AudioProcessPolicy, a BPFBasePolicy subclass that defines the syscall allowlist for the audio process.
+// ---
+
 #ifndef SANDBOX_POLICY_LINUX_BPF_AUDIO_POLICY_LINUX_H_
 #define SANDBOX_POLICY_LINUX_BPF_AUDIO_POLICY_LINUX_H_
 

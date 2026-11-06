@@ -1,0 +1,4 @@
+# Docerion header of print_compositor.sb.
+type: config
+title: Print compositor service sandbox profile for macOS
+summary: Seatbelt policy for the print compositor service, locking down access except font reads and a few system color profile and appearance resources.

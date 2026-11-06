@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio process seccomp-BPF policy implementation
+// summary: Implements the AudioProcessPolicy seccomp-BPF filter that allowlists the syscalls needed by the audio process, including futex, socket, and kill restrictions.
+// ---
+
 #include "sandbox/policy/linux/bpf_audio_policy_linux.h"
 
 #include <sys/socket.h>

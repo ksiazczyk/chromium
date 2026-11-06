@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LPAC capability name constants for the Windows sandbox
+// summary: Defines constant LPAC capability name strings for the Windows sandbox, including Media Foundation CDM and Chrome install file capabilities.
+// ---
+
 #ifndef SANDBOX_POLICY_WIN_LPAC_CAPABILITY_H_
 #define SANDBOX_POLICY_WIN_LPAC_CAPABILITY_H_
 

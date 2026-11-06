@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Renderer process BPF sandbox policy implementation
+// summary: Implements the renderer process syscall filter, restricting ioctls such as dma-buf sync and allowing a defined syscall set for renderer and worker processes.
+// ---
+
 #include "sandbox/policy/linux/bpf_renderer_policy_linux.h"
 
 #include <errno.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows sandbox policy unit tests
+// summary: Unit tests for SandboxWin covering sandbox policy generation, job levels, AppContainer profiles, and DLL blocklisting behavior.
+// ---
+
 #include "sandbox/policy/win/sandbox_win.h"
 
 #include <windows.h>

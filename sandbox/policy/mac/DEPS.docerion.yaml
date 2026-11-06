@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Mac sandbox policy include rules
+summary: DEPS rule allowing this directory to include headers from sandbox/mac.

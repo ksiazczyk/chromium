@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows IAT hooking utility implementation
+// summary: Implements memory patching and Import Address Table hooking support used by the Windows sandbox policy.
+// ---
+
 #include "sandbox/policy/win/hook_util/hook_util.h"
 
 #include <assert.h>

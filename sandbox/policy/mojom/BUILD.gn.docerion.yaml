@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build target for sandbox policy Mojom
+summary: GN build file defining the mojom target that generates Blink and Java bindings for context.mojom and sandbox.mojom, with video-acceleration features enabled conditionally.

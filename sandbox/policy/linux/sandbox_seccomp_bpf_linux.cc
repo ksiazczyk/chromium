@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Seccomp-BPF sandbox policy selection
+// summary: Selects and starts seccomp-BPF policies for each sandbox type, including ChromeOS GPU variants and platform-specific process policies.
+// ---
+
 #include "sandbox/policy/linux/sandbox_seccomp_bpf_linux.h"
 
 #include <errno.h>

@@ -1,0 +1,4 @@
+# Docerion header of generate_params.py.
+type: script
+title: Generator of C++ constants from sandbox profile parameters
+summary: Parses .sb seatbelt files for parameter definitions and emits C++ header and source files with corresponding constants.

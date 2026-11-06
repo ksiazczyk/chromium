@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuchsia sandbox policy class declaration
+// summary: Declares the SandboxPolicyFuchsia class that updates process launch options to apply the appropriate isolation level for each sandbox type.
+// ---
+
 #ifndef SANDBOX_POLICY_FUCHSIA_SANDBOX_POLICY_FUCHSIA_H_
 #define SANDBOX_POLICY_FUCHSIA_SANDBOX_POLICY_FUCHSIA_H_
 

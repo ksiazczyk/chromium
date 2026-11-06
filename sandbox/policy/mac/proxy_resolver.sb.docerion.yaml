@@ -1,0 +1,4 @@
+# Docerion header of proxy_resolver.sb.
+type: config
+title: Proxy resolver sandbox profile for macOS
+summary: Seatbelt policy for the proxy resolver service, allowing SystemConfiguration Mach lookups and optional PAC script network access gated by the SYSTEM_PROXY_NETWORK_ACCESS parameter.

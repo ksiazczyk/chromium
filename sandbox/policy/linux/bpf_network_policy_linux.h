@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network service sandbox policy header
+// summary: Declares NetworkProcessPolicy, the seccomp-BPF syscall policy applied to the Linux network service process.
+// ---
+
 #ifndef SANDBOX_POLICY_LINUX_BPF_NETWORK_POLICY_LINUX_H_
 #define SANDBOX_POLICY_LINUX_BPF_NETWORK_POLICY_LINUX_H_
 

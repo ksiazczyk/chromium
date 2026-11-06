@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sandbox interface header
+// summary: Declares the Sandbox class interface for initializing sandboxes across platforms and asserting whether the current process is sandboxed.
+// ---
+
 #ifndef SANDBOX_POLICY_SANDBOX_H_
 #define SANDBOX_POLICY_SANDBOX_H_
 

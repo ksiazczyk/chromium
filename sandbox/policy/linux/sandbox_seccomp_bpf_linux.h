@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Seccomp-BPF sandbox header
+// summary: Declares the SandboxSeccompBPF class with APIs to check kernel support, choose policies per sandbox type, and start sandboxes.
+// ---
+
 #ifndef SANDBOX_POLICY_LINUX_SANDBOX_SECCOMP_BPF_LINUX_H_
 #define SANDBOX_POLICY_LINUX_SANDBOX_SECCOMP_BPF_LINUX_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Mac sandbox build definitions
+summary: Defines GN build targets for the Mac sandbox components seatbelt, seatbelt_extension and system_services, plus unit test and fuzz test targets.

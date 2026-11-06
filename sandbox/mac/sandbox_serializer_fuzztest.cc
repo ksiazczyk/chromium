@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sandbox serializer fuzz tests
+// summary: Fuzz tests that apply and deserialize serialized sandbox policies to verify SandboxSerializer paths do not crash on arbitrary input.
+// ---
+
 #include "sandbox/mac/sandbox_serializer.h"
 #include "third_party/fuzztest/src/fuzztest/fuzztest.h"
 

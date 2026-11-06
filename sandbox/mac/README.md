@@ -1,3 +1,13 @@
+---
+type: readme
+title: The Mac Sandbox
+summary: Explains the macOS Seatbelt sandbox, how to write and apply sandbox policies, and where to find debugging guidance.
+relations:
+  - references /docs/mac/sandbox_debugging.md
+  - references /sandbox/policy/mac/OWNERS
+  - references /sandbox/policy/mac/common.sb
+---
+
 # The Mac Sandbox
 
 The Mac sandbox provides an API for restricting the capabilities of a process.

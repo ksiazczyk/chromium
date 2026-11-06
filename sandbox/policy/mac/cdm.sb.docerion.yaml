@@ -1,0 +1,4 @@
+# Docerion header of cdm.sb.
+type: config
+title: CDM process macOS sandbox profile
+summary: Seatbelt profile allowing the CDM process to preload content decryption modules and reach the window server.

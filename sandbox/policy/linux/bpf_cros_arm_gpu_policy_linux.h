@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome OS ARM GPU process sandbox policy header
+// summary: Declares CrosArmGpuProcessPolicy, a seccomp-BPF sandbox policy for GPU processes on Chrome OS ARM devices with an option to allow shmat.
+// ---
+
 #ifndef SANDBOX_POLICY_LINUX_BPF_CROS_ARM_GPU_POLICY_LINUX_H_
 #define SANDBOX_POLICY_LINUX_BPF_CROS_ARM_GPU_POLICY_LINUX_H_
 

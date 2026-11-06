@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Seatbelt sandbox API wrapper
+// summary: Declares the Seatbelt class and its Parameters helper wrapping the deprecated macOS sandbox functions for compiling and applying profiles.
+// ---
+
 #ifndef SANDBOX_MAC_SEATBELT_H_
 #define SANDBOX_MAC_SEATBELT_H_
 

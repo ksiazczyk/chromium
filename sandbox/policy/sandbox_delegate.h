@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SandboxDelegate interface header
+// summary: Declares the SandboxDelegate interface used to customize sandbox type and target policy configuration when launching sandboxed processes, with Windows-specific hooks.
+// ---
+
 #ifndef SANDBOX_POLICY_SANDBOX_DELEGATE_H_
 #define SANDBOX_POLICY_SANDBOX_DELEGATE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hardware video decoding sandbox policy implementation
+// summary: Implements syscall filtering for hardware video decoding utility processes, selecting VA-API Intel/AMD or V4L2 policy variants based on build flags.
+// ---
+
 #include "sandbox/policy/linux/bpf_hardware_video_decoding_policy_linux.h"
 
 #include <linux/kcmp.h>

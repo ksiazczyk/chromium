@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Baseline seccomp-BPF policy implementation
+// summary: Implements BPFBasePolicy, wrapping the baseline seccomp policy and allowing set_robust_list to avoid audit log spam on Linux, Chrome OS, and Android.
+// ---
+
 #include "sandbox/policy/linux/bpf_base_policy_linux.h"
 
 #include <errno.h>

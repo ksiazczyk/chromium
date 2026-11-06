@@ -1,0 +1,4 @@
+# Docerion header of traits_test_service.mojom.
+type: test
+title: TraitsTestService Mojom interface
+summary: Defines a synchronous echo interface used to unit test struct traits serialization.

@@ -1,0 +1,4 @@
+# Docerion header of speech_recognition.sb.
+type: config
+title: Speech recognition sandbox profile
+summary: Sandbox profile granting the speech recognition service read access to the SODA component binary and language pack directories.

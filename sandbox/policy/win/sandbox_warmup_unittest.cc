@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sandbox warmup unit tests
+// summary: Tests that randomness warmup and the dwrite GetUserDefaultLCID hook work in a sandboxed process without crashing.
+// ---
+
 #include "sandbox/policy/win/sandbox_warmup.h"
 
 #include <windows.h>

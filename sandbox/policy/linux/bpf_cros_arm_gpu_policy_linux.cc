@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome OS ARM GPU process sandbox policy implementation
+// summary: Implements the ARM/AArch64 Chrome OS GPU sandbox policy, allowing shmat, networking and scheduling syscalls, restricting sockets to AF_UNIX, and falling back to the generic GPU policy.
+// ---
+
 #include "sandbox/policy/linux/bpf_cros_arm_gpu_policy_linux.h"
 
 #include <fcntl.h>
