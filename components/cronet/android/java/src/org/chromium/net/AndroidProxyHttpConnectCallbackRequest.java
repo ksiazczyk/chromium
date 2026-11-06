@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AndroidProxyHttpConnectCallbackRequest request wrapper
+// summary: Request wrapper extending the Cronet HttpConnectCallback.Request that forwards proceed and close calls to the Android platform request backend.
+// ---
+
 package org.chromium.net;
 
 import android.util.Pair;

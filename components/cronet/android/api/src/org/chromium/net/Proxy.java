@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Proxy
+// summary: Represents a proxy usable by CronetEngine, defining supported schemes and an HTTP CONNECT callback for controlling tunnel establishment.
+// ---
+
 package org.chromium.net;
 
 import android.util.Pair;

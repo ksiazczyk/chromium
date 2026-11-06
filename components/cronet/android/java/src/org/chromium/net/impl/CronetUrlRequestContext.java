@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CronetUrlRequestContext
+// summary: CronetEngine implementation using the Chromium HTTP stack, managing the native context adapter, request lifecycle, and network quality listeners.
+// ---
+
 package org.chromium.net.impl;
 
 import android.os.ConditionVariable;

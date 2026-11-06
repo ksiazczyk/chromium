@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CronetAdaptiveRequestContext
+// summary: Holds context and state for adaptive network selection, including feature flags for eligible hosts, paths and failover timing.
+// ---
+
 package org.chromium.net.impl;
 
 import static java.util.Objects.requireNonNull;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InlineExecutionProhibitedException
+// summary: RejectedExecutionException thrown when an executor runs a submitted runnable inline without allowDirectExecutor having been called.
+// ---
+
 package org.chromium.net;
 
 import java.util.concurrent.RejectedExecutionException;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Action interface for configuring CronetEngine builders
+// summary: Generic interface that lets each option configure the CronetEngine, connection migration, QUIC, and DNS builders without tight coupling to them.
+// ---
+
 package org.chromium.cronet_sample_apk;
 
 import org.chromium.net.ConnectionMigrationOptions;

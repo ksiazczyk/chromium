@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Native Cronet engine builder implementation
+// summary: Implements the Cronet engine builder for the native backend, detects the Cronet source, and builds CronetUrlRequestContext engine instances.
+// ---
+
 package org.chromium.net.impl;
 
 import android.content.Context;

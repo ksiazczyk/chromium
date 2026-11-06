@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QuicException implementation
+// summary: Implements the QuicException API by wrapping a NetworkExceptionImpl and adding detailed QUIC error codes and connection close source information.
+// ---
+
 package org.chromium.net.impl;
 
 import org.chromium.net.ConnectionCloseSource;

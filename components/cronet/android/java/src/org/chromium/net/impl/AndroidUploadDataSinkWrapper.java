@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android HttpEngine upload data sink adapter for Cronet
+// summary: Adapts android.net.http.UploadDataSink callbacks to Cronet's UploadDataSink, forwarding read and rewind success and error notifications.
+// ---
+
 package org.chromium.net.impl;
 
 import static org.chromium.net.impl.HttpEngineNativeProvider.EXT_API_LEVEL;

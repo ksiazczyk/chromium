@@ -5,6 +5,12 @@
   found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Cronet sample app color resources
+summary: Defines named colors such as navigation_selected, navigation_unselected and medium_text_color used by the Cronet Android sample app UI.
+-->
+
 <resources>
     <color name="navigation_selected">#000000</color>
     <color name="navigation_unselected">#888888</color>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CronetException
+// summary: Base exception class passed to UrlRequest.Callback.onFailed() for failures reported by the Cronet API.
+// ---
+
 package org.chromium.net;
 
 import java.io.IOException;

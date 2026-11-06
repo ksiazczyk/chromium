@@ -5,6 +5,12 @@
 // careful about backward compatibility implications of any changes made in this
 // file.
 
+// ---docerion
+// type: source
+// title: HTTP flags proto schema
+// summary: Protobuf schema for the HTTP flags file, defining flag values constrained by app ID and minimum Cronet version, with a note on backward compatibility.
+// ---
+
 syntax = "proto2";
 
 package org.chromium.net.httpflags;

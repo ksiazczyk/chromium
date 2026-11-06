@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cronet provider for the fake CronetEngine
+// summary: CronetProvider implementation named Fake-Cronet-Provider that creates builders for the fake CronetEngine implementation.
+// ---
+
 package org.chromium.net.test;
 
 import android.content.Context;

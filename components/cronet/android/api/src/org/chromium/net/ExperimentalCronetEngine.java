@@ -1,6 +1,13 @@
 // Copyright 2016 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: ExperimentalCronetEngine
+// summary: Deprecated experimental subclass of CronetEngine exposing experimental engine and builder features; marked as scheduled for deletion.
+// ---
+
 package org.chromium.net;
 
 import android.content.Context;

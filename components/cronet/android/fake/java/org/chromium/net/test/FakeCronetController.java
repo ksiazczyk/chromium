@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake Cronet controller for setting up test responses
+// summary: Controller for the fake Cronet implementation that lets tests register ResponseMatchers so UrlRequests receive canned responses instead of contacting a server.
+// ---
+
 package org.chromium.net.test;
 
 import android.content.Context;

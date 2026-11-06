@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HeaderBlock wrapper for the Android HttpEngine provider
+// summary: Adapts android.net.http.HeaderBlock to the Cronet UrlResponseInfo.HeaderBlock API by delegating header list and map access.
+// ---
+
 package org.chromium.net.impl;
 
 import static org.chromium.net.impl.HttpEngineNativeProvider.EXT_API_LEVEL;

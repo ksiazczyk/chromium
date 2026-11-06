@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeCronetControllerTest
+// summary: Tests the behavior of FakeCronetController, including engine creation ordering and controller assignment for fake engines.
+// ---
+
 package org.chromium.net.test;
 
 import static com.google.common.truth.Truth.assertThat;

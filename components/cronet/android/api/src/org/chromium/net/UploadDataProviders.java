@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UploadDataProviders
+// summary: Deprecated factory class offering UploadDataProvider implementations for files, descriptors, buffers, and byte arrays, delegating to the apihelpers package.
+// ---
+
 package org.chromium.net;
 
 import android.os.ParcelFileDescriptor;

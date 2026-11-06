@@ -7,6 +7,12 @@
 // fed with Google-internal Cronet atom proto definitions. Google employees should refer to
 // go/extend-cronet-telemetry.
 
+// ---docerion
+// type: source
+// title: Generated CronetStatsLog utility for stats atoms
+// summary: Generated utility class that defines Cronet stats atom codes and writes telemetry events through the Android StatsLog API.
+// ---
+
 package org.chromium.net.telemetry;
 
 import android.os.Build;

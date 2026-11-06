@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CompletionOnceCallback
+// summary: Java wrapper that runs a native net::CompletionOnceCallback exactly once via JNI and frees the native resources on close.
+// ---
+
 package org.chromium.net.impl;
 
 import org.jni_zero.CalledByNative;

@@ -1,3 +1,8 @@
+---
+type: readme
+title: How to set up and run the Cronet sample app in Android Studio
+summary: Step-by-step instructions for importing the Cronet sample into Android Studio, adding jar and so libraries, plus troubleshooting for build and run problems.
+---
 
 How to set up and run the sample app as an Android Studio project.
 

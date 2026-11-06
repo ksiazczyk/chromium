@@ -4,6 +4,13 @@ Copyright 2014 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: config
+title: Android manifest for Cronet sample test APK
+summary: Android manifest declaring the Cronet sample test package, its permissions, and the instrumentation runner targeting the sample APK.
+-->
+
   <!-- package name must be unique so suffix with "tests" so package loader
        doesn't ignore this. -->
   <manifest xmlns:android="http://schemas.android.com/apk/res/android"

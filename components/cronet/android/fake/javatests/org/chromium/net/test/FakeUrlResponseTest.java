@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeUrlResponseTest
+// summary: Tests the behavior of FakeUrlResponse, including header management, equality and response body handling.
+// ---
+
 package org.chromium.net.test;
 
 import static com.google.common.truth.Truth.assertThat;

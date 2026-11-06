@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CronetOutputStream
+// summary: Abstract OutputStream base class that concrete Cronet request output streams extend, providing closed and request-completed state checks.
+// ---
+
 package org.chromium.net.urlconnection;
 
 import org.chromium.net.UploadDataProvider;

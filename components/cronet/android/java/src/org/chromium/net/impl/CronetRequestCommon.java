@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CronetRequestCommon shared request utilities
+// summary: Utility class factoring out common logic between URL request and bidirectional stream implementations, such as terminal state mapping and header size estimation.
+// ---
+
 package org.chromium.net.impl;
 
 import android.os.Build;

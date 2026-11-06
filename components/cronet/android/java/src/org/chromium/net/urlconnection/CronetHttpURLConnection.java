@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CronetHttpURLConnection
+// summary: HttpURLConnection implementation that uses Cronet to send requests and receive responses, managing headers, input and output streams.
+// ---
+
 package org.chromium.net.urlconnection;
 
 import android.net.TrafficStats;

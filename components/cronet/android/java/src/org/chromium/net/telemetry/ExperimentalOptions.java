@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExperimentalOptions parser for Cronet options
+// summary: Parses the Cronet experimentalOptions JSON string and exposes typed getters for QUIC, AsyncDNS and StaleDNS settings used in telemetry.
+// ---
+
 package org.chromium.net.telemetry;
 
 import org.json.JSONException;

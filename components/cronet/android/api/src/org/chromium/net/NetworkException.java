@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkException
+// summary: Cronet exception delivered on request failure, exposing error codes for hostname resolution, timeouts, connection issues, and QUIC protocol errors.
+// ---
+
 package org.chromium.net;
 
 /**

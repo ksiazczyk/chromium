@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UrlResponseInfo
+// summary: Abstract class describing a Cronet response, exposing URL chain, status code, headers, cache state, negotiated protocol, and proxy information.
+// ---
+
 package org.chromium.net;
 
 import java.util.List;

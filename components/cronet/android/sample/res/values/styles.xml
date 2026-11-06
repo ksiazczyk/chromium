@@ -5,6 +5,12 @@
   found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Cronet sample app style resources
+summary: Defines the DayNight theme plus navigation button and medium text styles that reference the sample app's color resources.
+-->
+
 <resources>
     <style name="Theme.DevUi.DayNight" parent="@android:style/Theme.Material.Light.DarkActionBar" />
     <style name="SelectedNavigationButton">

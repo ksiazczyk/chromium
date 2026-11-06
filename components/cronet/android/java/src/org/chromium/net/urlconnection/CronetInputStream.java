@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CronetInputStream
+// summary: InputStream used by CronetHttpURLConnection to request and read response body data from the network stack as needed.
+// ---
+
 package org.chromium.net.urlconnection;
 
 import java.io.IOException;

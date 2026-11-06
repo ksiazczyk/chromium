@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ConnectionMigrationOptions
+// summary: Options class configuring Cronet's QUIC connection migration, covering network-switch migration, server migration, and related limits.
+// ---
+
 package org.chromium.net;
 
 import androidx.annotation.Nullable;

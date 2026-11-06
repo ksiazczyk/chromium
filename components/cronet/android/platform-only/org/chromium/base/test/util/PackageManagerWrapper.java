@@ -14,6 +14,12 @@
  * limitations under the License.
  */
 
+// ---docerion
+// type: test
+// title: PackageManagerWrapper test utility for Cronet Android platform tests
+// summary: Wraps the real Android PackageManager so Cronet instrumentation tests can override selected calls, including hidden APIs, when built for the Android platform.
+// ---
+
 package org.chromium.base.test.util;
 
 import android.content.ComponentName;

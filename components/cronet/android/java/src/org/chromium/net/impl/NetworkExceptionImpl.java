@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkException implementation
+// summary: Implements the NetworkException API, storing public and Cronet internal error codes and deciding whether an error is immediately retryable.
+// ---
+
 package org.chromium.net.impl;
 
 import org.chromium.net.NetworkException;

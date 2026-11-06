@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RequestFinishedInfoImpl
+// summary: Implements the RequestFinishedInfo class, holding the URL, annotations, metrics, finished reason, response info and exception for a completed request passed to listeners.
+// ---
+
 package org.chromium.net.impl;
 
 import androidx.annotation.IntDef;

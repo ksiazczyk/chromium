@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android HttpEngine RequestFinishedInfo wrapper
+// summary: Wraps request-finished information for the HttpEngine native provider, converting FinishedRequestTimings into Cronet metrics and reporting completed requests to listeners.
+// ---
+
 package org.chromium.net.impl;
 
 import static org.chromium.net.impl.HttpEngineNativeProvider.EXT_API_LEVEL;

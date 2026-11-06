@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'AndroidProxy: Cronet to Android proxy adapter'
+// summary: Adapter that converts a Cronet Proxy into an Android android.net.http.Proxy, translating scheme constants and wiring the connect callback.
+// ---
+
 package org.chromium.net;
 
 import androidx.annotation.NonNull;

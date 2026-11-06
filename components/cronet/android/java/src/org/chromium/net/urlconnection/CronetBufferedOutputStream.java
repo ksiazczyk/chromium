@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CronetBufferedOutputStream
+// summary: Java OutputStream that buffers the entire HTTP request body in memory for Cronet when neither fixed-length nor chunked streaming mode is set.
+// ---
+
 package org.chromium.net.urlconnection;
 
 import org.chromium.base.metrics.ScopedSysTraceEvent;

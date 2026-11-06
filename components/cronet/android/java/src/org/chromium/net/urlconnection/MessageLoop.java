@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MessageLoop
+// summary: Single-threaded Executor message loop used by CronetHttpURLConnection to run queued tasks, with optional timeout and failure handling.
+// ---
+
 package org.chromium.net.urlconnection;
 
 import org.chromium.base.metrics.ScopedSysTraceEvent;

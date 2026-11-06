@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Size bucket calculator for request and response sizes
+// summary: Utility that groups request and response header and body sizes into kilobyte-based buckets reported in Cronet traffic telemetry.
+// ---
+
 package org.chromium.net.telemetry;
 
 /** Utility class for grouping requests/responses into buckets */

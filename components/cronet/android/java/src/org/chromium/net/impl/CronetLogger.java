@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CronetLogger abstract base class
+// summary: Abstract base class defining the CronetLogger interface, including the CronetSource enum and abstract methods for logging engine creation, traffic, and adaptive traffic events.
+// ---
+
 package org.chromium.net.impl;
 
 import android.os.Build;

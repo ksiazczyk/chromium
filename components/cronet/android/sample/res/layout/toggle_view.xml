@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!--docerion
+type: source
+title: Cronet sample option toggle view layout
+summary: Android layout for a single option row in the sample, showing a flag short name, a switch to toggle it, and a smaller flag description text.
+-->
+
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:orientation="vertical"
     android:layout_width="match_parent"

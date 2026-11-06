@@ -6,6 +6,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Cronet sample app string resources
+summary: Provides user-facing strings for the Cronet sample app, including URL input and post data prompt text for GET and POST requests.
+-->
+
 <resources>
     <string name="urlText">Enter a URL</string>
     <string name="postText">Enter post data (leave it blank for GET request)</string>

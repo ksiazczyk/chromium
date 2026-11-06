@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VersionSafeProxyCallback
+// summary: Wraps Proxy.HttpConnectCallback in a version-safe manner, checking the API level before forwarding proxy tunnel request and header events.
+// ---
+
 package org.chromium.net.impl;
 
 import android.util.Pair;

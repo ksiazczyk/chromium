@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cronet engine builder wrapper around android.net.http.HttpEngine.Builder
+// summary: Implements ICronetEngineBuilder by forwarding configuration such as user agent, QUIC, HTTP2, Brotli, cache, and public key pins to the platform HttpEngine.Builder.
+// ---
+
 package org.chromium.net.impl;
 
 import static org.chromium.net.impl.HttpEngineNativeProvider.EXT_API_LEVEL;

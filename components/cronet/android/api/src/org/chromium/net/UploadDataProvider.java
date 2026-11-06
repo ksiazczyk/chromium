@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UploadDataProvider
+// summary: Abstract class letting embedders supply upload bodies to UrlRequest, supporting both chunked and non-chunked uploads with read and rewind operations.
+// ---
+
 package org.chromium.net;
 
 import java.io.Closeable;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cronet sample app test
+// summary: Placeholder JUnit instrumented test for the Cronet sample app, currently containing only a trivial assertion with a note to write more tests.
+// ---
+
 package org.chromium.cronet_sample_apk;
 
 import static com.google.common.truth.Truth.assertThat;

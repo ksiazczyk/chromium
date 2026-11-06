@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content-Type header parameters parser
+// summary: Parses the optional parameters section of the Content-Type header according to RFC 9110.
+// ---
+
 package org.chromium.net.apihelpers;
 
 import androidx.annotation.Nullable;

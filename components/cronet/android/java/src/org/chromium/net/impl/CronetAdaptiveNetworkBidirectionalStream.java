@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CronetAdaptiveNetworkBidirectionalStream
+// summary: BidirectionalStream implementation that fails over to a fallback stream when the primary stream is not ready within a configured timeout.
+// ---
+
 package org.chromium.net.impl;
 
 import static java.util.concurrent.TimeUnit.MILLISECONDS;

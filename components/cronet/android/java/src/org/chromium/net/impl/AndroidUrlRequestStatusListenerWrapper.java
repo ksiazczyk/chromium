@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL request status listener wrapper for HttpEngine provider
+// summary: Adapts a Cronet UrlRequest.StatusListener to the android.net.http StatusListener interface by forwarding onStatus callbacks to the backend listener.
+// ---
+
 package org.chromium.net.impl;
 
 import static org.chromium.net.impl.HttpEngineNativeProvider.EXT_API_LEVEL;

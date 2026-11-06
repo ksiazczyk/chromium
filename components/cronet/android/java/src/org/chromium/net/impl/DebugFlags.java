@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cronet debug flags from system properties
+// summary: Manages Cronet debug flags read from Android system properties, caching the netlog trace capture mode and debuggability checks that need an app restart to refresh.
+// ---
+
 package org.chromium.net.impl;
 
 import android.content.pm.ApplicationInfo;

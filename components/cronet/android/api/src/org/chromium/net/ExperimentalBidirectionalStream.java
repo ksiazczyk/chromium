@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExperimentalBidirectionalStream
+// summary: Deprecated experimental subclass of BidirectionalStream exposing experimental features and builder overrides; marked as scheduled for deletion.
+// ---
+
 package org.chromium.net;
 
 import android.annotation.SuppressLint;

@@ -1,3 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!--docerion
+type: config
+title: Cronet API resource keep rules
+summary: Android resource keep file that tells the resource shrinker to preserve the CronetProviderClassName string resource used to locate the Cronet provider class.
+-->
+
 <resources xmlns:tools="http://schemas.android.com/tools"
            tools:keep="@string/CronetProviderClassName" />

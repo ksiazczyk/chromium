@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CronetEngine
+// summary: Core Cronet API engine that processes UrlRequests using the best available HTTP stack, with a builder for runtime configuration and connection metrics.
+// ---
+
 package org.chromium.net;
 
 import android.content.Context;

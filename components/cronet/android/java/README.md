@@ -1,3 +1,9 @@
+---
+type: readme
+title: Cronet impl (and shared) code
+summary: Explains that this directory holds Cronet impl code (native and Java fallback implementations of the Cronet API) plus shared code, and notes the API/impl ABI compatibility requirement.
+---
+
 # Cronet impl (and shared) code
 
 This directory contains the so-called Cronet "impl" code, which provides

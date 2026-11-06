@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VersionSafeProxyOptions version-safe wrapper
+// summary: Version-safe wrapper around ProxyOptions that validates API level 49 support and builds proxy callback lists and protobuf proxy options.
+// ---
+
 package org.chromium.net;
 
 import androidx.annotation.NonNull;

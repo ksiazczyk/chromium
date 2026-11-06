@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CronetPccAuditLogger
+// summary: Writes request URLs to the Android Private Compute audit log when Cronet runs under a Private Compute Core or Services UID.
+// ---
+
 package org.chromium.net.impl;
 
 import android.app.privatecompute.PccSandboxManager;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Standard redirect handler utilities
+// summary: Utility class providing redirect handlers that never or always follow redirects.
+// ---
+
 package org.chromium.net.apihelpers;
 
 /** Utility class for standard {@link RedirectHandler} implementations. */

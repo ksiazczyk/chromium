@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cronet to Android HttpEngine upload data provider adapter
+// summary: Adapts a Cronet UploadDataProvider to the android.net.http.UploadDataProvider interface, delegating length, read, rewind and close calls to the backend provider.
+// ---
+
 package org.chromium.net.impl;
 
 import static org.chromium.net.impl.HttpEngineNativeProvider.EXT_API_LEVEL;

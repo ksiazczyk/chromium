@@ -1,6 +1,13 @@
 // Copyright 2024 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: ExperimentalOptionsTranslator
+// summary: Helper that converts Cronet experimental option objects such as connection migration and DNS settings into JSON experimental options and back.
+// ---
+
 package org.chromium.net;
 
 import org.json.JSONException;

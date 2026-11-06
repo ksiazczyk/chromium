@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!--docerion
+type: source
+title: Cronet sample main activity layout
+summary: Android layout for the Cronet sample main activity, hosting the OptionsFragment in a fragment container above a bottom navigation bar with Home and Options entries.
+-->
+
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:orientation="vertical"
     android:layout_width="match_parent"

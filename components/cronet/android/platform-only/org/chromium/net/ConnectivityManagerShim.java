@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ConnectivityManager hidden API shim for QUIC close payloads
+// summary: Wraps ConnectivityManager hidden APIs to register and unregister QUIC connection close payloads, built only when Cronet is part of the Android platform.
+// ---
+
 package org.chromium.net;
 
 import android.net.ConnectivityManager;

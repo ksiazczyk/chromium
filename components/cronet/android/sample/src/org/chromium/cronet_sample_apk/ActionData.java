@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActionData container for Cronet builder objects
+// summary: Holds the CronetEngine, connection migration, QUIC, and DNS option builders that options use when configuring the engine, built via a builder pattern.
+// ---
+
 package org.chromium.cronet_sample_apk;
 
 import org.chromium.net.ConnectionMigrationOptions;

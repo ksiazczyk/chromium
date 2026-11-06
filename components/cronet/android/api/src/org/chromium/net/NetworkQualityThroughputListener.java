@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkQualityThroughputListener
+// summary: Abstract listener that receives downstream throughput observations in kilobits per second from the network quality estimator.
+// ---
+
 package org.chromium.net;
 
 import java.util.concurrent.Executor;

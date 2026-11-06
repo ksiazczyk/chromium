@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Proxy callback request implementation
+// summary: JNI-backed implementation of Proxy.HttpConnectCallback.Request that lets callers proceed with extra headers or cancel a proxy CONNECT callback once.
+// ---
+
 package org.chromium.net.impl;
 
 import android.util.Pair;

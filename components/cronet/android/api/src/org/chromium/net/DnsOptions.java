@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DnsOptions
+// summary: Options class configuring Cronet's host resolution, including built-in DNS resolver use, host cache persistence, and stale DNS behavior.
+// ---
+
 package org.chromium.net;
 
 import android.os.Build.VERSION_CODES;

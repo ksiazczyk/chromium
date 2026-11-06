@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CronetUploadDataStream
+// summary: Implements UploadDataSink, bridging the embedder's upload data provider with the native C++ UploadDataStreamAdapter during request uploads.
+// ---
+
 package org.chromium.net.impl;
 
 import android.annotation.SuppressLint;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HttpFlagsForApi
+// summary: Fetches and caches the HTTP flags matching the current Cronet API version, accounting for API and implementation version divergence.
+// ---
+
 package org.chromium.net;
 
 import android.content.Context;

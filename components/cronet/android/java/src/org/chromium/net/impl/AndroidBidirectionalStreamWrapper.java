@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BidirectionalStream wrapper for the Android HttpEngine provider
+// summary: Extends ExperimentalBidirectionalStream by delegating to android.net.http.BidirectionalStream while tracking request timing and reporting finished-request metrics.
+// ---
+
 package org.chromium.net.impl;
 
 import static org.chromium.net.impl.HttpEngineNativeProvider.EXT_API_LEVEL;

@@ -1,3 +1,9 @@
+<!--docerion
+type: config
+title: Cronet sample app dimension resources
+summary: Defines default horizontal and vertical activity margins of 16dp following the Android Design guidelines for the Cronet sample app.
+-->
+
 <resources>
     <!-- Default screen margins, per the Android Design guidelines. -->
     <dimen name="activity_horizontal_margin">16dp</dimen>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Testable wrapper for android.os.Build.TYPE
+// summary: Provides access to the Android build type with a scoped override mechanism so tests can substitute custom values.
+// ---
+
 package org.chromium.net.impl;
 
 import android.os.Build;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProxyOptions
+// summary: Defines a CronetEngine proxy configuration as an ordered proxy list with fail-open or fail-closed behavior when all proxies fail.
+// ---
+
 package org.chromium.net;
 
 import androidx.annotation.IntDef;
