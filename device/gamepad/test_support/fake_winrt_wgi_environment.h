@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake WinRT WGI environment class declaration
+// summary: Declares FakeWinrtWgiEnvironment, which overrides the WinRT WGI OS APIs used by WgiDataFetcherWin and lets fake classes simulate failures via error codes.
+// ---
+
 #ifndef DEVICE_GAMEPAD_TEST_SUPPORT_FAKE_WINRT_WGI_ENVIRONMENT_H_
 #define DEVICE_GAMEPAD_TEST_SUPPORT_FAKE_WINRT_WGI_ENVIRONMENT_H_
 

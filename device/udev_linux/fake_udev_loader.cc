@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake udev loader implementation
+// summary: Implements the FakeUdevLoader test backend, including fake udev device, enumerate and monitor structs that simulate libudev behavior in unit tests.
+// ---
+
 #include "device/udev_linux/fake_udev_loader.h"
 
 #include <algorithm>

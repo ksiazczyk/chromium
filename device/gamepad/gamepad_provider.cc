@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GamepadProvider implementation
+// summary: Implements the gamepad provider that polls data fetchers on a background thread, detects input changes, and publishes gamepad state to shared memory.
+// ---
+
 #include "device/gamepad/gamepad_provider.h"
 
 #include <stddef.h>

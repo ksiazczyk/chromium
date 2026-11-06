@@ -1,0 +1,4 @@
+# Docerion header of fido_strings_nl.xtb.
+type: data
+title: FIDO strings in Dutch
+summary: Dutch translation bundle with the FIDO string for verifying your identity in an app, using an APP_NAME placeholder.

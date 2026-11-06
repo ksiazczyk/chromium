@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Simulated gamepad parameter structure
+// summary: Declares SimulatedGamepadParams, which configures a simulated gamepad's name, vendor and product IDs, mapping, input bounds, button types, and vibration support.
+// ---
+
 #ifndef DEVICE_GAMEPAD_SIMULATED_GAMEPAD_PARAMS_H_
 #define DEVICE_GAMEPAD_SIMULATED_GAMEPAD_PARAMS_H_
 

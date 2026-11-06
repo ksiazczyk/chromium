@@ -1,0 +1,4 @@
+# Docerion header of fido_strings_fa.xtb.
+type: data
+title: Persian FIDO strings translation bundle
+summary: XML translation bundle providing the Persian FIDO string for verifying your identity in an app.

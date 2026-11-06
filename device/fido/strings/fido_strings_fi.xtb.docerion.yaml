@@ -1,0 +1,4 @@
+# Docerion header of fido_strings_fi.xtb.
+type: data
+title: Finnish FIDO strings translation bundle
+summary: XML translation bundle providing the Finnish FIDO string for verifying your identity in an app.

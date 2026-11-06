@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac GameController data fetcher header
+// summary: Declares GameControllerDataFetcherMac, the macOS GamepadDataFetcher built on the GameController framework, including haptics, player index, and polling task runner members.
+// ---
+
 #ifndef DEVICE_GAMEPAD_GAME_CONTROLLER_DATA_FETCHER_MAC_H_
 #define DEVICE_GAMEPAD_GAME_CONTROLLER_DATA_FETCHER_MAC_H_
 

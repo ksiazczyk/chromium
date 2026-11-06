@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GameInput data fetcher unit tests
+// summary: Unit tests exercising the Windows GameInput data fetcher with fake GameInput environment objects, verifying readings, haptic effects, and shared memory buffer updates.
+// ---
+
 #include "device/gamepad/gameinput_data_fetcher.h"
 
 #include <winerror.h>

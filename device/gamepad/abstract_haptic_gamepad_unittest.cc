@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Abstract haptic gamepad unit tests
+// summary: Tests vibration effect playback, preemption, and reset behavior of AbstractHapticGamepad using a fake gamepad that counts vibration calls.
+// ---
+
 #include "device/gamepad/abstract_haptic_gamepad.h"
 
 #include <memory>

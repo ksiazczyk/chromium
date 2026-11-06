@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Abstract haptic gamepad implementation
+// summary: Implements the base class that schedules dual-rumble and trigger-rumble vibration effects, handling preemption, reset, and shutdown of playing effects.
+// ---
+
 #include "device/gamepad/abstract_haptic_gamepad.h"
 
 #include "base/functional/bind.h"

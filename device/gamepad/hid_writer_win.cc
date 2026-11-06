@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows HID output report writer implementation
+// summary: Implements HidWriterWin, which opens a Windows HID device handle and writes output reports to it using asynchronous I/O.
+// ---
+
 #include "device/gamepad/hid_writer_win.h"
 
 #include <Unknwn.h>

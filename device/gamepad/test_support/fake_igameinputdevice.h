@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeIGameInputDevice header
+// summary: Declares FakeIGameInputDevice, a fake COM implementation of the IGameInputDevice interface with constructors for vendor, product, and rumble configuration.
+// ---
+
 #ifndef DEVICE_GAMEPAD_TEST_SUPPORT_FAKE_IGAMEINPUTDEVICE_H_
 #define DEVICE_GAMEPAD_TEST_SUPPORT_FAKE_IGAMEINPUTDEVICE_H_
 

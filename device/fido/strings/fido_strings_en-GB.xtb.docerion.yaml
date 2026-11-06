@@ -1,0 +1,4 @@
+# Docerion header of fido_strings_en-GB.xtb.
+type: data
+title: British English FIDO strings translation bundle
+summary: XML translation bundle with the British English FIDO string for verifying your identity on an app, using the APP_NAME placeholder.

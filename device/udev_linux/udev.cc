@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: libudev function dispatch implementation
+// summary: Implements libudev-style functions that forward every call to the currently active UdevLoader backend.
+// ---
+
 #include "device/udev_linux/udev.h"
 
 #include <stddef.h>

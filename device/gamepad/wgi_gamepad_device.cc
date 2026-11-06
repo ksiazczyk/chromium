@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows Gaming Input gamepad device implementation
+// summary: Implements WgiGamepadDevice vibration control by applying effect parameters to a Windows.Gaming.Input gamepad.
+// ---
+
 #include "device/gamepad/wgi_gamepad_device.h"
 
 #include "base/trace_event/trace_event.h"

@@ -1,0 +1,4 @@
+# Docerion header of fido_strings_es-419.xtb.
+type: data
+title: Latin American Spanish FIDO strings translation bundle
+summary: XML translation bundle with the Latin American Spanish FIDO string for verifying your identity in an app, using the APP_NAME placeholder.

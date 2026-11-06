@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux HID output report writer
+// summary: Writes HID output reports on Linux by writing report bytes to the device file descriptor.
+// ---
+
 #include "device/gamepad/hid_writer_linux.h"
 
 #include <unistd.h>

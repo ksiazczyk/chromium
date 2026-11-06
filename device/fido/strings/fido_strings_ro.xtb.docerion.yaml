@@ -1,0 +1,4 @@
+# Docerion header of fido_strings_ro.xtb.
+type: data
+title: FIDO strings in Romanian
+summary: Romanian translation bundle for the FIDO message about verifying the user's identity in an app.

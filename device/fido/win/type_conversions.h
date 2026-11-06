@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows WebAuthn type conversion declarations
+// summary: Declares functions converting between Chromium FIDO structures and Windows WebAuthn API types, including credential responses, transports, credential hints, and error name to status mappings.
+// ---
+
 #ifndef DEVICE_FIDO_WIN_TYPE_CONVERSIONS_H_
 #define DEVICE_FIDO_WIN_TYPE_CONVERSIONS_H_
 

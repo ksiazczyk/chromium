@@ -1,0 +1,4 @@
+# Docerion header of fido_strings_lo.xtb.
+type: data
+title: FIDO strings translation bundle (Lao)
+summary: XML translation bundle providing the Lao localization of the FIDO string that asks users to verify their identity in the app named by the APP_NAME placeholder.

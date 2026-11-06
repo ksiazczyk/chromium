@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GamepadPadStateProvider implementation
+// summary: Implements pad state slot allocation for gamepads from multiple sources, including product identifier claiming, reuse of slots held by unrecognized pads, and mapping and sanitizing of gamepad data.
+// ---
+
 #include "device/gamepad/gamepad_pad_state_provider.h"
 
 #include <cmath>

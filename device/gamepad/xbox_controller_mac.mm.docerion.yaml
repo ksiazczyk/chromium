@@ -1,0 +1,4 @@
+# Docerion header of xbox_controller_mac.mm.
+type: source
+title: Xbox controller implementation for macOS
+summary: Implements USB communication with Xbox 360, Xbox One and Series X controllers on macOS, parsing button data and sending rumble commands.

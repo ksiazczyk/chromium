@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeIGameInput implementation
+// summary: Implements a fake IGameInput COM object that returns mock readings and manages single device and system button callback registrations, with error injection support.
+// ---
+
 #include "device/gamepad/test_support/fake_igameinput.h"
 
 #include "device/gamepad/test_support/fake_gameinput_environment.h"

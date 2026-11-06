@@ -1,0 +1,4 @@
+# Docerion header of gamepad_platform_data_fetcher_mac.mm.
+type: source
+title: Mac gamepad data fetcher implementation
+summary: Implements the macOS HID gamepad data fetcher with IOHIDManager device matching, plug and unplug callbacks and value change handling for buttons and axes.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeIGamepad implementation
+// summary: Implements a fake WinRT IGamepad returning simulated readings, vibration state, and paddle button labels, with error injection via the fake WGI environment.
+// ---
+
 #include "device/gamepad/test_support/fake_igamepad.h"
 
 #include "base/containers/flat_map.h"

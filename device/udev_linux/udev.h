@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: libudev-adapted API declarations
+// summary: Declares the libudev-adapted function API exported by the udev_linux component, including a list entry foreach macro and opaque struct forward declarations.
+// ---
+
 #ifndef DEVICE_UDEV_LINUX_UDEV_H_
 #define DEVICE_UDEV_LINUX_UDEV_H_
 

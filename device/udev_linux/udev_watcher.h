@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UdevWatcher class declaration
+// summary: Declares the UdevWatcher class, its Observer interface for device added, removed and changed events, and a Filter for subsystem and devtype matching.
+// ---
+
 #ifndef DEVICE_UDEV_LINUX_UDEV_WATCHER_H_
 #define DEVICE_UDEV_LINUX_UDEV_WATCHER_H_
 

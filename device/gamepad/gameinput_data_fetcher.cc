@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows GameInput data fetcher implementation
+// summary: Implements the Windows GameInput API data fetcher, loading gameinput.dll, skipping devices handled by dedicated fetchers, and recording initialization and error metrics.
+// ---
+
 #include "device/gamepad/gameinput_data_fetcher.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GamepadMappingsTest
+// summary: Robolectric test suite verifying no regressions in Android gamepad button and axis mappings for controllers such as NVIDIA Shield, Xbox, and DualShock devices.
+// ---
+
 package org.chromium.device.gamepad;
 
 import static org.hamcrest.MatcherAssert.assertThat;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows XInput data fetcher header
+// summary: Declares XInputDataFetcherWin, the GamepadDataFetcher that reads XInput gamepad state on Windows and exposes test hooks for the XInput functions.
+// ---
+
 #ifndef DEVICE_GAMEPAD_XINPUT_DATA_FETCHER_WIN_H_
 #define DEVICE_GAMEPAD_XINPUT_DATA_FETCHER_WIN_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake IRawGameController implementation
+// summary: Implements the fake IRawGameController WinRT interface, returning hardware IDs and display name while honoring injected test error codes.
+// ---
+
 #include "device/gamepad/test_support/fake_iraw_game_controller.h"
 
 #include "base/notimplemented.h"

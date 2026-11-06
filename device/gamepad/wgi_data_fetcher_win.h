@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows Gaming Input data fetcher header
+// summary: Declares WgiDataFetcherWin, the Windows.Gaming.Input gamepad data fetcher with initialization state and test hooks for a fake activation factory.
+// ---
+
 #ifndef DEVICE_GAMEPAD_WGI_DATA_FETCHER_WIN_H_
 #define DEVICE_GAMEPAD_WGI_DATA_FETCHER_WIN_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dualshock 4 controller implementation
+// summary: Implements parsing of Dualshock 4 USB and Bluetooth input reports, touchpad data, checksums, and vibration output reports.
+// ---
+
 #include "device/gamepad/dualshock4_controller.h"
 
 #include <algorithm>

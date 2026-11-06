@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GamepadDeviceMac interface for macOS gamepad devices
+// summary: Declares the GamepadDeviceMac class that polls gamepad state through the raw HID interface and drives haptics via the ForceFeedback framework on macOS.
+// ---
+
 #ifndef DEVICE_GAMEPAD_GAMEPAD_DEVICE_MAC_H_
 #define DEVICE_GAMEPAD_GAMEPAD_DEVICE_MAC_H_
 

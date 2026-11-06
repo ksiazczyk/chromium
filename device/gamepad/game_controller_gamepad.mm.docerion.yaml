@@ -1,0 +1,4 @@
+# Docerion header of game_controller_gamepad.mm.
+type: source
+title: GameController gamepad device implementation
+summary: Implements GameControllerGamepad, mapping GCController input to gamepad state and driving CoreHaptics vibration with exception-safe haptic player management.

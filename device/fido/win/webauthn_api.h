@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows WebAuthn API wrapper interface
+// summary: Declares the WinWebAuthnApi interface wrapping the native Windows WebAuthn API, with availability checks, scoped overrides, and blocking credential request helpers.
+// ---
+
 #ifndef DEVICE_FIDO_WIN_WEBAUTHN_API_H_
 #define DEVICE_FIDO_WIN_WEBAUTHN_API_H_
 

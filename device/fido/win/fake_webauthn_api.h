@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake Windows WebAuthn API class declaration
+// summary: Declares FakeWinWebAuthnApi, a test fake replacing the real Windows WebAuthn API with injectable credentials and configurable behaviour for tests.
+// ---
+
 #ifndef DEVICE_FIDO_WIN_FAKE_WEBAUTHN_API_H_
 #define DEVICE_FIDO_WIN_FAKE_WEBAUTHN_API_H_
 

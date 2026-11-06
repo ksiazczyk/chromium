@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'GamepadDevice: per-device gamepad state for Android'
+// summary: Java class that stores state for a single connected Android gamepad, including axes, buttons, device IDs and rumble vibration handling.
+// ---
+
 package org.chromium.device.gamepad;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

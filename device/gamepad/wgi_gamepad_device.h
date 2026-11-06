@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows Gaming Input gamepad device header
+// summary: Declares WgiGamepadDevice, an AbstractHapticGamepad wrapper around a Windows.Gaming.Input IGamepad for haptic effects.
+// ---
+
 #ifndef DEVICE_GAMEPAD_WGI_GAMEPAD_DEVICE_H_
 #define DEVICE_GAMEPAD_WGI_GAMEPAD_DEVICE_H_
 

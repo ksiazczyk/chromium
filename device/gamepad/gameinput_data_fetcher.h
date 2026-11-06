@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows GameInput data fetcher header
+// summary: Declares GameInputDataFetcher, the Windows GamepadDataFetcher targeting the GameInput v0 API with guide button callbacks and test overrides for creation and device maps.
+// ---
+
 #ifndef DEVICE_GAMEPAD_GAMEINPUT_DATA_FETCHER_H_
 #define DEVICE_GAMEPAD_GAMEINPUT_DATA_FETCHER_H_
 

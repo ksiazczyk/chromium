@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gamepad consumer interface
+// summary: Abstract interface notifying clients about gamepad connection, disconnection and raw input changes.
+// ---
+
 #ifndef DEVICE_GAMEPAD_GAMEPAD_CONSUMER_H_
 #define DEVICE_GAMEPAD_GAMEPAD_CONSUMER_H_
 

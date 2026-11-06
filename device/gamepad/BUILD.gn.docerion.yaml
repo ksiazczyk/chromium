@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Gamepad component build configuration
+summary: GN build file defining the device_gamepad component with its sources, dependencies, and platform-specific gamepad code for Windows, Linux, Android, Apple, and more.

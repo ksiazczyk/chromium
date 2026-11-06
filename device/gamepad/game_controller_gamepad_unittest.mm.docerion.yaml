@@ -1,0 +1,4 @@
+# Docerion header of game_controller_gamepad_unittest.mm.
+type: test
+title: GameController gamepad unit tests
+summary: Unit tests using OCMock to verify GameControllerGamepad vibration and shutdown do not crash when CoreHaptics throws exceptions after engine shutdown or disconnect.

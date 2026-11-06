@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows FIDO utility declarations
+// summary: Declares biometric availability lookup, remote desktop session detection, and scoped override classes that let tests fake these values.
+// ---
+
 #ifndef DEVICE_FIDO_WIN_UTIL_H_
 #define DEVICE_FIDO_WIN_UTIL_H_
 

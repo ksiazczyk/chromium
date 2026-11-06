@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GamepadProvider class declaration
+// summary: Declares the GamepadProvider class and GamepadChangeClient interface for polling gamepads, sharing state, vibration effects, and simulated gamepads.
+// ---
+
 #ifndef DEVICE_GAMEPAD_GAMEPAD_PROVIDER_H_
 #define DEVICE_GAMEPAD_GAMEPAD_PROVIDER_H_
 

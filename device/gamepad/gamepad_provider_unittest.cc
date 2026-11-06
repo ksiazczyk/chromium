@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GamepadProvider unit tests
+// summary: Unit tests for GamepadProvider covering polling, shared memory updates, user gesture callbacks, and raw input change detection.
+// ---
+
 #include "device/gamepad/gamepad_provider.h"
 
 #include <memory>

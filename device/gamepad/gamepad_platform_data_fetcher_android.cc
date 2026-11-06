@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android gamepad data fetcher implementation
+// summary: Implements the Android gamepad data fetcher, including a manually assessed table of gamepads known to have standard mapping per Android SDK version and JNI-based device handling.
+// ---
+
 #include "device/gamepad/gamepad_platform_data_fetcher_android.h"
 
 #include <stddef.h>

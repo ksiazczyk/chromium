@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GamepadSharedBuffer implementation
+// summary: Implements the shared memory buffer that stores gamepad hardware state with seqlock-protected writes for low-latency cross-process reading.
+// ---
+
 #include "device/gamepad/gamepad_shared_buffer.h"
 
 #include <memory>

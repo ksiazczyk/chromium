@@ -1,0 +1,4 @@
+# Docerion header of gamepad_device_mac.mm.
+type: source
+title: GamepadDeviceMac implementation for macOS gamepad devices
+summary: Implements GamepadDeviceMac, mapping HID elements to buttons and axes, normalizing axis values, detecting bus type and issuing vibration effects on macOS.

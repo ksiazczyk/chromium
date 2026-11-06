@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GamepadService unit tests
+// summary: Unit tests for GamepadService using mock consumers and data fetchers to verify connection events, user gestures, and simulated gamepads.
+// ---
+
 #include "device/gamepad/gamepad_service.h"
 
 #include <string.h>

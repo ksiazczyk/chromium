@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Gamepad test helpers declarations
+// summary: Declares the mock gamepad data fetcher and test helper classes used to construct a GamepadService with a mock data source in tests.
+// ---
+
 #ifndef DEVICE_GAMEPAD_GAMEPAD_TEST_HELPERS_H_
 #define DEVICE_GAMEPAD_GAMEPAD_TEST_HELPERS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Real libudev loader implementation
+// summary: Implements Udev1Loader by forwarding each virtual method to the corresponding real libudev function.
+// ---
+
 #include "device/udev_linux/udev1_loader.h"
 
 #include <libudev.h>

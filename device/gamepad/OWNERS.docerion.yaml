@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Gamepad directory owners
+summary: Lists code owners for the gamepad directory, with per-file owner rules for WGI, GameInput, and test support files.

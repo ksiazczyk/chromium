@@ -1,0 +1,4 @@
+# Docerion header of fido_strings_sr.xtb.
+type: data
+title: FIDO strings in Serbian (Cyrillic)
+summary: Serbian Cyrillic translation bundle for the FIDO message about verifying the user's identity in an app.

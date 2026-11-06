@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows FIDO utility implementations
+// summary: Implements cached biometric availability checks via the Windows UserConsentVerifier, remote desktop session detection, and scoped overrides used for testing.
+// ---
+
 #include "device/fido/win/util.h"
 
 #include <windows.foundation.h>

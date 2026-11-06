@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux udev gamepad device declaration
+// summary: Declares UdevGamepadLinux, which describes a Linux gamepad device node by interface type, index, path, and syspath prefix, with a factory method from udev devices.
+// ---
+
 #ifndef DEVICE_GAMEPAD_UDEV_GAMEPAD_LINUX_H_
 #define DEVICE_GAMEPAD_UDEV_GAMEPAD_LINUX_H_
 

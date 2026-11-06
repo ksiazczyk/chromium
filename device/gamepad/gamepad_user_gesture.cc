@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gamepad user gesture detection
+// summary: Detects whether any connected gamepad shows a user gesture through pressed buttons or axis movement beyond a deadzone threshold.
+// ---
+
 #include "device/gamepad/gamepad_user_gesture.h"
 
 #include <math.h>

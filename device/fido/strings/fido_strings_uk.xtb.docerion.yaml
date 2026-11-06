@@ -1,0 +1,4 @@
+# Docerion header of fido_strings_uk.xtb.
+type: data
+title: FIDO strings in Ukrainian
+summary: Ukrainian translation bundle for FIDO, providing the localized verify-your-identity string with the app name placeholder.

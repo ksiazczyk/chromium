@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows Raw Input gamepad data fetcher implementation
+// summary: Implements the Windows Raw Input data fetcher that registers for raw HID input, enumerates gamepad devices, and reads pad state for connected controllers.
+// ---
+
 #include "device/gamepad/raw_input_data_fetcher_win.h"
 
 #include <stddef.h>

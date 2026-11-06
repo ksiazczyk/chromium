@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped pointers for udev objects
+// summary: Defines unique_ptr wrappers with deleters that release udev, enumerate, device and monitor objects through their unref functions.
+// ---
+
 #ifndef DEVICE_UDEV_LINUX_SCOPED_UDEV_H_
 #define DEVICE_UDEV_LINUX_SCOPED_UDEV_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GamepadDeviceTest
+// summary: JUnit test that verifies the GamepadDevice relevant keycodes array is sorted in ascending order.
+// ---
+
 package org.chromium.device.gamepad;
 
 import org.junit.Assert;

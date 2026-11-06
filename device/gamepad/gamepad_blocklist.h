@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gamepad blocklist header
+// summary: Declares GamepadIsExcluded, used to exclude devices exposing gamepad-like HID usages from being treated as gamepads.
+// ---
+
 #ifndef DEVICE_GAMEPAD_GAMEPAD_BLOCKLIST_H_
 #define DEVICE_GAMEPAD_GAMEPAD_BLOCKLIST_H_
 

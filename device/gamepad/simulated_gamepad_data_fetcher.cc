@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Simulated gamepad data fetcher implementation
+// summary: Implements a data fetcher that manages simulated gamepads, initializes their state from parameters, applies simulated inputs, and handles vibration effects.
+// ---
+
 #include "device/gamepad/simulated_gamepad_data_fetcher.h"
 
 #include <stddef.h>

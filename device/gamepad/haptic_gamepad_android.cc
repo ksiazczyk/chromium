@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android haptic gamepad implementation
+// summary: Implements vibration control for Android gamepads by forwarding haptic effect requests to the Android platform data fetcher.
+// ---
+
 #include "device/gamepad/haptic_gamepad_android.h"
 
 #include "device/gamepad/gamepad_platform_data_fetcher_android.h"

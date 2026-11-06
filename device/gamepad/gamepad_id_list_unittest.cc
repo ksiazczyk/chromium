@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for gamepad ID list uniqueness
+// summary: Verifies that the known gamepad table contains no duplicate vendor/product pairs and that no two devices map to the same GamepadId.
+// ---
+
 #include "device/gamepad/gamepad_id_list.h"
 
 #include <string_view>

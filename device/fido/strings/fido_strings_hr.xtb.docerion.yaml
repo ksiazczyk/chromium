@@ -1,0 +1,4 @@
+# Docerion header of fido_strings_hr.xtb.
+type: data
+title: Croatian FIDO strings translation bundle
+summary: XML translation bundle providing the Croatian FIDO string for verifying your identity in an app.

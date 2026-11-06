@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gamepad data fetcher interface
+// summary: Abstract interface for platform-specific gamepad data fetching, defining haptics support, pad state access and timestamp helpers.
+// ---
+
 #ifndef DEVICE_GAMEPAD_GAMEPAD_DATA_FETCHER_H_
 #define DEVICE_GAMEPAD_GAMEPAD_DATA_FETCHER_H_
 

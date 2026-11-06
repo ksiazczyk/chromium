@@ -1,0 +1,4 @@
+# Docerion header of fido_strings_cy.xtb.
+type: data
+title: Welsh FIDO strings translation bundle
+summary: XML translation bundle with the Welsh FIDO string for verifying your identity on an app, using the APP_NAME placeholder.

@@ -1,0 +1,4 @@
+# Docerion header of gamepad_standard_mappings_mac.mm.
+type: source
+title: Gamepad standard mappings for macOS
+summary: Implements controller-to-standard-gamepad mappings for macOS, covering Xbox 360, Xbox One S firmware variants, and Stadia controllers.

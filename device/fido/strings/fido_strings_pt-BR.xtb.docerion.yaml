@@ -1,0 +1,4 @@
+# Docerion header of fido_strings_pt-BR.xtb.
+type: data
+title: FIDO strings in Brazilian Portuguese
+summary: Brazilian Portuguese translation bundle with the FIDO string for verifying your identity in an app, using an APP_NAME placeholder.

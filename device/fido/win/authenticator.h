@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows WebAuthn API authenticator class declaration
+// summary: Declares WinWebAuthnApiAuthenticator, a FidoAuthenticator that forwards WebAuthn requests to external authenticators via the native Windows WebAuthentication API.
+// ---
+
 #ifndef DEVICE_FIDO_WIN_AUTHENTICATOR_H_
 #define DEVICE_FIDO_WIN_AUTHENTICATOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake IGamepadStatics implementation
+// summary: Implements the fake IGamepadStatics WinRT interface, managing gamepad added and removed event handlers and simulating gamepad connection and disconnection for tests.
+// ---
+
 #include "device/gamepad/test_support/fake_igamepad_statics.h"
 
 #include <vector>

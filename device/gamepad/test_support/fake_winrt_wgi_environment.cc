@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake WinRT WGI environment implementation
+// summary: Implements FakeWinrtWgiEnvironment, overriding the WinRT activation factory to supply fake gamepad statics and injecting simulated error codes for tests.
+// ---
+
 #include "device/gamepad/test_support/fake_winrt_wgi_environment.h"
 
 #include "base/notimplemented.h"

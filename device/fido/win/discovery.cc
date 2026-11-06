@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows WebAuthn authenticator discovery implementation
+// summary: Implements WinWebAuthnApiAuthenticatorDiscovery, which asynchronously adds a Windows WebAuthn API authenticator when discovery starts.
+// ---
+
 #include "device/fido/win/discovery.h"
 
 #include "base/check.h"

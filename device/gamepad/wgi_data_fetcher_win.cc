@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows Gaming Input data fetcher implementation
+// summary: Implements the Windows.Gaming.Input gamepad data fetcher, enumerating gamepads and letting dedicated fetchers handle Nintendo and DualShock4 devices.
+// ---
+
 #include "device/gamepad/wgi_data_fetcher_win.h"
 
 #include <XInput.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Windows WebAuthn type conversions
+// summary: Unit tests verifying conversion of Windows WebAuthn attestation and assertion structures into Chromium FIDO response types across transports and invalid input cases.
+// ---
+
 #include "device/fido/win/type_conversions.h"
 
 #include "base/containers/to_vector.h"

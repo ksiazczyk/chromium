@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HID output report writer interface
+// summary: Defines the HidWriter interface for writing output reports to a single HID device.
+// ---
+
 #ifndef DEVICE_GAMEPAD_HID_WRITER_H_
 #define DEVICE_GAMEPAD_HID_WRITER_H_
 

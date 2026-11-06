@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Windows Gaming Input data fetcher
+// summary: Tests WgiDataFetcherWin gamepad enumeration, mappings, haptics and error handling using fake Windows.Gaming.Input test support classes.
+// ---
+
 #include "device/gamepad/wgi_data_fetcher_win.h"
 
 #include <Windows.Gaming.Input.h>

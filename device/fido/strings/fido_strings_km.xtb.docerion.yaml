@@ -1,0 +1,4 @@
+# Docerion header of fido_strings_km.xtb.
+type: data
+title: FIDO strings in Khmer
+summary: Khmer translation bundle with the FIDO string for verifying the user's identity in a named app.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows WebAuthn API wrapper implementation
+// summary: Implements the WinWebAuthnApi wrapper around webauthn.dll, covering make credential, get assertion, cancellation, platform credential management, and HMAC salt conversion.
+// ---
+
 #include "device/fido/win/webauthn_api.h"
 
 #include <algorithm>

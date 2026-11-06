@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows HID output report writer class declaration
+// summary: Declares HidWriterWin, a Windows implementation of the HidWriter interface that writes output reports to a HID device handle.
+// ---
+
 #ifndef DEVICE_GAMEPAD_HID_WRITER_WIN_H_
 #define DEVICE_GAMEPAD_HID_WRITER_WIN_H_
 

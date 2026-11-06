@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Xbox data fetcher for macOS implementation
+// summary: Implements the macOS Xbox data fetcher that detects supported USB Xbox controllers and manages haptic effects.
+// ---
+
 #include "device/gamepad/xbox_data_fetcher_mac.h"
 
 #include <CoreFoundation/CoreFoundation.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake udev loader interface
+// summary: Declares the FakeUdevLoader class, a UdevLoader subclass that lets tests add fake udev devices and reset the fake state.
+// ---
+
 #ifndef DEVICE_UDEV_LINUX_FAKE_UDEV_LOADER_H_
 #define DEVICE_UDEV_LINUX_FAKE_UDEV_LOADER_H_
 

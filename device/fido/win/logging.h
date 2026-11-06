@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Declarations of logging operators for WebAuthn structures
+// summary: Declares ostream operator overloads for logging Windows WebAuthn API request, response and entity structures.
+// ---
+
 #ifndef DEVICE_FIDO_WIN_LOGGING_H_
 #define DEVICE_FIDO_WIN_LOGGING_H_
 

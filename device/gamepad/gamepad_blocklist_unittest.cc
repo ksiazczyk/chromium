@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Gamepad blocklist unit tests
+// summary: Unit tests verifying that known gamepads are not excluded while blocked devices and devices from blocked vendors are rejected by GamepadIsExcluded.
+// ---
+
 #include "device/gamepad/gamepad_blocklist.h"
 
 #include <array>

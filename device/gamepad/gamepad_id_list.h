@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GamepadId enum and ID list declarations
+// summary: Declares the GamepadId enumeration and GamepadIdList singleton that map USB or Bluetooth vendor and product IDs to recognized gamepad identifiers.
+// ---
+
 #ifndef DEVICE_GAMEPAD_GAMEPAD_ID_LIST_H_
 #define DEVICE_GAMEPAD_GAMEPAD_ID_LIST_H_
 

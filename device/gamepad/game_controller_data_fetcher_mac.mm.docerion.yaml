@@ -1,0 +1,4 @@
+# Docerion header of game_controller_data_fetcher_mac.mm.
+type: source
+title: Mac GameController data fetcher implementation
+summary: Implements the macOS GameController data fetcher, handling controller connect and disconnect notifications, pad state updates, and haptic effect playback.

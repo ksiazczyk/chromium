@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake IGamepadStatics class declaration
+// summary: Declares FakeIGamepadStatics, a WinRT runtime class faking IGamepadStatics and IRawGameControllerStatics with methods to simulate gamepad connections and failures.
+// ---
+
 #ifndef DEVICE_GAMEPAD_TEST_SUPPORT_FAKE_IGAMEPAD_STATICS_H_
 #define DEVICE_GAMEPAD_TEST_SUPPORT_FAKE_IGAMEPAD_STATICS_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of fido_strings_mk.xtb.
+type: data
+title: FIDO strings translation bundle (Macedonian)
+summary: XML translation bundle providing the Macedonian localization of the FIDO string that asks users to confirm their identity in the app named by the APP_NAME placeholder.

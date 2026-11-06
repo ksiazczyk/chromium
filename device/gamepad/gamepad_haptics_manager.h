@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gamepad haptics manager Mojo interface declaration
+// summary: Declares GamepadHapticsManager, a self-owned Mojo receiver that dispatches gamepad haptic effect requests to the GamepadService.
+// ---
+
 #ifndef DEVICE_GAMEPAD_GAMEPAD_HAPTICS_MANAGER_H_
 #define DEVICE_GAMEPAD_GAMEPAD_HAPTICS_MANAGER_H_
 

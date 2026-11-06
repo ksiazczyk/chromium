@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Real libudev loader interface
+// summary: Declares Udev1Loader, the UdevLoader implementation backed by the real libudev library.
+// ---
+
 #ifndef DEVICE_UDEV_LINUX_UDEV1_LOADER_H_
 #define DEVICE_UDEV_LINUX_UDEV1_LOADER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Standard gamepad mapping helpers
+// summary: Implements helper functions for mapping raw gamepad inputs to the standard gamepad layout, including axis-to-button conversion and D-pad mapping.
+// ---
+
 #include "device/gamepad/gamepad_standard_mappings.h"
 
 #include <algorithm>

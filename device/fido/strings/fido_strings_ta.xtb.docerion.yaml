@@ -1,0 +1,4 @@
+# Docerion header of fido_strings_ta.xtb.
+type: data
+title: FIDO strings in Tamil
+summary: Tamil translation bundle for FIDO, providing the localized verify-your-identity string with the app name placeholder.

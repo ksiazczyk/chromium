@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake Windows WebAuthn API implementation
+// summary: Implements FakeWinWebAuthnApi, a test fake standing in for webauthn.dll that supports injecting credentials, PRF evaluation, large blobs and RDP behaviour.
+// ---
+
 #include "device/fido/win/fake_webauthn_api.h"
 
 #include <stdint.h>

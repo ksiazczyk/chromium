@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Xbox data fetcher for macOS header
+// summary: Declares XboxDataFetcher, a macOS gamepad data fetcher that tracks connected Xbox controllers via IOKit notifications.
+// ---
+
 #ifndef DEVICE_GAMEPAD_XBOX_DATA_FETCHER_MAC_H_
 #define DEVICE_GAMEPAD_XBOX_DATA_FETCHER_MAC_H_
 

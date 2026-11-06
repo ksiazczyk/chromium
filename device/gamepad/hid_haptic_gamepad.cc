@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HID haptic gamepad implementation
+// summary: Implements dual-rumble vibration over HID output reports for supported gamepads such as the Stadia controller and XSkills Gamecube adapter.
+// ---
+
 #include "device/gamepad/hid_haptic_gamepad.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Dualshock 4 controller unit tests
+// summary: Verifies the vibration output reports sent over USB and Bluetooth by the Dualshock 4 controller using a fake HID writer.
+// ---
+
 #include "device/gamepad/dualshock4_controller.h"
 
 #include <memory>

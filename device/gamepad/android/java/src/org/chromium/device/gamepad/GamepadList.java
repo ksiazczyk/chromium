@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'GamepadList: connected gamepad device list for Android'
+// summary: Java class that tracks connected gamepad devices on Android and feeds their input data to the Gamepad API via JNI.
+// ---
+
 package org.chromium.device.gamepad;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

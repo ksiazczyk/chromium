@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Gamepad directory include rules
+summary: Defines the header include paths that code in the device gamepad directory is allowed to depend on.

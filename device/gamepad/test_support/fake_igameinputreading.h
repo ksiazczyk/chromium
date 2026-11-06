@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeIGameInputReading header
+// summary: Declares FakeIGameInputReading, a fake COM implementation of IGameInputReading that carries a GameInputGamepadState for tests.
+// ---
+
 #ifndef DEVICE_GAMEPAD_TEST_SUPPORT_FAKE_IGAMEINPUTREADING_H_
 #define DEVICE_GAMEPAD_TEST_SUPPORT_FAKE_IGAMEINPUTREADING_H_
 

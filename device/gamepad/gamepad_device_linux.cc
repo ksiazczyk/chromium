@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux gamepad device implementation
+// summary: Implements Linux gamepad device support using udev, evdev and hidraw, including bus type detection, rumble capability and special key checks.
+// ---
+
 #include "device/gamepad/gamepad_device_linux.h"
 
 #include <fcntl.h>

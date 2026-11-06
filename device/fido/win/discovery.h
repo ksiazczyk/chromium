@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows WebAuthn authenticator discovery class declaration
+// summary: Declares WinWebAuthnApiAuthenticatorDiscovery, a FidoDiscoveryBase that instantiates the authenticator forwarding requests to the Windows WebAuthn API.
+// ---
+
 #ifndef DEVICE_FIDO_WIN_DISCOVERY_H_
 #define DEVICE_FIDO_WIN_DISCOVERY_H_
 

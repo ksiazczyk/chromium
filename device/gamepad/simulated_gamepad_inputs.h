@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Simulated gamepad input structures
+// summary: Declares structures describing simulated gamepad buttons, touch points, and batched input frames of axis, button, and touch updates.
+// ---
+
 #ifndef DEVICE_GAMEPAD_SIMULATED_GAMEPAD_INPUTS_H_
 #define DEVICE_GAMEPAD_SIMULATED_GAMEPAD_INPUTS_H_
 
