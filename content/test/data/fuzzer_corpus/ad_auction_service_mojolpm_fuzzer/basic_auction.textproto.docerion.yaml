@@ -1,0 +1,4 @@
+# Docerion header of basic_auction.textproto.
+type: test
+title: Basic auction fuzzer corpus for ad auction service MojoLPM fuzzer
+summary: 'Fuzzer corpus input that drives a basic ad auction: creates the service, loads a network script with generateBid, joins an interest group, and runs the auction.'

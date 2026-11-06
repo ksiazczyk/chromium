@@ -1,0 +1,4 @@
+# Docerion header of page_with_srcdoc_frame.html.
+type: test
+title: Srcdoc frame test page
+summary: Minimal test page containing a single iframe whose srcdoc content is the text hello.

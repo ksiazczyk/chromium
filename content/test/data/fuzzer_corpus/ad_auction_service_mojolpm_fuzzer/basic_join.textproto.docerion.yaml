@@ -1,0 +1,4 @@
+# Docerion header of basic_join.textproto.
+type: test
+title: Basic interest group join fuzzer corpus input
+summary: Fuzzer corpus input that creates an ad auction service and joins a sample interest group named shoes owned by owner.test.

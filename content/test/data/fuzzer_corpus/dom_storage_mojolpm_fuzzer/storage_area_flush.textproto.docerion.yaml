@@ -1,0 +1,4 @@
+# Docerion header of storage_area_flush.textproto.
+type: test
+title: Fuzzer corpus seed for the storage flush and commit pipeline
+summary: Fuzzer corpus seed exercising the flush and commit pipeline with flush_storage, IO drains and GetAll reads after Put and Delete operations on local and session areas.

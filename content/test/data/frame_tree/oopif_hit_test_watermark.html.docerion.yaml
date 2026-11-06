@@ -1,0 +1,4 @@
+# Docerion header of oopif_hit_test_watermark.html.
+type: test
+title: OOPIF hit test watermark page
+summary: Test page overlaying a translucent watermark div on a composited cross-origin iframe for hit testing.

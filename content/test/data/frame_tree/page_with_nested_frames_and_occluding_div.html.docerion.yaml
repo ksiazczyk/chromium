@@ -1,0 +1,4 @@
+# Docerion header of page_with_nested_frames_and_occluding_div.html.
+type: test
+title: Test page with nested frames and an occluding div
+summary: Test page layering a blue div over a positioned cross-origin iframe to test occlusion and hit-testing.

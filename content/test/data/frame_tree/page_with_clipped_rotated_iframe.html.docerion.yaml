@@ -1,0 +1,4 @@
+# Docerion header of page_with_clipped_rotated_iframe.html.
+type: test
+title: Page with clipped rotated iframe
+summary: Test page embedding a cross-site iframe rotated 45 degrees inside an overflow-hidden div, for frame tree rendering tests.

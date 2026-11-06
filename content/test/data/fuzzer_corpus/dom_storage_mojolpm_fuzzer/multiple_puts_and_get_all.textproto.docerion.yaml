@@ -1,0 +1,4 @@
+# Docerion header of multiple_puts_and_get_all.textproto.
+type: test
+title: Fuzzer corpus seed for interleaved Puts, GetAll and thread drains
+summary: Fuzzer corpus seed issuing multiple Puts and GetAll on local and session storage with UI and IO run_thread drains interleaved to exercise scheduling.

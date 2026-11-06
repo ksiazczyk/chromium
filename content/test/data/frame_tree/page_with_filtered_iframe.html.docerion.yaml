@@ -1,0 +1,4 @@
+# Docerion header of page_with_filtered_iframe.html.
+type: test
+title: Page with filtered iframe
+summary: Test page applying a drop-shadow filter to a cross-site iframe for rendering tests.

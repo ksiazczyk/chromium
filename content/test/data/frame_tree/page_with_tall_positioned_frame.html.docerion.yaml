@@ -1,0 +1,4 @@
+# Docerion header of page_with_tall_positioned_frame.html.
+type: test
+title: Tall positioned frame test page
+summary: Test page containing an absolutely positioned 10000-pixel-tall cross-origin iframe.

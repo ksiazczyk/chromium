@@ -1,0 +1,4 @@
+# Docerion header of all.txt.
+type: test
+title: Fuzzer corpus entry with all Clear-Site-Data types
+summary: Fuzzer corpus input for Clear-Site-Data header parsing that lists the cookies, storage and cache types together.

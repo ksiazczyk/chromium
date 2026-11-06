@@ -1,0 +1,4 @@
+# Docerion header of page_with_post_message_frames.html.
+type: test
+title: Test page for postMessage with same-site and cross-site frames
+summary: Test page with two iframes that exchange postMessage replies, one same-site and one cross-site.

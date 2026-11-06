@@ -1,0 +1,4 @@
+# Docerion header of gpc_iframe.html.
+type: test
+title: GPC iframe test page
+summary: Minimal test page embedding an iframe of empty.html for Global Privacy Control test scenarios.

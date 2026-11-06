@@ -1,0 +1,4 @@
+# Docerion header of multi_area_operations.textproto.
+type: test
+title: Fuzzer corpus seed for multi-area local and session storage operations
+summary: Fuzzer corpus seed combining multiple storage area bindings across origins and renderers with Put, Delete and GetAll actions for local and session storage.

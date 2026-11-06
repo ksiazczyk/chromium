@@ -1,0 +1,4 @@
+# Docerion header of unknown.txt.
+type: test
+title: Fuzzer corpus entry with unrecognized JSON fields
+summary: Fuzzer corpus input combining the cookies type with an object of unrecognized fields to test Clear-Site-Data parser tolerance.

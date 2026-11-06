@@ -1,0 +1,4 @@
+# Docerion header of gpc_from_worker.html.
+type: test
+title: Dedicated worker GPC test page
+summary: Test page that starts a dedicated worker, optionally from a script URL parameter, and queries Global Privacy Control from it.

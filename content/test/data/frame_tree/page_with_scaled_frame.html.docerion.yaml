@@ -1,0 +1,4 @@
+# Docerion header of page_with_scaled_frame.html.
+type: test
+title: Scaled frame test page
+summary: Test page that renders an iframe inside a div scaled to 0.5 to test scaled frame behavior.

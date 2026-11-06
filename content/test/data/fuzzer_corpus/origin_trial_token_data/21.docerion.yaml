@@ -1,0 +1,4 @@
+# Docerion header of 21.
+type: test
+title: 'Fuzzer corpus 21: token JSON with non-URL origin'
+summary: Fuzzer corpus input with an origin trial token whose origin is a plain string rather than a URL.

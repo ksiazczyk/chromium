@@ -1,0 +1,4 @@
+# Docerion header of oopif_with_padding_and_border.html.
+type: test
+title: OOPIF with padding and border page
+summary: Test page embedding a cross-origin iframe with padding and border to exercise out-of-process iframe geometry.

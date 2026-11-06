@@ -1,0 +1,4 @@
+# Docerion header of page_with_cross_origin_frame_at_half.html.
+type: test
+title: Page with cross-origin frame at half
+summary: Test page placing a very tall cross-origin iframe inside a scrollable div positioned at 60% of the viewport height.

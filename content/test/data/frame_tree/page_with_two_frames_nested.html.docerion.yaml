@@ -1,0 +1,4 @@
+# Docerion header of page_with_two_frames_nested.html.
+type: test
+title: Page with two nested frames
+summary: Test fixture page with two iframes where the cross-site frame loads another cross-site page, creating nested frames.

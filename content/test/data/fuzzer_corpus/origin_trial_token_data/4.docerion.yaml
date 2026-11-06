@@ -1,0 +1,4 @@
+# Docerion header of 4.
+type: test
+title: 'Fuzzer input 4: extra unknown field'
+summary: Fuzzer corpus entry with an extra unknown field in the origin trial token JSON.

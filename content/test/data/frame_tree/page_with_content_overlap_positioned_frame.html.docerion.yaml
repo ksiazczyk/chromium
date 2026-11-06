@@ -1,0 +1,4 @@
+# Docerion header of page_with_content_overlap_positioned_frame.html.
+type: test
+title: Page with content overlap positioned frame
+summary: Test page with an absolutely positioned cross-origin iframe overlapped by a red div to exercise content overlap handling.

@@ -1,0 +1,4 @@
+# Docerion header of 31.
+type: test
+title: 'Fuzzer input 31: string isThirdParty value'
+summary: Fuzzer corpus entry testing a string isThirdParty value in the origin trial token JSON.

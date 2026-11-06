@@ -1,0 +1,4 @@
+# Docerion header of did_generate_cacheable_metadata_origin_b.textproto.
+type: test
+title: MojoLPM fuzzer corpus for did generate cacheable metadata origin B
+summary: Fuzzer corpus input for the code cache host MojoLPM fuzzer that exercises DidGenerateCacheableMetadata with JavaScript cache type for the second test origin.

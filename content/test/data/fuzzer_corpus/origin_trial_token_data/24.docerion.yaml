@@ -1,0 +1,4 @@
+# Docerion header of 24.
+type: test
+title: 'Fuzzer corpus 24: malformed token JSON with unquoted origin key'
+summary: Fuzzer corpus input with malformed JSON where the origin key is unquoted and isSubdomain is true.

@@ -1,0 +1,4 @@
+# Docerion header of 28.
+type: test
+title: 'Fuzzer input 28: third-party origin trial token JSON'
+summary: Fuzzer corpus entry with a WebBluetooth origin trial token marked as third-party for example.com.

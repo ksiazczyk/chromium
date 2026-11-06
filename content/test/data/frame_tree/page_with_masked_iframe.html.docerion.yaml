@@ -1,0 +1,4 @@
+# Docerion header of page_with_masked_iframe.html.
+type: test
+title: Test page with a masked iframe
+summary: Test page with a cross-origin iframe clipped to a circle via clip-path, for masked frame rendering tests.

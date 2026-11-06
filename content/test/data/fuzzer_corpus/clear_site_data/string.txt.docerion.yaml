@@ -1,0 +1,4 @@
+# Docerion header of string.txt.
+type: test
+title: Fuzzer corpus entry with a string instead of a dictionary
+summary: Fuzzer corpus input providing a plain string to exercise Clear-Site-Data parsing of a non-dictionary value.

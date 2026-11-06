@@ -1,0 +1,4 @@
+# Docerion header of page_with_positioned_busy_frame.html.
+type: test
+title: Test page with positioned busy cross-origin frame
+summary: Test page embedding a positioned, slightly rotated cross-origin iframe that loads a busy frame.

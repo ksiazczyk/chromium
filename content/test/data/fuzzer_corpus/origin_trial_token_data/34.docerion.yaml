@@ -1,0 +1,4 @@
+# Docerion header of 34.
+type: test
+title: 'Fuzzer input 34: usage field set to cycle'
+summary: Fuzzer corpus entry adding a usage field set to cycle to the origin trial token JSON.

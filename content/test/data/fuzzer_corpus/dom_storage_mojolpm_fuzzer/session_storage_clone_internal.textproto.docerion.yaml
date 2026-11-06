@@ -1,0 +1,4 @@
+# Docerion header of session_storage_clone_internal.textproto.
+type: test
+title: Fuzzer corpus seed for internal session storage clone branches
+summary: Fuzzer corpus seed driving storage-service internal clone branches including pending targets, deferred binds, kImmediate and on-disk clones plus orphaned pending clones.

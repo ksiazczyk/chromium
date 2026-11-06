@@ -1,0 +1,4 @@
+# Docerion header of page_with_large_scrollable_frame.html.
+type: test
+title: Test page with a large scrollable frame
+summary: Test page with a very tall cross-origin iframe inside a scrollable div, for scrolling tests.

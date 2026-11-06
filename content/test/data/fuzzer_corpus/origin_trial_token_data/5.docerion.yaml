@@ -1,0 +1,4 @@
+# Docerion header of 5.
+type: test
+title: Origin trial token fuzzer input with valid token data
+summary: Fuzzer corpus input containing a well-formed origin trial token JSON object with feature, origin, and expiry fields.

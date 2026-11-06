@@ -1,0 +1,4 @@
+# Docerion header of page_with_iframe_in_div.html.
+type: test
+title: Page with iframe in div
+summary: Test page embedding a cross-site iframe inside a 100x100 pixel div.

@@ -1,0 +1,4 @@
+# Docerion header of hsl.txt.
+type: test
+title: HSL color fuzzer corpus entry
+summary: Fuzzer corpus input containing an HSL color string used to exercise the color parser.

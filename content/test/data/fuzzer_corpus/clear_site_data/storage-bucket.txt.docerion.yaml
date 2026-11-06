@@ -1,0 +1,4 @@
+# Docerion header of storage-bucket.txt.
+type: test
+title: Fuzzer corpus entry for storage with a bucket
+summary: Fuzzer corpus input with a Clear-Site-Data storage type that targets the drafts storage bucket.

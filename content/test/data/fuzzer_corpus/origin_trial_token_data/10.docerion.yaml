@@ -1,0 +1,4 @@
+# Docerion header of 10.
+type: test
+title: Origin trial token fuzzer input 10
+summary: Fuzzer corpus input with a JSON array instead of a token object, exercising malformed input handling.

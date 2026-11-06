@@ -1,0 +1,4 @@
+# Docerion header of frame-detached-in-animationstart-event-samesiteframe.html.
+type: test
+title: Same-site frame detached during CSS animation test page
+summary: Test page running a CSS animation whose iteration listener removes the iframe from the frame tree, reproducing a former crash scenario.

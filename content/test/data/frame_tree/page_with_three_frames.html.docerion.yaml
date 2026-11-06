@@ -1,0 +1,4 @@
+# Docerion header of page_with_three_frames.html.
+type: test
+title: Three-frame test page
+summary: Test page with three named iframes, one cross-site and two same-site, for frame tree tests.

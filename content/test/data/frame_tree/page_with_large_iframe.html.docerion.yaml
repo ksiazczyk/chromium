@@ -1,0 +1,4 @@
+# Docerion header of page_with_large_iframe.html.
+type: test
+title: Test page with a large iframe
+summary: Test page containing an iframe sized to 90 percent of the viewport width and height.

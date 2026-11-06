@@ -1,0 +1,4 @@
+# Docerion header of page_with_iframe_in_multicol.html.
+type: test
+title: Page with iframe in multicol
+summary: Test page placing a cross-site iframe inside a two-column CSS multicol container.

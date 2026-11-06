@@ -1,0 +1,4 @@
+# Docerion header of scrollable_page_with_two_frames.html.
+type: test
+title: Scrollable page with two frames
+summary: Test fixture with a scrollable page containing two iframes and a div positioned far down the page.

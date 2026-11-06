@@ -1,0 +1,4 @@
+# Docerion header of page_with_transformed_iframe.html.
+type: test
+title: Transformed iframe test page
+summary: Test page with a cross-origin iframe rotated 45 degrees to test transformed frame rendering.

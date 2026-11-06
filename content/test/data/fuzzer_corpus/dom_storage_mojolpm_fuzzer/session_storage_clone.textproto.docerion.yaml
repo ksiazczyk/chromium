@@ -1,0 +1,4 @@
+# Docerion header of session_storage_clone.textproto.
+type: test
+title: Fuzzer corpus seed for SessionStorageNamespace Clone
+summary: Fuzzer corpus seed binding a session storage namespace, cloning it to fresh namespace ids and writing data before and after clones.

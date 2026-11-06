@@ -1,0 +1,4 @@
+# Docerion header of page_with_overlapped_iframes.html.
+type: test
+title: Test page with overlapped iframes
+summary: Test page stacking two cross-origin iframes and a div with z-indexes to test overlap and hit-testing.

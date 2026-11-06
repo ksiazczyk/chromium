@@ -1,0 +1,4 @@
+# Docerion header of 17.
+type: test
+title: Origin trial token fuzzer input 17
+summary: Fuzzer corpus input with a numeric origin value to exercise wrong-type handling.

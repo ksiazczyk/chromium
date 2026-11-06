@@ -1,0 +1,4 @@
+# Docerion header of page_with_scaled_large_frames_nested.html.
+type: test
+title: Nested scaled large frames test page
+summary: Test page with a scaled container holding an about:blank iframe and a tall spacer for scrolling tests.

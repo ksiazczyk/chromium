@@ -1,0 +1,4 @@
+# Docerion header of 9.
+type: test
+title: Origin trial token fuzzer input with decimal number
+summary: Fuzzer corpus input containing a decimal number to exercise origin trial token parsing of unexpected JSON values.

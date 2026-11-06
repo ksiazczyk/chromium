@@ -1,0 +1,4 @@
+# Docerion header of oopif_hit_test_layer_squashing.html.
+type: test
+title: OOPIF hit test layer squashing page
+summary: Test page with a composited cross-origin iframe and overlapping positioned layers to exercise hit testing with layer squashing.
