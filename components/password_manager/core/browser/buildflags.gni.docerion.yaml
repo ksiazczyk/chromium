@@ -1,0 +1,4 @@
+# Docerion header of buildflags.gni.
+type: config
+title: Build flags for password manager Android resources
+summary: Defines the password_manager_use_internal_android_resources flag that selects internal Android drawables for branded builds.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Password manager metrics utilities unit tests
+// summary: Unit tests checking UMA histogram and UKM logging for leak dialog metrics and newly saved password metrics.
+// ---
+
 #include "components/password_manager/core/browser/password_manager_metrics_util.h"
 
 #include "base/strings/strcat.h"

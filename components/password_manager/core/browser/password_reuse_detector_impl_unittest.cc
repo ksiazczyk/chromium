@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Password reuse detector implementation unit tests
+// summary: Unit tests for PasswordReuseDetectorImpl covering reuse detection across profile and account stores, Gaia and enterprise password hashes, and domain matching.
+// ---
+
 #include "components/password_manager/core/browser/password_reuse_detector_impl.h"
 
 #include <algorithm>

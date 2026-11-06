@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Leak detection delegate helper implementation
+// summary: Implements asynchronous retrieval of credentials matching a leaked password from profile and account stores and computes the resulting leak details.
+// ---
+
 #include "components/password_manager/core/browser/leak_detection_delegate_helper.h"
 
 #include <algorithm>

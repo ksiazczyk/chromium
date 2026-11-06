@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CredentialsCleanerRunner implementation
+// summary: Runs queued credential cleaning tasks sequentially, starting the next task when the previous one reports completion.
+// ---
+
 #include "components/password_manager/core/browser/credentials_cleaner_runner.h"
 
 #include <utility>

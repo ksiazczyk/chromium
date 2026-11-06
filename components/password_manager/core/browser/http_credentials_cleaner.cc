@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HttpCredentialCleaner implementation
+// summary: Implements removal of obsolete HTTP credentials using HSTS queries and reports HTTP to HTTPS migration metrics.
+// ---
+
 #include "components/password_manager/core/browser/http_credentials_cleaner.h"
 
 #include "base/functional/bind.h"

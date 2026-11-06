@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Credential Manager password form manager unit tests
+// summary: Unit tests for CredentialManagerPasswordFormManager covering provisional saving of API-synthesized forms and delegate notification.
+// ---
+
 #include "components/password_manager/core/browser/credential_manager_password_form_manager.h"
 
 #include <memory>

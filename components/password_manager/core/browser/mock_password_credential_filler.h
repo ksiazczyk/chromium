@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock password credential filler
+// summary: GMock implementation of PasswordCredentialFiller that stubs credential filling and submission behavior for tests.
+// ---
+
 #ifndef COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_MOCK_PASSWORD_CREDENTIAL_FILLER_H_
 #define COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_MOCK_PASSWORD_CREDENTIAL_FILLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Manual password fallback flow unit tests
+// summary: Unit tests for the manual password fallback flow, covering suggestion generation, filtering, selection, and filling behavior.
+// ---
+
 #include "components/password_manager/core/browser/password_manual_fallback_flow.h"
 
 #include <vector>

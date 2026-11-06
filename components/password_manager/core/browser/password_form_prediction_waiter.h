@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password form prediction waiter header
+// summary: Declares PasswordFormPredictionWaiter, which manages closures for async predictions with a 500 ms filling timeout for PasswordFormManager.
+// ---
+
 #ifndef COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_PASSWORD_FORM_PREDICTION_WAITER_H_
 #define COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_PASSWORD_FORM_PREDICTION_WAITER_H_
 

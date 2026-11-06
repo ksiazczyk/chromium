@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HttpAuthObserver interface
+// summary: Defines the abstract communication interface between the HTTP auth UI and the provider of stored credentials.
+// ---
+
 #ifndef COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_HTTP_AUTH_OBSERVER_H_
 #define COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_HTTP_AUTH_OBSERVER_H_
 

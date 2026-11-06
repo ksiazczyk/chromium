@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password change service interface implementation
+// summary: Implements parsing of overridden change password URLs passed via the password change command-line switch.
+// ---
+
 #include "components/password_manager/core/browser/password_change_service_interface.h"
 
 #include "base/command_line.h"

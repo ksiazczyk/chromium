@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password store factory utilities implementation
+// summary: Implements helpers for creating LoginDatabase instances for profile and account stores and scheduling credential cleaning and migration tasks.
+// ---
+
 #include "components/password_manager/core/browser/password_store_factory_util.h"
 
 #include <memory>

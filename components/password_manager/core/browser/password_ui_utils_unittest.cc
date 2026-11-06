@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Password UI utilities unit tests
+// summary: Unit tests for shown origin and URL formatting, username display strings and submission readiness calculations.
+// ---
+
 #include "components/password_manager/core/browser/password_ui_utils.h"
 
 #include "components/autofill/core/common/autofill_test_util.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password change backup password cleaner interface
+// summary: Declares the credentials cleaner that removes password change backup notes older than 90 days and reruns cleaning every 30 days.
+// ---
+
 #ifndef COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_PASSWORD_CHANGE_BACKUP_PASSWORD_CLEANER_H_
 #define COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_PASSWORD_CHANGE_BACKUP_PASSWORD_CLEANER_H_
 

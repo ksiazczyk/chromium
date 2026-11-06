@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FormFetcher interface
+// summary: Declares the FormFetcher API that supplies stored credentials and statistics to PasswordFormManager without direct PasswordStore access.
+// ---
+
 #ifndef COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_FORM_FETCHER_H_
 #define COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_FORM_FETCHER_H_
 

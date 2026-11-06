@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock password manager settings service
+// summary: GMock of PasswordManagerSettingsService stubbing setting checks, backend requests and auto sign-in toggling for unit tests.
+// ---
+
 #ifndef COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_MOCK_PASSWORD_MANAGER_SETTINGS_SERVICE_H_
 #define COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_MOCK_PASSWORD_MANAGER_SETTINGS_SERVICE_H_
 

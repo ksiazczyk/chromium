@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PasswordFormPredictionWaiter unit tests
+// summary: Unit tests verifying the timer, timeout, reset and callback behavior of PasswordFormPredictionWaiter, which waits for async password form predictions.
+// ---
+
 #include "components/password_manager/core/browser/password_form_prediction_waiter.h"
 
 #include "base/test/metrics/histogram_tester.h"

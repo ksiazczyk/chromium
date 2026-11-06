@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Credential Manager logger unit tests
+// summary: Unit tests verifying that the logger emits log entries containing origin and credential details for each Credential Management API call.
+// ---
+
 #include "components/password_manager/core/browser/credential_manager_logger.h"
 
 #include <string>

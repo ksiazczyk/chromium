@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for credential manager conversion helpers
+// summary: Checks creation of PasswordForm objects from CredentialInfo for empty, federated and local credential types.
+// ---
+
 #include "components/password_manager/core/browser/credential_manager_utils.h"
 
 #include <memory>

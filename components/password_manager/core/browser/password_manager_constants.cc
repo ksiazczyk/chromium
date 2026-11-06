@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password manager constants implementation
+// summary: Defines password manager constants such as login database file names and URLs for the account dashboard, help center, and native password manager UI.
+// ---
+
 #include "components/password_manager/core/browser/password_manager_constants.h"
 
 #include "build/build_config.h"

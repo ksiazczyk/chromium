@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Password form filling unit tests
+// summary: Unit tests for password form filling, covering autofill behavior, saved credential matching, and WebAuthn delegate interactions.
+// ---
+
 #include "components/password_manager/core/browser/password_form_filling.h"
 
 #include <algorithm>

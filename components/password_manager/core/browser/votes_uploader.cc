@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Votes uploader implementation
+// summary: Implements uploading autofill votes about password form fields, including single username votes and password attribute votes.
+// ---
+
 #include "components/password_manager/core/browser/votes_uploader.h"
 
 #include <algorithm>

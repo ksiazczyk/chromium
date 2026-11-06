@@ -4,6 +4,12 @@
 
 // This file contains utilities related to password manager's UI.
 
+// ---docerion
+// type: source
+// title: Password UI utilities header
+// summary: Declares UI helpers for displaying credential origins and URLs, updating username and password, and assessing form submission readiness.
+// ---
+
 #ifndef COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_PASSWORD_UI_UTILS_H_
 #define COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_PASSWORD_UI_UTILS_H_
 

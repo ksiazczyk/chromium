@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FirstCctPageLoadPasswordsUkmRecorder implementation
+// summary: Implements the UKM recorder that reports whether the first custom tab page load contains a password form on Android.
+// ---
+
 #include "components/password_manager/core/browser/first_cct_page_load_passwords_ukm_recorder.h"
 
 #include "services/metrics/public/cpp/ukm_builders.h"

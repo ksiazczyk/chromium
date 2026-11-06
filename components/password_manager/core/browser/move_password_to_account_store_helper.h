@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MovePasswordToAccountStoreHelper header
+// summary: Declares a FormFetcher consumer that moves a password form from the profile store to the account store and signals completion through a callback.
+// ---
+
 #ifndef COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_MOVE_PASSWORD_TO_ACCOUNT_STORE_HELPER_H_
 #define COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_MOVE_PASSWORD_TO_ACCOUNT_STORE_HELPER_H_
 

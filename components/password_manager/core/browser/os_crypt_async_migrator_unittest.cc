@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OSCryptAsyncMigrator unit tests
+// summary: Unit tests verifying migration need detection, empty-store handling, and pref updates for profile and account password stores.
+// ---
+
 #include "components/password_manager/core/browser/os_crypt_async_migrator.h"
 
 #include <string_view>

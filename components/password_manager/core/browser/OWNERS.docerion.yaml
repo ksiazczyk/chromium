@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the password manager browser directory
+summary: Declares per-file ownership, delegating changes to password_autofill_manager.cc to the autofill component owners.

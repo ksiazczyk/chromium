@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PasswordString unit tests
+// summary: Unit tests for PasswordString covering value round trips, equality, hashing, heterogeneous lookup, and move-clearing behavior with and without process-bound backing.
+// ---
+
 #include "components/password_manager/core/browser/password_string.h"
 
 #include <string>

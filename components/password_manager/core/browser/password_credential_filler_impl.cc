@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PasswordCredentialFillerImpl implementation
+// summary: Implements PasswordCredentialFiller to fill credentials through the per-frame driver and optionally trigger form submission based on submission readiness.
+// ---
+
 #include "components/password_manager/core/browser/password_credential_filler_impl.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HttpAuthManagerImpl unit tests
+// summary: Unit tests covering HTTP auth credential autofill, saving, and device re-auth behavior of the HTTP auth manager.
+// ---
+
 #include <memory>
 #include <string_view>
 #include <utility>

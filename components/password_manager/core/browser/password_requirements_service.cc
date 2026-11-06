@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password requirements service implementation
+// summary: Implements fetching and caching of per-domain and per-form-signature password requirements specs used to guide password generation.
+// ---
+
 #include "components/password_manager/core/browser/password_requirements_service.h"
 
 #include "base/functional/bind.h"

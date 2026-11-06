@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FormSaverImpl implementation
+// summary: Implements FormSaver to save, update, replace, remove and blocklist password forms in the password store, including post-processing of stored matches.
+// ---
+
 #include "components/password_manager/core/browser/form_saver_impl.h"
 
 #include <memory>

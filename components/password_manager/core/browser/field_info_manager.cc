@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FieldInfoManager implementation
+// summary: Caches recently typed field values with expiry timers and serves field info for sign-on realms matching via public suffix rules.
+// ---
+
 #include "components/password_manager/core/browser/field_info_manager.h"
 
 #include "base/i18n/case_conversion.h"

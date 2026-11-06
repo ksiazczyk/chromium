@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Move password to account store helper implementation
+// summary: Implements a helper that fetches a password form and moves it from the profile store to the account store via the save manager, then runs a done callback.
+// ---
+
 #include "components/password_manager/core/browser/move_password_to_account_store_helper.h"
 
 #include <utility>

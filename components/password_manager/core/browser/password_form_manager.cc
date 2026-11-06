@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password form manager implementation
+// summary: Implements PasswordFormManager, which manages filling of the observed form and saving or updating stored password information.
+// ---
+
 #include "components/password_manager/core/browser/password_form_manager.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncUsernameTestBase implementation
+// summary: Implements a shared test base that fakes signin states and builds simple GAIA and non-GAIA password forms for sync username tests.
+// ---
+
 #include "components/password_manager/core/browser/sync_username_test_base.h"
 
 #include "base/strings/utf_string_conversions.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock password form manager for UI
+// summary: GMock mock of PasswordFormManagerForUI that stubs saving, updating, blocklisting and account-store moves for password UI unit tests.
+// ---
+
 #ifndef COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_MOCK_PASSWORD_FORM_MANAGER_FOR_UI_H_
 #define COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_MOCK_PASSWORD_FORM_MANAGER_FOR_UI_H_
 

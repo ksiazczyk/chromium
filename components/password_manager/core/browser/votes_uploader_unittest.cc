@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Votes uploader unit tests
+// summary: Unit tests for VotesUploader verifying vote upload contents, signatures and field types using a mock crowdsourcing manager.
+// ---
+
 #include "components/password_manager/core/browser/votes_uploader.h"
 
 #include <algorithm>

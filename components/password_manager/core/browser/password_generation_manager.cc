@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password generation manager implementation
+// summary: Implements PasswordGenerationManager, which presaves, updates and commits generated passwords and resolves username conflicts through the update-password bubble.
+// ---
+
 #include "components/password_manager/core/browser/password_generation_manager.h"
 
 #include <algorithm>

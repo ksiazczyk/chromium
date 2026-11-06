@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the password manager browser directory
+summary: Lists allowed include dependencies for the directory, with specific extra rules for selected unittest and blocklist policy files.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password session durations metrics recorder implementation
+// summary: Implements recording of browsing session durations per password account storage user state, logging histograms when sessions end or the sync-driven user state changes.
+// ---
+
 #include "components/password_manager/core/browser/password_session_durations_metrics_recorder.h"
 
 #include <string_view>

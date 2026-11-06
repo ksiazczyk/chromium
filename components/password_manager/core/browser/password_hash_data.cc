@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password hash data implementation
+// summary: Implements salted scrypt password hashing, random salt creation and username canonicalization used to compare saved passwords without storing them.
+// ---
+
 #include "components/password_manager/core/browser/password_hash_data.h"
 
 #include <iterator>

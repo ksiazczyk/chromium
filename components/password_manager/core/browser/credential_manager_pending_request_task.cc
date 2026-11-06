@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the credential manager pending request task
+// summary: Implements fetching credentials from the password store and filtering duplicates before they are shown in the account chooser.
+// ---
+
 #include "components/password_manager/core/browser/credential_manager_pending_request_task.h"
 
 #include <algorithm>

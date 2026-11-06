@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Password form metrics recorder unit tests
+// summary: Unit tests verifying the histogram and UKM metrics recorded by PasswordFormMetricsRecorder for form filling and bubble interactions.
+// ---
+
 #include "components/password_manager/core/browser/password_form_metrics_recorder.h"
 
 #include <stdint.h>

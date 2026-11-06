@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HttpPasswordStoreMigrator class declaration
+// summary: Declares the migrator that converts HTTP password forms to HTTPS versions and clears obsolete HTTP site statistics.
+// ---
+
 #ifndef COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_HTTP_PASSWORD_STORE_MIGRATOR_H_
 #define COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_HTTP_PASSWORD_STORE_MIGRATOR_H_
 

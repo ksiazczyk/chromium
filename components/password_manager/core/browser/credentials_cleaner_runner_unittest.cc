@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CredentialsCleanerRunner unit tests
+// summary: Unit tests verifying that the runner executes cleaning tasks in insertion order and that StartCleaning can be called again during or after a run.
+// ---
+
 #include "components/password_manager/core/browser/credentials_cleaner_runner.h"
 
 #include <memory>

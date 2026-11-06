@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FieldInfoManager unit tests
+// summary: Unit tests for FieldInfoManager covering adding, retrieving, expiration, cache size limits and value updates of field info.
+// ---
+
 #include "components/password_manager/core/browser/field_info_manager.h"
 
 #include <memory>

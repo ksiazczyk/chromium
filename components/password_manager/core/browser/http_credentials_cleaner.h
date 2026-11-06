@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HttpCredentialCleaner class declaration
+// summary: Declares the cleaner that deletes HTTP credentials when equivalent HTTPS credentials exist and HSTS is enabled.
+// ---
+
 #ifndef COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_HTTP_CREDENTIALS_CLEANER_H_
 #define COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_HTTP_CREDENTIALS_CLEANER_H_
 

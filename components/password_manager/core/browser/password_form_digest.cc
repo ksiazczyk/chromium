@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PasswordFormDigest implementation
+// summary: Implements the constructors and assignment operators of the PasswordFormDigest credential retrieval key.
+// ---
+
 #include "components/password_manager/core/browser/password_form_digest.h"
 
 namespace password_manager {

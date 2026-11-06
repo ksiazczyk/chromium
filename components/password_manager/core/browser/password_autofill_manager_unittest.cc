@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PasswordAutofillManager unit tests
+// summary: Extensive unit tests covering suggestion display, acceptance, WebAuthn flows, and metrics for the password autofill manager.
+// ---
+
 #include "components/password_manager/core/browser/password_autofill_manager.h"
 
 #include <memory>

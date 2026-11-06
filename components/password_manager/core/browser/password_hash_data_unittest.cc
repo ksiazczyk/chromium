@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Password hash data unit test
+// summary: Unit tests verifying that CalculatePasswordHash returns the expected hash values for given plaintext and salt inputs.
+// ---
+
 #include "components/password_manager/core/browser/password_hash_data.h"
 
 #include <array>

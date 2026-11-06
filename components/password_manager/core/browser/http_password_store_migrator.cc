@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HttpPasswordStoreMigrator implementation
+// summary: Implements migration of saved HTTP passwords to HTTPS origins, moving or copying them based on HSTS status.
+// ---
+
 #include "components/password_manager/core/browser/http_password_store_migrator.h"
 
 #include <string>

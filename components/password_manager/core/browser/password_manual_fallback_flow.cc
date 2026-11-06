@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Manual password fallback flow implementation
+// summary: Implements the flow that shows saved password suggestions on password and non-password fields when the user manually triggers password filling.
+// ---
+
 #include "components/password_manager/core/browser/password_manual_fallback_flow.h"
 
 #include <algorithm>

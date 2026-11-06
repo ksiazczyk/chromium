@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FirstCctPageLoadPasswordsUkmRecorder unit tests
+// summary: Unit tests verifying that the recorder reports the has-password-form UKM metric correctly when set and unset.
+// ---
+
 #include "components/password_manager/core/browser/first_cct_page_load_passwords_ukm_recorder.h"
 
 #include "base/test/task_environment.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password check referrer enum for Android
+// summary: Defines the PasswordCheckReferrerAndroid enum listing entry points to password check, kept in sync with Java code and histograms enums.
+// ---
+
 #ifndef COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_PASSWORD_CHECK_REFERRER_ANDROID_H_
 #define COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_PASSWORD_CHECK_REFERRER_ANDROID_H_
 

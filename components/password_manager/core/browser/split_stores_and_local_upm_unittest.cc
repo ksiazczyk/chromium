@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Split stores and local UPM unit tests
+// summary: Parameterized unit tests for IsGmsCoreUpdateRequired across automotive and non-automotive GMSCore versions.
+// ---
+
 #include "components/password_manager/core/browser/split_stores_and_local_upm.h"
 
 #include "base/android/device_info.h"

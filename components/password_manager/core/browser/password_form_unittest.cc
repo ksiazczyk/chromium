@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PasswordForm unit tests
+// summary: Unit tests covering PasswordForm note handling, including password backup notes and their dates, plus password value logic.
+// ---
+
 #include "components/password_manager/core/browser/password_form.h"
 
 #include <string>

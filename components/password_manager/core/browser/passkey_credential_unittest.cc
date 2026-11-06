@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PasskeyCredential unit tests
+// summary: Unit tests for building PasskeyCredential objects from credential specifics, including shadowed credentials and authenticator labels.
+// ---
+
 #include "components/password_manager/core/browser/passkey_credential.h"
 
 #include <string>

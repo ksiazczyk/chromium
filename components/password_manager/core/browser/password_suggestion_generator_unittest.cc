@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Password suggestion generator unit tests
+// summary: Unit tests verifying suggestion generation for domain credentials, proactive recovery, and context-menu password autofill flows.
+// ---
+
 #include "components/password_manager/core/browser/password_suggestion_generator.h"
 
 #include <memory>

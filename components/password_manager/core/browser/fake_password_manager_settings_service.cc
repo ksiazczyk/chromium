@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakePasswordManagerSettingsService implementation
+// summary: In-memory fake of the password manager settings service that defaults to offering password saving and auto sign-in for tests.
+// ---
+
 #include "components/password_manager/core/browser/fake_password_manager_settings_service.h"
 
 #include "base/containers/flat_set.h"

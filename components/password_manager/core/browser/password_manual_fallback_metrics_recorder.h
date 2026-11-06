@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Manual fallback metrics recorder header
+// summary: Declares PasswordManualFallbackMetricsRecorder, which tracks manual fallback suggestion and context menu states and emits metrics on destruction.
+// ---
+
 #ifndef COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_PASSWORD_MANUAL_FALLBACK_METRICS_RECORDER_H_
 #define COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_PASSWORD_MANUAL_FALLBACK_METRICS_RECORDER_H_
 

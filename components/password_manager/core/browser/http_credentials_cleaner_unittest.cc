@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HttpCredentialCleaner unit tests
+// summary: Unit tests verifying HTTP credential cleanup decisions across HSTS states and credential matching cases.
+// ---
+
 #include "components/password_manager/core/browser/http_credentials_cleaner.h"
 
 #include "base/run_loop.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sign-in notifier implementation declaration
+// summary: Declares PasswordReuseManagerSigninNotifierImpl, which subscribes to Google identity sign-in events and forwards them to the password reuse manager.
+// ---
+
 #ifndef COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_PASSWORD_REUSE_MANAGER_SIGNIN_NOTIFIER_IMPL_H_
 #define COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_PASSWORD_REUSE_MANAGER_SIGNIN_NOTIFIER_IMPL_H_
 

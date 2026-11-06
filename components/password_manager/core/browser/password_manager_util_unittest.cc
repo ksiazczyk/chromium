@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Password manager utility unit tests
+// summary: Unit tests for password manager utility helpers, covering credential matching, saving restrictions, and related client and store interactions.
+// ---
+
 #include "components/password_manager/core/browser/password_manager_util.h"
 
 #include <algorithm>

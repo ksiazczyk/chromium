@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password manager command-line switches
+// summary: Defines command-line switch constants for the Linux password store backend, encryption selection and the share button in unbranded builds.
+// ---
+
 #include "components/password_manager/core/browser/password_manager_switches.h"
 
 namespace password_manager {

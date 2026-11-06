@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StubFormSaver implementation
+// summary: Implements a no-op FormSaver stub whose blocklist, unblocklist and clone methods do nothing, for use in tests.
+// ---
+
 #include "components/password_manager/core/browser/stub_form_saver.h"
 
 namespace password_manager {

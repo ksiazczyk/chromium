@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Undo password change controller header
+// summary: Declares the UndoPasswordChangeController class and PasswordRecoveryState enum that track the password recovery flow state per tab.
+// ---
+
 #ifndef COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_UNDO_PASSWORD_CHANGE_CONTROLLER_H_
 #define COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_UNDO_PASSWORD_CHANGE_CONTROLLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PasswordAutofillManager implementation
+// summary: Implements password form filling, suggestion display, and manual fallback flows for password fields in the browser.
+// ---
+
 #include "components/password_manager/core/browser/password_autofill_manager.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Declaration of the credential manager pending prevent silent access task
+// summary: Declares the task and delegate that notify the password store which origins require user mediation before silent credential access.
+// ---
+
 #ifndef COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_CREDENTIAL_MANAGER_PENDING_PREVENT_SILENT_ACCESS_TASK_H_
 #define COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_CREDENTIAL_MANAGER_PENDING_PREVENT_SILENT_ACCESS_TASK_H_
 

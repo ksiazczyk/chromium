@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OSCryptAsyncMigrator class declaration
+// summary: Declares the CredentialsCleaner that re-encrypts password store logins using OSCryptAsync and tracks migration state in preferences.
+// ---
+
 #ifndef COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_OS_CRYPT_ASYNC_MIGRATOR_H_
 #define COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_OS_CRYPT_ASYNC_MIGRATOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password form prediction waiter implementation
+// summary: Implements the waiter that tracks outstanding asynchronous form prediction fetches, signalling completion or timeout to its client.
+// ---
+
 #include "components/password_manager/core/browser/password_form_prediction_waiter.h"
 
 #include "base/functional/bind.h"

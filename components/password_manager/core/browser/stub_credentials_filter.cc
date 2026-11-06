@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stub credentials filter implementation
+// summary: Implements a credentials filter stub that allows saving all forms and never saves password hashes.
+// ---
+
 #include "components/password_manager/core/browser/stub_credentials_filter.h"
 
 namespace password_manager {

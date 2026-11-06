@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HashPasswordManager implementation
+// summary: Implements saving, retrieving, clearing and encrypting of password hash data in preferences, used for password reuse detection.
+// ---
+
 #include "components/password_manager/core/browser/hash_password_manager.h"
 
 #include <vector>

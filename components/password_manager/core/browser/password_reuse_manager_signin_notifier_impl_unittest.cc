@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sign-in notifier unit tests
+// summary: Unit tests verifying that the sign-in notifier forwards or suppresses sign-out notifications to the password reuse manager.
+// ---
+
 #include "components/password_manager/core/browser/password_reuse_manager_signin_notifier_impl.h"
 
 #include "base/functional/bind.h"

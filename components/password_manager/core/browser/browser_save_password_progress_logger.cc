@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser save password progress logger implementation
+// summary: Implements the browser-side save password progress logger, converting forms, votes, generation types, and save decisions into sanitized log strings.
+// ---
+
 #include "components/password_manager/core/browser/browser_save_password_progress_logger.h"
 
 #include <optional>

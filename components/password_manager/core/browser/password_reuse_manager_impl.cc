@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password reuse manager implementation
+// summary: Implements the PasswordReuseManager service that detects password reuse, stores Gaia and enterprise password hashes, and records related metrics.
+// ---
+
 #include "components/password_manager/core/browser/password_reuse_manager_impl.h"
 
 #include <memory>

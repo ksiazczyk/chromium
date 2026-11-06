@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Leak detection dialog utilities implementation
+// summary: Implements helpers for credential leak dialogs, including leak type creation, leak state checks, URL formatting and dialog type selection.
+// ---
+
 #include "components/password_manager/core/browser/leak_detection_dialog_utils.h"
 
 #include "base/i18n/message_formatter.h"

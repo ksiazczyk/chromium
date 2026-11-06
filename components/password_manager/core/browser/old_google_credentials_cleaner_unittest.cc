@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Old Google credentials cleaner unit tests
+// summary: Unit tests verifying that old google.com credentials are deleted, newer ones are kept, and the cleaning preference is set.
+// ---
+
 #include "components/password_manager/core/browser/old_google_credentials_cleaner.h"
 
 #include <string_view>

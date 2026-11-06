@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakePasswordManagerSettingsService class declaration
+// summary: Declares an in-memory fake implementation of PasswordManagerSettingsService that tracks enabled settings in a flat set.
+// ---
+
 #ifndef COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_FAKE_PASSWORD_MANAGER_SETTINGS_SERVICE_H_
 #define COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_FAKE_PASSWORD_MANAGER_SETTINGS_SERVICE_H_
 

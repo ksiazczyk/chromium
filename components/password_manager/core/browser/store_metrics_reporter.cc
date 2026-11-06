@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password store metrics reporter implementation
+// summary: Reports metrics about password store contents, including credential counts, custom passphrase status and password loss reasons.
+// ---
+
 #include "components/password_manager/core/browser/store_metrics_reporter.h"
 
 #include <algorithm>

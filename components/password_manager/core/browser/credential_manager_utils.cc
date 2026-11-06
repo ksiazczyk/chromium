@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of credential manager conversion helpers
+// summary: Implements conversions between CredentialInfo objects and PasswordForm objects for the Credential Manager API.
+// ---
+
 #include "components/password_manager/core/browser/credential_manager_utils.h"
 
 #include <memory>

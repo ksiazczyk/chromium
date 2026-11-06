@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Manual fallback metrics recorder unit tests
+// summary: Unit test fixture for the manual fallback metrics recorder, set up with a mock clock for latency measurement.
+// ---
+
 #include "components/password_manager/core/browser/password_manual_fallback_metrics_recorder.h"
 
 #include "base/test/metrics/histogram_tester.h"

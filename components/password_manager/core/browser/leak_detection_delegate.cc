@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Leak detection delegate implementation
+// summary: Implements the delegate that starts leak checks for submitted credentials and notifies the client when credentials are leaked.
+// ---
+
 #include "components/password_manager/core/browser/leak_detection_delegate.h"
 
 #include <optional>

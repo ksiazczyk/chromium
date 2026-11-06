@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HSTS query implementation
+// summary: Asynchronously queries the network context whether HSTS is active for an origin's host and reports the result through a callback.
+// ---
+
 #include "components/password_manager/core/browser/hsts_query.h"
 
 #include "base/functional/bind.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Credential Manager password form manager implementation
+// summary: Implements a PasswordFormManager that provisionally saves password forms synthesized by the Credential Management API and notifies its delegate.
+// ---
+
 #include "components/password_manager/core/browser/credential_manager_password_form_manager.h"
 
 #include <memory>

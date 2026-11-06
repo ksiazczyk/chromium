@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncCredentialsFilter implementation
+// summary: Implements the sync- and GAIA-aware credentials filter that decides whether passwords should be saved or their hashes recorded.
+// ---
+
 #include "components/password_manager/core/browser/sync_credentials_filter.h"
 
 #include <algorithm>

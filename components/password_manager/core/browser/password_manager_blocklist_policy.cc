@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password manager blocklist policy implementation
+// summary: Implements a per-profile keyed service wrapping a URLBlocklistManager for the password manager blocklist preference, together with its browser context factory.
+// ---
+
 #include "components/password_manager/core/browser/password_manager_blocklist_policy.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HSTS query interface
+// summary: Declares PostHSTSQueryForHostAndNetworkContext, which asynchronously checks HSTS status for a host and delivers the result via callback.
+// ---
+
 #ifndef COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_HSTS_QUERY_H_
 #define COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_HSTS_QUERY_H_
 

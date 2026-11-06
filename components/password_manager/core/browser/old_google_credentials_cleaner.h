@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OldGoogleCredentialCleaner header
+// summary: Declares a credentials cleaner that deletes pre-2012 google.com passwords from a password store, using a preference to run only once.
+// ---
+
 #ifndef COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_OLD_GOOGLE_CREDENTIALS_CLEANER_H_
 #define COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_OLD_GOOGLE_CREDENTIALS_CLEANER_H_
 

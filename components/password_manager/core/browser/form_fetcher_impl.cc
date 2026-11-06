@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FormFetcherImpl implementation
+// summary: Implements FormFetcherImpl, fetching matching credentials from profile and account password stores and splitting results for consumers.
+// ---
+
 #include "components/password_manager/core/browser/form_fetcher_impl.h"
 
 #include <algorithm>

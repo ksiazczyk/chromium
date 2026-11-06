@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password suggestion generator implementation
+// summary: Implements generation of password filling suggestions, including saved credentials, passkeys from other devices, password generation, and reauth promo entries.
+// ---
+
 #include "components/password_manager/core/browser/password_suggestion_generator.h"
 
 #include <algorithm>

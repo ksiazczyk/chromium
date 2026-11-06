@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Leak detection dialog utils unit tests
+// summary: Unit tests verifying leak dialog titles, messages, buttons and password checkup prompts for various credential leak type combinations.
+// ---
+
 #include "components/password_manager/core/browser/leak_detection_dialog_utils.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the credentials cleaner helper
+// summary: Implements removal of password forms whose sign-on realm does not use the HTTP or HTTPS scheme.
+// ---
+
 #include "components/password_manager/core/browser/credentials_cleaner.h"
 
 #include <vector>

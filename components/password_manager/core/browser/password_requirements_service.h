@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password requirements service header
+// summary: Declares PasswordRequirementsService, a keyed service that fetches, caches and returns password generation requirements per site, form and field using MRU caches.
+// ---
+
 #ifndef COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_PASSWORD_REQUIREMENTS_SERVICE_H_
 #define COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_PASSWORD_REQUIREMENTS_SERVICE_H_
 

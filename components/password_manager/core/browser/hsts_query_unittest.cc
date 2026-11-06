@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HSTS query unit tests
+// summary: Unit tests verifying HSTS query results for hosts with and without HSTS enabled and for a null network context.
+// ---
+
 #include "components/password_manager/core/browser/hsts_query.h"
 
 #include <string>
