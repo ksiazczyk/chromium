@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Color palette build configuration
+summary: Defines the color_palette and group_color source sets with their source files and dependencies for the iOS Chrome color palette code.

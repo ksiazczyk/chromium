@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Top view controller helper interface
+// summary: Declares the deprecated TopPresentedViewControllerFrom helper that walks presented view controllers to find the topmost one.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_UI_UTIL_TOP_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_SHARED_UI_UTIL_TOP_VIEW_CONTROLLER_H_
 

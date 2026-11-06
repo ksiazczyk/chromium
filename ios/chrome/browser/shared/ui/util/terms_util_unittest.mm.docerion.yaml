@@ -1,0 +1,4 @@
+# Docerion header of terms_util_unittest.mm.
+type: test
+title: Terms of Service utility unit tests
+summary: Tests iOS locale mapping, localized filename resolution and validity of embedded and unified Terms of Service URLs across supported languages.

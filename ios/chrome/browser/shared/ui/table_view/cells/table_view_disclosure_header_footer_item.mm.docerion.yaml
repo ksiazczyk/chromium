@@ -1,0 +1,4 @@
+# Docerion header of table_view_disclosure_header_footer_item.mm.
+type: source
+title: TableViewDisclosureHeaderFooterItem implementation
+summary: Implements the disclosure header/footer item and view, including label layout, disclosure rotation, and highlight animations.

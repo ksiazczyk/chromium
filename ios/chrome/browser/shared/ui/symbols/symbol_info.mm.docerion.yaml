@@ -1,0 +1,4 @@
+# Docerion header of symbol_info.mm.
+type: source
+title: Implementation of symbol enum to asset name mapping
+summary: Implements InfoForSymbol with a large switch that returns each symbol's asset name and whether it is a custom or system symbol.

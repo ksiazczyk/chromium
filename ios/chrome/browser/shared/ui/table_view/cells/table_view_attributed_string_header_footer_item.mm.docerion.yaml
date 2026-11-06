@@ -1,0 +1,4 @@
+# Docerion header of table_view_attributed_string_header_footer_item.mm.
+type: source
+title: Attributed string header footer item implementation
+summary: Implements the attributed string header/footer view with link styling and text selection disabled.

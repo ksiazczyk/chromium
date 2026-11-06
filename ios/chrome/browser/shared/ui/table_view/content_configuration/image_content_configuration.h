@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Image content configuration interface
+// summary: Declares a content configuration for image views with size, content mode, tint, corner radius, and accessibility properties.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_UI_TABLE_VIEW_CONTENT_CONFIGURATION_IMAGE_CONTENT_CONFIGURATION_H_
 #define IOS_CHROME_BROWSER_SHARED_UI_TABLE_VIEW_CONTENT_CONFIGURATION_IMAGE_CONTENT_CONFIGURATION_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of pasteboard_util.mm.
+type: source
+title: Pasteboard utility implementation
+summary: Implements pasteboard helpers that write URLs, text, and image data as typed pasteboard items via the general pasteboard, guarding against invalid conversions.

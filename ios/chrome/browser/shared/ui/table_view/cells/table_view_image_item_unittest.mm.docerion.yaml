@@ -1,0 +1,4 @@
+# Docerion header of table_view_image_item_unittest.mm.
+type: test
+title: TableViewImageItem unit tests
+summary: Unit tests checking that TableViewImageItem configures cell content, title and detail text and hides the image when none is set.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for iOS symbols asset catalog resources
+summary: Declares the Assets.xcassets bundle resources, listing symbolset Contents.json files and SVG symbol icons for the iOS Chrome shared symbols UI.

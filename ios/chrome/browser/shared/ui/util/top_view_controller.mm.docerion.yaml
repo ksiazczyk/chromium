@@ -1,0 +1,4 @@
+# Docerion header of top_view_controller.mm.
+type: source
+title: Top view controller helper implementation
+summary: Implements TopPresentedViewControllerFrom by traversing the presented view controller chain while skipping controllers being dismissed.

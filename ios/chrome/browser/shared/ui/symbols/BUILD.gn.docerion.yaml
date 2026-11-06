@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definitions for the symbols source sets
+summary: Defines the symbols and symbols_views source sets with their sources and dependencies for the iOS build.

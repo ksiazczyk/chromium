@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImageUtil helper function declarations
+// summary: Declares image helpers for dominant color, stretchable images, extension and UTI detection, image dimensions, and downsampled decoding.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_UI_UTIL_IMAGE_IMAGE_UTIL_H_
 #define IOS_CHROME_BROWSER_SHARED_UI_UTIL_IMAGE_IMAGE_UTIL_H_
 

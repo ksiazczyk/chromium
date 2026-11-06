@@ -1,0 +1,4 @@
+# Docerion header of table_view_detail_text_item_unittest.mm.
+type: test
+title: TableViewDetailTextItem unit tests
+summary: Unit tests verifying text, colors, and accessory symbol handling for TableViewDetailTextItem, including clearing on cell reuse.

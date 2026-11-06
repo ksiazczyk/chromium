@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File size formatting utility header
+// summary: Declares GetSizeString, which returns a human-readable string for a file size in bytes using NSByteCountFormatter with non-breaking spaces.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_UI_UTIL_FILE_SIZE_UTIL_H_
 #define IOS_CHROME_BROWSER_SHARED_UI_UTIL_FILE_SIZE_UTIL_H_
 

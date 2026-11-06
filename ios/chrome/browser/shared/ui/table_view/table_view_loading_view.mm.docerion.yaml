@@ -1,0 +1,4 @@
+# Docerion header of table_view_loading_view.mm.
+type: source
+title: TableViewLoadingView implementation
+summary: Implements starting and stopping the loading indicator with a centered stack view of spinner and message label.

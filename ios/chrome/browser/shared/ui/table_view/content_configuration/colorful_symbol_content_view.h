@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Colorful symbol content view interface
+// summary: Declares a UIView content view that displays a symbol image with a colorful background for table view cells.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_UI_TABLE_VIEW_CONTENT_CONFIGURATION_COLORFUL_SYMBOL_CONTENT_VIEW_H_
 #define IOS_CHROME_BROWSER_SHARED_UI_TABLE_VIEW_CONTENT_CONFIGURATION_COLORFUL_SYMBOL_CONTENT_VIEW_H_
 

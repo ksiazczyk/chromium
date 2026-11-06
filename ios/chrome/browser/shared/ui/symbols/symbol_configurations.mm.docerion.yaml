@@ -1,0 +1,4 @@
+# Docerion header of symbol_configurations.mm.
+type: source
+title: Symbol configuration constants and color functions
+summary: Defines the symbol point size constants and returns the colors and palettes used for incognito and cloud slash symbols.

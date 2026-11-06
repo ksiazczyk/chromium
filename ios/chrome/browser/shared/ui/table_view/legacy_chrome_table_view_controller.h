@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LegacyChromeTableViewController interface
+// summary: Declares the legacy Chrome table view controller with model access, loading indicator and empty view methods, marked deprecated in favor of the diffable data source API.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_UI_TABLE_VIEW_LEGACY_CHROME_TABLE_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_SHARED_UI_TABLE_VIEW_LEGACY_CHROME_TABLE_VIEW_CONTROLLER_H_
 

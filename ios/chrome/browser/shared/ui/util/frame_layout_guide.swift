@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FrameLayoutGuide layout guide with window observation
+// summary: Defines a UILayoutGuide subclass that observes its owning view's window via KVO to trigger a callback and supports constraining the guide to a fixed frame.
+// ---
+
 import UIKit
 
 /// A layout guide with two distinct additions:

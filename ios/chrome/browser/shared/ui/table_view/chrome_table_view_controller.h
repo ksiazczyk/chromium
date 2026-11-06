@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeTableViewController interface
+// summary: Declares a table view controller that can show an empty table view with a message and image in the center of the table.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_UI_TABLE_VIEW_CHROME_TABLE_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_SHARED_UI_TABLE_VIEW_CHROME_TABLE_VIEW_CONTROLLER_H_
 

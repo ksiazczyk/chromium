@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Table view utilities header
+// summary: Declares helpers for table view style, horizontal padding and header heights plus templates for registering and dequeuing cells and header/footer views.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_UI_TABLE_VIEW_TABLE_VIEW_UTILS_H_
 #define IOS_CHROME_BROWSER_SHARED_UI_TABLE_VIEW_TABLE_VIEW_UTILS_H_
 

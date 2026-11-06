@@ -1,0 +1,4 @@
+# Docerion header of table_view_text_link_item.mm.
+type: source
+title: Table view text link item implementation
+summary: Implements the text link item and cell, rendering attributed text with tappable link ranges and a logo image below the text.

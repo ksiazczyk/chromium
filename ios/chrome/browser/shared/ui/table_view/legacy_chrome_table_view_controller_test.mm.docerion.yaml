@@ -1,0 +1,4 @@
+# Docerion header of legacy_chrome_table_view_controller_test.mm.
+type: test
+title: Implementation of the legacy table view controller test fixture
+summary: Implements the test fixture helpers that verify table view sections, items, titles, headers, footers and cell text against expected values.

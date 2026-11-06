@@ -1,0 +1,4 @@
+# Docerion header of switch_content_configuration_unittest.mm.
+type: test
+title: Switch content configuration unit tests
+summary: Unit tests verifying that SwitchContentConfiguration's content size matches the compressed layout size and iOS 26 golden values.

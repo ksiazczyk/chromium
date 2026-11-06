@@ -1,0 +1,4 @@
+# Docerion header of optional_property_animator.mm.
+type: source
+title: OptionalPropertyAnimator implementation
+summary: Implements the animator's hasAnimations tracking so startAnimation calls become no-ops when no animation blocks have been added.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Attributed string utility header
+// summary: Declares helpers to copy attributed strings with layout attributes and to build an attributed string from a UILabel's properties.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_UI_UTIL_ATTRIBUTED_STRING_UTIL_H_
 #define IOS_CHROME_BROWSER_SHARED_UI_UTIL_ATTRIBUTED_STRING_UTIL_H_
 

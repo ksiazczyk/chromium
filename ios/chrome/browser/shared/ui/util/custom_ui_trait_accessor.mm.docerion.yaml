@@ -1,0 +1,4 @@
+# Docerion header of custom_ui_trait_accessor.mm.
+type: source
+title: Custom UI trait accessor implementation
+summary: Implements CustomUITraitAccessor by storing the underlying mutable traits instance passed at initialization.

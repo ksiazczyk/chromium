@@ -1,0 +1,4 @@
+# Docerion header of multitasking_window_egtest.mm.
+type: test
+title: Earl Grey tests for iPad multitasking window behavior
+summary: Earl Grey tests covering entering and exiting windowed mode via the status bar, resizing between compact and regular size classes, and returning to fullscreen on iPad.

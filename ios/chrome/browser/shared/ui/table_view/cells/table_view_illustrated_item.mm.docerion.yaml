@@ -1,0 +1,4 @@
+# Docerion header of table_view_illustrated_item.mm.
+type: source
+title: TableViewIllustratedItem implementation
+summary: Implements the illustrated table view item and cell, laying out image, labels and button with styling and accessibility configuration.

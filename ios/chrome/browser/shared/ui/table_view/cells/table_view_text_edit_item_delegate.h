@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Table view text edit item delegate protocol
+// summary: Declares the TableViewTextEditItemDelegate protocol notified when editing of a text edit item's text field begins, changes, or ends.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_UI_TABLE_VIEW_CELLS_TABLE_VIEW_TEXT_EDIT_ITEM_DELEGATE_H_
 #define IOS_CHROME_BROWSER_SHARED_UI_TABLE_VIEW_CELLS_TABLE_VIEW_TEXT_EDIT_ITEM_DELEGATE_H_
 

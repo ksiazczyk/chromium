@@ -1,0 +1,4 @@
+# Docerion header of table_view_text_header_footer_item_unittest.mm.
+type: test
+title: Table view text header/footer item unit tests
+summary: Unit tests verifying that the text label of the text header/footer view is set correctly when the item configures it.

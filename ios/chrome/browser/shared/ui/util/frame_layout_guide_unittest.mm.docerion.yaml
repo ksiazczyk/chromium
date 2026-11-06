@@ -1,0 +1,4 @@
+# Docerion header of frame_layout_guide_unittest.mm.
+type: test
+title: FrameLayoutGuide unit tests
+summary: Unit tests verifying that the onDidMoveToWindow callback fires correctly when the owning view moves between windows, is removed, or the guide is reparented.

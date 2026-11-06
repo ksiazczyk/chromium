@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Activity indicator cell content view interface
+// summary: Declares ActivityIndicatorCellContentView, a ChromeContentView that is initialized from an activity indicator content configuration.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_UI_TABLE_VIEW_CONTENT_CONFIGURATION_ACTIVITY_INDICATOR_CONTENT_VIEW_H_
 #define IOS_CHROME_BROWSER_SHARED_UI_TABLE_VIEW_CONTENT_CONFIGURATION_ACTIVITY_INDICATOR_CONTENT_VIEW_H_
 

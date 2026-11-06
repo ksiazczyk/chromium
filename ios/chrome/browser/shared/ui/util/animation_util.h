@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Animation grouping utility header
+// summary: Declares AnimationGroupMake, which combines CAAnimations into a group with the shortest duration needed for all to finish.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_UI_UTIL_ANIMATION_UTIL_H_
 #define IOS_CHROME_BROWSER_SHARED_UI_UTIL_ANIMATION_UTIL_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of date_localized_util.mm.
+type: source
+title: Localized relative date utility implementation
+summary: Implements GetRelativeDateLocalized using base time formatting and l10n utilities, falling back to a friendly date string when no relative date applies.

@@ -1,0 +1,4 @@
+# Docerion header of page_animation_util.mm.
+type: source
+title: Page animation utility implementation
+summary: Implements the page close animation, scaling and fading out a view's layer with an adjusted anchor point using Core Animation.

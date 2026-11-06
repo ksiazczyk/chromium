@@ -1,0 +1,4 @@
+# Docerion header of favicon_content_configuration.mm.
+type: source
+title: Favicon content configuration implementation
+summary: Implements the favicon content configuration, creating its content view and defining the favicon container size.

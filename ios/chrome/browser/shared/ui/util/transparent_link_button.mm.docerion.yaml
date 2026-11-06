@@ -1,0 +1,4 @@
+# Docerion header of transparent_link_button.mm.
+type: source
+title: Transparent link button implementation
+summary: Implements TransparentLinkButton, a clear UIButton overlay for links that enforces a minimum tap area and propagates highlight and selection state across buttons spanning multi-line links.

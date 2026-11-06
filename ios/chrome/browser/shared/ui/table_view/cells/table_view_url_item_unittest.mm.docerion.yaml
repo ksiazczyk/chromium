@@ -1,0 +1,4 @@
+# Docerion header of table_view_url_item_unittest.mm.
+type: test
+title: Table view URL item unit tests
+summary: Unit tests verifying title, hostname subtitle, and third-row text configuration of TableViewURLItem cells.

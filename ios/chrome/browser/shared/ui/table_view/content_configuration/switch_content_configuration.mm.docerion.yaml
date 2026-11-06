@@ -1,0 +1,4 @@
+# Docerion header of switch_content_configuration.mm.
+type: source
+title: Switch content configuration implementation
+summary: Implements SwitchContentConfiguration, a UIContentConfiguration for a switch with target, selector, on and enabled state, cached content size and accessibility strings.

@@ -1,0 +1,4 @@
+# Docerion header of uikit_ui_util_bridge.mm.
+type: source
+title: Objective-C bridge implementation
+summary: Implements the UiKitUtils wrapper by forwarding calls to the underlying C++ UIKit utility functions.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the table view UI
+summary: Defines GN source sets for the table view controllers, constants, views, utils, test support and unit tests together with their dependencies.

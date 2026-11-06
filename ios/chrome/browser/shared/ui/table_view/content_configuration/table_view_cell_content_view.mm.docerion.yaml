@@ -1,0 +1,4 @@
+# Docerion header of table_view_cell_content_view.mm.
+type: source
+title: Table view cell content view implementation
+summary: Implements TableViewCellContentView, laying out title, subtitle and trailing labels alongside leading and trailing content views with a 75/25 width ratio.

@@ -1,0 +1,4 @@
+# Docerion header of url_with_title.mm.
+type: source
+title: URLWithTitle data object implementation
+summary: Implements the URLWithTitle initializer and accessors that store a URL and its associated page title.

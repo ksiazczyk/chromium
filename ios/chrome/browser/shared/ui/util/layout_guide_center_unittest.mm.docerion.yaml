@@ -1,0 +1,4 @@
+# Docerion header of layout_guide_center_unittest.mm.
+type: test
+title: Unit tests for LayoutGuideCenter
+summary: Unit tests verifying view referencing and dereferencing, parent fallback lookup, and layout guide tracking of reference view frames across windows.

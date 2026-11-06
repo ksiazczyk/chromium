@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TransparentLinkButton interface
+// summary: Declares a transparent UIButton overlaid on text links, with a factory that shares touch-down styling and keeps accessibility elements unique.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_UI_UTIL_TRANSPARENT_LINK_BUTTON_H_
 #define IOS_CHROME_BROWSER_SHARED_UI_UTIL_TRANSPARENT_LINK_BUTTON_H_
 

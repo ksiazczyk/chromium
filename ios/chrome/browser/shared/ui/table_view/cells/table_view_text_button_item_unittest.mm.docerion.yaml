@@ -1,0 +1,4 @@
+# Docerion header of table_view_text_button_item_unittest.mm.
+type: test
+title: Table view text button item unit tests
+summary: Platform unit tests verifying that TableViewTextButtonItem sets the button title and properties when configuring the cell.

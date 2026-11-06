@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the image directory
+summary: Allows the image directory to include headers from ios/chrome/browser/web/model/image_fetch.

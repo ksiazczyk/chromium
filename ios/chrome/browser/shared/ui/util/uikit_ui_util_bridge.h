@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Objective-C bridge for UIKit utilities
+// summary: Declares UiKitUtils, an Objective-C wrapper exposing the C++ UIKit helpers for greyscale image conversion and image memory footprint.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_UI_UTIL_UIKIT_UI_UTIL_BRIDGE_H_
 #define IOS_CHROME_BROWSER_SHARED_UI_UTIL_UIKIT_UI_UTIL_BRIDGE_H_
 

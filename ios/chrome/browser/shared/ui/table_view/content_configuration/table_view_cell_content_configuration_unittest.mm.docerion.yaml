@@ -1,0 +1,4 @@
+# Docerion header of table_view_cell_content_configuration_unittest.mm.
+type: test
+title: Table view cell content configuration unit tests
+summary: Unit tests covering accessibility user input labels, vertical alignment defaults, reserved leading space and resulting layout ambiguity for TableViewCellContentConfiguration.

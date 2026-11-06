@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PropertyAnimatorGroup class interface
+// summary: Declares PropertyAnimatorGroup, a wrapper that runs and stops a group of UIViewPropertyAnimators together through the UIViewImplicitlyAnimating API.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_UI_UTIL_PROPERTY_ANIMATOR_GROUP_H_
 #define IOS_CHROME_BROWSER_SHARED_UI_UTIL_PROPERTY_ANIMATOR_GROUP_H_
 

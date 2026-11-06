@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Identity snackbar include rules
+summary: Lists the headers that the identity snackbar directory is allowed to include, mainly signin model APIs.

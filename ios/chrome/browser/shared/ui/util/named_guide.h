@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NamedGuide layout guide subclass interface
+// summary: Declares a UILayoutGuide subclass that constrains itself to a named view or frame so other UI can align with well-known app components.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_UI_UTIL_NAMED_GUIDE_H_
 #define IOS_CHROME_BROWSER_SHARED_UI_UTIL_NAMED_GUIDE_H_
 

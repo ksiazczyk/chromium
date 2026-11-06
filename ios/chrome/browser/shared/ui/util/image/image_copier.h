@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImageCopier class header
+// summary: Declares the ImageCopier interface that copies the image at a URL to the system pasteboard using fetched image data and alerts.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_UI_UTIL_IMAGE_IMAGE_COPIER_H_
 #define IOS_CHROME_BROWSER_SHARED_UI_UTIL_IMAGE_IMAGE_COPIER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of table_view_illustrated_empty_view.mm.
+type: source
+title: TableViewIllustratedEmptyView implementation
+summary: Implements the illustrated empty view layout and handles taps on links in the subtitle through its delegate protocol.

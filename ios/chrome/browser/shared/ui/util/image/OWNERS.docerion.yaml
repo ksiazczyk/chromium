@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the image directory
+summary: Lists gambard@chromium.org as the code owner for the image utility directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TableViewIllustratedItem and cell header
+// summary: Declares TableViewIllustratedItem and TableViewIllustratedCell, a table view cell showing an image, title, subtitle and button.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_UI_TABLE_VIEW_CELLS_TABLE_VIEW_ILLUSTRATED_ITEM_H_
 #define IOS_CHROME_BROWSER_SHARED_UI_TABLE_VIEW_CELLS_TABLE_VIEW_ILLUSTRATED_ITEM_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of table_view_cell_content_configuration.mm.
+type: source
+title: Table view cell content configuration implementation
+summary: Implements TableViewCellContentConfiguration, including cell registration and dequeue helpers, separator insets, content view creation, accessibility and copying.

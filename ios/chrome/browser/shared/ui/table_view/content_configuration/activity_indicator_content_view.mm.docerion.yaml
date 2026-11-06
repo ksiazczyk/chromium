@@ -1,0 +1,4 @@
+# Docerion header of activity_indicator_content_view.mm.
+type: source
+title: Activity indicator cell content view implementation
+summary: Implements the activity indicator content view, applying configuration style, color, and animation settings to the underlying UIActivityIndicatorView.

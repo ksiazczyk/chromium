@@ -1,0 +1,4 @@
+# Docerion header of table_view_navigation_controller.mm.
+type: source
+title: TableViewNavigationController implementation
+summary: Implements the table view navigation controller with large titles and grouped background colors for navigation bar, toolbar and view.

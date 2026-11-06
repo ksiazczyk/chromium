@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Layout guide center mapping named reference views to guides
+// summary: Swift class that globally maps reference views to named layout guides so UI elements can track views across windows, with weak storage and parent fallback.
+// ---
+
 import UIKit
 
 /// Globally maps reference views to layout guides.

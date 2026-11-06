@@ -1,0 +1,4 @@
+# Docerion header of table_view_text_item_unittest.mm.
+type: test
+title: Table view text item unit tests
+summary: Unit tests covering text label configuration, masked text, headline font, and leading space reservation for TableViewTextItem.

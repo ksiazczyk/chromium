@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UIView window coordinate change notifications
+// summary: Extends UIView so views can observe when their coordinates change within the window, even when their own frame is unchanged.
+// ---
+
 import UIKit
 
 /// Lets any UIView communicate when its coordinates in its window change.

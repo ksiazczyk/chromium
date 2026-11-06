@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Colorful symbol content configuration interface
+// summary: Declares ColorfulSymbolContentConfiguration with symbol image, background color, and tint color properties for symbol views with a colorful background.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_UI_TABLE_VIEW_CONTENT_CONFIGURATION_COLORFUL_SYMBOL_CONTENT_CONFIGURATION_H_
 #define IOS_CHROME_BROWSER_SHARED_UI_TABLE_VIEW_CONTENT_CONFIGURATION_COLORFUL_SYMBOL_CONTENT_CONFIGURATION_H_
 

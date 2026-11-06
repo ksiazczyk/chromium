@@ -1,0 +1,4 @@
+# Docerion header of table_view_empty_view.mm.
+type: source
+title: TableViewEmptyView implementation
+summary: Implements the empty table view with a scrollable stack of image and styled message label plus accessibility support.

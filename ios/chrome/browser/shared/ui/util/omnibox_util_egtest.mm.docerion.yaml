@@ -1,0 +1,4 @@
+# Docerion header of omnibox_util_egtest.mm.
+type: test
+title: Omnibox utility Earl Grey tests
+summary: Earl Grey UI tests verifying IsCurrentLayoutBottomOmnibox across NTP, incognito NTP, web pages, and landscape orientation with the bottom omnibox preference toggled.

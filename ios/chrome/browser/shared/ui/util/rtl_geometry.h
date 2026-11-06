@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RTL geometry utilities interface
+// summary: Declares direction-independent layout helpers such as LayoutRect, leading inset lookup and edge tests for right-to-left and left-to-right layouts.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_UI_UTIL_RTL_GEOMETRY_H_
 #define IOS_CHROME_BROWSER_SHARED_UI_UTIL_RTL_GEOMETRY_H_
 

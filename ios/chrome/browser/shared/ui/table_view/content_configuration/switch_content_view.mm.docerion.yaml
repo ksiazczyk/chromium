@@ -1,0 +1,4 @@
+# Docerion header of switch_content_view.mm.
+type: source
+title: Switch content view implementation
+summary: Implements SwitchContentView, applying the configuration's target, selector, on and enabled state to the switch and providing accessibility support.

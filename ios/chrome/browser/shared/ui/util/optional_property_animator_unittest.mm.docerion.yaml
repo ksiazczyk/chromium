@@ -1,0 +1,4 @@
+# Docerion header of optional_property_animator_unittest.mm.
+type: test
+title: OptionalPropertyAnimator unit tests
+summary: Unit tests verifying the hasAnimations property across initializers and that starting an animator without animations is a no-op.

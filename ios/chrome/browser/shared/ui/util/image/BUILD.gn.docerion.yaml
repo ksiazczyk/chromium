@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for image utilities
+summary: Defines GN source sets for the image utilities, their unit tests, and the web-facing image copier and saver, with dependencies and frameworks.

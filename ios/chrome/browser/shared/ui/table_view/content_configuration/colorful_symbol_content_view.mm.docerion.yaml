@@ -1,0 +1,4 @@
+# Docerion header of colorful_symbol_content_view.mm.
+type: source
+title: Colorful symbol content view implementation
+summary: Implements the content view that renders a configured symbol image with tint color and rounded background.

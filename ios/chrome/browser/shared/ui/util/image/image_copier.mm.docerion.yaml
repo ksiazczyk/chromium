@@ -1,0 +1,4 @@
+# Docerion header of image_copier.mm.
+type: source
+title: ImageCopier implementation
+summary: Implements ImageCopier, fetching image data, showing a copying alert, and reporting Copy Image outcomes to the Mobile.ContextMenu.CopyImage UMA histogram.

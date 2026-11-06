@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Declarations of well-known layout guide names
+// summary: Header declaring NSString constants that name well-known layout guides for toolbars, omnibox elements, buttons, tab grid controls, and other UI components.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_UI_UTIL_LAYOUT_GUIDE_NAMES_H_
 #define IOS_CHROME_BROWSER_SHARED_UI_UTIL_LAYOUT_GUIDE_NAMES_H_
 

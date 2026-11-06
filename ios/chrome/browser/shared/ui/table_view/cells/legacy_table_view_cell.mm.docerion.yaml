@@ -1,0 +1,4 @@
+# Docerion header of legacy_table_view_cell.mm.
+type: source
+title: Legacy table view cell implementation
+summary: Implements custom separator layout, state reset on reuse, and accessibility behavior for LegacyTableViewCell.

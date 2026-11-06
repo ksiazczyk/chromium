@@ -1,0 +1,4 @@
+# Docerion header of table_view_multi_detail_text_item_unittest.mm.
+type: test
+title: Table view multi detail text item unit tests
+summary: Unit tests verifying that the multi detail text item sets title, subtitle, and trailing text on the configured cell.

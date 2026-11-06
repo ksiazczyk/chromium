@@ -1,0 +1,4 @@
+# Docerion header of table_view_detail_text_item.mm.
+type: source
+title: TableViewDetailTextItem implementation
+summary: Implements TableViewDetailTextItem, configuring cell content, accessibility hints for external links, and accessory symbol views.

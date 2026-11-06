@@ -1,0 +1,4 @@
+# Docerion header of table_view_url_item.mm.
+type: source
+title: Table view URL item implementation
+summary: Implements TableViewURLItem, configuring a cell with title, elided URL host text, favicon, third-row text, and accessibility properties.

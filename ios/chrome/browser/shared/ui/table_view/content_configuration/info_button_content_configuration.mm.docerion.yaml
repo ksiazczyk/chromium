@@ -1,0 +1,4 @@
+# Docerion header of info_button_content_configuration.mm.
+type: source
+title: Info button content configuration implementation
+summary: Implements InfoButtonContentConfiguration, creating info button views with a fixed content size and an accessibility hint.

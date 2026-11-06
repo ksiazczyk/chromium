@@ -1,0 +1,4 @@
+# Docerion header of table_view_text_button_item.mm.
+type: source
+title: Table view text button item implementation
+summary: Implements the text button item and cell, applying button text, colors, disabled dimming, activity indicator, and checkmark states.

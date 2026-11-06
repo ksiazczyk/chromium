@@ -1,0 +1,4 @@
+# Docerion header of animation_util.mm.
+type: source
+title: Animation grouping utility implementation
+summary: Implements AnimationGroupMake by wrapping animations in a CAAnimationGroup sized to the longest animation.

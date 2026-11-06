@@ -1,0 +1,4 @@
+# Docerion header of info_button_content_view.mm.
+type: source
+title: Info button content view implementation
+summary: Implements InfoButtonContentView, laying out an info symbol button with accessibility activation point and custom VoiceOver actions.

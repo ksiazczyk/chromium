@@ -1,0 +1,4 @@
+# Docerion header of table_view_header_footer_item_unittest.mm.
+type: test
+title: TableViewHeaderFooterItem unit tests
+summary: Unit tests verifying that TableViewHeaderFooterItem ports accessibility identifier and traits to its header/footer view.

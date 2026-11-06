@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImageSaver class header
+// summary: Declares the ImageSaver interface that fetches and saves the image at a URL to the system photo album.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_UI_UTIL_IMAGE_IMAGE_SAVER_H_
 #define IOS_CHROME_BROWSER_SHARED_UI_UTIL_IMAGE_IMAGE_SAVER_H_
 

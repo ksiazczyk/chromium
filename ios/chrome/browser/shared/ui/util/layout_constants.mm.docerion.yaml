@@ -1,0 +1,4 @@
+# Docerion header of layout_constants.mm.
+type: source
+title: Layout constants for app bar corner radius and sheet springs
+summary: Defines shared layout constants such as app bar corner radii and assistant sheet spring parameters, plus a helper for detecting significant corner radius changes.

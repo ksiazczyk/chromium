@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for shared UI util
+summary: Defines GN source sets, dependencies and frameworks for the shared iOS UI utility code, including Swift and test targets.

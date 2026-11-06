@@ -1,0 +1,4 @@
+# Docerion header of uiview_window_coordinates_unittest.mm.
+type: test
+title: View window coordinates unit tests
+summary: Unit tests for the UIView window coordinate callbacks, verifying invocation on window attachment, frame changes of the view or its parents, and window deallocation safety.
