@@ -1,0 +1,4 @@
+# Docerion header of shill_policy_autoconnect_on_unconfigured_wifi1.json.
+type: test
+title: Shill entry with policy autoconnect on unconfigured wifi1
+summary: Shill entry showing policy autoconnect applied to the unconfigured wifi1 network with the policy passphrase and managed credentials.

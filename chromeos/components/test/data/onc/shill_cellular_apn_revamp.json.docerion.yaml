@@ -1,0 +1,4 @@
+# Docerion header of shill_cellular_apn_revamp.json.
+type: test
+title: Shill cellular APN revamp test configuration
+summary: Shill cellular service configuration with a UI-sourced custom APN list.

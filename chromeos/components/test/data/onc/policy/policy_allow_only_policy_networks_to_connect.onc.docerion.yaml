@@ -1,0 +1,4 @@
+# Docerion header of policy_allow_only_policy_networks_to_connect.onc.
+type: test
+title: ONC policy fixture for AllowOnlyPolicyNetworksToConnect
+summary: ONC policy fixture setting AllowOnlyPolicyNetworksToConnect to true with an empty network configuration list.

@@ -1,0 +1,4 @@
+# Docerion header of fuzzer.dict.
+type: test
+title: Variable expander fuzzer dictionary
+summary: Dictionary of tokens such as dollar signs and braces used by a fuzzer to generate variable expander test inputs.

@@ -1,0 +1,4 @@
+# Docerion header of shill_cellular_with_state_apn_revamp.json.
+type: test
+title: Shill cellular fixture with full state and APN revamp fields
+summary: Shill cellular service test fixture mirroring the full state case but including APN revamp fields like apn_types and apn_source.

@@ -1,0 +1,4 @@
+# Docerion header of tether.onc.
+type: test
+title: Tether ONC test data
+summary: ONC test fixture describing a Tether network with carrier, battery and signal strength properties.

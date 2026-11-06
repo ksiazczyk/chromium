@@ -1,0 +1,4 @@
+# Docerion header of vpn_active_settings.onc.
+type: test
+title: VPN active settings test configuration
+summary: ONC test fixture of a connected OpenVPN network with IPv6 and IPv4 IP configurations plus saved IP config values.

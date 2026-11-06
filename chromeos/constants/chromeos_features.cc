@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS feature flag definitions
+// summary: Defines base::Feature flags for ChromeOS features such as GLIC, Mahi, Orca, Quick Answers, and platform keys.
+// ---
+
 #include "chromeos/constants/chromeos_features.h"
 
 #include "base/byte_size.h"

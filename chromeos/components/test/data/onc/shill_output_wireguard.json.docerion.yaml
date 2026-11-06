@@ -1,0 +1,4 @@
+# Docerion header of shill_output_wireguard.json.
+type: test
+title: Shill output for a WireGuard VPN
+summary: Shill output fixture for a WireGuard VPN with peers, keys and static IP configuration, used in ONC translation tests.

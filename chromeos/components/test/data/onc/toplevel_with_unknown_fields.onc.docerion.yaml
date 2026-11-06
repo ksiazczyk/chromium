@@ -1,0 +1,4 @@
+# Docerion header of toplevel_with_unknown_fields.onc.
+type: test
+title: ONC test config with unknown fields
+summary: Test fixture containing an ONC configuration with unknown top-level and nested fields to verify parsing tolerates unrecognized properties.

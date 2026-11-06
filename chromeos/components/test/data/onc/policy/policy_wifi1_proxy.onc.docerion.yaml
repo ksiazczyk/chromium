@@ -1,0 +1,4 @@
+# Docerion header of policy_wifi1_proxy.onc.
+type: test
+title: WiFi policy test configuration with PAC proxy
+summary: ONC policy fixture defining an open WiFi network with PAC proxy settings for Chrome OS network policy tests.

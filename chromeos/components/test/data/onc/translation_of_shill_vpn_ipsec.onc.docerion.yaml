@@ -1,0 +1,4 @@
+# Docerion header of translation_of_shill_vpn_ipsec.onc.
+type: test
+title: Translation of Shill L2TP-IPsec VPN
+summary: ONC test fixture of an L2TP-IPsec VPN configuration translated from a Shill dictionary, using certificate authentication and saved credentials.

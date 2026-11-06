@@ -1,0 +1,4 @@
+# Docerion header of policy_vpn_ui.json.
+type: test
+title: OpenVPN VPN UI test configuration
+summary: JSON fixture describing the UI-facing values of the OpenVPN policy, including a PKCS11 client certificate, OTP, and PasswordAndOTP authentication.

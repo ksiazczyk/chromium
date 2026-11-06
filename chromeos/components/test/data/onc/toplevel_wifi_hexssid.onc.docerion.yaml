@@ -1,0 +1,4 @@
+# Docerion header of toplevel_wifi_hexssid.onc.
+type: test
+title: toplevel_wifi_hexssid
+summary: ONC test file for importing an open WiFi network whose SSID is specified in hexadecimal form via HexSSID.

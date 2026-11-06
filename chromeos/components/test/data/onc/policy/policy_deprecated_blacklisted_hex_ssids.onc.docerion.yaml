@@ -1,0 +1,4 @@
+# Docerion header of policy_deprecated_blacklisted_hex_ssids.onc.
+type: test
+title: ONC policy using deprecated BlacklistedHexSSIDs
+summary: Test fixture ONC policy using the deprecated BlacklistedHexSSIDs property to block a hex-encoded SSID.

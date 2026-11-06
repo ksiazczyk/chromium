@@ -1,0 +1,4 @@
+# Docerion header of shill_wifi_non_utf8_ssid.json.
+type: test
+title: Shill WiFi config with non-UTF8 hex SSID
+summary: Test fixture with a shill WiFi PSK configuration that encodes a latin-1 non-UTF8 SSID via WiFi.HexSSID.

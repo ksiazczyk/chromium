@@ -1,0 +1,4 @@
+# Docerion header of managed_toplevel_with_cellular_sim_lock.onc.
+type: test
+title: Managed toplevel with cellular SIM lock ONC test configuration
+summary: Test ONC configuration that enables AllowCellularSimLock in the global network configuration alongside an Ethernet network.

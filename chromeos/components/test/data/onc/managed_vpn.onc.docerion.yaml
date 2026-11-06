@@ -1,0 +1,4 @@
+# Docerion header of managed_vpn.onc.
+type: test
+title: Managed VPN ONC policy with recommended properties
+summary: Test fixture of a managed OpenVPN policy with recommended fields, used to verify augmented ONC default handling.

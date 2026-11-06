@@ -1,0 +1,4 @@
+# Docerion header of translation_of_shill_openvpn_compression_algorithm_lz4_v2.onc.
+type: test
+title: Expected ONC for Shill OpenVPN with LZ4-V2 compression
+summary: Expected ONC translation of a Shill OpenVPN configuration using the LZ4-V2 compression algorithm, used in tests.

@@ -1,0 +1,4 @@
+# Docerion header of shill_ethernet.json.
+type: test
+title: Shill ethernet fixture with static IP config
+summary: Shill ethernet service test fixture with a static IPv4 configuration including gateway, name servers, and prefix length.

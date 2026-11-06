@@ -1,0 +1,4 @@
+# Docerion header of translation_of_shill_ethernet_with_ipconfig.onc.
+type: test
+title: Expected ONC for Shill Ethernet with static IP configuration
+summary: Expected ONC translation of a Shill Ethernet configuration with static IPv4 and IPv6 settings, used in tests.

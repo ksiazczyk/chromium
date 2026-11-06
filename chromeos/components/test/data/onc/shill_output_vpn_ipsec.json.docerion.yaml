@@ -1,0 +1,4 @@
+# Docerion header of shill_output_vpn_ipsec.json.
+type: test
+title: Shill output for an L2TP/IPsec VPN
+summary: Shill output fixture for an L2TP/IPsec VPN with client certificate, PIN and credentials, used in ONC translation tests.

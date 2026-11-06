@@ -1,0 +1,4 @@
+# Docerion header of wifi_with_hidden_ssid.onc.
+type: test
+title: WiFi network with hidden SSID
+summary: ONC test configuration for an open WiFi network with a hidden SSID given as SSID and HexSSID.

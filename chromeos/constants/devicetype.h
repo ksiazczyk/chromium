@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS device type declarations
+// summary: Declares the DeviceType enum and functions for form factor, device type, and subpixel font rendering support.
+// ---
+
 #ifndef CHROMEOS_CONSTANTS_DEVICETYPE_H_
 #define CHROMEOS_CONSTANTS_DEVICETYPE_H_
 

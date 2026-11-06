@@ -1,0 +1,4 @@
+# Docerion header of shill_openvpn_clientcert.json.
+type: test
+title: Shill OpenVPN client certificate test data
+summary: Shill-format OpenVPN configuration variant for client certificate scenarios, including proxy and extra hosts settings, used as test data.

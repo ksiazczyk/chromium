@@ -1,0 +1,4 @@
+# Docerion header of wimax.onc.
+type: test
+title: WiMAX network with EAP-TLS
+summary: ONC test configuration for a WiMAX network using EAP-TLS with system CAs, an identity variable and recommended fields.

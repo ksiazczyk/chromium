@@ -1,0 +1,4 @@
+# Docerion header of translation_of_shill_wifi_wep_8021x_clientcert.onc.
+type: test
+title: Shill WiFi WEP-8021X client certificate translation test data
+summary: Test ONC fixture of a WEP-8021X WiFi network with EAP-TLS identity and PAC proxy, used in shill translation tests.

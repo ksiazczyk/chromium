@@ -1,0 +1,4 @@
+# Docerion header of managed_vpn_without_recommended.onc.
+type: test
+title: Managed VPN ONC policy without recommended list
+summary: Test fixture of a managed OpenVPN policy lacking recommended properties, for comparison with the recommended variant.

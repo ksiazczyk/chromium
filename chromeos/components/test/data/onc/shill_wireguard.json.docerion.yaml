@@ -1,0 +1,4 @@
+# Docerion header of shill_wireguard.json.
+type: test
+title: Shill WireGuard test data
+summary: Shill WireGuard VPN test fixture with placeholder private and peer keys, endpoints and DNS settings.

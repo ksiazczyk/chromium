@@ -1,0 +1,4 @@
+# Docerion header of shill_output_ikev2_cert.json.
+type: test
+title: Shill IKEv2 VPN config with certificate authentication
+summary: Shill VPN service configuration for an IKEv2 network authenticated with a client certificate, used as test data.

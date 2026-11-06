@@ -1,0 +1,4 @@
+# Docerion header of augmented_merge_wireguard.json.
+type: test
+title: Augmented merge WireGuard test data
+summary: Test JSON with user-policy WireGuard VPN fields including peers and private key for augmented merge tests.

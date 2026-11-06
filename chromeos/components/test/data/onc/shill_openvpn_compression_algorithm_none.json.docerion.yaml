@@ -1,0 +1,4 @@
+# Docerion header of shill_openvpn_compression_algorithm_none.json.
+type: test
+title: Shill OpenVPN config without compression setting
+summary: Sample shill VPN service configuration for an OpenVPN network where the Compress property is omitted, for testing compression handling.

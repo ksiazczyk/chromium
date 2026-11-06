@@ -1,0 +1,4 @@
+# Docerion header of test2.
+type: test
+title: Fuzzer corpus input with machine_name substring length
+summary: Fuzzer corpus seed containing a ${machine_name,5} variable with a substring length argument for the ONC variable expander.

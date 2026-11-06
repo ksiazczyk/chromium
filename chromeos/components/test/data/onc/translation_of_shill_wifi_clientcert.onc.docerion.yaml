@@ -1,0 +1,4 @@
+# Docerion header of translation_of_shill_wifi_clientcert.onc.
+type: test
+title: Translation of Shill WiFi with client certificate
+summary: ONC test fixture of a WPA-EAP WiFi network with EAP-TLS settings and a PAC proxy translated from a Shill dictionary.

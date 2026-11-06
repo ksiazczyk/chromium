@@ -1,0 +1,4 @@
+# Docerion header of shill_ethernet_with_eap_ServerCAPEMs.json.
+type: test
+title: Shill ethernet EAP fixture with server CA PEMs
+summary: Shill ethernet EAP test fixture using TLS with a dummy server CA certificate string and system CAs disabled.

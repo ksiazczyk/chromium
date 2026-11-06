@@ -1,0 +1,4 @@
+# Docerion header of l2tpipsec_clientcert_with_cert_pems.onc.
+type: test
+title: L2TP-IPsec VPN ONC with client certificate pattern
+summary: Test ONC configuration for an L2TP-IPsec VPN using a client certificate pattern with issuer CA PEMs and XAUTH credentials.

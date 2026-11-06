@@ -1,0 +1,4 @@
+# Docerion header of ethernet_with_eap_and_cert_pems_ServerCAPEMs.onc.
+type: test
+title: ONC ethernet test config with EAP and server CA PEMs
+summary: Test ONC configuration for 802.1X ethernet with EAP-TLS that additionally specifies ServerCAPEMs for server certificate validation.

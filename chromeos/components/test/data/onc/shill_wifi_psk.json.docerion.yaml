@@ -1,0 +1,4 @@
+# Docerion header of shill_wifi_psk.json.
+type: test
+title: Shill WiFi PSK test data
+summary: Shill WiFi test fixture with PSK security, a fixed-server proxy configuration and WiFi frequency details.

@@ -1,0 +1,4 @@
+# Docerion header of policy_wifi1_update.onc.
+type: test
+title: Policy WiFi1 update ONC test configuration
+summary: ONC policy configuration that updates the managed wifi1 network with a new WPA-PSK passphrase and recommended AutoConnect and Passphrase settings.

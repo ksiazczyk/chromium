@@ -1,0 +1,4 @@
+# Docerion header of shill_l2tpipsec_clientcert.json.
+type: test
+title: Shill L2TP/IPsec VPN client certificate test data
+summary: Shill-format L2TP/IPsec VPN configuration variant named for client certificate scenarios, used as test data.

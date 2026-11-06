@@ -1,0 +1,4 @@
+# Docerion header of user.onc.
+type: test
+title: User OpenVPN ONC test configuration
+summary: Test ONC fixture of a user-configured OpenVPN network with static IPv4 settings and a direct proxy.

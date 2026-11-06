@@ -1,0 +1,4 @@
+# Docerion header of network_configs_with_resolved_certs.json.
+type: test
+title: Network configurations with resolved certificate references
+summary: Test data pairing network configurations that use certificate references with their expected resolved PEM variants.

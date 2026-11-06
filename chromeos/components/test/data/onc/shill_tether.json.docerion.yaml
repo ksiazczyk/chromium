@@ -1,0 +1,4 @@
+# Docerion header of shill_tether.json.
+type: test
+title: Shill tether network fixture
+summary: Shill fixture for a wifi-tether network with battery percentage, carrier and signal strength, used in ONC translation tests.

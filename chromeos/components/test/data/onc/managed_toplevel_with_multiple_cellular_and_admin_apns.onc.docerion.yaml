@@ -1,0 +1,4 @@
+# Docerion header of managed_toplevel_with_multiple_cellular_and_admin_apns.onc.
+type: test
+title: Managed top level ONC with multiple cellular and admin APNs
+summary: ONC test configuration with several cellular networks using admin assigned and custom APN lists.

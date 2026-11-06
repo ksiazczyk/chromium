@@ -1,0 +1,4 @@
+# Docerion header of managed_toplevel_with_psim_admin_assigned_apn_id_list.onc.
+type: test
+title: Managed top level ONC with PSIM admin assigned APN ID list
+summary: ONC test configuration with PSIM admin assigned APN IDs matching entries in the admin APN list.

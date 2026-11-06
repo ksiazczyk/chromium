@@ -1,0 +1,4 @@
+# Docerion header of policy_cellular.onc.
+type: test
+title: ONC policy for a managed cellular network
+summary: Test fixture ONC policy defining a managed cellular network with an SM-DP address for eSIM provisioning.

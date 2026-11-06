@@ -1,0 +1,4 @@
+# Docerion header of shill_wimax.json.
+type: test
+title: Shill WiMAX test data
+summary: Empty JSON fixture used as shill WiMAX test data.

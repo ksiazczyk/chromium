@@ -1,0 +1,4 @@
+# Docerion header of certificate-web-authority-update.onc.
+type: test
+title: ONC test config updating a web-trusted certificate authority
+summary: Test ONC configuration with an unencrypted web-trusted authority certificate, used to exercise certificate update handling.

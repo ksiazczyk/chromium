@@ -1,0 +1,4 @@
+# Docerion header of managed_toplevel_with_apns.onc.
+type: test
+title: Managed toplevel with APNs ONC test configuration
+summary: Test ONC configuration with an admin APN list, global APN policy settings and a cellular network with assigned and custom APNs.

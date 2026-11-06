@@ -1,0 +1,4 @@
+# Docerion header of managed_toplevel2_with_cert_pems.onc.
+type: test
+title: Managed toplevel2 with certificate PEMs ONC test configuration
+summary: Variant of the toplevel2 ONC test configuration that references server and issuer CA certificates by PEM instead of GUID refs.

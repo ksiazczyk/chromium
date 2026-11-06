@@ -1,0 +1,4 @@
+# Docerion header of shill_output_third_party_vpn.json.
+type: test
+title: Shill output for a third-party VPN
+summary: Shill output fixture describing a third-party VPN network with provider host and type, used in ONC translation tests.

@@ -1,0 +1,4 @@
+# Docerion header of shill_wifi_proxy.json.
+type: test
+title: Shill WiFi config with proxy settings
+summary: Test fixture with a shill WiFi configuration containing a fixed-servers proxy configuration with bypass list.

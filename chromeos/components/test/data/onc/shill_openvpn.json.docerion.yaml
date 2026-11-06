@@ -1,0 +1,4 @@
+# Docerion header of shill_openvpn.json.
+type: test
+title: Shill OpenVPN configuration test data
+summary: Shill-format OpenVPN configuration with extensive options such as TLS auth key, extra hosts and OTP token, used as test data.

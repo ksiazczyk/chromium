@@ -1,0 +1,4 @@
+# Docerion header of policy_vpn_autoconnect.onc.
+type: test
+title: VPN policy test configuration with auto-connect
+summary: ONC policy fixture defining an OpenVPN network with auto-connect enabled and password-based user authentication for Chrome OS network policy tests.

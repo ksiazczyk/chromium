@@ -1,0 +1,4 @@
+# Docerion header of shill_policy_on_managed_vpn_plus_ui.json.
+type: test
+title: Shill policy entry for managed VPN with UI data
+summary: Test fixture of a shill profile entry applying a user policy to a managed OpenVPN connection, including UIData with saved credentials and user settings.

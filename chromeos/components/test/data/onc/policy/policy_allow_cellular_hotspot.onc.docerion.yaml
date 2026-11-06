@@ -1,0 +1,4 @@
+# Docerion header of policy_allow_cellular_hotspot.onc.
+type: test
+title: ONC policy fixture for AllowCellularHotspot
+summary: ONC policy fixture setting GlobalNetworkConfiguration AllowCellularHotspot to false for a managed cellular network.

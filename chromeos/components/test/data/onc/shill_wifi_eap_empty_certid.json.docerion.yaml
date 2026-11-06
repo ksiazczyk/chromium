@@ -1,0 +1,4 @@
+# Docerion header of shill_wifi_eap_empty_certid.json.
+type: test
+title: Shill WiFi EAP TLS config with empty CertID
+summary: Test fixture with a shill WiFi 802.1X EAP-TLS configuration whose EAP.CertID is empty, including subject and SAN match settings.

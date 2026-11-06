@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS preference name constants
+// summary: Declares chromeos::prefs constants for preference names covering captive portal signin, device restriction schedules, Floating Workspace/SSO, and auto sign-out settings.
+// ---
+
 #ifndef CHROMEOS_CONSTANTS_PREF_NAMES_H_
 #define CHROMEOS_CONSTANTS_PREF_NAMES_H_
 

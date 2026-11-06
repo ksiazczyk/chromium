@@ -1,0 +1,4 @@
+# Docerion header of encrypted.onc.
+type: test
+title: Encrypted ONC test configuration
+summary: Test ONC file in encrypted configuration form, using AES256 with PBKDF2 key stretching and an HMAC.

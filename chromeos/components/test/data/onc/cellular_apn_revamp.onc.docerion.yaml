@@ -1,0 +1,4 @@
+# Docerion header of cellular_apn_revamp.onc.
+type: test
+title: Cellular APN revamp ONC test configuration
+summary: Test ONC file with UI-sourced custom APN list entries for testing the revamped cellular APN handling.

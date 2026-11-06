@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS device type detection implementation
+// summary: Determines the device form factor and type and whether the board supports subpixel font rendering.
+// ---
+
 #include "chromeos/constants/devicetype.h"
 
 #include "base/command_line.h"

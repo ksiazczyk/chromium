@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners rules for ChromeOS constants files
+summary: Grants per-file ownership so feature flags, switches, and PKCS#11 definitions can be added without CrOS owners oversight.

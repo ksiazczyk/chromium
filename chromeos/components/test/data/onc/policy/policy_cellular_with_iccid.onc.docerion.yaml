@@ -1,0 +1,4 @@
+# Docerion header of policy_cellular_with_iccid.onc.
+type: test
+title: ONC policy for a cellular network with ICCID
+summary: Test fixture ONC policy defining a managed cellular network with autoconnect, an SM-DP address, and an ICCID.

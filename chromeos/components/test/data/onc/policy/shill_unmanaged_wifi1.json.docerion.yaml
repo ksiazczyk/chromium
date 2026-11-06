@@ -1,0 +1,4 @@
+# Docerion header of shill_unmanaged_wifi1.json.
+type: test
+title: Shill entry for unmanaged WiFi network wifi1
+summary: Test fixture of a shill profile entry for an unmanaged PSK WiFi network wifi1 with user settings.

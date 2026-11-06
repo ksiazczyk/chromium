@@ -1,0 +1,4 @@
+# Docerion header of managed_toplevel_with_only_managed.onc.
+type: test
+title: Managed top level ONC with only managed networks
+summary: ONC test configuration restricting autoconnect and connect to policy networks alongside a managed Ethernet entry.

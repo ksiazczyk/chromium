@@ -1,0 +1,4 @@
+# Docerion header of managed_toplevel2.onc.
+type: test
+title: Managed toplevel2 ONC test configuration
+summary: Test ONC configuration with an EAP-TLS WiFi network, an OpenVPN network with proxy settings, and authority certificates referenced by GUID.

@@ -1,0 +1,4 @@
+# Docerion header of ethernet_with_eap.onc.
+type: test
+title: ONC ethernet test config with EAP-TLS
+summary: Test ONC configuration for ethernet with EAP-TLS authentication using a client certificate pattern and enrollment URI.

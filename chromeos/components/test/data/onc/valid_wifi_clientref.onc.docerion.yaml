@@ -1,0 +1,4 @@
+# Docerion header of valid_wifi_clientref.onc.
+type: test
+title: Valid WiFi ONC with client certificate reference
+summary: Test fixture with a valid ONC WiFi configuration using EAP-TLS with a client certificate reference and PAC proxy.

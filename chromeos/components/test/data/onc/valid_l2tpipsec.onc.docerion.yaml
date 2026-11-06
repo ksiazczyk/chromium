@@ -1,0 +1,4 @@
+# Docerion header of valid_l2tpipsec.onc.
+type: test
+title: Valid L2TP-IPsec VPN ONC configuration
+summary: Test fixture with a valid ONC configuration for an L2TP-IPsec VPN using PSK and XAUTH.

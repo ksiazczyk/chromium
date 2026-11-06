@@ -1,0 +1,4 @@
+# Docerion header of valid_openvpn.onc.
+type: test
+title: Valid OpenVPN ONC configuration
+summary: Test fixture with a valid ONC OpenVPN configuration including a TLS auth key and user credentials.

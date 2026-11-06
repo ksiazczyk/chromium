@@ -1,0 +1,4 @@
+# Docerion header of shill_cellular_with_roaming_required_and_inactive.json.
+type: test
+title: Shill cellular fixture with roaming required on inactive SIM
+summary: Shill cellular test fixture where the provider requires roaming but the ICCID differs, checking that roaming override applies only to the active SIM.

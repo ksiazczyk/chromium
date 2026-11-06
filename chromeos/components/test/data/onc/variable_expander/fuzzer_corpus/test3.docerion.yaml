@@ -1,0 +1,4 @@
+# Docerion header of test3.
+type: test
+title: Fuzzer corpus input with machine_name substring range
+summary: Fuzzer corpus seed containing a ${machine_name,3,6} variable with substring range arguments for the ONC variable expander.

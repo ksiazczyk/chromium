@@ -1,0 +1,4 @@
+# Docerion header of translation_of_shill_cellular_with_roaming_required_and_inactive.onc.
+type: test
+title: 'Shill cellular translation test: roaming required and inactive'
+summary: Test fixture of a shill cellular network in the Home roaming state used to verify translation into ONC.

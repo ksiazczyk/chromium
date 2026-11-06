@@ -1,0 +1,4 @@
+# Docerion header of shill_openvpn_advanced.json.
+type: test
+title: Shill OpenVPN advanced options test data
+summary: Shill-format OpenVPN configuration with advanced settings like cipher, compression and TLS auth key, used as test data.

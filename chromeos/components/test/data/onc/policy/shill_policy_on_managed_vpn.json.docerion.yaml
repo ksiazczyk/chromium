@@ -1,0 +1,4 @@
+# Docerion header of shill_policy_on_managed_vpn.json.
+type: test
+title: Shill entry with policy on managed OpenVPN
+summary: Shill entry showing user policy applied to an already managed OpenVPN connection, with provider settings and empty user settings in UIData.

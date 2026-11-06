@@ -1,0 +1,4 @@
+# Docerion header of policy_blocked_hex_ssids.onc.
+type: test
+title: ONC policy with BlockedHexSSIDs
+summary: Test fixture ONC policy that blocks a hex-encoded SSID via the BlockedHexSSIDs global network setting.

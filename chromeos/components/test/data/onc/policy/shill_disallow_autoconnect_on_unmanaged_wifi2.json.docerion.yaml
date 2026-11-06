@@ -1,0 +1,4 @@
+# Docerion header of shill_disallow_autoconnect_on_unmanaged_wifi2.json.
+type: test
+title: Shill entry disallowing autoconnect on unmanaged wifi2
+summary: Shill profile entry for the unmanaged wifi2 network with AutoConnect disabled, used as expected state in policy tests.

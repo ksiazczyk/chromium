@@ -1,0 +1,4 @@
+# Docerion header of duplicate_admin_apn_ids.onc.
+type: test
+title: ONC test config with duplicate admin APN IDs
+summary: Test ONC configuration with an admin APN list containing duplicate IDs, used to test duplicate handling.

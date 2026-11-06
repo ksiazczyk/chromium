@@ -1,0 +1,4 @@
+# Docerion header of cellular_with_neither_smdp_nor_smds.onc.
+type: test
+title: Cellular ONC without SM-DP or SM-DS address
+summary: Test cellular ONC configuration that sets neither an SM-DP nor an SM-DS address, for exercising cellular network setup without eSIM activation servers.

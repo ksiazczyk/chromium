@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Device type unit tests
+// summary: Unit tests verifying device type mapping from form factors and subpixel font rendering support per release board.
+// ---
+
 #include "chromeos/constants/devicetype.h"
 
 #include "base/command_line.h"

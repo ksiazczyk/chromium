@@ -1,0 +1,4 @@
+# Docerion header of wifi_clientcert_with_almost_placeholders.onc.
+type: test
+title: WiFi client certificate pattern with near placeholders test configuration
+summary: ONC test fixture with issuer and subject certificate patterns containing DEVICE_SERIAL_NUMBER strings that are not valid placeholders.

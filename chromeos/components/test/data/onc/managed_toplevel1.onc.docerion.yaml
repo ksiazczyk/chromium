@@ -1,0 +1,4 @@
+# Docerion header of managed_toplevel1.onc.
+type: test
+title: Managed toplevel1 ONC test configuration
+summary: Test ONC configuration with an OpenVPN and an Ethernet network plus a PKCS12 client certificate for managed network import tests.

@@ -1,0 +1,4 @@
+# Docerion header of wifi_eap_tls_ServerCAPEMs.onc.
+type: test
+title: WiFi EAP-TLS with server CA PEMs test configuration
+summary: ONC test fixture of an EAP-TLS WiFi network like the plain EAP-TLS case but additionally specifying server CA PEM certificates.

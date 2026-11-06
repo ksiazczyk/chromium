@@ -1,0 +1,4 @@
+# Docerion header of ethernet.onc.
+type: test
+title: ONC ethernet test configuration with static IP
+summary: Test ONC configuration for an ethernet network without authentication and with a static IPv4 setup.

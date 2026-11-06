@@ -1,0 +1,4 @@
+# Docerion header of shill_unmanaged_ethernet_eap.json.
+type: test
+title: Shill entry for unmanaged Ethernet EAP
+summary: Test fixture of a shill profile entry for an unmanaged Ethernet EAP network using LEAP.

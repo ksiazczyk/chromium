@@ -1,0 +1,4 @@
+# Docerion header of shill_output_ikev2_eap.json.
+type: test
+title: Shill IKEv2 VPN config with EAP authentication
+summary: Shill VPN service configuration for an IKEv2 network using EAP with MSCHAPV2, used as test data.

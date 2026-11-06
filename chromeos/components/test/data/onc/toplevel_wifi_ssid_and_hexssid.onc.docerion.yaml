@@ -1,0 +1,4 @@
+# Docerion header of toplevel_wifi_ssid_and_hexssid.onc.
+type: test
+title: 'ONC test config: WiFi with SSID and HexSSID'
+summary: Test fixture for an unencrypted ONC configuration defining an open WiFi network with matching SSID and HexSSID values.

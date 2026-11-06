@@ -1,0 +1,4 @@
+# Docerion header of wifi_clientcert_with_cert_placeholders.onc.
+type: test
+title: WiFi client certificate with placeholders test configuration
+summary: ONC test fixture with issuer and subject certificate patterns using ${DEVICE_SERIAL_NUMBER} placeholder substitution.

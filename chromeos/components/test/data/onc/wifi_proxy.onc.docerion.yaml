@@ -1,0 +1,4 @@
+# Docerion header of wifi_proxy.onc.
+type: test
+title: WiFi network with manual proxy settings
+summary: ONC test configuration for an open WiFi network with manual proxy settings for HTTP, HTTPS, FTP and SOCKS plus excluded domains.

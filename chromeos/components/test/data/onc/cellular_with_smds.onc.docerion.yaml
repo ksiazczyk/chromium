@@ -1,0 +1,4 @@
+# Docerion header of cellular_with_smds.onc.
+type: test
+title: Cellular ONC with SM-DS address
+summary: Test cellular ONC configuration that specifies a bogus SM-DS address alongside roaming and auto-connect settings.

@@ -1,0 +1,4 @@
+# Docerion header of openvpn_compression_algorithm_lzo.onc.
+type: test
+title: OpenVPN configuration with LZO compression
+summary: Test fixture of an OpenVPN configuration exercising the LZO compression algorithm alongside many advanced OpenVPN settings.

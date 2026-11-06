@@ -1,0 +1,4 @@
+# Docerion header of managed_toplevel_wifi_peap.onc.
+type: test
+title: Managed toplevel WiFi PEAP ONC test configuration
+summary: Test ONC configuration with a WPA-EAP WiFi network using PEAP and recommended anonymous identity, identity and password fields.

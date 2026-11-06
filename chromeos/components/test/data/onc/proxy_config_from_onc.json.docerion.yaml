@@ -1,0 +1,4 @@
+# Docerion header of proxy_config_from_onc.json.
+type: test
+title: ONC PAC proxy settings to ProxyConfig test cases
+summary: Test cases mapping ONC PAC proxy settings to ProxyConfig PAC script entries.

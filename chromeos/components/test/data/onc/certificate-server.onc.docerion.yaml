@@ -1,0 +1,4 @@
+# Docerion header of certificate-server.onc.
+type: test
+title: ONC server certificate with junk around PEM
+summary: Test ONC configuration with a server certificate whose PEM data is padded with leading and trailing junk text.

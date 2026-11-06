@@ -1,0 +1,4 @@
+# Docerion header of cellular.onc.
+type: test
+title: Cellular ONC test configuration
+summary: Test ONC file with a basic cellular network configuration including APN credentials and roaming settings.

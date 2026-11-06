@@ -1,0 +1,4 @@
+# Docerion header of cert_with_explicit_default_scope.onc.
+type: test
+title: Certificate ONC with explicit default scope
+summary: Test ONC certificate entry for an authority certificate whose scope is explicitly set to the Default type.

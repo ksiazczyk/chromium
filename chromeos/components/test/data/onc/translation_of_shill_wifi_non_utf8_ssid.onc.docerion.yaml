@@ -1,0 +1,4 @@
+# Docerion header of translation_of_shill_wifi_non_utf8_ssid.onc.
+type: test
+title: Shill WiFi non-UTF8 SSID translation test data
+summary: Test ONC fixture of a WPA-PSK WiFi network whose non-UTF8 SSID is provided as a hex value, used in shill translation tests.

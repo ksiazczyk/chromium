@@ -1,0 +1,4 @@
+# Docerion header of decrypted.onc.
+type: test
+title: Decrypted ONC test configuration with a WiFi network
+summary: Decrypted ONC test configuration defining an open WiFi network that uses a PAC proxy.

@@ -1,0 +1,4 @@
+# Docerion header of cellular_apn_policies.onc.
+type: test
+title: Cellular APN admin policy ONC test configuration
+summary: Test ONC file with admin-sourced APN and custom APN list entries covering APN types, authentication and states.

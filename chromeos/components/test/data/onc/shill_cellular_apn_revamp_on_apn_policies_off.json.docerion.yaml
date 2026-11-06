@@ -1,0 +1,4 @@
+# Docerion header of shill_cellular_apn_revamp_on_apn_policies_off.json.
+type: test
+title: Shill cellular fixture for APN revamp with APN policies off
+summary: Shill cellular service test fixture with a custom APN list, used to test APN revamp behavior when APN policies are disabled.

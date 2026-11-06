@@ -1,0 +1,4 @@
+# Docerion header of translation_of_shill_openvpn_with_errors.onc.
+type: test
+title: Translation of Shill OpenVPN with errors
+summary: ONC test fixture of an OpenVPN network translated from a Shill dictionary, with comments noting fields missing because of errors in the Shill dict.

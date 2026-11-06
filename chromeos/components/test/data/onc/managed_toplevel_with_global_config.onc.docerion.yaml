@@ -1,0 +1,4 @@
+# Docerion header of managed_toplevel_with_global_config.onc.
+type: test
+title: Managed top level ONC with global network configuration
+summary: ONC test configuration combining a global network policy with a managed Ethernet network entry.

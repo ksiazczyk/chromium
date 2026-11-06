@@ -1,0 +1,4 @@
+# Docerion header of shill_wifi_proxy_pac.json.
+type: test
+title: Shill WiFi proxy PAC test data
+summary: Shill WiFi network configuration test fixture that sets a PAC-based proxy configuration for a managed WiFi service.

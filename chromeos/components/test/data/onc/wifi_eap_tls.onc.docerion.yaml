@@ -1,0 +1,4 @@
+# Docerion header of wifi_eap_tls.onc.
+type: test
+title: WiFi EAP-TLS test configuration
+summary: ONC test fixture of an EAP-TLS WiFi network with a PKCS#11 client certificate, subject and SAN matches, and a TLS version limit.

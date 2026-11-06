@@ -1,0 +1,4 @@
+# Docerion header of openvpn_compression_algorithm_none.onc.
+type: test
+title: OpenVPN test configuration with compression algorithm none
+summary: OpenVPN ONC test configuration with the compression algorithm set to None.

@@ -1,0 +1,4 @@
+# Docerion header of wifi_proxy_pac.onc.
+type: test
+title: WiFi network with PAC proxy settings
+summary: ONC test configuration for an open WiFi network whose proxy settings use a PAC URL.

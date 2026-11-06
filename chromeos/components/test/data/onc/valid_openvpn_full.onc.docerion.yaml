@@ -1,0 +1,4 @@
+# Docerion header of valid_openvpn_full.onc.
+type: test
+title: Valid full OpenVPN ONC configuration
+summary: Test fixture with a valid unencrypted ONC configuration for a managed OpenVPN network.

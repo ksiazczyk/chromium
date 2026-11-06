@@ -1,0 +1,4 @@
+# Docerion header of certificate-client.onc.
+type: test
+title: ONC client certificate
+summary: Test ONC configuration with a client certificate provided as a PKCS12 blob.

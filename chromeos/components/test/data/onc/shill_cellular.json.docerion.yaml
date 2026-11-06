@@ -1,0 +1,4 @@
+# Docerion header of shill_cellular.json.
+type: test
+title: Shill cellular service test configuration
+summary: Shill cellular service configuration with roaming and APN settings.

@@ -1,0 +1,4 @@
+# Docerion header of valid_wireguard.onc.
+type: test
+title: Valid WireGuard VPN ONC configuration
+summary: Test fixture with a valid ONC WireGuard VPN configuration including peer settings and static IP configuration.

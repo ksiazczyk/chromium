@@ -1,0 +1,4 @@
+# Docerion header of shill_ikev2_psk.json.
+type: test
+title: Shill IKEv2 VPN with pre-shared key test data
+summary: Shill-format network configuration for an IKEv2 VPN authenticated with a pre-shared key, used as test data.

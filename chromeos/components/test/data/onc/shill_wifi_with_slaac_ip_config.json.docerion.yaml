@@ -1,0 +1,4 @@
+# Docerion header of shill_wifi_with_slaac_ip_config.json.
+type: test
+title: Shill WiFi with SLAAC IP config test data
+summary: Shill WiFi test fixture containing IPv4 and SLAAC IPv6 IP configurations with DNS and proxy auto-discovery settings.
