@@ -1,0 +1,4 @@
+# Docerion header of ax-math-prescripts-expected.txt.
+type: test
+title: Expected AXMathPrescripts attribute output for MathML multiscripts
+summary: Expected macOS accessibility AXMathPrescripts values for MathML mmultiscripts elements, enumerating prescript subscripts and superscripts.

@@ -1,0 +1,4 @@
+# Docerion header of accessibility-insertion-point-line-number-expected.txt.
+type: test
+title: Expected insertion point line number result
+summary: Expected output stating the accessibilityInsertionPointLineNumber for a focused textarea.

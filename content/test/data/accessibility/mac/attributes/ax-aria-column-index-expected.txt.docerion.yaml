@@ -1,0 +1,4 @@
+# Docerion header of ax-aria-column-index-expected.txt.
+type: test
+title: Expected AXARIAColumnIndex accessibility attribute results
+summary: Expected macOS accessibility output verifying the AXARIAColumnIndex attribute for automatic, explicit and non-cell column indexes.

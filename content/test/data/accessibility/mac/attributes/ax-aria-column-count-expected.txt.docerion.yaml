@@ -1,0 +1,4 @@
+# Docerion header of ax-aria-column-count-expected.txt.
+type: test
+title: Expected AXARIAColumnCount accessibility attribute results
+summary: Expected macOS accessibility output verifying the AXARIAColumnCount attribute for automatic, explicit and non-table column counts.

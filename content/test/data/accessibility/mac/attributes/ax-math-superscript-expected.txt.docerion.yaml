@@ -1,0 +1,4 @@
+# Docerion header of ax-math-superscript-expected.txt.
+type: test
+title: Expected results for MathML superscript accessibility attribute test
+summary: Expected macOS accessibility output for the MathML superscript test, listing AXMathSuperscript attribute values for msup and msubsup elements.

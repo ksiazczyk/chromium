@@ -1,0 +1,4 @@
+# Docerion header of ax-math-under.html.
+type: test
+title: MathML under accessibility test page
+summary: HTML test page with munder and munderover MathML elements whose AXMathUnder attribute values are checked on macOS.

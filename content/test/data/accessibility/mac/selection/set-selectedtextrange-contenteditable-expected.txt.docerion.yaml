@@ -1,0 +1,4 @@
+# Docerion header of set-selectedtextrange-contenteditable-expected.txt.
+type: test
+title: Set selected text range contenteditable expected output
+summary: Expected accessibility output for setting AXSelectedTextRange selections over a word, a span, and a range crossing span and em elements in a contenteditable.

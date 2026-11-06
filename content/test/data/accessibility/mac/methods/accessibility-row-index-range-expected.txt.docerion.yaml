@@ -1,0 +1,4 @@
+# Docerion header of accessibility-row-index-range-expected.txt.
+type: test
+title: Expected output for accessibilityRowIndexRange test
+summary: Expected results asserting the accessibilityRowIndexRange of a table header cell.

@@ -1,0 +1,4 @@
+# Docerion header of ax-press-button-expected.txt.
+type: test
+title: Expected output for Mac accessibility press button test
+summary: Expected AXFocusedUIElementChanged notification output for the Mac accessibility press button test.

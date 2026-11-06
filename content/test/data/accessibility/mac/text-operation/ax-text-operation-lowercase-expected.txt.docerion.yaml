@@ -1,0 +1,4 @@
+# Docerion header of ax-text-operation-lowercase-expected.txt.
+type: test
+title: Lowercase text operation expected results
+summary: Expected output for the macOS accessibility test that lowercases text in contenteditable, textarea, and input elements.

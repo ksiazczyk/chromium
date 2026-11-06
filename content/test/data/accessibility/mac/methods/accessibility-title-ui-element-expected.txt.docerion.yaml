@@ -1,0 +1,4 @@
+# Docerion header of accessibility-title-ui-element-expected.txt.
+type: test
+title: Expected results for accessibilityTitleUIElement test
+summary: Expected output asserting that a labelled control's accessibilityTitleUIElement is NULL.

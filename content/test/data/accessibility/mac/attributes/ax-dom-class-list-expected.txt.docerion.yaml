@@ -1,0 +1,4 @@
+# Docerion header of ax-dom-class-list-expected.txt.
+type: test
+title: AXDOMClassList expected results
+summary: Expected output verifying that AXDOMClassList exposes an element's CSS classes and an empty list when no class is set.

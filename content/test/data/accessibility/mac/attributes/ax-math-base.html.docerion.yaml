@@ -1,0 +1,4 @@
+# Docerion header of ax-math-base.html.
+type: test
+title: AXMathBase attribute test page
+summary: HTML test page with MathML sub, sup, subsup, under, over, underover and multiscripts elements used to check the AXMathBase accessibility attribute.

@@ -1,0 +1,4 @@
+# Docerion header of ax-selected-children-expected.txt.
+type: test
+title: AXSelectedChildren attribute expected results
+summary: Expected macOS accessibility output for the AXSelectedChildren attribute test on a listbox and a div.

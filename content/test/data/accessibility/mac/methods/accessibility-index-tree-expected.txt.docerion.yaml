@@ -1,0 +1,4 @@
+# Docerion header of accessibility-index-tree-expected.txt.
+type: test
+title: Expected accessibilityIndex values for tree items
+summary: Expected output listing accessibilityIndex values for nested tree items in the accessibility index tree test.

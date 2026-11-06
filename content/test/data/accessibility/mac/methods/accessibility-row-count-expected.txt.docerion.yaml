@@ -1,0 +1,4 @@
+# Docerion header of accessibility-row-count-expected.txt.
+type: test
+title: Expected output for accessibilityRowCount test
+summary: Expected results file asserting that a simple table reports an accessibilityRowCount of 3 on macOS.

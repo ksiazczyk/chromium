@@ -1,0 +1,4 @@
+# Docerion header of ax-column-header-ui-elements-expected.txt.
+type: test
+title: AXColumnHeaderUIElements expected results
+summary: Expected macOS accessibility output for the column header test, listing AXColumnHeaderUIElements attribute presence and values for a table, cell and columnheader.

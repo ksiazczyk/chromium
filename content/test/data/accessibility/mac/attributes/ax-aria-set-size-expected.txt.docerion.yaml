@@ -1,0 +1,4 @@
+# Docerion header of ax-aria-set-size-expected.txt.
+type: test
+title: AXARIASetSize expected results
+summary: Expected macOS accessibility output for the aria-setsize test, listing AXARIASetSize attribute presence and values for menu items and other elements.

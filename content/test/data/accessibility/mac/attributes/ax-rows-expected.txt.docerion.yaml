@@ -1,0 +1,4 @@
+# Docerion header of ax-rows-expected.txt.
+type: test
+title: AXRows attribute expected results
+summary: Expected macOS accessibility output for the AXRows attribute test on table, column, and tree elements.

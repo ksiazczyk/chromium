@@ -1,0 +1,4 @@
+# Docerion header of ax-math-root-radicand-expected.txt.
+type: test
+title: Expected AXMathRootRadicand attribute output for MathML roots
+summary: Expected macOS accessibility AXMathRootRadicand values for MathML msqrt and mroot elements, covering empty and missing radicands.

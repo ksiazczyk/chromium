@@ -1,0 +1,4 @@
+# Docerion header of accessibility-role-description-expected.txt.
+type: test
+title: Expected output for accessibilityRoleDescription
+summary: Expected Mac role descriptions for a wide range of HTML elements, ARIA roles, and fallback role and subrole cases.

@@ -1,0 +1,4 @@
+# Docerion header of ax-details-elements-expected.txt.
+type: test
+title: AXDetailsElements expected results
+summary: Expected output verifying the AXDetailsElements attribute for an element with aria-details and its absence for an element without details.

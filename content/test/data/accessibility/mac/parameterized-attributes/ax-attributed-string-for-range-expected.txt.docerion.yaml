@@ -1,0 +1,4 @@
+# Docerion header of ax-attributed-string-for-range-expected.txt.
+type: test
+title: Expected results for AXAttributedStringForRange accessibility test
+summary: Expected output verifying that an input element supports the AXAttributedStringForRange parameterized attribute and returns attributed string data with font and color details.

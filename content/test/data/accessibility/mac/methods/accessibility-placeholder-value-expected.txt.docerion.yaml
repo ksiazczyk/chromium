@@ -1,0 +1,4 @@
+# Docerion header of accessibility-placeholder-value-expected.txt.
+type: test
+title: Expected output for accessibilityPlaceholderValue
+summary: Expected placeholder value John reported for both an input with a placeholder attribute and a div using aria-placeholder.

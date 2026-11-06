@@ -1,0 +1,4 @@
+# Docerion header of suggestion-expected.txt.
+type: test
+title: Suggestion expected output
+summary: Expected attributed string output for suggestion text, showing the AXIsSuggestion attribute for the queried text marker range.

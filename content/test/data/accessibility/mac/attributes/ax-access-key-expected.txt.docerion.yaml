@@ -1,0 +1,4 @@
+# Docerion header of ax-access-key-expected.txt.
+type: test
+title: Expected AXAccessKey accessibility attribute results
+summary: Expected macOS accessibility output verifying the AXAccessKey attribute for focusable, restricted, invalid and not applicable elements.

@@ -1,0 +1,4 @@
+# Docerion header of ax-focusable-ancestor-expected.txt.
+type: test
+title: Expected AXFocusableAncestor accessibility attribute results
+summary: Expected macOS accessibility attribute values for the AXFocusableAncestor test covering input, contenteditable, and document nodes.

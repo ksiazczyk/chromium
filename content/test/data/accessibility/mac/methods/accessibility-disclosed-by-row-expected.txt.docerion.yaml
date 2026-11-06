@@ -1,0 +1,4 @@
+# Docerion header of accessibility-disclosed-by-row-expected.txt.
+type: test
+title: accessibilityDisclosedByRow expected results
+summary: Expected output stating that accessibilityDisclosedByRow returns NULL for a treegrid in the Mac accessibility test.

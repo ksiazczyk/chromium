@@ -1,0 +1,4 @@
+# Docerion header of ax-attributed-string-for-text-marker-range-expected.txt.
+type: test
+title: Expected results for AXAttributedStringForTextMarkerRange accessibility test
+summary: Expected output verifying that the AXAttributedStringForTextMarkerRange attribute returns an attributed string with font and color details for a text marker range.

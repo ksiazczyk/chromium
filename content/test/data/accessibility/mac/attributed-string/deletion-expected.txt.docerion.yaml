@@ -1,0 +1,4 @@
+# Docerion header of deletion-expected.txt.
+type: test
+title: Deletion attributed string expected output
+summary: Expected attributed string output for a deletion element, checking the AXIsSuggestedDeletion attribute in macOS accessibility output.

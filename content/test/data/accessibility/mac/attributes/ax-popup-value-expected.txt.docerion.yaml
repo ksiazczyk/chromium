@@ -1,0 +1,4 @@
+# Docerion header of ax-popup-value-expected.txt.
+type: test
+title: Expected results for AXPopupValue accessibility attribute test
+summary: Expected macOS accessibility output for the AXPopupValue test, covering aria-haspopup values menu, listbox, tree, grid and dialog.

@@ -1,0 +1,4 @@
+# Docerion header of ax-math-base-expected.txt.
+type: test
+title: AXMathBase attribute test expectations
+summary: Expected AXMathBase accessibility attribute values for MathML sub, sup, subsup, under, over, underover and multiscripts elements.

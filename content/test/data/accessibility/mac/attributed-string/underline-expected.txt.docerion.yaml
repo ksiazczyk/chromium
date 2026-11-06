@@ -1,0 +1,4 @@
+# Docerion header of underline-expected.txt.
+type: test
+title: Underline expected output
+summary: Expected attributed string output for underlined text, showing the AXUnderline attribute for the queried text marker range.

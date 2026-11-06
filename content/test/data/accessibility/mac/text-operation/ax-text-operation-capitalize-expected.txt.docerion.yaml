@@ -1,0 +1,4 @@
+# Docerion header of ax-text-operation-capitalize-expected.txt.
+type: test
+title: Capitalize text operation expected results
+summary: Expected output for the macOS accessibility test that capitalizes text in contenteditable, textarea, and input elements.

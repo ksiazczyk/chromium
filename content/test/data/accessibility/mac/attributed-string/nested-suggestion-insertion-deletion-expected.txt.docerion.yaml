@@ -1,0 +1,4 @@
+# Docerion header of nested-suggestion-insertion-deletion-expected.txt.
+type: test
+title: Nested suggestion insertion-deletion expected output
+summary: Expected macOS accessibility attributed string output for a suggestion containing both an insertion and a deletion, listing text marker ranges and AX attributes.

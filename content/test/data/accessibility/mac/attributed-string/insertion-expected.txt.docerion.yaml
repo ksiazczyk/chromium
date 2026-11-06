@@ -1,0 +1,4 @@
+# Docerion header of insertion-expected.txt.
+type: test
+title: Insertion attributed string expected output
+summary: Expected attributed string output for an insertion element, checking the AXIsSuggestedInsertion attribute in macOS accessibility output.

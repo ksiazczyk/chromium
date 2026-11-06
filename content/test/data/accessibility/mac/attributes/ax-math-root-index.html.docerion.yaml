@@ -1,0 +1,4 @@
+# Docerion header of ax-math-root-index.html.
+type: test
+title: MathML mroot root index accessibility test page
+summary: HTML test page with MathML mroot elements whose AXMathRootIndex accessibility attributes are checked on macOS.

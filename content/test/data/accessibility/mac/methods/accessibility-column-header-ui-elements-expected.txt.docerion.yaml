@@ -1,0 +1,4 @@
+# Docerion header of accessibility-column-header-ui-elements-expected.txt.
+type: test
+title: Expected output for accessibilityColumnHeaderUIElements test
+summary: Expected results listing column header UI elements for a table, row header, cell, and two column headers.

@@ -1,0 +1,4 @@
+# Docerion header of accessibility-title-expected.txt.
+type: test
+title: Expected results for accessibilityTitle test
+summary: Expected output recording accessibilityTitle values for a button, a list item, and a focused list in the macOS accessibility test.

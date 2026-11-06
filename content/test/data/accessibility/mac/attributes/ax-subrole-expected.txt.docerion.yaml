@@ -1,0 +1,4 @@
+# Docerion header of ax-subrole-expected.txt.
+type: test
+title: Expected output for the AXSubrole accessibility attribute test
+summary: Expected macOS accessibility output giving AXSubrole values for an empty group and groups with pseudo-element content.

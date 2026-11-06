@@ -1,0 +1,4 @@
+# Docerion header of ax-aria-pos-in-set-expected.txt.
+type: test
+title: Expected results for the aria-posinset Mac accessibility test
+summary: Expected macOS accessibility output for AXARIAPosInSet on menu items with numeric, null, and not-applicable positions.

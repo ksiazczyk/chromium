@@ -1,0 +1,4 @@
+# Docerion header of ax-block-quote-level-expected.txt.
+type: test
+title: AXBlockQuoteLevel expected results
+summary: Expected macOS accessibility output for the blockquote test, listing AXBlockQuoteLevel attribute presence and values for a blockquote and a div.

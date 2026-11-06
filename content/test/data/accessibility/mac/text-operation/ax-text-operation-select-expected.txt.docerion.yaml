@@ -1,0 +1,4 @@
+# Docerion header of ax-text-operation-select-expected.txt.
+type: test
+title: Select text operation expected results
+summary: Expected output for the macOS accessibility test that selects text ranges in contenteditable, textarea, and input elements.

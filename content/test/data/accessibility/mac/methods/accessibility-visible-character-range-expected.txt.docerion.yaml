@@ -1,0 +1,4 @@
+# Docerion header of accessibility-visible-character-range-expected.txt.
+type: test
+title: Expected results for accessibilityVisibleCharacterRange test
+summary: Expected output giving the visible character range reported for a text input's value.

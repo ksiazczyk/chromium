@@ -1,0 +1,4 @@
+# Docerion header of accessibility-linked-ui-elements-expected.txt.
+type: test
+title: Expected accessibilityLinkedUIElements result for a tab
+summary: Expected output recording a parse failure for the accessibilityLinkedUIElements method on a tab element.

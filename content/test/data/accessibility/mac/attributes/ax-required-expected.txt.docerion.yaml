@@ -1,0 +1,4 @@
+# Docerion header of ax-required-expected.txt.
+type: test
+title: AXRequired attribute expected results
+summary: Expected macOS accessibility output for the AXRequired attribute test, covering required and non-applicable input elements.

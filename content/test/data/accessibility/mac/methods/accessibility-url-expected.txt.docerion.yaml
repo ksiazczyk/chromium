@@ -1,0 +1,4 @@
+# Docerion header of accessibility-url-expected.txt.
+type: test
+title: Expected results for accessibilityURL test
+summary: Expected output giving accessibilityURL values for an iframe child, a link, and an element where the method does not apply.

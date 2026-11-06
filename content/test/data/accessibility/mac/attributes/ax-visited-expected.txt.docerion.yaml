@@ -1,0 +1,4 @@
+# Docerion header of ax-visited-expected.txt.
+type: test
+title: AXVisited attribute expected results
+summary: Expected output for the macOS accessibility test checking the AXVisited attribute on a link.

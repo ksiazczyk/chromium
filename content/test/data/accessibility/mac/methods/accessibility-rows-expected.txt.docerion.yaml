@@ -1,0 +1,4 @@
+# Docerion header of accessibility-rows-expected.txt.
+type: test
+title: Expected output for accessibilityRows test
+summary: Expected results listing accessibilityRows values for a table, a column, a tree, and an element where the method is not applicable.

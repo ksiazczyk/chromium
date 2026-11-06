@@ -1,0 +1,4 @@
+# Docerion header of accessibility-selected-expected.txt.
+type: test
+title: Expected output for accessibilitySelected test
+summary: Expected results for the macOS accessibilitySelected method on a selected option and an unselected div.

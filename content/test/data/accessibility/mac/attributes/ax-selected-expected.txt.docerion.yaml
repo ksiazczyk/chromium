@@ -1,0 +1,4 @@
+# Docerion header of ax-selected-expected.txt.
+type: test
+title: AXSelected attribute expected results
+summary: Expected macOS accessibility output for the AXSelected attribute test on a selected option and a div.

@@ -1,0 +1,4 @@
+# Docerion header of ax-math-under-expected.txt.
+type: test
+title: Expected results for MathML under accessibility attribute test
+summary: Expected macOS accessibility output for the MathML under test, listing AXMathUnder attribute values for munder and munderover elements.

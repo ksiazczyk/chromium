@@ -1,0 +1,4 @@
+# Docerion header of ax-title-expected.txt.
+type: test
+title: Expected output for the AXTitle accessibility attribute test
+summary: Expected macOS accessibility output confirming a button exposes the AXTitle attribute with the value Press Me.

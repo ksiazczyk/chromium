@@ -1,0 +1,4 @@
+# Docerion header of set-selection-textarea-expected.txt.
+type: test
+title: Set selection textarea expected output
+summary: Expected accessibility output for marker and range based selections in a textarea, including cursor placement and selections after a forced line break.

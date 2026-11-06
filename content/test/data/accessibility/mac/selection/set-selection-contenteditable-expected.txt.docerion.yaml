@@ -1,0 +1,4 @@
+# Docerion header of set-selection-contenteditable-expected.txt.
+type: test
+title: Set selection contenteditable expected output
+summary: Expected accessibility output for text marker based word and span selections in two contenteditable elements, including selections after forced breaks.

@@ -1,0 +1,4 @@
+# Docerion header of ax-highest-editable-ancestor-expected.txt.
+type: test
+title: Expected AXHighestEditableAncestor accessibility attribute results
+summary: Expected macOS accessibility attribute values for the AXHighestEditableAncestor test covering editable, nested, and document nodes.

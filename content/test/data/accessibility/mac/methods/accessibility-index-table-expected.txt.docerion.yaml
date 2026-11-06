@@ -1,0 +1,4 @@
+# Docerion header of accessibility-index-table-expected.txt.
+type: test
+title: accessibilityIndex expected results for table rows
+summary: Expected accessibilityIndex values for three rows of a simple table in the Mac accessibility test.

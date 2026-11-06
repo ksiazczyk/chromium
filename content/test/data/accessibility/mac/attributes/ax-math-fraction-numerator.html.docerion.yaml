@@ -1,0 +1,4 @@
+# Docerion header of ax-math-fraction-numerator.html.
+type: test
+title: AXMathFractionNumerator attribute test page
+summary: HTML test page with complete and incomplete MathML fractions used to check the AXMathFractionNumerator accessibility attribute.

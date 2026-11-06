@@ -1,0 +1,4 @@
+# Docerion header of ax-text-operation-uppercase-expected.txt.
+type: test
+title: Uppercase text operation expected test results
+summary: Expected output for macOS accessibility tests that apply the uppercase AXTextOperation to a contenteditable element, a textarea, and an input field.

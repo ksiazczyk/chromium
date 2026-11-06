@@ -1,0 +1,4 @@
+# Docerion header of ax-autocomplete-value-expected.txt.
+type: test
+title: AXAutocompleteValue expected results
+summary: Expected macOS accessibility output for the aria-autocomplete test, listing AXAutocompleteValue attribute presence and values for an input and a plain div.
