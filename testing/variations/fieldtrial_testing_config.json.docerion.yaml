@@ -1,0 +1,4 @@
+# Docerion header of fieldtrial_testing_config.json.
+type: config
+title: Field trial testing configuration
+summary: Defines default experiment configurations per study and platform to ensure test coverage of active field trials in Chromium builds.

@@ -1,0 +1,4 @@
+# Docerion header of generic_android23.textpb.
+type: config
+title: Generic x86 Android 23 AVD configuration
+summary: Specifies emulator and system image packages plus screen, GLDMA and RAM settings for a generic x86 Android 23 google_apis virtual device.

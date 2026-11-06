@@ -1,0 +1,4 @@
+# Docerion header of check_network_annotations.py.
+type: script
+title: Network traffic annotations check wrapper
+summary: Runs the traffic annotation auditor on trybots to verify annotation syntax, semantics and coverage.

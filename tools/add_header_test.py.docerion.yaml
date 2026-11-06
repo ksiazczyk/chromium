@@ -1,0 +1,4 @@
+# Docerion header of add_header_test.py.
+type: test
+title: Unit tests for add_header.py
+summary: Unit tests covering header classification, include block detection, and include rendering for the add_header tool.

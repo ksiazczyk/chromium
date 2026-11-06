@@ -10,6 +10,12 @@
 # ]
 # ///
 
+# ---docerion
+# type: script
+# title: Chrome Auto-Navigation Script
+# summary: Runs Chrome and automatically navigates through a given list of URLs a specified number of times, with optional intervals, prompts, and idle-wakeup measurement.
+# ---
+
 """
 This script runs Chrome and automatically navigates through the given list of
 URLs the specified number of times.

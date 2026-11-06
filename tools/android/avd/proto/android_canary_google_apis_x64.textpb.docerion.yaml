@@ -1,0 +1,4 @@
+# Docerion header of android_canary_google_apis_x64.textpb.
+type: config
+title: Android Canary google_apis x86_64 AVD configuration
+summary: Specifies the emulator, system image and AVD package versions used to create an Android Canary (API 36.0) google_apis x86_64 emulator.

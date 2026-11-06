@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: adb_reboot build definition
+summary: GN build file defining the adb_reboot executable target that compiles adb_reboot.c.

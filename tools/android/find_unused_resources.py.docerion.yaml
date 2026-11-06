@@ -1,0 +1,4 @@
+# Docerion header of find_unused_resources.py.
+type: script
+title: Find Unused Android Resources
+summary: Lists unused Java strings and other Android resources by comparing generated R.txt files with source code references.

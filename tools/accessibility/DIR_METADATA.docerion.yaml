@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for accessibility tools
+summary: Declares directory metadata for the accessibility tools, inheriting common settings from the ui/accessibility mixin.

@@ -1,0 +1,4 @@
+# Docerion header of rebase_dump_accessibility_tree_tests.py.
+type: script
+title: Rebase DumpAccessibilityTree test expectations
+summary: Collects try job results and updates DumpAccessibilityTree expectation files locally after a change that affects test output.

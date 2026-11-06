@@ -1,0 +1,4 @@
+# Docerion header of check_static_initializers.py.
+type: script
+title: Static initializers check
+summary: Checks Chromium binaries for unwanted static initializers using per-platform allowlists and expected counts.

@@ -1,0 +1,4 @@
+# Docerion header of android_28_google_apis_x86_local.textpb.
+type: config
+title: Android 9 API 28 Google APIs x86 local AVD configuration
+summary: Local variant of the Android 9 (API 28) x86 Google APIs AVD configuration, pinning a separate AVD package version for local emulator runs.

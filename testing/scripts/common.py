@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: script
+# title: Shared helpers for testing script wrappers
+# summary: Provides shared utilities such as command execution, temporary files, result recording, and Windows LPAC ACL handling for the testing script wrappers.
+# ---
+
 import argparse
 import codecs
 import contextlib

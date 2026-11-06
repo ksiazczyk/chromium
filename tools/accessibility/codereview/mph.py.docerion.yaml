@@ -1,0 +1,4 @@
+# Docerion header of mph.py.
+type: source
+title: Upload review comments to Gerrit
+summary: Parses a comments file and publishes overall and inline comments to Gerrit, optionally setting an LGTM code-review vote.

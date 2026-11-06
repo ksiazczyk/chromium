@@ -1,6 +1,13 @@
 # Copyright 2021 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: script
+# title: Utilities for invoking executables and capturing output
+# summary: Provides run_and_tee_output, which runs an executable, passes its output through to stdout, and returns it with ANSI escape sequences stripped.
+# ---
+
 """Utilities for invoking executables."""
 
 import subprocess

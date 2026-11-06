@@ -1,0 +1,4 @@
+# Docerion header of android_canary_google_apis_x64_local.textpb.
+type: config
+title: Android Canary google_apis x86_64 local AVD configuration
+summary: Local variant of the Android Canary google_apis x86_64 AVD configuration, pinning the same emulator and system image with a separate AVD package version.

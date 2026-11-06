@@ -1,0 +1,4 @@
+# Docerion header of bisect-builds.py.
+type: script
+title: Chromium Snapshot Build Bisect Tool
+summary: Binary-searches Chromium snapshot and release build archives by downloading and running builds to find the revision that introduced a regression.

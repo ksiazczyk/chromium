@@ -1,0 +1,4 @@
+# Docerion header of mojo_messages_log.py.
+type: source
+title: Mojo message trace log extractor
+summary: Extracts sent and received Mojo message details from Chromium trace files using the Perfetto Python module and SQL queries.

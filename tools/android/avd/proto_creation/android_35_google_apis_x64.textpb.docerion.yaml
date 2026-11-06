@@ -1,0 +1,4 @@
+# Docerion header of android_35_google_apis_x64.textpb.
+type: config
+title: Android 15 (API 35) google_apis x64 AVD configuration
+summary: Text protobuf config for an Android 15 (API 35) x86_64 AVD with phone and tablet screen variants for swarming and local runs.

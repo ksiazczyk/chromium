@@ -1,0 +1,4 @@
+# Docerion header of run_telemetry_as_googletest.py.
+type: script
+title: Run Telemetry unit tests as googletest
+summary: Wraps isolate-bundled Telemetry unit tests so they run with googletest-style output, filter, sharding, retry and repeat arguments.

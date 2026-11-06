@@ -1,0 +1,4 @@
+# Docerion header of crq.el.
+type: source
+title: Emacs diff mode for code review comments
+summary: Emacs Lisp mode based on diff-mode for adding inline comments to diffs and publishing them to critique via the companion scripts.

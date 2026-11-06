@@ -1,0 +1,4 @@
+# Docerion header of android_35_google_apis_x64_tablet_landscape.textpb.
+type: config
+title: Android 15 (API 35) google_apis x86_64 tablet landscape AVD configuration
+summary: Pins emulator, system image and AVD package versions for an Android 15 x86_64 Google APIs tablet AVD in landscape (10.05-inch, 2560x1600, xhdpi) using lavapipe GPU mode.

@@ -1,0 +1,4 @@
+# Docerion header of rebase_dump_accessibility_tree_tests_test.py.
+type: test
+title: Unit tests for the rebase expectations script
+summary: Unit tests verifying the log splitting and parsing behavior of the rebase expectations script.

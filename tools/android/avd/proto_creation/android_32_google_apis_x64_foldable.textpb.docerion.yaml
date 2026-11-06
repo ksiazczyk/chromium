@@ -1,0 +1,4 @@
+# Docerion header of android_32_google_apis_x64_foldable.textpb.
+type: config
+title: Android 12L (API 32) foldable google_apis x64 AVD configuration
+summary: Text protobuf config for an Android 12L (API 32) foldable x86_64 AVD mirroring a 7.6-inch fold-in device, with hinge sensor, posture and landscape variants.

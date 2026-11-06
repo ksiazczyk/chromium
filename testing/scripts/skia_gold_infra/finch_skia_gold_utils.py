@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: script
+# title: Finch Skia Gold utilities
+# summary: Provides Skia Gold session and comparison helpers for the dedicated finch smoke tests corpus, including platform detection and diff/triage logging.
+# ---
+
 import logging
 import os
 import sys

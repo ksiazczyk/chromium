@@ -1,0 +1,4 @@
+# Docerion header of get_compile_targets.py.
+type: script
+title: Compile target aggregator for testing scripts
+summary: Queries each sibling script for its compile targets and writes the combined mapping as JSON output.

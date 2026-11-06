@@ -1,0 +1,4 @@
+# Docerion header of hresult_to_enum.py.
+type: source
+title: HRESULT to enums.xml converter
+summary: Converts Windows HRESULT defines written with _HRESULT_TYPEDEF_ into signed-integer enums.xml entries for metrics.

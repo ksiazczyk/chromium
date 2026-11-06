@@ -1,0 +1,4 @@
+# Docerion header of print_pagemap_pfn.py.
+type: script
+title: Print Physical Page Frame Numbers from Pagemap Files
+summary: Extracts physical page frame numbers from /proc/PID/pagemap files for a given virtual address.

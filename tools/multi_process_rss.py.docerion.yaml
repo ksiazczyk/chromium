@@ -1,0 +1,4 @@
+# Docerion header of multi_process_rss.py.
+type: source
+title: Multi-process RSS counter for Linux
+summary: Counts the resident set size of multiple Linux processes without double-counting shared page frames, optionally including descendants.

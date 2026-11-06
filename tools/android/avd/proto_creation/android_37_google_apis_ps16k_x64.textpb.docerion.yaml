@@ -1,0 +1,4 @@
+# Docerion header of android_37_google_apis_ps16k_x64.textpb.
+type: config
+title: Android 17 AVD configuration for google_apis_ps16k on x86_64
+summary: Defines emulator, system image and AVD settings for an Android 17 google_apis_ps16k x86_64 virtual device, with swarming and local disk size variants.

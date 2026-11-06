@@ -1,0 +1,4 @@
+# Docerion header of run_chromedriver_tests.py.
+type: script
+title: Run ChromeDriver tests
+summary: Runs ChromeDriver tests under the gtest-style recipe contract, forwarding output, retry, repeat and filter arguments to the test runner.

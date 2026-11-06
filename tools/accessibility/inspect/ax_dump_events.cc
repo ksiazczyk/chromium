@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ax_dump_events tool entry point
+// summary: Entry point for the ax_dump_events tool, parsing command-line options and running the event server to log accessibility events of a target application.
+// ---
+
 #include <iostream>
 #include <memory>
 #include <string>

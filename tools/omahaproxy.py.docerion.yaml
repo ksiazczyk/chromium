@@ -1,0 +1,4 @@
+# Docerion header of omahaproxy.py.
+type: source
+title: Chrome channel version lookup tool
+summary: Scrapes Chrome channel information from omahaproxy and prints a requested field for a given OS and channel.

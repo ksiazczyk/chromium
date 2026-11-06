@@ -1,6 +1,13 @@
 # Copyright 2020 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: ResultDB BigQuery query logic
+# summary: Queries ResultDB BigQuery tables to collect per-builder test results and fill expectation maps for the unexpected pass finder scripts.
+# ---
+
 """Methods related to querying the ResultDB BigQuery tables."""
 
 import logging

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Ruff configuration for the Rust test scripts
+# summary: Configures Ruff formatting and linting with a line length of 80, indent width of 4, and preserved quote style.
+# ---
+
 line-length = 80
 indent-width = 4
 

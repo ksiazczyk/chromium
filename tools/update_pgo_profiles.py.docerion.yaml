@@ -1,0 +1,4 @@
+# Docerion header of update_pgo_profiles.py.
+type: script
+title: Update PGO Profiles
+summary: Downloads PGO profiles for official Chrome builds and removes stale profiles to save disk space.

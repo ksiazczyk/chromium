@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the Android tools directory
+summary: Checkdeps configuration that skips the customtabs_benchmark subdirectory to avoid false include errors.

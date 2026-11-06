@@ -1,0 +1,4 @@
+# Docerion header of sample_clang_tidy_results.py.
+type: script
+title: Sample Clang-Tidy Results
+summary: Summarizes and randomly samples clang-tidy diagnostics from a JSON file, with links back to code search.

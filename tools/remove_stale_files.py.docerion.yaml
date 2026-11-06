@@ -1,0 +1,4 @@
+# Docerion header of remove_stale_files.py.
+type: script
+title: Remove Stale Files
+summary: Removes stale files such as old GCS archives from the given paths on the local filesystem.

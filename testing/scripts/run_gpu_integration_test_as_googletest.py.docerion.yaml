@@ -1,0 +1,4 @@
+# Docerion header of run_gpu_integration_test_as_googletest.py.
+type: script
+title: Run GPU integration tests as googletest
+summary: Wraps an isolate-bundled Telemetry GPU integration test so it can be invoked as a googletest-style script test.

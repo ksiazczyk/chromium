@@ -1,0 +1,4 @@
+# Docerion header of clang-format-js.
+type: script
+title: clang-format Runner for JavaScript Files
+summary: Shell script that formats JavaScript files with clang-format using the nearest .clang-format configuration found above the given path.

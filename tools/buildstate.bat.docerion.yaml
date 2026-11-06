@@ -1,0 +1,4 @@
+# Docerion header of buildstate.bat.
+type: script
+title: Windows Wrapper for buildstate.py
+summary: Batch file that invokes buildstate.py with python3 on Windows.

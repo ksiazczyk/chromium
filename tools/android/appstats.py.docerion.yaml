@@ -1,0 +1,4 @@
+# Docerion header of appstats.py.
+type: source
+title: Top-like memory and network monitor for Android apps
+summary: Python tool that polls memory and network usage of Android apps like top, with a curses UI and optional PDF output.

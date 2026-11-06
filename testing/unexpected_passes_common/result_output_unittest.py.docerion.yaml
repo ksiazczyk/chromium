@@ -1,0 +1,4 @@
+# Docerion header of result_output_unittest.py.
+type: test
+title: Result output unit tests
+summary: Unit tests for result output, covering conversion of unmatched results and expectation maps to string dicts and text/HTML rendering.

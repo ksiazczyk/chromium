@@ -1,0 +1,4 @@
+# Docerion header of autotest.py.
+type: script
+title: Autotest Launcher Wrapper
+summary: Launches the autotest tool's main.py in a separate vpython3 process so the autotest directory's own vpython spec is used.

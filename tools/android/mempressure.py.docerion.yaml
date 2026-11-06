@@ -1,0 +1,4 @@
+# Docerion header of mempressure.py.
+type: script
+title: Simulate Android Memory Pressure Events
+summary: Simulates onLowMemory and onTrimMemory callbacks on an Android device by sending test intents to a chosen browser.

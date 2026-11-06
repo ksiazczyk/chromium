@@ -1,0 +1,4 @@
+# Docerion header of adb_remote_setup.sh.
+type: script
+title: Set up adb on a remote host
+summary: Shell script that configures adb on a remote machine to use a device attached locally, forwarding the needed ports.

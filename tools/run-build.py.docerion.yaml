@@ -1,0 +1,4 @@
+# Docerion header of run-build.py.
+type: script
+title: Run a Chromium or Chrome Build
+summary: Downloads and launches a specific Chromium or Chrome build with optional flags or a custom command template.

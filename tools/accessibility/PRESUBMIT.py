@@ -1,6 +1,13 @@
 # Copyright 2024 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: ci
+# title: Presubmit check running Python unit tests
+# summary: Presubmit script that runs the Python unit tests in this directory whenever Python files are affected.
+# ---
+
 """Runs Python unit tests in this directory."""
 
 PRESUBMIT_VERSION = '2.0.0'

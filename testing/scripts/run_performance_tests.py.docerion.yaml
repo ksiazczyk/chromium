@@ -1,0 +1,4 @@
+# Docerion header of run_performance_tests.py.
+type: script
+title: Run Telemetry benchmarks and gtest perf tests
+summary: Runs Telemetry benchmarks and gtest performance tests, merging results and perf data from all benchmarks into per-benchmark output directories.

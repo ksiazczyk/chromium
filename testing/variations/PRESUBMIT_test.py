@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Presubmit script unit tests
+# summary: Unit tests for the presubmit checks, covering undeclared feature detection on changed config lines.
+# ---
+
 import os
 import sys
 import tempfile

@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: ci
+# title: Presubmit script for checkxmlstyle
+# summary: Runs the checkxmlstyle unit tests on uploaded and committed changes through depot_tools presubmit checks.
+# ---
+
 """Top-level presubmit script for checkxmlstyle.
 
 See http://dev.chromium.org/developers/how-tos/depottools/presubmit-scripts

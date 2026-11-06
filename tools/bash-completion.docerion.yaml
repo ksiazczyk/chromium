@@ -1,0 +1,4 @@
+# Docerion header of bash-completion.
+type: script
+title: Bash Completion for Chrome and Test Flags
+summary: Bash completion rules for Chrome command-line switches, gtest and test launcher flags, web test flags, and blink tool sub-commands.

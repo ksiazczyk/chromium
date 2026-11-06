@@ -1,0 +1,4 @@
+# Docerion header of run_flatbuffers_unittests.py.
+type: script
+title: Run FlatBuffers unit tests
+summary: Runs the FlatBuffers unit tests under an isolate on Linux, Windows or Fuchsia, reporting success only when all tests pass.

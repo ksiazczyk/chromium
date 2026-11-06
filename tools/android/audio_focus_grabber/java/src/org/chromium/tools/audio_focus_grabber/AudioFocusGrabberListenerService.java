@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioFocusGrabberListenerService
+// summary: Android service that handles intents to request audio focus variants, play a sound, and show or hide a notification for testing audio focus behavior.
+// ---
+
 package org.chromium.tools.audio_focus_grabber;
 
 import android.app.PendingIntent;

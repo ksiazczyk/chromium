@@ -1,0 +1,4 @@
+# Docerion header of generic_android23_tablet.textpb.
+type: config
+title: Generic Android 23 x86 tablet AVD configuration
+summary: Specifies package versions plus screen density, resolution and SD card settings for a generic Android 23 google_apis x86 tablet emulator AVD.

@@ -1,0 +1,4 @@
+# Docerion header of checkdeps.py.
+type: script
+title: checkdeps dependency violation checker wrapper
+summary: Runs the buildtools checkdeps tool and records include dependency violations as script test results.

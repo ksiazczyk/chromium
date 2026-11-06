@@ -1,0 +1,4 @@
+# Docerion header of test_results_unittests.py.
+type: test
+title: Unit tests for test results
+summary: Unit tests for TestResult equality, hashing, and repr, plus building JSON result data with grouped test paths and failure counts.

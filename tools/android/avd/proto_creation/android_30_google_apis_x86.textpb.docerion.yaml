@@ -1,0 +1,4 @@
+# Docerion header of android_30_google_apis_x86.textpb.
+type: config
+title: Android 11 (API 30) google_apis x86 AVD configuration
+summary: Text protobuf config defining emulator and system image packages plus AVD settings for an Android 11 (API 30) x86 emulator with Google APIs.

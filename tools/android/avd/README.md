@@ -1,3 +1,12 @@
+---
+type: readme
+title: AVD config files
+summary: Explains the AVD config textpb files, their naming scheme, and how creation and production configs are used and updated.
+relations:
+  - references /tools/android/avd/avd.py
+  - references /build/android/test_runner.py
+---
+
 # AVD config files
 This directory contains textpb files used as AVD config files by the scripts
 like `tools/android/avd/avd.py` and `build/android/test_runner.py`

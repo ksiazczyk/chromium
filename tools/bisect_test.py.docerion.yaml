@@ -1,0 +1,4 @@
+# Docerion header of bisect_test.py.
+type: test
+title: Tests for bisect-builds.py
+summary: Unit tests for the bisect-builds.py tool, mocking downloads, revision lists, and command-line parsing to verify bisect behavior.

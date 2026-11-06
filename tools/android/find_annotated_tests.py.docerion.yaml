@@ -1,0 +1,4 @@
+# Docerion header of find_annotated_tests.py.
+type: script
+title: Find Annotated Tests from Proguard Dump
+summary: Finds annotated instrumentation tests in test APKs and reports their bug IDs, annotations, and class details.

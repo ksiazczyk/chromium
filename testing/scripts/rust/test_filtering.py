@@ -1,6 +1,13 @@
 # Copyright 2021 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: script
+# title: Test filtering library for isolated-script-test-filter arguments
+# summary: Library handling --isolated-script-test-filter and filter-file arguments per the test executable API, including prefix, exclusion, and longest-match-wins rules.
+# ---
+
 """This is a library for handling of --isolated-script-test-filter and
 --isolated-script-test-filter-file cmdline arguments, as specified by
 //docs/testing/test_executable_api.md

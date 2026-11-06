@@ -1,0 +1,4 @@
+# Docerion header of data_types_unittest.py.
+type: test
+title: Unit tests for core data types
+summary: Tests expectation and result types, wildcard matching, hashing and registration of custom implementations.

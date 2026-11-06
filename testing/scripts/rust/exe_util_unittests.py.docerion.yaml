@@ -1,0 +1,4 @@
+# Docerion header of exe_util_unittests.py.
+type: test
+title: Unit tests for exe_util
+summary: Verifies that run_and_tee_output captures and returns executable output correctly, using pyfakefs.

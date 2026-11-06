@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXEventServer class header
+// summary: Declares the AXEventServer class that dumps accessibility events for an application identified by process id or tree selector.
+// ---
+
 #ifndef AX_EVENT_SERVER_H_
 #define AX_EVENT_SERVER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of test_filtering_unittests.py.
+type: test
+title: Unit tests for test filtering
+summary: Unit tests verifying filter matching, exclusion and prefix patterns, specificity ordering, conflict errors, and filter file parsing for test_filtering.

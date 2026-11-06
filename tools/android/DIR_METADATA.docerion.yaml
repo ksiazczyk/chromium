@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the Android tools directory
+summary: Metadata file declaring this directory as Android-specific for Chromium directory tooling.

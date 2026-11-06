@@ -1,0 +1,4 @@
+# Docerion header of rust_main_program_unittests.py.
+type: test
+title: Unit tests for rust_main_program
+summary: Unit tests covering test name formatting and parsing, test list and result scraping, argument parsing, and the test executable wrapper in rust_main_program.

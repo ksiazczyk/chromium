@@ -1,0 +1,4 @@
+# Docerion header of auto_fix_missing_java_deps.py.
+type: source
+title: Automatically fix missing Java GN dependencies
+summary: Repeatedly builds targets and applies gn edit hints from siso output until missing Java dependency errors are resolved.

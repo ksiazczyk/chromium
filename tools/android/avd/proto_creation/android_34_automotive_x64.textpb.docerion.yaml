@@ -1,0 +1,4 @@
+# Docerion header of android_34_automotive_x64.textpb.
+type: config
+title: Android 14 Automotive (API 34) x64 AVD configuration
+summary: Text protobuf config for an Android 14 Automotive (API 34) x86_64 AVD with landscape screen, 6GB RAM and swarming/local disk variants.

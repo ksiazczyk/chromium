@@ -1,0 +1,4 @@
+# Docerion header of blink_python_tests.py.
+type: script
+title: Blink Python tests wrapper
+summary: Runs Blink's run_blinkpy_tests tool and reports unexpected failures in the common results format.

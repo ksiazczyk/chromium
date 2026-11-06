@@ -1,0 +1,4 @@
+# Docerion header of run_cast_core_tests.py.
+type: script
+title: Run Cast Core integration tests
+summary: Wraps an isolate-bundled Cast Core integration test, conforming to the isolated script test protocol and writing JSON results when requested.

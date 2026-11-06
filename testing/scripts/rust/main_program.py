@@ -1,6 +1,13 @@
 # Copyright 2021 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: script
+# title: Library for running test executables with filtering and results
+# summary: "Library implementing Chromium's test executable API: filters tests, runs them via wrappers, and saves JSON test results."
+# ---
+
 """This is a library for working with test executables in a way that is
 Chromium-bot-friendly as specified by //docs/testing/test_executable_api.md
 

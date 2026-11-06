@@ -1,3 +1,9 @@
+<!--docerion
+type: config
+title: Chromium Android Studio code style scheme
+summary: IntelliJ and Android Studio code style scheme implementing Chromium's Java formatting, brace, wrapping and import ordering rules.
+-->
+
 <code_scheme name="ChromiumStyle" version="173">
   <option name="KEEP_CONTROL_STATEMENT_IN_ONE_LINE" value="false" />
   <option name="BLANK_LINES_AROUND_FIELD" value="1" />

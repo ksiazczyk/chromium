@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for accessibility tools
+summary: Defines include rules allowing accessibility-related content and ui/accessibility headers for this directory.

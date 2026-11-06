@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: script
+# title: Android XML style checker for presubmit
+# summary: Checks Android XML resources for style rules covering color formats, palette references, namespaces, text attributes, and string resources.
+# ---
+
 """Script that is used by PRESUBMIT.py to check Android XML files.
 
 This file checks for the following:

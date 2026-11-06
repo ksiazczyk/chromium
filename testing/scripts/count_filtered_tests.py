@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: script
+# title: Filtered test counter for gtest binaries
+# summary: Lists tests from a gtest binary and reports totals for all, disabled, and tests excluded by a negative filter file.
+# ---
+
 import fnmatch
 import json
 import os

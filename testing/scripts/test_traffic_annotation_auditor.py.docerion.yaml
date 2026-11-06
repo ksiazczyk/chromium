@@ -1,0 +1,4 @@
+# Docerion header of test_traffic_annotation_auditor.py.
+type: test
+title: Traffic annotation auditor test wrapper
+summary: Wraps the traffic annotation auditor checks for FYI bots and updates the annotations spreadsheet and doc on Windows and ChromeOS trybots.

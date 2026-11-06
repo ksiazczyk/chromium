@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for accessibility tools
+summary: Delegates code ownership of this directory to the owners of ui/accessibility.

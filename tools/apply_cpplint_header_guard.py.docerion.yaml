@@ -1,0 +1,4 @@
+# Docerion header of apply_cpplint_header_guard.py.
+type: script
+title: Apply cpplint header guard recommendations
+summary: 'Reads cpplint build/header_guard recommendations from stdin and rewrites the #ifndef, #define, and #endif guards in the affected headers.'

@@ -1,0 +1,4 @@
+# Docerion header of make_gtest_filter_test.py.
+type: test
+title: Unit tests for make_gtest_filter
+summary: Unittest suite verifying PascalCase splitting, wildcard compression and gtest filter generation in make_gtest_filter.py.

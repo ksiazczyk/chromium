@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Aggregate GN target for Android tools
+summary: GN build file that groups Android tool targets as dependencies so GN generates them for development and testing.

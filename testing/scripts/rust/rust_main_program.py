@@ -1,6 +1,13 @@
 # Copyright 2021 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: script
+# title: Rust test executable wrapping library
+# summary: Library that wraps Rust test executables to satisfy the main_program module requirements, scraping test lists and per-test results from Rust test output.
+# ---
+
 """This is a library for wrapping Rust test executables in a way that is
 compatible with the requirements of the `main_program` module.
 """

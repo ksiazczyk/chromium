@@ -1,0 +1,4 @@
+# Docerion header of android_35_google_apis_tablet_x64_tablet_landscape_local.textpb.
+type: config
+title: Android 15 tablet landscape local AVD configuration
+summary: Text protobuf config for the local variant of the Android 15 (API 35) tablet landscape AVD with Google APIs on x86_64, pinning emulator, system image and AVD package versions.

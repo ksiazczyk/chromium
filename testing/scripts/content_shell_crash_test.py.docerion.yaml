@@ -1,0 +1,4 @@
+# Docerion header of content_shell_crash_test.py.
+type: script
+title: Content Shell crash test runner
+summary: Runs the breakpad integration test against the Content Shell binary across Windows, macOS, Android, Fuchsia, and Linux via Xvfb, reporting crash failures.

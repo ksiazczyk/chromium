@@ -1,0 +1,4 @@
+# Docerion header of timeall.py.
+type: script
+title: Multi-emulator benchmark runner
+summary: Script that runs several build benchmarks across multiple emulators and build configurations, with retries and randomized ordering.

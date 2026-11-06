@@ -1,0 +1,4 @@
+# Docerion header of metrics_python_tests.py.
+type: script
+title: Metrics Python tests runner
+summary: Runs tools/metrics/metrics_python_tests.py under test_env as an isolated script test and reports unexpected failures.

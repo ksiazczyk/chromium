@@ -1,0 +1,4 @@
+# Docerion header of android_34_google_apis_x64_local.textpb.
+type: config
+title: Android 14 local AVD configuration
+summary: Text protobuf config for the local variant of the Android 14 (API 34) AVD with Google APIs on x86_64, pinning emulator, system image and AVD package versions.

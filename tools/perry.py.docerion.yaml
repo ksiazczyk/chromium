@@ -1,0 +1,4 @@
+# Docerion header of perry.py.
+type: source
+title: GTest pair permutation state leakage detector
+summary: Runs all permutations of test pairs in a gtest binary to detect state leakage between tests and reports failing pairs.

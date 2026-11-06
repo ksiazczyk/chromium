@@ -1,0 +1,4 @@
+# Docerion header of fetch.py.
+type: script
+title: Fetch script for the avd CIPD 3pp package
+summary: Computes a version hash over the avd dependencies and copies them into a checkout path so the 3pp framework can package and upload the avd CIPD package.

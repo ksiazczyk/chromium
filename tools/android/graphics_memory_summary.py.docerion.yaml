@@ -1,0 +1,4 @@
+# Docerion header of graphics_memory_summary.py.
+type: script
+title: Android Graphics Memory Usage Summary
+summary: Summarizes graphics memory usage on an Android device by parsing adb dumpsys gpu, dmabuf_dump, and SurfaceFlinger output.

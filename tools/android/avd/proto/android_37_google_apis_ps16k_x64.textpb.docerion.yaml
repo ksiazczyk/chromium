@@ -1,0 +1,4 @@
+# Docerion header of android_37_google_apis_ps16k_x64.textpb.
+type: config
+title: Android 17 google_apis_ps16k x86_64 AVD configuration
+summary: Pins emulator, system image and AVD package versions for an Android 17 x86_64 google_apis_ps16k emulator, launched with swangle_indirect GPU mode.

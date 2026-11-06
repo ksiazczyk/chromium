@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Ruff lint and format configuration
+# summary: Sets ruff line length, indent width and quote style for Python code in this package.
+# ---
+
 line-length = 80
 indent-width = 2
 

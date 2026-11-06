@@ -1,3 +1,9 @@
+<!--docerion
+type: config
+title: Chromium Android Studio inspection profile
+summary: Android Studio inspection profile for Chromium that disables selected Android lint checks such as assert and RTL compatibility warnings.
+-->
+
 <profile version="1.0">
   <option name="myName" value="Chromium" />
   <!-- We use asserts in Chromium. See https://chromium.googlesource.com/chromium/src/+/main/styleguide/java/java.md#Asserts -->

@@ -1,0 +1,4 @@
+# Docerion header of check_gn_headers.py.
+type: script
+title: GN headers check wrapper
+summary: Runs the build check_gn_headers script against a build directory with its allowlist and reports failures.

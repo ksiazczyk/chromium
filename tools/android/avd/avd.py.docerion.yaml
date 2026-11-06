@@ -1,0 +1,4 @@
+# Docerion header of avd.py.
+type: source
+title: AVD emulator management script
+summary: Command-line tool to install, uninstall, create, start, and stop Android emulators from AVD config text protobuf files.

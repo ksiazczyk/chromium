@@ -1,0 +1,4 @@
+# Docerion header of sort_sources.py.
+type: script
+title: Sort Sources in GYP and GN Files
+summary: Sorts C-style source file lists in GYP or GN build files, showing a diff and prompting before rewriting.

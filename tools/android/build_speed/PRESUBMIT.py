@@ -1,6 +1,13 @@
 # Copyright 2025 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: ci
+# title: Presubmit script for build speed tools
+# summary: Presubmit checks that run the directory's Python unit tests recursively on uploaded and committed changes.
+# ---
+
 """Top-level presubmit script for build_speed.
 
 See http://dev.chromium.org/developers/how-tos/depottools/presubmit-scripts

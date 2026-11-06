@@ -1,0 +1,4 @@
+# Docerion header of base_test_triggerer_unittest.py.
+type: test
+title: Unit tests for the base test triggerer
+summary: Tests argument conversion, bot and task listing, and task triggering for BaseTestTriggerer, including integration checks gated by an environment variable.

@@ -1,0 +1,4 @@
+# Docerion header of download_issue.
+type: script
+title: Shell wrapper for the issue download script
+summary: Bash launcher that runs the Python issue downloader through vpython3 with bytecode writing disabled.

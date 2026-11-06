@@ -1,0 +1,4 @@
+# Docerion header of checkstyle.py.
+type: script
+title: Checkstyle runner for Java style checks
+summary: Runs Checkstyle on Java files and reports style violations, used by presubmit checks and other tooling.

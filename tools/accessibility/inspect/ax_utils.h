@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared utility declarations for inspect tools
+// summary: Declares shared helpers for building tree selectors and inspect scenarios from command-line arguments and printing help text.
+// ---
+
 #ifndef TOOLS_ACCESSIBILITY_INSPECT_AX_UTILS_H_
 #define TOOLS_ACCESSIBILITY_INSPECT_AX_UTILS_H_
 

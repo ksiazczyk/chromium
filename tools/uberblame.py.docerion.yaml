@@ -1,0 +1,4 @@
+# Docerion header of uberblame.py.
+type: script
+title: Uberblame
+summary: Token-level blame tool that identifies the commits that introduced or changed tokens in a file.

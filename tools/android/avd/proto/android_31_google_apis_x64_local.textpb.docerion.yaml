@@ -1,0 +1,4 @@
+# Docerion header of android_31_google_apis_x64_local.textpb.
+type: config
+title: Android 12 API 31 Google APIs x86_64 local AVD configuration
+summary: Local variant of the Android 12 (API 31) x86_64 Google APIs AVD configuration, pinning a separate AVD package version for local emulator runs.

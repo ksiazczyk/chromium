@@ -1,0 +1,4 @@
+# Docerion header of add_header.py.
+type: script
+title: Helper for adding or removing includes in source files
+summary: 'Command-line helper that inserts or removes #include lines in C++ sources, classifying headers and choosing the right block per Google style.'

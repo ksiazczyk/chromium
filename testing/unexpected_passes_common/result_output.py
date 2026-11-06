@@ -1,6 +1,13 @@
 # Copyright 2020 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Human-readable result output
+# summary: Formats unexpected pass finder results into human-readable text and HTML reports, including collapsible sections and Buganizer comment support.
+# ---
+
 """Methods related to outputting script results in a human-readable format.
 
 Also probably a good example of how to *not* write HTML.

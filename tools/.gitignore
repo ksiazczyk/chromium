@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Git ignore rules for the tools directory
+# summary: Lists generated directories such as bazel, copybara, and luci-go that git should ignore under tools.
+# ---
+
 bazel
 /copybara
 /luci-go

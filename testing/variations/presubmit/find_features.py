@@ -1,6 +1,13 @@
 # Copyright 2023 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Find feature names in source code
+# summary: Python module that scans Chromium directories for C++ BASE_FEATURE and Rust base_feature! declarations to collect declared feature names.
+# ---
+
 """Python module to find feature names in source code.
 
 These functions are declared in a separate module to allow multiprocessing to

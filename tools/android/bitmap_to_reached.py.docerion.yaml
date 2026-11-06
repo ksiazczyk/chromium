@@ -1,0 +1,4 @@
+# Docerion header of bitmap_to_reached.py.
+type: source
+title: Convert reached-offset dumps to reached symbols
+summary: Reads instrumentation dumps of reached code offsets and writes the matching reached symbol names for a Chrome library.

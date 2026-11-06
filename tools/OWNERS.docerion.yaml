@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the tools directory
+summary: Defines default owners for the tools directory plus per-file reviewers for individual tool scripts.

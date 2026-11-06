@@ -1,0 +1,4 @@
+# Docerion header of 3pp.pb.
+type: config
+title: 3pp package definition for the Android AVD CIPD package
+summary: Defines how the 3pp framework builds the avd CIPD package on linux-amd64, using fetch.py with the checkout workflow and uploading under chromium/tools/android.

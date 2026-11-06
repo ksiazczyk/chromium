@@ -1,0 +1,4 @@
+# Docerion header of unused-symbols-report.py.
+type: script
+title: Unused Symbols Report
+summary: Parses linker gc-sections build output and generates an HTML report of symbols stripped as unused.

@@ -1,0 +1,4 @@
+# Docerion header of run-swarmed.py.
+type: script
+title: Run Tests on Swarming
+summary: Runs gtest-based tests on Swarming, optionally many times, collecting logs into a directory for flake checking.

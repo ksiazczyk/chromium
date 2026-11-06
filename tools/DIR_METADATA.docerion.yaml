@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Issue tracking metadata for the tools directory
+summary: Routes bugs and questions for the tools directory to the Build monorail component and the build@chromium.org team.

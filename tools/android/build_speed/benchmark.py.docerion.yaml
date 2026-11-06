@@ -1,0 +1,4 @@
+# Docerion header of benchmark.py.
+type: script
+title: Build benchmark runner for Android
+summary: Command-line tool that measures build speed benchmarks such as GN generation and incremental build times by temporarily editing source files.

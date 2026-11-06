@@ -1,0 +1,4 @@
+# Docerion header of base_test_triggerer.py.
+type: source
+title: Base class for custom Swarming test triggerers
+summary: Provides BaseTestTriggerer, a base class consolidating custom Swarming triggering logic so one bot can span multiple configurations with custom shard pruning and argument handling.

@@ -1,0 +1,4 @@
+# Docerion header of android_35_google_apis_x64.textpb.
+type: config
+title: Android 15 (API 35) google_apis x86_64 AVD configuration
+summary: Pins emulator, system image and AVD package versions for an Android 15 (API 35) x86_64 Google APIs emulator, launched with swangle_indirect GPU mode.

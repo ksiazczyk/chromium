@@ -1,0 +1,4 @@
+# Docerion header of android_36_google_apis_x64.textpb.
+type: config
+title: Android 16 AVD configuration for google_apis on x86_64
+summary: Defines emulator, system image and AVD settings for an Android 16 google_apis x86_64 virtual device, including swarming and local disk variants and a GMS Core APK.

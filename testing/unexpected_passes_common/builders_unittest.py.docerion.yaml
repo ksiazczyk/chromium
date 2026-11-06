@@ -1,0 +1,4 @@
+# Docerion header of builders_unittest.py.
+type: test
+title: Unit tests for builder discovery
+summary: Verifies builder collection from buildbot and infra config JSON files using fake filesystems and mocks.

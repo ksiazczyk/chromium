@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Audio Focus Grabber Android manifest
+summary: Android manifest for the Audio Focus Grabber tool, declaring its launcher activity and a listener service that handles audio focus grab, pause, and duck intents.
+-->
+
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="org.chromium.tools.audio_focus_grabber" >
 

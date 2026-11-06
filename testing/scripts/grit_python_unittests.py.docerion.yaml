@@ -1,0 +1,4 @@
+# Docerion header of grit_python_unittests.py.
+type: script
+title: Grit unittests trybot wrapper
+summary: Runs the grit test_suite_all.py unittests on trybots to verify grit works correctly on all platforms and reports pass or fail.

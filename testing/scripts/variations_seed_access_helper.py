@@ -1,6 +1,13 @@
 # Copyright 2021 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Variations seed access helper
+# summary: Shared helper functions for reading and writing the variations seed from Chrome's local state or seed file, used by the finch smoke test.
+# ---
+
 """Shared helper functions for r/w of variations seed in local state.
 
 # TODO(crbug.com/417138763): Update comment with new format.

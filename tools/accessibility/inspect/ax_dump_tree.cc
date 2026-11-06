@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ax_dump_tree tool entry point
+// summary: Entry point for the ax_dump_tree tool, resolving the accessibility API and selector and dumping the platform accessibility tree of a running application.
+// ---
+
 #include <algorithm>
 #include <iostream>
 #include <numeric>

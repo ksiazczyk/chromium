@@ -1,0 +1,4 @@
+# Docerion header of android_34_google_apis_x64.textpb.
+type: config
+title: Android 14 (API 34) google_apis x64 AVD configuration
+summary: Text protobuf config defining emulator and system image packages plus AVD settings for an Android 14 (API 34) x86_64 emulator with Google APIs.
