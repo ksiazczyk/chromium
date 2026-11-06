@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Site token provider feature flag and parameters
+// summary: Defines the kSiteTokenProviderEnabled feature and Finch-configurable parameters for OAuth scope, endpoint URL, domain allowlist, and refresh interval.
+// ---
+
 #include "components/site_token_provider/features.h"
 
 #include <string>

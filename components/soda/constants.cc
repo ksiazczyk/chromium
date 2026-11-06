@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SODA constants implementation
+// summary: Implements SODA constants including Chinese locale mapping, language tag conversion, and lookup of the latest installed SODA version directory.
+// ---
+
 #include "components/soda/constants.h"
 
 #include <optional>

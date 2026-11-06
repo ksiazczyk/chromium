@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Speech recognizer FSM interface
+// summary: Declares the SpeechRecognizerFsm interface, its states, events, and event arguments, plus virtual transition handlers for speech recognition.
+// ---
+
 #ifndef COMPONENTS_SPEECH_SPEECH_RECOGNIZER_FSM_H_
 #define COMPONENTS_SPEECH_SPEECH_RECOGNIZER_FSM_H_
 

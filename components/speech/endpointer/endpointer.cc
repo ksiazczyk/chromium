@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Endpointer wrapper implementation
+// summary: Implements the Endpointer class that wraps the energy endpointer, processing audio frames and tracking speech start, end and silence timeouts for a session.
+// ---
+
 #include "components/speech/endpointer/endpointer.h"
 
 #include "base/compiler_specific.h"

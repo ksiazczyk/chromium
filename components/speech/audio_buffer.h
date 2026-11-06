@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio chunk and buffer declarations
+// summary: Declares the AudioChunk and AudioBuffer classes used to queue and retrieve raw audio data chunks in FIFO order.
+// ---
+
 #ifndef COMPONENTS_SPEECH_AUDIO_BUFFER_H_
 #define COMPONENTS_SPEECH_AUDIO_BUFFER_H_
 

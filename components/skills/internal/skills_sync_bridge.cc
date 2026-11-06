@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skills sync bridge implementation
+// summary: Implements SkillsSyncBridge, converting between Skill objects and SkillSpecifics sync protos and persisting skill data in the sync data type store.
+// ---
+
 #include "components/skills/internal/skills_sync_bridge.h"
 
 #include <memory>

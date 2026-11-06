@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SODA constants and language pack configs
+// summary: Declares SODA language codes, installation metrics names, command line switches, and per-language language pack component configurations.
+// ---
+
 #ifndef COMPONENTS_SODA_CONSTANTS_H_
 #define COMPONENTS_SODA_CONSTANTS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SODA utility functions interface
+// summary: Declares helpers to check whether on-device speech recognition is supported and to query the SODA availability status for a language code.
+// ---
+
 #ifndef COMPONENTS_SODA_SODA_UTIL_H_
 #define COMPONENTS_SODA_SODA_UTIL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skills fetcher class declaration
+// summary: Declares SkillsFetcher, which fetches the list of first-party skills from the Boq API using OAuth through the endpoint fetcher.
+// ---
+
 #ifndef COMPONENTS_SKILLS_INTERNAL_SKILLS_FETCHER_H_
 #define COMPONENTS_SKILLS_INTERNAL_SKILLS_FETCHER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Site token provider GN build targets
+summary: Defines the proto library, the site_token_provider source set, and the unit test target together with their sources and dependencies.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Skills sync bridge unit tests
+// summary: Unit tests for the skills sync bridge, covering skill specifics creation, sync entity merging, metadata handling, and processing of remote skill changes.
+// ---
+
 #include "components/skills/internal/skills_sync_bridge.h"
 
 #include <memory>

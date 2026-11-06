@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for smart_tab_sharing_grdp
+summary: OWNERS file that delegates ownership of this directory to the owners of components/contextual_tasks via a file reference.

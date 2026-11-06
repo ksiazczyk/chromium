@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for the skills component
+summary: Defines the features source set and a unit_tests group aggregating internal and public test targets for the skills component.

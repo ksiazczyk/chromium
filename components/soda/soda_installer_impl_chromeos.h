@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS SODA installer interface
+// summary: Declares the ChromeOS implementation of SodaInstaller that installs the SODA binary and language packs as DLCs and caches their install paths.
+// ---
+
 #ifndef COMPONENTS_SODA_SODA_INSTALLER_IMPL_CHROMEOS_H_
 #define COMPONENTS_SODA_SODA_INSTALLER_IMPL_CHROMEOS_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the speech component
+summary: Restricts allowed includes for the speech component and grants extra net HTTP header access to the upstream and downstream loaders.

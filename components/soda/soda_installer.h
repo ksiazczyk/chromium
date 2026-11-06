@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SODA installer interface
+// summary: Declares the SodaInstaller singleton class with an observer interface and virtual methods for installing and uninstalling the SODA binary and language packs.
+// ---
+
 #ifndef COMPONENTS_SODA_SODA_INSTALLER_H_
 #define COMPONENTS_SODA_SODA_INSTALLER_H_
 

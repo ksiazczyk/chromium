@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skills feature flag definitions
+// summary: Defines base features and string feature parameters for skills functionality, including default states per platform and service endpoint URLs.
+// ---
+
 #include "components/skills/features.h"
 #include "build/build_config.h"
 

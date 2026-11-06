@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Downstream loader implementation
+// summary: Implements DownstreamLoader, streaming server response data to a DownstreamLoaderClient via SimpleURLLoader and reporting completion with the HTTP response code.
+// ---
+
 #include "components/speech/downstream_loader.h"
 
 #include <string_view>

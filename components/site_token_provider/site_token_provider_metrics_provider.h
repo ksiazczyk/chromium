@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the site token provider metrics provider
+// summary: Declares a metrics provider that reports the site token provider enabled state from the preferences of loaded profiles.
+// ---
+
 #ifndef COMPONENTS_SITE_TOKEN_PROVIDER_SITE_TOKEN_PROVIDER_METRICS_PROVIDER_H_
 #define COMPONENTS_SITE_TOKEN_PROVIDER_SITE_TOKEN_PROVIDER_METRICS_PROVIDER_H_
 

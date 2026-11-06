@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Endpointer unit tests
+// summary: Tests speech onset and offset detection by feeding synthetic low- and high-energy noise frames to the endpointer and checking the reported statuses.
+// ---
+
 
 #include "components/speech/endpointer/endpointer.h"
 

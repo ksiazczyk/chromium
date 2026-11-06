@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise skills provider declaration
+// summary: Declares the provider that fetches enterprise skills over the network, validates them and notifies observers of changes.
+// ---
+
 #ifndef COMPONENTS_SKILLS_INTERNAL_ENTERPRISE_SKILLS_PROVIDER_H_
 #define COMPONENTS_SKILLS_INTERNAL_ENTERPRISE_SKILLS_PROVIDER_H_
 

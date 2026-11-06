@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SODA feature flags declarations
+// summary: Declares the ChromeOS-specific base::Feature flags for SODA language support, exported from the SODA installer component.
+// ---
+
 #ifndef COMPONENTS_SODA_SODA_FEATURES_H_
 #define COMPONENTS_SODA_SODA_FEATURES_H_
 

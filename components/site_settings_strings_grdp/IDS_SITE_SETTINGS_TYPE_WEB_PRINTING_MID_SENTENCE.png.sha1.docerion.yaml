@@ -1,0 +1,4 @@
+# Docerion header of IDS_SITE_SETTINGS_TYPE_WEB_PRINTING_MID_SENTENCE.png.sha1.
+type: data
+title: Web printing mid-sentence image SHA-1 checksum
+summary: Stores the SHA-1 hash of the PNG image referenced by the web printing mid-sentence site settings string.

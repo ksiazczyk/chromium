@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: 'SodaUtilTest: on-device speech recognition support tests'
+// summary: Unit tests verifying IsOnDeviceSpeechRecognitionSupported() across ChromeOS, Linux, Mac, and Windows, including CPU feature checks for x86 SSE4.1 and AVX.
+// ---
+
 #include "components/soda/soda_util.h"
 
 #include "build/build_config.h"

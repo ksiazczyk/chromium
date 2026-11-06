@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the internal skills directory
+summary: Specifies allowed Chromium includes for the directory plus extra rules for unit test files.

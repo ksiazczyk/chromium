@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Site token provider proto definitions
+// summary: Defines protobuf messages for site tokens and for generating platform site tokens in the site token provider component.
+// ---
+
 syntax = "proto3";
 
 package site_token_provider.proto;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChunkedByteBuffer unit tests
+// summary: Unit tests verifying append, pop, and length behavior of the speech::ChunkedByteBuffer with partially and fully delivered chunks.
+// ---
+
 #include "components/speech/chunked_byte_buffer.h"
 
 #include <stdint.h>

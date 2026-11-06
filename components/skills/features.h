@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skills feature flag declarations
+// summary: Declares the skills feature flags and feature parameters, including URLs for intercepted and local skills settings pages.
+// ---
+
 #ifndef COMPONENTS_SKILLS_FEATURES_H_
 #define COMPONENTS_SKILLS_FEATURES_H_
 

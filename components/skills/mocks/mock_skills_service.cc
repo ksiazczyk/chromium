@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MockSkillsService implementation
+// summary: Implements MockSkillsService, configuring default gmock actions so GetSkills and GetProvidedSkills return empty skill collections.
+// ---
+
 #include "components/skills/mocks/mock_skills_service.h"
 
 namespace skills {

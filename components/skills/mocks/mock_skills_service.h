@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MockSkillsService header
+// summary: Declares a gmock-based MockSkillsService that stubs the SkillsService interface, including skill CRUD, sync, observer, and status methods, for use in tests.
+// ---
+
 #ifndef COMPONENTS_SKILLS_MOCKS_MOCK_SKILLS_SERVICE_H_
 #define COMPONENTS_SKILLS_MOCKS_MOCK_SKILLS_SERVICE_H_
 

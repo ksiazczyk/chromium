@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Site token provider service implementation
+// summary: Implements the keyed service that fetches and caches tokens for allowlisted domains and refreshes them on sign-in changes.
+// ---
+
 #include "components/site_token_provider/site_token_provider_service.h"
 
 #include <utility>

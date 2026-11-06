@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Protobuf definitions for Skill, TopicInfo and SkillsList messages
+// summary: Defines proto2 messages describing skills received from the server, including skill metadata, special topics for the skills browse page, and the full first-party skills list.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

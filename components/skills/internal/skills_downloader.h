@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the skills downloader class
+// summary: Declares the SkillsDownloader class, which asynchronously downloads first-party agent skills for the skills discovery page, parses responses, and skips refetching when content is unmodified.
+// ---
+
 #ifndef COMPONENTS_SKILLS_INTERNAL_SKILLS_DOWNLOADER_H_
 #define COMPONENTS_SKILLS_INTERNAL_SKILLS_DOWNLOADER_H_
 #include <map>

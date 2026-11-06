@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build file for skills mocks
+summary: Defines the test-only mocks source set for the skills component, compiling mock_skills_service with dependencies on the skills public API and gmock.

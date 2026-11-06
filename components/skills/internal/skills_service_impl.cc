@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skills service implementation
+// summary: Implements SkillsServiceImpl, the main SkillsService that manages skills, refreshes discovery skills, wires the sync bridge, and notifies observers of changes.
+// ---
+
 #include "components/skills/internal/skills_service_impl.h"
 
 #include <string>

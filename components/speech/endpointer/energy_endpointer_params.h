@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EnergyEndpointerParams class interface
+// summary: Declares the input parameter class for EnergyEndpointer with accessors and mutators for frame periods, detection windows, thresholds and sample rate.
+// ---
+
 #ifndef COMPONENTS_SPEECH_ENDPOINTER_ENERGY_ENDPOINTER_PARAMS_H_
 #define COMPONENTS_SPEECH_ENDPOINTER_ENERGY_ENDPOINTER_PARAMS_H_
 

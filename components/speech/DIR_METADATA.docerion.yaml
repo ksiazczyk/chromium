@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Speech component directory metadata
+summary: Maps the directory to the Blink>Speech issue tracker component, the media-dev team email, and a Buganizer component ID.

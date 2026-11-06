@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the enterprise published skills policy handler
+// summary: Tests policy checking and application, covering limits, invalid entries, missing fields and invalid URLs.
+// ---
+
 #include "components/skills/internal/enterprise_published_skills_policy_handler.h"
 
 #include "build/build_config.h"

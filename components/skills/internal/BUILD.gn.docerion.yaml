@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the internal skills component
+summary: Defines source sets, the Rust skill parser library, the downloader target and unit test targets for the internal skills code.

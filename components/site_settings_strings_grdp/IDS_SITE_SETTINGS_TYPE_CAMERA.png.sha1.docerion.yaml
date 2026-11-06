@@ -1,0 +1,4 @@
+# Docerion header of IDS_SITE_SETTINGS_TYPE_CAMERA.png.sha1.
+type: data
+title: SHA1 checksum for camera site settings PNG
+summary: Holds the SHA1 checksum of the camera PNG asset referenced by the site settings strings resources.

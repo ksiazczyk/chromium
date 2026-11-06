@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Endpointer class interface
+// summary: Declares the Endpointer interface that lets callers feed recorded audio and poll for when the user has stopped speaking, with configurable silence timeout parameters.
+// ---
+
 #ifndef COMPONENTS_SPEECH_ENDPOINTER_ENDPOINTER_H_
 #define COMPONENTS_SPEECH_ENDPOINTER_ENDPOINTER_H_
 

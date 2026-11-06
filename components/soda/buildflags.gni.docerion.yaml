@@ -1,0 +1,4 @@
+# Docerion header of buildflags.gni.
+type: config
+title: SODA build flag declarations
+summary: Declares the enable_soda_integration_tests GN argument used to enable the Speech On-Device API in tests, forbidden in official builds.

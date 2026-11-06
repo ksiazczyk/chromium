@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Rust parser for skill YAML frontmatter
+// summary: Parses name, description and prompt from YAML frontmatter and exposes the parser to C++ through a cxx bridge.
+// ---
+
 #[cxx::bridge(namespace = "skills::ffi")]
 mod ffi {
     struct SkillParseResult {

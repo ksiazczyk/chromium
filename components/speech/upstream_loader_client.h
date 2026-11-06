@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Upstream loader client interface
+// summary: Defines the UpstreamLoaderClient interface with a callback invoked when upstream data upload completes, including success and HTTP response code.
+// ---
+
 #ifndef COMPONENTS_SPEECH_UPSTREAM_LOADER_CLIENT_H_
 #define COMPONENTS_SPEECH_UPSTREAM_LOADER_CLIENT_H_
 

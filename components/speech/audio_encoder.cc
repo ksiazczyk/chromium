@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FLAC audio encoder implementation
+// summary: Implements AudioEncoder, wrapping the FLAC stream encoder to compress raw audio chunks into an internal encoded buffer.
+// ---
+
 
 #include "components/speech/audio_encoder.h"
 

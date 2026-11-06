@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Audio buffer unit tests
+// summary: Unit tests covering AudioChunk constructors, sample accessors, writable data, and AudioBuffer enqueue and dequeue behavior.
+// ---
+
 #include "components/speech/audio_buffer.h"
 
 #include <stdint.h>

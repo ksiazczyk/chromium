@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise published skills policy handler declaration
+// summary: Declares the policy handler class that validates enterprise skill entries and enforces a limit of ten skills.
+// ---
+
 #ifndef COMPONENTS_SKILLS_INTERNAL_ENTERPRISE_PUBLISHED_SKILLS_POLICY_HANDLER_H_
 #define COMPONENTS_SKILLS_INTERNAL_ENTERPRISE_PUBLISHED_SKILLS_POLICY_HANDLER_H_
 

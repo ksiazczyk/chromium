@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the skills proto library
+summary: Defines a proto_library GN target that compiles skill.proto and skill_local_data.proto and depends on the sync protocol components.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Skills downloader unit tests
+// summary: Unit tests for SkillsDownloader covering valid, invalid, and HTTP error responses from the gstatic skills endpoint, including retry behavior and fetch metrics.
+// ---
+
 #include "components/skills/internal/skills_downloader.h"
 
 #include <string>

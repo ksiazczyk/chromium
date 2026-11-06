@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Site token provider metrics provider unit tests
+// summary: Unit tests verifying how the metrics provider reports the synced site token provider pref state in system profile metrics.
+// ---
+
 #include "components/site_token_provider/site_token_provider_metrics_provider.h"
 
 #include <memory>

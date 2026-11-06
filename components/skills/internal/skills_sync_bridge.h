@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skills sync bridge class declaration
+// summary: Declares SkillsSyncBridge, the DataTypeSyncBridge for the SKILL sync data type that also observes SkillsService changes to commit local updates.
+// ---
+
 #ifndef COMPONENTS_SKILLS_INTERNAL_SKILLS_SYNC_BRIDGE_H_
 #define COMPONENTS_SKILLS_INTERNAL_SKILLS_SYNC_BRIDGE_H_
 
