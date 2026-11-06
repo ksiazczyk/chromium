@@ -1,0 +1,4 @@
+# Docerion header of ai_prototyping_view_controller.mm.
+type: source
+title: AI prototyping menu view controller implementation
+summary: Implements the paged AI prototyping menu, assembling feature pages such as freeform, tab organization, calendar, APC, and actor tools.

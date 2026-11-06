@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for AI prototyping UI
+summary: Defines the source set listing the AI prototyping UI view controllers and their build dependencies.

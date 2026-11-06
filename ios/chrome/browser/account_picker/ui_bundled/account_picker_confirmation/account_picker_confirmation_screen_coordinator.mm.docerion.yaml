@@ -1,0 +1,4 @@
+# Docerion header of account_picker_confirmation_screen_coordinator.mm.
+type: source
+title: Account picker confirmation screen coordinator implementation
+summary: Implements the coordinator, creating the mediator and view controller and handling spinner and identity button controls.

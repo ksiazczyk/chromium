@@ -1,0 +1,4 @@
+# Docerion header of ios_chrome_ai_mode_button_service_factory.mm.
+type: source
+title: AI mode button service factory implementation
+summary: Builds AiModeButtonService instances per profile, depending on the iOS template URL service factory and redirecting in incognito.

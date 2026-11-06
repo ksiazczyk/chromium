@@ -1,0 +1,4 @@
+# Docerion header of ttc_tool_validator_unittest.mm.
+type: test
+title: TTC tool validator unit tests
+summary: Unit tests covering valid tool calls, defensive rejections, URL scheme restrictions, and new_tab argument handling for the tool validator.

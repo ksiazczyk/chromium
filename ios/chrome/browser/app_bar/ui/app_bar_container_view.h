@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App bar container view interface
+// summary: Declares the AppBarContainerView that positions and lays out the app bar based on window size, fullscreen progress and app bar position.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_APP_BAR_UI_APP_BAR_CONTAINER_VIEW_H_
 #define IOS_CHROME_BROWSER_APP_BAR_UI_APP_BAR_CONTAINER_VIEW_H_
 

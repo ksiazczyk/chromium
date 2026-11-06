@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: App bar UI build targets
+summary: Defines GN source sets for the app bar constants, UI views, and unit tests together with their dependencies.

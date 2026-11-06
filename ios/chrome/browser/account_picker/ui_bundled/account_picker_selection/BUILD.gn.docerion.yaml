@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Account picker selection build definition
+summary: Defines GN source sets and dependencies for the account picker selection UI and its identity item configurator.

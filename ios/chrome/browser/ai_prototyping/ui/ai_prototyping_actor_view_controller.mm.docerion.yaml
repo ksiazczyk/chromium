@@ -1,0 +1,4 @@
+# Docerion header of ai_prototyping_actor_view_controller.mm.
+type: source
+title: Actor prototyping page view controller
+summary: Implements the Actor prototyping page offering tool selection, JSON request templates, and tab and frame debugging controls.

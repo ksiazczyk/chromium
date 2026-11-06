@@ -1,0 +1,4 @@
+# Docerion header of app_bar_container_view.mm.
+type: source
+title: App bar container view implementation
+summary: Implements constraint-based positioning of the contained app bar, handling window size changes, fullscreen progress and touch pass-through.

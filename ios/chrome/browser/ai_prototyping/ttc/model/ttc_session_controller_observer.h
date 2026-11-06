@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TtcSessionController observer interface
+// summary: Defines the observer interface for session lifecycle changes, normalized user audio level updates, and fatal or non-fatal session errors.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AI_PROTOTYPING_TTC_MODEL_TTC_SESSION_CONTROLLER_OBSERVER_H_
 #define IOS_CHROME_BROWSER_AI_PROTOTYPING_TTC_MODEL_TTC_SESSION_CONTROLLER_OBSERVER_H_
 

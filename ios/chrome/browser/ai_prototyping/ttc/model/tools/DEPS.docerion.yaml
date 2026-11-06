@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the TTC tools directory
+summary: Restricts the headers this directory may include and grants extra include allowances to unit test files.

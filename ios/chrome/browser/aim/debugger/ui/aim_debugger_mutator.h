@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AIM debugger mutator protocol
+// summary: Declares the AimDebuggerMutator protocol handling user actions such as requesting server eligibility and copying responses.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AIM_DEBUGGER_UI_AIM_DEBUGGER_MUTATOR_H_
 #define IOS_CHROME_BROWSER_AIM_DEBUGGER_UI_AIM_DEBUGGER_MUTATOR_H_
 

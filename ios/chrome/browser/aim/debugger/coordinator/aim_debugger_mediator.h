@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AimDebuggerMediator header
+// summary: Declares the AimDebuggerMediator interface that bridges the AIM eligibility service and preferences to the debugger consumer.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AIM_DEBUGGER_COORDINATOR_AIM_DEBUGGER_MEDIATOR_H_
 #define IOS_CHROME_BROWSER_AIM_DEBUGGER_COORDINATOR_AIM_DEBUGGER_MEDIATOR_H_
 

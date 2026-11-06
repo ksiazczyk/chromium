@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Account picker logger protocol
+// summary: Declares a protocol for features presenting the account picker to log events such as opening or closing the selection screen and adding an account.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_ACCOUNT_PICKER_UI_BUNDLED_ACCOUNT_PICKER_LOGGER_H_
 #define IOS_CHROME_BROWSER_ACCOUNT_PICKER_UI_BUNDLED_ACCOUNT_PICKER_LOGGER_H_
 

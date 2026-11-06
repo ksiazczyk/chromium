@@ -1,0 +1,4 @@
+# Docerion header of ttc_tool_validator.mm.
+type: source
+title: TTC tool validator implementation
+summary: Implements syntactic validation of TTC tool calls and builds serialized Action protobuf payloads for the actuation handler.

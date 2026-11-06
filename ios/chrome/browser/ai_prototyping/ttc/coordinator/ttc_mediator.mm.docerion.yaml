@@ -1,0 +1,4 @@
+# Docerion header of ttc_mediator.mm.
+type: source
+title: TTCMediator implementation
+summary: Implements the mediator, mapping session lifecycle and journal updates into UI states, energy levels and filtered journal lines for the consumer.

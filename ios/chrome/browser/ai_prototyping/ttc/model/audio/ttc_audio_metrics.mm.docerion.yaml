@@ -1,0 +1,4 @@
+# Docerion header of ttc_audio_metrics.mm.
+type: source
+title: TTC audio metrics implementation
+summary: Implements RMS computation via vDSP and mapping of linear amplitude to a perceptual level scaled across the dBFS range.

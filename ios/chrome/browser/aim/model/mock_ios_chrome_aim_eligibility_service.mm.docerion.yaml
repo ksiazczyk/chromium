@@ -1,0 +1,4 @@
+# Docerion header of mock_ios_chrome_aim_eligibility_service.mm.
+type: test
+title: Mock iOS AIM eligibility service implementation
+summary: Implements the mock iOS AIM eligibility service with default gmock eligibility behavior and a per-profile testing factory method.

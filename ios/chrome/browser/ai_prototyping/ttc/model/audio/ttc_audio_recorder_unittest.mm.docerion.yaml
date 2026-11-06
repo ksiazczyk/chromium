@@ -1,0 +1,4 @@
+# Docerion header of ttc_audio_recorder_unittest.mm.
+type: test
+title: TTCAudioRecorder unit tests
+summary: Unit tests for TTCAudioRecorder covering default state, stop and reset cycles, and 48kHz stereo to 16kHz mono resampling.

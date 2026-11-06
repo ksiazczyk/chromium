@@ -1,0 +1,4 @@
+# Docerion header of account_picker_selection_screen_coordinator.mm.
+type: source
+title: Account picker selection screen coordinator implementation
+summary: Implements the coordinator wiring mediator and view controller and handling actions like adding an account.

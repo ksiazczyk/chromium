@@ -1,0 +1,4 @@
+# Docerion header of account_picker_selection_screen_identity_item_configurator.mm.
+type: source
+title: Identity item configurator implementation
+summary: Applies the stored identity data to a TableViewIdentityItem for the account picker list.

@@ -1,0 +1,4 @@
+# Docerion header of ttc_actuation_data_types.mm.
+type: source
+title: TtcActuationRequest data type implementation
+summary: Implements the constructors, assignment operators and destructor of the TtcActuationRequest struct.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AI prototyping UI constants and feature enum declarations
+// summary: Declares UI dimension and model constants and an enum of AI prototyping features such as freeform, calendar, and tab grouping.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AI_PROTOTYPING_UTILS_AI_PROTOTYPING_CONSTANTS_H_
 #define IOS_CHROME_BROWSER_AI_PROTOTYPING_UTILS_AI_PROTOTYPING_CONSTANTS_H_
 

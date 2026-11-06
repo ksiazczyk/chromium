@@ -1,0 +1,4 @@
+# Docerion header of aim_tab_helper.mm.
+type: source
+title: AIM tab helper implementation
+summary: Implements navigation handling that records MobileAIModeSearchPerformed and fetches AIM eligibility on eligible search URL navigations.

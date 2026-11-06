@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App bar container view controller interface
+// summary: Declares the view controller that keeps the app bar at the physical bottom of the screen and observes fullscreen, layout and incognito state.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_APP_BAR_UI_APP_BAR_CONTAINER_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_APP_BAR_UI_APP_BAR_CONTAINER_VIEW_CONTROLLER_H_
 

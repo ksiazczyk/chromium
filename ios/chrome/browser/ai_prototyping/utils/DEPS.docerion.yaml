@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for AI prototyping utils
+summary: DEPS file granting the utils directory access to the ios chrome intelligence proto_wrappers dependency.

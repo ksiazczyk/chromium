@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TTC voice focused web state tracker
+// summary: Declares a tracker that follows the active tab's web state in the most active regular browser and notifies registered observers of changes.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AI_PROTOTYPING_TTC_MODEL_TTC_VOICE_FOCUSED_WEB_STATE_TRACKER_H_
 #define IOS_CHROME_BROWSER_AI_PROTOTYPING_TTC_MODEL_TTC_VOICE_FOCUSED_WEB_STATE_TRACKER_H_
 

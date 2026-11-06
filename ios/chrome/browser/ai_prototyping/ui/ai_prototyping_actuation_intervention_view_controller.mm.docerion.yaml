@@ -1,0 +1,4 @@
+# Docerion header of ai_prototyping_actuation_intervention_view_controller.mm.
+type: source
+title: AI prototyping actuation intervention view controller implementation
+summary: Implements a showcase screen for ActuationInterventionView with a layout picker and editable title, subtitle, and button texts that report the last triggered action.

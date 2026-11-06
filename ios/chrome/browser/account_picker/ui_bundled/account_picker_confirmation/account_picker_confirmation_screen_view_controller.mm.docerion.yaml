@@ -1,0 +1,4 @@
+# Docerion header of account_picker_confirmation_screen_view_controller.mm.
+type: source
+title: Account picker confirmation screen view controller implementation
+summary: Implements the account picker confirmation screen UI, including the branded navigation title, identity button, layout constraints, and user action handling.

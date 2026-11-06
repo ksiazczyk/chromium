@@ -1,0 +1,4 @@
+# Docerion header of ai_prototyping_tab_organization_view_controller.mm.
+type: source
+title: Tab organization view controller implementation
+summary: Implements the Tab Organization prototyping page with a group tabs button and a response container for results.

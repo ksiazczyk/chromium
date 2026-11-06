@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App bar mutator protocol
+// summary: Declares the AppBarMutator protocol handling new tabs, tab groups, assistant button taps, preferred assistant state and web navigation.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_APP_BAR_UI_APP_BAR_MUTATOR_H_
 #define IOS_CHROME_BROWSER_APP_BAR_UI_APP_BAR_MUTATOR_H_
 

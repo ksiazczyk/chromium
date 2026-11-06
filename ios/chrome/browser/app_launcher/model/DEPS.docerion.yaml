@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: App launcher model include dependency rules
+summary: Lists the directories that the app launcher model code is allowed to include headers from.

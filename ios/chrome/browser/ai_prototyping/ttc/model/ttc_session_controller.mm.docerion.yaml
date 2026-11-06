@@ -1,0 +1,4 @@
+# Docerion header of ttc_session_controller.mm.
+type: source
+title: TtcSessionController implementation
+summary: Implements session lifecycle management, forwarding conversation events, audio energy, and errors to observers, and stopping sessions on backgrounding or fatal errors.

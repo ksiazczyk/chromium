@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for the TTC tools source set
+summary: Defines the tools source set and its unit test target, listing sources, dependencies and frameworks for the TTC actuation code.

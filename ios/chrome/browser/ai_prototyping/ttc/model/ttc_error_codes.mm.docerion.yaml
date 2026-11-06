@@ -1,0 +1,4 @@
+# Docerion header of ttc_error_codes.mm.
+type: source
+title: TTC error code helpers implementation
+summary: Implements the TTC error domain and conversion of ttc::ErrorCode values into NSError objects with localized descriptions.

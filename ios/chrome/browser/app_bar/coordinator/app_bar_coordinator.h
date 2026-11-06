@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App bar coordinator header
+// summary: Declares the coordinator for the app bar, the bar at the bottom of the screen on narrow form factors.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_APP_BAR_COORDINATOR_APP_BAR_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_APP_BAR_COORDINATOR_APP_BAR_COORDINATOR_H_
 

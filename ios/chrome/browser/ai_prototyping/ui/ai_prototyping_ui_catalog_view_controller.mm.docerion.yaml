@@ -1,0 +1,4 @@
+# Docerion header of ai_prototyping_ui_catalog_view_controller.mm.
+type: source
+title: UI catalog view controller implementation
+summary: Implements the UI catalog that presents entries for actor tool chips, worklog views, and actuation debug pages.

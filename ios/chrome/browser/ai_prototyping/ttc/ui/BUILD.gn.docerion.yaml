@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: TTC prototype UI build configuration
+summary: GN build definition for the TTC prototype UI source set, listing its Objective-C sources, dependencies, and the UIKit framework.

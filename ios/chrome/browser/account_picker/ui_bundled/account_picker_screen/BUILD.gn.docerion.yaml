@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Account picker screen build configuration
+summary: Defines the account_picker_screen source set with its Objective-C sources and build dependencies for the Chromium iOS build.

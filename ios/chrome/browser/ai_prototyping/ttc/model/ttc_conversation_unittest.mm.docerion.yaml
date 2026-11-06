@@ -1,0 +1,4 @@
+# Docerion header of ttc_conversation_unittest.mm.
+type: test
+title: TtcConversation unit tests
+summary: Unit tests for TtcConversation using a fake audio controller and delegate to exercise session lifecycle, context updates, and error handling.

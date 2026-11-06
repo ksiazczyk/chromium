@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App launching state for consecutive external app launches
+// summary: Declares AppLaunchingState, which tracks consecutive launches of an external app and whether launching is blocked for the session.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_APP_LAUNCHER_MODEL_APP_LAUNCHING_STATE_H_
 #define IOS_CHROME_BROWSER_APP_LAUNCHER_MODEL_APP_LAUNCHING_STATE_H_
 

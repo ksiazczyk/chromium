@@ -1,0 +1,4 @@
+# Docerion header of aim_debugger_coordinator.mm.
+type: source
+title: AimDebuggerCoordinator implementation
+summary: Implements the coordinator that wires up the mediator and view controller and presents the AIM debugger as a modal.

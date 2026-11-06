@@ -1,0 +1,4 @@
+# Docerion header of ai_prototyping_freeform_view_controller.mm.
+type: source
+title: Freeform feature view controller implementation
+summary: Implements the Freeform prototyping UI with query and system instruction fields, model picker, and toggles for page context and extraction options.

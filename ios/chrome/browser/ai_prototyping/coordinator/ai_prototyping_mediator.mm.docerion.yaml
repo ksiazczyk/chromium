@@ -1,0 +1,4 @@
+# Docerion header of ai_prototyping_mediator.mm.
+type: source
+title: AIPrototypingMediator implementation
+summary: Implements the mediator handling AI prototyping models, actor journal logging, smart tab grouping, and enhanced calendar requests.

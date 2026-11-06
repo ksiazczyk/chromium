@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for the TTC coordinator
+summary: GN build file defining the coordinator source set and its unit test target, listing sources, dependencies and linked frameworks.

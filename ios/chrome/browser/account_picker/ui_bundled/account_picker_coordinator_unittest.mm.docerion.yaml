@@ -1,0 +1,4 @@
+# Docerion header of account_picker_coordinator_unittest.mm.
+type: test
+title: Account picker coordinator unit tests
+summary: Unit tests for the AccountPickerCoordinator using a test profile and browser, fake view controller and an OCMock delegate.

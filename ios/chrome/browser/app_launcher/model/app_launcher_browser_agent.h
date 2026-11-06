@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppLauncherBrowserAgent interface
+// summary: Declares a browser agent that manages opening external apps for navigations in the browser's web states, with a tab helper delegate.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_APP_LAUNCHER_MODEL_APP_LAUNCHER_BROWSER_AGENT_H_
 #define IOS_CHROME_BROWSER_APP_LAUNCHER_MODEL_APP_LAUNCHER_BROWSER_AGENT_H_
 

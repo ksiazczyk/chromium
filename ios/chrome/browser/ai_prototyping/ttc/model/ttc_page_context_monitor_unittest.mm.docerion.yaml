@@ -1,0 +1,4 @@
+# Docerion header of ttc_page_context_monitor_unittest.mm.
+type: test
+title: TtcPageContextMonitor unit tests
+summary: Tests TtcPageContextMonitor using fake web states and delegates, verifying extraction triggers, cancellation on navigation, and result forwarding.

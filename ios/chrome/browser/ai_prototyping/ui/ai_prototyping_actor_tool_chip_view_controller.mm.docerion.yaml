@@ -1,0 +1,4 @@
+# Docerion header of ai_prototyping_actor_tool_chip_view_controller.mm.
+type: source
+title: Actor tool chip showcase view controller
+summary: Implements a showcase of actor tool chips with selectable dot colors and sample states such as clicking, typing, and waiting.

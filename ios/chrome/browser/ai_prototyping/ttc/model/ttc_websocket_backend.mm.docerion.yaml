@@ -1,0 +1,4 @@
+# Docerion header of ttc_websocket_backend.mm.
+type: source
+title: TTC WebSocket backend implementation
+summary: Implements bidirectional WebSocket streaming with the live model, including heartbeat pings, in-flight audio send limits, and JSON payloads.

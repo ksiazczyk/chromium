@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AIM utility header for opening AIM in the current tab
+// summary: Declares helper functions that open the AIM search results page in the current tab for general and App Bar entry points.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AIM_MODEL_AIM_UTIL_H_
 #define IOS_CHROME_BROWSER_AIM_MODEL_AIM_UTIL_H_
 

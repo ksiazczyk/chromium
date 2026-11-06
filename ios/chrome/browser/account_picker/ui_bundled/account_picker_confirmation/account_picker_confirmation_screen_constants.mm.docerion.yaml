@@ -1,0 +1,4 @@
+# Docerion header of account_picker_confirmation_screen_constants.mm.
+type: source
+title: Account picker confirmation screen constants implementation
+summary: Defines the accessibility identifier strings for the account picker confirmation screen's primary and cancel buttons.

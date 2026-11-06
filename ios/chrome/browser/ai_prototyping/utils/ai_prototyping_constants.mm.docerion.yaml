@@ -1,0 +1,4 @@
+# Docerion header of ai_prototyping_constants.mm.
+type: source
+title: AI prototyping constant values
+summary: Defines the numeric values for the UI dimension and temperature constants declared in the constants header.

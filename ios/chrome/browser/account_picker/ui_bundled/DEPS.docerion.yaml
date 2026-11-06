@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Account picker UI include rules
+summary: Restricts includes in the account picker UI directory to an allowlist of signin and authentication headers.

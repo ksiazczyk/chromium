@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TTCAudioRecorder testing category
+// summary: Testing category exposing TTCAudioRecorder input buffer handling so unit tests can feed audio buffers directly.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AI_PROTOTYPING_TTC_MODEL_AUDIO_TTC_AUDIO_RECORDER_TESTING_H_
 #define IOS_CHROME_BROWSER_AI_PROTOTYPING_TTC_MODEL_AUDIO_TTC_AUDIO_RECORDER_TESTING_H_
 

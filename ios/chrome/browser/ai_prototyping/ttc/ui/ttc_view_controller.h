@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TTCViewController interface
+// summary: Declares TTCViewController, the view controller for the TTC prototype UI, conforming to the AI prototyping and TTC consumer protocols with a TTC-specific mutator property.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AI_PROTOTYPING_TTC_UI_TTC_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_AI_PROTOTYPING_TTC_UI_TTC_VIEW_CONTROLLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TTCAudioController protocol and delegate interface
+// summary: Declares the high-level protocol abstracting the TTC audio conversation lifecycle, including capture, playback, routing, and delegate callbacks.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AI_PROTOTYPING_TTC_MODEL_AUDIO_TTC_AUDIO_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_AI_PROTOTYPING_TTC_MODEL_AUDIO_TTC_AUDIO_CONTROLLER_H_
 

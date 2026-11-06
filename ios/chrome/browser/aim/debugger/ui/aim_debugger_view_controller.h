@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AIM debugger view controller header
+// summary: Declares AimDebuggerViewController, a Chrome table view controller for the AIM Eligibility Debugger page.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AIM_DEBUGGER_UI_AIM_DEBUGGER_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_AIM_DEBUGGER_UI_AIM_DEBUGGER_VIEW_CONTROLLER_H_
 

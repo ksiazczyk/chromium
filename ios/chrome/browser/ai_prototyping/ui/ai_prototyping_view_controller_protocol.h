@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AIPrototypingViewControllerProtocol
+// summary: Declares the shared protocol for AI prototyping menu pages, exposing the feature, mutator, and optional methods to update responses, submit buttons, and raw PageContext bytes.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AI_PROTOTYPING_UI_AI_PROTOTYPING_VIEW_CONTROLLER_PROTOCOL_H_
 #define IOS_CHROME_BROWSER_AI_PROTOTYPING_UI_AI_PROTOTYPING_VIEW_CONTROLLER_PROTOCOL_H_
 

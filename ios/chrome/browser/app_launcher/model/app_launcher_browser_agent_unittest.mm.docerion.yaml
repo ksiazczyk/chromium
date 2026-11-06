@@ -1,0 +1,4 @@
+# Docerion header of app_launcher_browser_agent_unittest.mm.
+type: test
+title: AppLauncherBrowserAgent unit tests
+summary: Tests the browser agent's app launch flow using a mocked UIApplication, overlay queues, fake tab helpers and histogram checks.

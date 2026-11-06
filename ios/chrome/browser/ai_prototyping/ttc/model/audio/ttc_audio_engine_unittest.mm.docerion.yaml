@@ -1,0 +1,4 @@
+# Docerion header of ttc_audio_engine_unittest.mm.
+type: test
+title: TTCAudioEngine unit tests
+summary: Unit tests covering engine defaults, stop and disconnect cycles, delegate event forwarding, and playback resumption after engine restarts.

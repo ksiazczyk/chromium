@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the AIM model directory
+summary: Specifies the include rules that govern which headers and directories the AIM model code may depend on.

@@ -1,0 +1,4 @@
+# Docerion header of features.mm.
+type: source
+title: AI prototyping feature flag definitions
+summary: Defines the BlingAIPrototyping feature flags as disabled by default, their logging tag and description parameters, and the enabled-check functions.

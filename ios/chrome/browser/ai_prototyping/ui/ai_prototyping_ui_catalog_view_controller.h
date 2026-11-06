@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UI catalog view controller header
+// summary: Declares a table view controller listing AI prototyping micro UI experiences and debug pages, plus its navigation controller wrapper.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AI_PROTOTYPING_UI_AI_PROTOTYPING_UI_CATALOG_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_AI_PROTOTYPING_UI_AI_PROTOTYPING_UI_CATALOG_VIEW_CONTROLLER_H_
 

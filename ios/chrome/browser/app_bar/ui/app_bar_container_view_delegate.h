@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App bar container view delegate protocol
+// summary: Declares the AppBarContainerViewDelegate protocol notifying when the container view moves to a window.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_APP_BAR_UI_APP_BAR_CONTAINER_VIEW_DELEGATE_H_
 #define IOS_CHROME_BROWSER_APP_BAR_UI_APP_BAR_CONTAINER_VIEW_DELEGATE_H_
 

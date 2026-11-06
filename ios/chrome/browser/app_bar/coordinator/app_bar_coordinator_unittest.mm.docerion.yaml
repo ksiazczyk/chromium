@@ -1,0 +1,4 @@
+# Docerion header of app_bar_coordinator_unittest.mm.
+type: test
+title: App bar coordinator unit tests
+summary: Unit tests for the app bar coordinator covering safe area handling, user metrics, and command dispatch with fake test environments.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS account setting service factory header
+// summary: Declares IOSAccountSettingServiceFactory, a singleton typed profile keyed service factory that associates AccountSettingService instances with ProfileIOS.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_ACCOUNT_SETTINGS_MODEL_IOS_ACCOUNT_SETTING_SERVICE_FACTORY_H_
 #define IOS_CHROME_BROWSER_ACCOUNT_SETTINGS_MODEL_IOS_ACCOUNT_SETTING_SERVICE_FACTORY_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of ttc_tool_definitions_unittest.mm.
+type: test
+title: TTC tool definitions unit tests
+summary: Verifies that the default tool definitions contain the expected tool names and valid JSON schemas.

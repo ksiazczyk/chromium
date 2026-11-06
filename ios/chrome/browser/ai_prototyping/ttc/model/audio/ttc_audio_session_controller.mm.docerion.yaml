@@ -1,0 +1,4 @@
+# Docerion header of ttc_audio_session_controller.mm.
+type: source
+title: TTCAudioSessionController implementation
+summary: Implements capture and playback startup, AEC mode selection, route change and interruption handling, loopback, and test tones.

@@ -1,0 +1,4 @@
+# Docerion header of ttc_page_context_monitor.mm.
+type: source
+title: TtcPageContextMonitor implementation
+summary: Implements page context extraction on page load and navigation, cancelling stale in-flight extractions and forwarding valid results to the delegate.

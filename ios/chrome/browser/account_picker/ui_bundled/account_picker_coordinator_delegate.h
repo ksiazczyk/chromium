@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Account picker coordinator delegate protocol
+// summary: Declares delegate callbacks for identity selection, cancellation, removal of all identities and dismissal of the account picker.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_ACCOUNT_PICKER_UI_BUNDLED_ACCOUNT_PICKER_COORDINATOR_DELEGATE_H_
 #define IOS_CHROME_BROWSER_ACCOUNT_PICKER_UI_BUNDLED_ACCOUNT_PICKER_COORDINATOR_DELEGATE_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of alert_action.mm.
+type: source
+title: AlertAction implementation
+summary: Implements AlertAction initialization with title, style, handler, unique identifier, and enabled default.

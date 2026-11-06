@@ -1,0 +1,4 @@
+# Docerion header of ttc_audio_player.mm.
+type: source
+title: TTCAudioPlayer implementation
+summary: Implements playback buffer scheduling, sample rate conversion, loopback backlog purging, and playback resumption after engine restarts.

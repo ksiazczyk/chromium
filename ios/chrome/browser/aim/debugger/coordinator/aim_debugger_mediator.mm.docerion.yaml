@@ -1,0 +1,4 @@
+# Docerion header of aim_debugger_mediator.mm.
+type: source
+title: AimDebuggerMediator implementation
+summary: Implements the mediator that reports AIM eligibility checks and server responses to the consumer and handles debug actions like copying responses.

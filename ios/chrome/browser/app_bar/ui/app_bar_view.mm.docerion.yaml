@@ -1,0 +1,4 @@
+# Docerion header of app_bar_view.mm.
+type: source
+title: App Bar view implementation
+summary: Implements AppBarView, forwarding didMoveToWindow events to its delegate for window transition handling.

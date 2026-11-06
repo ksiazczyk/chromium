@@ -1,0 +1,4 @@
+# Docerion header of ai_prototyping_actuation_task_card_view_controller.mm.
+type: source
+title: AI prototyping actuation task card view controller implementation
+summary: Implements a customizable showcase for ActuationTaskCardView with text fields, icon and gradient segments, an enabled switch, and delegate handling for taps and collapse changes.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for the TTC audio module
+summary: Defines the source sets, dependencies, frameworks, and unit test targets for the TTC audio subsystem in GN build format.

@@ -1,0 +1,4 @@
+# Docerion header of app_bar_constants.mm.
+type: source
+title: App bar constants implementation
+summary: Defines app bar heights, button identifiers, histogram names and the conversion from preferred assistant button state for the iOS app bar.

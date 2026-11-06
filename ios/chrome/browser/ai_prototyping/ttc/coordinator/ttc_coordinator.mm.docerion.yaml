@@ -1,0 +1,4 @@
+# Docerion header of ttc_coordinator.mm.
+type: source
+title: TTCCoordinator implementation
+summary: Creates the TTC view controller and mediator on start, wiring the profile's TTC keyed service to the UI, and disconnects everything on stop.

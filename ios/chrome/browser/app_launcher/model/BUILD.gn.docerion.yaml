@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: App launcher model build targets
+summary: Defines GN source sets for the app launcher model code, test support fakes and unit tests with their dependencies.

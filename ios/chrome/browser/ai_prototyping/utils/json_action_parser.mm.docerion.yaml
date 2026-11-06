@@ -1,0 +1,4 @@
+# Docerion header of json_action_parser.mm.
+type: source
+title: JSON action parser implementation
+summary: Maps JSON dictionaries for browser actions like navigate, click, scroll, and tab management into optimization guide Action protos.

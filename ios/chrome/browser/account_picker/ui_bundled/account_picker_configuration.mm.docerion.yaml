@@ -1,0 +1,4 @@
+# Docerion header of account_picker_configuration.mm.
+type: source
+title: Account picker configuration implementation
+summary: Implements the AccountPickerConfiguration class declared in the matching header.

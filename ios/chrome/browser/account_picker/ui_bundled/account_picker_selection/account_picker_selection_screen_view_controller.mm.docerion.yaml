@@ -1,0 +1,4 @@
+# Docerion header of account_picker_selection_screen_view_controller.mm.
+type: source
+title: Account picker selection screen view controller implementation
+summary: Implements the selection screen container view controller that embeds the table view and computes preferred content size for sheet display.

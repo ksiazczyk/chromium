@@ -1,0 +1,4 @@
+# Docerion header of account_picker_confirmation_screen_mediator.mm.
+type: source
+title: Account picker confirmation screen mediator implementation
+summary: Implements the mediator, observing account manager, identity, and authentication services to update the selected account UI.

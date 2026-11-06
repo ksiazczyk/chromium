@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Alert view UI build definition
+summary: GN build file defining the ui_bundled source set and its unit test target with dependencies for the iOS alert view UI.

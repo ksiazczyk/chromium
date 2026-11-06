@@ -1,0 +1,4 @@
+# Docerion header of app_launching_state.mm.
+type: source
+title: App launching state implementation
+summary: Implements AppLaunchingState, counting consecutive launch requests and resetting the count when launches are spaced too far apart.

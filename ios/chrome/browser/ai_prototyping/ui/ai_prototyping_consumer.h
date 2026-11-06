@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AIPrototypingConsumer protocol header
+// summary: Defines the consumer protocol through which the mediator updates view controllers with query results, tab lists, frames, and page context data.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AI_PROTOTYPING_UI_AI_PROTOTYPING_CONSUMER_H_
 #define IOS_CHROME_BROWSER_AI_PROTOTYPING_UI_AI_PROTOTYPING_CONSUMER_H_
 

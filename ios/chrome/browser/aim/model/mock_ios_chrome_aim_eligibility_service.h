@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock iOS AIM eligibility service header
+// summary: Declares a mock iOS AIM eligibility service with a factory method for creating testing instances for a given profile.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AIM_MODEL_MOCK_IOS_CHROME_AIM_ELIGIBILITY_SERVICE_H_
 #define IOS_CHROME_BROWSER_AIM_MODEL_MOCK_IOS_CHROME_AIM_ELIGIBILITY_SERVICE_H_
 

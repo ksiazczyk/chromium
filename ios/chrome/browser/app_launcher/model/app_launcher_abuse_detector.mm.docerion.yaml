@@ -1,0 +1,4 @@
+# Docerion header of app_launcher_abuse_detector.mm.
+type: source
+title: AppLauncherAbuseDetector implementation
+summary: Implements launch state keyed by source origin and app scheme, prompting after repeated launches and blocking apps for the session.

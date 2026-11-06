@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JSON action parser interface
+// summary: Declares ParseActionFromDict, which maps a JSON dictionary to an optimization guide Action proto on a best-effort basis.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AI_PROTOTYPING_UTILS_JSON_ACTION_PARSER_H_
 #define IOS_CHROME_BROWSER_AI_PROTOTYPING_UTILS_JSON_ACTION_PARSER_H_
 

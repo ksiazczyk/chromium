@@ -1,0 +1,4 @@
+# Docerion header of ttc_session_controller_unittest.mm.
+type: test
+title: TTC session controller unit tests
+summary: Unit tests for the session controller using a fake audio controller, fake observer, and fake web state fixtures.

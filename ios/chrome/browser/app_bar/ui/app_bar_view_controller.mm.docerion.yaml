@@ -1,0 +1,4 @@
+# Docerion header of app_bar_view_controller.mm.
+type: source
+title: App Bar view controller implementation
+summary: Implements the iOS Chrome App Bar UI, including buttons, animations, fullscreen transitions, metrics, and IPH background handling.

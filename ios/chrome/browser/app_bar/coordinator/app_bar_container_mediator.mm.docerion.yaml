@@ -1,0 +1,4 @@
+# Docerion header of app_bar_container_mediator.mm.
+type: source
+title: App bar container mediator implementation
+summary: Implements the container mediator, wiring fullscreen UI updaters or browser agent observer bridges depending on the fullscreen refactoring flag.

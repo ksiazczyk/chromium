@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AI Mode button service factory header
+// summary: Declares the profile keyed service factory that owns and creates AIModeButtonServiceIOS instances per profile.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AIM_MODEL_AI_MODE_BUTTON_SERVICE_IOS_FACTORY_H_
 #define IOS_CHROME_BROWSER_AIM_MODEL_AI_MODE_BUTTON_SERVICE_IOS_FACTORY_H_
 

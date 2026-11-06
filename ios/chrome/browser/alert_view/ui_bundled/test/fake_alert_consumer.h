@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake alert consumer header
+// summary: Declares FakeAlertConsumer, a fake AlertConsumer that stores consumed alert title, message, actions and settings for tests.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_ALERT_VIEW_UI_BUNDLED_TEST_FAKE_ALERT_CONSUMER_H_
 #define IOS_CHROME_BROWSER_ALERT_VIEW_UI_BUNDLED_TEST_FAKE_ALERT_CONSUMER_H_
 
