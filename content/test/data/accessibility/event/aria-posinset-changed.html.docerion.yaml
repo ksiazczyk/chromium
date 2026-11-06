@@ -1,0 +1,4 @@
+# Docerion header of aria-posinset-changed.html.
+type: test
+title: HTML test page for aria-posinset change events
+summary: Accessibility test page that sets, removes and re-sets aria-posinset on option elements to verify which changes fire events.

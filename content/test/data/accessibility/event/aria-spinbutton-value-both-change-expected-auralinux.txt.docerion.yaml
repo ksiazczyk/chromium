@@ -1,0 +1,4 @@
+# Docerion header of aria-spinbutton-value-both-change-expected-auralinux.txt.
+type: test
+title: Expected Linux events for spinbutton value change test
+summary: Expected Linux AT-SPI event output with a value changed event on a spin button role.

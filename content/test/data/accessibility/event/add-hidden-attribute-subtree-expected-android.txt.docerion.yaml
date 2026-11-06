@@ -1,0 +1,4 @@
+# Docerion header of add-hidden-attribute-subtree-expected-android.txt.
+type: test
+title: Expected Android events for add hidden attribute subtree test
+summary: Expected Android accessibility event output for the subtree variant of the test that adds the hidden attribute to a list item.

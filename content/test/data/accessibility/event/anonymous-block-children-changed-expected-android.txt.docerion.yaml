@@ -1,0 +1,4 @@
+# Docerion header of anonymous-block-children-changed-expected-android.txt.
+type: test
+title: Expected Android events for anonymous block children changed test
+summary: Expected Android accessibility event log for the anonymous-block-children-changed test, listing window content change events during child additions and removals.

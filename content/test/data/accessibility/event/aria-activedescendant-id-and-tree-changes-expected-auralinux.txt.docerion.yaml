@@ -1,0 +1,4 @@
+# Docerion header of aria-activedescendant-id-and-tree-changes-expected-auralinux.txt.
+type: test
+title: aria-activedescendant ID and tree changes expected events for Linux
+summary: Expected AT-SPI accessibility events for the aria-activedescendant ID and tree changes test on Linux, covering focus, selection, and children-changed notifications.

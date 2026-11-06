@@ -1,0 +1,4 @@
+# Docerion header of aria-combo-box-expand-expected-mac.txt.
+type: test
+title: Expected Mac accessibility events for ARIA combo box expand test
+summary: Expected macOS AX accessibility notifications for the ARIA combo box expand test, covering focus, expansion and selection changes.

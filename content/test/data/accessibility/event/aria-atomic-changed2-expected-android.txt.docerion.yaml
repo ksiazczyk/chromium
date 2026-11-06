@@ -1,0 +1,4 @@
+# Docerion header of aria-atomic-changed2-expected-android.txt.
+type: test
+title: aria-atomic changed 2 expected events for Android
+summary: Expected Android accessibility events for the second aria-atomic change test scenario, listing content-changed notifications after page load.

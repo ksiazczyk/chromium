@@ -1,0 +1,4 @@
+# Docerion header of aria-hidden-descendants-already-ignored-expected-auralinux.txt.
+type: test
+title: aria-hidden-descendants-already-ignored expected output for auralinux
+summary: Expected Linux accessibility event output for the aria-hidden-descendants-already-ignored test page.

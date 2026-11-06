@@ -1,0 +1,4 @@
+# Docerion header of add-subtree-expected-uia-win.txt.
+type: test
+title: Expected UIA Windows events for add-subtree accessibility test
+summary: Expected Windows UIA accessibility events, including StructureChanged/ChildAdded, when a subtree is added in the add-subtree test.

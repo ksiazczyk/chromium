@@ -1,0 +1,4 @@
+# Docerion header of aria-haspopup-changed-expected-android.txt.
+type: test
+title: aria-haspopup-changed expected Android accessibility events
+summary: Expected Android accessibility event log for the aria-haspopup-changed test, listing window content changed events on EditText and WebView nodes.

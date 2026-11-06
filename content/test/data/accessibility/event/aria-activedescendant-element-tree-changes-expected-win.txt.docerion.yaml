@@ -1,0 +1,4 @@
+# Docerion header of aria-activedescendant-element-tree-changes-expected-win.txt.
+type: test
+title: aria-activedescendant element tree changes expected events for Windows
+summary: Expected MSAA/IA2 accessibility events for the aria-activedescendant element tree changes test on Windows, including focus, selection, and text change events.

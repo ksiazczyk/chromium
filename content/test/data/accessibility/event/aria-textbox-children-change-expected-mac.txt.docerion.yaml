@@ -1,0 +1,4 @@
+# Docerion header of aria-textbox-children-change-expected-mac.txt.
+type: test
+title: Expected Mac events for textbox children change
+summary: Expected macOS accessibility events when children of ARIA textboxes change, used to verify Chromium's output on Mac.

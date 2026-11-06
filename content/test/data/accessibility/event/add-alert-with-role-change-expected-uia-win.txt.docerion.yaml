@@ -1,0 +1,4 @@
+# Docerion header of add-alert-with-role-change-expected-uia-win.txt.
+type: test
+title: Add alert with role change expected UIA Windows events
+summary: Expected UIA Windows LiveRegionChanged event on the alert role for the add-alert-with-role-change test.

@@ -1,0 +1,4 @@
+# Docerion header of aria-combo-box-delay-add-list-expected-android.txt.
+type: test
+title: Expected Android accessibility events for delayed combobox list addition
+summary: Expected Android accessibility event output for the test that adds a combobox list after a delay.

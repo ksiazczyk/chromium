@@ -1,0 +1,4 @@
+# Docerion header of aria-multiline-changed-expected-uia-win.txt.
+type: test
+title: aria-multiline-changed expected output for UIA on Windows
+summary: Expected UIA accessibility event output for the aria-multiline change test, listing AriaProperties changed events on textboxes.

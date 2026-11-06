@@ -1,0 +1,4 @@
+# Docerion header of aria-hidden-descendants-already-ignored-expected-uia-win.txt.
+type: test
+title: aria-hidden-descendants-already-ignored expected output for UIA on Windows
+summary: Expected UIA-Win accessibility event output for the aria-hidden-descendants-already-ignored test page.

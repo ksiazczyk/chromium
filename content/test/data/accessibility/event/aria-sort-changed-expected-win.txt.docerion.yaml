@@ -1,0 +1,4 @@
+# Docerion header of aria-sort-changed-expected-win.txt.
+type: test
+title: Expected Windows events for aria-sort change test
+summary: Expected Windows IA2 event output listing object attribute changed events on row and column headers when aria-sort changes.

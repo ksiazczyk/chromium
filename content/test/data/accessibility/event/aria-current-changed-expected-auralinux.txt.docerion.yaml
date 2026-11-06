@@ -1,0 +1,4 @@
+# Docerion header of aria-current-changed-expected-auralinux.txt.
+type: test
+title: Expected Linux accessibility output for aria-current-changed test
+summary: Expected AT-SPI state change events on Linux when aria-current changes, listing the active list item state.

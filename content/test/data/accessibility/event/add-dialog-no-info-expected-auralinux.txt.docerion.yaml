@@ -1,0 +1,4 @@
+# Docerion header of add-dialog-no-info-expected-auralinux.txt.
+type: test
+title: Add dialog no-info expected accessibility events for Linux
+summary: Expected Linux accessibility event output for the add-dialog-no-info test, recording a children-changed add event for a dialog role.

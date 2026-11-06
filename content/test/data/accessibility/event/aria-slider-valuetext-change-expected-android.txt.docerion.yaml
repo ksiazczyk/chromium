@@ -1,0 +1,4 @@
+# Docerion header of aria-slider-valuetext-change-expected-android.txt.
+type: test
+title: aria-slider-valuetext-change expected output for Android
+summary: Expected Android accessibility events for the aria slider valuetext change test, listing window content changed events on WebView and SeekBar nodes.

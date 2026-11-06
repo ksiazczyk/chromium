@@ -1,0 +1,4 @@
+# Docerion header of aria-haspopup-changed.html.
+type: test
+title: aria-haspopup-changed test page
+summary: HTML test page that sets, changes and removes aria-haspopup on combobox inputs to verify which changes fire accessibility events.

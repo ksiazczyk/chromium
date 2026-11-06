@@ -1,0 +1,4 @@
+# Docerion header of add-child-of-body-expected-android.txt.
+type: test
+title: Expected Android events for add-child-of-body test
+summary: Expected Android accessibility events, mainly WebView content-changed notifications, for the test page that appends a child to the body.

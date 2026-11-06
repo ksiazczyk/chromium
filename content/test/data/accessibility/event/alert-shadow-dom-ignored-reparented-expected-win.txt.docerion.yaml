@@ -1,0 +1,4 @@
+# Docerion header of alert-shadow-dom-ignored-reparented-expected-win.txt.
+type: test
+title: Expected Windows events for shadow DOM reparented alert test
+summary: Expected Windows accessibility event log for the alert-shadow-dom-ignored-reparented test, listing reorder, show, and text-inserted events.

@@ -1,0 +1,4 @@
+# Docerion header of aria-selected-changed-expected-android.txt.
+type: test
+title: aria-selected-changed expected accessibility events for Android
+summary: Expected Android accessibility events for the aria-selected-changed test, listing window content changed and click events on grids, selects and listboxes.

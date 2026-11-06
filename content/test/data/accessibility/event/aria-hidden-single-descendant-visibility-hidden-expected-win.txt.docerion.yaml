@@ -1,0 +1,4 @@
+# Docerion header of aria-hidden-single-descendant-visibility-hidden-expected-win.txt.
+type: test
+title: Expected Windows accessibility events for aria-hidden visibility-hidden test
+summary: Expected MSAA WinEvents when aria-hidden is toggled on a descendant inside a visibility:hidden container.

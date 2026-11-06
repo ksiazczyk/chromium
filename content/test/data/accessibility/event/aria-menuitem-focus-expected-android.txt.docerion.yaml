@@ -1,0 +1,4 @@
+# Docerion header of aria-menuitem-focus-expected-android.txt.
+type: test
+title: aria-menuitem-focus expected Android events
+summary: Expected Android accessibility events for the aria-menuitem-focus test, including focus events on menu items after the active descendant changes.

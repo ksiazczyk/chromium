@@ -1,0 +1,4 @@
+# Docerion header of aria-checked-changed.html.
+type: test
+title: HTML test page toggling aria-checked on form controls
+summary: HTML test page with checkbox, radio, and switch elements whose aria-checked attributes are toggled by a script to trigger accessibility events.

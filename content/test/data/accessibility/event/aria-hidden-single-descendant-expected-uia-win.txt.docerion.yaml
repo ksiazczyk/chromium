@@ -1,0 +1,4 @@
+# Docerion header of aria-hidden-single-descendant-expected-uia-win.txt.
+type: test
+title: ARIA hidden single descendant expected UIA Windows events
+summary: Expected UIA Windows accessibility events for the aria-hidden single descendant test, covering AriaProperties changes and structure changed notifications.

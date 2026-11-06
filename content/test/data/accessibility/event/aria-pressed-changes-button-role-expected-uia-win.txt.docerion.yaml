@@ -1,0 +1,4 @@
+# Docerion header of aria-pressed-changes-button-role-expected-uia-win.txt.
+type: test
+title: Expected UIA Windows events for aria-pressed button role change
+summary: Expected UIA property-change events on Windows when a button's aria-pressed attribute changes its role.

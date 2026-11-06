@@ -1,0 +1,4 @@
+# Docerion header of alert-shadow-dom-ignored-changed-expected-auralinux.txt.
+type: test
+title: Expected Aura Linux events for alert shadow DOM ignored changed test
+summary: Expected Linux accessibility events for the alert-in-shadow-DOM test, including CHILDREN-CHANGED and TEXT-INSERT notifications.

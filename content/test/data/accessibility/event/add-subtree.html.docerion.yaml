@@ -1,0 +1,4 @@
+# Docerion header of add-subtree.html.
+type: test
+title: Add-subtree accessibility event test page
+summary: HTML test page with a labelled list whose go() function appends a new list item to trigger accessibility events.

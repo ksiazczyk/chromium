@@ -1,0 +1,4 @@
+# Docerion header of add-dialog-described-by-expected-auralinux.txt.
+type: test
+title: Expected Linux events for add-dialog-described-by test
+summary: Expected Linux accessibility event recording a children-changed add of a dialog to the web document for the described-by dialog test.

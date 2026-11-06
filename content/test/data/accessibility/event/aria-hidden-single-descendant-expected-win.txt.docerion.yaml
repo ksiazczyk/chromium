@@ -1,0 +1,4 @@
+# Docerion header of aria-hidden-single-descendant-expected-win.txt.
+type: test
+title: ARIA hidden single descendant expected Windows events
+summary: Expected Windows accessibility events for the aria-hidden single descendant test, listing EVENT_OBJECT_HIDE and EVENT_OBJECT_SHOW notifications.

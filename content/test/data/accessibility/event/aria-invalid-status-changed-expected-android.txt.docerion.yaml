@@ -1,0 +1,4 @@
+# Docerion header of aria-invalid-status-changed-expected-android.txt.
+type: test
+title: Expected Android accessibility events for aria-invalid change
+summary: Expected Android accessibility events when aria-invalid is set on a labeled text input.

@@ -1,0 +1,4 @@
+# Docerion header of aria-combo-box-collapse-expected-android.txt.
+type: test
+title: Expected Android accessibility events for combobox collapse
+summary: Expected Android accessibility event log for an ARIA combobox collapsing, including focus and expansion state changes.

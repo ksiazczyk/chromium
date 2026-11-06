@@ -1,0 +1,4 @@
+# Docerion header of aria-combo-box-next-expected-win.txt.
+type: test
+title: aria-combo-box-next expected events on Windows
+summary: Expected MSAA/IA2 accessibility event sequence for the aria-combo-box-next test, covering focus, selection, and active descendant changes.

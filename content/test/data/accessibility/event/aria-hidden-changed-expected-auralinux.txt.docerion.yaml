@@ -1,0 +1,4 @@
+# Docerion header of aria-hidden-changed-expected-auralinux.txt.
+type: test
+title: aria-hidden-changed expected Linux AT-SPI events
+summary: Expected Linux AT-SPI event log for the aria-hidden-changed test, listing children changed add and remove events for heading roles.

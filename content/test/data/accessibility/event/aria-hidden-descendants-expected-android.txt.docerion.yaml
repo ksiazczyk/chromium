@@ -1,0 +1,4 @@
+# Docerion header of aria-hidden-descendants-expected-android.txt.
+type: test
+title: aria-hidden-descendants expected output for Android
+summary: Expected Android accessibility event output for the aria-hidden-descendants test page.

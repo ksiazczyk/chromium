@@ -1,0 +1,4 @@
+# Docerion header of aria-spinbutton-value-change-expected-win.txt.
+type: test
+title: Expected WinEvents for aria-spinbutton value change on Windows
+summary: Expected MSAA WinEvents on Windows when a spinbutton's aria-valuenow changes, listing EVENT_OBJECT_VALUECHANGE with the new value.

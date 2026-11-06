@@ -1,0 +1,4 @@
+# Docerion header of aria-live-changed-expected-android.txt.
+type: test
+title: aria-live-changed expected Android events
+summary: Expected Android accessibility events for the aria-live-changed test, listing window content changes during page load and after updates.

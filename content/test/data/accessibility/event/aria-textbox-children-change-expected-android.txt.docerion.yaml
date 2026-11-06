@@ -1,0 +1,4 @@
+# Docerion header of aria-textbox-children-change-expected-android.txt.
+type: test
+title: Expected Android events for textbox children change
+summary: Expected Android accessibility events when children of ARIA textboxes change, used to verify Chromium's output on Android.

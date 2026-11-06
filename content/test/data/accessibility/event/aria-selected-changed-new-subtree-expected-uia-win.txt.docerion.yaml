@@ -1,0 +1,4 @@
+# Docerion header of aria-selected-changed-new-subtree-expected-uia-win.txt.
+type: test
+title: aria-selected-changed new subtree expected events for Windows UIA
+summary: Expected UIA accessibility events on Windows for the new-subtree variant of the aria-selected-changed test, covering grid, combobox and listbox changes.

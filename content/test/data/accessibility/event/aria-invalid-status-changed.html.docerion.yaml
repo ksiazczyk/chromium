@@ -1,0 +1,4 @@
+# Docerion header of aria-invalid-status-changed.html.
+type: test
+title: aria-invalid status changed test page
+summary: HTML test page with a labeled input and error message whose script sets aria-invalid to trigger accessibility events.

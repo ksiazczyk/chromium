@@ -1,0 +1,4 @@
+# Docerion header of aria-relevant-changed-expected-uia-win.txt.
+type: test
+title: aria-relevant-changed expected results for UIA on Windows
+summary: Expected UIA on Windows accessibility events when the aria-relevant attribute changes on live regions in the aria-relevant-changed test.

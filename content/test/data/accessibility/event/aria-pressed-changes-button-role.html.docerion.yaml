@@ -1,0 +1,4 @@
+# Docerion header of aria-pressed-changes-button-role.html.
+type: test
+title: aria-pressed button role change test page
+summary: HTML test page that sets and removes the aria-pressed attribute on a button to trigger accessibility role-change events.

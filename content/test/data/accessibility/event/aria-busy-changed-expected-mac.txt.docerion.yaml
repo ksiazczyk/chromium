@@ -1,0 +1,4 @@
+# Docerion header of aria-busy-changed-expected-mac.txt.
+type: test
+title: Expected Mac output for aria-busy-changed
+summary: Expected macOS AXElementBusyChanged events on headings for the aria-busy-changed test page.

@@ -1,0 +1,4 @@
+# Docerion header of aria-setsize-changed.html.
+type: test
+title: aria-setsize change accessibility event test page
+summary: HTML test page that sets and removes aria-setsize on listbox options to fire accessibility events.

@@ -1,0 +1,4 @@
+# Docerion header of add-alert-with-role-change-expected-mac.txt.
+type: test
+title: Add alert with role change expected Mac events
+summary: Expected macOS AXLiveRegionChanged and AXLiveRegionCreated notifications for the add-alert-with-role-change test.

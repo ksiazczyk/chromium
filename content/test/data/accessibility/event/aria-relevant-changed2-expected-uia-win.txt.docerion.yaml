@@ -1,0 +1,4 @@
+# Docerion header of aria-relevant-changed2-expected-uia-win.txt.
+type: test
+title: aria-relevant-changed2 expected results for UIA on Windows
+summary: Expected UIA on Windows output for the aria-relevant-changed2 test, containing only a continuation marker because no events should fire.

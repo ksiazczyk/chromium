@@ -1,0 +1,4 @@
+# Docerion header of aria-slider-value-change-expected-android.txt.
+type: test
+title: Expected Android events for slider value change test
+summary: Expected Android accessibility event log for the aria-slider-value-change test page.

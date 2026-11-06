@@ -1,0 +1,4 @@
+# Docerion header of aria-multiselectable-changed-expected-android.txt.
+type: test
+title: aria-multiselectable-changed expected output for Android
+summary: Expected Android accessibility event output for the aria-multiselectable change test, listing content changed events on grid and list views.

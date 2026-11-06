@@ -1,0 +1,4 @@
+# Docerion header of aria-multiline-changed-expected-android.txt.
+type: test
+title: aria-multiline-changed expected output for Android
+summary: Expected Android accessibility event output for the aria-multiline change test, listing content changed events on textboxes.

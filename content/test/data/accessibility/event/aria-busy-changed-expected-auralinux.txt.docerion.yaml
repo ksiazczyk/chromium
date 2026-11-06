@@ -1,0 +1,4 @@
+# Docerion header of aria-busy-changed-expected-auralinux.txt.
+type: test
+title: Expected AuraLinux output for aria-busy-changed
+summary: Expected AuraLinux BUSY state-change events on headings for the aria-busy-changed test page.

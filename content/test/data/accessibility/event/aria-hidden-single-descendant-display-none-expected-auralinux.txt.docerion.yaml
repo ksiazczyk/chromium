@@ -1,0 +1,4 @@
+# Docerion header of aria-hidden-single-descendant-display-none-expected-auralinux.txt.
+type: test
+title: ARIA hidden single descendant display none expected Aura Linux events
+summary: Expected Aura Linux accessibility event output for the aria-hidden single descendant display:none test, containing only a continuation marker.

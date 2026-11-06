@@ -1,0 +1,4 @@
+# Docerion header of add-hidden-attribute-expected-auralinux.txt.
+type: test
+title: Expected AuraLinux events for add hidden attribute test
+summary: Expected AuraLinux accessibility event output for the test that adds the hidden attribute to a list item.

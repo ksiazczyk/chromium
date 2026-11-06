@@ -1,0 +1,4 @@
+# Docerion header of aria-haspopup-changed-expected-uia-win.txt.
+type: test
+title: aria-haspopup-changed expected UIA Windows events
+summary: Expected UIA Windows event log for the aria-haspopup-changed test, listing AriaProperties changes on combobox elements.

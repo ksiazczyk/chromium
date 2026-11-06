@@ -1,0 +1,4 @@
+# Docerion header of aria-invalid-status-changed-expected-auralinux.txt.
+type: test
+title: Expected Linux accessibility events for aria-invalid change
+summary: Expected AT-SPI state change events when aria-invalid is set on a labeled text input.

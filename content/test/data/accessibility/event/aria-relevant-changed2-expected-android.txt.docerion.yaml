@@ -1,0 +1,4 @@
+# Docerion header of aria-relevant-changed2-expected-android.txt.
+type: test
+title: aria-relevant-changed2 expected results for Android
+summary: Expected Android accessibility events for the aria-relevant-changed2 test, listing window content changed notifications on a live region.

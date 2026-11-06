@@ -1,0 +1,4 @@
+# Docerion header of add-alert-content-expected-android.txt.
+type: test
+title: Expected Android events for add-alert-content
+summary: Expected Android accessibility event output for the add-alert-content test, listing window content and state changes as alert live regions receive new content.

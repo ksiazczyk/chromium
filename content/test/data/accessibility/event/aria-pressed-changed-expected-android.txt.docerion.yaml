@@ -1,0 +1,4 @@
+# Docerion header of aria-pressed-changed-expected-android.txt.
+type: test
+title: Expected Android accessibility events for aria-pressed changes
+summary: Expected Android accessibility events when the aria-pressed attribute changes on toggle button elements.

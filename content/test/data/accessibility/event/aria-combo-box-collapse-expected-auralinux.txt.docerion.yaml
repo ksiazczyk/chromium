@@ -1,0 +1,4 @@
+# Docerion header of aria-combo-box-collapse-expected-auralinux.txt.
+type: test
+title: Expected Linux AT-SPI accessibility events for combobox collapse
+summary: Expected Linux AT-SPI focus and expanded-state events when an ARIA combobox collapses.

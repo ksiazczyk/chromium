@@ -1,0 +1,4 @@
+# Docerion header of add-alert-expected-win.txt.
+type: test
+title: Expected Windows events for add-alert
+summary: Expected Windows accessibility event output for the add-alert test, listing EVENT_SYSTEM_ALERT events for alert and dialog elements.

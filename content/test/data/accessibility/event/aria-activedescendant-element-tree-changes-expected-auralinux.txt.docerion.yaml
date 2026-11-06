@@ -1,0 +1,4 @@
+# Docerion header of aria-activedescendant-element-tree-changes-expected-auralinux.txt.
+type: test
+title: aria-activedescendant element tree changes expected events for Linux
+summary: Expected AT-SPI accessibility events for the aria-activedescendant element tree changes test on Linux, covering focus, selection, and tree change notifications.

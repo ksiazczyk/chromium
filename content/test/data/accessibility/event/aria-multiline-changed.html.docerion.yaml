@@ -1,0 +1,4 @@
+# Docerion header of aria-multiline-changed.html.
+type: test
+title: aria-multiline-changed test page
+summary: HTML test page that sets, removes or toggles aria-multiline on textbox elements to fire accessibility events.

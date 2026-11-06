@@ -1,0 +1,4 @@
+# Docerion header of aria-required-changed.html.
+type: test
+title: aria-required-changed accessibility event test page
+summary: HTML test page that sets, unsets and removes aria-required on checkbox, radio and combobox elements to verify required-state change events.

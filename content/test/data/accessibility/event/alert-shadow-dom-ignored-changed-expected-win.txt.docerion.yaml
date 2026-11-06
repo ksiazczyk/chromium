@@ -1,0 +1,4 @@
+# Docerion header of alert-shadow-dom-ignored-changed-expected-win.txt.
+type: test
+title: Expected Windows events for alert shadow DOM ignored changed test
+summary: Expected Windows accessibility events, including EVENT_OBJECT_SHOW on an alert role, for the alert-in-shadow-DOM test.

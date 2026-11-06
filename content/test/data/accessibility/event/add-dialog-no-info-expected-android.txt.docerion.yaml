@@ -1,0 +1,4 @@
+# Docerion header of add-dialog-no-info-expected-android.txt.
+type: test
+title: Add dialog no-info expected accessibility events for Android
+summary: Expected Android accessibility event sequence for the add-dialog-no-info test, capturing window state changes when a dialog appears.

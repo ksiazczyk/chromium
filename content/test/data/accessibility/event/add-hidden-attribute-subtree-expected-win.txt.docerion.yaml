@@ -1,0 +1,4 @@
+# Docerion header of add-hidden-attribute-subtree-expected-win.txt.
+type: test
+title: Expected Windows events for add hidden attribute subtree test
+summary: Expected Windows accessibility event output for the subtree variant of the test that adds the hidden attribute to a list item.

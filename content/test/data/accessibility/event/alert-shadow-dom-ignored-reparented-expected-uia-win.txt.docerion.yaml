@@ -1,0 +1,4 @@
+# Docerion header of alert-shadow-dom-ignored-reparented-expected-uia-win.txt.
+type: test
+title: Expected UIA Windows events for shadow DOM reparented alert test
+summary: Expected UIA Windows event log for the alert-shadow-dom-ignored-reparented test, containing a single LiveRegionChanged event on role=alert.

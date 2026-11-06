@@ -1,0 +1,4 @@
+# Docerion header of aria-meter-value-change-expected-mac.txt.
+type: test
+title: aria-meter-value-change expected output for macOS
+summary: Expected macOS accessibility event output for the aria-meter value change test, showing an AXValueChanged event on the meter level indicator.

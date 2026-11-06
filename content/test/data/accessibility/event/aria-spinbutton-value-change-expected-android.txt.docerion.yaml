@@ -1,0 +1,4 @@
+# Docerion header of aria-spinbutton-value-change-expected-android.txt.
+type: test
+title: Expected Android events for aria-spinbutton value change
+summary: Expected Android accessibility events when a spinbutton's aria-valuenow changes, listing window content changes on the WebView and EditText.

@@ -1,0 +1,4 @@
+# Docerion header of aria-slider-value-change-expected-mac.txt.
+type: test
+title: aria-slider-value-change expected output for macOS
+summary: Expected macOS accessibility output for the aria slider value change test, recording an AXValueChanged event on an AXSlider with AXValue=2.

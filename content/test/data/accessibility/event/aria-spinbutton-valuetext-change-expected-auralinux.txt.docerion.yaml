@@ -1,0 +1,4 @@
+# Docerion header of aria-spinbutton-valuetext-change-expected-auralinux.txt.
+type: test
+title: Expected Linux events for spinbutton valuetext change
+summary: Expected Linux accessibility events when a spinbutton's aria-valuetext changes, used to verify Chromium's AT-SPI output.

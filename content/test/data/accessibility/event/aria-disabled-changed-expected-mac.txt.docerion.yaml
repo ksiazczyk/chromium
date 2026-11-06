@@ -1,0 +1,4 @@
+# Docerion header of aria-disabled-changed-expected-mac.txt.
+type: test
+title: Expected Mac events for aria-disabled change
+summary: Empty expected output file for the aria-disabled-changed accessibility test on macOS.

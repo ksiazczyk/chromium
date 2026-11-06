@@ -1,0 +1,4 @@
+# Docerion header of aria-posinset-changed-expected-android.txt.
+type: test
+title: Expected Android accessibility events for aria-posinset changes
+summary: Expected Android accessibility events when the aria-posinset attribute is set or removed on listbox option elements.

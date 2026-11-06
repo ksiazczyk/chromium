@@ -1,0 +1,4 @@
+# Docerion header of aria-combo-box-next-expected-auralinux.txt.
+type: test
+title: aria-combo-box-next expected events on Linux
+summary: Expected AT-SPI accessibility event sequence for the aria-combo-box-next test on Linux, covering focus and selection state changes on list items.

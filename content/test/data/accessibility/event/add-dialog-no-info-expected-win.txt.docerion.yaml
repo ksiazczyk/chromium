@@ -1,0 +1,4 @@
+# Docerion header of add-dialog-no-info-expected-win.txt.
+type: test
+title: Add dialog no-info expected accessibility events for Windows
+summary: Expected Windows accessibility event output for the add-dialog-no-info test, recording reorder, show and text-inserted events.

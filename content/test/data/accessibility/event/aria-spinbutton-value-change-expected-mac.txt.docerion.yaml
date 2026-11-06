@@ -1,0 +1,4 @@
+# Docerion header of aria-spinbutton-value-change-expected-mac.txt.
+type: test
+title: Expected Mac events for aria-spinbutton value change
+summary: Expected macOS accessibility events when a spinbutton's aria-valuenow changes, listing AXValueChanged on the incrementor.

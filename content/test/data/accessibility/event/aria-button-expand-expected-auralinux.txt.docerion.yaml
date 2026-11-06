@@ -1,0 +1,4 @@
+# Docerion header of aria-button-expand-expected-auralinux.txt.
+type: test
+title: Expected AuraLinux output for aria-button-expand
+summary: Expected AuraLinux children-changed and EXPANDED state events for the aria-button-expand test page.

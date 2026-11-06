@@ -1,0 +1,4 @@
+# Docerion header of add-child-expected-auralinux.txt.
+type: test
+title: Add child expected Aura Linux events
+summary: Expected Linux AT-SPI children-changed add event for a new list item in the add-child test.

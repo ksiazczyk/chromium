@@ -1,0 +1,4 @@
+# Docerion header of aria-hidden-single-descendant-visibility-hidden-expected-android.txt.
+type: test
+title: ARIA hidden single descendant visibility hidden expected Android events
+summary: Expected Android accessibility events for the aria-hidden single descendant visibility:hidden variant, matching the subtree content changed notifications of the display test.

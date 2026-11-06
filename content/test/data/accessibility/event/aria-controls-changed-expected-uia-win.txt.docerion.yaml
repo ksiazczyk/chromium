@@ -1,0 +1,4 @@
+# Docerion header of aria-controls-changed-expected-uia-win.txt.
+type: test
+title: Expected UIA Windows output for aria-controls-changed test
+summary: Expected UIA ControllerFor change events on Windows when aria-controls attributes are updated.

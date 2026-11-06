@@ -1,0 +1,4 @@
+# Docerion header of add-dialog-described-by-expected-uia-win.txt.
+type: test
+title: Expected UIA Windows events for add-dialog-described-by test
+summary: Expected UIA accessibility events, such as AriaProperties changes and structure changes, for the test that shows the described-by dialog.

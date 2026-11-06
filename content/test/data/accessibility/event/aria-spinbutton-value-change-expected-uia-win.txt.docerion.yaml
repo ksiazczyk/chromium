@@ -1,0 +1,4 @@
+# Docerion header of aria-spinbutton-value-change-expected-uia-win.txt.
+type: test
+title: Expected UIA events for aria-spinbutton value change on Windows
+summary: Expected UIA accessibility events on Windows when a spinbutton's aria-valuenow changes, listing AriaProperties and RangeValueValue changes.

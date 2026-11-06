@@ -1,0 +1,4 @@
+# Docerion header of add-child-of-body-expected-win.txt.
+type: test
+title: Expected Windows events for add-child-of-body test
+summary: Expected Windows accessibility events, including reorder, show and text-inserted events, for the test page that appends a child to the body.

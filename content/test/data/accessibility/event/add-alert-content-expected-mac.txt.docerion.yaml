@@ -1,0 +1,4 @@
+# Docerion header of add-alert-content-expected-mac.txt.
+type: test
+title: Expected macOS events for add-alert-content
+summary: Expected macOS accessibility event output for the add-alert-content test, listing AXLiveRegionChanged notifications on alert groups.

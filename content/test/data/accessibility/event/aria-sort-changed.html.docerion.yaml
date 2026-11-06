@@ -1,0 +1,4 @@
+# Docerion header of aria-sort-changed.html.
+type: test
+title: ARIA sort change test page
+summary: HTML test page with a grid of row and column headers whose aria-sort attribute is changed or removed by script to fire accessibility events.

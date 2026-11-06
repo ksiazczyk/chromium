@@ -1,0 +1,4 @@
+# Docerion header of aria-disabled-changed-expected-uia-win.txt.
+type: test
+title: Expected UIA events for aria-disabled change
+summary: Expected UIA event output for the aria-disabled-changed test, listing AriaProperties, IsEnabled and ValueIsReadOnly property changes on Windows.

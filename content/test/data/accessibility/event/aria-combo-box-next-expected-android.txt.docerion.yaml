@@ -1,0 +1,4 @@
+# Docerion header of aria-combo-box-next-expected-android.txt.
+type: test
+title: aria-combo-box-next expected events on Android
+summary: Expected Android accessibility event sequence for the aria-combo-box-next test, tracking accessibility focus changes across combobox options.

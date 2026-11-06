@@ -1,0 +1,4 @@
+# Docerion header of add-child.html.
+type: test
+title: Add list item accessibility event test page
+summary: HTML test page whose go() function appends a third listitem to a role=list element to trigger accessibility events.

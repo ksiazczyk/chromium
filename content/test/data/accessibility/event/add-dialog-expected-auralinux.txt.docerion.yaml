@@ -1,0 +1,4 @@
+# Docerion header of add-dialog-expected-auralinux.txt.
+type: test
+title: Add dialog expected accessibility events for Linux
+summary: Expected Linux accessibility event output for the add-dialog test, recording a children-changed add event for a dialog role.

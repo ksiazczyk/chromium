@@ -1,0 +1,4 @@
+# Docerion header of aria-current-changed-expected-win.txt.
+type: test
+title: Expected Windows events for aria-current change
+summary: Expected Windows accessibility event output for the aria-current-changed test, listing an IA2 attribute-changed event on a list item.

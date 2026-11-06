@@ -1,0 +1,4 @@
+# Docerion header of aria-activedescendant-element-tree-changes.html.
+type: test
+title: aria-activedescendant element tree changes test page
+summary: HTML test page that assigns aria-activedescendant element references and moves options between shadow DOM and the listbox to trigger accessibility events.

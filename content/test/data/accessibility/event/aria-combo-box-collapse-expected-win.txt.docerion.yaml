@@ -1,0 +1,4 @@
+# Docerion header of aria-combo-box-collapse-expected-win.txt.
+type: test
+title: Expected Windows MSAA/IA2 accessibility events for combobox collapse
+summary: Expected Windows focus, state-change, and active-descendant events when an ARIA combobox collapses.

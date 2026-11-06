@@ -1,0 +1,4 @@
+# Docerion header of aria-setsize-changed-expected-android.txt.
+type: test
+title: Expected Android events for aria-setsize change test
+summary: Expected Android accessibility event log for the test page that changes aria-setsize on listbox options.

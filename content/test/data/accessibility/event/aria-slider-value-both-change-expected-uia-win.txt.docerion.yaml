@@ -1,0 +1,4 @@
+# Docerion header of aria-slider-value-both-change-expected-uia-win.txt.
+type: test
+title: Expected UIA Windows events for slider value and text change test
+summary: Expected UIA accessibility event log for the test page that changes both aria-valuenow and aria-valuetext on a slider.

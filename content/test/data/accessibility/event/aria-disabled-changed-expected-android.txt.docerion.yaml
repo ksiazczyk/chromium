@@ -1,0 +1,4 @@
+# Docerion header of aria-disabled-changed-expected-android.txt.
+type: test
+title: Expected Android events for aria-disabled change
+summary: Expected Android accessibility event output for the aria-disabled-changed test, containing only the end-of-initial-load marker.

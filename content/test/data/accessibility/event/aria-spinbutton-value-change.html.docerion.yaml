@@ -1,0 +1,4 @@
+# Docerion header of aria-spinbutton-value-change.html.
+type: test
+title: HTML test page changing spinbutton aria-valuenow
+summary: Test page with a spinbutton whose aria-valuenow is updated by script to exercise accessibility value-change events.

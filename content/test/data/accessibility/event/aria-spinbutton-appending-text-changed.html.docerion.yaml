@@ -1,0 +1,4 @@
+# Docerion header of aria-spinbutton-appending-text-changed.html.
+type: test
+title: ARIA spinbutton appending text change test page
+summary: HTML test page with a spinbutton input whose value is changed from 10 to 12 by script to trigger accessibility events.

@@ -1,0 +1,4 @@
+# Docerion header of alert-shadow-dom-ignored-changed-expected-uia-win.txt.
+type: test
+title: Expected UIA Windows events for alert shadow DOM ignored changed test
+summary: Expected Windows UIA accessibility event, LiveRegionChanged on role=alert, for the alert-in-shadow-DOM test.

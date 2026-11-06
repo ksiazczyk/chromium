@@ -1,0 +1,4 @@
+# Docerion header of aria-menuitem-focus-expected-auralinux.txt.
+type: test
+title: aria-menuitem-focus expected Linux events
+summary: Expected accessibility events for the aria-menuitem-focus test on Linux, showing focus and state changes between the File and Edit menu items.

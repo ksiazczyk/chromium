@@ -1,0 +1,4 @@
+# Docerion header of aria-selected-changed-new-subtree-expected-auralinux.txt.
+type: test
+title: aria-selected-changed new subtree expected events for Linux
+summary: Expected Linux accessibility events for the new-subtree variant of the aria-selected-changed test, covering selection changes in a grid, menu and list box.

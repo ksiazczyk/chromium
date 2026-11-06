@@ -1,0 +1,4 @@
+# Docerion header of aria-setsize-changed-expected-uia-win.txt.
+type: test
+title: Expected UIA Windows events for aria-setsize change test
+summary: Expected UIA accessibility event log for the test page that changes aria-setsize on listbox options.

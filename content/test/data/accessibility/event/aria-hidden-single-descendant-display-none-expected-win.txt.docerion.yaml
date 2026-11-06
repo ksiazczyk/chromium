@@ -1,0 +1,4 @@
+# Docerion header of aria-hidden-single-descendant-display-none-expected-win.txt.
+type: test
+title: ARIA hidden single descendant display none expected Windows events
+summary: Expected Windows accessibility events for the aria-hidden single descendant display:none test, containing only a continuation marker.
