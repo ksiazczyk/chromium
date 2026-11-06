@@ -1,0 +1,4 @@
+# Docerion header of live-region-reparent-from-live-region.html.
+type: test
+title: Live region reparent from live region test page
+summary: HTML test page that reparents a text node from one aria-live region into another to exercise accessibility live region event behavior.

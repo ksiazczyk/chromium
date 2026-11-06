@@ -1,0 +1,4 @@
+# Docerion header of description-change-indirect-expected-uia-win.txt.
+type: test
+title: Expected UIA Windows events for indirect description change test
+summary: Expected UIA accessibility event output on Windows for the indirect description change test page.

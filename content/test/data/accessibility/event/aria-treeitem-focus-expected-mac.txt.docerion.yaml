@@ -1,0 +1,4 @@
+# Docerion header of aria-treeitem-focus-expected-mac.txt.
+type: test
+title: Expected Mac accessibility events for ARIA treeitem focus
+summary: Expected Mac accessibility event output for moving accessibility focus to an ARIA tree item.

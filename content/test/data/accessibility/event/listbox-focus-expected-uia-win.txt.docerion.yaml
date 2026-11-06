@@ -1,0 +1,4 @@
+# Docerion header of listbox-focus-expected-uia-win.txt.
+type: test
+title: Expected UIA events for listbox focus
+summary: Expected UIA on Windows accessibility events emitted when a listbox receives focus.

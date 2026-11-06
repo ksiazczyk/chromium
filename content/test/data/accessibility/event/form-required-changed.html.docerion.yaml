@@ -1,0 +1,4 @@
+# Docerion header of form-required-changed.html.
+type: test
+title: Form-required-changed accessibility event test page
+summary: HTML test page that toggles the required attribute on a checkbox and radio input to verify accessibility events for required state changes.

@@ -1,0 +1,4 @@
+# Docerion header of checkbox-validity-expected-auralinux.txt.
+type: test
+title: Checkbox validity expected events for Linux accessibility
+summary: Expected AT-SPI state-change events for the checkbox validity accessibility test on Linux, covering checked and invalid-entry state transitions.

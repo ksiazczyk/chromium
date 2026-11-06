@@ -1,0 +1,4 @@
+# Docerion header of live-region-create-expected-win.txt.
+type: test
+title: Live region create expected events for Windows
+summary: Expected Windows MSAA/IA2 events such as reorder, show and text-inserted when a live region is created in the test page.

@@ -1,0 +1,4 @@
+# Docerion header of aria-textbox-with-focusable-children-expected-win.txt.
+type: test
+title: Expected Windows events for ARIA textbox with focusable children
+summary: Expected Windows accessibility event output for the focusable children test, recording EVENT_OBJECT_FOCUS events on buttons inside the textboxes.

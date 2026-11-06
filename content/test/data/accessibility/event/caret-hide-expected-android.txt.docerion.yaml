@@ -1,0 +1,4 @@
+# Docerion header of caret-hide-expected-android.txt.
+type: test
+title: Expected Android accessibility events for caret hide test
+summary: Expected Android accessibility event output for the caret-hide test page.

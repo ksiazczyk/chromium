@@ -1,0 +1,4 @@
+# Docerion header of form-required-changed-expected-win.txt.
+type: test
+title: Expected Windows events for form-required-changed test
+summary: Expected Windows accessibility events for the form-required-changed test, listing state change events with IA2 required and invalid entry states.

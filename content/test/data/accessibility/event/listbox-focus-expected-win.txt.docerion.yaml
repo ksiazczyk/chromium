@@ -1,0 +1,4 @@
+# Docerion header of listbox-focus-expected-win.txt.
+type: test
+title: Expected Windows accessibility events for listbox focus
+summary: Expected Windows MSAA/IA2 accessibility events emitted when a listbox receives focus.

@@ -1,0 +1,4 @@
+# Docerion header of live-region-change-innerhtml-expected-win.txt.
+type: test
+title: Live region change innerHTML expected events for Windows
+summary: Expected Windows accessibility events for the live region change innerHTML test, covering live region change plus text inserted and removed events.

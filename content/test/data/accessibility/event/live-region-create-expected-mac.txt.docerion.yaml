@@ -1,0 +1,4 @@
+# Docerion header of live-region-create-expected-mac.txt.
+type: test
+title: Live region create expected events for macOS
+summary: Expected macOS accessibility output (AXLiveRegionCreated on an AXGroup) for the live-region-create test page.

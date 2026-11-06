@@ -1,0 +1,4 @@
+# Docerion header of live-region-remove-expected-mac.txt.
+type: test
+title: Live region remove expected events for macOS
+summary: Expected macOS accessibility events for the live region remove test; the file is empty, so no events are expected.

@@ -1,0 +1,4 @@
+# Docerion header of button-haspopup-checked-state-changed-expected-uia-win.txt.
+type: test
+title: Expected UIA events for button haspopup checked state change test
+summary: Expected UIA on Windows event reporting an ExpandCollapse state change when aria-pressed changes on a button with aria-haspopup.

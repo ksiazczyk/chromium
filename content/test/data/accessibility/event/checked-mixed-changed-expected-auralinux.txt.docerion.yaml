@@ -1,0 +1,4 @@
+# Docerion header of checked-mixed-changed-expected-auralinux.txt.
+type: test
+title: Checked mixed changed expected events for Linux accessibility
+summary: Expected AT-SPI indeterminate state-change events for a checkbox and tree item in the checked-mixed-changed accessibility test on Linux.

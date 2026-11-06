@@ -1,0 +1,4 @@
+# Docerion header of live-region-off-expected-mac.txt.
+type: test
+title: Live region off expected events for macOS
+summary: Expected macOS accessibility events for the live-region-off test, recording an AXTitleChanged event on the static text.

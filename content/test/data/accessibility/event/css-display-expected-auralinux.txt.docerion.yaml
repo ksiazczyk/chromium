@@ -1,0 +1,4 @@
+# Docerion header of css-display-expected-auralinux.txt.
+type: test
+title: CSS display expected events for Linux
+summary: Expected Linux accessibility event sequence for the CSS display test.

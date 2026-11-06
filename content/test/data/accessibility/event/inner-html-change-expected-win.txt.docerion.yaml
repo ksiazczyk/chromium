@@ -1,0 +1,4 @@
+# Docerion header of inner-html-change-expected-win.txt.
+type: test
+title: Inner HTML change expected events for Windows
+summary: Expected Windows accessibility events for the inner HTML change test, listing hide, show and text inserted or removed events on the page's elements.

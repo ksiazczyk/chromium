@@ -1,0 +1,4 @@
+# Docerion header of live-region-add-live-attribute-expected-uia-win.txt.
+type: test
+title: Expected UIA Windows events for live region add live attribute test
+summary: Expected UIA event output on Windows for the live-region-add-live-attribute test, expecting AriaProperties and LiveSetting property changes on a group role.

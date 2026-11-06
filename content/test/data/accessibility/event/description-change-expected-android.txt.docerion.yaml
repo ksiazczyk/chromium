@@ -1,0 +1,4 @@
+# Docerion header of description-change-expected-android.txt.
+type: test
+title: Description change expected accessibility events for Android
+summary: Expected Android accessibility event output for the description change test, showing content changed events on a TextView after page load.

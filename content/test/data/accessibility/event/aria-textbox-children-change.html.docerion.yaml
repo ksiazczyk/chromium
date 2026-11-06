@@ -1,0 +1,4 @@
+# Docerion header of aria-textbox-children-change.html.
+type: test
+title: ARIA textbox children change accessibility event test page
+summary: HTML test page that removes or moves children of ARIA textbox elements to verify accessibility events, with per-platform deny annotations filtering expected output.

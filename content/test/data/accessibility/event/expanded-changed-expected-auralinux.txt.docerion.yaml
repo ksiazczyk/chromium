@@ -1,0 +1,4 @@
+# Docerion header of expanded-changed-expected-auralinux.txt.
+type: test
+title: Expanded changed expected events for AuraLinux
+summary: Expected AuraLinux accessibility events for the expanded state change test, covering children-changed, parent-changed and expanded state changes.

@@ -1,0 +1,4 @@
+# Docerion header of listbox-next-expected-auralinux.txt.
+type: test
+title: Listbox-next expected events for Linux (AT-SPI)
+summary: Expected Linux accessibility events when a list box selection moves from Apple to Orange, listing focus, selection, and state-change events.

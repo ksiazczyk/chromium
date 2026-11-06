@@ -1,0 +1,4 @@
+# Docerion header of live-region-off-expected-uia-win.txt.
+type: test
+title: Live region off expected events for UIA Windows
+summary: Expected UIA Windows accessibility events for the live-region-off test, recording a Text_TextChanged event.

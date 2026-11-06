@@ -1,0 +1,4 @@
+# Docerion header of aria-textbox-with-focusable-children-expected-android.txt.
+type: test
+title: Expected Android events for ARIA textbox with focusable children
+summary: Expected Android accessibility event output for the focusable children test, listing content-changed events for editable and non-editable textboxes during page load.

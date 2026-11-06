@@ -1,0 +1,4 @@
+# Docerion header of aria-tree-collapse-expected-mac.txt.
+type: test
+title: Expected Mac accessibility events for ARIA tree collapse
+summary: Expected Mac accessibility event output, including AXRowCollapsed and AXRowCountChanged, for collapsing an ARIA tree item.

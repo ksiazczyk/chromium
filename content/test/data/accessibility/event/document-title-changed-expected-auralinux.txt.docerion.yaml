@@ -1,0 +1,4 @@
+# Docerion header of document-title-changed-expected-auralinux.txt.
+type: test
+title: Document title changed expected events for AuraLinux
+summary: Expected AuraLinux accessibility output for the document title change test, showing a name-changed event on the frame role.

@@ -1,0 +1,4 @@
+# Docerion header of live-region-ignores-click-expected-auralinux.txt.
+type: test
+title: Live region ignores click expected events for Aura Linux
+summary: Expected Aura Linux accessibility events for the live-region-ignores-click test; the file is empty, indicating no events are expected.

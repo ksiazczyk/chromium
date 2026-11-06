@@ -1,0 +1,4 @@
+# Docerion header of button-remove-children-expected-android.txt.
+type: test
+title: Expected Android events for button-remove-children test
+summary: Expected Android accessibility event output for the button-remove-children test, listing window content changed events after children are removed.

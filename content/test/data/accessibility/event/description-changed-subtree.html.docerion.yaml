@@ -1,0 +1,4 @@
+# Docerion header of description-changed-subtree.html.
+type: test
+title: Description-changed subtree accessibility event test page
+summary: Test page that switches a button's aria-describedby between two paragraphs to trigger description change accessibility events.

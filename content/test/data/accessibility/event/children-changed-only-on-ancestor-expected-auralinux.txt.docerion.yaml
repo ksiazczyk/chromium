@@ -1,0 +1,4 @@
+# Docerion header of children-changed-only-on-ancestor-expected-auralinux.txt.
+type: test
+title: Children changed only on ancestor expected output for Linux AT-SPI
+summary: Expected AT-SPI children-changed events on Linux when tree children are removed and re-added.

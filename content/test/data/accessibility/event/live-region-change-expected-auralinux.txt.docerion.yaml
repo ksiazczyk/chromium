@@ -1,0 +1,4 @@
+# Docerion header of live-region-change-expected-auralinux.txt.
+type: test
+title: Live region change expected events for Aura Linux
+summary: Expected Linux AT-SPI accessibility events for the live region change test, covering name changes plus text insertion and removal.

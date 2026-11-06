@@ -1,0 +1,4 @@
+# Docerion header of css-highlight-spelling-error.html.
+type: test
+title: CSS highlight spelling error test page
+summary: HTML test page that creates a CSS Highlight of type spelling-error over a text range in a contenteditable div.

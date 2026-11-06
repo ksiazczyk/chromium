@@ -1,0 +1,4 @@
+# Docerion header of live-region-change-innertext-expected-win.txt.
+type: test
+title: Live region innerText change expected events for Windows
+summary: Expected Windows accessibility events for the live region innerText change test, including a live region changed event plus text inserted and removed notifications.

@@ -1,0 +1,4 @@
+# Docerion header of live-region-off-expected-auralinux.txt.
+type: test
+title: Live region off expected events for Aura Linux
+summary: Expected Aura Linux accessibility events for the live-region-off test, including name changed, text inserted and text removed events.

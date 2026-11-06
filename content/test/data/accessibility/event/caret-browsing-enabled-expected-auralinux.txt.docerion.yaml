@@ -1,0 +1,4 @@
+# Docerion header of caret-browsing-enabled-expected-auralinux.txt.
+type: test
+title: Expected Linux accessibility events for caret browsing enabled test
+summary: Expected AT-SPI caret moved and selection changed event output on Linux for the caret-browsing-enabled test page.

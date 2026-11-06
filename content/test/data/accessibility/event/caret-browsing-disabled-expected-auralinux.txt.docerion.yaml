@@ -1,0 +1,4 @@
+# Docerion header of caret-browsing-disabled-expected-auralinux.txt.
+type: test
+title: Expected AuraLinux events for caret-browsing-disabled test
+summary: Expected AuraLinux accessibility event output for the caret-browsing-disabled test with caret moved and selection changed events.

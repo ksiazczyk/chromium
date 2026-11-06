@@ -1,0 +1,4 @@
+# Docerion header of form-required-changed-expected-uia-win.txt.
+type: test
+title: Expected UIA Win events for form-required-changed test
+summary: Expected UIA events on Windows for the form-required-changed test, asserting IsRequiredForForm property changes on checkbox and radio roles.

@@ -1,0 +1,4 @@
+# Docerion header of children-changed-only-on-ancestor-expected-android.txt.
+type: test
+title: Children changed only on ancestor expected output for Android
+summary: Expected Android accessibility window content changed events when a subtree is hidden and shown again.

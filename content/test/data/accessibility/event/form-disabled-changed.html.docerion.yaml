@@ -1,0 +1,4 @@
+# Docerion header of form-disabled-changed.html.
+type: test
+title: Form-disabled-changed accessibility event test page
+summary: HTML test page that toggles disabled states on a checkbox, radio input and fieldset to verify the accessibility events fired by form disabled changes.

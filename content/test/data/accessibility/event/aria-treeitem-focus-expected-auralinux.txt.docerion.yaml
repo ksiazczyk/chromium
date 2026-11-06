@@ -1,0 +1,4 @@
+# Docerion header of aria-treeitem-focus-expected-auralinux.txt.
+type: test
+title: Expected Linux accessibility events for ARIA treeitem focus
+summary: Expected Linux AT-SPI accessibility event output for moving focus and selection between ARIA tree items.

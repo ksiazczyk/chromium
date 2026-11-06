@@ -1,0 +1,4 @@
+# Docerion header of css-visibility-descendants-expected-win.txt.
+type: test
+title: Expected Windows events for CSS visibility descendants test
+summary: Expected Windows accessibility events when CSS visibility is toggled on nested element trees.

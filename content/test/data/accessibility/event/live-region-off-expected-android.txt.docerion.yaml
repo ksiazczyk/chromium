@@ -1,0 +1,4 @@
+# Docerion header of live-region-off-expected-android.txt.
+type: test
+title: Live region off expected events for Android
+summary: Expected Android accessibility events for the live-region-off test, showing content changed events when the region text changes.

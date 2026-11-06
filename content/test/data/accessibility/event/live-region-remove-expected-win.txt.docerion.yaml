@@ -1,0 +1,4 @@
+# Docerion header of live-region-remove-expected-win.txt.
+type: test
+title: Live region remove expected events for Windows
+summary: Expected Windows accessibility events for the live region remove test, listing hide, location change, reorder and text-removed notifications.

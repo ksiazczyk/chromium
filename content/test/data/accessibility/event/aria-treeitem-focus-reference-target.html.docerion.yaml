@@ -1,0 +1,4 @@
+# Docerion header of aria-treeitem-focus-reference-target.html.
+type: test
+title: Aria treeitem focus reference target test page
+summary: HTML test page that moves focus across tree items exposed via shadowrootreferencetarget to verify the resulting accessibility events.

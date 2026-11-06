@@ -1,0 +1,4 @@
+# Docerion header of live-region-ignores-click-expected-android.txt.
+type: test
+title: Live region ignores click expected events for Android
+summary: Expected Android accessibility events for the live-region-ignores-click test, listing window content changed and view clicked events.

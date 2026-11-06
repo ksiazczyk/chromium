@@ -1,0 +1,4 @@
+# Docerion header of dialog-pane-name-change-expected-android.txt.
+type: test
+title: Expected Android accessibility events for dialog-pane-name-change
+summary: Expected Android accessibility event log for the dialog-pane-name-change test, showing pane title events when dialog text changes from Before to After.

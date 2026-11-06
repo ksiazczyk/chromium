@@ -1,0 +1,4 @@
+# Docerion header of live-region-reparent-within-live-region-expected-mac.txt.
+type: test
+title: Live region reparent within live region expected Mac
+summary: Empty expected output file for the macOS variant of the live-region-reparent-within-live-region accessibility test, indicating no expected events.

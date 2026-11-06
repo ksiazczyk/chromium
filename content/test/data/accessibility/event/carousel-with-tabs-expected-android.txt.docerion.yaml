@@ -1,0 +1,4 @@
+# Docerion header of carousel-with-tabs-expected-android.txt.
+type: test
+title: Expected Android accessibility events for carousel with tabs
+summary: Expected Android accessibility event output for the carousel-with-tabs test, showing a view scrolled event after initial page load.

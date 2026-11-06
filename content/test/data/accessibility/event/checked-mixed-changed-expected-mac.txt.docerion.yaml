@@ -1,0 +1,4 @@
+# Docerion header of checked-mixed-changed-expected-mac.txt.
+type: test
+title: Checked mixed changed expected events for macOS accessibility
+summary: Expected AXValueChanged notifications for a checkbox and tree row when their checked state becomes mixed in the macOS accessibility test.

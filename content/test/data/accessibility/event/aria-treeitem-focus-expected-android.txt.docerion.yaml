@@ -1,0 +1,4 @@
+# Docerion header of aria-treeitem-focus-expected-android.txt.
+type: test
+title: Expected Android accessibility events for ARIA treeitem focus
+summary: Expected Android accessibility event output for moving accessibility focus between ARIA tree items.

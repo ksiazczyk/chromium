@@ -1,0 +1,4 @@
+# Docerion header of live-region-elem-reparent-expected-uia-win.txt.
+type: test
+title: Live region element reparent expected events for UIA on Windows
+summary: Empty expected-events file for the UIA Windows variant of the live-region-elem-reparent test.

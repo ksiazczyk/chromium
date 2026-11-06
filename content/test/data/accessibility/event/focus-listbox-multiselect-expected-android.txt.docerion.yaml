@@ -1,0 +1,4 @@
+# Docerion header of focus-listbox-multiselect-expected-android.txt.
+type: test
+title: Expected Android accessibility events for focus-listbox-multiselect test
+summary: Expected Android accessibility event stream, mostly TYPE_WINDOW_CONTENT_CHANGED plus focus events, for focusing an option in a multi-select listbox.

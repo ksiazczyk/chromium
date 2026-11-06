@@ -1,0 +1,4 @@
+# Docerion header of live-region-reparent-from-live-region-expected-win.txt.
+type: test
+title: Live region reparent from live region expected Win
+summary: Expected Windows MSAA/IA2 accessibility events for the live-region-reparent-from-live-region test, including live region changed, reorder and text events.

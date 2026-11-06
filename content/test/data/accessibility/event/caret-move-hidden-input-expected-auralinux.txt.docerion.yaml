@@ -1,0 +1,4 @@
+# Docerion header of caret-move-hidden-input-expected-auralinux.txt.
+type: test
+title: Expected AuraLinux accessibility events for caret move in hidden input
+summary: Expected AuraLinux accessibility event sequence for the caret-move-hidden-input test, covering focus, caret moved and text insert events.

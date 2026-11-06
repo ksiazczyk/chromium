@@ -1,0 +1,4 @@
+# Docerion header of checkbox-validity-expected-android.txt.
+type: test
+title: Expected Android accessibility events for checkbox validity
+summary: Expected Android accessibility event sequence for the checkbox-validity test, listing checked and content invalid change events on a checkbox.

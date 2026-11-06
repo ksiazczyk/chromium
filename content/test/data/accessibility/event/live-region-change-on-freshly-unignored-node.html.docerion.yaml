@@ -1,0 +1,4 @@
+# Docerion header of live-region-change-on-freshly-unignored-node.html.
+type: test
+title: Live region change on freshly unignored node test page
+summary: HTML test page that unhides a display:none polite aria-live region and changes its text, exercising live region events on a newly unignored node.

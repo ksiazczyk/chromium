@@ -1,0 +1,4 @@
+# Docerion header of form-required-changed-expected-android.txt.
+type: test
+title: Expected Android events for form-required-changed test
+summary: Expected Android accessibility events for the form-required-changed test, listing content change and click notifications when the required state toggles.

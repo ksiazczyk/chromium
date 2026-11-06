@@ -1,0 +1,4 @@
+# Docerion header of material-design-checkbox-expected-win.txt.
+type: test
+title: Material design checkbox expected Windows events
+summary: Expected Windows accessibility event output for the material design checkbox test, recording state change events on the checkbox input.

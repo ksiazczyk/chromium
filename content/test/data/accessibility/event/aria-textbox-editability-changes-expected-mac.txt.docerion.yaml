@@ -1,0 +1,4 @@
+# Docerion header of aria-textbox-editability-changes-expected-mac.txt.
+type: test
+title: Expected Mac events for ARIA textbox editability changes
+summary: Expected Mac accessibility event output for the editability changes test, containing only the continuation marker with no recorded events.

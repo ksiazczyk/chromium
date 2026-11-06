@@ -1,0 +1,4 @@
+# Docerion header of carousel-with-tabs.html.
+type: test
+title: Carousel with tabs test page
+summary: HTML test page with a scrollable carousel using scroll markers for tabs, scrolling the third item into view to test accessibility events.

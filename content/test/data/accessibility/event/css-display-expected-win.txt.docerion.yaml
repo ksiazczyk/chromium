@@ -1,0 +1,4 @@
+# Docerion header of css-display-expected-win.txt.
+type: test
+title: css-display expected events for Windows
+summary: Expected Windows accessibility events for the css-display test, covering hide, show, reorder and text change events on toolbar children.

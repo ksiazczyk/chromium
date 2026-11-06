@@ -1,0 +1,4 @@
+# Docerion header of live-region-remove-expected-auralinux.txt.
+type: test
+title: Live region remove expected events for Aura Linux
+summary: Expected accessibility events on Linux for the live region remove test, listing children-changed and text-removed notifications.

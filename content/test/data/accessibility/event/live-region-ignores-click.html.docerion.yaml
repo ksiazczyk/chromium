@@ -1,0 +1,4 @@
+# Docerion header of live-region-ignores-click.html.
+type: test
+title: Live region ignores click test page
+summary: HTML test page with an aria-live polite region that triggers a click, used to check that clicks are ignored by live regions.

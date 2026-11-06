@@ -1,0 +1,4 @@
+# Docerion header of material-design-checkbox-expected-mac.txt.
+type: test
+title: Material design checkbox expected events for macOS
+summary: Expected macOS AX tree snapshots and value-changed events for the Material Web checkbox toggle test across its three passes.

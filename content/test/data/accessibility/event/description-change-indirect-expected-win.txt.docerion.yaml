@@ -1,0 +1,4 @@
+# Docerion header of description-change-indirect-expected-win.txt.
+type: test
+title: Expected Windows events for indirect description change test
+summary: Expected MSAA and IAccessible2 event output on Windows for the indirect description change test page.

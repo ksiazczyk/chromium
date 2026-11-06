@@ -1,0 +1,4 @@
+# Docerion header of aria-textbox-editability-changes-expected-android.txt.
+type: test
+title: Expected Android events for ARIA textbox editability changes
+summary: Expected Android accessibility event output for the editability changes test, listing TYPE_WINDOW_CONTENT_CHANGED events for EditText, Button, TextView and WebView nodes.

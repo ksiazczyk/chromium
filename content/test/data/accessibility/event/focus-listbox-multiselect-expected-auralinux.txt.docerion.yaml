@@ -1,0 +1,4 @@
+# Docerion header of focus-listbox-multiselect-expected-auralinux.txt.
+type: test
+title: Expected AT-SPI accessibility events for focus-listbox-multiselect test on Linux
+summary: Expected Linux AT-SPI event log with focus and selection-changed events when an option in a multi-select listbox gains focus.

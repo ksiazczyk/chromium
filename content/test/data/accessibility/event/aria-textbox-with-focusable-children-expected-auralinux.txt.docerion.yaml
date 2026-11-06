@@ -1,0 +1,4 @@
+# Docerion header of aria-textbox-with-focusable-children-expected-auralinux.txt.
+type: test
+title: Expected Linux events for ARIA textbox with focusable children
+summary: Expected Linux accessibility event output for the focusable children test, covering focus and focused state changes on buttons inside the textboxes.

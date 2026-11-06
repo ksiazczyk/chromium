@@ -1,0 +1,4 @@
+# Docerion header of live-region-reparent-expected-win.txt.
+type: test
+title: Live region reparent expected events for Windows
+summary: Expected Windows accessibility events for the live region reparent test, listing live region changed, reorder and text change notifications.

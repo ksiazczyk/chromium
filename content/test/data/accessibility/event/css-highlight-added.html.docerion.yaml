@@ -1,0 +1,4 @@
+# Docerion header of css-highlight-added.html.
+type: test
+title: css-highlight-added test page
+summary: HTML test page that registers a CSS Custom Highlight over a text range in a contenteditable element.

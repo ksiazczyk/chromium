@@ -1,0 +1,4 @@
+# Docerion header of form-disabled-changed-expected-mac.txt.
+type: test
+title: Expected Mac events for form-disabled-changed test
+summary: Empty expected-output file for the form-disabled-changed test on macOS, indicating that no accessibility events are expected on that platform.

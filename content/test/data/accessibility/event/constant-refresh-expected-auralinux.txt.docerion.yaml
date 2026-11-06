@@ -1,0 +1,4 @@
+# Docerion header of constant-refresh-expected-auralinux.txt.
+type: test
+title: Constant refresh expected accessibility events for Linux
+summary: Empty expectations file for the constant refresh test on Linux, kept as a regression test for a DCHECK failure on load-complete.

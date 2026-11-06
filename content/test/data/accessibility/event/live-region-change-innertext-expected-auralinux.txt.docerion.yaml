@@ -1,0 +1,4 @@
+# Docerion header of live-region-change-innertext-expected-auralinux.txt.
+type: test
+title: Live region innerText change expected events for Auralinux
+summary: Expected Auralinux accessibility event output for the live region innerText change test; the file is empty.

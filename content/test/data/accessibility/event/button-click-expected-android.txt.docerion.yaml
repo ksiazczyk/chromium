@@ -1,0 +1,4 @@
+# Docerion header of button-click-expected-android.txt.
+type: test
+title: Expected Android events for button click test
+summary: Expected Android accessibility events, including clicks and content changes, when the button click test page is exercised on a WebView.

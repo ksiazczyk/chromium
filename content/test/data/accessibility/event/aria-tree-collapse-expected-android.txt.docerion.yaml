@@ -1,0 +1,4 @@
+# Docerion header of aria-tree-collapse-expected-android.txt.
+type: test
+title: Expected Android accessibility events for ARIA tree collapse
+summary: Expected Android accessibility event output for collapsing an ARIA tree item in the corresponding event test page.

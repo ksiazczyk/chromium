@@ -1,0 +1,4 @@
+# Docerion header of listbox-next.html.
+type: test
+title: Listbox-next test page
+summary: HTML page with a three-option select element that focuses it and changes the selected index to trigger accessibility events for the listbox-next test.

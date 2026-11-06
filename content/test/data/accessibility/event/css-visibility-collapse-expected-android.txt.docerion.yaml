@@ -1,0 +1,4 @@
+# Docerion header of css-visibility-collapse-expected-android.txt.
+type: test
+title: Expected Android events for CSS visibility collapse test
+summary: Expected Android accessibility events when CSS visibility is toggled between visible and collapse.

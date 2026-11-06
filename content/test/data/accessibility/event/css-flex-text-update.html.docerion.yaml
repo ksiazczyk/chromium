@@ -1,0 +1,4 @@
+# Docerion header of css-flex-text-update.html.
+type: test
+title: css-flex-text-update test page
+summary: HTML test page that changes a text node from old to new inside a flex container to trigger text update accessibility events.

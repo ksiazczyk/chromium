@@ -1,0 +1,4 @@
+# Docerion header of children-changed-only-on-ancestor-expected-win.txt.
+type: test
+title: Children changed only on ancestor expected output for Windows MSAA/IA2
+summary: Expected Windows hide, show and reorder events when an article subtree is hidden and shown again.

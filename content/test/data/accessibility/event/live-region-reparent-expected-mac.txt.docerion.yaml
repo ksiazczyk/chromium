@@ -1,0 +1,4 @@
+# Docerion header of live-region-reparent-expected-mac.txt.
+type: test
+title: Live region reparent expected events for macOS
+summary: Expected macOS accessibility event for the live region reparent test, an AXLiveRegionChanged notification on a group.

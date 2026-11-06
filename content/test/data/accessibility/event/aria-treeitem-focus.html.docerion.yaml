@@ -1,0 +1,4 @@
+# Docerion header of aria-treeitem-focus.html.
+type: test
+title: Aria treeitem focus test page
+summary: HTML test page that changes aria-activedescendant on a tree to move focus between tree items for accessibility event testing.

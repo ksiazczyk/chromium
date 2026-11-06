@@ -1,0 +1,4 @@
+# Docerion header of material-design-checkbox-expected-blink.txt.
+type: test
+title: Material design checkbox expected Blink accessibility tree
+summary: Expected Blink accessibility tree dumps showing the checkbox container and input state transitions across the three passes of the Material Web checkbox test.

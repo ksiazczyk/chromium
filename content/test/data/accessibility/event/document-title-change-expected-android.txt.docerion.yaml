@@ -1,0 +1,4 @@
+# Docerion header of document-title-change-expected-android.txt.
+type: test
+title: Document title change expected events for Android
+summary: Expected Android accessibility events for the document title change test, listing window content changed notifications before and after the title update.

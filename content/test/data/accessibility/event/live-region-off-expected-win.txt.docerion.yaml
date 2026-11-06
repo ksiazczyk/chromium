@@ -1,0 +1,4 @@
+# Docerion header of live-region-off-expected-win.txt.
+type: test
+title: Live region off expected events for Windows
+summary: Expected Windows IA2 accessibility events for the live-region-off test, listing text inserted and removed events on the live region.

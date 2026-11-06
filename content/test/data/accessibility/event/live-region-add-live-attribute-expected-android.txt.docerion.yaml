@@ -1,0 +1,4 @@
+# Docerion header of live-region-add-live-attribute-expected-android.txt.
+type: test
+title: Expected Android events for live region add live attribute test
+summary: Expected accessibility event output on Android for the live-region-add-live-attribute test, listing TYPE_WINDOW_CONTENT_CHANGED events after the initial page load.

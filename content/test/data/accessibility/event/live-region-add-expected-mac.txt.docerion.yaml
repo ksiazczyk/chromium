@@ -1,0 +1,4 @@
+# Docerion header of live-region-add-expected-mac.txt.
+type: test
+title: Live-region-add expected events for macOS
+summary: Expected macOS accessibility event for the live-region-add test, a single AXLiveRegionChanged notification on a group.

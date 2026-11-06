@@ -1,0 +1,4 @@
+# Docerion header of material-design-button-expected-blink.txt.
+type: test
+title: Material design button expected Blink accessibility tree
+summary: Expected Blink accessibility tree dumps for the Material Web button event test, showing the tree before and after each go() pass.

@@ -1,0 +1,4 @@
+# Docerion header of carousel-with-links-expected-android.txt.
+type: test
+title: Expected Android accessibility events for carousel with links
+summary: Expected Android accessibility event output for the carousel-with-links test, showing a view scrolled event after initial page load.

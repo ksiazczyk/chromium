@@ -1,0 +1,4 @@
+# Docerion header of aria-tree-expand-expected-android.txt.
+type: test
+title: Expected Android accessibility events for ARIA tree expand
+summary: Expected Android accessibility event output for expanding an ARIA tree item in the corresponding event test page.

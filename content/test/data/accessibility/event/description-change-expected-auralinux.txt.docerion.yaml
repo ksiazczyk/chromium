@@ -1,0 +1,4 @@
+# Docerion header of description-change-expected-auralinux.txt.
+type: test
+title: Description change expected accessibility events for Aura Linux
+summary: Expected AT-SPI accessibility event output for the description change test, recording a description-changed event on a heading element.

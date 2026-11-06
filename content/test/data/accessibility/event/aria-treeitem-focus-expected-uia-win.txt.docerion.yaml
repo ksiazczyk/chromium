@@ -1,0 +1,4 @@
+# Docerion header of aria-treeitem-focus-expected-uia-win.txt.
+type: test
+title: Expected UIA events for aria treeitem focus test
+summary: Expected UIA on Windows accessibility events, such as focus and selection changes, when focus moves between tree items via aria-activedescendant.

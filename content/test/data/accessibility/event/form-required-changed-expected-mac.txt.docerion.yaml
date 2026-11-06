@@ -1,0 +1,4 @@
+# Docerion header of form-required-changed-expected-mac.txt.
+type: test
+title: Expected Mac events for form-required-changed test
+summary: Expected macOS accessibility events for the form-required-changed test, covering invalid status and value change notifications on checkbox and radio.

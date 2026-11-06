@@ -1,0 +1,4 @@
+# Docerion header of delete-subtree-expected-auralinux.txt.
+type: test
+title: Delete subtree expected accessibility events for Aura Linux
+summary: Expected AT-SPI accessibility event output for the delete-subtree test, listing children-changed add and remove events on an article role.

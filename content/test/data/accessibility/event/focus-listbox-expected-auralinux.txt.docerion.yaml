@@ -1,0 +1,4 @@
+# Docerion header of focus-listbox-expected-auralinux.txt.
+type: test
+title: Focus listbox expected events for AuraLinux
+summary: Expected AuraLinux accessibility events for the listbox focus test, covering focus, selection and state changes on list items.

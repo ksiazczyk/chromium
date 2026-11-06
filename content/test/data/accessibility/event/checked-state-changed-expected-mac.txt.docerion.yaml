@@ -1,0 +1,4 @@
+# Docerion header of checked-state-changed-expected-mac.txt.
+type: test
+title: Checked state changed expected output for macOS AX
+summary: Expected macOS accessibility tree and AXValueChanged notifications for a checkbox and treeitem becoming checked.

@@ -1,0 +1,4 @@
+# Docerion header of aria-textbox-editability-changes.html.
+type: test
+title: ARIA textbox editability changes accessibility event test page
+summary: HTML test page that toggles the contenteditable attribute on two role=textbox elements to verify accessibility events when editability changes.

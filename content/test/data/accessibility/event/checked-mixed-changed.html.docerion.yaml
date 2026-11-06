@@ -1,0 +1,4 @@
+# Docerion header of checked-mixed-changed.html.
+type: test
+title: Checked mixed changed accessibility test page
+summary: HTML test page that sets a checkbox to indeterminate and a tree item to aria-checked mixed to trigger accessibility state-change events.

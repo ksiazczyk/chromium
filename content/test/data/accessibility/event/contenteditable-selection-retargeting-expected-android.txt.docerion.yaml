@@ -1,0 +1,4 @@
+# Docerion header of contenteditable-selection-retargeting-expected-android.txt.
+type: test
+title: Contenteditable selection retargeting expected events for Android
+summary: Expected Android accessibility event sequence for the contenteditable selection retargeting test.

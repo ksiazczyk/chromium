@@ -1,0 +1,4 @@
+# Docerion header of listbox-next-expected-mac.txt.
+type: test
+title: Listbox-next expected events for macOS
+summary: Expected macOS accessibility events for the listbox-next test, covering the focused element change and selected children change on the list.

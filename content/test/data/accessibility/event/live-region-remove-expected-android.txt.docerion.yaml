@@ -1,0 +1,4 @@
+# Docerion header of live-region-remove-expected-android.txt.
+type: test
+title: Live region remove expected events for Android
+summary: Expected Android accessibility events for the live region remove test, listing TYPE_WINDOW_CONTENT_CHANGED notifications after a paragraph is removed.

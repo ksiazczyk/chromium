@@ -1,0 +1,4 @@
+# Docerion header of individual-nodes-become-ignored-but-included-expected-auralinux.txt.
+type: test
+title: individual-nodes-become-ignored-but-included expected events for Linux
+summary: Expected Linux/ATK accessibility events when nodes become ignored but remain included in the tree, covering children-changed removals and parent changes.

@@ -1,0 +1,4 @@
+# Docerion header of live-region-change-innertext-expected-android.txt.
+type: test
+title: Live region innerText change expected events for Android
+summary: Expected Android accessibility events for the live region innerText change test, listing window content changed notifications before and after the text update.

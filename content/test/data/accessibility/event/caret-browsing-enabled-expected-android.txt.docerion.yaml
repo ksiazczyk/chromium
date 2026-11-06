@@ -1,0 +1,4 @@
+# Docerion header of caret-browsing-enabled-expected-android.txt.
+type: test
+title: Expected Android accessibility events for caret browsing enabled test
+summary: Expected Android accessibility event output for the caret-browsing-enabled test page.

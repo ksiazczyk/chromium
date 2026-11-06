@@ -1,0 +1,4 @@
+# Docerion header of caret-move-hidden-input-expected-uia-win.txt.
+type: test
+title: Expected UIA Windows accessibility events for caret move in hidden input
+summary: Expected UIA event list for the caret-move-hidden-input test on Windows, including focus changed, structure changed and text events.

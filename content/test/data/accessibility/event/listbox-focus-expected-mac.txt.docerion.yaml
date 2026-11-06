@@ -1,0 +1,4 @@
+# Docerion header of listbox-focus-expected-mac.txt.
+type: test
+title: Expected macOS accessibility events for listbox focus
+summary: Expected macOS accessibility events emitted when a listbox receives focus.

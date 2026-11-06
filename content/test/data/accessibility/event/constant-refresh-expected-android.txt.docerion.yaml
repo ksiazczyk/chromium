@@ -1,0 +1,4 @@
+# Docerion header of constant-refresh-expected-android.txt.
+type: test
+title: Constant refresh expected accessibility events for Android
+summary: Empty expected accessibility event output for the constant refresh test on Android.

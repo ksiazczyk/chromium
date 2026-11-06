@@ -1,0 +1,4 @@
+# Docerion header of live-region-elem-reparent-expected-win.txt.
+type: test
+title: Live region element reparent expected events for Windows
+summary: Expected Windows IA2 text-inserted events on the document and the message paragraph for the live-region-elem-reparent test page.

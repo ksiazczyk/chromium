@@ -1,0 +1,4 @@
+# Docerion header of input-combobox-dialog-expected-android.txt.
+type: test
+title: Combobox dialog expected events for Android
+summary: Expected Android accessibility events for the combobox dialog test, including pane appeared and dialog opened notifications.

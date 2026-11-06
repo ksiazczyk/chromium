@@ -1,0 +1,4 @@
+# Docerion header of live-region-create.html.
+type: test
+title: Live region creation test page
+summary: HTML test page whose script appends a div with aria-live=polite to a container so tests can verify live region creation events.

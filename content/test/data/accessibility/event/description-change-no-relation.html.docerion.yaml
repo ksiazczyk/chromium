@@ -1,0 +1,4 @@
+# Docerion header of description-change-no-relation.html.
+type: test
+title: Description change without relation accessibility test page
+summary: HTML test page that updates the aria-description attribute to trigger description change events without a relation change.

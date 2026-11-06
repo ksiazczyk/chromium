@@ -1,0 +1,4 @@
+# Docerion header of live-region-create-expected-android.txt.
+type: test
+title: Live region create expected events for Android
+summary: Expected Android accessibility events for the live region create test, listing window content changed notifications after the initial page load.

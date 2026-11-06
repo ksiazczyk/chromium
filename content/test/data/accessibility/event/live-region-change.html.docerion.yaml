@@ -1,0 +1,4 @@
+# Docerion header of live-region-change.html.
+type: test
+title: Live region change test page
+summary: HTML test page with a polite aria-live region whose text node data is changed from 'Before' to 'After' by a script function.

@@ -1,0 +1,4 @@
+# Docerion header of form-disabled-changed-expected-android.txt.
+type: test
+title: Expected Android events for form-disabled-changed test
+summary: Expected Android accessibility events for the form-disabled-changed test, listing window content change notifications when form controls are toggled disabled.

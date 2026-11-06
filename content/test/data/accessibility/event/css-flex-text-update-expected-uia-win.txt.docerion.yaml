@@ -1,0 +1,4 @@
+# Docerion header of css-flex-text-update-expected-uia-win.txt.
+type: test
+title: css-flex-text-update expected UIA events for Windows
+summary: Expected Windows UIA accessibility events when text inside a flex container is updated in the css-flex-text-update test page.

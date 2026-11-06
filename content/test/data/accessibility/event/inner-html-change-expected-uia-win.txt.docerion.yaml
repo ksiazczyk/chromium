@@ -1,0 +1,4 @@
+# Docerion header of inner-html-change-expected-uia-win.txt.
+type: test
+title: inner-html-change expected accessibility events for UIA on Windows
+summary: Expected UIA accessibility events on Windows for an innerHTML change, listing structure changed child added and removed notifications.

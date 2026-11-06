@@ -1,0 +1,4 @@
+# Docerion header of live-region-atomic-add-expected-android.txt.
+type: test
+title: Expected Android events for live region atomic add test
+summary: Expected accessibility event output on Android for the live-region-atomic-add test, listing window content changed events for the atomic live region.
