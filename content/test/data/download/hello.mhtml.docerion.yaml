@@ -1,0 +1,4 @@
+# Docerion header of hello.mhtml.
+type: test
+title: MHTML archive with hello page
+summary: MHTML test archive saved by UnMHT containing a simple hello world HTML page.

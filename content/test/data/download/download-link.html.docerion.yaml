@@ -1,0 +1,4 @@
+# Docerion header of download-link.html.
+type: test
+title: Plain link download test page
+summary: Test page that clicks a plain anchor link to the URL given in the query string to trigger a download without the download attribute.

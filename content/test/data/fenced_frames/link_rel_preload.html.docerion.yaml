@@ -1,0 +1,4 @@
+# Docerion header of link_rel_preload.html.
+type: test
+title: Preload link test page
+summary: Test page that preloads /title1.html as a script for fenced frame preload tests.

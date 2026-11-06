@@ -1,0 +1,4 @@
+# Docerion header of download-attribute-blob.html.mock-http-headers.
+type: test
+title: Mock HTTP headers for the Blob download attribute test
+summary: Mock HTTP response headers that serve the Blob download attribute test page as text/html.

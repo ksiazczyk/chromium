@@ -1,0 +1,4 @@
+# Docerion header of link_rel_module_preload.html.
+type: test
+title: Module preload link test page
+summary: Test page that module-preloads /empty-script.js for fenced frame preload tests.

@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: test
+title: CSS stylesheet for the linked stylesheet test
+summary: Small CSS file with a Chromium license header styling h1 in red, referenced by simple_linked_stylesheet.html as test data.
+*/
+
 h1 {
  font:20;
  color:red;

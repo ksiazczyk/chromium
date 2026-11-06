@@ -1,0 +1,4 @@
+# Docerion header of ad_with_3pat_macro_reporting.html.
+type: test
+title: Ad page with 3PAT macro event reporting
+summary: Fenced frame test ad page that reports an event via window.fence.reportEvent using registered and unregistered macros in the destination URL.

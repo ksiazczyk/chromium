@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FileAPI create test script
+// summary: Browser test that requests a temporary filesystem, deletes any existing test file, writes a small blob, and reads it back to verify the expected size.
+// ---
+
 var filename = 'test.exe';
 
 function readFile(fs)

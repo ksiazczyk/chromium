@@ -1,0 +1,4 @@
+# Docerion header of download-attribute.html.
+type: test
+title: Download attribute test page
+summary: Test page that assigns the query string URL to an anchor with a download attribute and clicks it unless noclick is present.

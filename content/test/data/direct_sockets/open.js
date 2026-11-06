@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: Direct Sockets open test helpers
+// summary: JavaScript helpers that open TCP, UDP, and TCP server sockets and report whether each open operation succeeded or failed.
+// ---
+
 'use strict';
 
 async function openTcp(address, port, options = {}) {

@@ -1,0 +1,4 @@
+# Docerion header of ad_with_fenced_frame_reporting.html.
+type: test
+title: Ad page with fenced frame reporting
+summary: Fenced frame test ad page that reports an auctionwinner event with empty data to both buyer and seller destinations.

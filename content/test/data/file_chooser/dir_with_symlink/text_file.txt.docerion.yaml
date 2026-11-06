@@ -1,0 +1,4 @@
+# Docerion header of text_file.txt.
+type: test
+title: Test text file for file chooser
+summary: Small text fixture placed in a test data directory with a symlink, used by file chooser tests.

@@ -1,0 +1,4 @@
+# Docerion header of client_metadata_endpoint.json.
+type: test
+title: FedCM client metadata endpoint test data
+summary: Mock JSON response providing privacy policy and terms of service URLs for the FedCM client metadata endpoint.

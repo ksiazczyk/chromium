@@ -1,0 +1,4 @@
+# Docerion header of basic_fenced_frame_src.html.
+type: test
+title: Basic fenced frame src test page
+summary: Test page that embeds a fencedframe element and assigns it a FencedFrameConfig pointing at title1.html.

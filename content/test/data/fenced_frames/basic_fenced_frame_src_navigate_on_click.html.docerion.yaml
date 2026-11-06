@@ -1,0 +1,4 @@
+# Docerion header of basic_fenced_frame_src_navigate_on_click.html.
+type: test
+title: Fenced frame navigation on click test page
+summary: Test page that sets a FencedFrameConfig on a fenced frame when the Navigate button is clicked.

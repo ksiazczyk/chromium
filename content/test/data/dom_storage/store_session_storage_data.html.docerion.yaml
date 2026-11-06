@@ -1,0 +1,4 @@
+# Docerion header of store_session_storage_data.html.
+type: test
+title: sessionStorage data storing test page
+summary: Test page that clears sessionStorage and stores the value bar under the key foo, reporting pass or fail via the shared helpers.

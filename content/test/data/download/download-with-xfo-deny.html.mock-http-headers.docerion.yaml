@@ -1,0 +1,4 @@
+# Docerion header of download-with-xfo-deny.html.mock-http-headers.
+type: test
+title: Mock HTTP headers for download-with-xfo-deny.html
+summary: 'Mock HTTP response headers serving the page as an attachment with X-Frame-Options: DENY.'

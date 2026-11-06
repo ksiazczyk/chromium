@@ -1,0 +1,4 @@
+# Docerion header of open.html.
+type: test
+title: Direct Sockets open test page
+summary: HTML page for the Direct Sockets open test that loads open.js and displays the test title.

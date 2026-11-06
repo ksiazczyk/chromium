@@ -1,0 +1,4 @@
+# Docerion header of octet-stream.abc.
+type: test
+title: Octet stream test file (.abc)
+summary: Small test payload served as application/octet-stream to exercise download handling of unknown file types.

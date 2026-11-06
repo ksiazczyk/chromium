@@ -1,0 +1,4 @@
+# Docerion header of bar.txt.
+type: test
+title: bar.txt
+summary: Test fixture text file containing the word bar, located in the file chooser test data directory.

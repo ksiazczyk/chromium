@@ -1,0 +1,4 @@
+# Docerion header of download-attribute-same-site-cookie.html.
+type: test
+title: Download attribute test with SameSite cookies
+summary: Test page that clicks a download attribute link pointing at the URL given in the query string, used with SameSite cookie headers.

@@ -1,0 +1,4 @@
+# Docerion header of find_in_page.html.
+type: test
+title: Find-in-page match rect test page
+summary: Test page with an iframe and result markers used for find-in-page match rect testing.

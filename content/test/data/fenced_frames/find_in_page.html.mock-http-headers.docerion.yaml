@@ -1,0 +1,4 @@
+# Docerion header of find_in_page.html.mock-http-headers.
+type: test
+title: Mock HTTP headers for find_in_page.html
+summary: Mock HTTP response headers that serve find_in_page.html with fenced-frame loading mode support.

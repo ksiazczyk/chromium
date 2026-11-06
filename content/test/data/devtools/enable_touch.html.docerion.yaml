@@ -1,0 +1,4 @@
+# Docerion header of enable_touch.html.
+type: test
+title: Touch event support check page
+summary: Test page whose script checks for touch event handler properties on window and DOM prototypes.

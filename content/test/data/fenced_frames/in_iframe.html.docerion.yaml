@@ -1,0 +1,4 @@
+# Docerion header of in_iframe.html.
+type: test
+title: Page embedding basic.html in an iframe
+summary: Test page that embeds basic.html in an iframe for fenced frame loading tests.

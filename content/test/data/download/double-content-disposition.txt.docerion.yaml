@@ -1,0 +1,4 @@
+# Docerion header of double-content-disposition.txt.
+type: test
+title: Double content-disposition download payload
+summary: Text payload served with two Content-Disposition headers to exercise download handling of duplicated disposition fields.

@@ -1,0 +1,4 @@
+# Docerion header of foo.txt.
+type: test
+title: foo.txt
+summary: Minimal text fixture containing the word foo, used as sample data for the file chooser tests.

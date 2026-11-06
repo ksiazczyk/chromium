@@ -1,0 +1,4 @@
+# Docerion header of linked_text_file.txt.
+type: test
+title: Linked text file
+summary: Small text fixture in the test data folder, likely used as sample content for file chooser or linking tests.

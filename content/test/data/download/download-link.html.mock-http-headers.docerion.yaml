@@ -1,0 +1,4 @@
+# Docerion header of download-link.html.mock-http-headers.
+type: test
+title: Mock HTTP headers for the plain link download test
+summary: Mock HTTP response headers that serve the plain link download test page as text/html.

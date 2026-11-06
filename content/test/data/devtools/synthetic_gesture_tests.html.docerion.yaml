@@ -1,0 +1,4 @@
+# Docerion header of synthetic_gesture_tests.html.
+type: test
+title: Synthetic gesture test page
+summary: HTML page with tall padded content and anchor links, used to test swipe and scroll synthetic gestures in DevTools.

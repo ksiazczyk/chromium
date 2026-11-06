@@ -1,0 +1,4 @@
+# Docerion header of ad_that_leaves_interest_group.html.mock-http-headers.
+type: test
+title: Mock HTTP headers for ad_that_leaves_interest_group.html
+summary: Mock HTTP response headers serving the ad page with a 200 status and the fenced-frame Supports-Loading-Mode header.

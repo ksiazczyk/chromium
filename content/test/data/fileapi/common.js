@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FileAPI test shared helpers
+// summary: Shared JavaScript helpers for the FileAPI browser tests that print status, mark pass or fail via the URL hash, and convert file error codes to strings.
+// ---
+
 function debug(message)
 {
   document.getElementById('status').innerHTML += '<br/>' + message;

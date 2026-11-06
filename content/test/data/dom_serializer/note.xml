@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!--docerion
+type: test
+title: XML note fixture with escaped entities
+summary: Small XML note document with escaped angle brackets, quotes and apostrophes used as test data for the DOM serializer.
+-->
+
 <note>
 <to>&lt;Johnny&gt;</to>
 <from>&lt;Boss&gt;</from>

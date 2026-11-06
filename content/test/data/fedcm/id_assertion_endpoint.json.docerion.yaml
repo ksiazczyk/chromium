@@ -1,0 +1,4 @@
+# Docerion header of id_assertion_endpoint.json.
+type: test
+title: FedCM ID assertion endpoint test data
+summary: Mock JSON response returning a placeholder identity token for the FedCM ID assertion endpoint.

@@ -1,0 +1,4 @@
+# Docerion header of octet-stream.abc.mock-http-headers.
+type: test
+title: Mock HTTP headers for octet-stream.abc
+summary: Mock HTTP headers that serve octet-stream.abc with a 200 status and an application/octet-stream content type in download tests.

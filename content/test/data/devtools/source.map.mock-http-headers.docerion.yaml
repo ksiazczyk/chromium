@@ -1,0 +1,4 @@
+# Docerion header of source.map.mock-http-headers.
+type: test
+title: Mock HTTP headers for source.map
+summary: Mock HTTP response headers served for the source map file during DevTools tests.

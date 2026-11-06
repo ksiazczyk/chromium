@@ -1,0 +1,4 @@
+# Docerion header of download-attribute-same-site-cookie.html.mock-http-headers.
+type: test
+title: Mock HTTP headers setting SameSite cookies
+summary: Mock HTTP response headers that set a SameSite=Strict cookie and a regular cookie for the download attribute test page.

@@ -1,0 +1,4 @@
+# Docerion header of page_with_webotp.html.
+type: test
+title: WebOTP request test page
+summary: Test page with a one-time-code input that requests an SMS OTP via navigator.credentials.get for WebOTP tests.

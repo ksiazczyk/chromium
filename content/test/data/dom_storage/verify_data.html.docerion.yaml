@@ -1,0 +1,4 @@
+# Docerion header of verify_data.html.
+type: test
+title: localStorage data verification test page
+summary: Test page that reads the key foo from localStorage and passes or fails depending on whether the value equals bar.

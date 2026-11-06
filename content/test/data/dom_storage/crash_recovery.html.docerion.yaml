@@ -1,0 +1,4 @@
+# Docerion header of crash_recovery.html.
+type: test
+title: DOM storage crash recovery test page
+summary: Test page defining helper functions to set and get values in sessionStorage and localStorage, used for crash recovery testing.

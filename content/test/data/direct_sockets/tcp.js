@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: Direct Sockets TCP read and write test helpers
+// summary: JavaScript test helpers that write, read, and close TCP sockets and verify streamed data byte by byte.
+// ---
+
 'use strict';
 
 const assertEq = (actual, expected) => {

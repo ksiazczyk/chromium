@@ -1,0 +1,4 @@
+# Docerion header of verify_session_storage_data.html.
+type: test
+title: sessionStorage data verification test page
+summary: Test page that reads the key foo from sessionStorage and passes or fails depending on whether the value equals bar.

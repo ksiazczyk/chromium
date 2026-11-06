@@ -1,0 +1,4 @@
+# Docerion header of double-content-disposition.txt.mock-http-headers.
+type: test
+title: Mock HTTP headers with duplicate Content-Disposition
+summary: Mock HTTP response that serves the Jumboshrimp text payload with two Content-Disposition attachment headers for download tests.

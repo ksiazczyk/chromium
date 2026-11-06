@@ -1,0 +1,4 @@
+# Docerion header of tcp.html.
+type: test
+title: Direct Sockets TCP test page
+summary: HTML page for the Direct Sockets TCP test that loads tcp.js and displays the test title.
