@@ -1,0 +1,4 @@
+# Docerion header of lint_flags_unittest.py.
+type: test
+title: Flag metadata linter unit tests
+summary: Unit tests for the linter's unused-flag detection, using pyfakefs to simulate a Chromium source tree.

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for tools/fuchsia
+summary: Declares directory metadata for the Fuchsia tools, mixing in the common Fuchsia metadata from build/fuchsia/COMMON_METADATA.

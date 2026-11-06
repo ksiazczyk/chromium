@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of tools/fuchsia
+summary: Lists the owners of this directory and defers to the shared Fuchsia OWNERS file under build/fuchsia.

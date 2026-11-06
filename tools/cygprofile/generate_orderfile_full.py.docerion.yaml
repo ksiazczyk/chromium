@@ -1,0 +1,4 @@
+# Docerion header of generate_orderfile_full.py.
+type: source
+title: Full orderfile generation utility
+summary: End-to-end utility that builds Chromium, profiles browser or WebView startup on a device, and generates a linker orderfile for a target architecture.

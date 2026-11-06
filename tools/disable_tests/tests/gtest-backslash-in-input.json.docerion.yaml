@@ -1,0 +1,4 @@
+# Docerion header of gtest-backslash-in-input.json.
+type: test
+title: GTest fixture with backslash in test input
+summary: Test fixture disabling a media pipeline integration test on Windows, covering backslash handling in the test input.

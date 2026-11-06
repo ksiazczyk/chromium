@@ -1,0 +1,4 @@
+# Docerion header of gtest-bug-comment.json.
+type: test
+title: GTest fixture for disable with bug comment
+summary: Test fixture that disables a BrowserView browser test with a bug ID and verifies the generated TODO comment.

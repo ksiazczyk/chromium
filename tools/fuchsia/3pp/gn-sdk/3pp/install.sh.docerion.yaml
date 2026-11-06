@@ -1,0 +1,4 @@
+# Docerion header of install.sh.
+type: script
+title: Install script for the Fuchsia GN SDK package
+summary: Copies the unpacked Fuchsia GN SDK files into the given install prefix while preserving relative paths.

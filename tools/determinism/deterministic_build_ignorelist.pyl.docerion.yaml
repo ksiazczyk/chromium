@@ -1,0 +1,4 @@
+# Docerion header of deterministic_build_ignorelist.pyl.
+type: config
+title: Ignorelist of known nondeterministic build files
+summary: Python literal list of files known to be nondeterministic per platform, used as a temporary workaround to spot regressions on deterministic builders.

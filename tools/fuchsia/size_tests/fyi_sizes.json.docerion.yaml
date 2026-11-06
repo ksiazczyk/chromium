@@ -1,0 +1,4 @@
+# Docerion header of fyi_sizes.json.
+type: config
+title: FYI Fuchsia package size limits
+summary: Lists the Fuchsia FAR archives to measure and sets nominal size limits for informational size reporting.

@@ -1,0 +1,4 @@
+# Docerion header of generate_stubs.py.
+type: source
+title: Stub file generator for Windows and POSIX libraries
+summary: Python script that generates Windows def files or POSIX stub header and implementation files from C-style function signatures for libraries loaded outside the standard startup path.

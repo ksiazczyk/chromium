@@ -1,0 +1,4 @@
+# Docerion header of integration_test.
+type: script
+title: Shell wrapper for integration_test.py
+summary: Shell wrapper that runs integration_test.py through vpython3 instead of calling the Python script directly, for flexibility.

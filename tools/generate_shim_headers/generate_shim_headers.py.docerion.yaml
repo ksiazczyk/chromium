@@ -1,0 +1,4 @@
+# Docerion header of generate_shim_headers.py.
+type: source
+title: Shim header generator for system includes
+summary: Python tool that generates shim headers mirroring bundled header directories, forwarding to system headers so source code compiles against system libraries unchanged.

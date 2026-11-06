@@ -1,0 +1,4 @@
+# Docerion header of compare_build_artifacts.py.
+type: source
+title: Compare build artifacts from two builds
+summary: Script that compares artifacts from two build directories to detect nondeterminism, collecting files to compare and producing binary diffs of differences.

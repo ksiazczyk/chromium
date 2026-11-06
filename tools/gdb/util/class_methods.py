@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: GDB helper library for defining C++ class method implementations
+# summary: Provides Class and member_function decorators for implementing C++ member functions in Python so they are callable from GDB via the xmethod API.
+# ---
+
 """Helper library for defining XMethod implementations on C++ classes.
 
 Include this library and then define python implementations of C++ methods

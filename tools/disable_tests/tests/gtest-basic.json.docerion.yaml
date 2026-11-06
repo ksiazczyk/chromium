@@ -1,0 +1,4 @@
+# Docerion header of gtest-basic.json.
+type: test
+title: GTest fixture for basic test disable
+summary: Test fixture that runs the disable tool on a BrowserView browser test with mocked ResultDB query results.

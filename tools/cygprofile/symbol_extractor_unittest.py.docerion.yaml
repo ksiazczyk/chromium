@@ -1,0 +1,4 @@
+# Docerion header of symbol_extractor_unittest.py.
+type: test
+title: Unit tests for symbol_extractor
+summary: Unit tests for parsing llvm-readelf JSON symbol dumps and for symbol info mappings in symbol_extractor.

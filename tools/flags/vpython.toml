@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: vpython environment config for flags tools
+# summary: vpython configuration pinning Python 3.11 and the httplib2, six, and pyfakefs dependencies for the tools/flags scripts.
+# ---
+
 requires-python = '>=3.11,<3.12'
 dependencies = [
   'httplib2==0.13.1',

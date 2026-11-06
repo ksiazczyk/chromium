@@ -1,0 +1,4 @@
+# Docerion header of generate_library_loader.py.
+type: script
+title: Library loader code generator
+summary: Generates a C++ header and implementation that wrap dlopen or direct linking of a given system library.

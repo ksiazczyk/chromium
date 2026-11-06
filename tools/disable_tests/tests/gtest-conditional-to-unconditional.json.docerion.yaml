@@ -1,0 +1,4 @@
+# Docerion header of gtest-conditional-to-unconditional.json.
+type: test
+title: GTest fixture converting conditional disable to unconditional
+summary: Test fixture that removes a platform condition from an existing disable, making it unconditional for a parameterized server test.

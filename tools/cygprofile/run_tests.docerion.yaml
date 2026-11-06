@@ -1,0 +1,4 @@
+# Docerion header of run_tests.
+type: script
+title: Test runner for cygprofile unit tests
+summary: Discovers and runs all *_unittest.py test modules in the cygprofile directory and exits with a nonzero code on failure.

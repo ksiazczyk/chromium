@@ -1,0 +1,4 @@
+# Docerion header of wait_for_cq_dryrun.py.
+type: script
+title: Wait for CQ dry run results on a Gerrit CL
+summary: Polls try results for the active CL's CQ dry run, aggregates results across patchsets, and reports success or failed builders until completion or timeout.

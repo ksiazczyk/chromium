@@ -1,0 +1,4 @@
+# Docerion header of trybot.el.
+type: script
+title: Trybot output fixer for Emacs
+summary: Emacs Lisp command that fetches trybot output and rewrites paths and casing so errors open in compilation mode.

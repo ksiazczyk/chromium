@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the Git tools directory
+summary: Maps per-file owners for the move_source_file, suggest_owners, and worktree scripts in this directory.

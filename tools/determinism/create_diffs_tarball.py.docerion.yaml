@@ -1,0 +1,4 @@
+# Docerion header of create_diffs_tarball.py.
+type: source
+title: Create tarball of build differences
+summary: Command-line script that builds a gzipped tarball of differing files from two build directories, taking the file list from a JSON input file.

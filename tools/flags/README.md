@@ -1,3 +1,13 @@
+---
+type: readme
+title: tools/flags README
+summary: Introduces the tooling in this directory for working with feature flag entries and the automation that expires flags based on their metadata.
+relations:
+  - references /docs/flag_expiry.md
+  - documents /tools/flags/flags_utils.py
+  - documents /tools/flags/generate_expired_list.py
+---
+
 # tools/flags
 
 This directory contains tooling for working with chrome://flags entries and part

@@ -1,6 +1,13 @@
 # Copyright 2021 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: test
+# title: Unit tests for GTest disabling
+# summary: Unit tests verifying that gtest.disabler enables, disables and conditionally disables GTest tests, including condition merging and simplification.
+# ---
+
 """Tests for gtest.py"""
 
 import unittest

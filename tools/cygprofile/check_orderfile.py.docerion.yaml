@@ -1,0 +1,4 @@
+# Docerion header of check_orderfile.py.
+type: source
+title: Orderfile symbol order checker
+summary: Verifies that symbols in a built binary appear in the same order as listed in the orderfile, tolerating a configurable misordering threshold.

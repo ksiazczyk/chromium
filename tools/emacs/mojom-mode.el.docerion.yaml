@@ -1,0 +1,4 @@
+# Docerion header of mojom-mode.el.
+type: source
+title: Mojom major mode for Emacs
+summary: Major mode for editing Mojom IDL files with grammar-based syntax highlighting, indentation and imenu support.

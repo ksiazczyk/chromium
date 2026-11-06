@@ -1,0 +1,4 @@
+# Docerion header of for-all-touched-files.py.
+type: source
+title: Run a command on all files touched by a branch
+summary: Runs a quoted command on every file modified between the current branch and a given branch or commit, with extension filters.

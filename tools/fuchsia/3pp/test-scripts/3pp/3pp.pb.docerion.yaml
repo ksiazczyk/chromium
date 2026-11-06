@@ -1,0 +1,4 @@
+# Docerion header of 3pp.pb.
+type: config
+title: 3pp package definition for Fuchsia test scripts
+summary: Defines how the build/fuchsia test scripts package is fetched, built, and uploaded under the chromium/fuchsia prefix in the 3pp system.

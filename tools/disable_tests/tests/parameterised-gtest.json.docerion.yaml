@@ -1,0 +1,4 @@
+# Docerion header of parameterised-gtest.json.
+type: test
+title: parameterised-gtest.json fixture for a parameterised gtest
+summary: Test fixture that runs the disable tool on a parameterised gpu_unittests case using mocked ResultDB query results and embedded source fixture data.

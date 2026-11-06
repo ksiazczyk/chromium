@@ -1,0 +1,4 @@
+# Docerion header of fetch.py.
+type: script
+title: Fetch script for the Fuchsia test scripts package
+summary: Delegates to fetch_archive.main to fetch the build/fuchsia test scripts archive for the 3pp package.

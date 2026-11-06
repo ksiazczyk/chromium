@@ -1,0 +1,4 @@
+# Docerion header of generate_expired_list.pydeps.
+type: config
+title: Python dependencies of the expired flags generator
+summary: Generated dependency list of the Python modules, including pyjson5, that generate_expired_list.py needs, used for build dependency checking.

@@ -1,0 +1,4 @@
+# Docerion header of collect_process_dump.py.
+type: source
+title: collect_process_dump.py dump collector
+summary: Python script that connects to a rooted Android device, triggers dump_process on a renderer process, and pulls the resulting dump files for analysis.

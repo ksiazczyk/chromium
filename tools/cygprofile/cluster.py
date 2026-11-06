@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Function call-graph clustering for orderfiles
+# summary: Clusters symbols from profiling runs by averaging neighbor distances to produce a code layout that improves locality for orderfile generation.
+# ---
+
 """Clustering for function call-graph.
 
 See the Clustering class for a detailed description.

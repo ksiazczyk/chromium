@@ -1,0 +1,4 @@
+# Docerion header of chromium_java_config.el.
+type: config
+title: Chromium Java indentation settings for Emacs
+summary: Emacs Lisp configuration that adapts Java mode indentation and tab settings to the Chromium Java style.

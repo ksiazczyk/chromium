@@ -1,0 +1,4 @@
+# Docerion header of fetch.py.
+type: script
+title: Fetch script for the Fuchsia GN SDK package
+summary: Fetches the fuchsia-gn-sdk source archive from third_party so the 3pp builder can package it.

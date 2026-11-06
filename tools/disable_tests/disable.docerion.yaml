@@ -1,0 +1,4 @@
+# Docerion header of disable.
+type: script
+title: Shell wrapper for the disable command
+summary: Shell entry point that runs disable.py through vpython3, keeping flexibility for future restructuring.

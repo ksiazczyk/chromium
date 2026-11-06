@@ -1,6 +1,13 @@
 # Copyright 2021 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: ci
+# title: Presubmit checks running Python unit tests
+# summary: Presubmit automation that runs the directory's Python unit tests, including the integration test suite, on uploads and commits.
+# ---
+
 """Runs python unittests.
 
 See http://dev.chromium.org/developers/how-tos/depottools/presubmit-scripts

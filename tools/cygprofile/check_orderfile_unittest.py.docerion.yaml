@@ -1,0 +1,4 @@
+# Docerion header of check_orderfile_unittest.py.
+type: test
+title: Unit tests for orderfile symbol order checking
+summary: Unit tests covering symbol order verification, same-offset symbol groups, and symbols appearing at multiple addresses.

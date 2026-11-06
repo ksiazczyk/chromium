@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: hello.cc
+// summary: Implements the Hello() greeting functions, including a two-name overload that is compiled only when TWO_PEOPLE is defined.
+// ---
+
 #include "tools/gn/tutorial/hello.h"
 
 #include <stdio.h>

@@ -1,0 +1,4 @@
+# Docerion header of expectations-bug-comment.json.
+type: test
+title: Expectations fixture for disable with bug comment
+summary: Test fixture that disables a wallpaper controller test with a bug reference and verifies the resulting TODO comment and edits.

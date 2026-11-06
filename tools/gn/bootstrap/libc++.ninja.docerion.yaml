@@ -1,0 +1,4 @@
+# Docerion header of libc++.ninja.
+type: config
+title: libc++ Ninja build rules for gn bootstrap
+summary: Ninja build file that compiles libc++ and libc++abi sources into a shared library used when bootstrapping gn with an in-tree libc++.

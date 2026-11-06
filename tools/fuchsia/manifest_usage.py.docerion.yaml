@@ -1,0 +1,4 @@
+# Docerion header of manifest_usage.py.
+type: script
+title: Analyze manifest file sizes and counts
+summary: Reads a build output manifest and prints du-style file counts or byte sizes per directory, with depth and sort order options.

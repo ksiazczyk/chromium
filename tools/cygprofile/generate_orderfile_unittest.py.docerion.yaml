@@ -1,0 +1,4 @@
+# Docerion header of generate_orderfile_unittest.py.
+type: test
+title: Unit tests for generate_orderfile
+summary: Unit tests covering the orderfile generation flow, output file naming, and interaction with mocked profiling and processing helpers.

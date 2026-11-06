@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build file for the dump_process tool
+summary: GN build file defining the dump_process executable with dump_process.cc as its source and a dependency on //base.

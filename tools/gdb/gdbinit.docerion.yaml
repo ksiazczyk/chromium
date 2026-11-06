@@ -1,0 +1,4 @@
+# Docerion header of gdbinit.
+type: config
+title: GDB startup configuration for Chromium debugging
+summary: GDB startup file that locates the Chromium source tree, adds debug file directories, and loads the Chrome and libc++ pretty-printers.

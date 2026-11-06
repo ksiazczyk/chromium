@@ -1,3 +1,11 @@
+---
+type: readme
+title: Test disabling tool
+summary: Documents the tool for automatically disabling tests, covering condition syntax, usage examples, supported frameworks, bug reporting, and development.
+relations:
+  - documents /tools/disable_tests/integration_test.py
+---
+
 # Test disabling tool
 
 This directory contains a tool for automatically disabling tests. It supports

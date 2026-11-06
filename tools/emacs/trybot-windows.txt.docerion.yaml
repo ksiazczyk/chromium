@@ -1,0 +1,4 @@
+# Docerion header of trybot-windows.txt.
+type: data
+title: Sample Windows trybot output
+summary: Shortened Windows trybot run containing warnings and errors, stored as sample data for the trybot tool.

@@ -1,0 +1,4 @@
+# Docerion header of dump_process.sh.
+type: script
+title: dump_process.sh dump runner script
+summary: Shell script that runs dump_process on a given PID and copies the process smaps file to smaps.txt.

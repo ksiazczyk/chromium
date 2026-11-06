@@ -1,0 +1,4 @@
+# Docerion header of fyi_sizes_warning.json.
+type: config
+title: Fuchsia package size warning limits
+summary: Sets a 50 MiB compressed size warning limit for the chrome_fuchsia Fuchsia package.

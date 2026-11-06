@@ -1,0 +1,4 @@
+# Docerion header of lint_flags.py.
+type: script
+title: Flag metadata linter
+summary: Linter that scans about_flags sources and reports flag-metadata.json entries whose internal names are not used anywhere.

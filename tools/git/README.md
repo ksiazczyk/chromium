@@ -1,3 +1,13 @@
+---
+type: readme
+title: Git tools overview
+summary: "Documents the directory's Git helpers: post-checkout and post-merge hooks, git-graph, suggest_owners, and worktree."
+relations:
+  - documents /tools/git/post-checkout
+  - documents /tools/git/post-merge
+  - documents /tools/git/suggest_owners.py
+---
+
 This directory contains some helpful Git tools.
 
 post-checkout and post-merge

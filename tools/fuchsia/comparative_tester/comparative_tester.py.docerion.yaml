@@ -1,0 +1,4 @@
+# Docerion header of comparative_tester.py.
+type: source
+title: Comparative tester for running tests on Linux and Fuchsia
+summary: Builds and runs gtest targets on Linux and Fuchsia devices, applying test filters and extracting performance data for comparison.

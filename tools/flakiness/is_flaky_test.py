@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Unit tests for is_flaky
+# summary: Unittest suite that mocks subprocess calls to verify is_flaky's retry count, command arguments and flakiness threshold behavior.
+# ---
+
 """Unit tests for is_flaky."""
 
 import is_flaky

@@ -1,0 +1,4 @@
+# Docerion header of unexpire_test.h.expected.
+type: test
+title: Expected unexpire flags header
+summary: Golden expected output for the generated unexpire flags header, declaring unexpire features and the milestone lookup function.

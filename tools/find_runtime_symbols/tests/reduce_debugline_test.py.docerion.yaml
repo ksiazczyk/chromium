@@ -1,0 +1,4 @@
+# Docerion header of reduce_debugline_test.py.
+type: test
+title: Unit test for reduce_debugline
+summary: Unittest that checks reduce_decoded_debugline reduces a decoded .debug_line dump into the expected address-to-file ranges.

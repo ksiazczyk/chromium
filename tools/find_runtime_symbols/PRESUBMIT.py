@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: ci
+# title: Presubmit checks for find_runtime_symbols
+# summary: Runs the directory's Python unit tests as canned presubmit checks on upload and commit.
+# ---
+
 """Top-level presubmit script for find_runtime_symbols.
 
 See http://dev.chromium.org/developers/how-tos/depottools/presubmit-scripts

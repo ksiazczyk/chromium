@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the gdb tools directory
+summary: Lists the code owners responsible for reviewing changes to the gdb debugging tools in this directory.

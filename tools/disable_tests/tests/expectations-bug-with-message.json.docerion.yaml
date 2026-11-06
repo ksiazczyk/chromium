@@ -1,0 +1,4 @@
+# Docerion header of expectations-bug-with-message.json.
+type: test
+title: Expectations fixture for disable with bug and message
+summary: Test fixture disabling a calculator browser test on Linux with a bug ID and custom message, checking the TODO comment and conditional macro edits.

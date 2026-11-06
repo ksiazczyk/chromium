@@ -1,0 +1,4 @@
+# Docerion header of post-checkout.
+type: script
+title: Git post-checkout hook warning about DEPS changes
+summary: Git post-checkout hook that warns when DEPS changed or has local modifications and a gclient sync may be needed.

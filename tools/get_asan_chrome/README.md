@@ -1,3 +1,11 @@
+---
+type: readme
+title: Download ASAN Chrome
+summary: Documents usage of the helper script for downloading ASAN Chromium builds, with examples for channels, versions, and OS overrides.
+relations:
+  - documents /tools/get_asan_chrome/get_asan_chrome.py
+---
+
 # Download ASAN Chrome
 
 This directory contains a helper script to download ASAN builds of Chromium.

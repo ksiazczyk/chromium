@@ -1,0 +1,4 @@
+# Docerion header of find_flakiness.py.
+type: script
+title: Find flaky tests via sharding and parallel runs
+summary: Runs a test repeatedly, sharded and in parallel with itself, to identify flaky test cases and persist run, pass and failure counts in a data file.

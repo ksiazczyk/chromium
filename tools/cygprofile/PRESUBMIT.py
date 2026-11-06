@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: ci
+# title: PRESUBMIT.py presubmit checks for cygprofile
+# summary: Runs the cygprofile unit tests via run_tests as a presubmit check for Python changes on non-Windows platforms.
+# ---
+
 """Top-level presubmit script for cygprofile.
 
 See http://dev.chromium.org/developers/how-tos/depottools/presubmit-scripts

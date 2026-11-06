@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for cygprofile orderfile generation
+summary: Defines GN targets for the orderfile generation Python library and script tests that profile Android Chrome and WebView builds.

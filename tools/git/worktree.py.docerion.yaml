@@ -1,0 +1,4 @@
+# Docerion header of worktree.py.
+type: script
+title: Chromium git worktree automation tool
+summary: Automates creating git worktrees for Chromium checkouts, validating gclient setup and optionally coloring VSCode title bars.

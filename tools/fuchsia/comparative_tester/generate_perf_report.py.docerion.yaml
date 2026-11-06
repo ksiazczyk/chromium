@@ -1,0 +1,4 @@
+# Docerion header of generate_perf_report.py.
+type: source
+title: Performance report generator from raw test data
+summary: Reads raw test output, computes mean, standard deviation, and coefficient of variance per target and test, and writes statistics to JSON files.

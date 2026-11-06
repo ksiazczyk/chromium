@@ -1,0 +1,4 @@
+# Docerion header of mass-rename.py.
+type: source
+title: Update includes and build lists after staged renames
+summary: Reads staged renames from git diff --cached -M and updates includes and build lists via move_source_file.py.

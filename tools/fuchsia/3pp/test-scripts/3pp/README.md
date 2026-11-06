@@ -1,3 +1,9 @@
+---
+type: readme
+title: 3pp definition of build/fuchsia test scripts
+summary: Explains why the 3pp definition for build/fuchsia test scripts is placed in this directory instead of the build repo, to avoid duplicate 3pp file errors.
+---
+
 ### [3pp definition of build/fuchsia test scripts]
 
 //build/ is an own repo (https://chromium.googlesource.com/chromium/src/build)

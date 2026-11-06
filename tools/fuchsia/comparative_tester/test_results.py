@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Test output parsing and result data structures
+# summary: Parses gtest stdout lines into result objects with units and measurements, and handles JSON serialization of test and line results.
+# ---
+
 import json
 import logging
 import os

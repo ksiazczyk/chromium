@@ -1,0 +1,4 @@
+# Docerion header of viewg.gdb.
+type: script
+title: viewg command to graph the view hierarchy
+summary: Defines the viewg GDB command, which dumps the views::View hierarchy to a dot file and converts it into an SVG graph using graphviz.

@@ -1,0 +1,4 @@
+# Docerion header of disable.py.
+type: source
+title: Automatic test disabling script
+summary: Command-line tool that disables tests by build ID, test regex, and conditions, editing test sources and supporting bug references and ResultDB caching.

@@ -1,0 +1,4 @@
+# Docerion header of get_one.sh.
+type: script
+title: Download a single Swarming task log
+summary: Shell script that uses the swarming collect command to save one task's log as a .txt file in the given output directory.

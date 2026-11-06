@@ -1,0 +1,4 @@
+# Docerion header of get_all.sh.
+type: script
+title: Download all logs from a CQ Swarming run
+summary: Shell script that fetches the main log and every subtask log for a given Swarming task ID into an output directory, running subtask downloads in parallel.

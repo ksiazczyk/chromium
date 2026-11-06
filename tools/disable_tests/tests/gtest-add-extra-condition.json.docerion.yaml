@@ -1,0 +1,4 @@
+# Docerion header of gtest-add-extra-condition.json.
+type: test
+title: GTest fixture adding an extra disable condition
+summary: Test fixture that disables a parameterized embedded test server test on Linux, adding a platform condition to the disable.

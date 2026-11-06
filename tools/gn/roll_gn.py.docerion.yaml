@@ -1,0 +1,4 @@
+# Docerion header of roll_gn.py.
+type: script
+title: roll_gn
+summary: Python script that prints that GN is autorolled by Skia's gn-chromium-autoroller and exits with an error instead of performing a manual roll.

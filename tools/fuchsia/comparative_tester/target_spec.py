@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Configuration constants for comparative testing
+# summary: Defines device addresses, build and output directories, and the list of perftest targets used by the other scripts in the folder.
+# ---
+
 # Fields for use when working with a physical linux device connected locally
 linux_device_ip = "192.168.42.32"
 linux_device_user = "potat"

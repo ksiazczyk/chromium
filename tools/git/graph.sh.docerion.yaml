@@ -1,0 +1,4 @@
+# Docerion header of graph.sh.
+type: script
+title: Graph occurrences of a grep expression over history
+summary: Counts grep matches of an expression across the last 90 days of history and plots the trend with GNU R.

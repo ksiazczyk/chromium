@@ -1,0 +1,4 @@
+# Docerion header of generate_library_loader.gni.
+type: config
+title: GN template for generating library loader stubs
+summary: Defines a GN template that invokes the Python generator to create dlopen-based loader stubs for Linux system libraries.

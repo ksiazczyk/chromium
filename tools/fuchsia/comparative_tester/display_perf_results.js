@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JavaScript renderer for performance result tables
+// summary: Reads result JSON files in the browser and renders tables comparing Fuchsia and Linux performance statistics per test and line.
+// ---
+
 const headers = ["Test", "Line", "Units", "Fuchsia Avg", "Fuchsia Dev",
                        "Fuchsia CV", "Linux Avg", "Linux Dev", "Linux CV",
                        "F-L Avgs"];

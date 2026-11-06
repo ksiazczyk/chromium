@@ -1,0 +1,4 @@
+# Docerion header of android_profile_tool.py.
+type: source
+title: Android orderfile profile collection tool
+summary: Utility library that sets up Android devices, runs orderfile profiling workloads, and pulls the resulting profile data to the host.

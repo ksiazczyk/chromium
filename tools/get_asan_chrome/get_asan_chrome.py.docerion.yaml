@@ -1,0 +1,4 @@
+# Docerion header of get_asan_chrome.py.
+type: source
+title: Download ASAN Chrome helper script
+summary: Python script that queries Chromium Dash for release metadata and downloads the matching ASAN Chrome build from Google's GCS bucket.

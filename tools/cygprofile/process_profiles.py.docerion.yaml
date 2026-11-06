@@ -1,0 +1,4 @@
+# Docerion header of process_profiles.py.
+type: source
+title: Profile dump processing and symbol mapping
+summary: Parses instrumentation profile dumps and maps reached binary offsets to symbols, providing the core processing for orderfile generation.

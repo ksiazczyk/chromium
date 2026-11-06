@@ -1,0 +1,4 @@
+# Docerion header of gtest-message.json.
+type: test
+title: gtest-message.json fixture for disabling a test by message
+summary: Test fixture that runs the disable tool with a message argument and mocked ResultDB results for BrowserViewTest.GetAccessibleTabModalDialogTree.
