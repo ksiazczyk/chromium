@@ -1,3 +1,9 @@
+---
+type: readme
+title: Autofill payments strings translation images README
+summary: Explains that the directory stores image SHA-1 hashes that give translators context for UI string translations.
+---
+
 This directory of image SHA-1 hashes is used to improve translations of UI
 strings through context images for translators.
 

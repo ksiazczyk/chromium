@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for autofill payments strings
+summary: Delegates ownership of this directory to the OWNERS file in components/autofill/core/browser/payments.
