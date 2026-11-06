@@ -1,0 +1,4 @@
+# Docerion header of IDS_AUTOFILL_IBANS_TITLE.png.sha1.
+type: asset
+title: SHA1 checksum for IDS_AUTOFILL_IBANS_TITLE image
+summary: Stores the SHA1 checksum of the PNG screenshot for the IBANs title string, used to verify the image asset kept outside the repository.
