@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Progress bar drawing configuration
+// summary: Defines the ProgressBarConfig struct carrying background, hairline, and bar colors plus heights used by the Java UI to draw the page load progress bar.
+// ---
+
 #ifndef UI_ANDROID_PROGRESS_BAR_CONFIG_H_
 #define UI_ANDROID_PROGRESS_BAR_CONFIG_H_
 

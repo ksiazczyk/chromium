@@ -4,6 +4,13 @@ Copyright 2020 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: source
+title: Blue when enabled color selector
+summary: Android color selector that shows link text in blue when enabled and a disabled link color otherwise.
+-->
+
 <selector xmlns:android="http://schemas.android.com/apk/res/android">
     <item android:color="@color/default_text_color_link_disabled_light" android:state_enabled="false" />
     <item android:color="@color/default_text_color_link_light"/>

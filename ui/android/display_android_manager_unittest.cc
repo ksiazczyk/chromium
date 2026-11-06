@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Android display manager
+// summary: Tests DisplayAndroidManager display updates, removal, and lookups across primary and external displays using Java-backed JNI calls.
+// ---
+
 #include "ui/android/display_android_manager.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accelerator manager Android native implementation
+// summary: Implements the native side of the AcceleratorManager Java bridge, registering accelerators and processing Android key events.
+// ---
+
 #include "ui/android/accelerator_manager_android.h"
 
 #include <android/input.h>

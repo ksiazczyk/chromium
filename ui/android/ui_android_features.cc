@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UI Android feature flag definitions
+// summary: Defines base::Feature flags for Android UI behaviors such as HDR, window occlusion, clipboard defenses, and pointer lock scaling.
+// ---
+
 #include "ui/android/ui_android_features.h"
 
 #include "base/feature_list.h"

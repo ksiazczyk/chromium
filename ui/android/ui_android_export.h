@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UI Android export macro
+// summary: Defines the UI_ANDROID_EXPORT macro that controls symbol visibility when the UI module is built as a component.
+// ---
+
 #ifndef UI_ANDROID_UI_ANDROID_EXPORT_H_
 #define UI_ANDROID_UI_ANDROID_EXPORT_H_
 

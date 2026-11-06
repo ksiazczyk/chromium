@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ViewAndroid implementation
+// summary: Implements the native ViewAndroid view hierarchy, including anchored Java views, event forwarding, layer management, and frame info updates for the Android UI.
+// ---
+
 #include "ui/android/view_android.h"
 
 #include <algorithm>

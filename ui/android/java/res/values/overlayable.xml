@@ -4,6 +4,13 @@ Copyright 2024 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: config
+title: Overlayable partner resources
+summary: Marks the automotive UI scale factor dimension as overlayable by system, vendor, OEM and other partition policies.
+-->
+
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="NewApi,UnusedResources">
     <overlayable name="partner">
         <policy type="odm|oem|product|signature|system|vendor">

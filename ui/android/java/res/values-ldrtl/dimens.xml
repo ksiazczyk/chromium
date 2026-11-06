@@ -4,6 +4,13 @@ Copyright 2018 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: config
+title: RTL dimension resources
+summary: Defines the chrome_bullet_leading_offset dimension value used for right-to-left layouts in Chrome for Android.
+-->
+
 <resources>
     <dimen name="chrome_bullet_leading_offset">-1dp</dimen>
 </resources>

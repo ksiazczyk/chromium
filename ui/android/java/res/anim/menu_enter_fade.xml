@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Menu fade-in enter animation
+summary: Animation set that simply fades a menu in over 250 ms using the emphasized interpolator.
+-->
+
 <set xmlns:android="http://schemas.android.com/apk/res/android" android:shareInterpolator="false">
     <alpha android:interpolator="@anim/emphasized"
         android:fromAlpha="0"

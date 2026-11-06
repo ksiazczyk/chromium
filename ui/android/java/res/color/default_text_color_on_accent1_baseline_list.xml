@@ -4,6 +4,13 @@ Copyright 2021 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: source
+title: Text color on accent1 selector (baseline)
+summary: Color selector for text on accent1 with a dedicated disabled color variant.
+-->
+
 <selector xmlns:android="http://schemas.android.com/apk/res/android">
     <item android:color="@color/default_text_color_on_accent1_disabled_baseline" android:state_enabled="false" />
     <item android:color="@color/default_text_color_on_accent1_baseline"/>

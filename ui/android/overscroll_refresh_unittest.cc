@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Overscroll refresh unit tests
+// summary: Unit tests for the OverscrollRefresh pull-to-refresh and edge swipe behavior, covering scroll handling, activation status, and pull reset paths.
+// ---
+
 #include "ui/android/overscroll_refresh.h"
 
 #include "base/android/scoped_java_ref.h"

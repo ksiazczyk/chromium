@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser controls offset tag definitions JNI conversion
+// summary: Converts Java browser controls offset tag definitions and constraints into their native ui and viz counterparts.
+// ---
+
 #include "ui/android/browser_controls_offset_tag_definitions.h"
 
 #include "base/android/scoped_java_ref.h"

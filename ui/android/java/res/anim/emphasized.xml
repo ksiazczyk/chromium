@@ -3,5 +3,12 @@
      Use of this source code is governed by a BSD-style license that can be
      found in the LICENSE file. -->
 <!-- Equivalent to Interporators.Emphasized -->
+
+<!--docerion
+type: config
+title: Emphasized path interpolator
+summary: Path interpolator resource equivalent to Interpolators.Emphasized, defining the emphasized easing curve used by the menu animations.
+-->
+
 <pathInterpolator xmlns:android="http://schemas.android.com/apk/res/android"
     android:pathData="M 0,0 C 0.05, 0, 0.133333, 0.06, 0.166666, 0.4 C 0.208333, 0.82, 0.25, 1, 1, 1"/>

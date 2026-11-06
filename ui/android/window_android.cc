@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WindowAndroid implementation
+// summary: Implements WindowAndroid, the native counterpart of an Android activity window, handling compositor attachment, refresh rates, color providers, and JNI interactions.
+// ---
+
 #include "ui/android/window_android.h"
 
 #include <utility>

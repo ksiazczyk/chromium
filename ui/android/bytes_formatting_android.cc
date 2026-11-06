@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android bytes formatting JNI bridge
+// summary: JNI bridge that formats byte sizes as human-readable transfer speed strings for Android by wrapping ui/base bytes formatting.
+// ---
+
 #include "ui/base/text/bytes_formatting.h"
 
 #include <jni.h>

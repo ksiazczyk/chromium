@@ -4,6 +4,13 @@ Copyright 2019 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: config
+title: Non-adaptive semantic colors
+summary: Defines semantic icon, text and background color references that stay constant across night mode, based on the baseline palette.
+-->
+
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Semantic color references that don't change on night mode. -->
     <!-- Common icon colors for drawables. -->

@@ -4,6 +4,13 @@ Copyright 2018 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: asset
+title: Expand more to expand less animated vector icon
+summary: Animated vector drawable that morphs a black expand-more chevron into expand-less with a 250 ms path animation.
+-->
+
 <animated-vector xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:aapt="http://schemas.android.com/aapt">
 

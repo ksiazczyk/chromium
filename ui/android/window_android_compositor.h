@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WindowAndroidCompositor interface
+// summary: Defines the WindowAndroidCompositor interface abstracting compositor tasks such as frame sink management, copy output requests, refresh rate updates, and compositor locks.
+// ---
+
 #ifndef UI_ANDROID_WINDOW_ANDROID_COMPOSITOR_H_
 #define UI_ANDROID_WINDOW_ANDROID_COMPOSITOR_H_
 

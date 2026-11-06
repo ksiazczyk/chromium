@@ -4,6 +4,13 @@ Copyright 2018 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: source
+title: Default text color selector (baseline)
+summary: Color selector applying the baseline default text color with reduced alpha while disabled.
+-->
+
 <selector xmlns:android="http://schemas.android.com/apk/res/android">
     <item android:alpha="@dimen/default_disabled_alpha"
         android:color="@color/default_text_color_baseline" android:state_enabled="false"/>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ModalDialogWrapper header
+// summary: Declares ModalDialogWrapper, which maps ui::DialogModel dialogs to Android Java dialogs and defines button styles and dismissal causes.
+// ---
+
 #ifndef UI_ANDROID_MODAL_DIALOG_WRAPPER_H_
 #define UI_ANDROID_MODAL_DIALOG_WRAPPER_H_
 

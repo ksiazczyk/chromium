@@ -4,6 +4,13 @@ Copyright 2019 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: source
+title: Filled button background color selector
+summary: Color selector for the filled button background with a disabled color and a TODO for hover, focus and pressed states.
+-->
+
 <selector xmlns:android="http://schemas.android.com/apk/res/android">
     <!-- TODO(crbug.com/40680634): add filled_button_bg_hover, *_focused,
          *_pressed, once UX spec available. -->

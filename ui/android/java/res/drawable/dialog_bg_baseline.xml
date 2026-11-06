@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Baseline dialog background
+summary: Nine-patch drawable that applies the baseline dialog background color as a multiply tint over the popup background for dialogs.
+-->
+
 <nine-patch xmlns:android="http://schemas.android.com/apk/res/android"
     android:src="@drawable/popup_bg"
     android:tint="@color/dialog_bg_color_baseline"

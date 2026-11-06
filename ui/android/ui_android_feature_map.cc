@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UI Android feature map for Java
+// summary: Registers the list of native UI Android feature flags exposed to Java through the UiAndroidFeatureMap JNI API.
+// ---
+
 #include "base/android/feature_map.h"
 #include "base/feature_list.h"
 #include "base/no_destructor.h"

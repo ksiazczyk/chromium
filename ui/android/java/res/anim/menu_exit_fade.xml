@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Menu exit fade animation
+summary: Defines a 150 ms fade-out animation for closing menus, using the emphasized interpolator.
+-->
+
 <set xmlns:android="http://schemas.android.com/apk/res/android" android:shareInterpolator="false">
     <alpha android:interpolator="@anim/emphasized"
         android:fromAlpha="1"

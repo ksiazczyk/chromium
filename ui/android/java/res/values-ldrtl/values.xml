@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: RTL animation values
+summary: Defines integer and fraction resource values for right-to-left menu and expand-more animations in Chrome for Android.
+-->
+
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!--  Expand more  -->
     <integer name="expand_more_horizontal_rotation_degree"

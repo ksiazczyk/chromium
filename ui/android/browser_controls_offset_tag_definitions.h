@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser controls offset tag definitions struct
+// summary: Declares the native browser controls offset tag definitions struct and the conversion function from its Java counterpart.
+// ---
+
 #ifndef UI_ANDROID_BROWSER_CONTROLS_OFFSET_TAG_DEFINITIONS_H_
 #define UI_ANDROID_BROWSER_CONTROLS_OFFSET_TAG_DEFINITIONS_H_
 

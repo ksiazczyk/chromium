@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ModalDialogWrapper implementation
+// summary: Implements ModalDialogWrapper, which shows ui::DialogModel-based dialogs on Android by mapping them to Java PropertyModels.
+// ---
+
 #include "ui/android/modal_dialog_wrapper.h"
 
 #include <jni.h>

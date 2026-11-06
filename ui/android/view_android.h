@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ViewAndroid class header
+// summary: Declares the ViewAndroid class, a container for the Android UI layer tree that dispatches input and view events and manages delegates, observers, and layout.
+// ---
+
 #ifndef UI_ANDROID_VIEW_ANDROID_H_
 #define UI_ANDROID_VIEW_ANDROID_H_
 

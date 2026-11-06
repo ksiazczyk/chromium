@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ModalDialogWrapper unit tests
+// summary: Unit tests for ModalDialogWrapper covering buttons, checkboxes, menu items, icons, and dismissal causes.
+// ---
+
 #include "ui/android/modal_dialog_wrapper.h"
 
 #include "base/android/jni_android.h"

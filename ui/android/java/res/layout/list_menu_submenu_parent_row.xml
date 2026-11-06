@@ -4,6 +4,13 @@ Copyright 2025 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: source
+title: List menu submenu parent row layout
+summary: Android layout for a hierarchical menu row showing a title and chevron that opens a submenu.
+-->
+
 <org.chromium.ui.hierarchicalmenu.MenuItemWithSubmenuView
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"

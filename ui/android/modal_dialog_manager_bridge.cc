@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Modal dialog manager bridge
+// summary: Implements the native bridge to the Java modal dialog manager for suspending, resuming, showing and dismissing modal dialogs.
+// ---
+
 #include "ui/android/modal_dialog_manager_bridge.h"
 
 #include "base/android/jni_android.h"

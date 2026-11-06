@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser controls offset tag constraints struct
+// summary: Defines constraints for the top, content and bottom browser controls offset tags that limit their movement during scrolling and animation.
+// ---
+
 #ifndef UI_ANDROID_BROWSER_CONTROLS_OFFSET_TAG_CONSTRAINTS_H_
 #define UI_ANDROID_BROWSER_CONTROLS_OFFSET_TAG_CONSTRAINTS_H_
 

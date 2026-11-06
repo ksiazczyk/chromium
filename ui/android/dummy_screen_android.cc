@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dummy screen for Android unit tests
+// summary: Provides a standalone Screen with a single default 256x512 display for Android unit tests that do not communicate with Java.
+// ---
+
 #include "ui/android/dummy_screen_android.h"
 
 #include <optional>

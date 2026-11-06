@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WindowAndroidObserver interface
+// summary: Defines the WindowAndroidObserver interface with callbacks for visibility changes, compositor attachment, animation, unfold events, and activity state changes.
+// ---
+
 #ifndef UI_ANDROID_WINDOW_ANDROID_OBSERVER_H_
 #define UI_ANDROID_WINDOW_ANDROID_OBSERVER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test view Android delegate implementation
+// summary: Implements the native side of a test ViewAndroidDelegate that connects to a Java test delegate for viewport insetting and cursor state checks.
+// ---
+
 #include "ui/android/test_view_android_delegate.h"
 
 #include "base/android/scoped_java_ref.h"

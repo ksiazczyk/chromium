@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Java to native event forwarding implementation
+// summary: Forwards touch, mouse, drag, gesture, wheel and key events from the Java Android window to native views, including tracing of input events.
+// ---
+
 #include "ui/android/event_forwarder.h"
 
 #include "base/android/jni_array.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Event forwarder interface
+// summary: Declares the EventForwarder class and its observer interface for dispatching Android input events from Java to the native view tree.
+// ---
+
 #ifndef UI_ANDROID_EVENT_FORWARDER_H_
 #define UI_ANDROID_EVENT_FORWARDER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Selection handle resources bridge
+// summary: Declares a bridge to Java bitmap resources used for drawing text selection touch handles.
+// ---
+
 #ifndef UI_ANDROID_HANDLE_VIEW_RESOURCES_H_
 #define UI_ANDROID_HANDLE_VIEW_RESOURCES_H_
 

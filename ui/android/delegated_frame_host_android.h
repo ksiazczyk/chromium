@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android delegated frame host header
+// summary: Declares DelegatedFrameHostAndroid and its client interface for hosting compositor surfaces, frame tokens, and fullscreen resize result reporting.
+// ---
+
 #ifndef UI_ANDROID_DELEGATED_FRAME_HOST_ANDROID_H_
 #define UI_ANDROID_DELEGATED_FRAME_HOST_ANDROID_H_
 

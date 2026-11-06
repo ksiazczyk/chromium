@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android delegated frame host implementation
+// summary: Implements the Android delegated frame host that manages viz surfaces, frame submission, eviction, and fullscreen resize tracking for views.
+// ---
+
 #include "ui/android/delegated_frame_host_android.h"
 
 #include <algorithm>

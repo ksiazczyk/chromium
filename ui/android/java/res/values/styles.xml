@@ -6,6 +6,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Android UI styles for buttons and text
+summary: Defines Android styles and theme overlays for buttons, text appearances and related UI components in Chromium's shared UI library.
+-->
+
 <resources xmlns:tools="http://schemas.android.com/tools">
     <style name="DropdownPopupWindow" parent="@android:style/Widget.ListPopupWindow">
         <item name="android:popupBackground">@drawable/dialog_bg_baseline</item>

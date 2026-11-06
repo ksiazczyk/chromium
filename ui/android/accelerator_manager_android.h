@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accelerator manager Android native bridge declaration
+// summary: Declares AcceleratorManagerAndroid, the native bridge to AcceleratorManager.java for registering and dispatching accelerators.
+// ---
+
 #ifndef UI_ANDROID_ACCELERATOR_MANAGER_ANDROID_H_
 #define UI_ANDROID_ACCELERATOR_MANAGER_ANDROID_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overscroll edge glow effect implementation
+// summary: Implements the Android overscroll edge glow effect, animating glow layers through pull, absorb, recede and decay states on viewport edges.
+// ---
+
 #include "ui/android/edge_effect.h"
 
 #include "base/notreached.h"

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for ui/android
+summary: DIR_METADATA file marking the ui/android directory as targeting the Android OS.

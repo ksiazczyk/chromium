@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Android color conversion utilities
+// summary: Verifies null handling and round-trip conversion between SkColor values and Android color constants such as black, white, red, and transparent.
+// ---
+
 #include "ui/android/color_utils_android.h"
 
 #include <stdint.h>

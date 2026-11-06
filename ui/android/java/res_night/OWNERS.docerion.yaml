@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: Restricts review ownership to the layout owners file to prevent accidental additions to top-level layout files, duplicated assets, or unwanted new colors.

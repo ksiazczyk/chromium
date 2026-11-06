@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the Android UI layer
+summary: GN build rules defining the ui_android component, Java feature libraries, JNI generation and test support targets for the Android UI layer.

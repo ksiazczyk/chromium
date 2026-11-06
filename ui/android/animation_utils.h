@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Animation math helper templates
+// summary: Header-only templates for linear interpolation, clamping and damping used by Android UI animations.
+// ---
+
 #ifndef UI_ANDROID_ANIMATION_UTILS_H_
 #define UI_ANDROID_ANIMATION_UTILS_H_
 

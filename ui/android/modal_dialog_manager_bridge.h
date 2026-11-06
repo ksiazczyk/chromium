@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ModalDialogManagerBridge JNI bridge header
+// summary: JNI bridge header for Java's ModalDialogManager, defining dialog types and methods to suspend, resume, show, and dismiss modal dialogs.
+// ---
+
 #ifndef UI_ANDROID_MODAL_DIALOG_MANAGER_BRIDGE_H_
 #define UI_ANDROID_MODAL_DIALOG_MANAGER_BRIDGE_H_
 

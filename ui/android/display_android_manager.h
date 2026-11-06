@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android display manager header
+// summary: Declares DisplayAndroidManager, the ScreenBase subclass that receives display updates, removals, and primary display changes from Java.
+// ---
+
 #ifndef UI_ANDROID_DISPLAY_ANDROID_MANAGER_H_
 #define UI_ANDROID_DISPLAY_ANDROID_MANAGER_H_
 

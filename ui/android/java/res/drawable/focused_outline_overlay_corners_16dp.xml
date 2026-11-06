@@ -4,6 +4,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Focused outline overlay with 16dp corners
+summary: Transparent rectangle shape with a primary-colored stroke used to draw focus outlines with a 16dp card corner radius.
+-->
+
 <shape
   xmlns:android="http://schemas.android.com/apk/res/android"
   android:shape="rectangle">

@@ -4,6 +4,13 @@ Copyright 2023 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: asset
+title: Menu list item text color state list
+summary: Android color selector that applies a disabled-alpha text color to menu list items when disabled and the normal text color otherwise.
+-->
+
 <selector xmlns:android="http://schemas.android.com/apk/res/android">
     <item android:alpha="@dimen/default_disabled_alpha"
         android:color="@color/menu_list_item_text_color_disabled" android:state_enabled="false"/>

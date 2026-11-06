@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OverscrollGlow implementation
+// summary: Implements OverscrollGlow, which renders Android-style edge glow effects when content is overscrolled.
+// ---
+
 #include "ui/android/overscroll_glow.h"
 
 #include <stddef.h>

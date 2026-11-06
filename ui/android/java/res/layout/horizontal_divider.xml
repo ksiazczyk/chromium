@@ -5,6 +5,12 @@
      found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Horizontal divider layout
+summary: Android layout defining a reusable horizontal divider view that is ignored for accessibility.
+-->
+
 <View
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/divider_view"
