@@ -1,0 +1,4 @@
+# Docerion header of legend-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for the legend test
+summary: Expected MSAA/IA2 accessibility tree dump of the legend test page on Windows.

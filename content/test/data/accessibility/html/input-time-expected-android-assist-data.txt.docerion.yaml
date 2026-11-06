@@ -1,0 +1,4 @@
+# Docerion header of input-time-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for time input accessibility
+summary: Expected Android assist data for time input accessibility tests, describing spinner and text view nodes for default and labelled time pickers.

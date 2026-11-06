@@ -1,0 +1,4 @@
+# Docerion header of landmark-expected-fuchsia.txt.
+type: test
+title: Expected Fuchsia accessibility tree for landmark test
+summary: Expected Fuchsia semantic tree dump for the landmark test page, listing landmark roles and static text labels.

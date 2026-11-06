@@ -1,0 +1,4 @@
+# Docerion header of link-target-expected-auralinux.txt.
+type: test
+title: Expected Auralinux accessibility tree for link target
+summary: Expected Auralinux accessibility tree for the link-target test page, covering links with self, parent, top and iframe targets.

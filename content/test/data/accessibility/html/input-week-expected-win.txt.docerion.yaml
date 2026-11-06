@@ -1,0 +1,4 @@
+# Docerion header of input-week-expected-win.txt.
+type: test
+title: Expected Windows IA2 accessibility tree for input-week
+summary: Expected Windows IA2 accessibility tree for the input-week test, with a date editor, spin buttons and a menu button.

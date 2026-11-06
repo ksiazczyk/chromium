@@ -1,0 +1,4 @@
+# Docerion header of input-week-expected-mac.txt.
+type: test
+title: Expected macOS accessibility tree for input-week
+summary: Expected macOS accessibility tree for the input-week test, with a date field, steppers and pop-up button for the week picker.

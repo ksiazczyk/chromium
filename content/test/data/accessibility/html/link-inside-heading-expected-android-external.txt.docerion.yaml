@@ -1,0 +1,4 @@
+# Docerion header of link-inside-heading-expected-android-external.txt.
+type: test
+title: Expected Android external tree for link inside heading test
+summary: Expected Android external accessibility tree for the link-inside-heading HTML test with detailed node actions, roles and bundle data.

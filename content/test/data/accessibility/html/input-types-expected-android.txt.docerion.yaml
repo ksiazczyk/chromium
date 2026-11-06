@@ -1,0 +1,4 @@
+# Docerion header of input-types-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for input types
+summary: Expected Android accessibility tree dump for the input types test, describing roles, hints and input types for the full set of HTML input elements.

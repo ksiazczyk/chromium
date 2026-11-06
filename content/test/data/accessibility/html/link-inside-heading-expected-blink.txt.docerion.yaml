@@ -1,0 +1,4 @@
+# Docerion header of link-inside-heading-expected-blink.txt.
+type: test
+title: Expected Blink tree for link inside heading test
+summary: Expected Blink accessibility tree for the link-inside-heading HTML test showing a heading containing a link and static text.

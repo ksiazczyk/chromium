@@ -1,0 +1,4 @@
+# Docerion header of label-updates-expected-blink.txt.
+type: test
+title: Blink expected tree for label-updates test
+summary: Expected Blink accessibility tree snapshot for the label-updates test showing text fields and invisible labels.

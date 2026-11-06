@@ -1,0 +1,4 @@
+# Docerion header of layout-table-in-button-expected-fuchsia.txt.
+type: test
+title: Layout table in button test expectations for Fuchsia
+summary: Expected Fuchsia accessibility tree for the layout table in button test, showing a button containing a layout table with a conversation label.

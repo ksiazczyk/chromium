@@ -1,0 +1,4 @@
+# Docerion header of input-url-expected-fuchsia.txt.
+type: test
+title: Input URL expected Fuchsia
+summary: Expected Fuchsia accessibility tree snapshot for the URL input test, describing a text field with value example.com.

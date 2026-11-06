@@ -1,0 +1,4 @@
+# Docerion header of input-time-with-popup-open-expected-fuchsia.txt.
+type: test
+title: Expected Fuchsia accessibility tree for input time with popup open
+summary: Expected Fuchsia accessibility tree dump for the time input test with the picker popup open, listing focused value fields and picker list entries.

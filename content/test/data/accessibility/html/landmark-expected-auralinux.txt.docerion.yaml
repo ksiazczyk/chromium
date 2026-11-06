@@ -1,0 +1,4 @@
+# Docerion header of landmark-expected-auralinux.txt.
+type: test
+title: Expected Linux accessibility tree for landmark test
+summary: Expected Linux AT-SPI accessibility tree dump for the landmark test page, including landmark roles such as banner, main and navigation.

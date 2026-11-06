@@ -1,0 +1,4 @@
+# Docerion header of label-expected-blink.txt.
+type: test
+title: Blink expected accessibility tree for label test
+summary: Expected Blink accessibility tree snapshot for the label test, showing a label with static text 'Label'.

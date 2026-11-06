@@ -1,0 +1,4 @@
+# Docerion header of list-item-aria-setsize-unknown-flattened-expected-win.txt.
+type: test
+title: Expected Windows accessibility output for list item aria-setsize unknown test
+summary: Expected Windows MSAA accessibility output for a test page where list items have unknown aria-setsize, showing list and list item roles with group positions.

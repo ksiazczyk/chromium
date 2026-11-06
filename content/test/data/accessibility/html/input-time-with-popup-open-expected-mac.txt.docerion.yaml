@@ -1,0 +1,4 @@
+# Docerion header of input-time-with-popup-open-expected-mac.txt.
+type: test
+title: Expected macOS accessibility tree for input time with popup open
+summary: Expected macOS accessibility tree dump for the time input test with the picker popup open, using AXTimeField, steppers, a pop-up button and picker lists.

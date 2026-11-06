@@ -1,0 +1,4 @@
+# Docerion header of input-types-with-value-expected-android-external.txt.
+type: test
+title: Expected Android external output for input types with value
+summary: Expected Android external-formatted accessibility snapshot of the input types with value page, including textareas and contenteditable regions.

@@ -1,0 +1,4 @@
+# Docerion header of landmark-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for landmark test
+summary: Expected Android view hierarchy dump for the landmark HTML accessibility test, showing roles and names of landmark elements.

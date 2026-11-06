@@ -1,0 +1,4 @@
+# Docerion header of input-url-expected-uia-win.txt.
+type: test
+title: Input URL expected UIA Windows
+summary: Expected UIA Windows accessibility tree snapshot for the URL input test, describing an Edit control with value example.com.

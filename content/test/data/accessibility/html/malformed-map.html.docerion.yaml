@@ -1,0 +1,4 @@
+# Docerion header of malformed-map.html.
+type: test
+title: Malformed map element accessibility test page
+summary: HTML test page with a malformed map containing a button and code element, referenced by an image usemap.

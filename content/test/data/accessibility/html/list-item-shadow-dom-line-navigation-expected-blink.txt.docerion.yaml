@@ -1,0 +1,4 @@
+# Docerion header of list-item-shadow-dom-line-navigation-expected-blink.txt.
+type: test
+title: Expected Blink tree for shadow DOM line navigation test
+summary: Expected Blink accessibility tree snapshot for the shadow DOM line navigation test, showing nextOnLine and previousOnLine links between list item contents.

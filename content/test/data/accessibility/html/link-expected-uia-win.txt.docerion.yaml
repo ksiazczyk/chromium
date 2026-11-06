@@ -1,0 +1,4 @@
+# Docerion header of link-expected-uia-win.txt.
+type: test
+title: Expected UIA Win tree for link test
+summary: Expected UIA Windows accessibility tree for the link HTML test, containing only a skip marker because the case is not mapped.

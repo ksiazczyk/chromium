@@ -1,0 +1,4 @@
+# Docerion header of list-item-aria-setsize-unknown-flattened-expected-android-external.txt.
+type: test
+title: Expected Android external output for list item aria-setsize unknown test
+summary: Expected Android external accessibility output for a test page where list items have unknown aria-setsize, showing flattened lists and item positions.

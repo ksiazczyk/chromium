@@ -1,0 +1,4 @@
+# Docerion header of input-time-expected-win.txt.
+type: test
+title: Expected Windows IAccessible2 tree for input time
+summary: Expected IAccessible2/MSAA tree snapshot for the HTML time input test page on Windows, with spin buttons, static text and menu buttons.

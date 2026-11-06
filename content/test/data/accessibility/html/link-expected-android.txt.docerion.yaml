@@ -1,0 +1,4 @@
+# Docerion header of link-expected-android.txt.
+type: test
+title: Expected Android output for the link test
+summary: Expected accessibility output for the link HTML test on Android, containing only a marker that the page is skipped and not mapped.

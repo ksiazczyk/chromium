@@ -1,0 +1,4 @@
+# Docerion header of input-types-with-value-and-placeholder-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for input types with value and placeholder
+summary: Expected Blink accessibility tree dump for the input types with value and placeholder page, showing field roles, values and placeholders.

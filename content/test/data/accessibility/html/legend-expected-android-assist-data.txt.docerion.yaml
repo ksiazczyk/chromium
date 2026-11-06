@@ -1,0 +1,4 @@
+# Docerion header of legend-expected-android-assist-data.txt.
+type: test
+title: Legend test expectations for Android assist data
+summary: Expected Android assist data accessibility tree for the legend test, showing a form with a fieldset, legend and two text inputs.

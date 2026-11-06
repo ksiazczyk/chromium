@@ -1,0 +1,4 @@
+# Docerion header of input-time-with-popup-open-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for input time with popup open
+summary: Expected Blink accessibility tree dump for the time input test with the picker popup open, including spin buttons, the show picker button and picker list options.

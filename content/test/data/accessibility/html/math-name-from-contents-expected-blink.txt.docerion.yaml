@@ -1,0 +1,4 @@
+# Docerion header of math-name-from-contents-expected-blink.txt.
+type: test
+title: Math name from contents expected Blink accessibility tree
+summary: Expected Blink accessibility tree for the math name-from-contents test page, showing computed names of the radio and math nodes.

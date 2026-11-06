@@ -1,0 +1,4 @@
+# Docerion header of input-time-expected-android-external.txt.
+type: test
+title: Expected Android external accessibility tree for time input
+summary: Expected Android external accessibility tree for time input tests, describing time picker and editable text nodes with actions and roles.

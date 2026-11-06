@@ -1,0 +1,4 @@
+# Docerion header of list-expected-mac.txt.
+type: test
+title: Expected macOS accessibility tree for list test
+summary: Expected macOS accessibility tree snapshot for the list test page, capturing AXList groups, list markers and static text for the tic, tac and toe items.

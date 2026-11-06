@@ -1,0 +1,4 @@
+# Docerion header of legend-expected-uia-win.txt.
+type: test
+title: Expected UIA Windows accessibility tree for the legend test
+summary: Expected UI Automation accessibility tree dump of the legend test page on Windows.

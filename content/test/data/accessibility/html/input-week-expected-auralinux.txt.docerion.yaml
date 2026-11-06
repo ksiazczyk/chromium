@@ -1,0 +1,4 @@
+# Docerion header of input-week-expected-auralinux.txt.
+type: test
+title: Expected Aura Linux accessibility tree for input-week
+summary: Expected Aura Linux accessibility tree for the input-week test, including the date editor, spin buttons and the week picker button.

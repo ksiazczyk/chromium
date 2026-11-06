@@ -1,0 +1,4 @@
+# Docerion header of ins-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for ins test
+summary: Expected Windows accessibility tree for the ins element test with IA2 content deletion and insertion roles and datetime.

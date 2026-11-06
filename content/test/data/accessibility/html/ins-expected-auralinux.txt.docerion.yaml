@@ -1,0 +1,4 @@
+# Docerion header of ins-expected-auralinux.txt.
+type: test
+title: Expected AuraLinux accessibility tree for ins test
+summary: Expected AuraLinux accessibility tree for the ins element test including content deletion and insertion with datetime.

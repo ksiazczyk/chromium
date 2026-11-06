@@ -1,0 +1,4 @@
+# Docerion header of input-types-with-placeholder-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for input types with placeholders
+summary: Expected Android accessibility tree for the input-types-with-placeholder test, listing EditText widgets with hints for common input types.

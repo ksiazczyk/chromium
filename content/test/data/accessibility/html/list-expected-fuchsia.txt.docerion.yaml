@@ -1,0 +1,4 @@
+# Docerion header of list-expected-fuchsia.txt.
+type: test
+title: Expected Fuchsia accessibility tree for list test
+summary: Expected Fuchsia accessibility tree snapshot for the list test page, capturing list elements, markers and labels for bulleted and plain lists.

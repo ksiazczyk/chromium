@@ -1,0 +1,4 @@
+# Docerion header of input-url-expected-win.txt.
+type: test
+title: Input URL expected Windows
+summary: Expected Windows IA2 accessibility tree snapshot for the URL input test, including the invalid-entry state and url input type.

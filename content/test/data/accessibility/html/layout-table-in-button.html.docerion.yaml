@@ -1,0 +1,4 @@
+# Docerion header of layout-table-in-button.html.
+type: test
+title: Layout table in button HTML test page
+summary: HTML test page with a button role element containing a CSS layout table and an aria-label, used to verify layout table accessibility behavior.

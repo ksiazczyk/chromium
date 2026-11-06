@@ -1,0 +1,4 @@
+# Docerion header of input-time-expected-uia-win.txt.
+type: test
+title: Expected UIA Windows accessibility tree for input time
+summary: Expected UI Automation tree snapshot for the HTML time input test page on Windows, with spinners, text and expand-collapse buttons.

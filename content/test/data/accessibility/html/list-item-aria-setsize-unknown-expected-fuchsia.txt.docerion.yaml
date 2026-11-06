@@ -1,0 +1,4 @@
+# Docerion header of list-item-aria-setsize-unknown-expected-fuchsia.txt.
+type: test
+title: Expected Fuchsia accessibility tree for list item aria-setsize unknown test
+summary: Expected Fuchsia accessibility tree output for the list item aria-setsize unknown test, showing list elements and static text labels with unknown set sizes.

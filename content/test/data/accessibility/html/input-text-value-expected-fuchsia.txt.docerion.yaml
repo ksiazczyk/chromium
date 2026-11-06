@@ -1,0 +1,4 @@
+# Docerion header of input-text-value-expected-fuchsia.txt.
+type: test
+title: Expected Fuchsia accessibility tree for input text value
+summary: Expected Fuchsia accessibility output for the input-text-value page, listing text fields with labels, values and set-value actions.

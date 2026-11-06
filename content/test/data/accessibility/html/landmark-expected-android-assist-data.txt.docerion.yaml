@@ -1,0 +1,4 @@
+# Docerion header of landmark-expected-android-assist-data.txt.
+type: test
+title: Empty expected Android assist data for landmark test
+summary: Empty expected-output file for the Android assist data variant of the landmark accessibility test.

@@ -1,0 +1,4 @@
+# Docerion header of legend-expected-mac.txt.
+type: test
+title: Expected macOS accessibility tree for the legend test
+summary: Expected macOS AX API accessibility tree dump of the legend test page, including the fieldset group and text fields.

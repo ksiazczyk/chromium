@@ -1,0 +1,4 @@
+# Docerion header of input-week-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for input-week
+summary: Expected Blink accessibility tree for the input-week test, covering static text, spin buttons and the week picker pop-up button.

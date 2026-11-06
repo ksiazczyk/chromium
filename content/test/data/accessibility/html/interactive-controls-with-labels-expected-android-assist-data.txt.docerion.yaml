@@ -1,0 +1,4 @@
+# Docerion header of interactive-controls-with-labels-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for interactive controls with labels
+summary: Expected Android assist data output for the interactive controls with labels test, covering labels, textboxes, buttons, comboboxes and listboxes.

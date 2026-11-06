@@ -1,0 +1,4 @@
+# Docerion header of list-expected-auralinux.txt.
+type: test
+title: Expected accessibility tree for list test on Linux
+summary: Expected accessibility tree snapshot for the list test page on Linux, describing bulleted and plain lists with the items tic, tac and toe.

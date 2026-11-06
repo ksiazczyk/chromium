@@ -1,0 +1,4 @@
+# Docerion header of map-any-contents-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for map any contents test
+summary: Expected Android accessibility tree for the map any-contents test page.

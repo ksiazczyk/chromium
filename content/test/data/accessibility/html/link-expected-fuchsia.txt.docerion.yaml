@@ -1,0 +1,4 @@
+# Docerion header of link-expected-fuchsia.txt.
+type: test
+title: Expected Fuchsia accessibility tree for the link test
+summary: Expected accessibility tree snapshot for the link HTML test on Fuchsia, showing a focusable document with hidden child containers.

@@ -1,0 +1,4 @@
+# Docerion header of input-text-value-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for input text value
+summary: Expected Android accessibility tree for the input-text-value page, covering editable text fields with hints, values, tooltips and change counts.

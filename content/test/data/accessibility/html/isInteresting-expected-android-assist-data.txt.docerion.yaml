@@ -1,0 +1,4 @@
+# Docerion header of isInteresting-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for the isInteresting test
+summary: Expected Android assist data accessibility tree for the isInteresting test page, listing which nodes are exposed as interesting.

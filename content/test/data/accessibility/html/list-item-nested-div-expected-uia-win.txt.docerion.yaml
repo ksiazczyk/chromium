@@ -1,0 +1,4 @@
+# Docerion header of list-item-nested-div-expected-uia-win.txt.
+type: test
+title: Expected UIA Win tree for nested div list item test
+summary: Expected UIA Windows accessibility tree snapshot for the nested div list item test, including IsControlElement properties.

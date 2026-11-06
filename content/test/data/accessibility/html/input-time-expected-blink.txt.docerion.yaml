@@ -1,0 +1,4 @@
+# Docerion header of input-time-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for input time
+summary: Expected Blink internal accessibility tree snapshot for the HTML time input test page, including spin buttons and time picker pop-up buttons.

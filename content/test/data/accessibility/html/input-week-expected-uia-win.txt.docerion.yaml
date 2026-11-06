@@ -1,0 +1,4 @@
+# Docerion header of input-week-expected-uia-win.txt.
+type: test
+title: Expected Windows UIA accessibility tree for input-week
+summary: Expected Windows UIA accessibility tree for the input-week test, with an edit control, spinners and an expand-collapse button.

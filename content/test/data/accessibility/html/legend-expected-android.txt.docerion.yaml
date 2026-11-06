@@ -1,0 +1,4 @@
+# Docerion header of legend-expected-android.txt.
+type: test
+title: Legend test expectations for Android
+summary: Expected Android accessibility tree for the legend test, showing a form with a fieldset legend and two editable text inputs.

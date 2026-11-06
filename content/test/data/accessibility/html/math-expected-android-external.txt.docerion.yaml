@@ -1,0 +1,4 @@
+# Docerion header of math-expected-android-external.txt.
+type: test
+title: math expected Android external accessibility tree
+summary: Expected Android external accessibility tree snapshot for the MathML test page with MathML roles such as mathMLSup and mathMLOperator.

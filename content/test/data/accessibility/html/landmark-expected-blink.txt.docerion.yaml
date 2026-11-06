@@ -1,0 +1,4 @@
+# Docerion header of landmark-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for landmark test
+summary: Expected Blink internal accessibility tree dump for the landmark test page, covering header, footer, main, navigation and ARIA landmarks.

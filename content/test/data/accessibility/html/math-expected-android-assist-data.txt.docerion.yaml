@@ -1,0 +1,4 @@
+# Docerion header of math-expected-android-assist-data.txt.
+type: test
+title: math expected Android assist data
+summary: Expected Android assist data snapshot for the MathML test page, describing views for math elements such as msup, mi, mn and mo.

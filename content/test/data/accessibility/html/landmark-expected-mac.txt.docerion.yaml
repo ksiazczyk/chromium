@@ -1,0 +1,4 @@
+# Docerion header of landmark-expected-mac.txt.
+type: test
+title: Expected macOS accessibility tree for landmark test
+summary: Expected macOS accessibility tree dump for the landmark test page, with AX subroles for banner, complementary, main, navigation and search landmarks.

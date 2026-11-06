@@ -1,0 +1,4 @@
+# Docerion header of legend-expected-fuchsia.txt.
+type: test
+title: Expected Fuchsia accessibility tree for the legend test
+summary: Expected accessibility tree dump of the legend test page as produced on Fuchsia.

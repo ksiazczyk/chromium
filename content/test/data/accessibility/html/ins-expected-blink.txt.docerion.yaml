@@ -1,0 +1,4 @@
+# Docerion header of ins-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for ins test
+summary: Expected Blink accessibility tree for the ins element test with content deletion and insertion nodes and inline text boxes.

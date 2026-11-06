@@ -1,0 +1,4 @@
+# Docerion header of input-time-with-popup-open-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data with time picker popup open
+summary: Expected Android assist data snapshot for the time input page while its picker popup is open, showing the WebView, View and Spinner hierarchy.

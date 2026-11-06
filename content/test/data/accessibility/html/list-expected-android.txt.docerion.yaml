@@ -1,0 +1,4 @@
+# Docerion header of list-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for list
+summary: Expected Android accessibility tree snapshot for the list test page, covering block and inline unordered lists with items and bullet markers.

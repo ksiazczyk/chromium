@@ -1,0 +1,4 @@
+# Docerion header of list-item-nested-div-expected-blink.txt.
+type: test
+title: Expected Blink tree for nested div list item test
+summary: Expected Blink accessibility tree snapshot for the nested div list item test, covering list markers, buttons and links inside list items.

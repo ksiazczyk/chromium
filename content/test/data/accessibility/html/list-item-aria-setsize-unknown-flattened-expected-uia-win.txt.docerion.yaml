@@ -1,0 +1,4 @@
+# Docerion header of list-item-aria-setsize-unknown-flattened-expected-uia-win.txt.
+type: test
+title: Expected UIA Win output for list item aria-setsize unknown flattened test
+summary: Expected Windows UIA accessibility output for a test page where list items have unknown aria-setsize, showing PositionInSet, SizeOfSet and Level values.

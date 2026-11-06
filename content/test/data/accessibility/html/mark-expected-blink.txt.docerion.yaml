@@ -1,0 +1,4 @@
+# Docerion header of mark-expected-blink.txt.
+type: test
+title: mark expected Blink accessibility tree
+summary: Expected Blink accessibility tree snapshot for the mark element test page, including static text and mark nodes.

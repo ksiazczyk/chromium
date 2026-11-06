@@ -1,0 +1,4 @@
+# Docerion header of mark-expected-auralinux.txt.
+type: test
+title: mark expected Linux accessibility tree
+summary: Expected Linux AT-SPI accessibility tree snapshot for the mark element test page with document, paragraph and static text nodes.

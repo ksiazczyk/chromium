@@ -1,0 +1,4 @@
+# Docerion header of input-week-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for input-week
+summary: Expected Android accessibility tree for the input-week test, showing the week picker spinner role and input type.

@@ -1,0 +1,4 @@
+# Docerion header of list-marker-styles-expected-blink.txt.
+type: test
+title: Blink expected accessibility tree for list marker styles test
+summary: Expected Blink accessibility tree snapshot covering list markers for many list-style-type values and ::marker content variants.

@@ -1,0 +1,4 @@
+# Docerion header of li-expected-auralinux.txt.
+type: test
+title: Expected Linux accessibility tree for the list item test
+summary: Expected Linux (ATK/AT-SPI) accessibility tree dump for the list item test page with a list of three items.

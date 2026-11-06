@@ -1,0 +1,4 @@
+# Docerion header of list-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for list test
+summary: Expected Windows accessibility tree snapshot for the list test page, capturing MSAA list and list item roles for bulleted and plain lists.

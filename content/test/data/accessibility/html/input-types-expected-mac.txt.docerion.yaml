@@ -1,0 +1,4 @@
+# Docerion header of input-types-expected-mac.txt.
+type: test
+title: Expected accessibility tree for input types on macOS
+summary: Expected macOS accessibility tree dump for the input-types test, mapping each input to AX roles such as text fields, buttons, incrementors and pop-up buttons.

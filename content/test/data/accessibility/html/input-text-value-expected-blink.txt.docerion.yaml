@@ -1,0 +1,4 @@
+# Docerion header of input-text-value-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for input text value
+summary: Expected Blink accessibility tree for the input-text-value page, including text fields, static text, values and description sources.

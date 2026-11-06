@@ -1,0 +1,4 @@
+# Docerion header of math-expected-mac.txt.
+type: test
+title: Math expected accessibility tree for macOS
+summary: Expected macOS accessibility tree for the MathML math test page, including AXMath subroles for identifiers, numbers and operators.

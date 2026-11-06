@@ -1,0 +1,4 @@
+# Docerion header of interactive-controls-with-labels-expected-auralinux.txt.
+type: test
+title: Expected auralinux accessibility tree for interactive controls with labels
+summary: Expected Linux accessibility tree for the interactive controls with labels test page, covering labels, textboxes, buttons, comboboxes, listboxes, time and color inputs.

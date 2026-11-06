@@ -1,0 +1,4 @@
+# Docerion header of main-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for main element test
+summary: Expected Windows accessibility tree for the main element and ARIA role main test page.

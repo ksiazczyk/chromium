@@ -1,0 +1,4 @@
+# Docerion header of input-url-expected-android-assist-data.txt.
+type: test
+title: Input URL expected Android assist data
+summary: Expected Android assist-data accessibility tree snapshot for the URL input test page, describing the EditText with value example.com.

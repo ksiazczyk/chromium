@@ -1,0 +1,4 @@
+# Docerion header of label-expected-uia-win.txt.
+type: test
+title: UIA Windows expected accessibility tree for label test
+summary: Expected UIA Windows accessibility tree snapshot for the label test with a Text element named 'Label'.

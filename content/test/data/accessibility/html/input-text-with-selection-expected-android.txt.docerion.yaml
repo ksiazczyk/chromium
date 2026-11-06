@@ -1,0 +1,4 @@
+# Docerion header of input-text-with-selection-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for text input with selection
+summary: Expected Android accessibility tree snapshot for a text input with a selection range set, listing the WebView and EditText nodes with selection properties.

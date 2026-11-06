@@ -1,0 +1,4 @@
+# Docerion header of list-text-removal-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for list text removal
+summary: Expected Blink accessibility tree snapshot after dollar signs are converted back to whitespace, showing a single list item with hierarchical level.

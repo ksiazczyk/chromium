@@ -1,0 +1,4 @@
+# Docerion header of list-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for list
+summary: Expected Android assist data snapshot for the list test page, describing block and inline unordered lists with items and bullet markers.

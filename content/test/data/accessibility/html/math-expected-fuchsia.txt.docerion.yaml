@@ -1,0 +1,4 @@
+# Docerion header of math-expected-fuchsia.txt.
+type: test
+title: Math expected accessibility tree for Fuchsia
+summary: Expected Fuchsia accessibility tree for the MathML math test page, with static text labels for the equation parts.

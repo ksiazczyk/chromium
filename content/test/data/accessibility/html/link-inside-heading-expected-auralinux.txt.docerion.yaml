@@ -1,0 +1,4 @@
+# Docerion header of link-inside-heading-expected-auralinux.txt.
+type: test
+title: Expected AuraLinux tree for link inside heading test
+summary: Expected AuraLinux accessibility tree for the link-inside-heading HTML test showing a heading containing a link.

@@ -1,0 +1,4 @@
+# Docerion header of link-inside-heading-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for link inside heading test
+summary: Expected Android assist data accessibility tree for the link-inside-heading HTML test, describing a heading containing a link with its text.

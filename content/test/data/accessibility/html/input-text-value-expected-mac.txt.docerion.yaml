@@ -1,0 +1,4 @@
+# Docerion header of input-text-value-expected-mac.txt.
+type: test
+title: Expected macOS accessibility tree for input text value
+summary: Expected macOS accessibility output for the input-text-value page, covering AXTextField and AXTextArea nodes with titles, descriptions and values.

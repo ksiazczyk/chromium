@@ -1,0 +1,4 @@
+# Docerion header of list-item-aria-setsize-unknown-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for list item aria-setsize test
+summary: Expected Android assist data snapshot for the list-item-aria-setsize-unknown test page, capturing aria-posinset and aria-setsize values on nested lists.

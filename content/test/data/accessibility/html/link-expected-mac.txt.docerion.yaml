@@ -1,0 +1,4 @@
+# Docerion header of link-expected-mac.txt.
+type: test
+title: Expected macOS output for the link test
+summary: Expected accessibility output for the link HTML test on macOS, containing only a marker that the page is skipped and not mapped.

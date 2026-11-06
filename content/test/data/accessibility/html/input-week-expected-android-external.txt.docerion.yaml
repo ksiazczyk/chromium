@@ -1,0 +1,4 @@
+# Docerion header of input-week-expected-android-external.txt.
+type: test
+title: Expected Android external accessibility tree for input-week
+summary: Expected Android external accessibility output for the input-week test, listing focusable and clickable roles for the week picker input.

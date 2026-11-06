@@ -1,0 +1,4 @@
+# Docerion header of label-expected-auralinux.txt.
+type: test
+title: Expected Aura Linux output for the label test
+summary: Expected Aura Linux accessibility tree for the label test page, showing the label section with static text 'Label'.

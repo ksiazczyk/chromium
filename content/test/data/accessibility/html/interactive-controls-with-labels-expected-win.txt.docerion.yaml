@@ -1,0 +1,4 @@
+# Docerion header of interactive-controls-with-labels-expected-win.txt.
+type: test
+title: Expected Win accessibility tree for interactive controls with labels
+summary: Expected Windows IAccessible2 accessibility tree for the interactive controls with labels test page, covering text, push buttons, combo boxes, lists, spin buttons and color choosers.

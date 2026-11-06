@@ -1,0 +1,4 @@
+# Docerion header of landmark-expected-uia-win.txt.
+type: test
+title: Landmark test expectations for UIA on Windows
+summary: Expected UIA accessibility tree for the landmark HTML test, listing landmark and non-landmark roles for header, footer, aside and ARIA landmark elements on Windows.

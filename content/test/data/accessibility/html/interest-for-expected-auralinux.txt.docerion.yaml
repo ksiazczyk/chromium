@@ -1,0 +1,4 @@
+# Docerion header of interest-for-expected-auralinux.txt.
+type: test
+title: Expected auralinux accessibility tree for interest-for test
+summary: Expected Linux accessibility tree for the interest-for test page, showing tooltips, buttons and panels with interest-for details relationships.

@@ -1,0 +1,4 @@
+# Docerion header of input-time-expected-mac.txt.
+type: test
+title: Expected macOS accessibility tree for input time
+summary: Expected macOS AX accessibility tree snapshot for the HTML time input test page, with time fields, steppers and pop-up buttons.

@@ -1,0 +1,4 @@
+# Docerion header of landmark-expected-android-external.txt.
+type: test
+title: Expected Android external accessibility tree for landmark test
+summary: Expected accessibility snapshot of the landmark test page as exposed through Android's external accessibility representation.

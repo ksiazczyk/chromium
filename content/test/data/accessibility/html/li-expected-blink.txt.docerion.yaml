@@ -1,0 +1,4 @@
+# Docerion header of li-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for the li test
+summary: Expected accessibility tree snapshot for the li HTML test on Blink, describing a three-item list whose first item has a custom name.

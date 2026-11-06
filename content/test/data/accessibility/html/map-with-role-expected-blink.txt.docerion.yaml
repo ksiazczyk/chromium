@@ -1,0 +1,4 @@
+# Docerion header of map-with-role-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for map-with-role
+summary: Expected Blink accessibility tree dump for the map-with-role test, showing the resulting tree after a role and label are set on a map.

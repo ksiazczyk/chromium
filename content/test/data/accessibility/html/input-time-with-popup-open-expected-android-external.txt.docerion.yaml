@@ -1,0 +1,4 @@
+# Docerion header of input-time-with-popup-open-expected-android-external.txt.
+type: test
+title: Expected external Android tree with time picker popup open
+summary: Expected external Android accessibility snapshot for the time input page with its popup open, listing WebView, View and TimePicker actions.

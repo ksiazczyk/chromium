@@ -1,0 +1,4 @@
+# Docerion header of input-types-for-win-expected-uia-win.txt.
+type: test
+title: Expected UIA accessibility tree for the Windows input types test
+summary: Expected UI Automation tree dump for the Windows input-types test, describing edits, buttons, spinners and expand-collapse states via UIA properties.

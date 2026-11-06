@@ -1,0 +1,4 @@
+# Docerion header of input-types-with-placeholder-expected-android-external.txt.
+type: test
+title: Expected external Android accessibility tree for input types with placeholders
+summary: Expected external-format Android accessibility tree for the input-types-with-placeholder test, showing hints and actions for email, number, password, search, tel, text and url fields.

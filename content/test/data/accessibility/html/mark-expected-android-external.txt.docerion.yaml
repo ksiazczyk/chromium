@@ -1,0 +1,4 @@
+# Docerion header of mark-expected-android-external.txt.
+type: test
+title: Expected Android external accessibility output for the mark tag
+summary: Expected Android external accessibility tree dump for a page using the mark element, including the highlight role description.

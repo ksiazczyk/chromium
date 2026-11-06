@@ -1,0 +1,4 @@
+# Docerion header of ins-expected-android-external.txt.
+type: test
+title: Expected Android external output for ins accessibility test
+summary: Expected Android external accessibility output for the ins element test showing content deletion and insertion roles.

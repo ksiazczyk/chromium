@@ -1,0 +1,4 @@
+# Docerion header of link-inside-heading-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for link inside heading
+summary: Expected Windows accessibility tree snapshot for the link-inside-heading test page, showing a link nested within a heading.

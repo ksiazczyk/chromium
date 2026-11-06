@@ -1,0 +1,4 @@
+# Docerion header of interactive-controls-with-labels-expected-mac.txt.
+type: test
+title: Expected Mac accessibility tree for interactive controls with labels
+summary: Expected macOS accessibility tree for the interactive controls with labels test page, covering text fields, buttons, combo boxes, time fields and color wells.
