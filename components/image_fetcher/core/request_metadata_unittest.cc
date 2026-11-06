@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RequestMetadata unit tests
+// summary: Unit tests verifying the equality and inequality operators of the RequestMetadata struct across its fields.
+// ---
+
 #include "components/image_fetcher/core/request_metadata.h"
 
 #include "base/memory/ref_counted.h"

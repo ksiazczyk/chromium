@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RenderWidgetTargeter class and delegate interface
+// summary: Declares the RenderWidgetTargeter class, its result struct, and the delegate interface for synchronously finding targets, dispatching events, and hit-test related callbacks.
+// ---
+
 #ifndef COMPONENTS_INPUT_RENDER_WIDGET_TARGETER_H_
 #define COMPONENTS_INPUT_RENDER_WIDGET_TARGETER_H_
 

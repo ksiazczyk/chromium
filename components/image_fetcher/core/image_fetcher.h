@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImageFetcherParams options class
+// summary: Declares ImageFetcherParams, encapsulating fetch options like traffic annotation, download size limit, frame size, cache behavior, and data decoder.
+// ---
+
 #ifndef COMPONENTS_IMAGE_FETCHER_CORE_IMAGE_FETCHER_H_
 #define COMPONENTS_IMAGE_FETCHER_CORE_IMAGE_FETCHER_H_
 

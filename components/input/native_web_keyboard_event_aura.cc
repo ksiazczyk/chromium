@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NativeWebKeyboardEvent Aura implementation
+// summary: Implements the Aura variant of NativeWebKeyboardEvent, cloning native events and translating web keyboard events into ui::KeyEvent instances with matching event flags.
+// ---
+
 #include "components/input/native_web_keyboard_event.h"
 
 #include "ui/events/base_event_utils.h"

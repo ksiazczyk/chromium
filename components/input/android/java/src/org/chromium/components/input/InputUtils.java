@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InputUtils Java utility for input support checks
+// summary: Utility class that caches and reports whether transferring input to Viz is supported and lets native code trigger Java garbage collection via JNI.
+// ---
+
 package org.chromium.components.input;
 
 import org.jni_zero.CalledByNative;

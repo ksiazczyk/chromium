@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RequestMetadata
+// summary: Holds request metadata such as MIME type, HTTP response code, network error code, and content location header, mirroring the C++ RequestMetadata.
+// ---
+
 package org.chromium.components.image_fetcher;
 
 import org.jni_zero.JNINamespace;

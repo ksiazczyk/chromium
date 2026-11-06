@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Image Fetcher GN build targets
+summary: Defines the GN build targets for the Image Fetcher component, including Java libraries, JNI headers, native Android sources, and JUnit tests.

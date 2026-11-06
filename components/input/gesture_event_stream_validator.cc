@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GestureEventStreamValidator implementation
+// summary: Implements validation of WebGestureEvent streams, reporting errors for out-of-order scroll, pinch, fling, and tap events.
+// ---
+
 #include "components/input/gesture_event_stream_validator.h"
 
 #include "base/check.h"

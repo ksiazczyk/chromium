@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the image cache
+// summary: Unit tests covering ImageCache initialization, save, load, delete and eviction behavior using FakeDB, a testing pref service and a test clock.
+// ---
+
 #include "components/image_fetcher/core/cache/image_cache.h"
 
 #include <map>

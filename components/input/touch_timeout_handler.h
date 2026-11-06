@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Touch timeout handler class declaration
+// summary: Declares TouchTimeoutHandler, which tracks pending touch acks and cancels touch sequences that exceed desktop or mobile timeout delays.
+// ---
+
 #ifndef COMPONENTS_INPUT_TOUCH_TIMEOUT_HANDLER_H_
 #define COMPONENTS_INPUT_TOUCH_TIMEOUT_HANDLER_H_
 

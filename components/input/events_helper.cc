@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Input event ack state helper implementation
+// summary: Implements InputEventResultStateIsSetBlocking, mapping renderer ack states to whether an event is handled blocking.
+// ---
+
 #include "components/input/events_helper.h"
 
 #include "third_party/blink/public/common/features.h"

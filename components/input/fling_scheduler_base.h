@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FlingSchedulerBase interface
+// summary: Defines an abstract base class implementing the FlingControllerSchedulerClient interface for progressing flings on begin frames.
+// ---
+
 #ifndef COMPONENTS_INPUT_FLING_SCHEDULER_BASE_H_
 #define COMPONENTS_INPUT_FLING_SCHEDULER_BASE_H_
 

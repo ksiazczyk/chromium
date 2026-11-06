@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImageFetcherBridge class declaration
+// summary: Declares the ImageFetcherBridge class with static JNI methods for fetching images and image data, converting results to Java objects, and reporting fetch metrics.
+// ---
+
 #ifndef COMPONENTS_IMAGE_FETCHER_ANDROID_IMAGE_FETCHER_BRIDGE_H_
 #define COMPONENTS_IMAGE_FETCHER_ANDROID_IMAGE_FETCHER_BRIDGE_H_
 

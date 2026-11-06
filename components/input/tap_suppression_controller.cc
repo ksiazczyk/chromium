@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tap suppression controller implementation
+// summary: Implements a state machine that suppresses tap events for a short time after a fling cancel stops a fling, to avoid unintended taps.
+// ---
+
 #include "components/input/tap_suppression_controller.h"
 
 #include "base/notreached.h"

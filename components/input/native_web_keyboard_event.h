@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NativeWebKeyboardEvent declaration
+// summary: Declares a WebKeyboardEvent wrapper that owns the platform-specific native event and carries flags such as skip-if-unhandled for IME handling.
+// ---
+
 #ifndef COMPONENTS_INPUT_NATIVE_WEB_KEYBOARD_EVENT_H_
 #define COMPONENTS_INPUT_NATIVE_WEB_KEYBOARD_EVENT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: InstalledAppProviderTest
+// summary: Unit tests verifying that InstalledAppProvider returns the correct installed related apps for various origins, manifest URLs, and related application configurations.
+// ---
+
 package org.chromium.components.installedapp;
 
 import android.content.pm.ApplicationInfo;

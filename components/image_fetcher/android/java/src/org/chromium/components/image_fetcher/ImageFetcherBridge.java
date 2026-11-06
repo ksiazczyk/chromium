@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'ImageFetcherBridge: JNI access to native image fetching'
+// summary: Bridge that provides Java access to native ImageFetcher implementations for a browser context, including file paths, image and GIF fetching, and UMA reporting.
+// ---
+
 package org.chromium.components.image_fetcher;
 
 import android.graphics.Bitmap;

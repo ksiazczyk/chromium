@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImageFetcherParams implementation
+// summary: Implements constructors and the destructor for ImageFetcherParams, which carries image fetch options such as traffic annotation and UMA client name.
+// ---
+
 #include "components/image_fetcher/core/image_fetcher.h"
 
 namespace image_fetcher {

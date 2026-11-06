@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InfoBarContainer unit tests
+// summary: Unit tests verifying that the base InfoBarContainer adds and removes multiple infobars sequentially through its platform-specific hooks.
+// ---
+
 #include "components/infobars/core/infobar_container.h"
 
 #include <memory>

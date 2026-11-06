@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProfileInvalidationProvider implementation
+// summary: Implements the per-profile keyed service that lazily creates and owns InvalidationListener instances for project numbers and clears them on shutdown.
+// ---
+
 #include "components/invalidation/profile_invalidation_provider.h"
 
 #include <stdint.h>

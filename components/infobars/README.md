@@ -1,3 +1,12 @@
+---
+type: readme
+title: Infobars component README
+summary: Describes the infobars component, its platform differences, design caveats, layered component structure, and directory layout.
+relations:
+  - references /chrome/browser/infobars/README.md
+  - references /components/messages/README.md
+---
+
 The infobars component contains the core types for infobars, a UI surface that
 shows informative but generally nonblocking updates to users related to their
 current page content.  This is used on both desktop and mobile, though the

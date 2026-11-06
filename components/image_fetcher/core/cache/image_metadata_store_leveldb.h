@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImageMetadataStoreLevelDB class declaration
+// summary: Declares the LevelDB-backed image metadata store, exposing initialization, metadata load/save/delete/update, key listing, size estimation and eviction APIs.
+// ---
+
 #ifndef COMPONENTS_IMAGE_FETCHER_CORE_CACHE_IMAGE_METADATA_STORE_LEVELDB_H_
 #define COMPONENTS_IMAGE_FETCHER_CORE_CACHE_IMAGE_METADATA_STORE_LEVELDB_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of ios_image_decoder_impl.mm.
+type: source
+title: iOS image decoder implementation using UIImage
+summary: Implements the iOS image decoder, decoding image data with UIImage and building a gfx::Image that preserves the decoded scale factor.

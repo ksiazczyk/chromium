@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Platform-specific InputRouter configuration helper implementation
+// summary: Builds an InputRouter configuration with gesture queue and touch queue settings tailored to the current platform, such as Android's touch ack timeout.
+// ---
+
 #include "components/input/input_router_config_helper.h"
 
 #include "base/command_line.h"

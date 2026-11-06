@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows stylus handwriting handler class
+// summary: Declares the Windows-specific stylus handwriting handler, its handwriting sequence state, and the dwell and movement rules that trigger stylus writing.
+// ---
+
 #ifndef COMPONENTS_INPUT_STYLUS_HANDWRITING_HANDLER_WIN_H_
 #define COMPONENTS_INPUT_STYLUS_HANDWRITING_HANDLER_WIN_H_
 

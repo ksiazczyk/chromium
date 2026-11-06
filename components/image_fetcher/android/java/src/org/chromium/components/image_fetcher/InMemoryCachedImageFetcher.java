@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InMemoryCachedImageFetcher
+// summary: ImageFetcher wrapper that caches bitmaps in a memory cache and delegates fetches to an underlying network or disk-cached fetcher.
+// ---
+
 package org.chromium.components.image_fetcher;
 
 import android.graphics.Bitmap;

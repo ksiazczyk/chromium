@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Touch action filter header
+// summary: Declares TouchActionFilter, which filters gesture events based on touch-action state, with client callbacks and accessors used by tests and the input router.
+// ---
+
 #ifndef COMPONENTS_INPUT_TOUCH_ACTION_FILTER_H_
 #define COMPONENTS_INPUT_TOUCH_ACTION_FILTER_H_
 

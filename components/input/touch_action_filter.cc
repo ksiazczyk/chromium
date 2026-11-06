@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Touch action filter implementation
+// summary: Implements TouchActionFilter, which filters scroll and pinch gesture events according to the CSS touch-action values reported by the renderer.
+// ---
+
 #include "components/input/touch_action_filter.h"
 
 #include <math.h>

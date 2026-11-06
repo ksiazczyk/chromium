@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Declaration of input event ack state string conversion
+// summary: Declares InputEventResultStateToString, which converts input event ack result states into string form.
+// ---
+
 #ifndef COMPONENTS_INPUT_INPUT_EVENT_ACK_STATE_H_
 #define COMPONENTS_INPUT_INPUT_EVENT_ACK_STATE_H_
 

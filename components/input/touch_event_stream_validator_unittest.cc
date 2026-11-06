@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Touch event stream validator unit tests
+// summary: Unit tests for TouchEventStreamValidator covering valid touch streams, stream resets, missed touch starts and ends, empty events, and invalid point states.
+// ---
+
 #include "components/input/touch_event_stream_validator.h"
 
 #include <stddef.h>

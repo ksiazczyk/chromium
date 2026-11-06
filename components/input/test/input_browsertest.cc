@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Input browser tests for RenderInputRouter on Viz
+// summary: Browser tests that use trace processing to verify whether RenderInputRouter is created on the Viz compositor thread, covering non-Android and parameterized Android cases.
+// ---
+
 #include "base/test/metrics/histogram_tester.h"
 #include "base/test/scoped_feature_list.h"
 #include "base/test/tracing/test_trace_processor.h"

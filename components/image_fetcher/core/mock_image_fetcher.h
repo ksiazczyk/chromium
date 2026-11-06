@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock image fetcher for tests
+// summary: Declares a gmock mock of the ImageFetcher interface used as a test double in unit tests.
+// ---
+
 #ifndef COMPONENTS_IMAGE_FETCHER_CORE_MOCK_IMAGE_FETCHER_H_
 #define COMPONENTS_IMAGE_FETCHER_CORE_MOCK_IMAGE_FETCHER_H_
 

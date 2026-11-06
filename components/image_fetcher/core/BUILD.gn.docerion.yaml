@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Image fetcher core build targets
+summary: GN build file defining the core, metrics and test_support static libraries plus the unit_tests target for the image fetcher component.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GestureEventStreamValidator unit tests
+// summary: Unit tests verifying valid and invalid scroll, fling, pinch, and tap gesture sequences for the GestureEventStreamValidator.
+// ---
+
 #include "components/input/gesture_event_stream_validator.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

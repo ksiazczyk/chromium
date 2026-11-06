@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for infobars content
+summary: Defines the static library and unit test targets for the content infobar manager, listing sources and dependencies.

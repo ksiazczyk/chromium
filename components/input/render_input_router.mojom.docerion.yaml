@@ -1,0 +1,4 @@
+# Docerion header of render_input_router.mojom.
+type: source
+title: RenderInputRouter Mojom interface
+summary: Defines Mojo structs and the RenderInputRouterDelegate interface for passing input handling state between the browser and Viz, mainly for Input on Viz on Android.

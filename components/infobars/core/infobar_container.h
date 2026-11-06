@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InfoBarContainer class declaration
+// summary: Declares the InfoBarContainer base class responsible for infobar visibility, with a delegate interface and pure virtual platform-specific hooks.
+// ---
+
 #ifndef COMPONENTS_INFOBARS_CORE_INFOBAR_CONTAINER_H_
 #define COMPONENTS_INFOBARS_CORE_INFOBAR_CONTAINER_H_
 

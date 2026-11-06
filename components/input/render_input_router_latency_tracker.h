@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Render input router latency tracker class
+// summary: Declares a utility class that tracks latency of input events received by and acked to the render widget host, populating LatencyInfo and performing UMA reporting.
+// ---
+
 #ifndef COMPONENTS_INPUT_RENDER_INPUT_ROUTER_LATENCY_TRACKER_H_
 #define COMPONENTS_INPUT_RENDER_INPUT_ROUTER_LATENCY_TRACKER_H_
 

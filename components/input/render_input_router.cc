@@ -1,6 +1,13 @@
 // Copyright 2024 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: RenderInputRouter implementation
+// summary: Implements the RenderInputRouter that forwards input events to renderer processes over Mojo and handles unbound widget input handler requests.
+// ---
+
 #include "components/input/render_input_router.h"
 
 #include <utility>

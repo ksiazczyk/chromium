@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeImageDecoder implementation
+// summary: Test fake image decoder that returns a configurable decoded image and supports hooks around decoding for use in image fetcher tests.
+// ---
+
 #include "components/image_fetcher/core/fake_image_decoder.h"
 
 #include "base/task/sequenced_task_runner.h"

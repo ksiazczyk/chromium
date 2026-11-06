@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: macOS web input event builders header
+// summary: Declares builder classes that construct Blink keyboard, mouse, wheel, gesture, and touch events from macOS NSEvents.
+// ---
+
 #ifndef COMPONENTS_INPUT_WEB_INPUT_EVENT_BUILDERS_MAC_H_
 #define COMPONENTS_INPUT_WEB_INPUT_EVENT_BUILDERS_MAC_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedInputTransferToken implementation
+// summary: Implements the move-only ScopedInputTransferToken wrapper that obtains and releases Android V+ AInputTransferToken from Java objects or input receivers via the compat layer.
+// ---
+
 #include "components/input/android/scoped_input_transfer_token.h"
 
 #include "base/android/android_input_receiver_compat.h"

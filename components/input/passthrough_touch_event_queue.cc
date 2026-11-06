@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Passthrough touch event queue implementation
+// summary: Implements a touch event queue that forwards touch events to the renderer immediately, with sequence filtering, ack reordering, and timeout handling.
+// ---
+
 #include "components/input/passthrough_touch_event_queue.h"
 
 #include <memory>

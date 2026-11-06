@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeInvalidationListener implementation
+// summary: Implements a fake invalidation listener for tests that tracks the expected invalidations state and dispatches invalidations to registered observers.
+// ---
+
 #include "components/invalidation/test_support/fake_invalidation_listener.h"
 
 namespace invalidation {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reduced mode image fetcher implementation
+// summary: Implements the reduced mode fetcher that skips transcoding and ignores decoded image callbacks while fetching.
+// ---
+
 #include "components/image_fetcher/core/reduced_mode_image_fetcher.h"
 
 namespace image_fetcher {

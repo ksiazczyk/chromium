@@ -1,3 +1,13 @@
+---
+type: readme
+title: Image Fetcher
+summary: Explains how to use Image Fetcher in C++ and on Android and describes the component's code layout and test locations.
+relations:
+  - documents /components/image_fetcher/android/java/src/org/chromium/components/image_fetcher/ImageFetcher.java
+  - documents /components/image_fetcher/android/java/src/org/chromium/components/image_fetcher/ImageFetcherFactory.java
+  - documents /components/image_fetcher/core/image_fetcher.h
+---
+
 # Image Fetcher
 
 Image Fetcher downloads image data from a URL and can decode it into a

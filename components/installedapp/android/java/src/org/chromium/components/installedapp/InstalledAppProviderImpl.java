@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InstalledAppProviderImpl
+// summary: Android implementation of the InstalledAppProvider Mojo service that checks asset statements and filters installed related apps for the getInstalledRelatedApps API.
+// ---
+
 package org.chromium.components.installedapp;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

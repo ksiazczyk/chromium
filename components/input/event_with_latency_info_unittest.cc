@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EventWithLatencyInfo unit tests
+// summary: Unit tests verifying coalescing behavior and timestamp preservation for mouse, wheel, touch, and gesture events.
+// ---
+
 #include "components/input/event_with_latency_info.h"
 
 #include <limits>

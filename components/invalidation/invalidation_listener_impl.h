@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InvalidationListenerImpl class declaration
+// summary: Declares InvalidationListenerImpl, which implements InvalidationListener and GCMAppHandler for token and message handling.
+// ---
+
 #ifndef COMPONENTS_INVALIDATION_INVALIDATION_LISTENER_IMPL_H_
 #define COMPONENTS_INVALIDATION_INVALIDATION_LISTENER_IMPL_H_
 

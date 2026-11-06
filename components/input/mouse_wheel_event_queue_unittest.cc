@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mouse wheel event queue unit tests
+// summary: Unit tests covering wheel event coalescing, blocking versus non-blocking dispatch and synthetic gesture scroll generation in the mouse wheel event queue.
+// ---
+
 #include "components/input/mouse_wheel_event_queue.h"
 
 #include <stddef.h>

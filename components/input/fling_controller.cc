@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FlingController implementation
+// summary: Implements fling gesture handling with fling curves, tap suppression filtering, and animation progress scheduling.
+// ---
+
 #include "components/input/fling_controller.h"
 
 #include "base/time/default_tick_clock.h"

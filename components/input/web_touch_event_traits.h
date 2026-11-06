@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web touch event traits header
+// summary: Declares the WebTouchEventTraits utility class for checking touch point states and resetting touch event types and timestamps.
+// ---
+
 #ifndef COMPONENTS_INPUT_WEB_TOUCH_EVENT_TRAITS_H_
 #define COMPONENTS_INPUT_WEB_TOUCH_EVENT_TRAITS_H_
 

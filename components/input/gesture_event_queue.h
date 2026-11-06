@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GestureEventQueue class declaration
+// summary: Declares the GestureEventQueue, a collection of queues and filters that orders, filters, and acknowledges gesture events between browser and renderer.
+// ---
+
 #ifndef COMPONENTS_INPUT_GESTURE_EVENT_QUEUE_H_
 #define COMPONENTS_INPUT_GESTURE_EVENT_QUEUE_H_
 

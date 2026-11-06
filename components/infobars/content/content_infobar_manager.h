@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentInfoBarManager class declaration
+// summary: Declares ContentInfoBarManager, which associates a WebContents with an InfoBarManager and responds to navigation events, including an option to ignore the next reload.
+// ---
+
 #ifndef COMPONENTS_INFOBARS_CONTENT_CONTENT_INFOBAR_MANAGER_H_
 #define COMPONENTS_INFOBARS_CONTENT_CONTENT_INFOBAR_MANAGER_H_
 

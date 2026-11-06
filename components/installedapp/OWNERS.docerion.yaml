@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the installed app component
+summary: Delegates code ownership to the browser services OWNERS file in the Chrome Android Java sources.

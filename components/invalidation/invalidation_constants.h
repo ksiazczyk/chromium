@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Invalidation project number constants
+// summary: Declares Google Cloud project numbers used to register for critical and non-critical invalidations via FM.
+// ---
+
 #ifndef COMPONENTS_INVALIDATION_INVALIDATION_CONSTANTS_H_
 #define COMPONENTS_INVALIDATION_INVALIDATION_CONSTANTS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InfoBarManager implementation
+// summary: Implements adding, removing and replacing infobars for a tab, with duplicate checks, observer notifications and headless-only disabling via a switch.
+// ---
+
 #include "components/infobars/core/infobar_manager.h"
 
 #include <algorithm>

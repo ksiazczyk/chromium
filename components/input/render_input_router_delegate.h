@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Render input router delegate interface
+// summary: Abstract delegate interface supplying the render input router with view lookup, delegated ink point forwarding, touch emulation, GPU memory tracking, and input event dispatch and ack callbacks.
+// ---
+
 #ifndef COMPONENTS_INPUT_RENDER_INPUT_ROUTER_DELEGATE_H_
 #define COMPONENTS_INPUT_RENDER_INPUT_ROUTER_DELEGATE_H_
 

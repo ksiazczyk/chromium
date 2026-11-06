@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DirectInvalidation and listener factory
+// summary: Implements the DirectInvalidation value type and the factory that creates an InvalidationListenerImpl for a GCM driver.
+// ---
+
 #include "components/invalidation/invalidation_listener.h"
 
 #include <stdint.h>

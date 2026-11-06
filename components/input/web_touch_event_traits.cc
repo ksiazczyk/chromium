@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web touch event traits implementation
+// summary: Implements the WebTouchEventTraits helpers that check touch point states and reset touch event types, dispatch types, and touch states.
+// ---
+
 #include "components/input/web_touch_event_traits.h"
 
 #include <stddef.h>

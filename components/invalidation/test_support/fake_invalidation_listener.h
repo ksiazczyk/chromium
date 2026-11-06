@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeInvalidationListener class declaration
+// summary: Declares a fake InvalidationListener test double that can fire direct invalidations, manage observers, and report a fake project number.
+// ---
+
 #ifndef COMPONENTS_INVALIDATION_TEST_SUPPORT_FAKE_INVALIDATION_LISTENER_H_
 #define COMPONENTS_INVALIDATION_TEST_SUPPORT_FAKE_INVALIDATION_LISTENER_H_
 

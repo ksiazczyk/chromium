@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dispatch-to-renderer callback types
+// summary: Defines the DispatchToRendererCallback result type and a scoped wrapper for tracking event dispatch callback completion.
+// ---
+
 #ifndef COMPONENTS_INPUT_DISPATCH_TO_RENDERER_CALLBACK_H_
 #define COMPONENTS_INPUT_DISPATCH_TO_RENDERER_CALLBACK_H_
 

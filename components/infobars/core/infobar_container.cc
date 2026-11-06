@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InfoBarContainer implementation
+// summary: Implements the cross-platform InfoBarContainer that observes an InfoBarManager and adds, removes, replaces, and hides infobars with state change notifications.
+// ---
+
 #include "components/infobars/core/infobar_container.h"
 
 #include <algorithm>

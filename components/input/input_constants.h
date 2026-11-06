@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Input timing constants
+// summary: Defines hung renderer delay and ping timeout constants, with a shorter delay on Android than on desktop platforms.
+// ---
+
 #ifndef COMPONENTS_INPUT_INPUT_CONSTANTS_H_
 #define COMPONENTS_INPUT_INPUT_CONSTANTS_H_
 

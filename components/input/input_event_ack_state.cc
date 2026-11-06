@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: String conversion for input event ack result states
+// summary: Implements InputEventResultStateToString, mapping input event ack result states to readable strings and warning on unhandled states.
+// ---
+
 #include "third_party/blink/public/mojom/input/input_event_result.mojom-shared.h"
 
 #include "base/logging.h"

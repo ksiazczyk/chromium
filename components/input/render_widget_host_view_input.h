@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Render widget host view input interface
+// summary: Declares the View-side interface for receiving input events from the environment and forwarding them to the RenderWidgetHost, decoupling input targeting and dispatch from the widget host view.
+// ---
+
 #ifndef COMPONENTS_INPUT_RENDER_WIDGET_HOST_VIEW_INPUT_H_
 #define COMPONENTS_INPUT_RENDER_WIDGET_HOST_VIEW_INPUT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: InfoBarContainerWithPriority unit tests
+// summary: Unit tests for the priority-based infobar container, covering priority caps, duplicate detection, add and remove calls and pending count notifications.
+// ---
+
 #include "components/infobars/core/infobar_container_with_priority.h"
 
 #include <algorithm>

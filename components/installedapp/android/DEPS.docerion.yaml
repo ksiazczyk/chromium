@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for installedapp Android
+summary: Defines the allowed include and dependency rules for the installedapp Android directory, covering base, content, webapk client, and mojo paths.

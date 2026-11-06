@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NetworkImageFetcherTest
+// summary: Robolectric unit tests for NetworkImageFetcher, verifying that image and GIF fetches delegate to the bridge and that fetch time UMA is reported.
+// ---
+
 package org.chromium.components.image_fetcher;
 
 import static org.mockito.ArgumentMatchers.any;

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for infobars content
+summary: Specifies the allowed include directories, such as content public APIs and network services, for this component.

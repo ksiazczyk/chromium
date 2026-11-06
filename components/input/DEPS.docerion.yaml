@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the input component
+summary: Defines the allowed include dependencies for code in the input directory, with special rules for stylus handwriting files.

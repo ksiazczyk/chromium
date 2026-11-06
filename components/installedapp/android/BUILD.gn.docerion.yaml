@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for installedapp Android component
+summary: GN build file defining the native source set, Java library, JNI header generation, and Android unit test targets for the installedapp component.

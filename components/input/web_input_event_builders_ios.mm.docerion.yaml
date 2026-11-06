@@ -1,0 +1,4 @@
+# Docerion header of web_input_event_builders_ios.mm.
+type: source
+title: iOS web input event builders implementation
+summary: Implements conversion of iOS UIKit touch and key events into Blink web touch points and input events.

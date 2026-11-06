@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LevelDB image metadata store implementation
+// summary: Implements the ImageMetadataStore interface on top of leveldb_proto, persisting cached image metadata with load, save, update, eviction and size estimation.
+// ---
+
 #include "components/image_fetcher/core/cache/image_metadata_store_leveldb.h"
 
 #include <algorithm>

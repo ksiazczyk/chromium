@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the LevelDB image metadata store
+// summary: Unit tests for ImageMetadataStoreLevelDB using a fake ProtoDatabase and test clock to verify metadata operations, garbage collection and eviction behavior.
+// ---
+
 #include "components/image_fetcher/core/cache/image_metadata_store_leveldb.h"
 
 #include <map>

@@ -1,0 +1,4 @@
+# Docerion header of ios_image_data_fetcher_wrapper.mm.
+type: source
+title: IOSImageDataFetcherWrapper implementation
+summary: Implements the wrapper, forwarding fetch requests to ImageDataFetcher and converting fetched bytes to NSData for the callback.

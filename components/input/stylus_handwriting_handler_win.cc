@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows stylus handwriting handler implementation
+// summary: Implements Windows-specific stylus handwriting detection, tracking pen touch sequences, HIMETRIC movement thresholds, and writable touch actions to start stylus writing.
+// ---
+
 #include "components/input/stylus_handwriting_handler_win.h"
 
 #include "base/check_op.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedInputTransferToken class declaration
+// summary: Declares a move-only RAII class managing the lifecycle of the Android V+ AInputTransferToken, constructible from a Java token or an AInputReceiver.
+// ---
+
 #ifndef COMPONENTS_INPUT_ANDROID_SCOPED_INPUT_TRANSFER_TOKEN_H_
 #define COMPONENTS_INPUT_ANDROID_SCOPED_INPUT_TRANSFER_TOKEN_H_
 

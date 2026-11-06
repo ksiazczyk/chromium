@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Common metadata for the invalidation component
+summary: Specifies the issue tracker component, team email, and Buganizer component for the invalidation directory.

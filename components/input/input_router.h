@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InputRouter interface for dispatching input events to the renderer
+// summary: Declares the InputRouter interface that lets embedders customize how input events are sent to the renderer and how responses are dispatched to the browser.
+// ---
+
 #ifndef COMPONENTS_INPUT_INPUT_ROUTER_H_
 #define COMPONENTS_INPUT_INPUT_ROUTER_H_
 

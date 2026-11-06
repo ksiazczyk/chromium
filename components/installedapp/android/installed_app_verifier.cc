@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Installed app verifier native JNI implementation
+// summary: Native JNI bridge that checks digital asset links relationships for WebAPKs and reports the boolean result back to the Java InstalledAppProviderImpl.
+// ---
+
 #include <memory>
 #include <string>
 

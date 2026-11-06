@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InfoBarDelegate implementation
+// summary: Implements default behavior of the infobar delegate interface, including icon resolution, priority, navigation-based expiry, link handling and downcasts.
+// ---
+
 #include "components/infobars/core/infobar_delegate.h"
 
 #include "build/build_config.h"

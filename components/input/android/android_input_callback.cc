@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AndroidInputCallback implementation
+// summary: Implements Android input event callbacks that forward motion events to the client and observers and record dropped key events on Viz.
+// ---
+
 #include "components/input/android/android_input_callback.h"
 
 #include <android/input.h>

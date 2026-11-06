@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InputReceiverData class declaration
+// summary: Declares InputReceiverData, which owns the objects needed across the input receiver lifecycle, including surfaces, tokens and callbacks.
+// ---
+
 #ifndef COMPONENTS_INPUT_ANDROID_INPUT_RECEIVER_DATA_H_
 #define COMPONENTS_INPUT_ANDROID_INPUT_RECEIVER_DATA_H_
 

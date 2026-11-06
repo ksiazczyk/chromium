@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Touchscreen tap suppression controller implementation
+// summary: Implements TouchscreenTapSuppressionController, filtering tap-related gesture events after a fling cancel based on the tap suppression state.
+// ---
+
 #include "components/input/touchscreen_tap_suppression_controller.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EventWithLatencyInfo template header
+// summary: Template pairing input events with latency info, adding coalescing support and typedefs for gesture, mouse, wheel, touch, and keyboard events.
+// ---
+
 #ifndef COMPONENTS_INPUT_EVENT_WITH_LATENCY_INFO_H_
 #define COMPONENTS_INPUT_EVENT_WITH_LATENCY_INFO_H_
 

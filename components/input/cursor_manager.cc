@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cursor manager implementation
+// summary: Implements CursorManager, which tracks the view under the cursor, updates cursors and tooltips, and restricts custom cursor sizes.
+// ---
+
 #include "components/input/cursor_manager.h"
 
 #include <algorithm>

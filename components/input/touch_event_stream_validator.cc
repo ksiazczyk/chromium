@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Touch event stream validator implementation
+// summary: Implements TouchEventStreamValidator, which checks touch event streams for consistency and reports errors for invalid touch point states and sequences.
+// ---
+
 #include "components/input/touch_event_stream_validator.h"
 
 #include "base/check.h"

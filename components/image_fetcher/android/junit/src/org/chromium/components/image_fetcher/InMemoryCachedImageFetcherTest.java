@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: InMemoryCachedImageFetcherTest
+// summary: Robolectric unit tests for InMemoryCachedImageFetcher, exercising in-memory bitmap caching, cache destruction, and handling of unknown fetcher configs.
+// ---
+
 package org.chromium.components.image_fetcher;
 
 import static org.junit.Assume.assumeFalse;

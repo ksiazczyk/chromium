@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InfoBar class declaration
+// summary: Declares the cross-platform InfoBar view base class that owns an InfoBarDelegate model and manages animation, height, and lifetime with platform hooks.
+// ---
+
 #ifndef COMPONENTS_INFOBARS_CORE_INFOBAR_H_
 #define COMPONENTS_INFOBARS_CORE_INFOBAR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CursorManager class header
+// summary: Declares CursorManager, which coordinates mouse cursors across multiple RenderWidgetHostViews and enforces custom cursor size restrictions.
+// ---
+
 #ifndef COMPONENTS_INPUT_CURSOR_MANAGER_H_
 #define COMPONENTS_INPUT_CURSOR_MANAGER_H_
 

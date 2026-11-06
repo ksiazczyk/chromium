@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InfoBarManager interface
+// summary: Declares the manager that creates, removes, replaces and enumerates infobars attached to a tab, plus its observer class and URL opening hooks.
+// ---
+
 #ifndef COMPONENTS_INFOBARS_CORE_INFOBAR_MANAGER_H_
 #define COMPONENTS_INFOBARS_CORE_INFOBAR_MANAGER_H_
 

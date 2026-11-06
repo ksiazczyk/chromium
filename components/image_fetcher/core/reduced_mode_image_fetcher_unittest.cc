@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Reduced mode image fetcher unit tests
+// summary: Unit tests for ReducedModeImageFetcher covering fetching, caching and metrics using fake stores and a test URL loader factory.
+// ---
+
 #include "components/image_fetcher/core/reduced_mode_image_fetcher.h"
 
 #include <map>

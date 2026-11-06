@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImageFetcherMetricsReporter API and event enum
+// summary: Declares the metrics reporter API and the ImageFetcherEvent enum used for UMA reporting of cache and fetch events.
+// ---
+
 #ifndef COMPONENTS_IMAGE_FETCHER_CORE_IMAGE_FETCHER_METRICS_REPORTER_H_
 #define COMPONENTS_IMAGE_FETCHER_CORE_IMAGE_FETCHER_METRICS_REPORTER_H_
 

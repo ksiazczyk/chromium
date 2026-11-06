@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedInputReceiverCallbacks implementation
+// summary: Implements the move-only ScopedInputReceiverCallbacks wrapper that creates and releases Android V+ AInputReceiverCallbacks through the AndroidInputReceiverCompat layer.
+// ---
+
 #include "components/input/android/scoped_input_receiver_callbacks.h"
 
 #include "base/android/android_input_receiver_compat.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InfoBarContainerWithPriority class declaration
+// summary: Declares a specialized InfoBarContainer that queues lower-priority infobars, caps visible slots by priority, and surfaces critical notifications first.
+// ---
+
 #ifndef COMPONENTS_INFOBARS_CORE_INFOBAR_CONTAINER_WITH_PRIORITY_H_
 #define COMPONENTS_INFOBARS_CORE_INFOBAR_CONTAINER_WITH_PRIORITY_H_
 

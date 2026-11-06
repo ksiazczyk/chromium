@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Timeout monitor implementation
+// summary: Implements TimeoutMonitor, which schedules, restarts and stops a timeout timer and invokes a handler callback when the timeout expires.
+// ---
+
 #include "components/input/timeout_monitor.h"
 
 #include "base/memory/scoped_refptr.h"

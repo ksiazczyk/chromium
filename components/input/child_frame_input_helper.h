@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Child frame input helper class declaration
+// summary: Declares ChildFrameInputHelper, which shares child frame input code between the browser and viz implementations.
+// ---
+
 #ifndef COMPONENTS_INPUT_CHILD_FRAME_INPUT_HELPER_H_
 #define COMPONENTS_INPUT_CHILD_FRAME_INPUT_HELPER_H_
 

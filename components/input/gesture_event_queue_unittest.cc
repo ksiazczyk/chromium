@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GestureEventQueue unit tests
+// summary: Unit tests for gesture event queueing, debounce behavior, tap suppression, and ACK ordering in the GestureEventQueue.
+// ---
+
 #include "components/input/gesture_event_queue.h"
 
 #include <stddef.h>

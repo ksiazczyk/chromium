@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the image fetcher cache
+summary: Grants the cache directory access to the base32, leveldb_proto and prefs components through include rules.

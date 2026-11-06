@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InputReceiverData implementation
+// summary: Implements lifecycle management for Android input receivers, including delayed destruction on Android 16+ and surface attach and detach handling.
+// ---
+
 #include "components/input/android/input_receiver_data.h"
 
 #include <utility>

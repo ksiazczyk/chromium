@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RequestMetadata struct header
+// summary: Defines the image_fetcher RequestMetadata struct holding MIME type, HTTP response code, net error, and content location header for a URL request.
+// ---
+
 #ifndef COMPONENTS_IMAGE_FETCHER_CORE_REQUEST_METADATA_H_
 #define COMPONENTS_IMAGE_FETCHER_CORE_REQUEST_METADATA_H_
 

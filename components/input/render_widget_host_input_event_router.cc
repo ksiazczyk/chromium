@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Render widget host input event router implementation
+// summary: Implements routing of input events to the correct render widget host using viz hit test data, including a touch event ack queue that returns acknowledgements to the proper root view in order.
+// ---
+
 #include "components/input/render_widget_host_input_event_router.h"
 
 #include <algorithm>

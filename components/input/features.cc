@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Input feature flag definitions
+// summary: Defines feature flags and parameters for input dispatch, scroll prediction, bubbling fixes, and renderer hang watching.
+// ---
+
 #include "components/input/features.h"
 
 #include "base/feature_list.h"

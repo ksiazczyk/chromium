@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Platform-specific InputRouter configuration helper
+// summary: Declares GetInputRouterConfigForPlatform, which returns an InputRouter configuration with parameters tailored to the current platform.
+// ---
+
 #ifndef COMPONENTS_INPUT_INPUT_ROUTER_CONFIG_HELPER_H_
 #define COMPONENTS_INPUT_INPUT_ROUTER_CONFIG_HELPER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Input component switch declarations
+// summary: Declares the input component's command-line switch names and the helper that reports whether pinch to zoom is enabled.
+// ---
+
 #ifndef COMPONENTS_INPUT_SWITCHES_H_
 #define COMPONENTS_INPUT_SWITCHES_H_
 

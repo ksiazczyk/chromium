@@ -1,0 +1,4 @@
+# Docerion header of ios_image_decoder_impl_unittest.mm.
+type: test
+title: iOS image decoder unit tests
+summary: Tests the iOS image decoder with embedded JPG and WebP data, verifying decoded images and scale factor handling.

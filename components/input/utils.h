@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Input utilities header
+// summary: Declares InputUtils methods for checking Viz input support and functions that convert input events and result states to trace proto types.
+// ---
+
 #ifndef COMPONENTS_INPUT_UTILS_H_
 #define COMPONENTS_INPUT_UTILS_H_
 

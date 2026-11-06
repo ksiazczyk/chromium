@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'ImageFetcher: abstract base class for image fetching'
+// summary: Abstract blueprint for image fetching that defines UMA client names, fetch parameters, and shared behavior; instances are created via ImageFetcherFactory.
+// ---
+
 package org.chromium.components.image_fetcher;
 
 import android.graphics.Bitmap;

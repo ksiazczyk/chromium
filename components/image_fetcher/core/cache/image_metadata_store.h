@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Image metadata store interface
+// summary: Defines the ImageMetadataStore interface for loading, saving, updating, deleting and evicting cached image metadata with size estimation.
+// ---
+
 #ifndef COMPONENTS_IMAGE_FETCHER_CORE_CACHE_IMAGE_METADATA_STORE_H_
 #define COMPONENTS_IMAGE_FETCHER_CORE_CACHE_IMAGE_METADATA_STORE_H_
 

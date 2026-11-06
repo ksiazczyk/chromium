@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockInputRouter class declaration
+// summary: Declares a mock InputRouter with flags tracking which event types were sent, used as a test double for the input router.
+// ---
+
 #ifndef COMPONENTS_INPUT_MOCK_INPUT_ROUTER_H_
 #define COMPONENTS_INPUT_MOCK_INPUT_ROUTER_H_
 

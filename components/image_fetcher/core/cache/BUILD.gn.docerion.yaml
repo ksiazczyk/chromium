@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for the image fetcher cache
+summary: GN build rules defining the cache static library, the types source set and the unit test target with their sources and dependencies.

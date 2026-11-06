@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Touchpad tap suppression controller class declaration
+// summary: Declares TouchpadTapSuppressionController, which suppresses touchpad taps immediately following the dispatch of a GestureFlingCancel event.
+// ---
+
 #ifndef COMPONENTS_INPUT_TOUCHPAD_TAP_SUPPRESSION_CONTROLLER_H_
 #define COMPONENTS_INPUT_TOUCHPAD_TAP_SUPPRESSION_CONTROLLER_H_
 

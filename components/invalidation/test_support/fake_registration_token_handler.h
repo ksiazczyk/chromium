@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeRegistrationTokenHandler class declaration
+// summary: Declares a fake RegistrationTokenHandler test double that records received registration tokens and exposes them for test assertions.
+// ---
+
 #ifndef COMPONENTS_INVALIDATION_TEST_SUPPORT_FAKE_REGISTRATION_TOKEN_HANDLER_H_
 #define COMPONENTS_INVALIDATION_TEST_SUPPORT_FAKE_REGISTRATION_TOKEN_HANDLER_H_
 

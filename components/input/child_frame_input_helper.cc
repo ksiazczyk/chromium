@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Child frame input helper implementation
+// summary: Implements child frame input handling such as hit-test region updates, screen rect stability checks, and coordinate space transforms.
+// ---
+
 #include "components/input/child_frame_input_helper.h"
 
 #include "base/trace_event/trace_event.h"

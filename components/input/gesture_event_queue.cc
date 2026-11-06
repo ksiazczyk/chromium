@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GestureEventQueue implementation
+// summary: Implements gesture event queueing, debounce filtering for bounce reduction, and forwarding of events to the fling controller and renderer.
+// ---
+
 #include "components/input/gesture_event_queue.h"
 
 #include "base/auto_reset.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Render widget host view input observer interface
+// summary: Declares an observer interface notified when a RenderWidgetHostViewInput is destroyed, requiring derived classes to deregister upon that notification.
+// ---
+
 #ifndef COMPONENTS_INPUT_RENDER_WIDGET_HOST_VIEW_INPUT_OBSERVER_H_
 #define COMPONENTS_INPUT_RENDER_WIDGET_HOST_VIEW_INPUT_OBSERVER_H_
 

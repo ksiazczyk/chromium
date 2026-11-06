@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SimpleAlertInfoBarDelegate interface
+// summary: Declares a ConfirmInfoBarDelegate subclass for simple alert infobars without buttons, with configurable message, icon and behavior flags.
+// ---
+
 #ifndef COMPONENTS_INFOBARS_CORE_SIMPLE_ALERT_INFOBAR_DELEGATE_H_
 #define COMPONENTS_INFOBARS_CORE_SIMPLE_ALERT_INFOBAR_DELEGATE_H_
 

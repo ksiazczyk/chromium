@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InfoBarDelegate interface
+// summary: Declares the delegate interface for controlling infobars, with priority levels, infobar types and the InfoBarIdentifier enum for all infobar subclasses.
+// ---
+
 #ifndef COMPONENTS_INFOBARS_CORE_INFOBAR_DELEGATE_H_
 #define COMPONENTS_INFOBARS_CORE_INFOBAR_DELEGATE_H_
 

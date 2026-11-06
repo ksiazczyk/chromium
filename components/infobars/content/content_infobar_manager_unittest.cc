@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ContentInfoBarManager unit tests
+// summary: Unit tests verifying that OpenURL converts CURRENT_TAB to NEW_FOREGROUND_TAB and passes text fragments through to the WebContents delegate.
+// ---
+
 #include "components/infobars/content/content_infobar_manager.h"
 
 #include <memory>

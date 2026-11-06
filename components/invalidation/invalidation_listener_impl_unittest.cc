@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: InvalidationListenerImpl unit tests
+// summary: Unit tests for the invalidation listener implementation, exercising GCM token handling and direct invalidation delivery using fake GCM drivers, mock InstanceID objects and a fake observer.
+// ---
+
 #include "components/invalidation/invalidation_listener_impl.h"
 
 #include <stdint.h>
