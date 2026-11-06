@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the requestQuota background test extension
+summary: Manifest version 2 extension manifest that loads background.js so the requestQuota API test can run in a background page.

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for printer provider API tests
+summary: Declares the Chromium issue tracker components (Internals>Printing and Buganizer 1457089) for the printer provider extension API test directory.

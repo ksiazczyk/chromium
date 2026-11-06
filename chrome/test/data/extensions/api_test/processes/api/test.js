@@ -5,6 +5,12 @@
 // Processes API test for Chrome.
 // browser_tests.exe --gtest_filter=ExtensionApiTest.Processes
 
+// ---docerion
+// type: test
+// title: Browser test for the chrome.processes API
+// summary: Automated browser test that opens tabs, dumps and validates process properties, and exercises chrome.processes events.
+// ---
+
 const pass = chrome.test.callbackPass;
 const fail = chrome.test.callbackFail;
 const assertEq = chrome.test.assertEq;

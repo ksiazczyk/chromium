@@ -6,6 +6,12 @@
 // Run with browser_tests
 // --gtest_filter=ExtensionApiTest.PreferencePersistentIncognito
 
+// ---docerion
+// type: test
+// title: Persistent incognito preference API browser test
+// summary: Browser test that verifies reading and setting the hyperlink auditing preference with the incognito_persistent scope via chrome.privacy.websites.
+// ---
+
 const pw = chrome.privacy.websites;
 function expect(expected, message) {
   return chrome.test.callbackPass(function(value) {

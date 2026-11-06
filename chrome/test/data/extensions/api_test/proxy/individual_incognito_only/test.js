@@ -6,6 +6,12 @@
 // browser_tests.exe
 //     --gtest_filter=ProxySettingsApiTest.ProxyFixedIndividualIncognitoOnly
 
+// ---docerion
+// type: test
+// title: Proxy fixed individual incognito settings test
+// summary: Browser test that sets fixed-server proxy rules for http, https, ftp and fallback via chrome.proxy.settings.set with incognito_persistent scope.
+// ---
+
 chrome.test.runTests([
   // Verify that execution has started to make sure flaky timeouts are not
   // caused by us.

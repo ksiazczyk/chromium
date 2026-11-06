@@ -6,6 +6,12 @@
 // Run with browser_tests
 // --gtest_filter=ExtensionApiTest.PreferenceSessionOnlyIncognito
 
+// ---docerion
+// type: test
+// title: Session-only incognito preference API browser test
+// summary: Browser test that checks hyperlinkAuditingEnabled get and set behavior across regular and incognito scopes, including incognito_session_only rules.
+// ---
+
 const pw = chrome.privacy.websites;
 function expect(expected, message) {
   return chrome.test.callbackPass(function(value) {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Printer info margin and scale test
+// summary: Checks the fit-to-page and margin capability options, including default values, returned by getPrinterInfo.
+// ---
+
 chrome.test.runTests([() => {
   chrome.printing.getPrinterInfo('id', response => {
     chrome.test.assertNe(undefined, response);

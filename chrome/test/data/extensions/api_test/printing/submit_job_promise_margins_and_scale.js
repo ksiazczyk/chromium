@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Promise-based submitJob test with margins and scale
+// summary: Browser test that submits a print job via the promise-based chrome.printing API using a ticket with margins and scale and asserts the response status and job ID.
+// ---
+
 chrome.test.getConfig(async function(config) {
   const url = `http://localhost:${config.testServer.port}/pdf/test.pdf`;
   const response = await submitJobPromise(

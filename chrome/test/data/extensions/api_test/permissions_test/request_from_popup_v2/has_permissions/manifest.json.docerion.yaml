@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Permissions test extension manifest
+summary: Manifest for the has_permissions test extension, granting notifications and geolocation permissions and opening popup.html as the browser action popup.

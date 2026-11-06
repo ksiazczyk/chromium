@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: chrome.proxy test extension manifest
+summary: Manifest for the chrome.proxy proxy events browser test extension, requesting the proxy permission.

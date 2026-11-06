@@ -4,6 +4,12 @@
 
 // browser_tests --gtest_filter=ExtensionApiTest.OpenOptionsPage
 
+// ---docerion
+// type: test
+// title: Browser test for chrome.runtime.openOptionsPage
+// summary: Browser test verifying that openOptionsPage opens a new options page and refocuses an existing one, with Android-specific handling.
+// ---
+
 const assertEq = chrome.test.assertEq;
 const assertTrue = chrome.test.assertTrue;
 const listenOnce = chrome.test.listenOnce;

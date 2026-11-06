@@ -5,6 +5,12 @@
 // proxy api test
 // browser_tests.exe --gtest_filter=ProxySettingsApiTest.ProxyEventsOtherError
 
+// ---docerion
+// type: test
+// title: Direct proxy onProxyError browser test
+// summary: Verifies onProxyError is not fired for failing fetches when the proxy mode is direct.
+// ---
+
 function test() {
   // Esure the the proxy configuration is direct.
   const config = {mode: 'direct'};

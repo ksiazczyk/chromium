@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: config
+title: Manifest of the platformKeys test extension
+summary: Extension manifest requesting the platformKeys permission and registering basic.js as the background service worker.

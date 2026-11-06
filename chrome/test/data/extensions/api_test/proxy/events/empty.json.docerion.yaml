@@ -1,0 +1,4 @@
+# Docerion header of empty.json.
+type: test
+title: Empty JSON test fixture
+summary: Empty JSON object placed in the proxy events extension API test data directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background service worker tests for extension permission states
+// summary: Runs chrome.test checks that notifications and geolocation permissions are granted, camera and microphone stay prompt, and mediaDevices is unavailable from a service worker.
+// ---
+
 chrome.test.runTests([
   function checkNotifications() {
     navigator.permissions.query({name: 'notifications'})

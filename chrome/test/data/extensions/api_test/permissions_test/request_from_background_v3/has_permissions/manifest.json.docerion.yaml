@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the permissions request test extension
+summary: Manifest V3 manifest declaring notifications and geolocation permissions and a background service worker for the has_permissions API test extension.

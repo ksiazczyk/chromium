@@ -1,0 +1,4 @@
+# Docerion header of manifest_chrome_app.json.
+type: test
+title: Chrome app test manifest for chrome.printing
+summary: Manifest V2 Chrome app manifest used by browser tests for the chrome.printing API, with printing and localhost permissions.

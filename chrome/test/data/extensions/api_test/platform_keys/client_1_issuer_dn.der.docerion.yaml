@@ -1,0 +1,4 @@
+# Docerion header of client_1_issuer_dn.der.
+type: asset
+title: DER-encoded issuer DN of client certificate 1
+summary: Binary test fixture holding the DER-encoded distinguished name of the CA that issued client certificate 1.

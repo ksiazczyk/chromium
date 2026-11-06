@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Preferences API test extension manifest
+summary: Manifest for the Preferences API events test extension, granting the privacy permission and registering test.js as the service worker.

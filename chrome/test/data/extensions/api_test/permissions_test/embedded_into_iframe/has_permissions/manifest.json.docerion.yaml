@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for permissions test extension
+summary: Manifest for the permissions test extension declaring a content script, a web-accessible iframe page, and requested geolocation and notifications permissions.

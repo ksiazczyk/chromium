@@ -5,6 +5,12 @@
 // Tests preference.onChange API for an incognito split extension in case the
 // extension's incognito instance is not expected to be brought up.
 
+// ---docerion
+// type: test
+// title: Preferences API onChange split incognito test
+// summary: Service worker test verifying preference.onChange events for a split incognito extension whose incognito instance is not expected to run.
+// ---
+
 const hyperlinkAuditing = chrome.privacy.websites.hyperlinkAuditingEnabled;
 
 function PreferenceChangeListener() {

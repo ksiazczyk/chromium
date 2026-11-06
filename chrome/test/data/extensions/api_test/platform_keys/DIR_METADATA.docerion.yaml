@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for the platformKeys API tests
+summary: Maps the test directory to Buganizer components and the ChromeOS certificate management team email.

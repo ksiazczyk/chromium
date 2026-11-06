@@ -5,6 +5,12 @@
 // extension api test
 // browser_tests.exe --gtest_filter=ExtensionApiTest.ChromeRuntimeUninstallURL
 
+// ---docerion
+// type: test
+// title: chrome.runtime.setUninstallURL browser test
+// summary: Browser test that uninstalls an extension and verifies the uninstall URL opens, and that empty and non-HTTP(S) URLs are handled with the expected errors.
+// ---
+
 const pass = chrome.test.callbackPass;
 const UNINSTALL_URL = 'https://www.google.com/';
 const SETS_UNINSTALL_URL = 'Sets Uninstall Url';

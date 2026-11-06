@@ -5,6 +5,12 @@
 // proxy api test
 // browser_tests.exe --gtest_filter=ProxySettingsApiTest.ProxyPacDataUrl
 
+// ---docerion
+// type: test
+// title: Proxy PAC data URL browser test
+// summary: Browser test that sets chrome.proxy settings to a PAC script provided as a data URL and asserts the stored script matches the expected code.
+// ---
+
 chrome.test.runTests([
   // Verify that execution has started to make sure flaky timeouts are not
   // caused by us.

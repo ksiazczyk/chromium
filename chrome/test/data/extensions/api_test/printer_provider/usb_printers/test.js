@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: USB printer provider API test script
+// summary: Runs chrome.test cases that listen for onGetUsbPrinterInfoRequested, respond with printer info or an empty callback, and verify the callback throws when called more than once.
+// ---
+
 chrome.test.sendMessage('loaded', function(test) {
   chrome.test.runTests([function printTest() {
     if (test === 'NO_LISTENER') {

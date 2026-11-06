@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the permissions test extension
+summary: Manifest V3 fixture declaring the test extension with a background service worker, used by the permissions request-from-background API test.

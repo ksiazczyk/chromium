@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: chrome.runtime privileged API test
+// summary: Runs browser tests asserting chrome.runtime id, getURL, getManifest and getVersion in the extension background page or service worker context.
+// ---
+
 const assertEq = chrome.test.assertEq;
 const assertTrue = chrome.test.assertTrue;
 const fail = chrome.test.fail;

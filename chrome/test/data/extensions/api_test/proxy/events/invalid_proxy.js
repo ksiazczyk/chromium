@@ -5,6 +5,12 @@
 // proxy api test
 // browser_tests.exe --gtest_filter=ProxySettingsApiTest.ProxyEventsInvalidProxy
 
+// ---docerion
+// type: test
+// title: Invalid proxy onProxyError browser test
+// summary: Sets an unreachable fixed proxy, sends an XHR, and asserts onProxyError reports ERR_PROXY_CONNECTION_FAILED.
+// ---
+
 const EXPECTED_ERROR = {
   error: 'net::ERR_PROXY_CONNECTION_FAILED',
   details: '',

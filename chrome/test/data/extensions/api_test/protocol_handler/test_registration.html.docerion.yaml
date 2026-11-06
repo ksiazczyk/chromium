@@ -1,0 +1,4 @@
+# Docerion header of test_registration.html.
+type: test
+title: Protocol handler registration test page
+summary: Loads common.js and test_registration.js to run the registerProtocolHandler browser tests.

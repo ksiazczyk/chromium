@@ -1,0 +1,4 @@
+# Docerion header of options.html.
+type: test
+title: Options page of the permissions test extension
+summary: Minimal HTML options page that loads options.js to run the permission request tests.

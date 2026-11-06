@@ -1,0 +1,4 @@
+# Docerion header of client-certs.cnf.
+type: config
+title: OpenSSL configuration for test client certificates
+summary: OpenSSL configuration defining CA settings, signing policy, and certificate extensions used to generate the test client certificates.

@@ -5,6 +5,12 @@
 // proxy api test
 // browser_tests.exe --gtest_filter=ProxySettingsApiTest.ProxyBypass
 
+// ---docerion
+// type: test
+// title: Proxy bypass settings browser test
+// summary: Sets fixed-server proxy rules with a bypass list via chrome.proxy.settings and verifies the stored configuration in regular and incognito profiles.
+// ---
+
 function expect(expected, message) {
   return chrome.test.callbackPass(function(value) {
     chrome.test.assertEq(expected, value, message);

@@ -5,6 +5,12 @@
 // proxy api test
 // browser_tests.exe --gtest_filter=ProxySettingsApiTest.ProxyFixedIndividual
 
+// ---docerion
+// type: test
+// title: Browser test setting and verifying individual fixed proxy servers
+// summary: Sets per-scheme fixed proxy rules via chrome.proxy.settings and verifies the resulting configuration for regular and incognito profiles.
+// ---
+
 function expect(expected, message) {
   return chrome.test.callbackPass(function(value) {
     chrome.test.assertEq(expected, value, message);

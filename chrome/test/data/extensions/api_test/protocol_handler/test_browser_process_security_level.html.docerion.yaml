@@ -1,0 +1,4 @@
+# Docerion header of test_browser_process_security_level.html.
+type: test
+title: Browser process security level test page
+summary: Hosts a localhost iframe and loads the scripts that set up nested localhost and chrome-extension frames for the security level test.

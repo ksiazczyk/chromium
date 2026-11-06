@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: JavaScript test for chrome.runtime.getPackageDirectoryEntry
+// summary: Verifies that getPackageDirectoryEntry returns the extension package directory tree, testing both the callback and promise-based forms.
+// ---
+
 function checkTree(root, expectedEntries) {
   const directoryReader = root.createReader();
   const contents = [];

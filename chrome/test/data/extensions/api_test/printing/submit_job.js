@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Submit job API test
+// summary: Browser test that submits a print job with a minimal ticket and asserts an OK status and a job ID.
+// ---
+
 chrome.test.getConfig(function(config) {
   const url = 'http://localhost:' + config.testServer.port + '/pdf/test.pdf';
   submitJob('id', 'test job', url, minimal_ticket, response => {

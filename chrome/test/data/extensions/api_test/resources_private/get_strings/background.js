@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background script for resourcesPrivate.getStrings API test
+// summary: Runs a browser test that calls resourcesPrivate.getStrings for the identity component and asserts the returned strings include window-title and language.
+// ---
+
 chrome.test.runTests([
   function testGetStrings() {
     chrome.resourcesPrivate.getStrings(

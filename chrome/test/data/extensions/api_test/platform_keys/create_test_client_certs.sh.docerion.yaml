@@ -1,0 +1,4 @@
+# Docerion header of create_test_client_certs.sh.
+type: script
+title: Generator script for test client certificates
+summary: Shell script that uses OpenSSL to generate the certificate tree, keys, and signature fixtures consumed by the platformKeys API tests.

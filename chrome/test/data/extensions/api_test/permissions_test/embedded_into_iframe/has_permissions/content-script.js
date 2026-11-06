@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Content script embedding extension iframe
+// summary: Content script that injects an iframe loading the extension's iframe_content.html with microphone, camera, and geolocation permissions allowed.
+// ---
+
 const iframe = document.createElement('iframe');
 iframe.name = 'iframe_with_embedded_extension';
 iframe.src =

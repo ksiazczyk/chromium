@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker for the sendMessage test
+// summary: Background service worker that answers ping, no-response, and asynchronous reply messages for the sendMessage test.
+// ---
+
 let asyncResponseCallback;
 
 // A simple onMessage listener we can send a "ping" message to and get a "pong"

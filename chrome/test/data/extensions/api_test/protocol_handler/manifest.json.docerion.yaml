@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the Protocol Handler Test extension
+summary: Minimal Manifest V3 extension manifest that identifies the Protocol Handler Test extension used by these browser tests.

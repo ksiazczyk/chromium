@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sandboxed pages CSP extension API test runner
+// summary: Test runner that loads sandboxed.html in an iframe, posts the local and remote frame URLs, and reports success via chrome.test.
+// ---
+
 const LOCAL_FILE_NAME = 'local_frame.html';
 const REMOTE_FILE_NAME = 'remote_frame.html';
 

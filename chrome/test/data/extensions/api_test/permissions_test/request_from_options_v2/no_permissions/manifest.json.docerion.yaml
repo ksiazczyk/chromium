@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the no-permissions options page test extension
+summary: Manifest of the Permissions test extension, declaring an options page and no permissions for the request_from_options_v2 API test.

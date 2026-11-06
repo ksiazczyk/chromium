@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the chrome.processes API test extension
+summary: Extension manifest for the end-to-end browser test of the chrome.processes API, requesting the processes and tabs permissions.

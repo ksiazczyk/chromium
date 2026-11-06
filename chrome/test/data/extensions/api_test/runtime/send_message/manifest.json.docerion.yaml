@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the chrome.runtime.sendMessage test
+summary: Extension manifest for the chrome.runtime.sendMessage browser test, registering worker.js as the background service worker.

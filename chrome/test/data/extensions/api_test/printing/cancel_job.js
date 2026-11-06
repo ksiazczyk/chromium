@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cancel print job test
+// summary: Submits a print job, cancels it while in progress, and asserts the PENDING, IN_PROGRESS and CANCELED status events.
+// ---
+
 chrome.test.getConfig(function(config) {
   // We expect three events: PENDING, IN_PROGRESS and CANCELED as the final
   // one.

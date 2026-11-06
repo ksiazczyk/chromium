@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background script tests for extension without permissions
+// summary: Runs browser tests checking that notifications, geolocation, camera and microphone permissions stay in prompt state and that getUserMedia requests fail for an extension with no permissions.
+// ---
+
 chrome.test.runTests([
   function checkNotifications() {
     navigator.permissions.query({name: 'notifications'})

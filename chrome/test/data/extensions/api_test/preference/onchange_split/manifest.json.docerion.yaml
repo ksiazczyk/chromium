@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Preferences API test extension manifest (Events)
+summary: Manifest for the Preferences API test extension that registers test.js as a service worker and enables split incognito mode with privacy and tabs permissions.

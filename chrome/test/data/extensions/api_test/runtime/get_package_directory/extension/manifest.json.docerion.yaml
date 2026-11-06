@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the getPackageDirectoryEntry test extension
+summary: Manifest for a Chrome extension fixture used to test chrome.runtime.getPackageDirectoryEntry in the runtime API test suite.

@@ -8,6 +8,12 @@
 // browser_tests.exe \
 // --gtest_filter=ExtensionApiTest.ChromeRuntimeUninstallURLHistogramTest
 
+// ---docerion
+// type: test
+// title: setUninstallURL histogram browser test
+// summary: Browser test that calls chrome.runtime.setUninstallURL() twice and expects only the second, secure URL to be counted in the histogram.
+// ---
+
 chrome.test.runTests([
   async function setUninstallURL() {
     // Set URL twice, only the second call (secure URL) should count.

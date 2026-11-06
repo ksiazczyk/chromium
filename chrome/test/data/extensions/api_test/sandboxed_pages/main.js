@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sandboxed pages extension API test script
+// summary: Test script that opens sandboxed.html in a window and an iframe and asserts that secrets cannot be read across the sandbox boundary.
+// ---
+
 const SECRET = 'main_window_secret';
 
 onmessage = function(event) {

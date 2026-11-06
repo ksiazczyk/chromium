@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Get print job status test
+// summary: Verifies getJobStatus returns null for an invalid job ID and COMPLETED for a successfully submitted job.
+// ---
+
 chrome.test.getConfig(function(config) {
   chrome.printing.getJobStatus('invalid_job_id', status => {
     chrome.test.assertEq(null, status);

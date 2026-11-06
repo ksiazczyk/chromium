@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Content script permission denial tests
+// summary: Runs chrome.test checks that notifications, geolocation, camera and microphone permissions are denied and cannot be requested from a content script.
+// ---
+
 chrome.test.runTests([
   // Notifications permissions is denied.
   function checkNotifications() {

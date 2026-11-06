@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: chrome.power basics test extension manifest
+summary: Manifest V3 extension manifest for the chrome.power API basics test, registering background.js as a service worker and requesting the power permission.

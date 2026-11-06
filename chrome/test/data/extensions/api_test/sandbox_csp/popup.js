@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: executeScript test for the sandbox CSP extension
+// summary: Uses chrome.test to verify that chrome.tabs.executeScript runs code on the active tab without producing a runtime error.
+// ---
+
 chrome.test.runTests([
   function checkExecuteScript() {
     chrome.tabs.query({active: true, currentWindow: true}, tabs => {

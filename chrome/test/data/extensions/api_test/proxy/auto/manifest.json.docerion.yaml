@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for chrome.proxy auto-detect browser test
+summary: Extension manifest for the chrome.proxy API browser test, registering test.js as service worker and requesting the proxy permission.

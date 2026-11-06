@@ -5,6 +5,12 @@
 // proxy api test
 // browser_tests.exe --gtest_filter=ProxySettingsApiTest.ProxyPacData
 
+// ---docerion
+// type: test
+// title: chrome.proxy PAC data browser test
+// summary: Sets an inline PAC script proxy configuration via chrome.proxy.settings and verifies the stored settings match the configured value.
+// ---
+
 function expect(expected, message) {
   return chrome.test.callbackPass(function(value) {
     chrome.test.assertEq(expected, value, message);

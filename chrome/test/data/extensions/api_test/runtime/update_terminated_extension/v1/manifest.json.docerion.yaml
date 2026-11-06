@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for version 1 test extension
+summary: Manifest defining version 1 of the test extension with a background script for the update test.

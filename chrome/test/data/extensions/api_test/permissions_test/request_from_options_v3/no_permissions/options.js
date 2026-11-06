@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Options page tests for permission checks and requests
+// summary: Runs chrome.test cases that query and request notifications, geolocation, camera, and microphone permissions from the extension options page.
+// ---
+
 chrome.test.runTests([
   function checkNotifications() {
     navigator.permissions.query({name: 'notifications'})

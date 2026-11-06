@@ -6,6 +6,12 @@
 // Run with browser_tests
 // --gtest_filter=ExtensionPreferenceApiTest.ThirdPartyCookiesAllowed
 
+// ---docerion
+// type: test
+// title: Service worker test for thirdPartyCookiesAllowed preference
+// summary: Sets, clears, and unsets the thirdPartyCookiesAllowed privacy setting via the chrome.privacy API, sending messages for browser_tests to verify.
+// ---
+
 function setTrue() {
   return new Promise((resolve) => {
     chrome.privacy.websites.thirdPartyCookiesAllowed.set(

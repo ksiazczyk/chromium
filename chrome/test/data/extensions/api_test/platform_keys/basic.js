@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Basic chrome.platformKeys API tests
+// summary: Service worker test extension that exercises client certificate selection, signing, and key usage through the chrome.platformKeys API.
+// ---
+
 'use strict';
 
 let systemTokenEnabled;

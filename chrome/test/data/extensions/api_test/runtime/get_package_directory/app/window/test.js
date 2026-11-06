@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: chrome.runtime.getPackageDirectoryEntry browser test
+// summary: Verifies the package directory entry contains the expected files and subfolder and that its entries are not writable.
+// ---
+
 expectedDirectoryEntries = {
   'background.js': true,
   'manifest.json': true,

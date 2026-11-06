@@ -5,6 +5,12 @@
 // Content settings API test
 // Run with browser_tests --gtest_filter=ExtensionApiTest.PreferenceOnChange
 
+// ---docerion
+// type: test
+// title: Preferences API onChange event test
+// summary: Browser test verifying that onChange events fire with expected values and control levels when hyperlinkAuditingEnabled is set, changed, and cleared, including incognito scope.
+// ---
+
 // Listen until |event| has fired with all of the values in |expected|.
 function listenUntil(event, expected) {
   const done = chrome.test.listenForever(event, function(value) {

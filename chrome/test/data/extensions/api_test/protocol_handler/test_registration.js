@@ -4,6 +4,12 @@
 
 // browser_tests --gtest_filter=ProtocolHandlerApiTest.Registration
 
+// ---docerion
+// type: test
+// title: Protocol handler registration test script
+// summary: Tests navigator.registerProtocolHandler, asserting thrown errors for invalid schemes and URLs and verifying successful registration and handler invocation.
+// ---
+
 function registerProtocolHandlerWithUserGesture(scheme, url, title) {
   return new Promise((resolve, reject) => {
     window.addEventListener('message', function(event) {

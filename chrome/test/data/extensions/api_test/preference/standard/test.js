@@ -5,6 +5,12 @@
 // Preferences API test
 // Run with browser_tests --gtest_filter=ExtensionPreferenceApiTest.Standard
 
+// ---docerion
+// type: test
+// title: Preferences API standard browser test
+// summary: Browser test verifying that privacy preferences across network, websites, and services roots return defaults and can be controlled or disabled by the extension.
+// ---
+
 const pn = chrome.privacy.network;
 const ps = chrome.privacy.services;
 

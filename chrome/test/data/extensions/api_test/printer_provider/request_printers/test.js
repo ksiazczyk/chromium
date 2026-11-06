@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Printer provider onGetPrintersRequested API test
+// summary: Service worker test that verifies the onGetPrintersRequested event callback behavior, including async responses, invalid arguments, and single-call enforcement.
+// ---
+
 chrome.test.sendMessage('loaded', function(test) {
   chrome.test.runTests([function printTest() {
     if (test === 'NO_LISTENER') {

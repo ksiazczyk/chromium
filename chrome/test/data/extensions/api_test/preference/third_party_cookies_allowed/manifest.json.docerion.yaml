@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Preferences API test extension manifest (thirdPartyCookiesAllowed)
+summary: Manifest for the browser test extension that grants the privacy permission and registers test.js as its service worker.

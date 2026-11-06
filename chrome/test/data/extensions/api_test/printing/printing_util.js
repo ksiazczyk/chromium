@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Printing test utilities
+// summary: Shared helpers for the printing API tests, providing minimal and margin-and-scale print tickets plus submitJob functions.
+// ---
+
 // Minimal required ticket.
 const minimal_ticket = {
   version: '1.0',

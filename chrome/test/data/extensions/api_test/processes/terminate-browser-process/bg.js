@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background script for cannot-terminate-browser-process test
+// summary: Extension test background script that gets the browser process info and asserts that terminating process 0 fails with a not-allowed error.
+// ---
+
 const fail = chrome.test.callbackFail;
 const pass = chrome.test.callbackPass;
 

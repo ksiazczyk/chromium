@@ -1,0 +1,4 @@
+# Docerion header of main.html.
+type: test
+title: Main page for sandboxed pages CSP test
+summary: Minimal HTML entry page that loads main.js for the sandboxed pages CSP extension API test.

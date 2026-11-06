@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the has_permissions test extension
+summary: Manifest for the test extension used in the request_from_options_v3 permissions test, declaring notifications and geolocation permissions and an options page.
