@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Certificate info implementation
+// summary: Implements CertificateInfo equality by comparing certificate fingerprints and supported signature algorithms.
+// ---
+
 #include "chromeos/components/certificate_provider/certificate_info.h"
 
 #include "net/cert/x509_certificate.h"

@@ -1,0 +1,4 @@
+# Docerion header of IDS_SHORTCUT_CUSTOMIZATION_ICON_LABEL_POWER.png.sha1.
+type: data
+title: SHA1 hash for the power icon label image
+summary: Stores the SHA1 checksum of the PNG image for the power icon label string in the ChromeOS shortcut customization resources.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Decrypt config Mojo traits implementation
+// summary: Implements Mojo enum and struct traits that map media decrypt status, encryption scheme, encryption pattern, subsample entry, and DecryptConfig types to their Chrome OS CDM Mojom counterparts.
+// ---
+
 #include "chromeos/components/cdm_factory_daemon/mojom/decrypt_config_mojom_traits.h"
 
 #include "base/notreached.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CdmStorageAdapter unit tests
+// summary: Unit tests for CdmStorageAdapter that verify read, write, exists, size and remove flows using mocked browser storage and CdmFile Mojo interfaces.
+// ---
+
 #include "chromeos/components/cdm_factory_daemon/cdm_storage_adapter.h"
 
 #include <utility>

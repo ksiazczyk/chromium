@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the DriveFS mojom directory
+summary: Delegates ownership of .mojom files in this directory to the IPC security owners with no parent approval.

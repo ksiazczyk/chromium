@@ -1,0 +1,4 @@
+# Docerion header of in_session_auth.mojom.
+type: source
+title: In-session auth Mojom interface
+summary: Defines the Mojo interface for requesting, validating, and invalidating authentication tokens for sensitive ChromeOS settings and password manager scenarios.

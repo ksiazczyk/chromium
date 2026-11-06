@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentDecryptionModuleAdapter implementation
+// summary: Implements the adapter between media ContentDecryptionModule and Decryptor interfaces and the ChromeOS CDM Mojo interface, covering sessions, promises and decryption with UMA reporting.
+// ---
+
 
 #include "chromeos/components/cdm_factory_daemon/content_decryption_module_adapter.h"
 

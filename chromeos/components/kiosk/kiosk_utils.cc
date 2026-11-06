@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Kiosk session detection implementation
+// summary: Implements checks that report whether a kiosk session of a given type is currently running via the user manager.
+// ---
+
 #include "chromeos/components/kiosk/kiosk_utils.h"
 
 #include "components/user_manager/user_manager.h"

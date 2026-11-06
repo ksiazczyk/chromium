@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CDM enum Mojo traits header
+// summary: Defines enum traits mapping media CDM enums such as message, session, init data, and HDCP version types to their chromeos.cdm.mojom counterparts.
+// ---
+
 #ifndef CHROMEOS_COMPONENTS_CDM_FACTORY_DAEMON_MOJOM_CDM_TYPES_ENUM_MOJOM_TRAITS_H_
 #define CHROMEOS_COMPONENTS_CDM_FACTORY_DAEMON_MOJOM_CDM_TYPES_ENUM_MOJOM_TRAITS_H_
 

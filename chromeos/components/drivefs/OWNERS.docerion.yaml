@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: DriveFS OWNERS
+summary: Delegates code ownership of the drivefs component to the OWNERS file of ui/file_manager.

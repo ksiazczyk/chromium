@@ -1,0 +1,4 @@
+# Docerion header of cdm_storage.mojom.
+type: source
+title: CdmStorage Mojo interface
+summary: Defines a per-origin CDM storage interface with read, write, exists, size, and remove operations handled by Chrome for the Widevine CE CDM.

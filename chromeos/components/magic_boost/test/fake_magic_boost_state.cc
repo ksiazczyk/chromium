@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake MagicBoostState implementation
+// summary: Implements the FakeMagicBoostState test double with stubbed consent, banner, and opt-in sync behavior plus setters for availability and enabled state.
+// ---
+
 #include "chromeos/components/magic_boost/test/fake_magic_boost_state.h"
 
 #include "base/types/expected.h"

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Kiosk directory metadata
+summary: Points the kiosk directory to shared ChromeOS app mode common metadata mixins.

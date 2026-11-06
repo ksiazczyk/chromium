@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CdmStorageAdapter class header
+// summary: Declares CdmStorageAdapter, which adapts the ChromeOS cdm::mojom::CdmStorage interface to media::mojom::CdmStorage and CdmFile for CDM file access.
+// ---
+
 #ifndef CHROMEOS_COMPONENTS_CDM_FACTORY_DAEMON_CDM_STORAGE_ADAPTER_H_
 #define CHROMEOS_COMPONENTS_CDM_FACTORY_DAEMON_CDM_STORAGE_ADAPTER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CdmKeyInformation Mojo traits implementation
+// summary: Implements conversion between media::CdmKeyInformation and its Mojo representation, including the key status enum mapping and struct reading.
+// ---
+
 #include "chromeos/components/cdm_factory_daemon/mojom/cdm_key_information_mojom_traits.h"
 
 #include "base/notreached.h"

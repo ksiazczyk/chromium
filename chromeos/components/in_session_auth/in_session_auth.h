@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InSessionAuth service header
+// summary: Declares the InSessionAuth mojo service class with token request, check and invalidation methods plus a TokenChecker interface.
+// ---
+
 #ifndef CHROMEOS_COMPONENTS_IN_SESSION_AUTH_IN_SESSION_AUTH_H_
 #define CHROMEOS_COMPONENTS_IN_SESSION_AUTH_IN_SESSION_AUTH_H_
 

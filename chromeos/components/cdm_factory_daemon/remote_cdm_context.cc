@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote CDM context implementation
+// summary: Implements RemoteCdmContext, which proxies media::CdmContext and Decryptor calls back through a Mojo CdmContextForOOPVD IPC connection for out-of-process video decoding, with sequence-affine state handling.
+// ---
+
 #include "chromeos/components/cdm_factory_daemon/remote_cdm_context.h"
 
 #include "base/functional/callback.h"

@@ -1,3 +1,9 @@
+---
+type: reference
+title: Firewall hole component security model
+summary: Documents the security model of the firewall_hole component, covering renderer isolation, browser brokering via PermissionBroker, and the lifeline file descriptor cleanup mechanism.
+---
+
 # Firewall Hole Component Security Model
 
 ## Overview

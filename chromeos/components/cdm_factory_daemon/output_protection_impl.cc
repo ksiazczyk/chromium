@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OutputProtectionImpl implementation
+// summary: Implements the OutputProtection Mojo interface by calling into the ash display ContentProtectionManager to query link status and enable HDCP content protection across displays.
+// ---
+
 #include "chromeos/components/cdm_factory_daemon/output_protection_impl.h"
 
 #include <utility>

@@ -1,0 +1,4 @@
+# Docerion header of output_protection.mojom.
+type: source
+title: Output protection Mojo interface
+summary: Defines the stable Mojo OutputProtection interface for querying output link types and enabling HDCP content protection on Chrome OS external display outputs.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FirewallHole unit tests
+// summary: Unit tests verifying that FirewallHole grants and denies TCP and UDP port access through a fake PermissionBroker client.
+// ---
+
 #include "chromeos/components/firewall_hole/firewall_hole.h"
 
 #include <utility>

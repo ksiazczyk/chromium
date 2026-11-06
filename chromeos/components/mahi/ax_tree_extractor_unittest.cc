@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AXTreeExtractor unit tests
+// summary: Unit test verifying that content extraction returns a null response when an accessibility tree update fails to unserialize.
+// ---
+
 #include "chromeos/components/mahi/ax_tree_extractor.h"
 
 #include <memory>

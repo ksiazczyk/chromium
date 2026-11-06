@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build file for DriveFS native messaging Mojom
+summary: Defines the GN mojom component target that builds the drivefs_native_messaging.mojom bindings with a dependency on Mojo base mojoms.

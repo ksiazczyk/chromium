@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ThreadSafeCertificateMap class header
+// summary: Declares ThreadSafeCertificateMap, which stores certificates per extension and supports lookups by fingerprint and SPKI under a lock.
+// ---
+
 #ifndef CHROMEOS_COMPONENTS_CERTIFICATE_PROVIDER_THREAD_SAFE_CERTIFICATE_MAP_H_
 #define CHROMEOS_COMPONENTS_CERTIFICATE_PROVIDER_THREAD_SAFE_CERTIFICATE_MAP_H_
 

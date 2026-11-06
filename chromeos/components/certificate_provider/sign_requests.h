@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SignRequests header for tracking pending certificate sign requests
+// summary: Declares the SignRequests class that tracks pending signing requests per extension and manages their certificates and callbacks.
+// ---
+
 #ifndef CHROMEOS_COMPONENTS_CERTIFICATE_PROVIDER_SIGN_REQUESTS_H_
 #define CHROMEOS_COMPONENTS_CERTIFICATE_PROVIDER_SIGN_REQUESTS_H_
 

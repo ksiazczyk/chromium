@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CDM storage adapter implementation
+// summary: Adapts the ChromeOS CdmStorage Mojo interface to media's CdmStorage, implementing read, write, exists, and size operations through CdmFile.
+// ---
+
 #include "chromeos/components/cdm_factory_daemon/cdm_storage_adapter.h"
 
 #include <utility>

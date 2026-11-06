@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the disks prefs source set
+summary: Defines the GN source_set that builds the disks preference sources with a dependency on //components/prefs.

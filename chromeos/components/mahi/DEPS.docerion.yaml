@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Mahi directory include rules
+summary: Defines the allowed include rules for the mahi directory, permitting screen AI mojom and accessibility headers.

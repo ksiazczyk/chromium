@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Certificate provider GN build definition
+summary: Defines the certificate_provider component sources, exports, dependencies, and the unit test source set for the ChromeOS certificate provider library.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Certificate provider interface
+// summary: Declares the abstract CertificateProvider interface for asynchronously retrieving client certificate identities.
+// ---
+
 #ifndef CHROMEOS_COMPONENTS_CERTIFICATE_PROVIDER_CERTIFICATE_PROVIDER_H_
 #define CHROMEOS_COMPONENTS_CERTIFICATE_PROVIDER_CERTIFICATE_PROVIDER_H_
 

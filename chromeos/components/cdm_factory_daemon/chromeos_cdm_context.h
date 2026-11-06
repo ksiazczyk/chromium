@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOsCdmContext interface
+// summary: Declares the ChromeOsCdmContext interface with ChromeOS-specific CDM extensions such as hardware key data, secure buffer allocation and encrypted slice header parsing.
+// ---
+
 #ifndef CHROMEOS_COMPONENTS_CDM_FACTORY_DAEMON_CHROMEOS_CDM_CONTEXT_H_
 #define CHROMEOS_COMPONENTS_CDM_FACTORY_DAEMON_CHROMEOS_CDM_CONTEXT_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for libsegmentation buildflags
+summary: GN build target that generates a buildflag header exposing ENABLE_MERGE_REQUEST and OVERLAY_INCLUDE_CBX flags.

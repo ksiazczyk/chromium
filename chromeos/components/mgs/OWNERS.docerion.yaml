@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners inherited from the kiosk component
+summary: Delegates code ownership for this directory to the owners of the kiosk component.

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the mgs component
+summary: Points the directory metadata to the shared app mode common metadata mixins.

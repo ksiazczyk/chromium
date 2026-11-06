@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CDM factory daemon proxy base implementation
+// summary: Implements the CdmFactoryDaemonProxy base class that binds BrowserCdmFactory Mojo receivers and provides the shared task runner.
+// ---
+
 #include "chromeos/components/cdm_factory_daemon/cdm_factory_daemon_proxy.h"
 
 #include "base/task/sequenced_task_runner.h"

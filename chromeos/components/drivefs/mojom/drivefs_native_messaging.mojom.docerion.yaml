@@ -1,0 +1,4 @@
+# Docerion header of drivefs_native_messaging.mojom.
+type: source
+title: DriveFS native messaging Mojom definitions
+summary: Declares stable Mojom interfaces and structs for native messaging between the DriveFS process and a browser extension.

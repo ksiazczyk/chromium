@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXTreeExtractor class declaration
+// summary: Declares the AXTreeExtractor class that distills AXTreeUpdate data and extracts content or content size using Screen2x or a rule-based algorithm.
+// ---
+
 #ifndef CHROMEOS_COMPONENTS_MAHI_AX_TREE_EXTRACTOR_H_
 #define CHROMEOS_COMPONENTS_MAHI_AX_TREE_EXTRACTOR_H_
 

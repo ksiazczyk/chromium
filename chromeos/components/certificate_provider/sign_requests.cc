@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sign request tracking implementation
+// summary: Implements tracking of pending signing requests per extension, including lookup by authenticating user and removal of requests.
+// ---
+
 #include "chromeos/components/certificate_provider/sign_requests.h"
 
 namespace chromeos {

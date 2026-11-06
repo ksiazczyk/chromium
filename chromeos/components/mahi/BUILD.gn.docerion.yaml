@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Mahi content extraction build targets
+summary: GN build file defining the content_extraction source set and the unit_tests target for the ChromeOS mahi component.

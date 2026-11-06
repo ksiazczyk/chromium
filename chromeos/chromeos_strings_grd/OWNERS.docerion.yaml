@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS approvals for string translation hash files
+summary: Allows any Chromium committer to approve changes to the *.png.sha1 string translation hashes in this directory.

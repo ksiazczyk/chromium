@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Output protection implementation unit tests
+// summary: Unit tests for OutputProtectionImpl that use a mock display system delegate and fake display snapshots to verify content protection behavior across display connection types.
+// ---
+
 #include "chromeos/components/cdm_factory_daemon/output_protection_impl.h"
 
 #include <array>

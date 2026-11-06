@@ -1,0 +1,4 @@
+# Docerion header of cdm_factory_daemon.mojom.
+type: source
+title: CdmFactoryDaemon Mojo interface
+summary: Defines the Mojo interface remoting the Widevine CE CDM and OEMCrypto between Chrome and the ChromeOS cdm-oemcrypto daemon, including CdmFactory.

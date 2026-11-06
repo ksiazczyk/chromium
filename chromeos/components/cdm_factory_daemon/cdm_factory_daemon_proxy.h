@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CDM factory daemon proxy base class
+// summary: Declares the CdmFactoryDaemonProxy base class handling GPU, Lacros, and Ash browser communication for hardware-backed CDMs and OEMCrypto.
+// ---
+
 #ifndef CHROMEOS_COMPONENTS_CDM_FACTORY_DAEMON_CDM_FACTORY_DAEMON_PROXY_H_
 #define CHROMEOS_COMPONENTS_CDM_FACTORY_DAEMON_CDM_FACTORY_DAEMON_PROXY_H_
 

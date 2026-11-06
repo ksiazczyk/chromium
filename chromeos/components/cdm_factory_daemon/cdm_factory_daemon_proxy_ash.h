@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash CDM factory daemon proxy class declaration
+// summary: Declares CdmFactoryDaemonProxyAsh, which exposes the daemon's CDM factory to the GPU process and the OemCrypto interface to ArcBridge.
+// ---
+
 #ifndef CHROMEOS_COMPONENTS_CDM_FACTORY_DAEMON_CDM_FACTORY_DAEMON_PROXY_ASH_H_
 #define CHROMEOS_COMPONENTS_CDM_FACTORY_DAEMON_CDM_FACTORY_DAEMON_PROXY_ASH_H_
 

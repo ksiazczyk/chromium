@@ -1,0 +1,4 @@
+# Docerion header of browser_cdm_factory.mojom.
+type: source
+title: BrowserCdmFactory Mojo interface
+summary: Defines the stable Mojo interface between browser, GPU, ash, and lacros processes for creating hardware-backed DRM CDM factories on ChromeOS.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Certificate request tracking class declaration
+// summary: Declares CertificateRequests, which manages pending certificate requests per extension, including timeouts and completion callbacks.
+// ---
+
 #ifndef CHROMEOS_COMPONENTS_CERTIFICATE_PROVIDER_CERTIFICATE_REQUESTS_H_
 #define CHROMEOS_COMPONENTS_CERTIFICATE_PROVIDER_CERTIFICATE_REQUESTS_H_
 

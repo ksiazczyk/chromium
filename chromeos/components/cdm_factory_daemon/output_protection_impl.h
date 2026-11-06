@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OutputProtectionImpl class header
+// summary: Declares OutputProtectionImpl, a Mojo OutputProtection implementation backed by the ash display system, with a DisplaySystemDelegate abstraction for testing.
+// ---
+
 #ifndef CHROMEOS_COMPONENTS_CDM_FACTORY_DAEMON_OUTPUT_PROTECTION_IMPL_H_
 #define CHROMEOS_COMPONENTS_CDM_FACTORY_DAEMON_OUTPUT_PROTECTION_IMPL_H_
 

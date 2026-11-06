@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Firewall hole component build definition
+summary: GN build file defining the firewall_hole component with its sources and dependencies, plus the unit_tests source_set.
