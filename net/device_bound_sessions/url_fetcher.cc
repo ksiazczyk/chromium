@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DBSC URL fetcher implementation
+// summary: Implements the DBSC URL fetcher that issues session requests with a network traffic annotation, watchdog timeout, and redirect handling.
+// ---
+
 #include "net/device_bound_sessions/url_fetcher.h"
 
 #include <optional>

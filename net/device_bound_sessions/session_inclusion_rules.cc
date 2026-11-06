@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SessionInclusionRules implementation
+// summary: Implements creation and URL evaluation of DBSC session inclusion rules, including host pattern matching and proto conversion.
+// ---
+
 #include "net/device_bound_sessions/session_inclusion_rules.h"
 
 #include <algorithm>

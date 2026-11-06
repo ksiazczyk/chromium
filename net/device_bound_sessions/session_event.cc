@@ -1,6 +1,13 @@
 // Copyright 2026 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: SessionEvent implementation
+// summary: Implements SessionEvent factory functions and detail structs for session creation, refresh, challenge, and termination events.
+// ---
+
 #include "net/device_bound_sessions/session_event.h"
 
 namespace net::device_bound_sessions {

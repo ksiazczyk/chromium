@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DBSC URL fetcher class declaration
+// summary: Declares URLFetcher, a URLRequest delegate that fetches DBSC session URLs with an optional timeout watchdog and redirect handling.
+// ---
+
 #ifndef NET_DEVICE_BOUND_SESSIONS_URL_FETCHER_H_
 #define NET_DEVICE_BOUND_SESSIONS_URL_FETCHER_H_
 

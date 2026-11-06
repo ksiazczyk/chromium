@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CookieCravingDisplay implementation
+// summary: Implements the constructors, destructor and assignment operators of the display-friendly CookieCraving struct.
+// ---
+
 #include "net/device_bound_sessions/cookie_craving_display.h"
 
 namespace net::device_bound_sessions {

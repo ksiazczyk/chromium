@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL rule display struct declaration
+// summary: Declares a display-friendly URL rule struct holding rule type, host pattern, and path prefix for showing session rules in UI.
+// ---
+
 #ifndef NET_DEVICE_BOUND_SESSIONS_URL_RULE_DISPLAY_H_
 #define NET_DEVICE_BOUND_SESSIONS_URL_RULE_DISPLAY_H_
 

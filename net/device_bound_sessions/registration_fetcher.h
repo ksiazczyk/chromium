@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RegistrationFetcher class for DBSC registration and refresh
+// summary: Declares RegistrationFetcher, which creates unexportable keys, signs registration JWTs, and fetches DBSC registration or refresh instructions over the network.
+// ---
+
 #ifndef NET_DEVICE_BOUND_SESSIONS_REGISTRATION_FETCHER_H_
 #define NET_DEVICE_BOUND_SESSIONS_REGISTRATION_FETCHER_H_
 

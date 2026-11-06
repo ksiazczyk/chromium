@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Session store unit tests
+// summary: Tests that SessionStore::Create validates the database path and the unexportable key service before creating a store.
+// ---
+
 #include "net/device_bound_sessions/session_store.h"
 
 #include "base/files/file_path.h"

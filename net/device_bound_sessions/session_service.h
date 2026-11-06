@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session service interface
+// summary: Declares the main Device Bound Session Credentials service interface covering registration, refresh, access and deferral.
+// ---
+
 #ifndef NET_DEVICE_BOUND_SESSIONS_SESSION_SERVICE_H_
 #define NET_DEVICE_BOUND_SESSIONS_SESSION_SERVICE_H_
 

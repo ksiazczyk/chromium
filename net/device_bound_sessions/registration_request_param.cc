@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RegistrationRequestParam factories for registration and refresh
+// summary: Implements RegistrationRequestParam factories that build request parameters for new session registration, session refresh, and testing.
+// ---
+
 #include "net/device_bound_sessions/registration_request_param.h"
 
 #include "net/device_bound_sessions/registration_fetcher_param.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Session binding utilities unit tests
+// summary: Tests creation of registration and refresh JWT headers and payloads, including audience claim handling and attestation statement serialization.
+// ---
+
 #include "net/device_bound_sessions/session_binding_utils.h"
 
 #include <optional>

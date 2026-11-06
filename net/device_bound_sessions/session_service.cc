@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session service factory
+// summary: Implements creation of the DBSC session service, wiring the unexportable key service and session store.
+// ---
+
 #include "net/device_bound_sessions/session_service.h"
 
 #include <memory>

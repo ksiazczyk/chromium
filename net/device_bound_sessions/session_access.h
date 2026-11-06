@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SessionAccess struct
+// summary: Declares a record of session access events with an access type, session key, and bound cookies populated on termination.
+// ---
+
 #ifndef NET_DEVICE_BOUND_SESSIONS_SESSION_ACCESS_H_
 #define NET_DEVICE_BOUND_SESSIONS_SESSION_ACCESS_H_
 

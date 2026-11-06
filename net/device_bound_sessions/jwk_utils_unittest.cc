@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: JWK utils unit tests
+// summary: Unit tests verifying JWK and thumbprint creation for RSA and EC P-256 keys, including unsupported key types.
+// ---
+
 #include "net/device_bound_sessions/jwk_utils.h"
 
 #include <cstdint>

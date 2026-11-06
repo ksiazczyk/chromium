@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session challenge parameter implementation
+// summary: Parses Secure-Session-Challenge response headers into session challenge parameters with optional session IDs.
+// ---
+
 #include "net/device_bound_sessions/session_challenge_param.h"
 
 #include <algorithm>

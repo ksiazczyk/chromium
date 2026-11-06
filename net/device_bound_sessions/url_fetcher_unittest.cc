@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DBSC URL fetcher unit tests
+// summary: Unit tests covering URLFetcher behavior such as basic success, redirects, timeouts, and client certificate requests using an embedded test server.
+// ---
+
 #include "net/device_bound_sessions/url_fetcher.h"
 
 #include <memory>

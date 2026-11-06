@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CookieCravingDisplay struct declaration
+// summary: Declares a display-friendly representation of a CookieCraving with name, domain, path and cookie attributes, used for DevTools.
+// ---
+
 #ifndef NET_DEVICE_BOUND_SESSIONS_COOKIE_CRAVING_DISPLAY_H_
 #define NET_DEVICE_BOUND_SESSIONS_COOKIE_CRAVING_DISPLAY_H_
 

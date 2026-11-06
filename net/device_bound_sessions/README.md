@@ -1,3 +1,12 @@
+---
+type: readme
+title: Device Bound Session Credentials
+summary: Explains the DBSC protocol implementation, covering request deferral, session refresh and registration, cookie cravings, on-disk storage and Chrome-specific policy decisions.
+relations:
+  - documents /net/device_bound_sessions/proto/storage.proto
+  - documents /net/device_bound_sessions/cookie_craving.h
+---
+
 # Device Bound Session Credentials
 
 This directory implements the DBSC protocol, as described in

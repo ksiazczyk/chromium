@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RegistrationResult holding session, error and stored cookies
+// summary: Implements RegistrationResult, which holds a created session, a no-change configuration result, or a session error along with cookies considered for storage.
+// ---
+
 #include "net/device_bound_sessions/registration_result.h"
 
 #include "net/device_bound_sessions/session.h"

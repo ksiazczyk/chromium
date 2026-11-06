@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CookieCraving implementation
+// summary: Implements creation, proto conversion and inclusion logic for CookieCraving, the cookie requirement attached to DBSC sessions.
+// ---
+
 #include "net/device_bound_sessions/cookie_craving.h"
 
 #include <optional>

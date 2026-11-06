@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Secure-Session-Registration header parsing
+// summary: Parses Secure-Session-Registration response headers into registration parameters, resolving and validating same-site endpoints and provider SSO or federated params.
+// ---
+
 #include "net/device_bound_sessions/registration_fetcher_param.h"
 
 #include <algorithm>

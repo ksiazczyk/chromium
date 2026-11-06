@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JWK creation and thumbprint implementation
+// summary: Implements creation of JSON Web Keys and RFC 7638 thumbprints for EC P-256 and RSA public keys.
+// ---
+
 #include "net/device_bound_sessions/jwk_utils.h"
 
 #include <cstddef>

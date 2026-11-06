@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RegistrationResult class
+// summary: Defines the outcome of a DBSC registration or refresh request as a variant of new session, no session config change, or session error.
+// ---
+
 #ifndef NET_DEVICE_BOUND_SESSIONS_REGISTRATION_RESULT_H_
 #define NET_DEVICE_BOUND_SESSIONS_REGISTRATION_RESULT_H_
 

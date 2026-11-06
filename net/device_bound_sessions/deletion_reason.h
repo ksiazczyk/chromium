@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session deletion reasons enum
+// summary: Defines the DeletionReason enum for session termination causes and logs them to the Net.DeviceBoundSessions.DeletionReason UMA histogram.
+// ---
+
 #ifndef NET_DEVICE_BOUND_SESSIONS_DELETION_REASON_H_
 #define NET_DEVICE_BOUND_SESSIONS_DELETION_REASON_H_
 

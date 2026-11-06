@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for RegistrationFetcherParam header parsing
+// summary: Unit tests verifying parsing of Secure-Session-Registration headers, covering valid parameters, endpoint resolution, and unsupported algorithms.
+// ---
+
 #include "net/device_bound_sessions/registration_fetcher_param.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session key identifier
+// summary: Defines the SessionKey struct that uniquely identifies a session by site and session ID.
+// ---
+
 #ifndef NET_DEVICE_BOUND_SESSIONS_SESSION_KEY_H_
 #define NET_DEVICE_BOUND_SESSIONS_SESSION_KEY_H_
 

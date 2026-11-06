@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RegistrationFetcher implementation for DBSC registration and refresh
+// summary: Implements the DBSC registration fetcher that creates unexportable keys, signs registration JWTs, and sends network requests to registration and refresh endpoints.
+// ---
+
 #include "net/device_bound_sessions/registration_fetcher.h"
 
 #include <algorithm>

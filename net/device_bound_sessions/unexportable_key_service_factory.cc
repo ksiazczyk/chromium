@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unexportable key service factory implementation
+// summary: Implements a singleton factory that lazily creates and shares the unexportable key service for device bound sessions, with a testing hook.
+// ---
+
 #include "net/device_bound_sessions/unexportable_key_service_factory.h"
 
 #include "base/logging.h"

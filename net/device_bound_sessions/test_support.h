@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DBSC test support utilities
+// summary: Declares test helpers including a test request handler for session registration, test keys and ScopedTestRegistrationFetcher for stubbing registration results.
+// ---
+
 #ifndef NET_DEVICE_BOUND_SESSIONS_TEST_SUPPORT_H_
 #define NET_DEVICE_BOUND_SESSIONS_TEST_SUPPORT_H_
 

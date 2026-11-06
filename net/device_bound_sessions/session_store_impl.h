@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session store implementation header
+// summary: Declares SessionStoreImpl, a SQLite-backed persistent store for device bound session data keyed by serialized SchemefulSite.
+// ---
+
 #ifndef NET_DEVICE_BOUND_SESSIONS_SESSION_STORE_IMPL_H_
 #define NET_DEVICE_BOUND_SESSIONS_SESSION_STORE_IMPL_H_
 

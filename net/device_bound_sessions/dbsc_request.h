@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DbscRequest class declaration
+// summary: Declares a URLRequest wrapper that enforces WebSocket URL rewriting at the type level for device bound session request handling.
+// ---
+
 #ifndef NET_DEVICE_BOUND_SESSIONS_DBSC_REQUEST_H_
 #define NET_DEVICE_BOUND_SESSIONS_DBSC_REQUEST_H_
 

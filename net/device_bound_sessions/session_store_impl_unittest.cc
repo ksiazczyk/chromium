@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Session store implementation unit tests
+// summary: Unit tests for the SQLite-backed session store covering load, save, delete, pruning of invalid entries and key restoration.
+// ---
+
 #include "net/device_bound_sessions/session_store_impl.h"
 
 #include <memory>

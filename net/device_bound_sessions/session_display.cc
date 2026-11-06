@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SessionDisplay implementation
+// summary: Implements the SessionDisplay struct that carries a display-friendly snapshot of a DBSC session for DevTools.
+// ---
+
 #include "net/device_bound_sessions/session_display.h"
 
 namespace net::device_bound_sessions {

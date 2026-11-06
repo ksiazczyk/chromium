@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FailedRequest struct declaration
+// summary: Declares a struct holding URL, net error, and response error details of failed device bound session requests, used for DevTools.
+// ---
+
 #ifndef NET_DEVICE_BOUND_SESSIONS_FAILED_REQUEST_H_
 #define NET_DEVICE_BOUND_SESSIONS_FAILED_REQUEST_H_
 
