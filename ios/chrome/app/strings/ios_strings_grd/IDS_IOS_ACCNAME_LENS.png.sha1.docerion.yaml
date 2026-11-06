@@ -1,0 +1,4 @@
+# Docerion header of IDS_IOS_ACCNAME_LENS.png.sha1.
+type: data
+title: Lens accessibility name screenshot hash
+summary: Stores the SHA-1 checksum of the screenshot for the Lens accessibility name string, used to track image changes for translators.

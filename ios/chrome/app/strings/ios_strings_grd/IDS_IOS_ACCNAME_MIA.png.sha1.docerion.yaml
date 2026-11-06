@@ -1,0 +1,4 @@
+# Docerion header of IDS_IOS_ACCNAME_MIA.png.sha1.
+type: data
+title: MIA accessibility name screenshot hash
+summary: Stores the SHA-1 checksum of the screenshot for the MIA accessibility name string, used to track image changes for translators.
