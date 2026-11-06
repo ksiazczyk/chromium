@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Internet config dialog WebUI tests
+// summary: WebUI tests for the internet-config dialog, verifying that cancel closes the dialog and connect or save button clicks increment the recorded settings change count.
+// ---
+
 import type {CrButtonElement, InternetConfigElement} from 'chrome://os-settings/os_settings.js';
 import {setUserActionRecorderForTesting} from 'chrome://os-settings/os_settings.js';
 import {MojoInterfaceProviderImpl} from 'chrome://resources/ash/common/network/mojo_interface_provider.js';

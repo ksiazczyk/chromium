@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Network summary WebUI tests
+// summary: WebUI tests for the network summary element, verifying default and hotspot summary items and the tether hosts section using fake network config and hotspot services.
+// ---
+
 import 'chrome://os-settings/os_settings.js';
 
 import type {NetworkSummaryElement} from 'chrome://os-settings/os_settings.js';

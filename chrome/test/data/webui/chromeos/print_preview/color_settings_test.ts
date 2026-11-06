@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Color settings tests
+// summary: Tests the color settings section, including setting updates from the dropdown, enforcement by global and destination policies, and sticky settings across destinations.
+// ---
+
 import 'chrome://print/print_preview.js';
 
 import type {ColorOption, PrintPreviewColorSettingsElement, PrintPreviewModelElement} from 'chrome://print/print_preview.js';

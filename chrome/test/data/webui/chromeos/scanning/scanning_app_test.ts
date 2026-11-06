@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scanning app tests
+// summary: Extensive WebUI tests for the scanning app covering scanner capabilities, scan settings, multi-page scans, dialogs, and saved settings.
+// ---
+
 import 'chrome://webui-test/chromeos/mojo_webui_test_support.js';
 import 'chrome://scanning/scanning_app.js';
 import 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';

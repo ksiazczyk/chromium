@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake metrics private API
+// summary: Fake of the chrome.metricsPrivate API that records metrics in memory so tests can assert on collected values.
+// ---
+
 const FALSE_COUNT = 0;
 const TRUE_COUNT = 1;
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Preview area tests
+// summary: WebUI tests for the print preview area, checking state transitions, preview loading, error handling for invalid printers, and printer setup messages.
+// ---
+
 import type {PrintPreviewPreviewAreaElement} from 'chrome://print/print_preview.js';
 import {Destination, DestinationOrigin, Error, Margins, MeasurementSystem, MeasurementSystemUnitType, NativeLayerImpl, PluginProxyImpl, PreviewAreaState, Size, State} from 'chrome://print/print_preview.js';
 // clang-format off

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: eSIM rename dialog tests
+// summary: WebUI test suite for the eSIM rename dialog, checking input focus, nickname validation, character count display, and rename results via a fake eSIM manager remote.
+// ---
+
 import 'chrome://os-settings/os_settings.js';
 
 import type {CrInputElement, EsimRenameDialogElement} from 'chrome://os-settings/os_settings.js';

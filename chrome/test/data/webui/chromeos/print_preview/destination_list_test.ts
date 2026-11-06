@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Destination list tests
+// summary: WebUI tests for the print preview destination list, verifying filtering of destinations by search query and the no-match hint display.
+// ---
+
 import type {PrintPreviewDestinationListElement, PrintPreviewDestinationListItemElement} from 'chrome://print/print_preview.js';
 import {Destination, DestinationOrigin, getTrustedHTML} from 'chrome://print/print_preview.js';
 import {flush} from 'chrome://resources/polymer/v3_0/polymer/polymer_bundled.min.js';

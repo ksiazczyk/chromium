@@ -7,6 +7,12 @@
  * Suite of tests for the Route class and collection of OsSettingsRoutes.
  */
 
+// ---docerion
+// type: test
+// title: OS Settings routes tests
+// summary: Tests the Route class and the OsSettingsRoutes collection, such as returning the top-level section ancestor for a route.
+// ---
+
 import 'chrome://os-settings/os_settings.js';
 
 import type {OsSettingsRoutes} from 'chrome://os-settings/os_settings.js';

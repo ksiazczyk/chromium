@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Known networks subpage WebUI tests
+// summary: WebUI tests for the settings-internet-known-networks-subpage element, covering preferred network selection, network lists, and menus with fake network config services.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 
 import type {SettingsInternetKnownNetworksPageElement} from 'chrome://os-settings/lazy_load.js';

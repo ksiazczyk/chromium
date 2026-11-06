@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Switch Access setup guide dialog tests
+// summary: WebUI tests for the switch access setup guide dialog, covering page navigation, switch assignment and auto-scan settings.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 import 'chrome://os-settings/os_settings.js';
 

@@ -7,6 +7,12 @@
  * Suite of tests for the Router singleton.
  */
 
+// ---docerion
+// type: test
+// title: Router singleton tests
+// summary: Tests the Router singleton for OS Settings, verifying that certain paths redirect to the correct route paths.
+// ---
+
 import 'chrome://os-settings/os_settings.js';
 
 import type {Router} from 'chrome://os-settings/os_settings.js';

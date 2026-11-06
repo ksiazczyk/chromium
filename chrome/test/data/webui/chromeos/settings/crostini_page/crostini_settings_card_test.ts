@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Crostini settings card WebUI tests
+// summary: WebUI tests for the Crostini settings card, covering supported, not allowed and enabled states plus deep-link focus behaviour.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 
 import type {CrostiniPortSetting, CrostiniSettingsCardElement} from 'chrome://os-settings/lazy_load.js';

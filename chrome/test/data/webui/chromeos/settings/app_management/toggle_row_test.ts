@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Toggle row element tests
+// summary: WebUI test suite covering toggle clicks, policy-disabled toggles, and accessibility attributes of the app management toggle row.
+// ---
+
 import 'chrome://os-settings/os_settings.js';
 
 import type {AppManagementToggleRowElement} from 'chrome://os-settings/os_settings.js';

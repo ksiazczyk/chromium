@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OS Settings WebUI Mocha browser tests
+// summary: C++ browser test harness that runs the OS Settings WebUI Mocha test suites under various feature flags, user and cryptohome configurations.
+// ---
+
 #include "ash/constants/ash_features.h"
 #include "ash/constants/webui_url_constants.h"
 #include "base/strings/strcat.h"

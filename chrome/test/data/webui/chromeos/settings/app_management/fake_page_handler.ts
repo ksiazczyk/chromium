@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake page handler for app management tests
+// summary: Provides a FakePageHandler test double that creates fake apps and permission sets for Chrome OS settings app management WebUI tests.
+// ---
+
 import {AppManagementStore} from 'chrome://os-settings/os_settings.js';
 import type {App, ExtensionAppPermissionMessage, PageHandlerInterface, PageHandlerRemote, PageRemote, Permission, RunOnOsLoginMode} from 'chrome://resources/cr_components/app_management/app_management.mojom-webui.js';
 import {AppType, InstallReason, InstallSource, PageHandlerReceiver, PermissionType, TriState, WindowMode} from 'chrome://resources/cr_components/app_management/app_management.mojom-webui.js';

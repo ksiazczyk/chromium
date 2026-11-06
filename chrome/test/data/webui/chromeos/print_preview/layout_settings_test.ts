@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Print preview layout settings tests
+// summary: Tests that the layout settings dropdown stays in sync with the portrait/landscape setting in both directions.
+// ---
+
 import 'chrome://print/print_preview.js';
 
 import type {PrintPreviewLayoutSettingsElement} from 'chrome://print/print_preview.js';

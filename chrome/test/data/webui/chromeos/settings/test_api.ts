@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OS Settings test API implementation
+// summary: Implements the WebUI side of the OS Settings test API, providing helpers to drive lock screen authentication, recovery dialogs and other settings pages in browser tests.
+// ---
+
 import 'chrome://os-settings/os_settings.js';
 import 'chrome://os-settings/lazy_load.js';
 

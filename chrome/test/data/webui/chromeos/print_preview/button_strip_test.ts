@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Button strip tests
+// summary: Tests the print preview button strip state handling, button ordering, print and cancel events, and print disabling for invalid PINs.
+// ---
+
 import type {CrButtonElement, PrintPreviewButtonStripElement} from 'chrome://print/print_preview.js';
 import {Destination, DestinationOrigin, State} from 'chrome://print/print_preview.js';
 import {assertEquals, assertFalse, assertTrue} from 'chrome://webui-test/chai_assert.js';

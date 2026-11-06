@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FaceGaze cursor card tests
+// summary: WebUI test suite for the FaceGaze cursor card, covering cursor control toggles, speed and precision sliders, and settings reset alerts.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 
 import type {FaceGazeCursorCardElement} from 'chrome://os-settings/lazy_load.js';

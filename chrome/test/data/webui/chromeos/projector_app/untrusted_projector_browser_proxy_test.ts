@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Untrusted Projector browser proxy TypeScript test
+// summary: TypeScript Mocha test asserting that the untrusted Projector browser proxy sendXhr call returns a successful empty response with no error.
+// ---
+
 import {JsNetErrorCode} from 'chrome-untrusted://projector/mojom/projector_types.mojom-webui.js';
 import {browserProxy} from 'chrome-untrusted://projector/untrusted_projector_browser_proxy.js';
 import {assertDeepEquals} from 'chrome-untrusted://webui-test/chai_assert.js';

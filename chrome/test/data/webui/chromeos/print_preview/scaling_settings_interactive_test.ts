@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scaling settings interactive tests
+// summary: Interactive tests for the scaling settings section, checking autofocus of the custom scaling input when switching between scaling types.
+// ---
+
 import type {PrintPreviewModelElement, PrintPreviewScalingSettingsElement} from 'chrome://print/print_preview.js';
 import {ScalingType} from 'chrome://print/print_preview.js';
 import {getDeepActiveElement} from 'chrome://resources/js/util.js';

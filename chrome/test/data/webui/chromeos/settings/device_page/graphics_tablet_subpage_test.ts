@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Graphics tablet subpage tests
+// summary: Tests the graphics tablet subpage, verifying device listing, customize button row visibility, and navigation to subpages.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 
 import type {SettingsGraphicsTabletSubpageElement} from 'chrome://os-settings/lazy_load.js';

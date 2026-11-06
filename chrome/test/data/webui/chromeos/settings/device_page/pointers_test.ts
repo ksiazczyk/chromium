@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Pointers settings tests
+// summary: WebUI tests for the pointers settings page, covering section visibility per connected device, reverse scrolling and deep link focus behavior.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 
 import type {SettingsPointersElement} from 'chrome://os-settings/lazy_load.js';

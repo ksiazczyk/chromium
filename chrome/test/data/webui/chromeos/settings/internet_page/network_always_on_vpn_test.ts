@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Always-on VPN WebUI tests
+// summary: WebUI tests for the network-always-on-vpn element, covering enable and lockdown toggles, service selection, and mode behavior with and without available VPN networks.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 
 import type {NetworkAlwaysOnVpnElement} from 'chrome://os-settings/lazy_load.js';

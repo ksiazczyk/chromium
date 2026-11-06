@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Customize button select tests
+// summary: Tests the customize button select element, verifying dropdown initialization, key combination labels, and that remapping changes fire button-remapping-changed and dialog events.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 import 'chrome://resources/polymer/v3_0/iron-test-helpers/mock-interactions.js';
 

@@ -5,6 +5,12 @@
 /* Suite of tests verifying the PDF viewer as served by Print Preview's data
  * source works as expected. */
 
+// ---docerion
+// type: test
+// title: Tests for the print preview PDF viewer
+// summary: WebUI tests verifying the PDF viewer served by print preview loads with the expected elements and that the page indicator renders labels.
+// ---
+
 import 'chrome://print/pdf/pdf_print_wrapper.js';
 
 import type {PdfViewerPrintElement} from 'chrome://print/pdf/pdf_print_wrapper.js';

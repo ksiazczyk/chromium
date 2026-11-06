@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Task continuation item tests
+// summary: WebUI tests for the task continuation item element, checking toggle and disabled link behavior when Chrome Sync is on or off.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 
 import type {SettingsMultideviceTaskContinuationItemElement} from 'chrome://os-settings/lazy_load.js';

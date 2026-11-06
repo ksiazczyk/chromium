@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Per-device touchpad page tests
+// summary: WebUI tests for the per-device touchpad page, verifying subsection counts when the touchpad list changes and internal versus external device naming.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 
 import type {SettingsPerDeviceTouchpadElement} from 'chrome://os-settings/lazy_load.js';

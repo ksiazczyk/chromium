@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Untrusted Projector browser proxy browser test
+// summary: C++ browser test that intercepts requests carrying the X-Projector-Test header with a JSON response and runs the Mocha suite for the untrusted Projector browser proxy.
+// ---
+
 #include <string_view>
 
 #include "ash/webui/projector_app/public/cpp/projector_app_constants.h"

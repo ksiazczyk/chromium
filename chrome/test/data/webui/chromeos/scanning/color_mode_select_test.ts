@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Color mode select tests
+// summary: Tests the color mode dropdown's option initialization, alphabetical sorting and default selection behavior.
+// ---
+
 import 'chrome://webui-test/chromeos/mojo_webui_test_support.js';
 import 'chrome://scanning/color_mode_select.js';
 

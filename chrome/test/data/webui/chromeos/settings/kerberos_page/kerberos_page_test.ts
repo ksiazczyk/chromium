@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Kerberos settings page tests
+// summary: WebUI tests for the Kerberos settings page, checking that the accounts subpage trigger navigates correctly and regains focus when returning from the subpage.
+// ---
+
 import 'chrome://os-settings/os_settings.js';
 
 import {KerberosAccountsBrowserProxyImpl} from 'chrome://os-settings/lazy_load.js';

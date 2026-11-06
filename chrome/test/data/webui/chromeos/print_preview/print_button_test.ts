@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Print button tests
+// summary: WebUI tests for print and cancel button behavior, including printing while the preview is still loading and hiding the preview before printing.
+// ---
+
 import type {CrButtonElement, NativeInitialSettings, PrintPreviewAppElement, PrintTicket} from 'chrome://print/print_preview.js';
 import {GooglePromotedDestinationId, NativeLayerImpl, PluginProxyImpl, State} from 'chrome://print/print_preview.js';
 import {flush} from 'chrome://resources/polymer/v3_0/polymer/polymer_bundled.min.js';

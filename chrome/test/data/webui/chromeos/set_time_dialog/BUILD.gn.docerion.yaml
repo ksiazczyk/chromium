@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: test
+title: Set time dialog WebUI tests build file
+summary: GN build definition for the set time dialog WebUI tests, listing the browser test and JS test files along with their TypeScript dependencies.

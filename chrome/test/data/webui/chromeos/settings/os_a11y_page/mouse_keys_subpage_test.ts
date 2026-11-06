@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mouse Keys subpage tests
+// summary: WebUI tests for the Mouse Keys accessibility subpage, covering dominant hand selection, primary keys toggle and keyboard previews.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 
 import type {SettingsMouseKeysSubpageElement} from 'chrome://os-settings/lazy_load.js';

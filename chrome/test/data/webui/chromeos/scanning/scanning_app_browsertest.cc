@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scanning app browser test suite
+// summary: Browser test harness that runs the Mocha test suites for each ChromeOS scanning WebUI component, from the action toolbar to source selection, using WebUIMochaBrowserTest.
+// ---
+
 #include "ash/webui/scanning/url_constants.h"
 #include "chrome/test/base/web_ui_mocha_browser_test.h"
 #include "content/public/test/browser_test.h"

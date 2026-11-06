@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tether connection dialog WebUI tests
+// summary: WebUI tests for the tether connection dialog, verifying the host device battery percentage display.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 
 import type {TetherConnectionDialogElement} from 'chrome://os-settings/lazy_load.js';

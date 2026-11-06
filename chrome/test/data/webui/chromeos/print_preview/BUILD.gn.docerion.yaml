@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for ChromeOS Print Preview WebUI tests
+summary: Defines the GN build target that compiles the ChromeOS Print Preview browser and interactive UI tests, listing platform-specific test files and TypeScript dependencies.

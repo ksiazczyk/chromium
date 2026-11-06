@@ -6,6 +6,12 @@
  * @fileoverview Fake implementation of chrome.system.display for testing.
  */
 
+// ---docerion
+// type: test
+// title: Fake chrome.system.display API for ChromeOS Settings tests
+// summary: Fake of the chrome.system.display API that simulates display info, layouts, mirroring, and overscan calibration for ChromeOS Settings tests.
+// ---
+
 import {assert} from 'chrome://resources/js/assert.js';
 import {PromiseResolver} from 'chrome://resources/js/promise_resolver.js';
 import {FakeChromeEvent} from 'chrome://webui-test/fake_chrome_event.js';

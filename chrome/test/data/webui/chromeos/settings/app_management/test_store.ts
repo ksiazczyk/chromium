@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test app management store
+// summary: Defines a TestAppManagementStore that replaces the global app management store instance with test state for WebUI tests.
+// ---
+
 import type {AppManagementActions, AppManagementPageState} from 'chrome://os-settings/os_settings.js';
 import {AppManagementStore, reduceAction} from 'chrome://os-settings/os_settings.js';
 import {createEmptyState} from 'chrome://resources/cr_components/app_management/util.js';

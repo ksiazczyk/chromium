@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Keyboard shortcut banner WebUI test suite
+// summary: Browser tests verifying that the ChromeOS settings keyboard-shortcut-banner element renders its header and sanitized keyboard shortcut descriptions with the expected structure.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 
 import type {KeyboardShortcutBanner} from 'chrome://os-settings/lazy_load.js';

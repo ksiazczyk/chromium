@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Customize buttons subsection tests
+// summary: Tests the customize buttons subsection element, including keyboard-driven reordering, the renaming dialog, and button remapping change events for pen and tablet buttons.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 import 'chrome://resources/polymer/v3_0/iron-test-helpers/mock-interactions.js';
 

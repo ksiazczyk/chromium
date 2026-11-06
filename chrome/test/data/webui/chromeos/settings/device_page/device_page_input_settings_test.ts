@@ -7,6 +7,12 @@
  * Browser tests for Input settings on the Device page.
  */
 
+// ---docerion
+// type: test
+// title: Device page input settings tests
+// summary: Browser tests for input settings on the Device page, verifying that input-related subpages such as input methods and dictionary editing are visible at their routes.
+// ---
+
 import 'chrome://os-settings/os_settings.js';
 
 import type {LanguagesModel} from 'chrome://os-settings/lazy_load.js';

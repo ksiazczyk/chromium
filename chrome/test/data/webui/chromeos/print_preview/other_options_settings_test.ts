@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tests for print preview other options settings
+// summary: WebUI tests verifying checkbox visibility and two-way binding for the header footer, CSS background, rasterize and selection only options.
+// ---
+
 import 'chrome://print/print_preview.js';
 
 import type {CrCheckboxElement, PrintPreviewModelElement, PrintPreviewOtherOptionsSettingsElement, Settings} from 'chrome://print/print_preview.js';

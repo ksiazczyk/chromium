@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scan to select tests
+// summary: WebUI tests for the Scan To dropdown, verifying initialization, folder selection through the select dialog, and canceling the dialog.
+// ---
+
 import 'chrome://webui-test/chromeos/mojo_webui_test_support.js';
 import 'chrome://scanning/scan_to_select.js';
 

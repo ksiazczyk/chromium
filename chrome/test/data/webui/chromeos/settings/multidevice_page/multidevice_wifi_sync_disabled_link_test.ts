@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Multidevice Wi-Fi sync disabled link tests
+// summary: WebUI tests verifying the Wi-Fi sync disabled link's aria labels, hidden spans, and navigation to the OS sync controls route.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 
 import type {SettingsMultideviceWifiSyncDisabledLinkElement} from 'chrome://os-settings/lazy_load.js';

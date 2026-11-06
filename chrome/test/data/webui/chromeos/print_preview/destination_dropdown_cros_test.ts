@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome OS destination dropdown tests
+// summary: WebUI tests for the Chrome OS print preview destination dropdown, covering list items, click and blur closing, and keyboard navigation highlighting.
+// ---
+
 import type {PrintPreviewDestinationDropdownCrosElement} from 'chrome://print/print_preview.js';
 import {Destination, DestinationOrigin} from 'chrome://print/print_preview.js';
 import {flush} from 'chrome://resources/polymer/v3_0/polymer/polymer_bundled.min.js';

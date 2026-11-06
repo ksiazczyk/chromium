@@ -4,6 +4,12 @@
 
 /** @fileoverview Utils for device page browser tests. */
 
+// ---docerion
+// type: test
+// title: Device page test utilities
+// summary: Shared helpers and fake preference data used by ChromeOS settings device page browser tests.
+// ---
+
 import type {CrSliderElement} from 'chrome://os-settings/os_settings.js';
 import {GeolocationAccessLevel} from 'chrome://os-settings/os_settings.js';
 import {pressAndReleaseKeyOn} from 'chrome://resources/polymer/v3_0/iron-test-helpers/mock-interactions.js';

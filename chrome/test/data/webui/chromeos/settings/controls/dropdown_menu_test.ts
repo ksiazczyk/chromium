@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Settings dropdown menu WebUI tests
+// summary: Tests the settings-dropdown-menu element with number and string options, verifying pref updates on selection, selection updates from pref changes, and handling of custom values.
+// ---
+
 import 'chrome://os-settings/os_settings.js';
 
 import type {SettingsDropdownMenuElement} from 'chrome://os-settings/os_settings.js';

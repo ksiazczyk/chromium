@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cellular setup dialog tests
+// summary: WebUI test suite verifying that the os-settings cellular setup dialog opens when the element is attached to the DOM.
+// ---
+
 import 'chrome://os-settings/os_settings.js';
 
 import type {OsSettingsCellularSetupDialogElement} from 'chrome://os-settings/os_settings.js';

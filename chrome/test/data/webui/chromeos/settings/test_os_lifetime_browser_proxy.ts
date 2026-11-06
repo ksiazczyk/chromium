@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Lifetime browser proxy test double
+// summary: Test double for the lifetime browser proxy that records restart, relaunch, sign-out and factory reset calls and simulates relaunch confirmation dialogs.
+// ---
+
 import type {LifetimeBrowserProxy} from 'chrome://os-settings/os_settings.js';
 import {TestBrowserProxy} from 'chrome://webui-test/test_browser_proxy.js';
 

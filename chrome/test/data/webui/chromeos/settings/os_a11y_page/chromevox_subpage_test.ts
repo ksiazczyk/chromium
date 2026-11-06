@@ -6,6 +6,12 @@
  * @fileoverview Test suite for the ChromeVox subpage in ChromeOS Settings.
  */
 
+// ---docerion
+// type: test
+// title: ChromeVox subpage tests
+// summary: WebUI test suite for the ChromeVox settings subpage, checking dropdowns, toggles, and inputs such as voice, braille tables, and virtual display dimensions.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 
 import type {SettingsChromeVoxSubpageElement} from 'chrome://os-settings/lazy_load.js';

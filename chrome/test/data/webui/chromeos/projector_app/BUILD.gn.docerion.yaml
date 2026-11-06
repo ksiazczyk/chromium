@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Projector app WebUI tests build definition
+summary: GN build file that defines the untrusted Projector app WebUI test target, listing its C++ and TypeScript test files, path mappings and TS dependencies.

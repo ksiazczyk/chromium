@@ -7,6 +7,12 @@
  * for testing.
  */
 
+// ---docerion
+// type: test
+// title: Fake language settings private API
+// summary: Fake of the chrome.languageSettingsPrivate API that serves sample language data and spellcheck dictionary events for settings tests.
+// ---
+
 import type {SettingsPrefsElement} from 'chrome://os-settings/os_settings.js';
 import {assert} from 'chrome://resources/js/assert.js';
 import {FakeChromeEvent} from 'chrome://webui-test/fake_chrome_event.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake CrosAudioConfig tests
+// summary: Tests the fake audio config implementation, verifying observer notifications for volume, active device, and property updates.
+// ---
+
 import {crosAudioConfigMojom, fakeCrosAudioConfig} from 'chrome://os-settings/os_settings.js';
 import {assertDeepEquals, assertEquals, assertTrue} from 'chrome://webui-test/chai_assert.js';
 import type {MockMethod} from 'chrome://webui-test/mock_controller.js';

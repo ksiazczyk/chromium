@@ -1,0 +1,4 @@
+# Docerion header of test_api.test-mojom.
+type: test
+title: OS Settings test API Mojo definitions
+summary: Defines Mojo interfaces that let C++ browser tests control and assert against the OS Settings UI, covering lock screen, recovery, PIN and Google Drive settings.

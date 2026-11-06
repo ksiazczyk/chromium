@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Select mixin tests
+// summary: Tests the select mixin, verifying onProcessSelectChange fires on UI changes but not on programmatic value updates.
+// ---
+
 import {SelectMixin} from 'chrome://print/print_preview.js';
 import {html, PolymerElement} from 'chrome://resources/polymer/v3_0/polymer/polymer_bundled.min.js';
 import {assertEquals} from 'chrome://webui-test/chai_assert.js';

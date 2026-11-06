@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Audio page tests
+// summary: WebUI tests for the ChromeOS Settings audio page, covering battery status handling and toggles for low battery sound, charging sounds and audio focus enforcement.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 
 import type {SettingsAudioElement} from 'chrome://os-settings/lazy_load.js';

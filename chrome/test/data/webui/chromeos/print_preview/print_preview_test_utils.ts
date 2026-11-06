@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Print preview test utilities
+// summary: Shared helpers for print preview WebUI tests, providing default initial settings, CDD capability templates, and common test setup functions.
+// ---
+
 import type {CapabilitiesResponse, Cdd, ColorOption, DpiOption, DuplexOption, ExtensionDestinationInfo, LocalDestinationInfo, MediaSizeCapability, MediaSizeOption, MediaTypeOption, NativeInitialSettings, PageOrientationOption} from 'chrome://print/print_preview.js';
 import {DEFAULT_MAX_COPIES, Destination, DestinationOrigin, DestinationStore, GooglePromotedDestinationId, MeasurementSystemUnitType, VendorCapabilityValueType} from 'chrome://print/print_preview.js';
 import type {CrInputElement} from 'chrome://resources/ash/common/cr_elements/cr_input/cr_input.js';

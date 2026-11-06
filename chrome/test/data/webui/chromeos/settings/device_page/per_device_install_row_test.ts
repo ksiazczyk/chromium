@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Per-device install row tests
+// summary: Web UI tests verifying that the per-device install row shows the correct install label and loads the companion app icon.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 
 import {PerDeviceInstallRowElement} from 'chrome://os-settings/lazy_load.js';

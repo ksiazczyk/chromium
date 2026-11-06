@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Copies settings tests
+// summary: Tests the copies settings section, covering max copies capability parsing, collate checkbox visibility, and copies input validation.
+// ---
+
 import type {PrintPreviewCopiesSettingsElement, PrintPreviewModelElement} from 'chrome://print/print_preview.js';
 import {DEFAULT_MAX_COPIES} from 'chrome://print/print_preview.js';
 import {assertEquals, assertFalse, assertTrue} from 'chrome://webui-test/chai_assert.js';

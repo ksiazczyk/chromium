@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Invalid settings test
+// summary: WebUI test suite verifying that an unavailable printer shows an error message, printing is disabled, and users can recover by selecting another printer.
+// ---
+
 import type {CrButtonElement, Destination, NativeInitialSettings, PrintPreviewAppElement} from 'chrome://print/print_preview.js';
 import {MeasurementSystemUnitType, NativeLayerImpl, PluginProxyImpl, State, whenReady} from 'chrome://print/print_preview.js';
 import {assert} from 'chrome://resources/js/assert.js';

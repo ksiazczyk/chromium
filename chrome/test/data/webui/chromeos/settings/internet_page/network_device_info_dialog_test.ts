@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Network device info dialog WebUI tests
+// summary: WebUI tests for the network-device-info-dialog element, verifying EID and IMEI display and EID QR code rendering using fake eSIM and canvas contexts.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 
 import type {NetworkDeviceInfoDialogElement} from 'chrome://os-settings/lazy_load.js';

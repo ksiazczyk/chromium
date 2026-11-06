@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Policy tests
+// summary: WebUI tests verifying how print preview applies printer policies such as allowed and default modes for color, duplex, pin, and background graphics settings.
+// ---
+
 import type {CrCheckboxElement, NativeInitialSettings, PolicyObjectEntry, PrintPreviewAppElement, SerializedSettings} from 'chrome://print/print_preview.js';
 import {BackgroundGraphicsModeRestriction, NativeLayerImpl, PluginProxyImpl} from 'chrome://print/print_preview.js';
 import type {CrButtonElement} from 'chrome://print/print_preview.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Customize pen buttons subpage tests
+// summary: Tests the pen button customization subpage for graphics tablets, covering navigation on device detachment, action list and meta key retrieval, and settings updates.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 
 import type {SettingsCustomizePenButtonsSubpageElement} from 'chrome://os-settings/lazy_load.js';

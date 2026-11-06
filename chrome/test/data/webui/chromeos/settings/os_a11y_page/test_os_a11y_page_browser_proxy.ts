@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OS accessibility page browser proxy test double
+// summary: Test double for the OS accessibility page browser proxy that records image label confirmation and screen reader state calls.
+// ---
+
 import type {OsA11yPageBrowserProxy} from 'chrome://os-settings/os_settings.js';
 import {TestBrowserProxy} from 'chrome://webui-test/test_browser_proxy.js';
 

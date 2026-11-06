@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Controlled radio button WebUI tests
+// summary: Tests the controlled-radio-button element, checking that it becomes disabled and shows a policy indicator when the pref is enforced and re-enables when enforcement is cleared.
+// ---
+
 // clang-format off
 import 'chrome://os-settings/os_settings.js';
 

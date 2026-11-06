@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Page size select tests
+// summary: Tests the page size dropdown's option initialization, sorting with fit-to-scan-area last and default selection behavior.
+// ---
+
 import 'chrome://webui-test/chromeos/mojo_webui_test_support.js';
 import 'chrome://scanning/page_size_select.js';
 

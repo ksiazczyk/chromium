@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Print preview custom margins tests
+// summary: WebUI tests for the print preview custom margins controls, covering margin dragging, clipping masks, scale transforms, and measurement system behavior.
+// ---
+
 import type {MarginsSetting, PrintPreviewMarginControlContainerElement, PrintPreviewMarginControlElement, PrintPreviewModelElement, Settings} from 'chrome://print/print_preview.js';
 import {CustomMarginsOrientation, Margins, MarginsType, MeasurementSystem, MeasurementSystemUnitType, Size, State} from 'chrome://print/print_preview.js';
 import {assertNotReached} from 'chrome://resources/js/assert.js';

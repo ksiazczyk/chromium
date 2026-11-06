@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake about page browser proxy for WebUI tests
+// summary: Test double implementing the about page browser proxy so ChromeOS settings tests can stub channel, update, version, and end-of-life info behavior.
+// ---
+
 import type {AboutPageBrowserProxy, ChannelInfo, EndOfLifeInfo, RegulatoryInfo, TpmFirmwareUpdateStatusChangedEvent, VersionInfo} from 'chrome://os-settings/os_settings.js';
 import {BrowserChannel, UpdateStatus} from 'chrome://os-settings/os_settings.js';
 import {webUIListenerCallback} from 'chrome://resources/js/cr.js';

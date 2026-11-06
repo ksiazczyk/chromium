@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for ChromeOS settings tests
+summary: Inherits code owners from the ChromeOS settings OWNERS file and asks reviewers to involve owners of affected teams.

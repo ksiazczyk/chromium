@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: test
+title: BUILD.gn for ChromeOS settings WebUI tests
+summary: GN build definition for the ChromeOS settings WebUI tests, listing fake and test files and defining the test API mojom targets.

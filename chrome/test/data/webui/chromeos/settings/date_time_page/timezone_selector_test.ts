@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Timezone selector element tests
+// summary: WebUI test suite for the timezone-selector element, verifying that the user timezone selector appears or is hidden depending on the per-user timezone flag.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 
 import type {TimezoneSelectorElement} from 'chrome://os-settings/lazy_load.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App language selection item WebUI tests
+// summary: WebUI test suite for the app language selection item, verifying label text derived from display, native display, or locale tag names and the visibility of the selection icon.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 
 import type {AppLanguageSelectionItemElement} from 'chrome://os-settings/lazy_load.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Kerberos accounts subpage tests
+// summary: WebUI tests for the Kerberos Accounts settings subpage, covering account list population, signed-in labels, and more-actions such as refresh, set active, and remove.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 
 import type {SettingsKerberosAccountsSubpageElement} from 'chrome://os-settings/lazy_load.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Destination settings test
+// summary: WebUI test suite for the destination settings element, covering dropdown state, recent and local destinations, Save to Drive, and PDF printer handling.
+// ---
+
 import type {LocalDestinationInfo, PrintPreviewDestinationSettingsElement, RecentDestination} from 'chrome://print/print_preview.js';
 import {Destination, DestinationErrorType, DestinationOrigin, DestinationState, DestinationStoreEventType, Error, GooglePromotedDestinationId, makeRecentDestination, NativeLayerImpl, NUM_PERSISTED_DESTINATIONS, State} from 'chrome://print/print_preview.js';
 import {assert} from 'chrome://resources/js/assert.js';

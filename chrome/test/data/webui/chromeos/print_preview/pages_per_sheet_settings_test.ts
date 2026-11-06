@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tests for print preview pages per sheet settings
+// summary: WebUI tests verifying that the pages per sheet dropdown and the underlying setting stay in sync when updated from either side.
+// ---
+
 import 'chrome://print/print_preview.js';
 
 import type {PrintPreviewPagesPerSheetSettingsElement} from 'chrome://print/print_preview.js';

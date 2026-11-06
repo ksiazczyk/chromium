@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Print preview sidebar tests
+// summary: WebUI tests for the print preview sidebar, checking setting visibility, managed print options, and sheet count calculations with duplex and copies.
+// ---
+
 import type {PrintPreviewModelElement, PrintPreviewSidebarElement} from 'chrome://print/print_preview.js';
 import {NativeLayerImpl} from 'chrome://print/print_preview.js';
 import {assertEquals} from 'chrome://webui-test/chai_assert.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Per-device keyboard page tests
+// summary: Web UI tests for the per-device keyboard page, verifying subsection updates when keyboards change and correct internal/external keyboard naming.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 
 import type {SettingsPerDeviceKeyboardElement} from 'chrome://os-settings/lazy_load.js';

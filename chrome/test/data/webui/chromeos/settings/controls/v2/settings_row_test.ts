@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SettingsRowElement unit tests
+// summary: WebUI tests verifying label and sublabel display, learn-more link behavior and leading icon rendering of the settings row.
+// ---
+
 import 'chrome://os-settings/os_settings.js';
 
 import {getTrustedHTML, SettingsRowElement, SettingsToggleV2Element} from 'chrome://os-settings/os_settings.js';

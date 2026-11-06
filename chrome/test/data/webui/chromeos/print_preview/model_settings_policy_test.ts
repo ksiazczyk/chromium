@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Print preview model settings policy tests
+// summary: Tests how color, duplex, and pin policies restrict, enforce, or leave modifiable the print preview model settings.
+// ---
+
 import type {PrintPreviewModelElement} from 'chrome://print/print_preview.js';
 import {ColorModeRestriction, Destination, DestinationOrigin, DuplexModeRestriction, Margins, PinModeRestriction, Size} from 'chrome://print/print_preview.js';
 import {loadTimeData} from 'chrome://resources/js/load_time_data.js';

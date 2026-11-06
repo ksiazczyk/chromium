@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Detailed build info subpage tests
+// summary: WebUI tests for the detailed build info subpage, checking browser proxy calls on initialization, channel change permissions, policy indicators, and deep linking to settings.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 
 import type {SettingsDetailedBuildInfoSubpageElement} from 'chrome://os-settings/lazy_load.js';

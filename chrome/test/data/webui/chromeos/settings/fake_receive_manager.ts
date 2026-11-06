@@ -6,6 +6,12 @@
  * @fileoverview Fake implementation of ReceiveManagerInterface for testing.
  */
 
+// ---docerion
+// type: test
+// title: Fake nearby share receive manager for ChromeOS Settings tests
+// summary: Fake implementation of the nearby share ReceiveManagerInterface that simulates share target arrivals, observers, and receive surface registration in tests.
+// ---
+
 import {nearbyShareMojom} from 'chrome://os-settings/os_settings.js';
 import {TestBrowserProxy} from 'chrome://webui-test/test_browser_proxy.js';
 

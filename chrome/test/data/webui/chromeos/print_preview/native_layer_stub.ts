@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Native layer stub for print preview tests
+// summary: Test stub implementing NativeLayer to simulate initial settings, printer lists, capabilities and preview responses for print preview WebUI tests.
+// ---
+
 import type {CapabilitiesResponse, ExtensionDestinationInfo, LocalDestinationInfo, NativeInitialSettings, NativeLayer, PageLayoutInfo} from 'chrome://print/print_preview.js';
 import {GooglePromotedDestinationId, PrinterType} from 'chrome://print/print_preview.js';
 import {assert} from 'chrome://resources/js/assert.js';

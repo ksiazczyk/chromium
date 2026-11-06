@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Multidevice Smart Lock item tests
+// summary: WebUI tests for the settings-multidevice-smartlock-item element, checking row visibility per host mode and feature state change requests with auth tokens.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 
 import type {SettingsMultideviceSmartlockItemElement} from 'chrome://os-settings/lazy_load.js';

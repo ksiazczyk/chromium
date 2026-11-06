@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Set time dialog mocha test suite
+// summary: WebUI mocha tests covering page readiness, date range limits, setting the date, reverting invalid dates, and system timezone changes.
+// ---
+
 import 'chrome://set-time/set_time.js';
 
 import {webUIListenerCallback} from 'chrome://resources/js/cr.js';

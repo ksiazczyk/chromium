@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Device page tests
+// summary: Large WebUI test suite for the settings device page, verifying row visibility for connected devices, subpage navigation, and behavior of display, audio and input controls.
+// ---
+
 import 'chrome://os-settings/os_settings.js';
 import 'chrome://os-settings/lazy_load.js';
 

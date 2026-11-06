@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Select-to-Speak subpage browser proxy test double
+// summary: Test double for the Select-to-Speak subpage browser proxy that emits sample TTS voice data and records preview and refresh calls.
+// ---
+
 import 'chrome://os-settings/os_settings.js';
 
 import type {SelectToSpeakSubpageBrowserProxy} from 'chrome://os-settings/os_settings.js';

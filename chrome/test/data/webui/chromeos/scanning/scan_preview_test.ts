@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scan preview tests
+// summary: WebUI tests for the scan preview element, covering helper text, scan progress, dark mode media queries, and accessibility features.
+// ---
+
 import 'chrome://webui-test/chromeos/mojo_webui_test_support.js';
 import 'chrome://scanning/scan_preview.js';
 

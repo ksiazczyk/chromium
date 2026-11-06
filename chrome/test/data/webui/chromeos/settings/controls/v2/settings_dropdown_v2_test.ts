@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SettingsDropdownV2Element unit tests
+// summary: WebUI tests for the v2 dropdown covering disabled state, pref enforcement, option selection and hidden options.
+// ---
+
 import 'chrome://os-settings/os_settings.js';
 
 import {SettingsDropdownV2Element} from 'chrome://os-settings/os_settings.js';

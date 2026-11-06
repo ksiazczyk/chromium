@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Settings slider WebUI tests
+// summary: Tests the settings-slider element, covering policy enforcement indicators, snapping to tick values, keyboard arrow and page key interactions, and pointer-driven value changes.
+// ---
+
 // clang-format off
 import 'chrome://os-settings/os_settings.js';
 

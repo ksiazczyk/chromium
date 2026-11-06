@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bruschetta subpage WebUI tests
+// summary: WebUI tests for the Bruschetta settings subpage, covering mic permission toggles, shutdown confirmation dialogs and related preferences.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 
 import type {BruschettaSubpageElement, CrostiniPortSetting} from 'chrome://os-settings/lazy_load.js';

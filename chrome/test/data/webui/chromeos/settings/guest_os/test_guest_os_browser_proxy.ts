@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test guest OS browser proxy mock
+// summary: Test double implementing the guest OS browser proxy to stub shared path and USB device calls for the guest OS settings tests.
+// ---
+
 import type {GuestOsBrowserProxy, GuestOsSharedUsbDevice} from 'chrome://os-settings/lazy_load.js';
 import {webUIListenerCallback} from 'chrome://resources/js/cr.js';
 import {TestBrowserProxy} from 'chrome://webui-test/test_browser_proxy.js';

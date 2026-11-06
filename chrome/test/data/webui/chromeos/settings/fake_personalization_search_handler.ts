@@ -7,6 +7,12 @@
  * testing.
  */
 
+// ---docerion
+// type: test
+// title: Fake personalization search handler for ChromeOS Settings tests
+// summary: Fake implementation of the personalization search handler mojo interface that returns configurable search results for ChromeOS Settings webUI tests.
+// ---
+
 import type {personalizationSearchMojom} from 'chrome://os-settings/os_settings.js';
 import type {String16} from 'chrome://resources/mojo/mojo/public/mojom/base/string16.mojom-webui.js';
 

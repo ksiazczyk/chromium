@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Task continuation disabled link tests
+// summary: WebUI tests for the task continuation disabled link element, asserting accessible links and navigation to Chrome sync settings.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 
 import type {SettingsMultideviceTaskContinuationDisabledLinkElement} from 'chrome://os-settings/lazy_load.js';

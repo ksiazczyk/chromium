@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test set time browser proxy
+// summary: Mock browser proxy that records calls to set time dialog handlers such as sendPageReady, setTimeInSeconds, and setTimezone for use in tests.
+// ---
+
 import {TestBrowserProxy} from 'chrome://webui-test/test_browser_proxy.js';
 
 /** @implements {SetTimeBrowserProxy} */

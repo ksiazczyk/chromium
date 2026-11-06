@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Network summary item WebUI tests
+// summary: WebUI tests for the network summary item element, covering the device enabled button state, SIM lock and eSIM handling, and network state display.
+// ---
+
 import 'chrome://os-settings/os_settings.js';
 
 import type {CrToggleElement, NetworkSummaryItemElement} from 'chrome://os-settings/os_settings.js';

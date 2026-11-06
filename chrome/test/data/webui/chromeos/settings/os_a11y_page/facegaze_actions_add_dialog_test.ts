@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FaceGaze actions add dialog tests
+// summary: WebUI test suite for the FaceGaze add action dialog, covering action and gesture selection, assigned key combos, and conflict warnings.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 
 import type {FaceGazeAddActionDialogElement} from 'chrome://os-settings/lazy_load.js';

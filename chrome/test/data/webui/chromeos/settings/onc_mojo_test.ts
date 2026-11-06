@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OncMojo network config serialization tests
+// summary: Unit tests for OncMojo helpers covering domain suffix and subject alternative name serialization plus baseline network config properties.
+// ---
+
 import {OncMojo} from 'chrome://resources/ash/common/network/onc_mojo.js';
 import {SubjectAltName_Type} from 'chrome://resources/mojo/chromeos/services/network_config/public/mojom/cros_network_config.mojom-webui.js';
 import {NetworkType, PolicySource} from 'chrome://resources/mojo/chromeos/services/network_config/public/mojom/network_types.mojom-webui.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AX annotations section tests
+// summary: WebUI test suite for the accessibility annotations section, verifying the main node annotations toggle, its pref, and Screen AI download state subtitles.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 import 'chrome://os-settings/os_settings.js';
 

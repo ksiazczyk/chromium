@@ -6,6 +6,12 @@
  * @fileoverview Fake implementation of chrome.quickUnlockPrivate for testing.
  */
 
+// ---docerion
+// type: test
+// title: Fake quickUnlockPrivate API for ChromeOS Settings tests
+// summary: Fake of the chrome.quickUnlockPrivate API that simulates PIN unlock modes, credentials, tokens, and lock screen preferences for ChromeOS Settings tests.
+// ---
+
 import {FakeChromeEvent} from 'chrome://webui-test/fake_chrome_event.js';
 
 /**

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Text-to-speech subpage WebUI tests
+// summary: WebUI test suite for the ChromeOS settings text-to-speech subpage covering focus restoration after navigation and kiosk mode subpage restrictions.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 
 import type {SettingsTextToSpeechSubpageElement} from 'chrome://os-settings/lazy_load.js';

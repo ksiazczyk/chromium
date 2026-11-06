@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Print preview margins settings tests
+// summary: Tests the margins settings dropdown, including updates from the setting, disabling by pages per sheet, and clearing of custom margins.
+// ---
+
 import type {PrintPreviewMarginsSettingsElement, PrintPreviewModelElement} from 'chrome://print/print_preview.js';
 import {MarginsType, State} from 'chrome://print/print_preview.js';
 import {assertEquals, assertFalse, assertTrue} from 'chrome://webui-test/chai_assert.js';

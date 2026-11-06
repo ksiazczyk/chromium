@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Drag and drop manager tests
+// summary: Tests the drag-and-drop manager for reordering customize button rows by simulating drag events and verifying drop callbacks.
+// ---
+
 import {CustomizeButtonRowElement, DragAndDropManager, getDataTransferOriginIndex, setDataTransferOriginIndex} from 'chrome://os-settings/lazy_load.js';
 import {assertEquals, assertTrue} from 'chrome://webui-test/chai_assert.js';
 import {flushTasks} from 'chrome://webui-test/polymer_test_util.js';

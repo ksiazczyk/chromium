@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scanning app test utilities
+// summary: Shared helpers for the scanning app tests, including scanner factories, select change helpers, and a fake MediaQueryList.
+// ---
+
 import type {UnguessableToken} from 'chrome://resources/mojo/mojo/public/mojom/base/unguessable_token.mojom-webui.js';
 import type {ColorMode, PageSize, Scanner, ScanSource} from 'chrome://scanning/scanning.mojom-webui.js';
 import {alphabeticalCompare} from 'chrome://scanning/scanning_app_util.js';

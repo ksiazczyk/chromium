@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Notification access setup dialog tests
+// summary: WebUI tests for the notification access setup dialog, simulating setup status changes and asserting button visibility across success and failure flows.
+// ---
+
 import 'chrome://os-settings/os_settings.js';
 
 import type {SettingsMultideviceNotificationAccessSetupDialogElement} from 'chrome://os-settings/os_settings.js';

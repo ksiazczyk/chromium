@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Date-time settings card WebUI tests
+// summary: WebUI test suite for the ChromeOS settings date-time card, covering timezone selection, auto-detection prefs, and 24-hour clock behavior using fake timezone data and a mock browser proxy.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 
 import type {DateTimeSettingsCardElement, TimezoneSelectorElement} from 'chrome://os-settings/lazy_load.js';

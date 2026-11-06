@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LockStateMixin unlock type tests
+// summary: WebUI test suite verifying that the LockStateMixin updates the selected unlock type when the screen lock preference is toggled.
+// ---
+
 import {LockScreenUnlockType, LockStateMixin, QuickUnlockBrowserProxyImpl} from 'chrome://os-settings/os_settings.js';
 import type {PrefsState, QuickUnlockBrowserProxy} from 'chrome://os-settings/os_settings.js';
 import {FingerprintBrowserProxyImpl} from 'chrome://os-settings/lazy_load.js';

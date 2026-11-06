@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Nearby Share high visibility page tests
+// summary: WebUI tests for the Nearby Share high visibility page, verifying default help text and error handling for timeout and registration failures.
+// ---
+
 import 'chrome://os-settings/os_settings.js';
 
 import type {NearbyShareHighVisibilityPageElement} from 'chrome://os-settings/os_settings.js';

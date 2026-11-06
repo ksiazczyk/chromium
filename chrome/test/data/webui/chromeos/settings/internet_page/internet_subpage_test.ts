@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Internet subpage WebUI tests
+// summary: WebUI tests for the settings-internet-subpage element, covering network lists, device states, eSIM management, and add-connection behavior with fake services.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 
 import type {CellularNetworksListElement, NetworkAlwaysOnVpnElement, NetworkListElement, SettingsInternetSubpageElement} from 'chrome://os-settings/lazy_load.js';

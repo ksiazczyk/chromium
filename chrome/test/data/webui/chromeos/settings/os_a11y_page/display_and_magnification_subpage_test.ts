@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Display and magnification subpage tests
+// summary: WebUI test suite for the display and magnification accessibility subpage, covering focus restoration, kiosk mode, and color filtering and magnification settings.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 
 import type {SettingsDisplayAndMagnificationSubpageElement} from 'chrome://os-settings/lazy_load.js';

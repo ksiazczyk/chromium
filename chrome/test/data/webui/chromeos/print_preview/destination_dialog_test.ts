@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Destination dialog tests
+// summary: WebUI tests for the print preview destination dialog, validating the displayed printer list including local, extension, and Save as PDF destinations.
+// ---
+
 import type {Destination, DestinationStore, LocalDestinationInfo, PrintPreviewDestinationDialogCrosElement, PrintPreviewDestinationListItemElement} from 'chrome://print/print_preview.js';
 import {DESTINATION_DIALOG_CROS_LOADING_TIMER_IN_MS, GooglePromotedDestinationId, makeRecentDestination, NativeLayerImpl} from 'chrome://print/print_preview.js';
 import {flush} from 'chrome://resources/polymer/v3_0/polymer/polymer_bundled.min.js';

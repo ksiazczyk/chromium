@@ -7,6 +7,12 @@
  * Suite of tests for page availability.
  */
 
+// ---docerion
+// type: test
+// title: OS Settings page availability tests
+// summary: Tests which OS Settings pages are available for normal and guest users, including Kerberos availability depending on the isKerberosEnabled flag.
+// ---
+
 import 'chrome://os-settings/os_settings.js';
 
 import type {OsPageAvailability} from 'chrome://os-settings/os_settings.js';

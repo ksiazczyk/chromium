@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Nearby Share confirm page tests
+// summary: WebUI tests for the Nearby Share confirm page, covering progress bar rendering, error states, and handling of all final transfer statuses.
+// ---
+
 import 'chrome://os-settings/os_settings.js';
 
 import type {NearbyShareConfirmPageElement} from 'chrome://os-settings/os_settings.js';

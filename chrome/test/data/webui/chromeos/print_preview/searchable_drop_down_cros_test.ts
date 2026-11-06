@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Searchable drop-down tests
+// summary: Tests the searchable drop-down element, covering list rendering, search filtering, selection by click and keyboard navigation.
+// ---
+
 import 'chrome://print/print_preview.js';
 
 import {getTrustedHTML} from 'chrome://print/print_preview.js';
