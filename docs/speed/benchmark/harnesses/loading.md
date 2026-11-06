@@ -1,3 +1,9 @@
+---
+type: guide
+title: Loading Benchmarks
+summary: Describes the Telemetry loading benchmarks that measure Chrome's loading performance under different network and caching conditions, including remote runs via Cluster Telemetry and key loading metrics.
+---
+
 # Loading benchmarks
 
 [TOC]

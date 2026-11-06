@@ -1,3 +1,13 @@
+---
+type: reference
+title: Android binary size trybot
+summary: Describes the android-binary-size trybot's measurements, checks such as size increase and dex method count, and how to respond when checks fail.
+relations:
+  - references /build/android/resource_sizes.py
+  - references /docs/speed/binary_size/metrics.md
+  - references /docs/speed/binary_size/optimization_advice.md
+---
+
 # Trybot: android-binary-size
 
 [TOC]

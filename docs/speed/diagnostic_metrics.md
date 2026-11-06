@@ -1,3 +1,11 @@
+---
+type: guide
+title: Making Metrics Actionable with Diagnostic Metrics
+summary: Explains summation, slicing, and proxy diagnostic metrics for breaking high-level user experience metrics down into actionable submetrics.
+relations:
+  - references /docs/speed/good_toplevel_metrics.md
+---
+
 # Making Metrics Actionable with Diagnostic Metrics
 
 [TOC]

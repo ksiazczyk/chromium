@@ -1,6 +1,13 @@
 ---
 name: update-web-vitals-changelog
 description: Instructions, workflows, templates, and pre-submission checklists for maintaining and updating Chrome Core Web Vitals speed metrics changelogs (INP, LCP, CLS, Soft Navigations).
+type: guide
+title: How to Update Web Vitals Changelogs
+summary: Guide with instructions, templates, and checklists for maintaining the Web Vitals metric changelogs, covering the two-tier document structure and discovery workflow.
+relations:
+  - references /docs/speed/metrics_changelog/inp.md
+  - references /docs/speed/metrics_changelog/lcp.md
+  - references /docs/speed/metrics_changelog/cls.md
 ---
 
 # How to Update Web Vitals Changelogs

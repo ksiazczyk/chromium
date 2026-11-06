@@ -1,3 +1,11 @@
+---
+type: reference
+title: chromium.perf Waterfall
+summary: Describes how the chromium.perf waterfall continuously builds, tests, and processes performance results on real hardware and where to report issues.
+relations:
+  - references /docs/speed/perf_lab_platforms.md
+---
+
 # chromium.perf Waterfall
 
 ## Overview

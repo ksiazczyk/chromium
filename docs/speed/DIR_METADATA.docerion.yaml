@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Speed docs bug tracker metadata
+summary: Sets the Monorail component and Buganizer component ID used for issues filed against the docs/speed directory.

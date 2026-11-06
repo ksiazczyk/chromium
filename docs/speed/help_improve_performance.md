@@ -1,3 +1,11 @@
+---
+type: guide
+title: Chrome is slow, what do I do?
+summary: Explains how to file Chrome speed bugs with traces and points to the detailed guide for investigating janky scroll and animation behavior.
+relations:
+  - references /docs/speed/debug-janks.md
+---
+
 # Chrome is slow, what do I do?
 
 ## How to file a bug

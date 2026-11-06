@@ -1,3 +1,12 @@
+---
+type: note
+title: GPU Command Buffer Security Research
+summary: Research report on the GPU Command Buffer covering its layered protocol design, usage in Chrome, security investment rationale, fuzzing, and features of attacker interest.
+relations:
+  - references /gpu/ipc/client/command_buffer_proxy_impl.h
+  - references /gpu/command_buffer/service/command_buffer_direct.h
+---
+
 # GPU Command Buffer
 
 Authors: chrome-offsec-team@google.com<br/>

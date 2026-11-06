@@ -1,3 +1,13 @@
+---
+type: guide
+title: Addressing Performance Regressions
+summary: Walks developers through responding to a bisect-flagged performance regression, from reading bug comments and dashboards to debugging and justifying regressions.
+relations:
+  - references /docs/speed/images/dashboard-alerts-page.png
+  - references /docs/speed/images/pinpoint-job-page.png
+  - references /docs/speed/perf_lab_platforms.md
+---
+
 # Addressing Performance Regressions
 
 The bisect bot just picked your CL as the culprit in a performance regression

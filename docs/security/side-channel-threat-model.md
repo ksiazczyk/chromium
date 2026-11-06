@@ -1,3 +1,9 @@
+---
+type: reference
+title: Post-Spectre Threat Model Re-Think
+summary: Describes Chrome's re-evaluated threat model and defensive approaches after Spectre and Meltdown, including Site Isolation and clock attenuation.
+---
+
 # Post-Spectre Threat Model Re-Think
 
 Contributors: awhalley, creis, dcheng, jschuh, jyasskin, lukasza, mkwst, nasko,

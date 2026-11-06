@@ -1,3 +1,12 @@
+---
+type: reference
+title: Lookalike Warnings in Google Chrome
+summary: Explains how Chrome detects and warns about lookalike domains, with examples of spoofing patterns, limitations of the checks, and why warnings vary between users.
+relations:
+  - references /docs/security/lookalikes/interstitial.png
+  - references /docs/security/lookalikes/tip.png
+---
+
 # "Lookalike" Warnings in Google Chrome
 
 [TOC]

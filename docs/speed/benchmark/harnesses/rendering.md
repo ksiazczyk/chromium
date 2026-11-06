@@ -1,3 +1,11 @@
+---
+type: guide
+title: Rendering Benchmarks
+summary: Overviews the rendering benchmarks that monitor Chrome's graphics performance, explaining the metrics, how to run them locally and on try bots, and how to handle regressions and add pages.
+relations:
+  - references /tools/perf/run_benchmark
+---
+
 # Rendering Benchmarks
 
 This document provides an overview of the benchmarks used to monitor Chrome’s graphics performance. It includes information on what benchmarks are available, how to run them, how to interpret their results, and how to add more tests to the benchmarks.

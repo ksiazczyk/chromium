@@ -1,3 +1,9 @@
+---
+type: reference
+title: Autofill across iframes
+summary: Documents the security policy and rationale governing when Chrome Autofill fills form fields across origins and iframes.
+---
+
 # Autofill across iframes
 
 Chrome Autofill fills in frame-transcending forms like the following example.

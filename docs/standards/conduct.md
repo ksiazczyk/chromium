@@ -1,3 +1,9 @@
+---
+type: reference
+title: Codes of Conduct for web standardization organizations
+summary: Links the codes of conduct of W3C, WHATWG, IETF, ECMA TC39, Khronos, FIDO and AOMedia, with escalation contacts for handling misbehavior.
+---
+
 # Codes of Conduct
 
 Chromium contributors participate in many organizations that standardize Web

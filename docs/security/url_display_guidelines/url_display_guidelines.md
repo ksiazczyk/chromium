@@ -1,3 +1,12 @@
+---
+type: guide
+title: Guidelines for URL Display
+summary: Best practices and pitfalls for building UI that displays URLs in browsers and apps, covering URL components, spoofing threats, canonicalization, elision, highlighting, and Chrome-specific display rules.
+relations:
+  - references /docs/security/url_display_guidelines/url_components.png
+  - references /docs/security/url_display_guidelines/not_secure.png
+---
+
 # Guidelines for URL Display
 
 *This document covers the best practices and pitfalls for building UI to display URLs in browsers and other apps. It covers the main categories of problems and challenges that we’ve seen in building Chrome. The guidance is intended to be generally applicable, but includes some Chrome-specific notes throughout.*

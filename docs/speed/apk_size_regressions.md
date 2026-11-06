@@ -1,3 +1,13 @@
+---
+type: guide
+title: How to Deal with Android Size Alerts
+summary: Steps for triaging Android APK size alerts, identifying culprit commits, filing bugs or silencing alerts, and debugging binary size increases.
+relations:
+  - references /docs/android_build_instructions.md
+  - references /tools/binary_size/README.md
+  - references /tools/binary_size/diagnose_bloat.py
+---
+
 # How to Deal with Android Size Alerts
 
 Googlers, see also: go/chrome-binary-size-garderning

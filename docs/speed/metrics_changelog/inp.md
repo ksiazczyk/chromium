@@ -1,3 +1,13 @@
+---
+type: changelog
+title: Interaction to Next Paint Changelog
+summary: Chronological list of changes, bug fixes and definition updates to the Interaction to Next Paint metric across Chrome releases, with links to Chromium commits.
+relations:
+  - references /docs/speed/metrics_changelog/2023_01_inp.md
+  - references /docs/speed/metrics_changelog/2023_03_inp.md
+  - references /docs/speed/metrics_changelog/2023_04_inp.md
+---
+
 # Interaction to Next Paint Changelog
 
 This is a list of changes to [Interaction to Next Paint](https://web.dev/inp).

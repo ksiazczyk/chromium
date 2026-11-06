@@ -1,3 +1,13 @@
+---
+type: guide
+title: Updating a Benchmark Owner
+summary: Explains what a benchmark owner is and walks through updating ownership for Telemetry and C++ perf benchmarks.
+relations:
+  - references /tools/perf/benchmarks/blink_perf.py
+  - references /tools/perf/generate_perf_data
+  - references /tools/perf/benchmark.csv
+---
+
 # Updating a Benchmark Owner
 
 ## Who is a benchmark owner?

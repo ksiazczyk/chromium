@@ -1,3 +1,9 @@
+---
+type: guide
+title: DPSL.js Migration Guide
+summary: Maps DPSL.js calls to the equivalent chrome.os extension API calls so OEMs can migrate away from the DPSL.js wrapper.
+---
+
 # DPSL.js Migration Guide
 
 # Objective

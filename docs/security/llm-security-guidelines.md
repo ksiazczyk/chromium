@@ -1,3 +1,11 @@
+---
+type: guide
+title: Security Guidelines for LLMs and other large models in Chrome
+summary: Guidelines for safely implementing Chrome features that use LLMs and other large models, covering memory safety, sandboxing, side channels, and model APIs.
+relations:
+  - references /docs/security/rule-of-2.md
+---
+
 # Security Guidelines for LLMs and other large models in Chrome
 
 Large language models (LLMs), generative artificial intelligence (GenAI) models,

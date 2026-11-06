@@ -1,3 +1,11 @@
+---
+type: changelog
+title: Image loading optimizations in Chrome 118 impacting LCP and CLS
+summary: Changelog entry for Chrome 118 image loading optimizations that extend the first-five-image priority to all sessions and prioritize image load tasks.
+relations:
+  - references /docs/speed/metrics_changelog/2023_08_image_loading.md
+---
+
 # Image loading optimizations in Chrome 118 that impact LCP and CLS
 
 We are launching two complementary changes for image loading optimizations:

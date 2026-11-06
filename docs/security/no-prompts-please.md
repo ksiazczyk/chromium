@@ -1,3 +1,11 @@
+---
+type: note
+title: You Probably Don't Need a Permission Prompt
+summary: Argues that permission prompts are overused for guarding web capabilities and explores alternative UX concepts such as user selection, direct controls, and embedded elements.
+relations:
+  - references /docs/security/no-prompts-please-images/permission-prompts.png
+---
+
 # You Probably Don’t Need a Permission Prompt
 
 It’s an often repeated folklore that functionality and security are fundamentally at odds with each other, but this need not be the case. The tension between functionality and security occurs when we cannot accurately determine user intent. And indeed, this is what the purpose of permission prompts is: **to make sure capability access meets users’ intentions and expectations**, given the purpose for which they are using the site or web app.

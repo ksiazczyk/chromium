@@ -1,3 +1,12 @@
+---
+type: readme
+title: Telemetry Extension API
+summary: Describes the architecture of the ChromeOS third-party Telemetry Extension platform, covering the extension, companion PWA, DPSL.js, permissions and data use restrictions.
+relations:
+  - references /docs/telemetry_extension/dpsl_migration.md
+  - references /docs/telemetry_extension/images/TelemetryExtensionArchitecture.png
+---
+
 # Telemetry Extension API
 
 This document describes the Architecture for the third-party Telemetry

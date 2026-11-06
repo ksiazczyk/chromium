@@ -1,3 +1,11 @@
+---
+type: reference
+title: Chrome Security FAQ
+summary: Comprehensive FAQ covering Chrome security processes, vulnerability reporting, threat model, severity determination, and bug disclosure policies.
+relations:
+  - references /docs/security/vrp-faq.md
+---
+
 # Chrome Security FAQ
 
 [TOC]

@@ -1,3 +1,13 @@
+---
+type: guide
+title: System Health Tests
+summary: Explains the System Health benchmarks, a common set of web user stories for Chrome speed projects, including how to debug regressions, run stories locally, and add new ones.
+relations:
+  - references /docs/memory-infra/memory_benchmarks.md
+  - references /docs/speed/benchmark/harnesses/loading.md
+  - references /docs/speed/benchmark/harnesses/power_perf.md
+---
+
 # System Health tests
 
 [TOC]

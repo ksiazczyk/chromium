@@ -1,3 +1,11 @@
+---
+type: guide
+title: Post-Spectre Web Development
+summary: Guidance for web developers on mitigating Spectre-style side-channel attacks, with concrete recommendations for subresources and cross-origin documents.
+relations:
+  - references /docs/security/side-channel-threat-model.md
+---
+
 # Post-Spectre Web Development
 
 Contributors: Artur Janc, Camille Lamy, Charlie Reis, Jun Kokatsu, Mike West.

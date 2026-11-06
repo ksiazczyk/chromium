@@ -1,3 +1,13 @@
+---
+type: reference
+title: Fuchsia binary size trybot
+summary: Describes the fuchsia-binary-size trybot's checks, local binary size checks, and ways to reduce Chrome-Fuchsia package size.
+relations:
+  - references /build/config/fuchsia/size_optimized_cast_receiver_args.gn
+  - references /build/fuchsia/binary_size_differ.py
+  - references /build/fuchsia/binary_sizes.py
+---
+
 # Trybot: fuchsia-binary-size
 
 [TOC]

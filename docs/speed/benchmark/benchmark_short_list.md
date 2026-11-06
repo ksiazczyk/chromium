@@ -1,3 +1,9 @@
+---
+type: guide
+title: Chrome Speed Benchmark Shortlist
+summary: Recommends a reduced set of Chrome benchmarks for developers to quickly gauge the performance impact of a change.
+---
+
 # Chrome Speed Benchmark Shortlist
 
 Target audience: if you are a Chrome developer who wants to quickly gauge how

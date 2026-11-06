@@ -1,3 +1,11 @@
+---
+type: reference
+title: How Safe Browsing Lookup Interacts with Navigation
+summary: Explains how Chrome's Safe Browsing checks (HPD, URT, HPRT) interact with the navigation phases, which checks block navigation, and how they affect navigation speed.
+relations:
+  - references /docs/security/safe_browsing/warning_screenshot.png
+---
+
 # How Safe Browsing Lookup Interacts with Navigation
 
 ## Overview

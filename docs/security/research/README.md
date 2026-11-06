@@ -1,3 +1,9 @@
+---
+type: readme
+title: Security Research Notes
+summary: Explains that the directory holds security research notes on Chromium areas of interest to attackers, published to preserve knowledge, onboard new team members, and aid external researchers.
+---
+
 # Security Research Notes
 
 This directory contains security research notes about parts of Chromium of particular interest to attackers.

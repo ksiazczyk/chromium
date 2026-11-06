@@ -1,3 +1,12 @@
+---
+type: note
+title: WebGPU Technical Report
+summary: Technical report on WebGPU security research covering the WebGPU API, Dawn, command buffer and shader compiler vulnerabilities, findings, and a GPU terminology glossary.
+relations:
+  - references /docs/security/research/graphics/resources/chromeoffensiv--25zv8cth637j.png
+  - references /docs/security/research/graphics/resources/chromeoffensiv--nb3icxsvqik.png
+---
+
 # WebGPU Technical Report
 
 Authors: [tiszka@chromium.org](mailto:tiszka@chromium.org),

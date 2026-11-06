@@ -1,3 +1,13 @@
+---
+type: readme
+title: Chrome Speed
+summary: Overview of the Chrome Speed documentation with contact information, links to user docs, and descriptions of the core teams and their work.
+relations:
+  - references /docs/speed/adding_tests_bots.md
+  - references /docs/speed/addressing_performance_regressions.md
+  - references /docs/speed/chrome_speed_operations.md
+---
+
 # Chrome Speed
 
 ## Contact information

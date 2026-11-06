@@ -1,3 +1,12 @@
+---
+type: reference
+title: Media Benchmarks
+summary: Gives an overview of the media benchmarking harness, which combines a media story set and a media metric to compute measurements such as seek time and time to play.
+relations:
+  - documents /tools/perf/benchmarks/media.py
+  - documents /tools/perf/page_sets/media_cases.py
+---
+
 # Media Benchmarks
 
 There is no detailed external version of the documentation for media Telemetry harness.

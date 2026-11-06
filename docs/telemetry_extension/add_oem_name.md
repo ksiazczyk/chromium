@@ -1,3 +1,11 @@
+---
+type: guide
+title: Customization Guide - OEM Name
+summary: Explains how to check, set and verify the OEM name in cros_config or model.yaml so ChromeOS devices can use the Telemetry Extension.
+relations:
+  - references /docs/telemetry_extension/README.md
+---
+
 # Customization Guide - OEM Name
 
 # Objective

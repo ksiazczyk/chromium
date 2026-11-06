@@ -1,3 +1,11 @@
+---
+type: note
+title: Chromium Graphics Security Overview
+summary: Snapshot of the team's attacker-perspective understanding of Chromium graphics, with a simplified WebGL and WebGPU diagram to help VRP contributors get started.
+relations:
+  - references /docs/security/research/graphics/resources/chrome_gfx_overview.png
+---
+
 # Chromium Graphics
 
 Authors: chrome-offsec-team@google.com<br/>

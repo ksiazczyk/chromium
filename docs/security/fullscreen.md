@@ -1,3 +1,9 @@
+---
+type: reference
+title: Chrome Fullscreen Security FAQ
+summary: Addresses security questions about the Fullscreen API, clarifying which fullscreen-related issues are considered security bugs.
+---
+
 # Chrome Fullscreen Security FAQ
 
 ## Overview

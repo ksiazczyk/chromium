@@ -1,3 +1,9 @@
+---
+type: reference
+title: Guidelines for delivery of Chrome behavior over the Internet
+summary: Explains why Chrome behavior should ship in the binary or via Component Updater rather than being delivered dynamically over the internet.
+---
+
 # Guidelines for delivery of Chrome behavior over the Internet
 
 **Summary**: It's OK to deliver _content_ to Chrome dynamically over the internet,

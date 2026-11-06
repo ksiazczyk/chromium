@@ -1,3 +1,9 @@
+---
+type: changelog
+title: Image loading experiments in Chrome 116 impacting LCP and CLS
+summary: Changelog entry for a Chrome 116 experiment raising the priority of the first five images and its likely effects on LCP and CLS.
+---
+
 # Image loading experiments in Chrome 116 that impact LCP and CLS
 
 ## Increase the priority of the first 5 images

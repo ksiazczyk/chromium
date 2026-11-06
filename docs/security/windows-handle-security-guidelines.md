@@ -1,3 +1,13 @@
+---
+type: guide
+title: Security Guidelines for HANDLEs on Windows
+summary: Guidelines for safely handling Windows HANDLEs in Chromium, recommending ScopedHandle and caution around pseudo handle values like INVALID_HANDLE_VALUE.
+relations:
+  - references /base/win/scoped_handle.h
+  - references /base/win/windows_handle_util.h
+  - references /base/files/file.h
+---
+
 # Security guidelines for HANDLEs on Windows
 
 TL;DR;

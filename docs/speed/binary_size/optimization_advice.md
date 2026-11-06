@@ -1,3 +1,13 @@
+---
+type: guide
+title: Optimizing Chrome's binary size
+summary: Gives advice for reducing Chrome's binary size on Android and Chrome OS, covering compressed resources, translations, images, and native and Java code.
+relations:
+  - references /docs/speed/binary_size/binary_size_explainer.md
+  - references /chrome/browser/ui/webui/webui_load_timer.cc
+  - references /chrome/chrome_repack_locales.gni
+---
+
 # Optimizing Chrome's Binary Size
 
 Read first: [binary_size_explainer.md](binary_size_explainer.md)

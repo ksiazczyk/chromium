@@ -1,3 +1,11 @@
+---
+type: reference
+title: Chrome Vulnerability Reward Program (VRP) News and FAQ
+summary: Documents the Chrome Vulnerability Reward Program, including news, reporting best practices, reward eligibility, bug lifecycle, and answers to frequently asked questions about security bug reports.
+relations:
+  - references /docs/security/shepherd.md
+---
+
 # Chrome Vulnerability Reward Program (VRP) News and FAQ
 
 [TOC]

@@ -1,3 +1,12 @@
+---
+type: reference
+title: Severity Guidelines for Security Issues
+summary: Defines guidelines for rating the severity of Chromium security issues from critical to low, including mitigating factors and prioritization.
+relations:
+  - references /docs/security/process-sandboxes-by-platform.md
+  - references /mojo/public/js/README.md
+---
+
 # Severity Guidelines for Security Issues
 
 [TOC]

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for the standards docs directory
+summary: Directory metadata pointing to the DIR_METADATA schema and listing spec-mentors@chromium.org as the owning team.

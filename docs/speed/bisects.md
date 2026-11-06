@@ -1,3 +1,13 @@
+---
+type: guide
+title: Bisecting Performance Regressions
+summary: Explains how to start Pinpoint performance bisects from the Chrome Performance Dashboard and how to interpret the resulting job data and traces.
+relations:
+  - references /docs/speed/addressing_performance_regressions.md
+  - references /docs/speed/images/bisect_graph.png
+  - references /docs/speed/images/pinpoint-trace-links.png
+---
+
 # Bisecting Performance Regressions
 
 The perf tests on chromium's continuous build are very long-running, so we

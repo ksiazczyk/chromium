@@ -1,3 +1,9 @@
+---
+type: decision
+title: No VM Sandboxes
+summary: Position paper arguing against using virtual machines as the sandbox isolation layer for Chromium processes, covering porting, I/O, performance, debugging and security concerns.
+---
+
 # No VM Sandboxes
 
 **As of: 2025-12-17**

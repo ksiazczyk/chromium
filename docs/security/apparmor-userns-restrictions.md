@@ -1,3 +1,9 @@
+---
+type: guide
+title: Running Chromium developer builds under AppArmor userns restrictions
+summary: Explains how to run Chromium developer builds on Ubuntu 23.10+ despite user namespace restrictions, with several options of increasing safety.
+---
+
 # AppArmor User Namespace Restrictions vs. Chromium Developer Builds
 
 ## Short summary

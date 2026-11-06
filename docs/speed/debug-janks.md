@@ -1,3 +1,13 @@
+---
+type: guide
+title: Investigating scroll/animation jank
+summary: Guide to collecting traces with chrome:tracing and using FrameSequenceTracker events to locate the cause of janky scrolling or animations.
+relations:
+  - references /docs/speed/debug-janks-resources/click-flow-check.png
+  - references /docs/speed/debug-janks-resources/click-flow-events.png
+  - references /docs/speed/debug-janks-resources/click-process-close.png
+---
+
 # Investigating scroll/animation jank
 
 You are noticing janks when you are scrolling a page, or during an animation.

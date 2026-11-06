@@ -1,3 +1,9 @@
+---
+type: guide
+title: Mojo Style Guide
+summary: Style and security best practices for writing Mojo IPC interfaces and their C++ and Java usage, compiled by Mojo and IPC reviewers.
+---
+
 # Mojo "Style" Guide
 
 Mojo is Chrome's new IPC system and provides lots of useful abstractions. These

@@ -1,3 +1,12 @@
+---
+type: guide
+title: Chromium SECURITY.md Guidelines
+summary: Explains how to write an effective SECURITY.md for Chromium components, covering security boundaries, threat models, the Rule of Two, and explicit non-bugs.
+relations:
+  - references /docs/security/security-for-agents.md
+  - references /docs/security/severity-guidelines.md
+---
+
 # Chromium `SECURITY.md` Guidelines
 
 This document explains how to write an effective SECURITY.md for components in Chromium. A SECURITY.md lives in your component's directory and documents its security boundaries, process model, threat assumptions, and explicit non-bugs for reviewers, maintainers, security researchers, and AI tools.

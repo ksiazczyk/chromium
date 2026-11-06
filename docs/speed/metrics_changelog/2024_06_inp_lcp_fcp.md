@@ -1,3 +1,11 @@
+---
+type: changelog
+title: INP, LCP, and FCP changes in Chrome 126
+summary: Changelog entry for the NewPresentationFeedbackTimeStamps launch on Mac in Chrome 126, which increases INP, LCP and FCP latency by about 20 ms.
+relations:
+  - references /ui/gfx/presentation_feedback.h
+---
+
 # INP, LCP, and FCP Changes in Chrome 126
 
 ## Launch NewPresentationFeedbackTimeStamps to 100% Stable on Mac

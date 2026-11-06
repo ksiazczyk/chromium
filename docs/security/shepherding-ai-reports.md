@@ -1,3 +1,9 @@
+---
+type: guide
+title: Shepherding AI Reports
+summary: Helps security shepherds spot AI-generated vulnerability reports and triage them with extra skepticism and lower priority.
+---
+
 # Shepherding AI Reports
 
 Chrome Security is getting an increasing amount of vulnerability reports that

@@ -1,3 +1,11 @@
+---
+type: guide
+title: Android Start-up Performance
+summary: Explains Chrome's Android start-up scenarios and stages, lists UMA and ChromePerf metrics for measuring start-up, and gives tips for testing start-up changes with Pinpoint.
+relations:
+  - references /docs/speed/perf_lab_platforms.md
+---
+
 # Android Start-up Performance
 
 ## Stages of Start-up

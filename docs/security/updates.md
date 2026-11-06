@@ -1,3 +1,9 @@
+---
+type: reference
+title: Chrome Security Update FAQ
+summary: FAQ explaining that nearly all Chrome updates include security fixes and recommending applying all updates promptly rather than prioritizing them.
+---
+
 # Chrome Security Update FAQ
 
 _Bookmark this page as https://g.co/chrome/security-update-faq_

@@ -1,3 +1,11 @@
+---
+type: readme
+title: Developing web standards within Chromium
+summary: Explains that web-exposed Chromium features require a public standardization process and points to the specification mentorship program and conduct resources.
+relations:
+  - references /docs/standards/conduct.md
+---
+
 # Developing web standards within Chromium
 
 The [Chromium process for launching

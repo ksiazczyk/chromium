@@ -1,3 +1,13 @@
+---
+type: changelog
+title: First Input Delay Changelog
+summary: Index of First Input Delay changes, noting its September 2024 deprecation in favor of Interaction to Next Paint and linking to historical entries.
+relations:
+  - references /docs/speed/metrics_changelog/2019_07_fid.md
+  - references /docs/speed/metrics_changelog/2020_05_fid.md
+  - references /docs/speed/metrics_changelog/2021_05_fid.md
+---
+
 # First Input Delay Changelog
 
 This is a list of changes to [First Input Delay](https://web.dev/fid).

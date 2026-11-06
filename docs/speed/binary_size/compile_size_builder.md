@@ -1,3 +1,13 @@
+---
+type: reference
+title: compile-size builder
+summary: Describes the compile-size trybot that guards C++ compiler input size growth and explains how to inspect reports, fix, or skip the check.
+relations:
+  - references /docs/speed/binary_size/compile_size_diff_report.png
+  - references /docs/speed/binary_size/compile_size_steps.png
+  - references /styleguide/c++/c++-dos-and-donts.md
+---
+
 # `compile-size` Builder
 
 [TOC]

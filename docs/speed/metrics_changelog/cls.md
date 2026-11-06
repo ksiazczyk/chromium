@@ -1,3 +1,13 @@
+---
+type: changelog
+title: Cumulative Layout Shift Changelog
+summary: Index of Cumulative Layout Shift changes by Chrome milestone, linking to detailed changelog entries for each metric definition improvement.
+relations:
+  - references /docs/speed/metrics_changelog/2020_06_cls.md
+  - references /docs/speed/metrics_changelog/2020_10_cls.md
+  - references /docs/speed/metrics_changelog/2020_10_cls_2.md
+---
+
 # Cumulative Layout Shift Changelog
 
 This is a list of changes to [Cumulative Layout Shift](https://web.dev/cls).

@@ -1,3 +1,11 @@
+---
+type: decision
+title: No Cross-Origin Full-Page Overlays
+summary: Security UX policy forbidding cross-origin full-page overlays in Chrome features, with examples of past overlay problems and comparisons to non-overlay cases.
+relations:
+  - references /docs/navigation_concepts.md
+---
+
 # No Cross-Origin Full-Page Overlays
 
 Chrome features should not include cross-origin overlays that fully obscure an

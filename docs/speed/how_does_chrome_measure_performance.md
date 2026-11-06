@@ -1,3 +1,13 @@
+---
+type: reference
+title: How Chrome Measures Performance
+summary: Overview of how Chrome collects performance data in labs and from end users, with links to domains, benchmarks, trybots, and metric documentation.
+relations:
+  - references /docs/speed/speed_domains.md
+  - references /docs/speed/perf_waterfall.md
+  - references /docs/speed/bisects.md
+---
+
 # How Chrome Measures Performance
 
 Chrome collects performance data both in the lab and from end users. There are

@@ -1,3 +1,9 @@
+---
+type: reference
+title: document.domain Deprecation
+summary: Explains the deprecation of the document.domain setter in Chrome, including timeline, technical background, testing methods, and migration guidance.
+---
+
 # `document.domain` Setting is Deprecated
 
 Setting [`document.domain`](https://developer.mozilla.org/en-US/docs/Web/API/Document/domain)

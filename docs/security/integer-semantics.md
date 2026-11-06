@@ -1,3 +1,11 @@
+---
+type: guide
+title: Integer Semantics, Unsafety, And You
+summary: Security tips on the subtleties of integer types and safe arithmetic across C++, Java, and JavaScript in IPC, memory management, and parsing situations.
+relations:
+  - references /base/numerics/README.md
+---
+
 # Integer Semantics, Unsafety, And You
 
 [TOC]

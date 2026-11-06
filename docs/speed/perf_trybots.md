@@ -1,3 +1,12 @@
+---
+type: guide
+title: Perf Try Bots
+summary: Explains why and how to start performance try jobs with Pinpoint and how to interpret their results for a Gerrit patch.
+relations:
+  - references /docs/speed/images/pinpoint-perf-try-button.png
+  - references /docs/speed/images/pinpoint-perf-try-dialog.png
+---
+
 # Perf Try Bots
 
 Chrome has a performance lab with dozens of device and OS configurations.

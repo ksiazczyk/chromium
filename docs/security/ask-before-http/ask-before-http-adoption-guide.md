@@ -1,3 +1,11 @@
+---
+type: guide
+title: Adapting your website for Chrome’s Ask-before-HTTP warning
+summary: FAQ-style guide explaining Chrome’s Ask-before-HTTP warning and how site owners can migrate to HTTPS, test for triggering pages, and use enterprise allowlist policies.
+relations:
+  - references /docs/security/ask-before-http/ask-before-http-warning.png
+---
+
 # Adapting your website for Chrome’s “Ask-before-HTTP” warning
 
 ![Screenshot of Chrome's 'Ask-before-HTTP' warning](ask-before-http-warning.png)

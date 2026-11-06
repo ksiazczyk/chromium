@@ -1,3 +1,9 @@
+---
+type: readme
+title: 'Graphics Security Research: Why the GPU Process'
+summary: Introduces the graphics security research folder by explaining why the GPU process is an attractive target for remote code execution and privilege escalation.
+---
+
 ## Why Graphics?
 
 The GPU process is interesting from an attacker perspective for several reasons.

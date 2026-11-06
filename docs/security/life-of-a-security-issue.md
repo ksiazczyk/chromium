@@ -1,3 +1,13 @@
+---
+type: reference
+title: Life of a Security Issue
+summary: Walks through the lifecycle of a manually reported external security bug in Chromium, from report and triage through fix, reward, CVE assignment, and public disclosure.
+relations:
+  - references /docs/contributing.md
+  - references /docs/security/faq.md
+  - references /docs/security/life-of-a-security-issue.png
+---
+
 # Life of a Security Issue
 
 This page will help you understand the life cycle of a manually-reported

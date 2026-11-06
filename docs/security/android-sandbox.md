@@ -1,3 +1,13 @@
+---
+type: reference
+title: Chrome Android Sandbox Design
+summary: Describes the process and sandbox architecture of Chrome on Android, including the browser process, zygote, SELinux and Seccomp-BPF layers.
+relations:
+  - references /docs/linux/zygote.md
+  - references /docs/security/android-ipc.md
+  - references /docs/security/android-sandbox-diagram.png
+---
+
 # Chrome Android Sandbox Design
 
 This document discusses the sandbox and process architecture of Chrome on

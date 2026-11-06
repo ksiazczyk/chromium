@@ -1,3 +1,9 @@
+---
+type: reference
+title: AI-generated security bugs FAQ
+summary: Answers frequently asked questions from Chrome teams about triaging, prioritizing and fixing security bugs reported by AI models.
+---
+
 # AI-generated security bugs FAQ
 Chrome Security Team, April 2026
 

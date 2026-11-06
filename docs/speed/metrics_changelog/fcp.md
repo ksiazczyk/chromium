@@ -1,3 +1,13 @@
+---
+type: changelog
+title: First Contentful Paint Changelog
+summary: Index of First Contentful Paint changes by Chrome milestone, linking to entries on metric definition improvements and implementation optimizations.
+relations:
+  - references /docs/speed/metrics_changelog/2019_12_fcp.md
+  - references /docs/speed/metrics_changelog/2020_06_fcp.md
+  - references /docs/speed/metrics_changelog/2020_07_fcp.md
+---
+
 # First Contentful Paint Changelog
 
 This is a list of changes to [First Contentful Paint](https://web.dev/fcp).

@@ -1,3 +1,12 @@
+---
+type: guide
+title: The Rule Of 2
+summary: Explains Chromium's Rule of 2 policy limiting combinations of untrustworthy inputs, unsafe implementation languages, and high privilege, with mitigation approaches.
+relations:
+  - references /docs/security/rule-of-2-drawing.png
+  - references /docs/security/severity-guidelines.md
+---
+
 # The Rule Of 2
 
 When you write code to parse, evaluate, or otherwise handle untrustworthy inputs

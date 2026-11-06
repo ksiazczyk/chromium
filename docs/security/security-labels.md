@@ -1,3 +1,11 @@
+---
+type: reference
+title: Security Fields, Hotlists, and Issue Access / Visibility
+summary: Reference for security bug tracker fields, hotlists, and access settings, including severity labels, Sheriffbot automation, and visibility restrictions.
+relations:
+  - references /docs/security/severity-guidelines.md
+---
+
 # Security Fields, Hotlists, and Issue Access / Visibility
 
 [TOC]

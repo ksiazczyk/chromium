@@ -1,3 +1,12 @@
+---
+type: reference
+title: X11 Threat Model
+summary: Describes the X11 threat model on Linux, explaining why processes with X11 connections are treated as unsandboxed and how related security reports are triaged.
+relations:
+  - references /docs/security/process-sandboxes-by-platform.md
+  - references /docs/security/severity-guidelines.md
+---
+
 # X11 Threat Model
 
 This document describes how X11-related security reports are triaged on Linux.

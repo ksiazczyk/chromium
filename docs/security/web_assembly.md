@@ -1,3 +1,9 @@
+---
+type: reference
+title: Web Assembly Security in Chromium
+summary: Explains Chromium's threat model for Web Assembly, treating WASM like JavaScript as potentially malicious and relying on V8's security model and the renderer sandbox for containment.
+---
+
 # Web Assembly Security in Chromium
 
 TL;DR

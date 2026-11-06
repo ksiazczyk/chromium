@@ -1,3 +1,12 @@
+---
+type: note
+title: EV UI Moving to Page Info
+summary: Documents the Chrome 77 change moving the Extended Validation certificate indicator to Page Info, with supporting research and rationale.
+relations:
+  - references /docs/security/ev-to-page-info-images/chrome-76-ev-bar.png
+  - references /docs/security/ev-to-page-info-images/chrome-77-page-info.png
+---
+
 # EV UI Moving to Page Info
 
 As part of a series of data-driven
