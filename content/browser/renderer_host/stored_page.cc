@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StoredPage implementation
+// summary: Implements StoredPage, which keeps a page detached from a FrameTree for back/forward cache or prerender activation while tracking SiteInstanceGroup observers and proxies.
+// ---
+
 #include "content/browser/renderer_host/stored_page.h"
 
 #include "base/trace_event/typed_macros.h"

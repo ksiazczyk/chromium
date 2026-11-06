@@ -1,0 +1,4 @@
+# Docerion header of render_widget_host_view_ios_unittest.mm.
+type: test
+title: Unit tests for RenderWidgetHostViewIOS viewport sizing
+summary: Unit tests verifying that the iOS render widget host view reports the visible viewport size correctly with and without an on-screen keyboard.

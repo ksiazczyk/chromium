@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RenderWidgetHostViewEventHandler class header
+// summary: Declares the event handler used by RenderWidgetHostViewBase, with a delegate interface for platform-specific input and tooltip behavior.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_RENDER_WIDGET_HOST_VIEW_EVENT_HANDLER_H_
 #define CONTENT_BROWSER_RENDERER_HOST_RENDER_WIDGET_HOST_VIEW_EVENT_HANDLER_H_
 

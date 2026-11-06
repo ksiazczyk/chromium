@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Double tap to zoom browser tests
+// summary: Parameterized browser tests checking mobile-optimized viewport status and tap delay behavior for double tap to zoom.
+// ---
+
 #include <string>
 #include <tuple>
 #include <utility>

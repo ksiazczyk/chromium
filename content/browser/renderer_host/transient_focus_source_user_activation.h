@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TransientFocusSourceUserActivation header
+// summary: Declares a transient state mechanism that tracks whether the frame initiating a focus call has user activation, active for the user activation lifespan.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_TRANSIENT_FOCUS_SOURCE_USER_ACTIVATION_H_
 #define CONTENT_BROWSER_RENDERER_HOST_TRANSIENT_FOCUS_SOURCE_USER_ACTIVATION_H_
 

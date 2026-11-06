@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Interaction media queries dynamic browser test
+// summary: Browser test verifying that interaction media queries update dynamically when pointer and hover capabilities change, on desktop and Android.
+// ---
+
 #include <optional>
 #include <string_view>
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Subframe history navigation throttle class declaration
+// summary: Declares SubframeHistoryNavigationThrottle, which defers subframe history navigations while a main-frame same-document history navigation is pending.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_SUBFRAME_HISTORY_NAVIGATION_THROTTLE_H_
 #define CONTENT_BROWSER_RENDERER_HOST_SUBFRAME_HISTORY_NAVIGATION_THROTTLE_H_
 

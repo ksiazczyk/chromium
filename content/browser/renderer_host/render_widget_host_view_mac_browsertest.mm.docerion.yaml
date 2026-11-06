@@ -1,0 +1,4 @@
+# Docerion header of render_widget_host_view_mac_browsertest.mm.
+type: test
+title: Browser tests for RenderWidgetHostViewMac
+summary: Browser tests for the macOS render widget host view covering text input flag changes, spell checking corrections and related Cocoa view behavior.

@@ -1,0 +1,4 @@
+# Docerion header of unbounded_element_mac_browsertest.mm.
+type: test
+title: Unbounded element macOS browser tests
+summary: macOS browser tests verifying z-order levels and parent-child window linkage of unbounded surface windows, including a mock level-restoring parent window.

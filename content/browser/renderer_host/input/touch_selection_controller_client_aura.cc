@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Aura touch selection controller client implementation
+// summary: Implements touch selection UI for Aura render widget host views, managing quick menus, magnifier, and hiding selection handles on mouse and keyboard events.
+// ---
+
 #include "content/browser/renderer_host/input/touch_selection_controller_client_aura.h"
 
 #include <set>

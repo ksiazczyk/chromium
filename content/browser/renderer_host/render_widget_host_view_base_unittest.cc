@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RenderWidgetHostViewBase unit tests
+// summary: Unit tests verifying screen orientation type computation for mobile and desktop displays via display::DisplayUtil.
+// ---
+
 #include "content/browser/renderer_host/render_widget_host_view_base.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

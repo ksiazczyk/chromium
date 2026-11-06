@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Spare render process host manager browser tests
+// summary: Browser tests for spare renderer warmup, including timeouts, deferred process creation, and spare process reuse under enforced site isolation.
+// ---
+
 #include <algorithm>
 #include <optional>
 #include <utility>

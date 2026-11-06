@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac fling scheduler class declaration
+// summary: Declares FlingSchedulerMac, a FlingScheduler subclass that supplies the Mac browser compositor for fling animation.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_INPUT_FLING_SCHEDULER_MAC_H_
 #define CONTENT_BROWSER_RENDERER_HOST_INPUT_FLING_SCHEDULER_MAC_H_
 

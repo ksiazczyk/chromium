@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RenderWidgetHostFactory interface
+// summary: Declares a factory for creating RenderWidgetHostImpl objects, allowing tests to register a specialized global factory for widget creation.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_RENDER_WIDGET_HOST_FACTORY_H_
 #define CONTENT_BROWSER_RENDERER_HOST_RENDER_WIDGET_HOST_FACTORY_H_
 

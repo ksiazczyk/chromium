@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ViewTransitionCommitDeferringCondition class declaration
+// summary: Declares the commit deferring condition that defers navigation commit until the renderer acknowledges the view transition snapshot or a timeout occurs.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_VIEW_TRANSITION_COMMIT_DEFERRING_CONDITION_H_
 #define CONTENT_BROWSER_RENDERER_HOST_VIEW_TRANSITION_COMMIT_DEFERRING_CONDITION_H_
 

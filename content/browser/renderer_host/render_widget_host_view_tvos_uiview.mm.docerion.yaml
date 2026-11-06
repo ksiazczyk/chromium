@@ -1,0 +1,4 @@
+# Docerion header of render_widget_host_view_tvos_uiview.mm.
+type: source
+title: RenderWidgetUIView tvOS view implementation
+summary: Implements the tvOS widget view, mapping Siri Remote presses and pan gestures to key events with auto-repeat and managing keyboard input for web content.

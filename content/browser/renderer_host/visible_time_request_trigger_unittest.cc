@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VisibleTimeRequestTrigger unit tests
+// summary: Unit tests verifying that visible time requests accumulate events from multiple updates and are cleared once taken.
+// ---
+
 #include "content/browser/renderer_host/visible_time_request_trigger.h"
 
 #include <vector>

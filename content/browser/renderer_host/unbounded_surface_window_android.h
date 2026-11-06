@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UnboundedSurfaceWindowAndroid class declaration
+// summary: Declares the Android UnboundedSurfaceWindow that hosts a native window, frame sink, and slim layer tree for unbounded element surfaces over Mojo.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_UNBOUNDED_SURFACE_WINDOW_ANDROID_H_
 #define CONTENT_BROWSER_RENDERER_HOST_UNBOUNDED_SURFACE_WINDOW_ANDROID_H_
 

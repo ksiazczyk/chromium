@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac synthetic gesture target declaration
+// summary: Declares the macOS synthetic gesture target that dispatches web input events to the Cocoa render widget host view.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_INPUT_SYNTHETIC_GESTURE_TARGET_MAC_H_
 #define CONTENT_BROWSER_RENDERER_HOST_INPUT_SYNTHETIC_GESTURE_TARGET_MAC_H_
 

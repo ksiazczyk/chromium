@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RenderWidgetHostViewChildFrame unit tests
+// summary: Unit tests for the child frame view covering input event bubbling, stylus handwriting on Windows, surface IDs, and frame metadata.
+// ---
+
 #include "content/browser/renderer_host/render_widget_host_view_child_frame.h"
 
 #include <stdint.h>

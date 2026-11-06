@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS render widget host view test factory declaration
+// summary: Declares test factory functions that create a RenderWidgetHostViewIOS for unit and browser tests without exposing Objective-C headers.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_TEST_RENDER_WIDGET_HOST_VIEW_IOS_FACTORY_H_
 #define CONTENT_BROWSER_RENDERER_HOST_TEST_RENDER_WIDGET_HOST_VIEW_IOS_FACTORY_H_
 

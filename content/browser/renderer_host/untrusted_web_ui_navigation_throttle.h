@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Untrusted WebUI navigation throttle class declaration
+// summary: Declares the UntrustedWebUINavigationThrottle class, which restricts unexpected renderer-initiated navigations targeting frames that display untrusted WebUI content.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_UNTRUSTED_WEB_UI_NAVIGATION_THROTTLE_H_
 #define CONTENT_BROWSER_RENDERER_HOST_UNTRUSTED_WEB_UI_NAVIGATION_THROTTLE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RenderWidgetHostViewMac class declaration
+// summary: Declares RenderWidgetHostViewMac, the Cocoa browser-side view responsible for displaying rendered web content and integrating with the macOS view system.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_RENDER_WIDGET_HOST_VIEW_MAC_H_
 #define CONTENT_BROWSER_RENDERER_HOST_RENDER_WIDGET_HOST_VIEW_MAC_H_
 

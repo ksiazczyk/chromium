@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Render input router latency tracker unit tests
+// summary: Unit tests verifying input event latency components reported through histograms and UKM by the render input router latency tracker.
+// ---
+
 #include "components/input/render_input_router_latency_tracker.h"
 
 #include <memory>

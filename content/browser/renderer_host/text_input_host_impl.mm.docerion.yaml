@@ -1,0 +1,4 @@
+# Docerion header of text_input_host_impl.mm.
+type: source
+title: TextInputHostImpl implementation for IME response handling
+summary: Implements TextInputHostImpl, signalling TextInputClientMac when character index or first rect responses arrive from the renderer.

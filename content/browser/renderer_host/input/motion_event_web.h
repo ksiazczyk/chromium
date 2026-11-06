@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MotionEventWeb class declaration
+// summary: Declares MotionEventWeb, a ui::MotionEvent implementation that wraps a blink WebTouchEvent for use by velocity tracking and gesture code.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_INPUT_MOTION_EVENT_WEB_H_
 #define CONTENT_BROWSER_RENDERER_HOST_INPUT_MOTION_EVENT_WEB_H_
 

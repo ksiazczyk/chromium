@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mouse event latency browser tests
+// summary: Browser tests using synthetic gestures and tracing to verify mouse and wheel event latency metrics reported through the render widget host.
+// ---
+
 #include <memory>
 #include <string>
 #include <utility>

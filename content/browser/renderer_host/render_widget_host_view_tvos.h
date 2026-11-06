@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RenderWidgetHostViewTVOS header
+// summary: Declares the tvOS render widget host view that updates the CALayer tree and handles gesture events from the gesture provider.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_RENDER_WIDGET_HOST_VIEW_TVOS_H_
 #define CONTENT_BROWSER_RENDERER_HOST_RENDER_WIDGET_HOST_VIEW_TVOS_H_
 

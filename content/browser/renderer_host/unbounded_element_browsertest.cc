@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unbounded element browser tests
+// summary: Browser tests for the unbounded element feature covering input, hit testing and surface behavior, with skips for unsupported or flaky platforms.
+// ---
+
 #include "base/strings/string_util.h"
 #include "base/strings/stringprintf.h"
 #include "base/test/run_until.h"

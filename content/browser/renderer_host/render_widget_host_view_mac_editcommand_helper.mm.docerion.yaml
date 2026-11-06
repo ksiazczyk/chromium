@@ -1,0 +1,4 @@
+# Docerion header of render_widget_host_view_mac_editcommand_helper.mm.
+type: source
+title: Mac edit command helper implementation
+summary: Implements the edit command helper, listing the supported Cocoa edit selectors and forwarding them as edit commands to the renderer.

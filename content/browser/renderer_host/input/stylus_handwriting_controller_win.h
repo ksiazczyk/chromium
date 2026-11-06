@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows stylus handwriting controller header
+// summary: Declares the singleton controller wrapping the Windows Shell Handwriting API and forwarding focus signals to the renderer.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_INPUT_STYLUS_HANDWRITING_CONTROLLER_WIN_H_
 #define CONTENT_BROWSER_RENDERER_HOST_INPUT_STYLUS_HANDWRITING_CONTROLLER_WIN_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MotionEventWeb implementation
+// summary: Implements a ui::MotionEvent adapter that maps blink WebTouchEvent actions, pointers, positions and stylus attributes for gesture and velocity handling.
+// ---
+
 #include "content/browser/renderer_host/input/motion_event_web.h"
 
 #include <numbers>

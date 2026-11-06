@@ -1,0 +1,4 @@
+# Docerion header of text_input_client_mac.mm.
+type: source
+title: TextInputClientMac implementation for macOS text input IPC
+summary: Implements TextInputClientMac, dispatching requests to the focused frame and transforming renderer replies into root-frame coordinates.

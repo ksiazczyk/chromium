@@ -1,0 +1,4 @@
+# Docerion header of web_menu_runner_ios.mm.
+type: source
+title: WebMenuRunner iOS implementation
+summary: Implements native context menu presentation for select popups on iOS using UIContextMenuInteraction, including targeted previews and dismissal.

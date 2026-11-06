@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RenderWidgetUIView tvOS view header
+// summary: Declares the UIKit view used on tvOS that shows the system keyboard via a text field and plumbs text input state to the render widget host view.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_RENDER_WIDGET_HOST_VIEW_TVOS_UIVIEW_H_
 #define CONTENT_BROWSER_RENDERER_HOST_RENDER_WIDGET_HOST_VIEW_TVOS_UIVIEW_H_
 

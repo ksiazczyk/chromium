@@ -1,0 +1,4 @@
+# Docerion header of render_widget_host_view_ios_uiview.mm.
+type: source
+title: RenderWidgetUIView implementation for iOS text input
+summary: Implements the RenderWidgetUIView iOS view, including text positions, ranges, selection handles, keyboard frame handling and input accessory buttons.

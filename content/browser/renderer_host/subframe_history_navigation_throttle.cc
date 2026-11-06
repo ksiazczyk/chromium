@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Subframe history navigation throttle implementation
+// summary: Implements a navigation throttle that defers subframe history navigations until the main-frame same-document history navigation resumes or is cancelled.
+// ---
+
 #include "content/browser/renderer_host/subframe_history_navigation_throttle.h"
 
 #include <memory>

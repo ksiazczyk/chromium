@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TextInputManager implementation for text input state updates
+// summary: Implements TextInputManager logic that merges TextInputState updates from widget views, transforms and clamps IME bounds, and notifies observers.
+// ---
+
 #include "content/browser/renderer_host/text_input_manager.h"
 
 #include <algorithm>

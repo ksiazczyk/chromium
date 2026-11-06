@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RenderViewHostDelegate interface
+// summary: Defines the delegate interface, mainly implemented by WebContentsImpl, through which renderer_host code receives RenderViewHost state changes and requests.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_RENDER_VIEW_HOST_DELEGATE_H_
 #define CONTENT_BROWSER_RENDERER_HOST_RENDER_VIEW_HOST_DELEGATE_H_
 

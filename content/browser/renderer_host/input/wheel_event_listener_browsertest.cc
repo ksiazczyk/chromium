@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Wheel event listener browser test
+// summary: Browser tests checking that document wheel and mousewheel event listeners are treated as passive by default when scrolling pages.
+// ---
+
 #include <tuple>
 
 #include "base/test/scoped_feature_list.h"

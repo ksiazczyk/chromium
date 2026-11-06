@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VirtualKeyboardControllerWin class declaration
+// summary: Declares a Windows observer that tracks on-screen keyboard visibility and adjusts viewport insets or scrolls obscured input fields into view.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_VIRTUAL_KEYBOARD_CONTROLLER_WIN_H_
 #define CONTENT_BROWSER_RENDERER_HOST_VIRTUAL_KEYBOARD_CONTROLLER_WIN_H_
 

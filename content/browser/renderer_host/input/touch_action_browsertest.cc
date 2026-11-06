@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Touch action browser tests
+// summary: Browser tests verifying that CSS touch-action correctly restricts synthetic touch, scroll, tap and pinch event handling.
+// ---
+
 #include <string_view>
 #include <tuple>
 #include <utility>

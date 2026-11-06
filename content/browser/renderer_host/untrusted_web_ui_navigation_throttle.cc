@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Untrusted WebUI navigation throttle implementation
+// summary: Implements a navigation throttle that blocks renderer-initiated navigations in frames hosting untrusted WebUI content, allowing only self-navigations and navigations from ancestor frames.
+// ---
+
 #include "content/browser/renderer_host/untrusted_web_ui_navigation_throttle.h"
 
 #include <optional>

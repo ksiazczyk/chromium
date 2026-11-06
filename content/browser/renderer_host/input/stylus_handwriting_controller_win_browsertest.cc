@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Stylus Handwriting Controller Win Browser Test
+// summary: Browser tests for the Windows stylus handwriting controller, exercising ShellHandwriting API interactions, API error paths and stylus writing start flows.
+// ---
+
 #include "content/browser/renderer_host/input/stylus_handwriting_controller_win.h"
 
 #include "base/json/json_reader.h"

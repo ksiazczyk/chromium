@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Aura touch selection controller client header
+// summary: Declares TouchSelectionControllerClientAura, the Aura implementation binding content views to the touch selection controller, menu client, and manager interfaces.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_INPUT_TOUCH_SELECTION_CONTROLLER_CLIENT_AURA_H_
 #define CONTENT_BROWSER_RENDERER_HOST_INPUT_TOUCH_SELECTION_CONTROLLER_CLIENT_AURA_H_
 

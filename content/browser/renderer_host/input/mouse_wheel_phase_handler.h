@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mouse wheel phase handler declaration
+// summary: Declares MouseWheelPhaseHandler, which adds phase information to wheel events and tracks touchpad scroll state across scroll sequences.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_INPUT_MOUSE_WHEEL_PHASE_HANDLER_H_
 #define CONTENT_BROWSER_RENDERER_HOST_INPUT_MOUSE_WHEEL_PHASE_HANDLER_H_
 

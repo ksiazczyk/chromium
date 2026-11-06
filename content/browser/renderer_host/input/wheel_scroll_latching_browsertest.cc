@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Wheel scroll latching browser test
+// summary: Browser tests verifying wheel scroll latching behavior between the document and nested scrollable elements across platforms.
+// ---
+
 #include "base/run_loop.h"
 #include "base/task/single_thread_task_runner.h"
 #include "build/build_config.h"

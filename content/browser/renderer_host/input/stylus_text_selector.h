@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stylus Text Selector
+// summary: Declares the stylus text selection handler and its client interface for conveying drag and tap gestures triggered with the stylus button.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_INPUT_STYLUS_TEXT_SELECTOR_H_
 #define CONTENT_BROWSER_RENDERER_HOST_INPUT_STYLUS_TEXT_SELECTOR_H_
 

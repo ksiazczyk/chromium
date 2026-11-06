@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RenderViewHost unit tests
+// summary: Unit tests for RenderViewHost covering drag-and-drop delegate behavior using a mock delegate view and test browser client.
+// ---
+
 #include <stdint.h>
 
 #include "base/functional/bind.h"

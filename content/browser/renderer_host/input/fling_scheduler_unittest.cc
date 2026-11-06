@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FlingScheduler unit tests
+// summary: Unit tests covering fling scheduling start, progress, and cancellation behavior with a fake scheduler and test widget host.
+// ---
+
 #include "content/browser/renderer_host/input/fling_scheduler.h"
 
 #include "build/build_config.h"

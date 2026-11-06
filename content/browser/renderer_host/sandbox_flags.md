@@ -1,3 +1,11 @@
+---
+type: reference
+title: Sandbox policy and flags
+summary: Explains how the sandbox policy is defined on frames and documents, how it is inherited across frames and windows, and how flags combine as a bitfield per the HTML specification.
+relations:
+  - references /services/network/public/mojom/web_sandbox_flags.mojom
+---
+
 The sandbox policy
 ------------------
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Stylus Handwriting Win Test Helper Implementation
+// summary: Implements a test helper that sets up mock Windows ShellHandwriting COM interfaces and initializes StylusHandwritingControllerWin for stylus handwriting tests.
+// ---
+
 #include "content/browser/renderer_host/input/stylus_handwriting_win_test_helper.h"
 
 #include <winerror.h>

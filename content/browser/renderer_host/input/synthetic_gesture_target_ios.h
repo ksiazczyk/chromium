@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS synthetic gesture target declaration
+// summary: Declares the iOS synthetic gesture target that injects touch, mouse, wheel and gesture events through the iOS render widget host view.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_INPUT_SYNTHETIC_GESTURE_TARGET_IOS_H_
 #define CONTENT_BROWSER_RENDERER_HOST_INPUT_SYNTHETIC_GESTURE_TARGET_IOS_H_
 

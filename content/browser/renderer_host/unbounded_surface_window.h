@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UnboundedSurfaceWindow header
+// summary: Declares the abstract base class for unbounded surface windows, covering bounds, frame sinks, event routing and dismissal lifecycle.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_UNBOUNDED_SURFACE_WINDOW_H_
 #define CONTENT_BROWSER_RENDERER_HOST_UNBOUNDED_SURFACE_WINDOW_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of fling_scheduler_mac.mm.
+type: source
+title: Mac fling scheduler implementation
+summary: Implements FlingSchedulerMac by returning the compositor of the Mac render widget host view, resolving child-frame root views.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Stylus Handwriting Win Test Helper
+// summary: Declares a test helper that configures mock ShellHandwriting interfaces and initializes StylusHandwritingControllerWin, with documented setup steps for tests.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_INPUT_STYLUS_HANDWRITING_WIN_TEST_HELPER_H_
 #define CONTENT_BROWSER_RENDERER_HOST_INPUT_STYLUS_HANDWRITING_WIN_TEST_HELPER_H_
 

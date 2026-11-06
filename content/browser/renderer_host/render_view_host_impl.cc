@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RenderViewHostImpl implementation
+// summary: Implements the browser-side RenderViewHost, handling renderer IPC, preferences updates, navigation, and GPU and accessibility interactions.
+// ---
+
 #include "content/browser/renderer_host/render_view_host_impl.h"
 
 #include <algorithm>

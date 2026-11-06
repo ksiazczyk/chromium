@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RenderWidgetHostViewChildFrame browser tests
+// summary: Browser tests for the child frame view, checking FrameSinkId updates from remote frames and view behavior under site isolation.
+// ---
+
 #include "content/browser/renderer_host/render_widget_host_view_child_frame.h"
 
 #include <vector>

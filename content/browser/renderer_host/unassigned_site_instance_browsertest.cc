@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unassigned SiteInstance browser tests
+// summary: Parametrized browser test suite covering SiteInstance reuse and replacement for unassigned sites across about:blank, embedder URLs, popups and iframe navigations.
+// ---
+
 #include <memory>
 #include <string>
 

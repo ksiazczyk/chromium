@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UnboundedSurfaceWindowMac class declaration
+// summary: Declares the macOS UnboundedSurfaceWindow that hosts an NSWindow and accelerated widget for unbounded element surfaces and routes NSEvent input.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_UNBOUNDED_SURFACE_WINDOW_MAC_H_
 #define CONTENT_BROWSER_RENDERER_HOST_UNBOUNDED_SURFACE_WINDOW_MAC_H_
 

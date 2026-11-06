@@ -1,0 +1,4 @@
+# Docerion header of render_widget_host_view_tvos.mm.
+type: source
+title: RenderWidgetHostViewTVOS implementation
+summary: Implements the tvOS render widget host view, wiring DisplayCALayerTree for compositing and disabling double-tap gesture events.

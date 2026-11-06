@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac edit command helper interface
+// summary: Declares a helper that maps Cocoa menu item selectors to WebCore edit commands and hooks editing selectors onto the render widget host view class.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_RENDER_WIDGET_HOST_VIEW_MAC_EDITCOMMAND_HELPER_H_
 #define CONTENT_BROWSER_RENDERER_HOST_RENDER_WIDGET_HOST_VIEW_MAC_EDITCOMMAND_HELPER_H_
 

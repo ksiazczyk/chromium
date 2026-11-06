@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UnboundedSurfaceWindow implementation
+// summary: Implements shared lifecycle, dismissal with fallback timer, and screen-to-view coordinate transformation and mouse event routing for unbounded surface windows.
+// ---
+
 #include "content/browser/renderer_host/unbounded_surface_window.h"
 
 #include <type_traits>

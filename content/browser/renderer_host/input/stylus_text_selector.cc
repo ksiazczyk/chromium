@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stylus Text Selector Implementation
+// summary: Implements stylus-driven text selection, detecting drags and taps performed with the stylus button pressed and forwarding them to a client interface.
+// ---
+
 #include "content/browser/renderer_host/input/stylus_text_selector.h"
 
 #include "base/check_op.h"

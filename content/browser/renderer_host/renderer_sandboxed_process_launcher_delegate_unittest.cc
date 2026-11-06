@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Renderer sandboxed process launcher delegate unit tests
+// summary: Unit tests for the renderer sandboxed process launcher delegate's Windows sandbox policy, using fake AppContainer and TargetConfig objects to verify sandbox feature behavior.
+// ---
+
 #include "content/browser/renderer_host/renderer_sandboxed_process_launcher_delegate.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Speculative RenderViewHost browser tests
+// summary: Browser tests verifying that a speculative RenderViewHost is created, matches the speculative RenderFrameHost, and is swapped in for same-SiteInstanceGroup navigations.
+// ---
+
 #include "base/test/scoped_feature_list.h"
 #include "content/browser/renderer_host/render_frame_host_manager_browsertest.h"
 #include "content/browser/web_contents/web_contents_impl.h"

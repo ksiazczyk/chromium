@@ -1,0 +1,4 @@
+# Docerion header of text_input_client_mac_unittest.mm.
+type: test
+title: Unit tests for TextInputClientMac sync and async requests
+summary: Tests GetCharacterIndexAtPoint and GetFirstRectForRange flows, including timeout behaviour, using a fake async request delegate.

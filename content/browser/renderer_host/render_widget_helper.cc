@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RenderWidgetHelper implementation
+// summary: Implements the per-process RenderWidgetHelper that allocates routing IDs and stores frame tokens between the IO and UI threads.
+// ---
+
 #include "content/browser/renderer_host/render_widget_helper.h"
 
 #include "base/check_op.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Touch input browser tests
+// summary: Browser tests that send synthetic touch events to a page with multiple divs to verify touch event routing and handling through the input event router.
+// ---
+
 #include "base/auto_reset.h"
 #include "base/command_line.h"
 #include "base/location.h"

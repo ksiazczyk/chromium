@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RenderWidgetUIView interface for iOS text input
+// summary: Declares RenderWidgetUIView, an iOS UIView subclass providing BrowserEngineKit text input, keyboard show and hide control, and input accessory toolbar support.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_RENDER_WIDGET_HOST_VIEW_IOS_UIVIEW_H_
 #define CONTENT_BROWSER_RENDERER_HOST_RENDER_WIDGET_HOST_VIEW_IOS_UIVIEW_H_
 

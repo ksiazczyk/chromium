@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RenderWidgetHost browser tests
+// summary: Browser tests for RenderWidgetHost covering visual property updates, input event handling, and related widget behavior in a real browser environment.
+// ---
+
 #include <algorithm>
 #include <memory>
 #include <optional>

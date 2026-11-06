@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Renderer Host Input directory metadata
+summary: Declares the Blink>Input monorail component, the input-dev team email and the public Buganizer component for this directory.

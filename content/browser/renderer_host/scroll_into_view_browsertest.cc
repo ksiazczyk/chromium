@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scroll into view browser tests
+// summary: Browser tests covering scrollIntoView across local and remote frames, LTR and RTL writing modes, and JavaScript, input handler, or on-screen keyboard invocation paths.
+// ---
+
 #include <memory>
 #include <string>
 

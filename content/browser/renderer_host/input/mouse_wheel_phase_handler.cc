@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mouse wheel phase handler implementation
+// summary: Implements synthetic wheel phase generation, latching break logic and end-event scheduling for touchpad and mouse wheel scrolling in the browser.
+// ---
+
 #include "content/browser/renderer_host/input/mouse_wheel_phase_handler.h"
 
 #include "base/functional/bind.h"

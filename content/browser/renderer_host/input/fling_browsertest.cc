@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser-side fling browser tests
+// summary: Browser tests for browser-side fling behavior, including touch action filtering and scroll axis lock fling snapping.
+// ---
+
 #include <tuple>
 
 #include "base/functional/bind.h"

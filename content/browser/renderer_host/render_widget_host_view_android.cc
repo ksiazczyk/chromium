@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RenderWidgetHostViewAndroid implementation
+// summary: Implements the browser-side Android view for a rendered widget, managing input events, delegated frames, IME, selection popups, and compositor surface integration.
+// ---
+
 #include "content/browser/renderer_host/render_widget_host_view_android.h"
 
 #include <android/bitmap.h>

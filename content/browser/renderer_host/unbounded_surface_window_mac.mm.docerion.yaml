@@ -1,0 +1,4 @@
+# Docerion header of unbounded_surface_window_mac.mm.
+type: source
+title: UnboundedSurfaceWindowMac implementation
+summary: Implements the macOS unbounded surface window with an NSView/NSWindow pair that forwards mouse, wheel, and keyboard events to the parent render widget host view.

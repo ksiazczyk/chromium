@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RenderWidgetHostView browser tests
+// summary: Browser tests covering render widget host view behavior across platforms, including visibility timing, compositing, occlusion, and navigation scenarios.
+// ---
+
 #include <stdint.h>
 
 #include <algorithm>

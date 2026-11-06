@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock input router client implementation
+// summary: Implements a mock InputRouterClient that records filtered events, in-flight counts, overscroll and allowed touch action for input router tests.
+// ---
+
 #include "content/browser/renderer_host/input/mock_input_router_client.h"
 
 #include "components/input/input_router.h"

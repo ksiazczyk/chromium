@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RenderWidgetHostViewEventHandler implementation
+// summary: Implements the ui::EventHandler for widget host views, forwarding input to the renderer and handling mouse lock, touch, selection, and overscroll.
+// ---
+
 #include "content/browser/renderer_host/render_widget_host_view_event_handler.h"
 
 #include "base/command_line.h"

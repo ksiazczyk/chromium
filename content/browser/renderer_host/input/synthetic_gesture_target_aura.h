@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Synthetic Gesture Target for Aura Header
+// summary: Declares the Aura synthetic gesture target for injecting synthetic input events into the platform, including vsync and gesture configuration accessors.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_INPUT_SYNTHETIC_GESTURE_TARGET_AURA_H_
 #define CONTENT_BROWSER_RENDERER_HOST_INPUT_SYNTHETIC_GESTURE_TARGET_AURA_H_
 

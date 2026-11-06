@@ -1,0 +1,4 @@
+# Docerion header of synthetic_gesture_target_ios.mm.
+type: source
+title: iOS synthetic gesture target implementation
+summary: Implements the iOS synthetic gesture target, injecting events via RenderWidgetHostViewIOS and returning platform gesture slop values.

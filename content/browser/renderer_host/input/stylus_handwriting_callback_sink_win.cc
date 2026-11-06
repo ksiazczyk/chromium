@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows stylus handwriting callback sink implementation
+// summary: Implements the ITfHandwritingSink that relays Shell Handwriting focus target results between the TSF service and the browser.
+// ---
+
 #include "content/browser/renderer_host/input/stylus_handwriting_callback_sink_win.h"
 
 #include "components/stylus_handwriting/win/features.h"

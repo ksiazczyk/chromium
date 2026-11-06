@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Aura touch selection controller client browser tests
+// summary: Browser tests covering touch selection handles, quick menus, and magnifier behavior in Aura views, including child frames and selection metrics.
+// ---
+
 #include "content/browser/renderer_host/input/touch_selection_controller_client_aura.h"
 
 #include <memory>

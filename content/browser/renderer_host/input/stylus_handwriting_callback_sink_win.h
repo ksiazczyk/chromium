@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows stylus handwriting callback sink header
+// summary: Declares the ITfHandwritingSink COM class that handles Shell Handwriting focus callbacks and pending target state on Windows.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_INPUT_STYLUS_HANDWRITING_CALLBACK_SINK_WIN_H_
 #define CONTENT_BROWSER_RENDERER_HOST_INPUT_STYLUS_HANDWRITING_CALLBACK_SINK_WIN_H_
 

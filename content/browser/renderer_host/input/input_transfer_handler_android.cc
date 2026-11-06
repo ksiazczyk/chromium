@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InputTransferHandlerAndroid implementation
+// summary: Implements the Android handler that transfers touch input to Viz via JNI, tracking handler states and emitting histograms and trace events for transfer results.
+// ---
+
 #include "content/browser/renderer_host/input/input_transfer_handler_android.h"
 
 #include "base/android/jni_android.h"

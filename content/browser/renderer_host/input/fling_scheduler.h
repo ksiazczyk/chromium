@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FlingScheduler class declaration
+// summary: Declares the FlingScheduler that advances fling animations for a render widget host via compositor animation steps.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_INPUT_FLING_SCHEDULER_H_
 #define CONTENT_BROWSER_RENDERER_HOST_INPUT_FLING_SCHEDULER_H_
 

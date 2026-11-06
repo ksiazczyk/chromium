@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sec-Fetch header browser tests
+// summary: Browser tests verifying Sec-Fetch-Dest, Mode, Site, and User header values on typed and cross-port navigations that Web Platform Tests do not yet cover.
+// ---
+
 #include <string>
 
 #include "base/test/scoped_feature_list.h"
