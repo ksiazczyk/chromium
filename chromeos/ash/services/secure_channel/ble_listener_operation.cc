@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BleListenerOperation implementation
+// summary: Implements BleListenerOperation, managing BLE listener connection attempts, cancellation, and priority updates via BleConnectionManager.
+// ---
+
 #include "chromeos/ash/services/secure_channel/ble_listener_operation.h"
 
 #include "base/functional/bind.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BleAdvertiser base class implementation
+// summary: Implements the shared delegate-notification methods of the BleAdvertiser base class for advertising slot end and advertisement generation failure events.
+// ---
+
 #include "chromeos/ash/services/secure_channel/ble_advertiser.h"
 
 namespace ash::secure_channel {

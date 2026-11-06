@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake connection attempt delegate implementation
+// summary: Implements a fake ConnectionAttemptDelegate that records connection details and authenticated channels from attempt outcomes for tests.
+// ---
+
 #include "chromeos/ash/services/secure_channel/fake_connection_attempt_delegate.h"
 
 #include "base/check.h"

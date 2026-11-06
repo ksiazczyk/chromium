@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the secure_channel directory
+summary: DEPS file specifying which directories the secure_channel code may include headers from.

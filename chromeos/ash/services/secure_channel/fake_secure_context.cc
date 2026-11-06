@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake SecureContext implementation
+// summary: Implements a fake SecureContext that encodes messages by appending a suffix and returns fixed channel binding data.
+// ---
+
 #include "chromeos/ash/services/secure_channel/fake_secure_context.h"
 
 #include <stddef.h>

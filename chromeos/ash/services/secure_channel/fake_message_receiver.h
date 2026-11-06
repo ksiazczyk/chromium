@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake message receiver test double
+// summary: Declares a test MessageReceiver that collects received messages in a vector for test verification.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_FAKE_MESSAGE_RECEIVER_H_
 #define CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_FAKE_MESSAGE_RECEIVER_H_
 

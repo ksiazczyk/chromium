@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BleScannerImpl class header
+// summary: Declares the concrete BleScanner implementation, including its factory, service data provider, and Bluetooth adapter and LE scan session delegate roles.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_BLE_SCANNER_IMPL_H_
 #define CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_BLE_SCANNER_IMPL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BLE initiator connection request implementation
+// summary: Implements the pending BLE initiator connection request, retrying empty scans and GATT connection attempts up to fixed limits before reporting failure.
+// ---
+
 #include "chromeos/ash/services/secure_channel/pending_ble_initiator_connection_request.h"
 
 #include <utility>

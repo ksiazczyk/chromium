@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BleConnectionManager API header
+// summary: Declares the BleConnectionManager interface for creating Bluetooth Low Energy connections in listener or initiator roles, with attempt, priority, and cancel methods.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_BLE_CONNECTION_MANAGER_H_
 #define CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_BLE_CONNECTION_MANAGER_H_
 

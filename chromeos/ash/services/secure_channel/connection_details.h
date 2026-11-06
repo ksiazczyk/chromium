@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ConnectionDetails class header
+// summary: Declares ConnectionDetails, which describes an active connection by device ID and connection medium, with comparison operators and a hash friend struct.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_CONNECTION_DETAILS_H_
 #define CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_CONNECTION_DETAILS_H_
 

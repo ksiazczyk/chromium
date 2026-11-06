@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the secure channel util library
+summary: Defines the util static library that builds histogram_util and depends on the Nearby Connections mojom types and base.

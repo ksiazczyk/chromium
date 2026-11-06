@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device-to-device initiator helper implementation
+// summary: 'Implements the initiator-side operations of the device-to-device protocol: creating Hello and Initiator Auth messages and validating the Responder Auth message.'
+// ---
+
 #include "chromeos/ash/services/secure_channel/device_to_device_initiator_helper.h"
 
 #include "base/functional/bind.h"

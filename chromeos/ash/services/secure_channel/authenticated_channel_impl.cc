@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AuthenticatedChannelImpl implementation
+// summary: Implements AuthenticatedChannel on top of SecureChannel, handling message sending, payload file registration, disconnection, and connection metadata retrieval.
+// ---
+
 #include "chromeos/ash/services/secure_channel/authenticated_channel_impl.h"
 
 #include "base/functional/bind.h"

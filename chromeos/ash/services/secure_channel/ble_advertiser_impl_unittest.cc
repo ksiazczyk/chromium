@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BleAdvertiserImpl unit tests
+// summary: Unit tests for BleAdvertiserImpl verifying advertisement scheduling, priority replacement, timeslot handling, and failure paths using fake advertisements and timers.
+// ---
+
 #include "chromeos/ash/services/secure_channel/ble_advertiser_impl.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PendingNearbyInitiatorConnectionRequest class declaration
+// summary: Declares the pending request for Nearby initiator connections, which observes Bluetooth adapter power and presence changes to fail the request when needed.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_PENDING_NEARBY_INITIATOR_CONNECTION_REQUEST_H_
 #define CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_PENDING_NEARBY_INITIATOR_CONNECTION_REQUEST_H_
 

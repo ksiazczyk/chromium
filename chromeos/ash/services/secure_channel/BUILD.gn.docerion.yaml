@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for the secure_channel service
+summary: GN build file that defines the secure_channel static library and lists its source files and dependencies.

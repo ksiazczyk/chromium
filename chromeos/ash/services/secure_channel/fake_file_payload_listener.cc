@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake file payload listener implementation
+// summary: Implements a test FilePayloadListener that records file transfer updates and tracks its Mojo connection state.
+// ---
+
 #include "chromeos/ash/services/secure_channel/fake_file_payload_listener.h"
 
 #include <vector>

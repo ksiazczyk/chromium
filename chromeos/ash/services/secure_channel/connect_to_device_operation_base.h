@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ConnectToDeviceOperationBase implementation base class
+// summary: Base class for concrete ConnectToDeviceOperation implementations that starts a connection attempt to a given device after construction and supports cancellation and priority updates.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_CONNECT_TO_DEVICE_OPERATION_BASE_H_
 #define CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_CONNECT_TO_DEVICE_OPERATION_BASE_H_
 

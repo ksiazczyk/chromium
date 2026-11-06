@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake connection implementation
+// summary: Implements a fake Connection that simulates connecting, sending and receiving wire messages, and payload file registration for tests.
+// ---
+
 #include "chromeos/ash/services/secure_channel/fake_connection.h"
 
 #include <memory>

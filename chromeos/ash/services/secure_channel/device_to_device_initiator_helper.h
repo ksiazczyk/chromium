@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device-to-device initiator helper header
+// summary: Declares DeviceToDeviceInitiatorHelper, which creates and validates the Hello, Responder Auth and Initiator Auth messages of the device-to-device protocol.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_DEVICE_TO_DEVICE_INITIATOR_HELPER_H_
 #define CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_DEVICE_TO_DEVICE_INITIATOR_HELPER_H_
 

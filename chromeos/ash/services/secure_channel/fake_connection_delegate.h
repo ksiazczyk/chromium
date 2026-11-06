@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake connection delegate test double
+// summary: Declares a test ConnectionDelegate implementation exposing generated Mojo remotes, channel state, and connection failure details for tests.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_FAKE_CONNECTION_DELEGATE_H_
 #define CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_FAKE_CONNECTION_DELEGATE_H_
 

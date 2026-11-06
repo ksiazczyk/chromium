@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for PendingBleConnectionRequestBase
+// summary: Unit tests using a concrete test subclass and a mock Bluetooth adapter to verify that the BLE connection request base stops requests on adapter power and presence changes.
+// ---
+
 #include "chromeos/ash/services/secure_channel/pending_ble_connection_request_base.h"
 
 #include <memory>

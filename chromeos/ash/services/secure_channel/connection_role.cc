@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ConnectionRole stream output implementation
+// summary: Implements the ostream operator that prints human-readable labels for the initiator and listener connection roles.
+// ---
+
 #include "chromeos/ash/services/secure_channel/connection_role.h"
 
 namespace ash::secure_channel {

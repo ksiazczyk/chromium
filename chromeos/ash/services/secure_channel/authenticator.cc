@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Authenticator base class implementation
+// summary: Implements the Authenticator base class, providing observer registration and authentication state change notifications for the authentication protocol.
+// ---
+
 #include "chromeos/ash/services/secure_channel/authenticator.h"
 
 namespace ash::secure_channel {

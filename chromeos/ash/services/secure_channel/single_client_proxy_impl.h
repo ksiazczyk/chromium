@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SingleClientProxyImpl class header
+// summary: Declares SingleClientProxyImpl and its factory, which bind client connection parameters and a ChannelImpl to exchange messages with a single client.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_SINGLE_CLIENT_PROXY_IMPL_H_
 #define CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_SINGLE_CLIENT_PROXY_IMPL_H_
 

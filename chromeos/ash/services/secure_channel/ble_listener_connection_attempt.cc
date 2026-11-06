@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BleListenerConnectionAttempt implementation
+// summary: Implements the BLE listener connection attempt, creating listener operations and logging scan-to-authentication latency metrics.
+// ---
+
 #include "chromeos/ash/services/secure_channel/ble_listener_connection_attempt.h"
 
 #include "base/memory/ptr_util.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SecureChannelInitializer class header
+// summary: Declares SecureChannelInitializer, which fetches the Bluetooth adapter and forwards queued connection requests to the rest of the service once initialization completes.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_SECURE_CHANNEL_INITIALIZER_H_
 #define CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_SECURE_CHANNEL_INITIALIZER_H_
 

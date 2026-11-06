@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake authenticator header
+// summary: Declares FakeAuthenticator, a test double that captures authentication callbacks so tests can complete authentication manually.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_FAKE_AUTHENTICATOR_H_
 #define CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_FAKE_AUTHENTICATOR_H_
 

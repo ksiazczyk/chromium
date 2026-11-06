@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BLE uWeave client connection
+// summary: Declares the client-side BLE connection class that performs the uWeave handshake over GATT and exchanges messages with a remote device.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_BLE_WEAVE_CLIENT_CONNECTION_H_
 #define CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_BLE_WEAVE_CLIENT_CONNECTION_H_
 

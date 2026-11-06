@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SecureChannelDisconnector interface
+// summary: Declares an interface for safely disconnecting SecureChannel objects, whose asynchronous disconnection flow must complete before deletion to keep connections stable.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_SECURE_CHANNEL_DISCONNECTOR_H_
 #define CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_SECURE_CHANNEL_DISCONNECTOR_H_
 

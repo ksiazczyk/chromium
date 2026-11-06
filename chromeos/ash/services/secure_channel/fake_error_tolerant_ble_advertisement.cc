@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake error tolerant BLE advertisement implementation
+// summary: Implements a test double for ErrorTolerantBleAdvertisement that tracks stop state and runs destructor and stop callbacks.
+// ---
+
 #include "chromeos/ash/services/secure_channel/fake_error_tolerant_ble_advertisement.h"
 
 #include "base/functional/bind.h"

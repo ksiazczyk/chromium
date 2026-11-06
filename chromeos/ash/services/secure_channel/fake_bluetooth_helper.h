@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake Bluetooth helper header
+// summary: Declares FakeBluetoothHelper, a test BluetoothHelper with setters for canned advertisement, device identification, and address responses.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_FAKE_BLUETOOTH_HELPER_H_
 #define CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_FAKE_BLUETOOTH_HELPER_H_
 

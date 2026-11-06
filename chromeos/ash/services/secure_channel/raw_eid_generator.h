@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Raw ephemeral ID generator interface
+// summary: Defines the RawEidGenerator interface that produces raw ephemeral ID values used by the foreground and background EID generators.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_RAW_EID_GENERATOR_H_
 #define CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_RAW_EID_GENERATOR_H_
 

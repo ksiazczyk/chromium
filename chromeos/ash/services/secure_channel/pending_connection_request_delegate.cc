@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PendingConnectionRequestDelegate implementation
+// summary: Implements the delegate base class and a stream output operator for the failed connection reason enum used in logging.
+// ---
+
 #include "chromeos/ash/services/secure_channel/pending_connection_request_delegate.h"
 
 namespace ash::secure_channel {

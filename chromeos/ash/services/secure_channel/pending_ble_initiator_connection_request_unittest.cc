@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for PendingBleInitiatorConnectionRequest
+// summary: Unit tests covering failure handling for BLE initiator connection requests, including authentication errors, advertisement generation failures, and retry limits.
+// ---
+
 #include "chromeos/ash/services/secure_channel/pending_ble_initiator_connection_request.h"
 
 #include <memory>

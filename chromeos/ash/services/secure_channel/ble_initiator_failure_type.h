@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BleInitiatorFailureType enum
+// summary: Defines the BleInitiatorFailureType enum covering authentication errors, GATT errors, higher-priority interruption, timeouts, and advertisement generation failures.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_BLE_INITIATOR_FAILURE_TYPE_H_
 #define CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_BLE_INITIATOR_FAILURE_TYPE_H_
 

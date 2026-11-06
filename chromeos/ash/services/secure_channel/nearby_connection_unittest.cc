@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Nearby connection unit test
+// summary: Unit test for NearbyConnection that exercises connecting, status changes, message sending and receiving, and file transfer updates via a fake Nearby connector.
+// ---
+
 #include "chromeos/ash/services/secure_channel/nearby_connection.h"
 
 #include "base/files/file.h"

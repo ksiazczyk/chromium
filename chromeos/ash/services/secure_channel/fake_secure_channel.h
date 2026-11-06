@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake SecureChannel test double
+// summary: Header for a fake mojom SecureChannel implementation that captures listen and initiate connection requests for use in tests.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_FAKE_SECURE_CHANNEL_H_
 #define CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_FAKE_SECURE_CHANNEL_H_
 

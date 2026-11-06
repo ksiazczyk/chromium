@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Presence monitor header
+// summary: Declares PresenceMonitorImpl, the PresenceMonitor implementation that monitors device proximity during an active secure channel.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_PRESENCE_MONITOR_IMPL_H_
 #define CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_PRESENCE_MONITOR_IMPL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake BLE advertisement generator header
+// summary: Declares the FakeBleAdvertisementGenerator test double whose returned advertisement can be set before each generation call.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_FAKE_BLE_ADVERTISEMENT_GENERATOR_H_
 #define CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_FAKE_BLE_ADVERTISEMENT_GENERATOR_H_
 

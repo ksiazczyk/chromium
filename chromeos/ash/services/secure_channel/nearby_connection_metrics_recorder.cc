@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NearbyConnectionMetricsRecorder implementation
+// summary: Records effective Nearby connection success and failure metrics, logging a failure only after a one-minute timeout passes without a successful retry.
+// ---
+
 #include "chromeos/ash/services/secure_channel/nearby_connection_metrics_recorder.h"
 
 #include "base/metrics/histogram_functions.h"

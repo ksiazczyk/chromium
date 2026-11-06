@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SharedResourceScheduler unit tests
+// summary: Unit tests covering scheduling, priority updates, removal, and retrieval of requests in SharedResourceScheduler across all priority levels.
+// ---
+
 #include "chromeos/ash/services/secure_channel/shared_resource_scheduler.h"
 
 #include <memory>

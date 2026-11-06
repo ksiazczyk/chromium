@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: uWeave packet receiver unit tests
+// summary: Tests the uWeave packet receiver state machine with well-behaved and malformed packet sequences for client and server roles.
+// ---
+
 #include "chromeos/ash/services/secure_channel/ble_weave_packet_receiver.h"
 
 #include <algorithm>

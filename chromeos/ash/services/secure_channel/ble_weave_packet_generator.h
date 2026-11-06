@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: uWeave packet generator
+// summary: Declares the generator that builds uWeave connection request, response, and close packets and encodes data messages.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_BLE_WEAVE_PACKET_GENERATOR_H_
 #define CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_BLE_WEAVE_PACKET_GENERATOR_H_
 

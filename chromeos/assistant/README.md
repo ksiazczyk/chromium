@@ -1,3 +1,9 @@
+---
+type: readme
+title: About //chromeos/assistant
+summary: Explains that the code migrated to //chromeos/ash/components/assistant and directs new ash-chrome assistant work there, with a TODO to remove the directory.
+---
+
 # About //chromeos/assistant
 
 Codes used to live here have migrated to //chromeos/ash/components/assistant.

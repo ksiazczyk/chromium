@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SecureChannel implementation
+// summary: Implements the SecureChannel class that manages a connection, runs the authentication handshake, and handles encrypted message sending, file transfers, and disconnection.
+// ---
+
 #include "chromeos/ash/services/secure_channel/secure_channel.h"
 
 #include <memory>

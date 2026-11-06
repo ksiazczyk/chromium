@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothHelperImpl implementation
+// summary: Implements BluetoothHelper to generate foreground BLE advertisements and identify remote devices from advertisement service data using EID generators.
+// ---
+
 #include "chromeos/ash/services/secure_channel/bluetooth_helper_impl.h"
 
 #include <algorithm>

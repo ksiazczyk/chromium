@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BLE characteristics finder implementation
+// summary: Implements BluetoothLowEnergyCharacteristicsFinder, which scans a remote GATT service for TX, RX, and EID characteristics and reports success or error.
+// ---
+
 #include "chromeos/ash/services/secure_channel/ble_characteristics_finder.h"
 
 #include "base/functional/bind.h"

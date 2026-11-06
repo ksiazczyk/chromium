@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nearby initiator failure type stream operator
+// summary: Implements the ostream operator that prints NearbyInitiatorFailureType values as readable strings for connectivity and authentication errors.
+// ---
+
 #include "chromeos/ash/services/secure_channel/nearby_initiator_failure_type.h"
 
 namespace ash::secure_channel {

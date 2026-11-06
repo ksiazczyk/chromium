@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Presence monitor delegate header
+// summary: Declares PresenceMonitorDelegate, a BleScanner observer that monitors device proximity while a secure channel is active.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_PRESENCE_MONITOR_DELEGATE_H_
 #define CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_PRESENCE_MONITOR_DELEGATE_H_
 

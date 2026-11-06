@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake SingleClientProxy test double
+// summary: Declares test doubles for SingleClientProxy and its delegate with accessors to recorded requests and connection state.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_FAKE_SINGLE_CLIENT_PROXY_H_
 #define CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_FAKE_SINGLE_CLIENT_PROXY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake multiplexed channel test doubles
+// summary: Declares test MultiplexedChannel and delegate classes that expose disconnect state and added clients for tests.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_FAKE_MULTIPLEXED_CHANNEL_H_
 #define CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_FAKE_MULTIPLEXED_CHANNEL_H_
 

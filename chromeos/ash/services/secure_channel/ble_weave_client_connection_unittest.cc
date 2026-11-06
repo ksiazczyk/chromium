@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BLE uWeave client connection unit tests
+// summary: Unit tests for the BLE uWeave client connection, covering connection states, packet exchange, and error handling with mock Bluetooth objects.
+// ---
+
 #include "chromeos/ash/services/secure_channel/ble_weave_client_connection.h"
 
 #include <stdint.h>

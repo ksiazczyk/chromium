@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BleScannerImpl implementation
+// summary: Implements BleScanner by managing BLE discovery sessions, observing the Bluetooth adapter, and extracting ProximityAuth service data from received advertisements.
+// ---
+
 #include "chromeos/ash/services/secure_channel/ble_scanner_impl.h"
 
 #include <iostream>

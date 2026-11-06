@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WifiDirectConnection implementation
+// summary: Implements the mojom WifiDirectConnection, exposing group properties, associating sockets via WifiP2PController, and recording connection duration metrics.
+// ---
+
 #include "chromeos/ash/services/wifi_direct/wifi_direct_connection.h"
 
 #include "chromeos/ash/components/wifi_p2p/wifi_p2p_metrics_logger.h"

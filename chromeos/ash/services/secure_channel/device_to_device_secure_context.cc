@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device-to-device secure context implementation
+// summary: Implements SecureContext for the DeviceToDevice protocol, encoding and decoding messages with AES-256-CBC encryption and HMAC-SHA256 signatures.
+// ---
+
 #include "chromeos/ash/services/secure_channel/device_to_device_secure_context.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ConnectionDetails implementation
+// summary: Implements ConnectionDetails, including equality, ordering and stream output operators for a device connection identified by device ID and medium.
+// ---
+
 #include "chromeos/ash/services/secure_channel/connection_details.h"
 
 #include <tuple>

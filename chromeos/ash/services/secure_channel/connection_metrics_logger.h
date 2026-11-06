@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Connection metrics logger header
+// summary: Declares the NearbyInitiatorConnectionResult enum and helper functions for logging connection results and latency metrics.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_CONNECTION_METRICS_LOGGER_H_
 #define CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_CONNECTION_METRICS_LOGGER_H_
 

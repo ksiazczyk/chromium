@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClientConnectionParametersImpl implementation
+// summary: Implements ClientConnectionParameters over a mojo ConnectionDelegate remote and logs discovery, Nearby, and secure channel states to metrics.
+// ---
+
 #include "chromeos/ash/services/secure_channel/client_connection_parameters_impl.h"
 
 #include "base/functional/bind.h"

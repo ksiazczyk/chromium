@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActiveConnectionManagerImpl implementation
+// summary: Concrete connection manager that creates MultiplexedChannelImpl instances and tracks them per connection details.
+// ---
+
 #include "chromeos/ash/services/secure_channel/active_connection_manager_impl.h"
 
 #include "base/memory/ptr_util.h"

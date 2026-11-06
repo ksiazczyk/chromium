@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake PendingConnectionManager implementation
+// summary: Implements fake connection manager and delegate classes that record handled requests and delivered connections for tests.
+// ---
+
 #include "chromeos/ash/services/secure_channel/fake_pending_connection_manager.h"
 
 #include <algorithm>

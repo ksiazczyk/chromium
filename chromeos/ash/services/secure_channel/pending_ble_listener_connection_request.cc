@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BLE listener connection request implementation
+// summary: Implements the pending BLE listener connection request, which stops the request with an authentication error when connection fails, without retries.
+// ---
+
 #include "chromeos/ash/services/secure_channel/pending_ble_listener_connection_request.h"
 
 #include <utility>

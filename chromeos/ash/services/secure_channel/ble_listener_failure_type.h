@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BleListenerFailureType enum header
+// summary: Defines the BleListenerFailureType enum describing failure reasons for BLE listener connections.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_BLE_LISTENER_FAILURE_TYPE_H_
 #define CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_BLE_LISTENER_FAILURE_TYPE_H_
 

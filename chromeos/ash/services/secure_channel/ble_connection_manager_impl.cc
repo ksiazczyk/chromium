@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BleConnectionManagerImpl implementation
+// summary: Concrete BleConnectionManager that uses BleAdvertiser and BleScanner to bootstrap connections, records latency and success-rate metrics, and returns authenticated channels.
+// ---
+
 #include "chromeos/ash/services/secure_channel/ble_connection_manager_impl.h"
 
 #include <utility>

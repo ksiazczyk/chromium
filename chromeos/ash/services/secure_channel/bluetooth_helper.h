@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothHelper interface for BLE advertisement handling
+// summary: Declares the BluetoothHelper interface that generates BLE advertisement service data and identifies the remote device behind a received advertisement.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_BLUETOOTH_HELPER_H_
 #define CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_BLUETOOTH_HELPER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BleInitiatorFailureType stream output
+// summary: Implements the ostream operator for BleInitiatorFailureType, mapping each failure enum value to a human-readable label for logging.
+// ---
+
 #include "chromeos/ash/services/secure_channel/ble_initiator_failure_type.h"
 
 namespace ash::secure_channel {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PendingConnectionManagerImpl unit tests
+// summary: Unit tests for PendingConnectionManagerImpl using fake connection attempts, managers, and requests to verify request handling over BLE and Nearby mediums.
+// ---
+
 #include "chromeos/ash/services/secure_channel/pending_connection_manager_impl.h"
 
 #include <algorithm>

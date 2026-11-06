@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BleAdvertiserImpl implementation
+// summary: Implements BleAdvertiserImpl, which schedules BLE advertisement requests in limited slots using priorities, round-robin queuing, and timed advertisement slots.
+// ---
+
 #include "chromeos/ash/services/secure_channel/ble_advertiser_impl.h"
 
 #include "base/functional/bind.h"

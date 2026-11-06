@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NearbyConnection implementation
+// summary: Implements a Connection to a remote device via mojom::NearbyConnector, queuing outgoing messages and handling file payload transfer updates.
+// ---
+
 #include "chromeos/ash/services/secure_channel/nearby_connection.h"
 
 #include "base/check.h"

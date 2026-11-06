@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake SingleClientProxy implementation
+// summary: Implements fake SingleClientProxy and its delegate, recording messages, payload file registrations, and client disconnect events for tests.
+// ---
+
 #include "chromeos/ash/services/secure_channel/fake_single_client_proxy.h"
 
 #include "base/containers/flat_map.h"

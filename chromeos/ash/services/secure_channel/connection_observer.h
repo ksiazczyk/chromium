@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Connection observer interfaces
+// summary: Defines observer interfaces for connection status changes, received messages, send completion and Nearby connection step updates.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_CONNECTION_OBSERVER_H_
 #define CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_CONNECTION_OBSERVER_H_
 

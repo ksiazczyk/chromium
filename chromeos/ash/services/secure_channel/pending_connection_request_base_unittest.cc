@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PendingConnectionRequestBase unit tests
+// summary: Unit tests for the templated PendingConnectionRequestBase using a concrete test request to verify failure handling and client cancellation behavior.
+// ---
+
 #include "chromeos/ash/services/secure_channel/pending_connection_request_base.h"
 
 #include <memory>

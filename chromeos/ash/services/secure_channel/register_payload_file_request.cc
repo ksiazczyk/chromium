@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Register payload file request
+// summary: Implements the RegisterPayloadFileRequest struct that pairs a payload ID with a file transfer update callback.
+// ---
+
 #include "chromeos/ash/services/secure_channel/register_payload_file_request.h"
 
 #include "chromeos/ash/services/secure_channel/file_transfer_update_callback.h"

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for secure_channel
+summary: Sets the Buganizer component and team email used for issues in the secure_channel directory.

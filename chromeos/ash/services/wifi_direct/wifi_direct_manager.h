@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WifiDirectManager class declaration
+// summary: Declares WifiDirectManager, which implements mojom::WifiDirectManager, owns WifiDirectConnection instances, and observes WifiP2PController for Shill-notified disconnections.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_WIFI_DIRECT_WIFI_DIRECT_MANAGER_H_
 #define CHROMEOS_ASH_SERVICES_WIFI_DIRECT_WIFI_DIRECT_MANAGER_H_
 

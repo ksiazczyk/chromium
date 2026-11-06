@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Nearby connection metrics recorder unit test
+// summary: Unit test verifying that NearbyConnectionMetricsRecorder logs successes immediately and only logs failures after a one-minute retry window elapses.
+// ---
+
 #include "chromeos/ash/services/secure_channel/nearby_connection_metrics_recorder.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Presence monitor implementation
+// summary: Implements PresenceMonitor by fetching the Bluetooth adapter and delegating proximity monitoring to a PresenceMonitorDelegate.
+// ---
+
 #include "chromeos/ash/services/secure_channel/presence_monitor_impl.h"
 
 #include "chromeos/ash/components/multidevice/logging/logging.h"

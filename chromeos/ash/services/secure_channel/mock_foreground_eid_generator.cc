@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockForegroundEidGenerator implementation
+// summary: Implements MockForegroundEidGenerator, returning configured test values and counting IdentifyRemoteDeviceByAdvertisement calls.
+// ---
+
 #include "chromeos/ash/services/secure_channel/mock_foreground_eid_generator.h"
 
 #include <memory>

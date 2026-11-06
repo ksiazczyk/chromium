@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SecureChannel unit tests
+// summary: Unit tests for the SecureChannel class, verifying status changes, message sending and receiving, sequence numbers, and observer behavior including observer-initiated deletion.
+// ---
+
 #include "chromeos/ash/services/secure_channel/secure_channel.h"
 
 #include <memory>

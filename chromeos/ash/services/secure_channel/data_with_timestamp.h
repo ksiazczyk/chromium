@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Data with timestamp header
+// summary: Declares the DataWithTimestamp struct that stores EID-related data together with the inclusive start and exclusive end timestamps for which it is valid.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_DATA_WITH_TIMESTAMP_H_
 #define CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_DATA_WITH_TIMESTAMP_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake BLE scanner implementation
+// summary: Test double of BleScanner that counts handled scan request changes and records advertisements received by the fake observer.
+// ---
+
 #include "chromeos/ash/services/secure_channel/fake_ble_scanner.h"
 
 namespace ash::secure_channel {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WireMessage unit tests
+// summary: Unit tests for WireMessage deserialization, covering incomplete headers, invalid body sizes, non-JSON bodies, and version handling for protocol versions V3 and V4.
+// ---
+
 #include "chromeos/ash/services/secure_channel/wire_message.h"
 
 #include <stdint.h>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for the wifi_direct service
+summary: Defines the wifi_direct static library and its unit_tests target, listing sources and dependencies for the ChromeOS Ash Wi-Fi Direct service.

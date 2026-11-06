@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BackgroundEidGenerator class declaration
+// summary: Declares BackgroundEidGenerator, which produces frequently rotating EID values for privacy-preserving background BLE advertisements in the ProximityAuth protocol.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_BACKGROUND_EID_GENERATOR_H_
 #define CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_BACKGROUND_EID_GENERATOR_H_
 

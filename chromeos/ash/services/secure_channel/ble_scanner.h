@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BleScanner interface
+// summary: Defines the BleScanner base class that performs BLE scans for connection attempts and notifies observers when advertisements are received from remote devices.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_BLE_SCANNER_H_
 #define CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_BLE_SCANNER_H_
 

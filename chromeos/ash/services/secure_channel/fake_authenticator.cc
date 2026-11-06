@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake authenticator implementation
+// summary: Implements the FakeAuthenticator test double whose Authenticate() call stores the most recent authentication callback for tests.
+// ---
+
 #include "chromeos/ash/services/secure_channel/fake_authenticator.h"
 
 #include <utility>

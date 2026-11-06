@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SessionKeys implementation
+// summary: Derives initiator and responder encoding keys from the session symmetric key using HKDF with SHA-256 for secure channel message encryption.
+// ---
+
 #include "chromeos/ash/services/secure_channel/session_keys.h"
 
 #include "base/containers/span.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Raw ephemeral ID generator implementation header
+// summary: Declares RawEidGeneratorImpl, the SHA-256-based implementation of the RawEidGenerator interface.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_RAW_EID_GENERATOR_IMPL_H_
 #define CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_RAW_EID_GENERATOR_IMPL_H_
 

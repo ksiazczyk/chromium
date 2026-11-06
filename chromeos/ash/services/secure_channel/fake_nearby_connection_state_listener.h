@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake NearbyConnectionStateListener header
+// summary: Declares a fake mojom NearbyConnectionStateListener that records connection step results for tests.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_FAKE_NEARBY_CONNECTION_STATE_LISTENER_H_
 #define CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_FAKE_NEARBY_CONNECTION_STATE_LISTENER_H_
 

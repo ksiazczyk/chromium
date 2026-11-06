@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WifiDirectManager implementation
+// summary: Implements the Wi-Fi Direct manager, creating and connecting groups, translating WifiP2PController results to Mojo result codes, and tearing down groups on shutdown.
+// ---
+
 #include "chromeos/ash/services/wifi_direct/wifi_direct_manager.h"
 
 #include "base/functional/callback_helpers.h"

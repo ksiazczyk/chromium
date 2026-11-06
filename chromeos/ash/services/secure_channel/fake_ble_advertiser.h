@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake BLE advertiser header
+// summary: Declares FakeBleAdvertiser and FakeBleAdvertiserDelegate test doubles with accessors for inspecting queued advertisement requests and delegate events.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_FAKE_BLE_ADVERTISER_H_
 #define CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_FAKE_BLE_ADVERTISER_H_
 

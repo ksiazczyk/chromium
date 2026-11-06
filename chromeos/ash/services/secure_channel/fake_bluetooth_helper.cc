@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake Bluetooth helper implementation
+// summary: Test double of BluetoothHelper that returns preconfigured advertisement data, identified devices, and Bluetooth public addresses from internal maps.
+// ---
+
 #include "chromeos/ash/services/secure_channel/fake_bluetooth_helper.h"
 
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake SecureContext test double
+// summary: Declares a fake SecureContext for tests with configurable protocol version and channel binding data.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_FAKE_SECURE_CONTEXT_H_
 #define CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_FAKE_SECURE_CONTEXT_H_
 

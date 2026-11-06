@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake authenticated channel header
+// summary: Declares FakeAuthenticatedChannel and FakeAuthenticatedChannelObserver test doubles with accessors for sent messages, registrations, and disconnection state.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_FAKE_AUTHENTICATED_CHANNEL_H_
 #define CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_FAKE_AUTHENTICATED_CHANNEL_H_
 

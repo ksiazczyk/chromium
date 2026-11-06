@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for chromeos/assistant
+summary: Points the directory to the shared COMMON_METADATA of chromeos/ash/components/assistant for component metadata.

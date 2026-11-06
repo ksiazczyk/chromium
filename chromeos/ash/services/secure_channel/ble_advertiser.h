@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BleAdvertiser interface
+// summary: Defines the BleAdvertiser interface for adding, updating, and removing BLE advertisement requests with priority-based scheduling and delegate callbacks.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_BLE_ADVERTISER_H_
 #define CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_BLE_ADVERTISER_H_
 

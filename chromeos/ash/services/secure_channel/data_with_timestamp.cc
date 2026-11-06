@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Data with timestamp implementation
+// summary: Implements DataWithTimestamp, a struct pairing EID data with the start and end timestamps during which it is valid, plus debug string, hex and time-check helpers.
+// ---
+
 #include "chromeos/ash/services/secure_channel/data_with_timestamp.h"
 
 #include <sstream>

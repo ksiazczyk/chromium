@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BleListenerConnectionAttempt class header
+// summary: Declares BleListenerConnectionAttempt, which attempts to connect to a remote device over BLE in the listener role.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_BLE_LISTENER_CONNECTION_ATTEMPT_H_
 #define CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_BLE_LISTENER_CONNECTION_ATTEMPT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake SecureChannel implementation
+// summary: Implements a fake SecureChannel Mojo interface that binds delegates from listen and initiate calls for tests.
+// ---
+
 #include "chromeos/ash/services/secure_channel/fake_secure_channel.h"
 
 #include <optional>

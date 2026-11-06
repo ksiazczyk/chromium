@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NearbyConnectionManager implementation
+// summary: Implements the base NearbyConnectionManager, tracking initiator connection attempts and notifying success, failure, and state-change callbacks.
+// ---
+
 #include "chromeos/ash/services/secure_channel/nearby_connection_manager.h"
 
 #include <optional>

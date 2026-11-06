@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: uWeave packet receiver implementation
+// summary: Implements the state machine that receives and validates uWeave packets, assembling data messages and detecting protocol errors.
+// ---
+
 #include "chromeos/ash/services/secure_channel/ble_weave_packet_receiver.h"
 
 #include <netinet/in.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ConnectToDeviceOperationBase unit tests
+// summary: Unit tests for ConnectToDeviceOperationBase using a concrete test operation to verify connection attempts, cancellation, and priority updates.
+// ---
+
 #include "chromeos/ash/services/secure_channel/connect_to_device_operation_base.h"
 
 #include <memory>

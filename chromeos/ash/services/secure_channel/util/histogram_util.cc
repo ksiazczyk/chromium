@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Secure channel Nearby histogram logging implementation
+// summary: Implements functions that record Nearby Connections operation results, file and message transfer actions, and disconnection reasons to UMA histograms.
+// ---
+
 #include "chromeos/ash/services/secure_channel/util/histogram_util.h"
 
 #include "base/metrics/histogram_functions.h"

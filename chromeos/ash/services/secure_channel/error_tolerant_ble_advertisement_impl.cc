@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Error-tolerant BLE advertisement implementation
+// summary: Concrete implementation that registers and unregisters BLE advertisements via the BLE synchronizer, retrying on errors and released advertisements.
+// ---
+
 #include "chromeos/ash/services/secure_channel/error_tolerant_ble_advertisement_impl.h"
 
 #include <memory>

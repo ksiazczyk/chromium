@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nearby initiator operation implementation
+// summary: Implements NearbyInitiatorOperation, which connects to a remote device over Nearby Connections and records connection result metrics.
+// ---
+
 #include "chromeos/ash/services/secure_channel/nearby_initiator_operation.h"
 
 #include "base/functional/bind.h"

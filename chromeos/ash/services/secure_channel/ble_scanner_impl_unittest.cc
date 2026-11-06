@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BleScannerImpl unit tests
+// summary: Unit tests for BleScannerImpl using mock Bluetooth adapters, devices, and scan sessions to verify scan requests and advertisement handling.
+// ---
+
 #include "chromeos/ash/services/secure_channel/ble_scanner_impl.h"
 
 #include <algorithm>
