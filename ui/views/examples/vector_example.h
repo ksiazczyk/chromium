@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Vector example header
+// summary: Declares the VectorExample class and the CleanUpContents helper that strips comments and extra whitespace from .icon file content.
+// ---
+
 #ifndef UI_VIEWS_EXAMPLES_VECTOR_EXAMPLE_H_
 #define UI_VIEWS_EXAMPLES_VECTOR_EXAMPLE_H_
 

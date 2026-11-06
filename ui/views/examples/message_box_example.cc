@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Message box example implementation
+// summary: Implements the MessageBoxView example, building a message box with a checkbox and buttons that toggle the checkbox and report its selected status.
+// ---
+
 #include "ui/views/examples/message_box_example.h"
 
 #include <memory>

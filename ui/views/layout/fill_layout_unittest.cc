@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FillLayout unit tests
+// summary: Unit tests covering FillLayout preferred size, minimum size and preferred height for width with zero, one and multiple children and with insets.
+// ---
+
 #include "ui/views/layout/fill_layout.h"
 
 #include <memory>

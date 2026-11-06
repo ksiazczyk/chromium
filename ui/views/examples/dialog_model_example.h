@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dialog model example header
+// summary: Declares DialogModelExample, an example demonstrating dialogs built through the ui::DialogModel API.
+// ---
+
 #ifndef UI_VIEWS_EXAMPLES_DIALOG_MODEL_EXAMPLE_H_
 #define UI_VIEWS_EXAMPLES_DIALOG_MODEL_EXAMPLE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Progress bar example implementation
+// summary: Implements the progress bar example, laying out bars with plus and minus buttons that step the value and showing indeterminate loaders of different heights.
+// ---
+
 #include "ui/views/examples/progress_bar_example.h"
 
 #include <algorithm>

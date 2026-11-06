@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fade animation example header
+// summary: Declares the FadingView class and FadeAnimationExample that demonstrate fade animations in the Views examples gallery.
+// ---
+
 #ifndef UI_VIEWS_EXAMPLES_FADE_ANIMATION_H_
 #define UI_VIEWS_EXAMPLES_FADE_ANIMATION_H_
 

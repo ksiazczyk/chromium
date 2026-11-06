@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Focus traversal unit tests
+// summary: Unit tests that verify focus traversal behavior of the views FocusManager using panes, dialogs, comboboxes, scroll views and other controls.
+// ---
+
 #include <stddef.h>
 
 #include "base/check.h"

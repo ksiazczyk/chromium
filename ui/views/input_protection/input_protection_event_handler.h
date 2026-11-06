@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Input Protection Event Handler Class Declaration
+// summary: Declares the pre-target event handler that intercepts input events before dispatch and marks events already processed by protection.
+// ---
+
 #ifndef UI_VIEWS_INPUT_PROTECTION_INPUT_PROTECTION_EVENT_HANDLER_H_
 #define UI_VIEWS_INPUT_PROTECTION_INPUT_PROTECTION_EVENT_HANDLER_H_
 

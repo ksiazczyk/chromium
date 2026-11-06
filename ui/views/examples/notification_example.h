@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification example header
+// summary: Declares the NotificationExample class, which shows a message center notification and observes view lifecycle events via a scoped observation.
+// ---
+
 #ifndef UI_VIEWS_EXAMPLES_NOTIFICATION_EXAMPLE_H_
 #define UI_VIEWS_EXAMPLES_NOTIFICATION_EXAMPLE_H_
 

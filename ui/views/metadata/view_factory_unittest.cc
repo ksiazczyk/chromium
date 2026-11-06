@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: View factory unit tests
+// summary: Tests building views with generated builders, including properties, children, callbacks and widget interactions.
+// ---
+
 #include "ui/views/metadata/view_factory.h"
 
 #include <utility>

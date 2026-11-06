@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Message box example header
+// summary: Declares the MessageBoxExample class, which exercises MessageBoxView and some of its checkbox features within the Views examples framework.
+// ---
+
 #ifndef UI_VIEWS_EXAMPLES_MESSAGE_BOX_EXAMPLE_H_
 #define UI_VIEWS_EXAMPLES_MESSAGE_BOX_EXAMPLE_H_
 

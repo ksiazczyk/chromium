@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Label example implementation
+// summary: Implements the label example for the Views Examples window, demonstrating alignment, eliding, shadows, multiline and selectable labels.
+// ---
+
 #include "ui/views/examples/label_example.h"
 
 #include <memory>

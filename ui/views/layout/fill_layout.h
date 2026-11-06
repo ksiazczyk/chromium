@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FillLayout header
+// summary: Declares FillLayout, a layout manager that stretches children to the parent bounds with options for minimum size, insets and hidden views.
+// ---
+
 #ifndef UI_VIEWS_LAYOUT_FILL_LAYOUT_H_
 #define UI_VIEWS_LAYOUT_FILL_LAYOUT_H_
 

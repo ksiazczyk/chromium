@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tabbed pane example implementation
+// summary: Implements the Views example that tests adding, selecting, and highlighting tabs and swapping the tabbed pane layout orientation.
+// ---
+
 #include "ui/views/examples/tabbed_pane_example.h"
 
 #include <memory>

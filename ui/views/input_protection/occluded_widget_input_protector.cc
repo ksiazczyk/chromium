@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OccludedWidgetInputProtector implementation
+// summary: Implements the singleton that tracks always-on-top widgets and blocks events at screen points or regions currently or recently occluded, guarding against pop-away and pop-under attacks.
+// ---
+
 #include "ui/views/input_protection/occluded_widget_input_protector.h"
 
 #include <algorithm>

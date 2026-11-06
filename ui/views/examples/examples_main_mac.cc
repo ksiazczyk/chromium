@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: macOS main for the Views Examples app
+// summary: Implements main() on macOS by locating and loading the Views Examples framework with dlopen and dispatching to ViewsExamplesMain.
+// ---
+
 #include "ui/views/examples/examples_main.h"
 
 #include <dlfcn.h>

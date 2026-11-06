@@ -1,3 +1,9 @@
+---
+type: readme
+title: Input Protection System
+summary: Documents the Views input protection system, its protection levels, policies, architecture, and how to enable or extend protection.
+---
+
 # Input Protection System
 
 This directory contains the input protection system for the Views framework. The

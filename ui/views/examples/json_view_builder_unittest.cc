@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: JSON view builder unit tests
+// summary: Unit tests for building Views UI hierarchies from JSON descriptions, using sample layouts with labels, textfields, buttons and dialogs.
+// ---
+
 #include "ui/views/examples/json_view_builder.h"
 
 #include <memory>

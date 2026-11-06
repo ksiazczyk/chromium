@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Animated image view example header
+// summary: Declares the AnimatedImageViewExample class that showcases animated image views.
+// ---
+
 #ifndef UI_VIEWS_EXAMPLES_ANIMATED_IMAGE_VIEW_EXAMPLE_H_
 #define UI_VIEWS_EXAMPLES_ANIMATED_IMAGE_VIEW_EXAMPLE_H_
 

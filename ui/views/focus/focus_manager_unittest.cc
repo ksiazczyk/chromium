@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FocusManager unit tests
+// summary: Unit tests for FocusManager covering focus callbacks, focus traversal, accelerators, and related focus behavior in the views framework.
+// ---
+
 #include "ui/views/focus/focus_manager.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Multiline example implementation
+// summary: Implements the multiline text example, hosting a RenderText view alongside a label and textfield to compare multiline rendering, styling, and elision.
+// ---
+
 #include "ui/views/examples/multiline_example.h"
 
 #include <stddef.h>

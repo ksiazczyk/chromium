@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dialog example implementation
+// summary: Implements an example exercising DialogDelegateView and BubbleDialogDelegateView with configurable buttons, labels and modal types.
+// ---
+
 #include "ui/views/examples/dialog_example.h"
 
 #include <memory>

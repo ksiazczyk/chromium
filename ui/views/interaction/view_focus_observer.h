@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: View focus observer header
+// summary: Declares ViewFocusObserverBase plus observers tracking widget focus by view pointer or element identifier within a focus manager.
+// ---
+
 #ifndef UI_VIEWS_INTERACTION_VIEW_FOCUS_OBSERVER_H_
 #define UI_VIEWS_INTERACTION_VIEW_FOCUS_OBSERVER_H_
 

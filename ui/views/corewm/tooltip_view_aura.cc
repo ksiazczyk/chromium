@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Aura tooltip view implementation
+// summary: Implements the tooltip contents view for Aura platforms, rendering tooltip text with borders, theming, eliding and accessibility support.
+// ---
+
 #include "ui/views/corewm/tooltip_view_aura.h"
 
 #include <utility>

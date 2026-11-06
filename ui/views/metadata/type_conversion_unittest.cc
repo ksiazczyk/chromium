@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Type conversion unit tests
+// summary: Verifies that callback, pointer and optional types are not serializable through the metadata TypeConverter.
+// ---
+
 #include "ui/views/metadata/type_conversion.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

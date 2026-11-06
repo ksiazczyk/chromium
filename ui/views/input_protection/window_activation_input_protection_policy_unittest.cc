@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Window activation input protection policy unit tests
+// summary: Unit tests for the window activation policy, verifying protection triggers when a widget activates while its parent is invisible, using mock time and platform-specific activation helpers.
+// ---
+
 #include "ui/views/input_protection/window_activation_input_protection_policy.h"
 
 #include <memory>

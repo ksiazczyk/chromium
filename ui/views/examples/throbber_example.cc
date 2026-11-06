@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Throbber example implementation
+// summary: Implements the Throbber example, showing throbbers of different sizes that start and stop when clicked.
+// ---
+
 #include "ui/views/examples/throbber_example.h"
 
 #include <memory>

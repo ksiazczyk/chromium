@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Text example implementation
+// summary: Implements the Text example, which draws stylized strings with controls for alignment, eliding, prefix handling, font weight, and text styles.
+// ---
+
 #include "ui/views/examples/text_example.h"
 
 #include <memory>

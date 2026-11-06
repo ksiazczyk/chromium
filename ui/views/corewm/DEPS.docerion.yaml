@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the corewm directory
+summary: Defines the allowed include dependencies for ui/views/corewm, blocking general Views includes while permitting specific headers per file.

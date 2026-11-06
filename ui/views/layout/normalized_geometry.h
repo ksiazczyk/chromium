@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Normalized geometry classes
+// summary: Declares main/cross-axis geometry types like NormalizedPoint, NormalizedSize, NormalizedInsets, and NormalizedRect for orientation-agnostic layouts.
+// ---
+
 #ifndef UI_VIEWS_LAYOUT_NORMALIZED_GEOMETRY_H_
 #define UI_VIEWS_LAYOUT_NORMALIZED_GEOMETRY_H_
 

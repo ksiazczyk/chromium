@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Polling view observer header
+// summary: Defines PollingViewObserver and PollingViewPropertyObserver templates that repeatedly poll a view's state for use with PollView test verbs.
+// ---
+
 #ifndef UI_VIEWS_INTERACTION_POLLING_VIEW_OBSERVER_H_
 #define UI_VIEWS_INTERACTION_POLLING_VIEW_OBSERVER_H_
 

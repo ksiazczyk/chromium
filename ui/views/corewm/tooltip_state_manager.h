@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tooltip state manager class declaration
+// summary: Declares TooltipStateManager, which separates tooltip state handling from event handling in TooltipController and tracks timers, text, position and parent window.
+// ---
+
 #ifndef UI_VIEWS_COREWM_TOOLTIP_STATE_MANAGER_H_
 #define UI_VIEWS_COREWM_TOOLTIP_STATE_MANAGER_H_
 

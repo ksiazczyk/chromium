@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Badge example implementation
+// summary: Implements the Badge example, demonstrating the generic views Badge and the New badge on menu items using a link, a button, and a popup menu.
+// ---
+
 #include "ui/views/examples/badge_example.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Main entry for views examples with content
+// summary: Standalone program entry that loads resources, registers example color mixers, and handles platform sandbox setup to run the examples with a content browser context.
+// ---
+
 #include "base/command_line.h"
 #include "base/files/file_path.h"
 #include "base/functional/bind.h"

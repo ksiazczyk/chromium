@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the views_examples library
+summary: Defines the test-only views_examples_lib component, listing all example sources and their dependencies for the Views examples executables.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProposedLayout implementation
+// summary: Implements ProposedLayout and ChildLayout, including child lookup, string formatting, and interpolation between layouts for animation.
+// ---
+
 #include "ui/views/layout/proposed_layout.h"
 
 #include <algorithm>

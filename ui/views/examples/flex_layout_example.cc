@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Flex layout example implementation
+// summary: Implements the Flex Layout example with interactive controls for orientation, axis alignment, margins, and flex weights.
+// ---
+
 #include "ui/views/examples/flex_layout_example.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExampleBase implementation
+// summary: Implements the ExampleBase destructor and constructor that stores the example title for the Views examples framework.
+// ---
+
 #include "ui/views/examples/example_base.h"
 
 #include "ui/views/view.h"

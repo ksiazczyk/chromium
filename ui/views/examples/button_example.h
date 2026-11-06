@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Button example header
+// summary: Declares the ButtonExample class, which demonstrates various Views button types and counts button presses.
+// ---
+
 #ifndef UI_VIEWS_EXAMPLES_BUTTON_EXAMPLE_H_
 #define UI_VIEWS_EXAMPLES_BUTTON_EXAMPLE_H_
 

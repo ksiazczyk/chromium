@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InteractionSequenceViews class declaration
+// summary: Declares InteractionSequenceViews, utility methods for using ui::InteractionSequence with Views elements.
+// ---
+
 #ifndef UI_VIEWS_INTERACTION_INTERACTION_SEQUENCE_VIEWS_H_
 #define UI_VIEWS_INTERACTION_INTERACTION_SEQUENCE_VIEWS_H_
 

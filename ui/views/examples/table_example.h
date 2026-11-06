@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Table example class declaration
+// summary: Declares TableExample, a Views example that hosts a TableView while acting as its table model, grouper, and observer.
+// ---
+
 #ifndef UI_VIEWS_EXAMPLES_TABLE_EXAMPLE_H_
 #define UI_VIEWS_EXAMPLES_TABLE_EXAMPLE_H_
 

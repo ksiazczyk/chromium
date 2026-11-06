@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Default Input Protection Policy Unit Tests
+// summary: Unit tests verifying visibility cooldown, key repeat blocking, click-spam prevention, and behavior without an observed view.
+// ---
+
 #include "ui/views/input_protection/default_input_protection_policy.h"
 
 #include <memory>

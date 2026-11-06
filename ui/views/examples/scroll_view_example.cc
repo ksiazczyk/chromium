@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scroll view example implementation
+// summary: Implements the Views example demonstrating a scroll view with a gradient content view and control buttons for scrolling.
+// ---
+
 #include "ui/views/examples/scroll_view_example.h"
 
 #include <memory>

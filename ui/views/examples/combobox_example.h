@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Combobox example class declaration
+// summary: Declares the ComboboxExample class that exercises Combobox and EditableCombobox controls with a sample combobox model.
+// ---
+
 #ifndef UI_VIEWS_EXAMPLES_COMBOBOX_EXAMPLE_H_
 #define UI_VIEWS_EXAMPLES_COMBOBOX_EXAMPLE_H_
 

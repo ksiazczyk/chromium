@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Designer example implementation
+// summary: Implements the visual designer example, including a gridded designer surface for creating, placing, moving and sizing views.
+// ---
+
 #include "ui/views/examples/designer_example.h"
 
 #include <ranges>

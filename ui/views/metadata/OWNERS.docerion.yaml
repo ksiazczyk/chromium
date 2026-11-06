@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the views metadata directory
+summary: Lists kylixrd@chromium.org as the owner responsible for the ui/views/metadata directory.

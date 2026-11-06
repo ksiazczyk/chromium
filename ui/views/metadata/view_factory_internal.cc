@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ViewBuilderCore implementation
+// summary: Implements the core builder that collects property setters, sets properties and builds views with children.
+// ---
+
 #include "ui/views/metadata/view_factory_internal.h"
 
 #include "ui/views/view.h"

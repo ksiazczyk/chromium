@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ElementTrackerWidgetState unit tests
+// summary: Unit tests verifying ElementTrackerWidgetState visibility reporting, minimization handling and delegate notifications for widgets.
+// ---
+
 #include "ui/views/interaction/element_tracker_widget_state.h"
 
 #include <memory>

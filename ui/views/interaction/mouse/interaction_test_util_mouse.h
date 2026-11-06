@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InteractionTestUtilMouse class declaration
+// summary: Declares a class offering mouse gesture factory methods and cleanup of mouse state for interactive tests, with experimental touch mode support.
+// ---
+
 #ifndef UI_VIEWS_INTERACTION_MOUSE_INTERACTION_TEST_UTIL_MOUSE_H_
 #define UI_VIEWS_INTERACTION_MOUSE_INTERACTION_TEST_UTIL_MOUSE_H_
 

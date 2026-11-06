@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LayoutManager base implementation
+// summary: Provides default implementations of the LayoutManager interface, including fallback sizing behavior, visibility change handling, and paint-order child listing.
+// ---
+
 #include "ui/views/layout/layout_manager.h"
 
 #include "base/auto_reset.h"

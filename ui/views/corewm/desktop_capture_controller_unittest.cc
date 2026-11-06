@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Desktop capture controller unit tests
+// summary: Verifies that mouse handlers are reset when another window gains capture and that gesture events reach the window holding capture.
+// ---
+
 #include <memory>
 
 #include "ui/aura/env.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Input Protection Interactive Test API Declaration
+// summary: Declares the InputProtectionTestApi mixin providing interaction-sequence steps for cooldowns, view moves, and simulated input.
+// ---
+
 #ifndef UI_VIEWS_INPUT_PROTECTION_INPUT_PROTECTION_INTERACTIVE_TEST_H_
 #define UI_VIEWS_INPUT_PROTECTION_INPUT_PROTECTION_INTERACTIVE_TEST_H_
 

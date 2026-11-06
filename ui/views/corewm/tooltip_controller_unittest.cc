@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tooltip controller unit tests
+// summary: Unit tests for the corewm tooltip controller, covering tooltip show and hide behavior, delays, positioning, triggers and accessibility across platforms.
+// ---
+
 #include "ui/views/corewm/tooltip_controller.h"
 
 #include <algorithm>

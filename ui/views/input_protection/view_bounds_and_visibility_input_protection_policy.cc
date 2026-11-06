@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: View bounds and visibility protection policy implementation
+// summary: Implements a protection policy that starts a cooldown when an observed view changes bounds or becomes visible, blocking events targeting that view during the cooldown interval.
+// ---
+
 #include "ui/views/input_protection/view_bounds_and_visibility_input_protection_policy.h"
 
 #include <memory>

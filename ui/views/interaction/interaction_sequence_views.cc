@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InteractionSequenceViews implementation
+// summary: Implements helpers that build initial interaction sequence steps from Views and name views within a sequence via ElementTrackerViews.
+// ---
+
 #include "ui/views/interaction/interaction_sequence_views.h"
 
 #include <string_view>

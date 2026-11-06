@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Widget stationarity monitor class declaration
+// summary: Declares the WidgetStationarityMonitor singleton, a WidgetObserver that notifies subscribers when tracked widgets change bounds or close, for use by InputEventActivationProtector.
+// ---
+
 #ifndef UI_VIEWS_INPUT_PROTECTION_WIDGET_STATIONARITY_MONITOR_H_
 #define UI_VIEWS_INPUT_PROTECTION_WIDGET_STATIONARITY_MONITOR_H_
 

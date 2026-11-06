@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ElementTrackerViews implementation
+// summary: Implements TrackedElementViews and ElementTrackerViews, which wrap Views as tracked elements and manage their visibility, activation and contexts.
+// ---
+
 #include "ui/views/interaction/element_tracker_views.h"
 
 #include <algorithm>

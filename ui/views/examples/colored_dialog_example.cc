@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Colored dialog example implementation
+// summary: Implements the ColoredDialog example with a theme-tracking checkbox, a text-entry dialog, and a chooser view that submits feedback and shows a confirmation.
+// ---
+
 #include "ui/views/examples/colored_dialog_example.h"
 
 #include <memory>

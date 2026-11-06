@@ -1,0 +1,4 @@
+# Docerion header of README.chromium.
+type: readme
+title: corewm directory README
+summary: Explains that this directory holds window-manager code shared by Ash and the Desktop Aura implementation.

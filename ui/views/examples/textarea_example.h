@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Textarea example class declaration
+// summary: Declares TextareaExample, a Views example that displays a textarea with sample text.
+// ---
+
 #ifndef UI_VIEWS_EXAMPLES_TEXTAREA_EXAMPLE_H_
 #define UI_VIEWS_EXAMPLES_TEXTAREA_EXAMPLE_H_
 

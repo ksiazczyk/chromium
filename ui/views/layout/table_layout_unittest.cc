@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TableLayout unit tests
+// summary: Unit tests verifying TableLayout behavior for column and row setup, view alignment modes, preferred sizes, and bounds of laid-out child views.
+// ---
+
 #include "ui/views/layout/table_layout.h"
 
 #include "base/memory/raw_ptr.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Textfield example class declaration
+// summary: Declares TextfieldExample, a Views example with various textfields and buttons that implements TextfieldController to handle key and mouse events.
+// ---
+
 #ifndef UI_VIEWS_EXAMPLES_TEXTFIELD_EXAMPLE_H_
 #define UI_VIEWS_EXAMPLES_TEXTFIELD_EXAMPLE_H_
 

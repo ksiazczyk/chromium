@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Layout example base implementation
+// summary: Implements the shared base for layout manager examples, with child panels and textfields for margins and flex values.
+// ---
+
 #include "ui/views/examples/layout_example_base.h"
 
 #include <algorithm>

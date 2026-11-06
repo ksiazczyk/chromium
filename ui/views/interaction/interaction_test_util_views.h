@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InteractionTestUtilSimulatorViews class declaration
+// summary: Declares the Views simulator for InteractionTestUtil plus ViewFocusedWaiter for waiting on focus changes to a specific view.
+// ---
+
 #ifndef UI_VIEWS_INTERACTION_INTERACTION_TEST_UTIL_VIEWS_H_
 #define UI_VIEWS_INTERACTION_INTERACTION_TEST_UTIL_VIEWS_H_
 

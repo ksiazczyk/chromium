@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InputProtectionSpecification implementation
+// summary: Implements the InputProtectionSpecification property, resolving view-local protected bounds, clipping them to the view, and converting them to screen coordinates.
+// ---
+
 #include "ui/views/input_protection/input_protection_specification.h"
 
 #include <utility>

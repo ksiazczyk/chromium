@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Views Examples main procedure implementation
+// summary: Initializes the UI stack, including Mojo, ICU, fonts, compositor and accessibility, and runs the examples window for standalone or test use.
+// ---
+
 #include "ui/views/examples/examples_main_proc.h"
 
 #include <memory>

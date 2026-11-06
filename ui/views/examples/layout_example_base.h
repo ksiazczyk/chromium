@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Layout example base header
+// summary: Declares LayoutExampleBase and its ChildPanel view for interactively configuring margins and flex in layout demonstrations.
+// ---
+
 #ifndef UI_VIEWS_EXAMPLES_LAYOUT_EXAMPLE_BASE_H_
 #define UI_VIEWS_EXAMPLES_LAYOUT_EXAMPLE_BASE_H_
 

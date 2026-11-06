@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the Views interaction directory
+summary: Points to the OWNERS file of ui/base/interaction as the owners for this directory.

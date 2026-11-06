@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Examples window with content implementation
+// summary: Shows the examples window with a WebView example added, using the provided content browser context.
+// ---
+
 #include "ui/views/examples/examples_window_with_content.h"
 
 #include <memory>

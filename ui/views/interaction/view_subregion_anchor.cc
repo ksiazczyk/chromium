@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: View subregion anchor implementation
+// summary: Implements a synthetic tracked element that anchors to a subregion of a host view, updating bounds, visibility, and host moves.
+// ---
+
 #include "ui/views/interaction/view_subregion_anchor.h"
 
 #include <algorithm>

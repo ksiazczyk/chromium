@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window activation input protection policy declaration
+// summary: Declares an InputProtectionPolicy implementation that protects widgets from unintended interaction when they become active after their parent window was invisible.
+// ---
+
 #ifndef UI_VIEWS_INPUT_PROTECTION_WINDOW_ACTIVATION_INPUT_PROTECTION_POLICY_H_
 #define UI_VIEWS_INPUT_PROTECTION_WINDOW_ACTIVATION_INPUT_PROTECTION_POLICY_H_
 

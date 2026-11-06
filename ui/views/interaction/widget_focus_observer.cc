@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Widget focus observer implementation
+// summary: Implements the widget focus supplier, supplier frame, and observer classes that expose the currently active widget as a state observer for interactive tests.
+// ---
+
 #include "ui/views/interaction/widget_focus_observer.h"
 
 #include <iterator>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FlexLayout header
+// summary: Declares FlexLayout, a CSS-like layout manager for one-dimensional child arrangement with per-view flex specifications, margins and alignment controls.
+// ---
+
 #ifndef UI_VIEWS_LAYOUT_FLEX_LAYOUT_H_
 #define UI_VIEWS_LAYOUT_FLEX_LAYOUT_H_
 

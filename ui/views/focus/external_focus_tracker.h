@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExternalFocusTracker class declaration
+// summary: Declares the ExternalFocusTracker class, a FocusChangeListener that tracks the last focused view outside a parent view so focus can be returned to it later.
+// ---
+
 #ifndef UI_VIEWS_FOCUS_EXTERNAL_FOCUS_TRACKER_H_
 #define UI_VIEWS_FOCUS_EXTERNAL_FOCUS_TRACKER_H_
 

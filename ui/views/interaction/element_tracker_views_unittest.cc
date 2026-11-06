@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ElementTrackerViews unit tests
+// summary: Unit tests for ElementTrackerViews covering element events, view tracking and context behavior.
+// ---
+
 #include "ui/views/interaction/element_tracker_views.h"
 
 #include <algorithm>

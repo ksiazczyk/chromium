@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ViewDebugWrapper interface and PrintViewHierarchy declaration
+// summary: Declares the ViewDebugWrapper interface over the View class and the PrintViewHierarchy function used by debugger extensions.
+// ---
+
 #ifndef UI_VIEWS_DEBUG_DEBUGGER_UTILS_H_
 #define UI_VIEWS_DEBUG_DEBUGGER_UTILS_H_
 

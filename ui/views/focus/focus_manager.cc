@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FocusManager implementation
+// summary: Implements FocusManager, which handles focus traversal, stores and restores focused views, and processes keyboard accelerators for a Widget.
+// ---
+
 #include "ui/views/focus/focus_manager.h"
 
 #include <algorithm>

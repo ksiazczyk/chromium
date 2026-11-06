@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window activation input protection policy implementation
+// summary: Implements a policy that blocks input events during a cooldown period after a widget becomes active while its parent window was previously invisible.
+// ---
+
 #include "ui/views/input_protection/window_activation_input_protection_policy.h"
 
 #include "base/check.h"

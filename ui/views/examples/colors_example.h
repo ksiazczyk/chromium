@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Colors example class declaration
+// summary: Declares the ColorsExample class that displays all defined color identifiers together with their values.
+// ---
+
 #ifndef UI_VIEWS_EXAMPLES_COLORS_EXAMPLE_H_
 #define UI_VIEWS_EXAMPLES_COLORS_EXAMPLE_H_
 

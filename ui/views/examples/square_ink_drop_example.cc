@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Square ink drop example implementation
+// summary: Implements the example that installs a square ripple ink drop on the shared ink drop example view.
+// ---
+
 #include "ui/views/examples/square_ink_drop_example.h"
 
 #include <memory>

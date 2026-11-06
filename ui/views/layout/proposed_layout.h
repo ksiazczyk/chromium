@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProposedLayout structs for child view layout specifications
+// summary: Defines ChildLayout and ProposedLayout structs describing per-child layout information for a host view, plus a ProposedLayoutBetween function that interpolates between two layouts.
+// ---
+
 #ifndef UI_VIEWS_LAYOUT_PROPOSED_LAYOUT_H_
 #define UI_VIEWS_LAYOUT_PROPOSED_LAYOUT_H_
 

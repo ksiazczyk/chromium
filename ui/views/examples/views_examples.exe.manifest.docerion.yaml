@@ -1,0 +1,4 @@
+# Docerion header of views_examples.exe.manifest.
+type: config
+title: Views Examples Windows executable manifest
+summary: Windows application manifest for the Views Examples executable, declaring the Common-Controls dependency and asInvoker execution level.

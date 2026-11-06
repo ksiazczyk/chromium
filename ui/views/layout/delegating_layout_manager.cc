@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DelegatingLayoutManager implementation
+// summary: Implements DelegatingLayoutManager, forwarding proposed-layout calculation and pre-apply layout hooks to its LayoutDelegate.
+// ---
+
 #include "ui/views/layout/delegating_layout_manager.h"
 
 #include "ui/views/layout/proposed_layout.h"

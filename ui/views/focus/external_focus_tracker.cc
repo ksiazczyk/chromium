@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExternalFocusTracker implementation
+// summary: Implements ExternalFocusTracker, which records the last focused view outside a parent view and can restore focus to it when the parent view is dismissed.
+// ---
+
 #include "ui/views/focus/external_focus_tracker.h"
 
 #include <memory>

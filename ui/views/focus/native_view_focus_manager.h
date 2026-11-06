@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NativeViewFocusManager interface
+// summary: Declares the NativeViewFocusManager singleton, its focus change listener interface, the scoped notification disabler, and ScopedObservation traits support.
+// ---
+
 #ifndef UI_VIEWS_FOCUS_NATIVE_VIEW_FOCUS_MANAGER_H_
 #define UI_VIEWS_FOCUS_NATIVE_VIEW_FOCUS_MANAGER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Button example implementation
+// summary: Implements the Button example, demonstrating label, MD text, tonal, FAB, and image buttons with click counting, icons, and ink drop effects.
+// ---
+
 #include "ui/views/examples/button_example.h"
 
 #include <memory>

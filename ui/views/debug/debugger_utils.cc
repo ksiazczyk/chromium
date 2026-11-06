@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Debugger utils implementation for view hierarchy printing
+// summary: Implements helpers that format view attributes and print the view hierarchy as indented text for debugger tooling.
+// ---
+
 #include "ui/views/debug/debugger_utils.h"
 
 #include <inttypes.h>

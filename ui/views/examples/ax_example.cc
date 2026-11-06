@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accessibility features example implementation
+// summary: Implements the Accessibility Features example, which shows a button that announces text through ViewAccessibility within a flex layout container.
+// ---
+
 #include "ui/views/examples/ax_example.h"
 
 #include <memory>

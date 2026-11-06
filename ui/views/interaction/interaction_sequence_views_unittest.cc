@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: InteractionSequenceViews unit tests
+// summary: Integration tests verifying ui::InteractionSequence behavior with Views elements such as widgets, buttons and bubbles.
+// ---
+
 #include "ui/views/interaction/interaction_sequence_views.h"
 
 // This suite contains tests which integrate the functionality of

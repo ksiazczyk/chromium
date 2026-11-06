@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Input Protection Event Handler Unit Tests
+// summary: Unit tests covering event interception, focus traversal and accessibility bypasses, non-cancelable gestures, and event blocking.
+// ---
+
 #include "ui/views/input_protection/input_protection_event_handler.h"
 
 #include <cstdint>

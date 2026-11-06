@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Interactive Views test internal implementation
+// summary: Implements internal helpers for the Views interactive test API, including widget focus supply and debug dumping of tracked view hierarchies.
+// ---
+
 #include "ui/views/interaction/interactive_views_test_internal.h"
 
 #include <compare>

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the Views examples directory
+summary: Specifies the allowed include paths and per-file exceptions for code in the Views examples directory.

@@ -1,0 +1,4 @@
+# Docerion header of views_examples.gni.
+type: config
+title: Views Examples app bundle name and version settings
+summary: GN import defining the Views Examples Mac app bundle name, version, and framework name shared by the build and signing targets.

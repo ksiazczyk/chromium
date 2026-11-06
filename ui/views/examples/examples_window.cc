@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Views examples window implementation
+// summary: Implements the examples window with a tabbed pane of views examples, command-line filtering of shown examples, usage help, and status printing.
+// ---
+
 #include "ui/views/examples/examples_window.h"
 
 #include <algorithm>

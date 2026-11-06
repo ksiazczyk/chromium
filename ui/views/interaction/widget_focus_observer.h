@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Widget focus observer declarations
+// summary: Declares WidgetFocusSupplier, WidgetFocusSupplierFrame, and WidgetFocusObserver for tracking widget focus as a state observer in interactive views tests.
+// ---
+
 #ifndef UI_VIEWS_INTERACTION_WIDGET_FOCUS_OBSERVER_H_
 #define UI_VIEWS_INTERACTION_WIDGET_FOCUS_OBSERVER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ElementTrackerViews and TrackedElementViews declarations
+// summary: Declares TrackedElementViews and ElementTrackerViews, which associate Views with element identifiers and provide context and lookup APIs.
+// ---
+
 #ifndef UI_VIEWS_INTERACTION_ELEMENT_TRACKER_VIEWS_H_
 #define UI_VIEWS_INTERACTION_ELEMENT_TRACKER_VIEWS_H_
 

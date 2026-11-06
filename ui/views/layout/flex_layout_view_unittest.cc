@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FlexLayoutView unit tests
+// summary: Unit tests verifying that FlexLayoutView invalidates layout when its properties change and does not invalidate layout when properties are set to unchanged values.
+// ---
+
 #include "ui/views/layout/flex_layout_view.h"
 
 #include <memory>

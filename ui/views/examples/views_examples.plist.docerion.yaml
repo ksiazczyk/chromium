@@ -1,0 +1,4 @@
+# Docerion header of views_examples.plist.
+type: config
+title: Views Examples macOS app bundle property list
+summary: macOS Info.plist for the Views Examples app bundle, defining the bundle identifier, icon file, and application settings.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skia Gold pixel diff class header
+// summary: Declares the ExamplesSkiaGoldPixelDiff class that screenshots the examples window and compares it against golden images.
+// ---
+
 #ifndef UI_VIEWS_EXAMPLES_EXAMPLES_SKIA_GOLD_PIXEL_DIFF_H_
 #define UI_VIEWS_EXAMPLES_EXAMPLES_SKIA_GOLD_PIXEL_DIFF_H_
 

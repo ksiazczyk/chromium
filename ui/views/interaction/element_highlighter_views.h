@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ElementHighlighterViews class declaration
+// summary: Declares ElementHighlighterViews, the Views backend of ui::ElementHighlighter for highlighting button views.
+// ---
+
 #ifndef UI_VIEWS_INTERACTION_ELEMENT_HIGHLIGHTER_VIEWS_H_
 #define UI_VIEWS_INTERACTION_ELEMENT_HIGHLIGHTER_VIEWS_H_
 

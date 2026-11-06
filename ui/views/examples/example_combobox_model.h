@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExampleComboboxModel class
+// summary: Declares a ui::ComboboxModel subclass that serves a static span of string items for use in examples.
+// ---
+
 #ifndef UI_VIEWS_EXAMPLES_EXAMPLE_COMBOBOX_MODEL_H_
 #define UI_VIEWS_EXAMPLES_EXAMPLE_COMBOBOX_MODEL_H_
 

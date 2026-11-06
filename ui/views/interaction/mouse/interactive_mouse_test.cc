@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InteractiveMouseTestApi implementation
+// summary: Implements interactive test step builders such as MoveMouseTo, ClickMouse and DragMouseTo that drive mouse gestures within interaction sequences.
+// ---
+
 #include "ui/views/interaction/mouse/interactive_mouse_test.h"
 
 #include <variant>

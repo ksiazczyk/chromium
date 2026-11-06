@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LayoutManager interface
+// summary: Declares the abstract LayoutManager interface used by View to compute preferred and minimum sizes and to position and size child views.
+// ---
+
 #ifndef UI_VIEWS_LAYOUT_LAYOUT_MANAGER_H_
 #define UI_VIEWS_LAYOUT_LAYOUT_MANAGER_H_
 

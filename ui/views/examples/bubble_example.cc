@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bubble example implementation
+// summary: Implements the Bubble example, showing bubble dialogs with different border arrows and standard, none, or persistent shadow options.
+// ---
+
 #include "ui/views/examples/bubble_example.h"
 
 #include <array>

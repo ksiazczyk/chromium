@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Login bubble dialog example implementation
+// summary: Implements a login bubble dialog example with username and password fields, validation and a submit callback.
+// ---
+
 #include "ui/views/examples/login_bubble_dialog_example.h"
 
 #include <memory>

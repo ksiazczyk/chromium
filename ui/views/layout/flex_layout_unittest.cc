@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FlexLayout unit tests
+// summary: Extensive unit tests for FlexLayout covering flex rules, sizing behavior, margins, alignment, and child view handling using mock views and custom flex rules.
+// ---
+
 #include "ui/views/layout/flex_layout.h"
 
 #include <stddef.h>

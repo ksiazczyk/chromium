@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TableLayout class declaration
+// summary: Declares the TableLayout layout manager for arranging child views in tables with configurable columns, padding, rows, alignment, resize weights, and linked column sizes.
+// ---
+
 #ifndef UI_VIEWS_LAYOUT_TABLE_LAYOUT_H_
 #define UI_VIEWS_LAYOUT_TABLE_LAYOUT_H_
 

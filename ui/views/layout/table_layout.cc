@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TableLayout layout manager implementation
+// summary: Implements the TableLayout layout manager that positions child views in a table, including layout element sizing, delta distribution among resizable columns and rows, and alignment handling.
+// ---
+
 #include "ui/views/layout/table_layout.h"
 
 #include <algorithm>

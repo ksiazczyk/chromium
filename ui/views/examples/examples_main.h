@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Views Examples main entry point header
+// summary: Declares the ViewsExamplesMain entry point that the macOS Views Examples app bundle invokes dynamically from its main().
+// ---
+
 #ifndef UI_VIEWS_EXAMPLES_EXAMPLES_MAIN_H_
 #define UI_VIEWS_EXAMPLES_EXAMPLES_MAIN_H_
 

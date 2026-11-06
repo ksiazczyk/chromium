@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WidgetFocusObserver unit tests
+// summary: Unit tests verifying that WidgetFocusObserver reports the active widget correctly with no widgets, multiple widgets, activation changes, and bubbles.
+// ---
+
 #include "ui/views/interaction/widget_focus_observer.h"
 
 #include <memory>

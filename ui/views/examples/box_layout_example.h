@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Box layout example header
+// summary: Declares the BoxLayoutExample class, an interactive layout example for tuning BoxLayout properties through text fields and comboboxes.
+// ---
+
 #ifndef UI_VIEWS_EXAMPLES_BOX_LAYOUT_EXAMPLE_H_
 #define UI_VIEWS_EXAMPLES_BOX_LAYOUT_EXAMPLE_H_
 

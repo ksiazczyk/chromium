@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExampleBase class for Views examples
+// summary: Declares the abstract ExampleBase base class that examples subclass to create their views and expose a title and container view.
+// ---
+
 #ifndef UI_VIEWS_EXAMPLES_EXAMPLE_BASE_H_
 #define UI_VIEWS_EXAMPLES_EXAMPLE_BASE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Widget example implementation
+// summary: Implements the WidgetExample demo, building buttons that open popup, dialog, modal, and (on Linux/CrOS) control widgets to show Views widget creation.
+// ---
+
 #include "ui/views/examples/widget_example.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TooltipAura class declaration
+// summary: Declares TooltipAura, a Tooltip implementation that displays tooltips in a Widget and manages observers and bounds.
+// ---
+
 #ifndef UI_VIEWS_COREWM_TOOLTIP_AURA_H_
 #define UI_VIEWS_COREWM_TOOLTIP_AURA_H_
 

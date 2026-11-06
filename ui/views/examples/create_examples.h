@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Create examples header
+// summary: Declares the CreateExamples function that assembles the default set of Views examples, optionally with extra examples.
+// ---
+
 #ifndef UI_VIEWS_EXAMPLES_CREATE_EXAMPLES_H_
 #define UI_VIEWS_EXAMPLES_CREATE_EXAMPLES_H_
 

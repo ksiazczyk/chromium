@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Create examples implementation
+// summary: Registers all example classes into the default example list returned by CreateExamples for the Views Examples window.
+// ---
+
 #include "ui/views/examples/create_examples.h"
 
 #include <memory>

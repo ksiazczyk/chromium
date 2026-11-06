@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FlexLayoutView class declaration
+// summary: Declares FlexLayoutView, a View wrapping a FlexLayout with setters and getters for layout properties, a default nested flex rule, and view builder metadata.
+// ---
+
 #ifndef UI_VIEWS_LAYOUT_FLEX_LAYOUT_VIEW_H_
 #define UI_VIEWS_LAYOUT_FLEX_LAYOUT_VIEW_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Views Examples with content export macro definitions
+// summary: Defines the VIEWS_EXAMPLES_WITH_CONTENT_EXPORT macro used to export symbols from the views_examples_with_content_lib module.
+// ---
+
 #ifndef UI_VIEWS_EXAMPLES_VIEWS_EXAMPLES_WITH_CONTENT_EXPORT_H_
 #define UI_VIEWS_EXAMPLES_VIEWS_EXAMPLES_WITH_CONTENT_EXPORT_H_
 

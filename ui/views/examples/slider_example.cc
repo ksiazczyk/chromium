@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Slider example implementation
+// summary: Implements the Views example showing default and minimal style sliders whose labels display the current value.
+// ---
+
 #include "ui/views/examples/slider_example.h"
 
 #include <memory>

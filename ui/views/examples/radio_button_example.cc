@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Radio button example implementation
+// summary: Implements the Views example that shows a group of three radio buttons with buttons to select one and print their checked state.
+// ---
+
 #include "ui/views/examples/radio_button_example.h"
 
 #include <stddef.h>

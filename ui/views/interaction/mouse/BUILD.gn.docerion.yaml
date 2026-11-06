@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for Views mouse interaction test support
+summary: Defines the testonly test_support source set for mouse interaction testing, listing its sources and dependencies on base, ui and Views targets.

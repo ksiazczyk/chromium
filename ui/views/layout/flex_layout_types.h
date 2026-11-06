@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Flex layout type definitions
+// summary: Declares flex layout types for Views, including FlexAllocationOrder, the FlexRule callback, minimum and maximum flex size rules, and multi-stage rule-and-predicate specifications.
+// ---
+
 #ifndef UI_VIEWS_LAYOUT_FLEX_LAYOUT_TYPES_H_
 #define UI_VIEWS_LAYOUT_FLEX_LAYOUT_TYPES_H_
 

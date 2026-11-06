@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LayoutManagerBase unit tests
+// summary: Unit tests for LayoutManagerBase covering proposed layouts, invalidation counts, and child inclusion behavior using test layout manager stubs.
+// ---
+
 #include "ui/views/layout/layout_manager_base.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FocusManagerDelegate interface declaration
+// summary: Declares the FocusManagerDelegate interface with methods for processing accelerators and enabling arrow key focus traversal.
+// ---
+
 #ifndef UI_VIEWS_FOCUS_FOCUS_MANAGER_DELEGATE_H_
 #define UI_VIEWS_FOCUS_FOCUS_MANAGER_DELEGATE_H_
 

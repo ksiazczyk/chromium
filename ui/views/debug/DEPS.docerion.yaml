@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for views debug code
+summary: Sets include rules that keep views debug code independent of //ui/views, allowing only ui/views/debug dependencies so debugger extensions stay resilient to codebase changes.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LayoutProvider class and metric enums
+// summary: Declares the LayoutProvider class plus the InsetsMetric and DistanceMetric enums that define standard padding and spacing values for views.
+// ---
+
 #ifndef UI_VIEWS_LAYOUT_LAYOUT_PROVIDER_H_
 #define UI_VIEWS_LAYOUT_LAYOUT_PROVIDER_H_
 

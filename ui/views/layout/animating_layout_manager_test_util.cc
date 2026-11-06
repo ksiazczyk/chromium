@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AnimatingLayoutManager test helpers
+// summary: Provides test helpers to fetch an AnimatingLayoutManager from a view, wait for animations to finish, and shorten animation duration in tests.
+// ---
+
 #include "ui/views/layout/animating_layout_manager_test_util.h"
 
 #include "base/run_loop.h"

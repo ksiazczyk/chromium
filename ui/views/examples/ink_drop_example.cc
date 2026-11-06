@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ink drop example implementation
+// summary: Implements the FloodFill Ink Drop example, using buttons to trigger ink drop ripple states on a themed view.
+// ---
+
 #include "ui/views/examples/ink_drop_example.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InteractionTestUtilMouse implementation
+// summary: Implements mouse gesture primitives for tests, including drag cancellation via DragEnder, gesture sequencing, and touch input conversion on ChromeOS Ash.
+// ---
+
 #include "ui/views/interaction/mouse/interaction_test_util_mouse.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JSON view builder implementation
+// summary: Implements JsonViewBuilder, which constructs Views, dialogs, bubbles, and dialog models at runtime from JSON specifications.
+// ---
+
 #include "ui/views/examples/json_view_builder.h"
 
 #include <algorithm>
