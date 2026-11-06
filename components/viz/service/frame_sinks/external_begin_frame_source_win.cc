@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExternalBeginFrameSourceWin implementation
+// summary: Implements the Windows external begin frame source that receives VSync from VSyncThreadWin and supports half refresh rate operation.
+// ---
+
 #include "components/viz/service/frame_sinks/external_begin_frame_source_win.h"
 
 #include <utility>

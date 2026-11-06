@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build rules for the viz service main source set
+summary: Defines the viz_main_impl source set with its sources and dependencies for the Viz compositor service main component.

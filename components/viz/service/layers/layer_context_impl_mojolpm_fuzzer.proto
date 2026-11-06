@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: data
+// title: Fuzzer input format for the LayerContextImpl mojolpm fuzzer
+// summary: Defines the protobuf messages describing fuzzer actions, including thread runs, display tree updates and tiling updates, for the mojolpm fuzzer.
+// ---
+
 syntax = "proto2";
 
 package viz.fuzzing.layer_context.proto;

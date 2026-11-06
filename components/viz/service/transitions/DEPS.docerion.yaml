@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include dependency rules for viz transitions
+summary: Defines allowed include dependencies for the viz service transitions directory, with an extra rule permitting display_embedder in unit tests.

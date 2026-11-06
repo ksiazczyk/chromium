@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: macOS external begin frame source unit tests
+// summary: Tests ExternalBeginFrameSourceMac with a mocked DisplayLinkMac simulating VSync ticks, refresh interval ranges, and dynamic refresh rate behavior.
+// ---
+
 #include "components/viz/service/frame_sinks/external_begin_frame_source_mac.h"
 
 #include <cmath>

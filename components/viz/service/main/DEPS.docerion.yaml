@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Allowed include dependencies for viz service main
+summary: Lists the include rules permitted for the viz service main directory, with a special rule for viz_main_impl.h.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HitTestAggregator implementation
+// summary: Implements aggregation of per-surface hit test regions into a list that is sent to HitTestQuery for event targeting.
+// ---
+
 #include "components/viz/service/hit_test/hit_test_aggregator.h"
 
 #include "base/feature.h"

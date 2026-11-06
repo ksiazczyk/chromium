@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Surface resource holder implementation
+// summary: Implements reference counting for resources submitted by a surface factory, returning them to the client once no pending frames or providers reference them.
+// ---
+
 #include "components/viz/service/frame_sinks/surface_resource_holder.h"
 
 #include <utility>

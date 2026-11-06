@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Viz layer context test fakes and fixture declarations
+// summary: Declares FakeLayerContext, FakeCompositorFrameSink and the VizLayerContextTest base class for testing the trees-in-viz layer context.
+// ---
+
 #ifndef COMPONENTS_VIZ_SERVICE_LAYERS_VIZ_LAYER_CONTEXT_UNITTEST_H_
 #define COMPONENTS_VIZ_SERVICE_LAYERS_VIZ_LAYER_CONTEXT_UNITTEST_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BoostManager class header
+// summary: Declares the BoostManager class that recalculates frame durations based on the current boost type, emulating a missed frame for wake-up boost.
+// ---
+
 #ifndef COMPONENTS_VIZ_SERVICE_PERFORMANCE_HINT_BOOST_MANAGER_H_
 #define COMPONENTS_VIZ_SERVICE_PERFORMANCE_HINT_BOOST_MANAGER_H_
 

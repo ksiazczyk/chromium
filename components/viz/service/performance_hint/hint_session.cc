@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HintSession Android implementation
+// summary: Implements the Android PerformanceHintManager wrapper, dynamically loading ADPF functions from libandroid.so to create sessions and report CPU timing hints to the OS.
+// ---
+
 #include "components/viz/service/performance_hint/hint_session.h"
 
 #include <algorithm>

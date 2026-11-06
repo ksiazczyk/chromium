@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SurfaceDependencyDeadline class declaration
+// summary: Declares SurfaceDependencyDeadline, which stores frame, per-dependency, and view transition deadlines and reports whether those deadlines have passed.
+// ---
+
 #ifndef COMPONENTS_VIZ_SERVICE_SURFACES_SURFACE_DEPENDENCY_DEADLINE_H_
 #define COMPONENTS_VIZ_SERVICE_SURFACES_SURFACE_DEPENDENCY_DEADLINE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VizCompositorThreadRunner interface
+// summary: Declares the abstract VizCompositorThreadRunner interface that starts and runs the VizCompositorThread and creates the FrameSinkManager.
+// ---
+
 #ifndef COMPONENTS_VIZ_SERVICE_MAIN_VIZ_COMPOSITOR_THREAD_RUNNER_H_
 #define COMPONENTS_VIZ_SERVICE_MAIN_VIZ_COMPOSITOR_THREAD_RUNNER_H_
 

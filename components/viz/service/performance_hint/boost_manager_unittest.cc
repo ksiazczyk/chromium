@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BoostManager unit tests
+// summary: Unit test verifying that BoostManager returns the expected frame durations for the default and wake-up boost types.
+// ---
+
 #include "components/viz/service/performance_hint/boost_manager.h"
 
 #include "base/test/scoped_feature_list.h"

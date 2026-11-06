@@ -9,6 +9,12 @@
 // .mojom files by //services/viz/public/mojom:mojom_mojolpm; this grammar only
 // composes them into a per-call Action stream.
 
+// ---docerion
+// type: source
+// title: Proto grammar for the CompositorFrameSink fuzzer
+// summary: Defines the protobuf grammar composing generated mojolpm message types into an action stream that drives the CompositorFrameSink fuzzer.
+// ---
+
 syntax = "proto2";
 
 package viz.fuzzing.compositor_frame_sink.proto;

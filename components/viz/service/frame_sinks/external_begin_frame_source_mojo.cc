@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo external begin frame source implementation
+// summary: Implements ExternalBeginFrameSourceMojo, an IPC-controlled begin frame source that tracks frame sink completion before dispatching the frame ack callback.
+// ---
+
 #include "components/viz/service/frame_sinks/external_begin_frame_source_mojo.h"
 
 #include <utility>

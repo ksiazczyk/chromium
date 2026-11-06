@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FrameCounter implementation
+// summary: Counts presented frames per frame sink into time buckets and provides frame counting data for fps metrics.
+// ---
+
 #include "components/viz/service/frame_sinks/frame_counter.h"
 
 #include <limits>

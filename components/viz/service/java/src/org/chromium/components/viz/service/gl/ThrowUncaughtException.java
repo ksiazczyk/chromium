@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ThrowUncaughtException helper class
+// summary: Java helper called from native code via JNI that posts a runnable to the UI thread which throws an intentional uncaught RuntimeException.
+// ---
+
 package org.chromium.components.viz.service.gl;
 
 import org.jni_zero.CalledByNative;

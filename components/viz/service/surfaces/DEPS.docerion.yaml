@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for viz surfaces
+summary: Defines allowed include dependencies for the surfaces directory, with extra GPU shared image includes permitted for surface_saved_frame.

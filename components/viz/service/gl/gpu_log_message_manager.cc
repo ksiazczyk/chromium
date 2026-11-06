@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU log message manager implementation
+// summary: Implements the GpuLogMessageManager singleton that defers, routes, and flushes GPU process log messages to the browser over the mojo GpuLogging interface.
+// ---
+
 #include "components/viz/service/gl/gpu_log_message_manager.h"
 
 #include "base/check.h"

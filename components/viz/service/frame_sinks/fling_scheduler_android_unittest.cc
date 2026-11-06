@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FlingScheduler Android unit tests
+// summary: Unit tests for the Android fling scheduler using a frame sink manager, mock input manager, and root compositor frame sinks.
+// ---
+
 #include "components/viz/service/input/fling_scheduler_android.h"
 
 #include "base/test/scoped_feature_list.h"

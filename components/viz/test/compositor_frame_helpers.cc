@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Compositor frame test helpers implementation
+// summary: Implements builder classes for constructing compositor frames and render passes with methods to add solid color, surface, texture, and other draw quads in tests.
+// ---
+
 #include "components/viz/test/compositor_frame_helpers.h"
 
 #include <memory>

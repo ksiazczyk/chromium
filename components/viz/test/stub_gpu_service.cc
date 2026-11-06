@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Stub GPU service implementation
+// summary: Provides empty method bodies for the stub GPU service test double of mojom::GpuService.
+// ---
+
 #include "components/viz/test/stub_gpu_service.h"
 
 #include <utility>

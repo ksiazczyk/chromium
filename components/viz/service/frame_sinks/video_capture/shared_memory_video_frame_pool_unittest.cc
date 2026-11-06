@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shared memory video frame pool unit tests
+// summary: Unit tests verifying that SharedMemoryVideoFramePool configures frames correctly, reuses and reallocates pooled buffers by size, and enforces its capacity limit.
+// ---
+
 #include "components/viz/service/frame_sinks/video_capture/shared_memory_video_frame_pool.h"
 
 #include <memory>

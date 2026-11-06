@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unit tests for FrameSinkVideoCapturerImpl
+// summary: Unit tests covering capture behavior, pixel formats, buffer handling, frame metadata, and delivery of the frame sink video capturer.
+// ---
+
 #include "components/viz/service/frame_sinks/video_capture/frame_sink_video_capturer_impl.h"
 
 #include <map>

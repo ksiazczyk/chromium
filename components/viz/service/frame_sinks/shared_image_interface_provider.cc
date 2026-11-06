@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared image interface provider implementation
+// summary: Implements a provider that supplies an in-process shared image interface to the compositor and recreates it after GPU context loss.
+// ---
+
 #include "components/viz/service/frame_sinks/shared_image_interface_provider.h"
 
 #include <memory>

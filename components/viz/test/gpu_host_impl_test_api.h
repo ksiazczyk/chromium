@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GpuHostImpl test API
+// summary: Declares a test API for GpuHostImpl that can flush the GPU service remote, replace the GPU service, and hook its delegate for unit testing.
+// ---
+
 #ifndef COMPONENTS_VIZ_TEST_GPU_HOST_IMPL_TEST_API_H_
 #define COMPONENTS_VIZ_TEST_GPU_HOST_IMPL_TEST_API_H_
 

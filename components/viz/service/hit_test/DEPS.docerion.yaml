@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Hit test directory DEPS
+summary: Defines allowed include dependencies for the viz hit_test service directory, with extra rules for the unit test and fuzzer.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake Skia output surface implementation
+// summary: Implements a fake SkiaOutputSurface that renders into Skia surfaces and handles swap buffers, copy output, and promise images for viz tests.
+// ---
+
 #include "components/viz/test/fake_skia_output_surface.h"
 
 #include <memory>

@@ -1,3 +1,12 @@
+---
+type: readme
+title: VRP Flags
+summary: Explains the component that gives VRP researchers controlled read and write targets and how to build test pages for cross-renderer exploits.
+relations:
+  - references /docs/security/vrp-faq.md
+  - references /components/vrp_flags/vrp_flags.mojom
+---
+
 # VRP Flags
 
 This component provides a target for controlled read and controlled write

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PendingCopyOutputRequest declaration
+// summary: Declares a struct holding parameters for a copy-of-output request on a surface, including subtree capture ID, exact ID capture flag, and timeout.
+// ---
+
 #ifndef COMPONENTS_VIZ_SERVICE_SURFACES_PENDING_COPY_OUTPUT_REQUEST_H_
 #define COMPONENTS_VIZ_SERVICE_SURFACES_PENDING_COPY_OUTPUT_REQUEST_H_
 

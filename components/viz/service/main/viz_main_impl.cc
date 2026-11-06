@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VizMainImpl implementation
+// summary: Implements VizMainImpl, setting up the GPU service, IO thread, power monitor, UKM recording, and compositor thread runner for the Viz process.
+// ---
+
 #include "components/viz/service/main/viz_main_impl.h"
 
 #include <memory>

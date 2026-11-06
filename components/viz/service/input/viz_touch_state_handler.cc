@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VizTouchStateHandler implementation
+// summary: Implements the Viz touch state handler that tracks active touch sequences in shared memory from Android motion events and exposes a read-only region for the browser.
+// ---
+
 #include "components/viz/service/input/viz_touch_state_handler.h"
 
 #include <utility>

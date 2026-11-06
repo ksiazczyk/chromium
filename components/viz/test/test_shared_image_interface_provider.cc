@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestSharedImageInterfaceProvider implementation
+// summary: Implements a test SharedImageInterfaceProvider that hands out a test shared image interface for viz unit tests.
+// ---
+
 #include "components/viz/test/test_shared_image_interface_provider.h"
 
 #include <utility>

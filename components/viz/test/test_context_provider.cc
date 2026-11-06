@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test context provider implementation
+// summary: Implements TestContextProvider, a fake GPU context provider backed by test GLES2 and raster interfaces with configurable GL extensions for viz unit tests.
+// ---
+
 #include "components/viz/test/test_context_provider.h"
 
 #include <stddef.h>

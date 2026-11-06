@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for frame_sinks
+summary: Defines allowable include dependencies for the viz frame_sinks directory, with per-file exceptions for unit tests and platform-specific begin frame sources.

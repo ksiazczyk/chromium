@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GpuServiceImpl class declarations
+// summary: Declares GpuServiceImpl, the class running in the GPU process that communicates with the gpu host over mojom and manages client connections and GPU memory.
+// ---
+
 #ifndef COMPONENTS_VIZ_SERVICE_GL_GPU_SERVICE_IMPL_H_
 #define COMPONENTS_VIZ_SERVICE_GL_GPU_SERVICE_IMPL_H_
 

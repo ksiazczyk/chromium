@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SurfaceAnimationManager class declaration
+// summary: Declares the class that manages one compositor frame transition sequence, including resource ref handling and callbacks, owned by CompositorFrameSinkSupport.
+// ---
+
 #ifndef COMPONENTS_VIZ_SERVICE_TRANSITIONS_SURFACE_ANIMATION_MANAGER_H_
 #define COMPONENTS_VIZ_SERVICE_TRANSITIONS_SURFACE_ANIMATION_MANAGER_H_
 

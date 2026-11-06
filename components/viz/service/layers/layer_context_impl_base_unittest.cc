@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LayerContextImpl test fixture implementation
+// summary: Implements the shared LayerContextImplTest fixture, defining default viewport, surface and layer property values used by the unit tests.
+// ---
+
 #include "components/viz/service/layers/layer_context_impl_base_unittest.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test latest local surface ID lookup delegate implementation
+// summary: Implements a test delegate that maps frame sink IDs to the latest local surface IDs used during surface aggregation.
+// ---
+
 #include "components/viz/test/test_latest_local_surface_id_lookup_delegate.h"
 
 namespace viz {

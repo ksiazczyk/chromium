@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LayerContextImpl animation unit tests
+// summary: Tests that animations, keyframes and timing functions sent through the LayerContext API are applied correctly to the display tree.
+// ---
+
 #include "cc/animation/animation.h"
 #include "cc/animation/animation_host.h"
 #include "cc/animation/animation_timeline.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BoostManager implementation
+// summary: Implements BoostManager::GetFrameDuration, which returns the actual frame duration by default or 1.5x the target duration when the wake-up boost type is requested.
+// ---
+
 #include "components/viz/service/performance_hint/boost_manager.h"
 
 namespace viz {

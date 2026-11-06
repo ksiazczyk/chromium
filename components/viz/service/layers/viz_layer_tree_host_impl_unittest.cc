@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VizLayerTreeHostImpl unit tests
+// summary: Unit tests for VizLayerTreeHostImpl in trees-in-viz mode, covering frame data timestamps set in compositor frame metadata.
+// ---
+
 #include "components/viz/service/layers/viz_layer_tree_host_impl.h"
 
 #include "base/functional/callback_helpers.h"

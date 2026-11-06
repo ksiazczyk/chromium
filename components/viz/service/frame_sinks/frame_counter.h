@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FrameCounter class declaration
+// summary: Declares FrameCounter, which counts presented frames per frame sink to supply fps data in tests.
+// ---
+
 #ifndef COMPONENTS_VIZ_SERVICE_FRAME_SINKS_FRAME_COUNTER_H_
 #define COMPONENTS_VIZ_SERVICE_FRAME_SINKS_FRAME_COUNTER_H_
 

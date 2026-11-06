@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for GpuServiceImpl
+// summary: Unit tests for GpuServiceImpl covering service destruction around IO-thread binding, visibility callbacks, and peak GPU memory tracking using a mock service.
+// ---
+
 #include "components/viz/service/gl/gpu_service_impl.h"
 
 #include <memory>

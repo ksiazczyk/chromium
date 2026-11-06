@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test in-process context provider for viz tests
+// summary: Declares a test context provider offering in-process GLES2 or raster contexts with context-lost observers for viz tests.
+// ---
+
 #ifndef COMPONENTS_VIZ_TEST_TEST_IN_PROCESS_CONTEXT_PROVIDER_H_
 #define COMPONENTS_VIZ_TEST_TEST_IN_PROCESS_CONTEXT_PROVIDER_H_
 

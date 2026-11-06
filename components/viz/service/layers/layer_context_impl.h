@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LayerContextImpl class declaration
+// summary: Declares the LayerContextImpl class, which backs a client-side VizLayerContext with a LayerTreeHostImpl inside the viz service.
+// ---
+
 #ifndef COMPONENTS_VIZ_SERVICE_LAYERS_LAYER_CONTEXT_IMPL_H_
 #define COMPONENTS_VIZ_SERVICE_LAYERS_LAYER_CONTEXT_IMPL_H_
 

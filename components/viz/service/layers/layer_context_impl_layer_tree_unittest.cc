@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LayerContextImpl layer tree property unit tests
+// summary: Verifies that layer tree properties such as background color, source frame number and trace id are updated correctly through the LayerContext API.
+// ---
+
 #include <limits>
 #include <optional>
 

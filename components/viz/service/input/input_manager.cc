@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Viz input manager implementation
+// summary: Implements the viz input manager that creates render input router supports and Android input receivers for compositor frame sinks.
+// ---
+
 #include "components/viz/service/input/input_manager.h"
 
 #include <variant>

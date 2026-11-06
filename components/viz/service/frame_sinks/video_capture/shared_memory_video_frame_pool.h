@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared memory video frame pool class declaration
+// summary: Declares SharedMemoryVideoFramePool, a VideoFramePool that manages pooled shared memory buffers for video frames and throttles logging of allocation failures.
+// ---
+
 #ifndef COMPONENTS_VIZ_SERVICE_FRAME_SINKS_VIDEO_CAPTURE_SHARED_MEMORY_VIDEO_FRAME_POOL_H_
 #define COMPONENTS_VIZ_SERVICE_FRAME_SINKS_VIDEO_CAPTURE_SHARED_MEMORY_VIDEO_FRAME_POOL_H_
 

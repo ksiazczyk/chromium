@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DrawQuad gMock matchers
+// summary: Declares gMock matchers for verifying that render passes contain DrawQuads of the expected type with expected SharedQuadState attributes.
+// ---
+
 #ifndef COMPONENTS_VIZ_TEST_DRAW_QUAD_MATCHERS_H_
 #define COMPONENTS_VIZ_TEST_DRAW_QUAD_MATCHERS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SurfaceAnimationManager implementation
+// summary: Implements management of a single view transition sequence, handling save, animate and release directives and adjusting shared element quads for rendering.
+// ---
+
 #include "components/viz/service/transitions/surface_animation_manager.h"
 
 #include <algorithm>

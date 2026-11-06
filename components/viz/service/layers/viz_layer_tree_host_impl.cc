@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VizLayerTreeHostImpl implementation
+// summary: Implements the viz-process LayerTreeHostImpl subclass, including client frame token handling and UI resource creation from imported resources.
+// ---
+
 #include "components/viz/service/layers/viz_layer_tree_host_impl.h"
 
 #include "base/trace_event/trace_event.h"

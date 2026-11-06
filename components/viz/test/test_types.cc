@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Renderer type helpers for viz tests
+// summary: Implements helpers that list renderer types available on the platform and print renderer type suffixes for parameterized viz tests.
+// ---
+
 #include "components/viz/test/test_types.h"
 
 #include "build/build_config.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LayerContextImpl view transition unit tests
+// summary: Unit tests verifying deserialization of view transition requests, including save directives with and without capture resource IDs.
+// ---
+
 #include "cc/trees/layer_tree_impl.h"
 #include "cc/view_transition/view_transition_request.h"
 #include "components/viz/common/view_transition_element_resource_id.h"

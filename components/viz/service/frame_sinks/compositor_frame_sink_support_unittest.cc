@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CompositorFrameSinkSupport unit tests
+// summary: Unit tests for CompositorFrameSinkSupport covering frame submission, copy output requests, hit test regions, and surface lifecycle with fake clients and begin frame sources.
+// ---
+
 #include "components/viz/service/frame_sinks/compositor_frame_sink_support.h"
 
 #include <map>

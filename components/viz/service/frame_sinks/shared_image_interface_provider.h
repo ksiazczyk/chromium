@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared image interface provider header
+// summary: Declares SharedImageInterfaceProvider, which supplies a shared image interface for the compositor and observes GPU shared context state loss.
+// ---
+
 #ifndef COMPONENTS_VIZ_SERVICE_FRAME_SINKS_SHARED_IMAGE_INTERFACE_PROVIDER_H_
 #define COMPONENTS_VIZ_SERVICE_FRAME_SINKS_SHARED_IMAGE_INTERFACE_PROVIDER_H_
 

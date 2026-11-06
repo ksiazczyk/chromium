@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VrpFlags implementation
+// summary: Implements the VrpFlags Mojo interface, allocating write targets, verifying write and read attempts, and terminating the process on attempts.
+// ---
+
 #include "components/vrp_flags/vrp_flags_impl.h"
 
 #include "base/check.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VRP flags public interface header
+// summary: Declares the vrp-flags switch constant, the IsEnabled check, and the PostEarlyInitialization hook exported from the component.
+// ---
+
 #ifndef COMPONENTS_VRP_FLAGS_VRP_FLAGS_H_
 #define COMPONENTS_VRP_FLAGS_VRP_FLAGS_H_
 

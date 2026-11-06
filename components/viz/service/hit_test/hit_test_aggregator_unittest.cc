@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HitTestAggregator unit tests
+// summary: Unit tests covering aggregation of hit test regions, region capacity limits, and updates reported through the host frame sink manager.
+// ---
+
 #include "components/viz/service/hit_test/hit_test_aggregator.h"
 
 #include <limits>

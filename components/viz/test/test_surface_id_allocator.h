@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestSurfaceIdAllocator declaration
+// summary: Declares TestSurfaceIdAllocator, a helper that allocates and increments SurfaceIds in tests while avoiding ParentLocalSurfaceIdAllocator boilerplate.
+// ---
+
 #ifndef COMPONENTS_VIZ_TEST_TEST_SURFACE_ID_ALLOCATOR_H_
 #define COMPONENTS_VIZ_TEST_TEST_SURFACE_ID_ALLOCATOR_H_
 

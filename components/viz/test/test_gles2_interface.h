@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test GLES2 interface stub for viz tests
+// summary: Header for a test GLES2 interface stub that fakes GL commands and tracks textures, buffers, framebuffers, and sync tokens in viz unit tests.
+// ---
+
 #ifndef COMPONENTS_VIZ_TEST_TEST_GLES2_INTERFACE_H_
 #define COMPONENTS_VIZ_TEST_TEST_GLES2_INTERFACE_H_
 

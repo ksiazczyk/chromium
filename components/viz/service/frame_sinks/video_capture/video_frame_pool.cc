@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video frame pool base class implementation
+// summary: Implements the VideoFramePool base class constructor and utilization reporting shared by the video capture frame pool implementations.
+// ---
+
 #include "components/viz/service/frame_sinks/video_capture/video_frame_pool.h"
 
 #include <algorithm>

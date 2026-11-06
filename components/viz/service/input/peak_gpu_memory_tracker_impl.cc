@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Peak GPU memory tracker implementation
+// summary: Implements PeakGpuMemoryTrackerImpl, which starts peak GPU memory monitoring on the GPU service and reports the peak to UMA histograms on destruction.
+// ---
+
 #include "components/viz/service/input/peak_gpu_memory_tracker_impl.h"
 
 #include <memory>

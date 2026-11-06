@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Peak GPU memory tracker class declaration
+// summary: Declares PeakGpuMemoryTrackerImpl, a tracker that monitors peak GPU service memory during its lifetime and reports it to UMA histograms when destroyed.
+// ---
+
 #ifndef COMPONENTS_VIZ_SERVICE_INPUT_PEAK_GPU_MEMORY_TRACKER_IMPL_H_
 #define COMPONENTS_VIZ_SERVICE_INPUT_PEAK_GPU_MEMORY_TRACKER_IMPL_H_
 

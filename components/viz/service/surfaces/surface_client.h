@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SurfaceClient interface
+// summary: Defines the SurfaceClient interface with callbacks for surface commit, activation, destruction, drawing, resource reference counting, copy output requests, and presentation feedback.
+// ---
+
 #ifndef COMPONENTS_VIZ_SERVICE_SURFACES_SURFACE_CLIENT_H_
 #define COMPONENTS_VIZ_SERVICE_SURFACES_SURFACE_CLIENT_H_
 

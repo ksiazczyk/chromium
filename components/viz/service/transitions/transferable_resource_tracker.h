@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TransferableResourceTracker class declaration
+// summary: Declares a transferable resource generator and lifetime tracker that converts SurfaceSavedFrame results into ResourceFrames using reserved range resource IDs.
+// ---
+
 #ifndef COMPONENTS_VIZ_SERVICE_TRANSITIONS_TRANSFERABLE_RESOURCE_TRACKER_H_
 #define COMPONENTS_VIZ_SERVICE_TRANSITIONS_TRANSFERABLE_RESOURCE_TRACKER_H_
 

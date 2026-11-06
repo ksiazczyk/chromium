@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for the VRP flags component
+summary: GN build file defining the buildflags header, Mojo bindings generation, and the vrp_flags component with its dependencies.

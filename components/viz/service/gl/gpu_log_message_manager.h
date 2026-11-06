@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU log message manager declarations
+// summary: Declares the GpuLogMessageManager singleton that manages LOG message forwarding before and after GpuServiceImpl initialization and terminates the process on the IO thread.
+// ---
+
 #ifndef COMPONENTS_VIZ_SERVICE_GL_GPU_LOG_MESSAGE_MANAGER_H_
 #define COMPONENTS_VIZ_SERVICE_GL_GPU_LOG_MESSAGE_MANAGER_H_
 

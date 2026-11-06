@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Render input router delegate class declaration
+// summary: Declares RenderInputRouterDelegateImpl, which gives RenderInputRouter access to input handling related information and functionality inside Viz.
+// ---
+
 #ifndef COMPONENTS_VIZ_SERVICE_INPUT_RENDER_INPUT_ROUTER_DELEGATE_IMPL_H_
 #define COMPONENTS_VIZ_SERVICE_INPUT_RENDER_INPUT_ROUTER_DELEGATE_IMPL_H_
 

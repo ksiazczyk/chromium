@@ -1,0 +1,4 @@
+# Docerion header of vrp_flags.mojom.
+type: source
+title: Mojo interfaces for VRP flag challenges
+summary: Defines the VrpFlags and VrpFlagsFactory interfaces for write locations, read prefixes, and spawning victim renderers, plus the VictimDisposition enum.

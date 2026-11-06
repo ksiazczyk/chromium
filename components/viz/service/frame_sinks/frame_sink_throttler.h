@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FrameSinkThrottler header
+// summary: Declares FrameSinkThrottler, a helper that combines throttling signals such as cadence and vsync into a single begin frame interval for a frame sink.
+// ---
+
 #ifndef COMPONENTS_VIZ_SERVICE_FRAME_SINKS_FRAME_SINK_THROTTLER_H_
 #define COMPONENTS_VIZ_SERVICE_FRAME_SINKS_FRAME_SINK_THROTTLER_H_
 

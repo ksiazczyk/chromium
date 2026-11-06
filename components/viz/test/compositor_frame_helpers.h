@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Compositor frame test helper declarations
+// summary: Declares the AddQuads builder template and parameter structs for constructing compositor frames, render passes, and quads in viz tests.
+// ---
+
 #ifndef COMPONENTS_VIZ_TEST_COMPOSITOR_FRAME_HELPERS_H_
 #define COMPONENTS_VIZ_TEST_COMPOSITOR_FRAME_HELPERS_H_
 

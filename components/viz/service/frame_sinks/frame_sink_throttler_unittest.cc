@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FrameSinkThrottler unit tests
+// summary: Unit tests verifying FrameSinkThrottler behavior, including cadence throttling, disallowed throttling, and throttle versus cadence interval priority.
+// ---
+
 #include "components/viz/service/frame_sinks/frame_sink_throttler.h"
 
 #include <algorithm>

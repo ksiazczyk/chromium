@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Stub surface client test double
+// summary: Implements a stub SurfaceClient that returns no copy output requests, no video capture, and no threads for use in tests.
+// ---
+
 #include <vector>
 
 #include "components/viz/test/stub_surface_client.h"

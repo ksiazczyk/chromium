@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BeginFrameTracker unit tests
+// summary: Unit tests verifying that BeginFrameTracker throttles, stops, and unthrottles correctly and tolerates clients that drop some acks.
+// ---
+
 #include "components/viz/service/frame_sinks/begin_frame_tracker.h"
 
 #include <queue>

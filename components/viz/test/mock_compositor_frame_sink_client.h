@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock compositor frame sink client
+// summary: Declares a gmock implementation of the CompositorFrameSinkClient mojo interface for verifying frame acknowledgements, begin frames, and resource returns in tests.
+// ---
+
 #ifndef COMPONENTS_VIZ_TEST_MOCK_COMPOSITOR_FRAME_SINK_CLIENT_H_
 #define COMPONENTS_VIZ_TEST_MOCK_COMPOSITOR_FRAME_SINK_CLIENT_H_
 

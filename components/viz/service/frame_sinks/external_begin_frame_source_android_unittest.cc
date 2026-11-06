@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android external begin frame source unit tests
+// summary: Tests ExternalBeginFrameSourceAndroid frame delivery and refresh rate interval changes using a Java handler thread and fake AChoreographer compat helpers.
+// ---
+
 #include "components/viz/service/frame_sinks/external_begin_frame_source_android.h"
 
 #include <optional>

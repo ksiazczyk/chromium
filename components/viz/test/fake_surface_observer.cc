@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake surface observer implementation
+// summary: Implements FakeSurfaceObserver, tracking damaged surfaces, begin frame acknowledgements, and surface activation for viz tests.
+// ---
+
 #include "components/viz/test/fake_surface_observer.h"
 
 #include "components/viz/service/surfaces/surface_manager.h"

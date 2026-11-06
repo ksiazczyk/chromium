@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock failure expectation helper for gmock tests
+// summary: Defines an EXPECT_MOCK_FAILURE macro that asserts a statement produces a gmock failure, useful for testing mock expectations.
+// ---
+
 #ifndef COMPONENTS_VIZ_TEST_MOCK_HELPER_H_
 #define COMPONENTS_VIZ_TEST_MOCK_HELPER_H_
 

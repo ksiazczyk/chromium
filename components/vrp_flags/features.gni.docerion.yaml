@@ -1,0 +1,4 @@
+# Docerion header of features.gni.
+type: config
+title: VRP flags build argument
+summary: Declares the enable_vrp_flags argument, enabling the component only on 64-bit Windows, Mac, and Linux builds.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock GPU service header
+// summary: Declares MockGpuServiceImpl, a gmock-based test double of GpuServiceImpl for faking peak memory monitoring calls.
+// ---
+
 #ifndef COMPONENTS_VIZ_SERVICE_GL_MOCK_GPU_SERVICE_IMPL_H_
 #define COMPONENTS_VIZ_SERVICE_GL_MOCK_GPU_SERVICE_IMPL_H_
 

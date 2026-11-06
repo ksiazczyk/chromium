@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RendererType enum and helpers for viz tests
+// summary: Declares the RendererType enum and functions returning all renderer types or only GPU renderer types applicable to the platform.
+// ---
+
 #ifndef COMPONENTS_VIZ_TEST_TEST_TYPES_H_
 #define COMPONENTS_VIZ_TEST_TEST_TYPES_H_
 

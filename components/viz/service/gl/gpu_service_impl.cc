@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GpuServiceImpl implementation
+// summary: Implements the GPU process service, setting up client connections, GPU channels, shared images, media acceleration, Vulkan, and WebNN providers.
+// ---
+
 #include "components/viz/service/gl/gpu_service_impl.h"
 
 #include <memory>

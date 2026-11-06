@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock input manager implementation
+// summary: Implements MockInputManager, a test double of InputManager that exposes render input router maps and lookup helpers for use in unit tests.
+// ---
+
 #include "components/viz/service/input/mock_input_manager.h"
 
 namespace viz {

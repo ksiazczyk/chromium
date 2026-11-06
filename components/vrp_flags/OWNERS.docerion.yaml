@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: VRP flags owners
+summary: Lists the component owners and delegates ownership of Mojom files to the IPC security owners.

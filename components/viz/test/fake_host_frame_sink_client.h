@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake host frame sink client for viz tests
+// summary: Declares a mostly no-op HostFrameSinkClient test double that tracks the last frame token seen for use in viz tests.
+// ---
+
 #ifndef COMPONENTS_VIZ_TEST_FAKE_HOST_FRAME_SINK_CLIENT_H_
 #define COMPONENTS_VIZ_TEST_FAKE_HOST_FRAME_SINK_CLIENT_H_
 

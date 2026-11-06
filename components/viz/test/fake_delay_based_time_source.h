@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake delay-based time source
+// summary: Declares a fake DelayBasedTimeSource driven by a test TickClock and a client stub that records whether timer ticks occurred.
+// ---
+
 #ifndef COMPONENTS_VIZ_TEST_FAKE_DELAY_BASED_TIME_SOURCE_H_
 #define COMPONENTS_VIZ_TEST_FAKE_DELAY_BASED_TIME_SOURCE_H_
 

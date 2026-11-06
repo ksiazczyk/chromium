@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Surface reference difference declaration
+// summary: Declares GetSurfaceReferenceDifference, which populates lists of references to add and remove using a parent surface ID.
+// ---
+
 #ifndef COMPONENTS_VIZ_SERVICE_SURFACES_REFERENCED_SURFACE_TRACKER_H_
 #define COMPONENTS_VIZ_SERVICE_SURFACES_REFERENCED_SURFACE_TRACKER_H_
 

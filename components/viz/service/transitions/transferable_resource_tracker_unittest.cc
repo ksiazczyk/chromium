@@ -1,6 +1,13 @@
 // Copyright 2021 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: TransferableResourceTracker unit tests
+// summary: Unit tests covering resource ID range behavior, ref and unref counting, and shared image lifetime for the transferable resource tracker.
+// ---
+
 #include "components/viz/service/transitions/transferable_resource_tracker.h"
 
 #include <limits>

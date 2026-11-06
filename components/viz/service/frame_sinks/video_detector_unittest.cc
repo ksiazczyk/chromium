@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VideoDetector unit tests
+// summary: Unit tests for VideoDetector using a mock time task runner and a recording observer to verify video activity start and end detection under various frame update patterns.
+// ---
+
 #include "components/viz/service/frame_sinks/video_detector.h"
 
 #include <algorithm>

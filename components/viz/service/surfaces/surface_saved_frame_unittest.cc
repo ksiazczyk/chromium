@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SurfaceSavedFrame unit tests
+// summary: Verifies that copy output requests created for saved frames use color spaces and formats matching GPU or software compositing.
+// ---
+
 #include "components/viz/service/surfaces/surface_saved_frame.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ExternalBeginFrameSourceMojo unit tests
+// summary: Unit tests for ExternalBeginFrameSourceMojo covering frame deferral while the GPU is busy and original frame ID tracking.
+// ---
+
 #include "components/viz/service/frame_sinks/external_begin_frame_source_mojo.h"
 
 #include <memory>

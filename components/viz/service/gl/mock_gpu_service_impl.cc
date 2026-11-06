@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock GPU service implementation
+// summary: Implements MockGpuServiceImpl, a GpuServiceImpl subclass whose peak memory monitoring methods can be stubbed with gmock in tests.
+// ---
+
 #include "components/viz/service/gl/mock_gpu_service_impl.h"
 
 #include <utility>

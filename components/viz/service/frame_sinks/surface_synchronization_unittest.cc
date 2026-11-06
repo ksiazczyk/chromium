@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Surface synchronization unit tests
+// summary: Unit tests for surface synchronization in viz, exercising CompositorFrameSinkSupport with activation dependencies, referenced surfaces, deadlines and frame submission across parent and child frame sinks.
+// ---
+
 #include "base/containers/flat_set.h"
 #include "base/test/scoped_feature_list.h"
 #include "base/test/simple_test_tick_clock.h"

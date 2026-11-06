@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Viz layer context test fakes and fixture implementation
+// summary: Implements FakeLayerContext, FakeCompositorFrameSink and the VizLayerContextTest fixture used by layer context tests.
+// ---
+
 #include "components/viz/service/layers/viz_layer_context_unittest.h"
 
 #include <utility>

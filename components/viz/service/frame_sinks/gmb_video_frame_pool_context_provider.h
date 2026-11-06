@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GmbVideoFramePoolContextProvider interface
+// summary: Declares GmbVideoFramePoolContextProvider, an interface for creating contexts used by shared image video frame pools with GpuMemoryBuffer support in frame sink video capture.
+// ---
+
 #ifndef COMPONENTS_VIZ_SERVICE_FRAME_SINKS_GMB_VIDEO_FRAME_POOL_CONTEXT_PROVIDER_H_
 #define COMPONENTS_VIZ_SERVICE_FRAME_SINKS_GMB_VIDEO_FRAME_POOL_CONTEXT_PROVIDER_H_
 

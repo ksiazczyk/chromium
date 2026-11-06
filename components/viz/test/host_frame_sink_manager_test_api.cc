@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HostFrameSinkManager test API implementation
+// summary: Implements a test API for HostFrameSinkManager that overrides the display hit test query map for unit testing without Viz.
+// ---
+
 #include "components/viz/test/host_frame_sink_manager_test_api.h"
 
 namespace viz {

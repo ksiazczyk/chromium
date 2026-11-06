@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Viz input manager class declaration
+// summary: Declares InputManager, which manages frame sink metadata, input routing delegates, and Android-specific input transfer handling.
+// ---
+
 #ifndef COMPONENTS_VIZ_SERVICE_INPUT_INPUT_MANAGER_H_
 #define COMPONENTS_VIZ_SERVICE_INPUT_INPUT_MANAGER_H_
 

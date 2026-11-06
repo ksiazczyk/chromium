@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RenderInputRouterSupportChildFrame class declaration
+// summary: Declares the child-frame variant of render input router support, covering root and parent view access, transform helpers, hit-test notifications, and gesture ack handling.
+// ---
+
 #ifndef COMPONENTS_VIZ_SERVICE_INPUT_RENDER_INPUT_ROUTER_SUPPORT_CHILD_FRAME_H_
 #define COMPONENTS_VIZ_SERVICE_INPUT_RENDER_INPUT_ROUTER_SUPPORT_CHILD_FRAME_H_
 

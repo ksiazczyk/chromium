@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test frame sink manager for viz tests
+// summary: Declares TestFrameSinkManagerImpl, a stub mojom::FrameSinkManager whose surface management methods are mostly no-ops for use in tests.
+// ---
+
 #ifndef COMPONENTS_VIZ_TEST_TEST_FRAME_SINK_MANAGER_H_
 #define COMPONENTS_VIZ_TEST_TEST_FRAME_SINK_MANAGER_H_
 

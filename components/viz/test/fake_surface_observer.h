@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake surface observer for viz tests
+// summary: Declares a SurfaceObserver test double that records surface damage, acknowledgements, and activation info, optionally reporting display damage.
+// ---
+
 #ifndef COMPONENTS_VIZ_TEST_FAKE_SURFACE_OBSERVER_H_
 #define COMPONENTS_VIZ_TEST_FAKE_SURFACE_OBSERVER_H_
 

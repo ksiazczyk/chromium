@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU process restart on context loss
+// summary: Implements RestartGpuProcessForContextLoss, which logs an unrecoverable error and terminates the GPU process with the context-lost exit code.
+// ---
+
 #include "components/viz/service/gl/exit_code.h"
 
 #include "base/logging.h"

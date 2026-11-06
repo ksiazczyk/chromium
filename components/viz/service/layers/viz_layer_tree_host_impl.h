@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VizLayerTreeHostImpl class declaration
+// summary: Declares the VizLayerTreeHostImpl subclass of cc::LayerTreeHostImpl with setters for client state, frame tokens and frame interval inputs.
+// ---
+
 #ifndef COMPONENTS_VIZ_SERVICE_LAYERS_VIZ_LAYER_TREE_HOST_IMPL_H_
 #define COMPONENTS_VIZ_SERVICE_LAYERS_VIZ_LAYER_TREE_HOST_IMPL_H_
 

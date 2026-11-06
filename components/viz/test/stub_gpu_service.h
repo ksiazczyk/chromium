@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Stub GPU service test double
+// summary: Declares a test stub of mojom::GpuService with empty implementations that tests can inherit and selectively override.
+// ---
+
 #ifndef COMPONENTS_VIZ_TEST_STUB_GPU_SERVICE_H_
 #define COMPONENTS_VIZ_TEST_STUB_GPU_SERVICE_H_
 

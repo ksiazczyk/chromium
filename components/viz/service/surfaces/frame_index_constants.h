@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Frame index constants
+// summary: Defines constants for the first frame index received from a viz client and an invalid frame index value that is never assigned.
+// ---
+
 #ifndef COMPONENTS_VIZ_SERVICE_SURFACES_FRAME_INDEX_CONSTANTS_H_
 #define COMPONENTS_VIZ_SERVICE_SURFACES_FRAME_INDEX_CONSTANTS_H_
 

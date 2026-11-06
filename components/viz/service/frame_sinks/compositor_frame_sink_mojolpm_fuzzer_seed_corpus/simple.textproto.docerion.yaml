@@ -1,0 +1,4 @@
+# Docerion header of simple.textproto.
+type: data
+title: Simple MojoLPM fuzzer seed for CompositorFrameSink
+summary: Textproto seed corpus entry that wires actions, sequences and sequence_indexes to drive a meaningful SubmitCompositorFrame through the compositor frame sink MojoLPM fuzzer.

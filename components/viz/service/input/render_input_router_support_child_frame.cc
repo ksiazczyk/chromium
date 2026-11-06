@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RenderInputRouterSupportChildFrame implementation
+// summary: Implements render input router support for child frames, delegating coordinate transforms, hit-test updates, and event filtering to ChildFrameInputHelper.
+// ---
+
 #include "components/viz/service/input/render_input_router_support_child_frame.h"
 
 #include "base/trace_event/trace_event.h"

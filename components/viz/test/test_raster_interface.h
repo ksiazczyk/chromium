@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestRasterInterface declaration for unit tests
+// summary: Declares TestRasterInterface, a fake RasterInterface for non-drawing unit tests with configurable capabilities and context loss callbacks.
+// ---
+
 #ifndef COMPONENTS_VIZ_TEST_TEST_RASTER_INTERFACE_H_
 #define COMPONENTS_VIZ_TEST_TEST_RASTER_INTERFACE_H_
 

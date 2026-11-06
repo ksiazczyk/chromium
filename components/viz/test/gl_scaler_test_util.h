@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GL scaler test utility functions
+// summary: Declares utility functions for pixel tests, including SMPTE color bar test images, cyclical patterns, RGBA to YUV conversion, and packed planar bitmaps.
+// ---
+
 #ifndef COMPONENTS_VIZ_TEST_GL_SCALER_TEST_UTIL_H_
 #define COMPONENTS_VIZ_TEST_GL_SCALER_TEST_UTIL_H_
 

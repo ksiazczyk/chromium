@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test delegated ink point renderer for Skia
+// summary: Test variant of the Skia delegated ink point renderer that records the last delegated ink metadata it receives for verification.
+// ---
+
 #include "components/viz/test/delegated_ink_point_renderer_skia_for_test.h"
 
 #include <utility>

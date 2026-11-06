@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InFlightFrameDelivery implementation
+// summary: Implements the consumer frame callbacks that run post-delivery and feedback callbacks back to the capturer.
+// ---
+
 #include "components/viz/service/frame_sinks/video_capture/in_flight_frame_delivery.h"
 
 #include <utility>

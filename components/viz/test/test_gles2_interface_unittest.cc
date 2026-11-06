@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the test GLES2 interface
+// summary: Unit test verifying that TestGLES2Interface generates distinct framebuffer and renderbuffer IDs.
+// ---
+
 #include "components/viz/test/test_gles2_interface.h"
 
 #include <memory>

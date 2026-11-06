@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Delegated ink point renderer test double
+// summary: Declares a test subclass of DelegatedInkPointRendererSkia that stores the most recently received delegated ink metadata for verification in tests.
+// ---
+
 #ifndef COMPONENTS_VIZ_TEST_DELEGATED_INK_POINT_RENDERER_SKIA_FOR_TEST_H_
 #define COMPONENTS_VIZ_TEST_DELEGATED_INK_POINT_RENDERER_SKIA_FOR_TEST_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VizCompositorThreadRunnerImpl class declaration
+// summary: Declares VizCompositorThreadRunnerImpl, which owns the compositor thread and provides task runner, hint session, and frame sink manager setup.
+// ---
+
 #ifndef COMPONENTS_VIZ_SERVICE_MAIN_VIZ_COMPOSITOR_THREAD_RUNNER_IMPL_H_
 #define COMPONENTS_VIZ_SERVICE_MAIN_VIZ_COMPOSITOR_THREAD_RUNNER_IMPL_H_
 

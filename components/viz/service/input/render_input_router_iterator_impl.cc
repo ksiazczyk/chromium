@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Render input router iterator implementation
+// summary: Implements RenderInputRouterIteratorImpl, which iterates a set of FrameSinkIds and returns the matching render input routers from the input manager.
+// ---
+
 #include "components/viz/service/input/render_input_router_iterator_impl.h"
 
 #include <utility>

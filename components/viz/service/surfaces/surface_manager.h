@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SurfaceManager class declaration
+// summary: Declares SurfaceManager, which owns surface creation and destruction, surface references, observers, activation deadlines, and garbage collection of surfaces.
+// ---
+
 #ifndef COMPONENTS_VIZ_SERVICE_SURFACES_SURFACE_MANAGER_H_
 #define COMPONENTS_VIZ_SERVICE_SURFACES_SURFACE_MANAGER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Viz test data path keys
+// summary: Declares the Paths enum with the DIR_TEST_DATA key and the registration function for the viz test path provider.
+// ---
+
 #ifndef COMPONENTS_VIZ_TEST_PATHS_H_
 #define COMPONENTS_VIZ_TEST_PATHS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake software output surface for viz tests
+// summary: Declares a fake software OutputSurface test double that records sent frames, reshape color spaces, and display transform hints.
+// ---
+
 #ifndef COMPONENTS_VIZ_TEST_FAKE_OUTPUT_SURFACE_H_
 #define COMPONENTS_VIZ_TEST_FAKE_OUTPUT_SURFACE_H_
 

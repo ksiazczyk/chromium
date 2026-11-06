@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SurfaceReference implementation
+// summary: Implements string formatting and stream output for the SurfaceReference class that links a parent surface to an embedded child surface.
+// ---
+
 #include "components/viz/service/surfaces/surface_reference.h"
 
 #include <ostream>
