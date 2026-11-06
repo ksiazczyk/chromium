@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cache body compressor unit tests
+// summary: Unit tests verifying zstd compression round trips, finalization, byte counting and error handling of the cache body compressor.
+// ---
+
 #include "net/http/cache_body_compressor.h"
 
 #include <stdint.h>

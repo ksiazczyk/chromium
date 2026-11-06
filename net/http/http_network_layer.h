@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTP network layer declarations
+// summary: Declares HttpNetworkLayer, an HttpTransactionFactory that creates network transactions from an existing HttpNetworkSession.
+// ---
+
 #ifndef NET_HTTP_HTTP_NETWORK_LAYER_H_
 #define NET_HTTP_HTTP_NETWORK_LAYER_H_
 

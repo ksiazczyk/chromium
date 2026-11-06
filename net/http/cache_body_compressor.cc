@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cache body compressor implementation
+// summary: Implements zstd streaming compression of HTTP cache entry bodies for use by HttpCache::Writers.
+// ---
+
 #include "net/http/cache_body_compressor.h"
 
 #include <algorithm>

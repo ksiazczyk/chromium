@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HttpStreamFactory test utilities
+// summary: Provides mock delegates and peer helpers for testing HttpStreamFactory, including waiting for HTTP, WebSocket, and bidirectional streams and recording request results.
+// ---
+
 #ifndef NET_HTTP_HTTP_STREAM_FACTORY_TEST_UTIL_H_
 #define NET_HTTP_HTTP_STREAM_FACTORY_TEST_UTIL_H_
 

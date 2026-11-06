@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HttpStreamPool::Attempt
+// summary: Declares a single in-flight attempt that can run concurrent IPv4 and IPv6 TCP-based inner attempts and notifies its delegate of results.
+// ---
+
 #ifndef NET_HTTP_HTTP_STREAM_POOL_ATTEMPT_H_
 #define NET_HTTP_HTTP_STREAM_POOL_ATTEMPT_H_
 

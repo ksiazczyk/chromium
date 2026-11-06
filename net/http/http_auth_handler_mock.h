@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock HTTP auth handler header
+// summary: Declares HttpAuthHandlerMock and its factory, used in tests to reliably trigger authentication edge cases.
+// ---
+
 #ifndef NET_HTTP_HTTP_AUTH_HANDLER_MOCK_H_
 #define NET_HTTP_HTTP_AUTH_HANDLER_MOCK_H_
 

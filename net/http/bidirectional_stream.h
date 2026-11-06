@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bidirectional stream class declaration
+// summary: Declares the BidirectionalStream class and its delegate interface for HTTP/2 bidirectional streaming with read, send, and cancel operations.
+// ---
+
 #ifndef NET_HTTP_BIDIRECTIONAL_STREAM_H_
 #define NET_HTTP_BIDIRECTIONAL_STREAM_H_
 

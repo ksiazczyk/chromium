@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Structured headers parsing implementation
+// summary: Implements RFC 8941 structured header parsing with a Rust backend, FFI helpers for the sfv wrapper, and parse timing and success metrics.
+// ---
+
 #include "net/http/structured_headers.h"
 
 #include <optional>

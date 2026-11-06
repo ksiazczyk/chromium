@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Alternative service unit tests
+// summary: Unit tests verifying IsProtocolEnabled behavior for HTTP/1.1, HTTP/2, and QUIC under different HTTP/2 and QUIC enablement flags.
+// ---
+
 #include "net/http/alternative_service.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

@@ -42,6 +42,12 @@
  *
  * ***** END LICENSE BLOCK ***** */
 
+// ---docerion
+// type: source
+// title: Chunked transfer decoder implementation
+// summary: Implements HttpChunkedDecoder, which decodes chunked transfer-encoded HTTP response bodies, adapted from Mozilla's nsHttpChunkedDecoder.
+// ---
+
 #include "net/http/http_chunked_decoder.h"
 
 #include <algorithm>

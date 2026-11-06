@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: No-Vary-Search cache implementation
+// summary: Implements the in-memory NoVarySearchCache that matches request URLs against cached responses under No-Vary-Search rules, including histogram logging and base URL extraction.
+// ---
+
 #include "net/http/no_vary_search_cache.h"
 
 #include <algorithm>

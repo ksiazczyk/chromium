@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HttpStreamPool QuicAttempt class header
+// summary: Declares HttpStreamPool::QuicAttempt, which handles a single QUIC session attempt on behalf of an HttpStreamPool AttemptManager.
+// ---
+
 #ifndef NET_HTTP_HTTP_STREAM_POOL_QUIC_ATTEMPT_H_
 #define NET_HTTP_HTTP_STREAM_POOL_QUIC_ATTEMPT_H_
 

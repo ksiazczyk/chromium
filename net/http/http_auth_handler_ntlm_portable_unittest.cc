@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Portable NTLM HTTP auth handler unit tests
+// summary: Unit tests exercising the end-to-end NTLM challenge and token generation flow of the portable handler using mocked time, randomness and host name.
+// ---
+
 #include <algorithm>
 #include <memory>
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HttpByteRange implementation
+// summary: Implements HTTP byte range handling per RFC 7233, including validity checks, header value formatting, and computing first and last byte positions against a resource size.
+// ---
+
 #include <algorithm>
 
 #include "base/check.h"

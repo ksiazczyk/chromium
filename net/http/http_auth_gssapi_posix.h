@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GSSAPI HTTP auth header for POSIX
+// summary: Declares the GSSAPILibrary interface and its shared-library implementation used to load or mock GSSAPI for Negotiate HTTP authentication on POSIX.
+// ---
+
 #ifndef NET_HTTP_HTTP_AUTH_GSSAPI_POSIX_H_
 #define NET_HTTP_HTTP_AUTH_GSSAPI_POSIX_H_
 

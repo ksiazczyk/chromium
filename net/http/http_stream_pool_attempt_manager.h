@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HttpStreamPool::AttemptManager
+// summary: Declares the manager that performs DNS resolution and drives connection attempts for stream jobs of a single destination.
+// ---
+
 #ifndef NET_HTTP_HTTP_STREAM_POOL_ATTEMPT_MANAGER_H_
 #define NET_HTTP_HTTP_STREAM_POOL_ATTEMPT_MANAGER_H_
 

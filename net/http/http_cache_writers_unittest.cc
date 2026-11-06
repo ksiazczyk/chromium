@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Http cache writers unit tests
+// summary: Unit tests for HttpCache::Writers covering parallel writing, transaction removal, and stop-caching behavior.
+// ---
+
 #include "net/http/http_cache_writers.h"
 
 #include <stdint.h>

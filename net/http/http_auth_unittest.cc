@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HttpAuth unit tests
+// summary: Tests choosing the best authentication challenge from response headers using mock handlers for connection-based and non-connection-based schemes.
+// ---
+
 #include "net/http/http_auth.h"
 
 #include <memory>

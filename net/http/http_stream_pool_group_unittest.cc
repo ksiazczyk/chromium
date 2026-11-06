@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HttpStreamPool::Group unit tests
+// summary: Unit tests for HttpStreamPool::Group covering text-based stream creation, idle socket release, and timeout cleanup.
+// ---
+
 #include "net/http/http_stream_pool_group.h"
 
 #include <memory>

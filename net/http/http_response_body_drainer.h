@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTP response body drainer declaration
+// summary: Declares HttpResponseBodyDrainer, which reads and discards a response body up to a size limit and timeout before closing the stream.
+// ---
+
 #ifndef NET_HTTP_HTTP_RESPONSE_BODY_DRAINER_H_
 #define NET_HTTP_HTTP_RESPONSE_BODY_DRAINER_H_
 

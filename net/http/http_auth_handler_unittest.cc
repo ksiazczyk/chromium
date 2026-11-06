@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HTTP auth handler NetLog unit tests
+// summary: Tests that a mock HTTP auth handler emits the expected NetLog begin, end and challenge events during token generation and challenge handling.
+// ---
+
 #include "net/http/http_auth_handler.h"
 
 #include <string_view>

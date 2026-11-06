@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Broken alternative services unit tests
+// summary: Unit tests for marking alternative services broken, expiration behavior and exponential back-off across network anonymization keys.
+// ---
+
 #include "net/http/broken_alternative_services.h"
 
 #include <algorithm>

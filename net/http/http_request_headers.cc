@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HttpRequestHeaders implementation
+// summary: Implements the HttpRequestHeaders container with ordered key/value storage, header validation, iteration, and accept-encoding helpers.
+// ---
+
 #include "net/http/http_request_headers.h"
 
 #include <string>

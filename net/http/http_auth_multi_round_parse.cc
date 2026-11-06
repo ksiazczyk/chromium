@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Multi-round HTTP auth challenge parsing
+// summary: Implements parsing of first and later round authentication challenges for multi-round schemes, validating the scheme and Base64 tokens.
+// ---
+
 #include "net/http/http_auth_multi_round_parse.h"
 
 #include <string_view>

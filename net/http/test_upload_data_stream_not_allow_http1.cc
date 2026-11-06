@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test upload data stream disallowing HTTP/1
+// summary: Implements a test UploadDataStream that uploads string content while reporting that HTTP/1 is not allowed.
+// ---
+
 #include "net/http/test_upload_data_stream_not_allow_http1.h"
 
 #include <stdint.h>

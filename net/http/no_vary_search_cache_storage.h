@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: No-Vary-Search cache storage declaration
+// summary: Declares NoVarySearchCacheStorage, which persists the NoVarySearchCache via snapshot and journal file operations performed in the background on a thread pool.
+// ---
+
 #ifndef NET_HTTP_NO_VARY_SEARCH_CACHE_STORAGE_H_
 #define NET_HTTP_NO_VARY_SEARCH_CACHE_STORAGE_H_
 

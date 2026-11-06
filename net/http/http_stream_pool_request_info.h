@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HttpStreamPoolRequestInfo struct header
+// summary: Defines the move-only struct holding destination, privacy, proxy, ALPN and other parameters used to request a stream or preconnect from the HttpStreamPool.
+// ---
+
 #ifndef NET_HTTP_HTTP_STREAM_POOL_REQUEST_INFO_H_
 #define NET_HTTP_HTTP_STREAM_POOL_REQUEST_INFO_H_
 

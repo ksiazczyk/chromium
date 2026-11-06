@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HttpStreamKey implementation
+// summary: Implements HttpStreamKey, which groups HTTP streams by destination, privacy mode, network anonymization key, secure DNS policy, and other connection parameters.
+// ---
+
 #include "net/http/http_stream_key.h"
 
 #include "base/strings/strcat.h"

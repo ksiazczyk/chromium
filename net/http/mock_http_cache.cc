@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock HTTP cache implementation
+// summary: Implements mock disk cache entries and transaction helpers that let unit tests exercise the HTTP cache without a real disk backend.
+// ---
+
 #include "net/http/mock_http_cache.h"
 
 #include <stdint.h>

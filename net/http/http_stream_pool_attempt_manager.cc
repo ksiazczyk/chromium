@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HttpStreamPool::AttemptManager implementation
+// summary: Implements the manager that drives connection attempts for a single destination, handling DNS resolution, QUIC delegation, and job completion.
+// ---
+
 #include "net/http/http_stream_pool_attempt_manager.h"
 
 #include <algorithm>

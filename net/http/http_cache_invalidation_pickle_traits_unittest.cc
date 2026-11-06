@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Http cache invalidation pickle traits unit tests
+// summary: Unit tests verifying round-trip pickling, size limits, and rejection of truncated, invalid, or oversized data for HttpCache::InvalidationFilter.
+// ---
+
 #include "net/http/http_cache_invalidation_pickle_traits.h"
 
 #include <string>

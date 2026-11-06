@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Proxy client socket base implementation
+// summary: Implements shared helpers for proxy-tunneled sockets, building HTTP CONNECT tunnel requests and handling and sanitizing proxy authentication challenges.
+// ---
+
 #include "net/http/proxy_client_socket.h"
 
 #include <string>

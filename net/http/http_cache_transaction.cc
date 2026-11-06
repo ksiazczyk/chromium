@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Http cache transaction implementation
+// summary: Implements HttpCache::Transaction, the state machine that serves requests from the HTTP cache and coordinates validation, partial data, and network transactions.
+// ---
+
 #include "net/http/http_cache_transaction.h"
 
 #include "build/build_config.h"  // For IS_POSIX

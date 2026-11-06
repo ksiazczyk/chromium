@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTP security header parsing
+// summary: Implements parsing of the Strict-Transport-Security header, validating max-age and includeSubDomains directives per the HSTS specification.
+// ---
+
 #include <limits>
 #include <string_view>
 

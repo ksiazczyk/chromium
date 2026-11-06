@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Http cache writers class declaration
+// summary: Declares HttpCache::Writers, which coordinates concurrent transactions sharing one network read and one cache entry write.
+// ---
+
 #ifndef NET_HTTP_HTTP_CACHE_WRITERS_H_
 #define NET_HTTP_HTTP_CACHE_WRITERS_H_
 

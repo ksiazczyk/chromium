@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HttpNetworkTransaction declaration
+// summary: Declares HttpNetworkTransaction, the HttpTransaction implementation that drives requests through an HttpNetworkSession.
+// ---
+
 #ifndef NET_HTTP_HTTP_NETWORK_TRANSACTION_H_
 #define NET_HTTP_HTTP_NETWORK_TRANSACTION_H_
 

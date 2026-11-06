@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTP security headers declarations
+// summary: Declares ParseHSTSHeader and the maximum HSTS and HPKP age constants used for security header handling.
+// ---
+
 #ifndef NET_HTTP_HTTP_SECURITY_HEADERS_H_
 #define NET_HTTP_HTTP_SECURITY_HEADERS_H_
 

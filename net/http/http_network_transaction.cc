@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HttpNetworkTransaction implementation
+// summary: Implements HttpNetworkTransaction, the main HTTP transaction that sends requests and handles auth, proxies, retries, and response reading over the network.
+// ---
+
 #include "net/http/http_network_transaction.h"
 
 #include <deque>

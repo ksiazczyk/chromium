@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cookie-Indices parsing and hashing declarations
+// summary: Declares functions to parse the Cookie-Indices response header and to compute a SHA-256 hash over cookie indices and request cookies.
+// ---
+
 #ifndef NET_HTTP_HTTP_COOKIE_INDICES_H_
 #define NET_HTTP_HTTP_COOKIE_INDICES_H_
 

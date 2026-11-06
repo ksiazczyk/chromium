@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL security manager interface
+// summary: Defines the URLSecurityManager interface and an allowlist-based implementation controlling default credential and delegation policies.
+// ---
+
 #ifndef NET_HTTP_URL_SECURITY_MANAGER_H_
 #define NET_HTTP_URL_SECURITY_MANAGER_H_
 

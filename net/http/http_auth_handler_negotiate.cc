@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Negotiate HTTP auth handler implementation
+// summary: Implements the Negotiate (SPNEGO) HTTP authentication handler with platform-specific auth systems for Windows, Android, and POSIX.
+// ---
+
 #include "net/http/http_auth_handler_negotiate.h"
 
 #include <utility>

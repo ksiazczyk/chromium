@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTP Digest authentication handler implementation
+// summary: Implements the HTTP Digest authentication scheme per RFC 7616, including client nonce generation and credential assembly.
+// ---
+
 #include "net/http/http_auth_handler_digest.h"
 
 #include <array>

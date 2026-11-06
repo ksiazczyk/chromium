@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Proxy fallback unit tests
+// summary: Unit tests verifying CanFalloverToNextProxy fallback decisions and how ProxyDelegate overrides change the default fallback behavior.
+// ---
+
 #include "net/http/proxy_fallback.h"
 
 #include <optional>

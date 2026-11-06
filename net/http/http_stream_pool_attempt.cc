@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HttpStreamPool::Attempt implementation
+// summary: Implements TCP-based inner connection attempts for HTTP streams, including TLS handshakes, slow-attempt timers, and service endpoint updates.
+// ---
+
 #include "net/http/http_stream_pool_attempt.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HttpTransaction interface for a single HTTP request-response pair
+// summary: Declares the abstract HttpTransaction interface representing one HTTP request and response, with methods to start, restart after errors or certificate selection, and read response data.
+// ---
+
 #ifndef NET_HTTP_HTTP_TRANSACTION_H_
 #define NET_HTTP_HTTP_TRANSACTION_H_
 

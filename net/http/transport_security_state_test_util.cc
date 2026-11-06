@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedTransportSecurityStateSource test helper implementation
+// summary: Installs the default test preload and pins data sources for transport security state while the scoper is alive.
+// ---
+
 #include "net/http/transport_security_state_test_util.h"
 
 #include "net/http/transport_security_state.h"

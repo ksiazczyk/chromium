@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HttpAuthMechanism interface header
+// summary: Defines the abstract HttpAuthMechanism interface for HTTP authentication schemes and the factory callback used to create mechanism instances.
+// ---
+
 #ifndef NET_HTTP_HTTP_AUTH_MECHANISM_H_
 #define NET_HTTP_HTTP_AUTH_MECHANISM_H_
 

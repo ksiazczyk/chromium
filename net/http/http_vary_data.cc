@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HttpVaryData implementation
+// summary: Implements computing, persisting, and matching a hash over the request headers named by a Vary response header, supporting SHA-256 and legacy MD5 digests.
+// ---
+
 #include "net/http/http_vary_data.h"
 
 #include <array>

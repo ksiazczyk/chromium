@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HttpBasicState unit tests
+// summary: Unit tests for HttpBasicState covering construction, connection release, initialization, traffic annotation, and request line generation with and without a proxy.
+// ---
+
 #include "net/http/http_basic_state.h"
 
 #include "base/memory/ptr_util.h"

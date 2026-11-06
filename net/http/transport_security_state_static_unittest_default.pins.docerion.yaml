@@ -1,0 +1,4 @@
+# Docerion header of transport_security_state_static_unittest_default.pins.
+type: data
+title: Default HSTS pins list for unit tests
+summary: Test-only SPKI pins list providing pin hashes and a timestamp for use with the default unit test preload list.

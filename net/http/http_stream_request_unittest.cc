@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HttpStreamRequest unit tests
+// summary: Unit test verifying that HttpStreamRequest passes priority updates to its jobs, run with the HappyEyeballsV3 feature disabled.
+// ---
+
 #include "net/http/http_stream_request.h"
 
 #include <utility>

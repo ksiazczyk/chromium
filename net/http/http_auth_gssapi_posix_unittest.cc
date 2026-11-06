@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GSSAPI HTTP auth unit tests for POSIX
+// summary: Unit tests for the POSIX GSSAPI auth code using a mock GSSAPI library to verify startup, library loading, and security context establishment.
+// ---
+
 #include "net/http/http_auth_gssapi_posix.h"
 
 #include <memory>

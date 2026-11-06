@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HttpStreamPool::Attempt unit tests
+// summary: Unit tests for HttpStreamPool::Attempt covering TCP and TLS inner attempts, service endpoint changes, and connection timing.
+// ---
+
 #include "net/http/http_stream_pool_attempt.h"
 
 #include <memory>

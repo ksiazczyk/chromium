@@ -11,6 +11,12 @@
 //
 // See HttpTransactionFactory and HttpTransaction for more details.
 
+// ---docerion
+// type: source
+// title: HttpCache class header
+// summary: Declares HttpCache, an HttpTransactionFactory that adds HTTP caching per RFC 7234 on top of another factory using a disk_cache::Backend for storage.
+// ---
+
 #ifndef NET_HTTP_HTTP_CACHE_H_
 #define NET_HTTP_HTTP_CACHE_H_
 

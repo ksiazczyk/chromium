@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HttpCache implementation
+// summary: Implements the HTTP cache as an HttpTransactionFactory layered over a disk cache backend, following RFC 7234 caching logic with transactions, writers, and invalidation support.
+// ---
+
 #include "net/http/http_cache.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTP network layer implementation
+// summary: Implements HttpNetworkLayer, a transaction factory that creates HttpNetworkTransaction objects backed by an HttpNetworkSession.
+// ---
+
 #include "net/http/http_network_layer.h"
 
 #include <memory>

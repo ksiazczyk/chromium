@@ -7,6 +7,12 @@
 // the order of the headers.  This means that any lookups are linear time
 // operations.
 
+// ---docerion
+// type: source
+// title: HttpRequestHeaders header
+// summary: Declares HttpRequestHeaders, an ordered request header container with standard HTTP method and header name constants and an iterator.
+// ---
+
 #ifndef NET_HTTP_HTTP_REQUEST_HEADERS_H_
 #define NET_HTTP_HTTP_REQUEST_HEADERS_H_
 

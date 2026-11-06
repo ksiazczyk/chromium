@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CacheBodyDecompressor zstd decompression implementation
+// summary: Implements zstd streaming decompression for compressed HTTP cache entry bodies, capping the decompression window to guard against malicious or corrupt cache entries.
+// ---
+
 #include "net/http/cache_body_decompressor.h"
 
 #include "base/check.h"

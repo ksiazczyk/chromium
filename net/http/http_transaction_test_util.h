@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock HTTP transaction test utilities header
+// summary: Declares the MockTransaction struct, test mode flags, handler callbacks, and MockNetworkLayer used to simulate HTTP transactions in tests.
+// ---
+
 #ifndef NET_HTTP_HTTP_TRANSACTION_TEST_UTIL_H_
 #define NET_HTTP_HTTP_TRANSACTION_TEST_UTIL_H_
 

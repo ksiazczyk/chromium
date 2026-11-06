@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HttpStreamPool test utilities header
+// summary: Declares FakeServiceEndpointResolution and FakeServiceEndpointRequest, fakes that provide configurable DNS endpoint results for testing the HTTP stream pool.
+// ---
+
 #ifndef NET_HTTP_HTTP_STREAM_POOL_TEST_UTIL_H_
 #define NET_HTTP_HTTP_STREAM_POOL_TEST_UTIL_H_
 

@@ -5,6 +5,12 @@
 // This file contains common routines used by NTLM and Negotiate authentication
 // using the SSPI API on Windows.
 
+// ---docerion
+// type: source
+// title: SSPI Windows HTTP authentication header
+// summary: Declares the SSPILibrary wrapper and shared routines used by NTLM and Negotiate authentication through the SSPI API on Windows.
+// ---
+
 #ifndef NET_HTTP_HTTP_AUTH_SSPI_WIN_H_
 #define NET_HTTP_HTTP_AUTH_SSPI_WIN_H_
 

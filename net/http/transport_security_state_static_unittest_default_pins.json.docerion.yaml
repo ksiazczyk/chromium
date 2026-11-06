@@ -1,0 +1,4 @@
+# Docerion header of transport_security_state_static_unittest_default_pins.json.
+type: data
+title: Default HSTS pinsets and entries for unit tests
+summary: Test-only pinsets and preload entries with accepted and rejected SPKI hashes used by transport security state tests.

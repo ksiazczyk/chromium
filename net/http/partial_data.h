@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Partial data class for range requests
+// summary: Declares PartialData, a helper tightly integrated with HttpCache::Transaction that supports range requests and partial-content responses via sparse cache entries.
+// ---
+
 #ifndef NET_HTTP_PARTIAL_DATA_H_
 #define NET_HTTP_PARTIAL_DATA_H_
 

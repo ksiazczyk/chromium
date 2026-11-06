@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HttpAuthPreferences class declaration
+// summary: Declares the HttpAuthPreferences class that manages authentication preferences and provides a cache of them accessible from the IO thread.
+// ---
+
 #ifndef NET_HTTP_HTTP_AUTH_PREFERENCES_H_
 #define NET_HTTP_HTTP_AUTH_PREFERENCES_H_
 

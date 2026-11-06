@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTP Digest authentication handler header
+// summary: Declares HttpAuthHandlerDigest with its nonce generator classes and factory for HTTP Digest authentication.
+// ---
+
 #ifndef NET_HTTP_HTTP_AUTH_HANDLER_DIGEST_H_
 #define NET_HTTP_HTTP_AUTH_HANDLER_DIGEST_H_
 

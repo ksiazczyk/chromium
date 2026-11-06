@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HttpAuthPreferences unit tests
+// summary: Unit tests verifying HTTP auth preference behavior such as CNAME lookup, NTLM v2, GSSAPI loading, allowlists, delegation, and scheme filters.
+// ---
+
 #include "net/http/http_auth_preferences.h"
 
 #include <string>

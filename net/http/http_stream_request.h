@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HttpStreamRequest class header
+// summary: Declares HttpStreamRequest and its Delegate interface with callbacks for stream ready, failure, certificate errors and proxy authentication during stream creation.
+// ---
+
 #ifndef NET_HTTP_HTTP_STREAM_REQUEST_H_
 #define NET_HTTP_HTTP_STREAM_REQUEST_H_
 

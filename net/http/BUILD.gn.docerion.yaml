@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for transport security state generation
+summary: GN build file defining compiled actions that generate HSTS and PKP headers from preload lists and a source set for transport security state.

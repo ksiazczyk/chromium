@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HTTP request headers performance benchmark
+// summary: Benchmarks the ToString() method of HttpRequestHeaders using a realistic set of browser request headers via the Google Benchmark framework.
+// ---
+
 #include "net/http/http_request_headers.h"
 
 #include <string>

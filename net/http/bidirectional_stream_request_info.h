@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BidirectionalStreamRequestInfo struct
+// summary: Declares the struct holding parameters for a bidirectional stream request, such as URL, method, priority, extra headers and target network.
+// ---
+
 #ifndef NET_HTTP_BIDIRECTIONAL_STREAM_REQUEST_INFO_H_
 #define NET_HTTP_BIDIRECTIONAL_STREAM_REQUEST_INFO_H_
 

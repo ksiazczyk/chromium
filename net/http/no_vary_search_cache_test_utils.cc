@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: No-Vary-Search cache test helpers implementation
+// summary: Implements helpers that build test requests and No-Vary-Search response headers and insert, look up or erase entries in a NoVarySearchCache during tests.
+// ---
+
 #include "net/http/no_vary_search_cache_test_utils.h"
 
 #include <utility>

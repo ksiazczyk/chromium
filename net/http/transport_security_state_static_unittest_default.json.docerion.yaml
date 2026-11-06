@@ -1,0 +1,4 @@
+# Docerion header of transport_security_state_static_unittest_default.json.
+type: data
+title: Default HSTS preload list for unit tests
+summary: Test-only HSTS preload list with force-HTTPS entries that unit tests use instead of the real preload list.

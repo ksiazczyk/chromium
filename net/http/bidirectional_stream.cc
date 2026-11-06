@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bidirectional stream implementation
+// summary: Implements BidirectionalStream, which drives HTTP/2 bidirectional streaming over an HTTP network session with delegate callbacks and net logging.
+// ---
+
 #include "net/http/bidirectional_stream.h"
 
 #include <string>

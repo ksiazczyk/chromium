@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: POSIX URL security manager factory
+// summary: Creates the allowlist-based URLSecurityManager instance on POSIX platforms.
+// ---
+
 #include <memory>
 
 #include "net/http/url_security_manager.h"

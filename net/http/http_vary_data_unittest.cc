@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HttpVaryData unit tests
+// summary: Unit tests for HttpVaryData, which determines whether a cached response varies with request headers based on the Vary response header.
+// ---
+
 #include "net/http/http_vary_data.h"
 
 #include <algorithm>

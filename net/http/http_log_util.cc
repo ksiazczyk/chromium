@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTP log header redaction implementation
+// summary: Implements elision of sensitive HTTP header values such as cookies and authorization data for net logging, plus helpers to log request and response headers.
+// ---
+
 #include "net/http/http_log_util.h"
 
 #include <string_view>

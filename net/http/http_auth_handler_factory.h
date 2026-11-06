@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTP auth handler factory
+// summary: Declares HttpAuthHandlerFactory and its registry, which create HTTP authentication handler objects in response to challenges or preemptively.
+// ---
+
 #ifndef NET_HTTP_HTTP_AUTH_HANDLER_FACTORY_H_
 #define NET_HTTP_HTTP_AUTH_HANDLER_FACTORY_H_
 

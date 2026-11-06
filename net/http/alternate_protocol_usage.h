@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Alternate protocol usage enums
+// summary: Defines enums describing why Chrome uses an alternate transport protocol and the advertised alternative service state, persisted for histograms.
+// ---
+
 #ifndef NET_HTTP_ALTERNATE_PROTOCOL_USAGE_H_
 #define NET_HTTP_ALTERNATE_PROTOCOL_USAGE_H_
 

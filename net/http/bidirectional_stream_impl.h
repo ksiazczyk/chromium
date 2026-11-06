@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bidirectional stream interface declaration
+// summary: Declares the BidirectionalStreamImpl interface and delegate for HTTP/2 bidirectional streaming, implemented by BidirectionalStream.
+// ---
+
 #ifndef NET_HTTP_BIDIRECTIONAL_STREAM_IMPL_H_
 #define NET_HTTP_BIDIRECTIONAL_STREAM_IMPL_H_
 

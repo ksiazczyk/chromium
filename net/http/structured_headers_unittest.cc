@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Structured headers unit tests
+// summary: Tests strict and lenient structured header parsing, comparing C++ and Rust backend results for parity across items, lists, and dictionaries.
+// ---
+
 #include "net/http/structured_headers.h"
 
 #include <optional>

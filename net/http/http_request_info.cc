@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTP request info implementation
+// summary: Implements the HttpRequestInfo struct's default constructors and a consistency check between the network isolation and anonymization keys.
+// ---
+
 #include "net/http/http_request_info.h"
 #include "net/base/network_anonymization_key.h"
 #include "net/base/network_isolation_key.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Structured headers API
+// summary: Declares strict and lenient parsers plus serializers for RFC 8941 HTTP structured headers, aliasing Quiche types and a Rust migration feature.
+// ---
+
 #ifndef NET_HTTP_STRUCTURED_HEADERS_H_
 #define NET_HTTP_STRUCTURED_HEADERS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fuzzer for Content-Disposition parsing
+// summary: LibFuzzer entry point that constructs HttpContentDisposition from fuzzed header values and random charset strings.
+// ---
+
 #include <cstddef>
 #include <cstdint>
 

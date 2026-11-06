@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HttpServerPropertiesManager implementation
+// summary: Implements serialization and deserialization of HTTP server properties to and from persistent preferences, including versioned formats and broken alternative service lists.
+// ---
+
 #include "net/http/http_server_properties_manager.h"
 
 #include <algorithm>

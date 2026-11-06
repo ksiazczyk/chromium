@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HttpStreamPool QuicAttempt implementation
+// summary: Implements QuicAttempt, which starts and tracks QUIC connection attempts on behalf of an HTTP stream pool attempt manager.
+// ---
+
 #include "net/http/http_stream_pool_quic_attempt.h"
 
 #include <memory>

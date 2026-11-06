@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fuzzer for the HTTP Basic auth handler
+// summary: Fuzzes HttpAuthHandlerBasic challenge parsing by feeding arbitrary input as a Basic authentication challenge.
+// ---
+
 #include <memory>
 #include <string>
 

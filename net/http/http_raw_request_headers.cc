@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HttpRawRequestHeaders implementation
+// summary: Implements HttpRawRequestHeaders, which stores request headers in wire order and supports header lookup for tests.
+// ---
+
 #include "net/http/http_raw_request_headers.h"
 
 #include <string_view>

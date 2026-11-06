@@ -8,6 +8,12 @@
 // socket to the pool for reuse.  SPDY streams on the other hand leave the
 // transport socket management to the SpdySession.
 
+// ---docerion
+// type: source
+// title: HttpStream interface for HTTP, SPDY and QUIC streams
+// summary: Defines the abstract HttpStream interface that abstracts basic HTTP, SPDY and QUIC streams, covering request registration, sending and response reading.
+// ---
+
 #ifndef NET_HTTP_HTTP_STREAM_H_
 #define NET_HTTP_HTTP_STREAM_H_
 

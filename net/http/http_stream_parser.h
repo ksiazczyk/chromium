@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HttpStreamParser class declaration
+// summary: Declares HttpStreamParser, which sends HTTP requests and parses responses on a socket, exposing response completion, reuse, and timing information.
+// ---
+
 #ifndef NET_HTTP_HTTP_STREAM_PARSER_H_
 #define NET_HTTP_HTTP_STREAM_PARSER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HttpNoVarySearchData implementation
+// summary: Implements HttpNoVarySearchData, which parses No-Vary-Search headers and applies their rules to compare URL queries for cache matching.
+// ---
+
 #include "net/http/http_no_vary_search_data.h"
 
 #include <algorithm>

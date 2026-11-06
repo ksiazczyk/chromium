@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTP connection info to string conversion
+// summary: Maps HttpConnectionInfo enum values to protocol strings such as http/1.1, h2, and h3 variants, plus coarse labels for histograms.
+// ---
+
 #include "net/http/http_connection_info.h"
 
 #include "base/notreached.h"

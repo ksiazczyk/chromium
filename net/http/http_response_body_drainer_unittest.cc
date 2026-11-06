@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HTTP response body drainer unit tests
+// summary: Unit tests for the response body drainer using a mock HTTP stream to exercise draining, connection reuse, timeouts, and error paths.
+// ---
+
 #include "net/http/http_response_body_drainer.h"
 
 #include <stdint.h>

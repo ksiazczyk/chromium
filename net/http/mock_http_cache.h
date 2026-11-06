@@ -7,6 +7,12 @@
 // the http cache, but it has fake implementations of all required components,
 // so it is useful for unit tests at the http layer.
 
+// ---docerion
+// type: test
+// title: Mock HTTP cache header
+// summary: Declares MockDiskEntry, MockHttpCache and related fake cache components used for HTTP layer unit tests.
+// ---
+
 #ifndef NET_HTTP_MOCK_HTTP_CACHE_H_
 #define NET_HTTP_MOCK_HTTP_CACHE_H_
 

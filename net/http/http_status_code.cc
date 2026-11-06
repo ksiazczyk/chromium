@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTP status code helpers implementation
+// summary: Implements helpers that map HTTP status codes to IANA reason phrases and convert integer response codes to HttpStatusCode enum values.
+// ---
+
 #include "net/http/http_status_code.h"
 
 #include <ostream>

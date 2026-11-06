@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Alternative service implementation
+// summary: Implements the AlternativeService and AlternativeServiceInfo types plus histogram helpers for alternate protocol usage and broken locations.
+// ---
+
 #include "net/http/alternative_service.h"
 
 #include "base/check_op.h"

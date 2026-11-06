@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HttpVersion class
+// summary: Header defining HttpVersion, a value type that packs an HTTP major and minor version pair and supports comparison operators.
+// ---
+
 #ifndef NET_HTTP_HTTP_VERSION_H_
 #define NET_HTTP_HTTP_VERSION_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of transport_security_state_static.template.
+type: source
+title: Template for generated HSTS preload data
+summary: Template filled in by the transport security state generator to produce the static HSTS preload data header.

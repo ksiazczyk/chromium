@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cookie-Indices header parsing and hashing
+// summary: Parses the Cookie-Indices response header as an RFC 8941 structured list of cookie names and hashes them with the sent cookies.
+// ---
+
 #include "net/http/http_cookie_indices.h"
 
 #include <algorithm>

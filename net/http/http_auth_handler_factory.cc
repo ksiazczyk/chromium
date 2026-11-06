@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTP auth handler factory implementation
+// summary: Implements factories that create authentication handlers for the supported schemes, including a registry factory mapping schemes to handlers.
+// ---
+
 #include "net/http/http_auth_handler_factory.h"
 
 #include <algorithm>

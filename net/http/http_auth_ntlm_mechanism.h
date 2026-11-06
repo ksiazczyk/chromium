@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NTLM HTTP auth mechanism header
+// summary: Declares the HttpAuthNtlmMechanism class implementing HttpAuthMechanism for NTLM, with overridable time, random and host name functions for tests.
+// ---
+
 #ifndef NET_HTTP_HTTP_AUTH_NTLM_MECHANISM_H_
 #define NET_HTTP_HTTP_AUTH_NTLM_MECHANISM_H_
 

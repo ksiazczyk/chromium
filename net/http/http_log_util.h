@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTP log header redaction declarations
+// summary: Declares helpers to elide sensitive HTTP header values for net logging and to record request and response headers in net log events.
+// ---
+
 #ifndef NET_HTTP_HTTP_LOG_UTIL_H_
 #define NET_HTTP_HTTP_LOG_UTIL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HttpAuthChallengeTokenizer class header
+// summary: Declares HttpAuthChallengeTokenizer, which breaks a challenge string into an auth scheme plus parameters as name-value pairs or a base64 blob.
+// ---
+
 #ifndef NET_HTTP_HTTP_AUTH_CHALLENGE_TOKENIZER_H_
 #define NET_HTTP_HTTP_AUTH_CHALLENGE_TOKENIZER_H_
 

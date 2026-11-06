@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTP auth handler base class implementation
+// summary: Implements the HttpAuthHandler base class that initializes handlers from server challenges and generates authentication tokens with net logging.
+// ---
+
 #include "net/http/http_auth_handler.h"
 
 #include <utility>

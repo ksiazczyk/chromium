@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HttpStreamPool implementation
+// summary: Implements the HTTP stream pool that manages stream groups and connection attempts, with feature parameters for Happy Eyeballs v3 and consistency checks.
+// ---
+
 #include "net/http/http_stream_pool.h"
 
 #include <algorithm>

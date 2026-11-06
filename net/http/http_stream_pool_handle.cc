@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HttpStreamPoolHandle implementation
+// summary: Implements a stream socket handle bound to an HttpStreamPool group that returns its socket to the group on reset and reports whether the pool is stalled.
+// ---
+
 #include "net/http/http_stream_pool_handle.h"
 
 #include <memory>

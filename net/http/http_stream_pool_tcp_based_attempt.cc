@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HttpStreamPool TcpBasedAttempt implementation
+// summary: Implements HttpStreamPool::TcpBasedAttempt, which drives TCP or TLS stream attempts, records timing histograms and maps cancel reasons for the stream pool.
+// ---
+
 #include "net/http/http_stream_pool_tcp_based_attempt.h"
 
 #include <memory>

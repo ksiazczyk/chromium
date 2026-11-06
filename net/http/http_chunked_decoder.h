@@ -42,6 +42,12 @@
  *
  * ***** END LICENSE BLOCK ***** */
 
+// ---docerion
+// type: source
+// title: HTTP chunked decoder header
+// summary: Declares HttpChunkedDecoder, which strips chunk markers from RFC chunked transfer coding and reports end-of-file and trailing bytes.
+// ---
+
 #ifndef NET_HTTP_HTTP_CHUNKED_DECODER_H_
 #define NET_HTTP_HTTP_CHUNKED_DECODER_H_
 

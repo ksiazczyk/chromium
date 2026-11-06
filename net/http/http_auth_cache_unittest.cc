@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HttpAuthCache unit tests
+// summary: Unit tests covering adding, looking up, and updating HTTP authentication cache entries by realm and by path, including network anonymization key behavior.
+// ---
+
 #include <string>
 
 #include "base/strings/string_util.h"

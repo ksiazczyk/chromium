@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock GSSAPI library for POSIX tests
+// summary: Implements a mock GSSAPI library so HTTP authentication unit tests on POSIX can run without the system GSSAPI library.
+// ---
+
 #include "net/http/mock_gssapi_library_posix.h"
 
 #include "base/compiler_specific.h"

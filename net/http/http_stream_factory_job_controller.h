@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HttpStreamFactory JobController class declaration
+// summary: Declares HttpStreamFactory::JobController, which manages stream requests and their jobs, including preconnects and proxy authentication restarts.
+// ---
+
 #ifndef NET_HTTP_HTTP_STREAM_FACTORY_JOB_CONTROLLER_H_
 #define NET_HTTP_HTTP_STREAM_FACTORY_JOB_CONTROLLER_H_
 

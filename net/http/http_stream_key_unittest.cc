@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HttpStreamKey unit tests
+// summary: Unit tests verifying HttpStreamKey equality and ordering across destination, privacy mode, network anonymization key, and secure DNS policy variations.
+// ---
+
 #include "net/http/http_stream_key.h"
 
 #include "base/test/scoped_feature_list.h"

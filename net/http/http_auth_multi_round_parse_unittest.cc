@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Multi-round HTTP auth challenge parsing tests
+// summary: Tests parsing of Negotiate first and later round challenges, covering missing, invalid and unexpected tokens and canonical scheme names.
+// ---
+
 #include "net/http/http_auth_multi_round_parse.h"
 
 #include <string_view>

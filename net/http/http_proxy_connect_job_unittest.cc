@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HttpProxyConnectJob unit tests
+// summary: Extensive unit tests for HttpProxyConnectJob covering HTTP, HTTPS, SPDY, QUIC, and nested proxy chains, including authentication and timeout behavior.
+// ---
+
 #include "net/http/http_proxy_connect_job.h"
 
 #include <algorithm>

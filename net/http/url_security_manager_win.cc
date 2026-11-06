@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows URL security manager implementation
+// summary: Windows implementation of URLSecurityManager that uses the IE/WinINet URL security zone manager to decide whether default credentials may be used for HTTP authentication on a given URL.
+// ---
+
 #include "net/http/url_security_manager.h"
 
 #include <urlmon.h>

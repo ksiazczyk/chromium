@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Proxy fallback decision logic
+// summary: Implements CanFalloverToNextProxy, deciding from error codes and proxy chain details whether a failed connection should fall over to the next proxy.
+// ---
+
 #include "net/http/proxy_fallback.h"
 
 #include "base/metrics/histogram_functions.h"

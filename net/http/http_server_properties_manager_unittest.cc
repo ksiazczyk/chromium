@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HttpServerPropertiesManager unit tests
+// summary: Unit tests for HttpServerPropertiesManager covering preference loading, saving, and persistence of server properties using a mocked pref delegate.
+// ---
+
 #include "net/http/http_server_properties_manager.h"
 
 #include <utility>

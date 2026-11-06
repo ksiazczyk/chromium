@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for net/http
+summary: Lists per-file code owners for the net/http directory, covering cache files, transport security state data, and QUIC-related tests.

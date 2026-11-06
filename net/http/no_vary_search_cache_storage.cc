@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: No-Vary-Search cache storage implementation
+// summary: Implements persistence of NoVarySearchCache to disk, writing snapshot and journal files and reporting errors to histograms.
+// ---
+
 #include "net/http/no_vary_search_cache_storage.h"
 
 #include <stdint.h>

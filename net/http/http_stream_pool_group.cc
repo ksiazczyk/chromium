@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HttpStreamPool::Group implementation
+// summary: Implements per-key groups that maintain active and idle text-based HTTP streams and manage AttemptManager lifetimes.
+// ---
+
 #include "net/http/http_stream_pool_group.h"
 
 #include "base/task/sequenced_task_runner.h"

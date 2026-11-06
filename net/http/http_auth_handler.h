@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HttpAuthHandler interface header
+// summary: Declares the HttpAuthHandler interface for authentication schemes such as Basic, Digest, NTLM and Negotiate, covering challenge handling and token generation.
+// ---
+
 #ifndef NET_HTTP_HTTP_AUTH_HANDLER_H_
 #define NET_HTTP_HTTP_AUTH_HANDLER_H_
 

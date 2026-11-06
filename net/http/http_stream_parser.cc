@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HttpStreamParser implementation
+// summary: Implements HTTP/1.x request sending and response parsing over a stream socket, including chunked encoding, upload handling, and connection reuse logic.
+// ---
+
 #include "net/http/http_stream_parser.h"
 
 #include <algorithm>

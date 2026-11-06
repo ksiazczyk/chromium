@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Transport security state implementation
+// summary: Implements the in-memory HSTS and public key pinning state, including host canonicalization and static preload list lookups.
+// ---
+
 #include "net/http/transport_security_state.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Transport security state persister implementation
+// summary: Serializes transport security (HSTS) state to a JSON file and loads it back at startup, with a configurable commit interval.
+// ---
+
 #include "net/http/transport_security_persister.h"
 
 #include <algorithm>

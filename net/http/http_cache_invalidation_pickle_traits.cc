@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HttpCache invalidation filter pickle traits
+// summary: Implements PickleTraits for HttpCache::InvalidationFilter, serializing and deserializing time bounds, filter type, origins, and domains with size limits.
+// ---
+
 #include "net/http/http_cache_invalidation_pickle_traits.h"
 
 #include <string>

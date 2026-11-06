@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Transport security state class declaration
+// summary: Declares TransportSecurityState, which tracks hosts with strict transport security and public key pins and supports persistence via a delegate.
+// ---
+
 #ifndef NET_HTTP_TRANSPORT_SECURITY_STATE_H_
 #define NET_HTTP_TRANSPORT_SECURITY_STATE_H_
 
