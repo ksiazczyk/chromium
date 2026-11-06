@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Manifest builder implementation for model execution configs
+// summary: Implements ManifestBuilder and helper functions that assemble Manifest protos for on-demand components and model recipes.
+// ---
+
 #include "components/optimization_guide/core/model_execution/configs/manifest_builder.h"
 
 #include "components/optimization_guide/core/model_execution/manifest_broker/manifest.h"

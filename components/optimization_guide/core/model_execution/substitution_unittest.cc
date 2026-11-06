@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Substitution unit tests
+// summary: Unit tests for substitution expression evaluation, condition lists and candidate selection across Compose, HistoryAnswer and PromptApi request protos.
+// ---
+
 #include "components/optimization_guide/core/model_execution/substitution.h"
 
 #include <cstdint>

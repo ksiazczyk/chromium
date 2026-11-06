@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the override manifest asset manager delegate
+// summary: Verifies that the override delegate parses its JSON config and reports the manifest path and free disk space as expected.
+// ---
+
 #include "components/optimization_guide/core/model_execution/manifest_broker/override_manifest_asset_manager_delegate.h"
 
 #include "base/byte_size.h"

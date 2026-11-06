@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the origin gating cache
+// summary: Parameterized unit tests verifying cache behavior for origin and site scopes, user confirmation, opaque origins and size metrics.
+// ---
+
 #include "components/origin_gating/core/origin_gating_cache.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

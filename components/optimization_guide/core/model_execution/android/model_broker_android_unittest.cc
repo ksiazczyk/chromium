@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ModelBrokerAndroid
+// summary: Unit tests covering ModelBrokerAndroid feature gating, model status checks, download progress, and session behavior using a fake Android model broker.
+// ---
+
 #include "components/optimization_guide/core/model_execution/android/model_broker_android.h"
 
 #include <optional>

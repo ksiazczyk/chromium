@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ModelQualityLogsUploaderService class declaration
+// summary: Declares the service that uploads model quality logs, including the upload status enum, consent checks, system metadata, and WebUI debug log access.
+// ---
+
 #ifndef COMPONENTS_OPTIMIZATION_GUIDE_CORE_MODEL_QUALITY_MODEL_QUALITY_LOGS_UPLOADER_SERVICE_H_
 #define COMPONENTS_OPTIMIZATION_GUIDE_CORE_MODEL_QUALITY_MODEL_QUALITY_LOGS_UPLOADER_SERVICE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TaskPolicyConfig class declaration
+// summary: Declares TaskPolicyConfig, which manages client-side security boundaries through location rules that control navigation and tool actuation per site or origin.
+// ---
+
 #ifndef COMPONENTS_ORIGIN_GATING_CORE_TASK_POLICY_CONFIG_H_
 #define COMPONENTS_ORIGIN_GATING_CORE_TASK_POLICY_CONFIG_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Model execution fetcher request status histogram helper
+// summary: Implements the ModelExecutionFetcher helper that records per-feature request status histograms for model execution fetches.
+// ---
+
 #include "components/optimization_guide/core/model_execution/model_execution_fetcher.h"
 
 #include "base/metrics/histogram_functions.h"

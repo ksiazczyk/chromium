@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: On-device tail suggest model metadata protobuf definitions
+// summary: Defines protobuf parameters for running the on-device LSTM tail suggest model, such as state size and probability threshold.
+// ---
+
 edition = "2023";
 
 package optimization_guide.proto;

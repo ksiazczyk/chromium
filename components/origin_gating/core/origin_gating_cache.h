@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Origin gating cache for allowed origins and sites
+// summary: Declares OriginGatingCache, which stores origin- or site-scoped navigation permissions with optional user confirmation state.
+// ---
+
 #ifndef COMPONENTS_ORIGIN_GATING_CORE_ORIGIN_GATING_CACHE_H_
 #define COMPONENTS_ORIGIN_GATING_CORE_ORIGIN_GATING_CACHE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Model broker client unit tests
+// summary: Unit tests covering ModelBrokerClient session creation for disconnected, pending-asset, and ready broker states.
+// ---
+
 #include "components/optimization_guide/core/model_execution/model_broker_client.h"
 
 #include "base/task/current_thread.h"

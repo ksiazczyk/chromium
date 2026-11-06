@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Component download observer interface
+// summary: Declares ComponentDownloadObserver and GetDownloadProgress, which report component updater download progress to on-device model download observers.
+// ---
+
 #ifndef COMPONENTS_OPTIMIZATION_GUIDE_CORE_MODEL_EXECUTION_COMPONENT_DOWNLOAD_OBSERVER_H_
 #define COMPONENTS_OPTIMIZATION_GUIDE_CORE_MODEL_EXECUTION_COMPONENT_DOWNLOAD_OBSERVER_H_
 

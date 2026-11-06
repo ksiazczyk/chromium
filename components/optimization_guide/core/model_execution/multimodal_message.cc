@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Multimodal message implementation
+// summary: Implements read and edit views for multimodal proto messages that carry image and audio data alongside proto fields.
+// ---
+
 #include "components/optimization_guide/core/model_execution/multimodal_message.h"
 
 #include <cstddef>

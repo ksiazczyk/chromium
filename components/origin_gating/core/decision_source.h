@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Decision source enum for origin gating predicates
+// summary: Defines the DecisionSource enum listing the predicates that can allow or block gated events, with a string conversion helper.
+// ---
+
 #ifndef COMPONENTS_ORIGIN_GATING_CORE_DECISION_SOURCE_H_
 #define COMPONENTS_ORIGIN_GATING_CORE_DECISION_SOURCE_H_
 

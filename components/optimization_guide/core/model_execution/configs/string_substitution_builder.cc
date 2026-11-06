@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: String substitution builder implementation
+// summary: Implements StringSubstitutionBuilder methods that turn conditional If and Else branching into a flat candidate list.
+// ---
+
 #include "components/optimization_guide/core/model_execution/configs/string_substitution_builder.h"
 
 #include <string>

@@ -1,3 +1,9 @@
+---
+type: guide
+title: On-Device Model Execution overview
+summary: Overview of the on-device model execution architecture, describing the client, broker, asset providers, and service and how they interact on desktop and Android.
+---
+
 # On-Device Model Execution overview
 
 This directory defines the OnDeviceCapability API, it's implementations, and

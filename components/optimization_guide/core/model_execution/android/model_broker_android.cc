@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ModelBrokerAndroid implementation for AICore model execution
+// summary: Implements the Android model broker, mapping on-device features to AICore-gated features and managing model status checks, downloads, and model sessions.
+// ---
+
 #include "components/optimization_guide/core/model_execution/android/model_broker_android.h"
 
 #include <memory>

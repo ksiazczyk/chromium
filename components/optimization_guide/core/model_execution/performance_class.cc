@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device performance class implementation
+// summary: Implements on-device model performance classification, including VRAM requirements, feature flags, command-line overrides, and pref updates for the device performance class.
+// ---
+
 #include "components/optimization_guide/core/model_execution/performance_class.h"
 
 #include <algorithm>

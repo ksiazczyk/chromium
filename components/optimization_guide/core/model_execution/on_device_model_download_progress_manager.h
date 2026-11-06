@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: On-device model download progress manager header
+// summary: Declares the download progress manager, the kAIModelUnloadableProgress feature, and helpers for normalizing and reporting model download progress.
+// ---
+
 #ifndef COMPONENTS_OPTIMIZATION_GUIDE_CORE_MODEL_EXECUTION_ON_DEVICE_MODEL_DOWNLOAD_PROGRESS_MANAGER_H_
 #define COMPONENTS_OPTIMIZATION_GUIDE_CORE_MODEL_EXECUTION_ON_DEVICE_MODEL_DOWNLOAD_PROGRESS_MANAGER_H_
 

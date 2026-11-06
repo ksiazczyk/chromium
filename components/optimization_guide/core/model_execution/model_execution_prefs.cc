@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Model execution preferences implementation
+// summary: Registers profile and local-state preferences for on-device model execution, covering crash counts, performance class, usage timestamps, and enterprise policy settings.
+// ---
+
 #include "components/optimization_guide/core/model_execution/model_execution_prefs.h"
 
 #include "components/optimization_guide/core/feature_registry/enterprise_policy_registry.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Header for the test manifest asset manager component state
+// summary: Declares TestManifestAssetManagerComponentState with install targets, registrations, and download scenarios for simulating component updates in tests.
+// ---
+
 #ifndef COMPONENTS_OPTIMIZATION_GUIDE_CORE_MODEL_EXECUTION_MANIFEST_BROKER_TEST_TEST_MANIFEST_ASSET_MANAGER_COMPONENT_STATE_H_
 #define COMPONENTS_OPTIMIZATION_GUIDE_CORE_MODEL_EXECUTION_MANIFEST_BROKER_TEST_TEST_MANIFEST_ASSET_MANAGER_COMPONENT_STATE_H_
 

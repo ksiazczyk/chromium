@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Manifest validator implementation
+// summary: Implements the ManifestValidator, which runs deferred validation tasks against on-device model sessions and reports results to the access controller.
+// ---
+
 #include "components/optimization_guide/core/model_execution/manifest_broker/manifest_validation.h"
 
 #include "base/functional/bind.h"

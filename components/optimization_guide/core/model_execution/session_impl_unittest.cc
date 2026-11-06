@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Session implementation unit tests
+// summary: Extensive unit tests for SessionImpl covering on-device and server session behavior, feature configs, token limits, execution flows and metrics.
+// ---
+
 #include "components/optimization_guide/core/model_execution/session_impl.h"
 
 #include <memory>

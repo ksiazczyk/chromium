@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Common directory metadata for model quality
+summary: Defines the shared Chromium monorail component and Buganizer component ID used for the model quality directory.

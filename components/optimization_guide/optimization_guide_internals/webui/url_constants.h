@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Optimization guide internals URL host constant
+// summary: Header defining the host name constant for the Chrome optimization guide internals WebUI page.
+// ---
+
 #ifndef COMPONENTS_OPTIMIZATION_GUIDE_OPTIMIZATION_GUIDE_INTERNALS_WEBUI_URL_CONSTANTS_H_
 #define COMPONENTS_OPTIMIZATION_GUIDE_OPTIMIZATION_GUIDE_INTERNALS_WEBUI_URL_CONSTANTS_H_
 

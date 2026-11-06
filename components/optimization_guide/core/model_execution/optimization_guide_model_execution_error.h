@@ -1,6 +1,13 @@
 // Copyright 2023 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Optimization guide model execution error header
+// summary: Declares OptimizationGuideModelExecutionError, which maps HTTP status codes and server error responses to model execution error codes and reports transient or loggable errors.
+// ---
+
 #ifndef COMPONENTS_OPTIMIZATION_GUIDE_CORE_MODEL_EXECUTION_OPTIMIZATION_GUIDE_MODEL_EXECUTION_ERROR_H_
 #define COMPONENTS_OPTIMIZATION_GUIDE_CORE_MODEL_EXECUTION_OPTIMIZATION_GUIDE_MODEL_EXECUTION_ERROR_H_
 

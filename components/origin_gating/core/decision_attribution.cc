@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DecisionAttribution implementation
+// summary: Implements DecisionAttribution constructors, type accessors and comparison operators for decision source and custom predicate attributions.
+// ---
+
 #include "components/origin_gating/core/decision_attribution.h"
 
 #include <variant>

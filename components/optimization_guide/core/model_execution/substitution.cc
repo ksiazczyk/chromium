@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Substitution expression resolution implementation
+// summary: Implements evaluation of substitution expressions and conditions against request messages to build on-device model inputs.
+// ---
+
 #include "components/optimization_guide/core/model_execution/substitution.h"
 
 #include <sys/types.h>

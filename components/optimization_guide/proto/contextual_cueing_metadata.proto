@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual cueing metadata
+// summary: Proto definitions for Glic contextual cueing and zero state suggestion metadata, including cue configurations and eligibility conditions.
+// ---
+
 edition = "2023";
 
 package optimization_guide.proto;

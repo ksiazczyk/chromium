@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Example manifest builder for model broker tests
+// summary: Builds an example proto Manifest with CPU and GPU base model, adaptation, and solution recipes for use in manifest broker tests.
+// ---
+
 #include "components/optimization_guide/core/model_execution/manifest_broker/test/example_manifest.h"
 
 #include "components/optimization_guide/core/model_execution/configs/manifest_builder.h"

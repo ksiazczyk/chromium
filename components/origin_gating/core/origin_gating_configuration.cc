@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Origin gating configuration implementation
+// summary: Implements OriginGatingConfiguration, PredicateConfiguration and CustomPredicate, validating forbidden decision sources and computing the effective cache scope.
+// ---
+
 #include "components/origin_gating/core/origin_gating_configuration.h"
 
 #include <algorithm>

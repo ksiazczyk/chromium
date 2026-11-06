@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock download progress observer header
+// summary: Declares MockDownloadProgressObserver, a Mojo DownloadObserver mock for asserting model download progress updates in tests.
+// ---
+
 #ifndef COMPONENTS_OPTIMIZATION_GUIDE_CORE_MODEL_EXECUTION_TEST_MOCK_DOWNLOAD_PROGRESS_OBSERVER_H_
 #define COMPONENTS_OPTIMIZATION_GUIDE_CORE_MODEL_EXECUTION_TEST_MOCK_DOWNLOAD_PROGRESS_OBSERVER_H_
 

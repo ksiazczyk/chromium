@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Model execution features unit tests
+// summary: Unit tests verifying which model execution features are allowed for unsigned users based on feature parameters.
+// ---
+
 #include "components/optimization_guide/core/model_execution/model_execution_features.h"
 
 #include "base/test/scoped_feature_list.h"

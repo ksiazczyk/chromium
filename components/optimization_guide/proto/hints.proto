@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hints service request and context messages
+// summary: Defines GetHintsRequest and related messages for requesting optimization hints for hosts, URLs, and hashed hosts, including per-context request metadata.
+// ---
+
 syntax = "proto2";
 option optimize_for = LITE_RUNTIME;
 option java_package = "org.chromium.components.optimization_guide.proto";

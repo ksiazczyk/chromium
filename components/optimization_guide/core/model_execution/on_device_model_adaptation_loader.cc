@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: On-device model adaptation loader implementation
+// summary: Implements loading of on-device adaptation model metadata, validating execution configs and base model compatibility while recording availability metrics.
+// ---
+
 #include "components/optimization_guide/core/model_execution/on_device_model_adaptation_loader.h"
 
 #include <algorithm>

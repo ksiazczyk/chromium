@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Model execution features controller implementation
+// summary: Implements ModelExecutionFeaturesController, which tracks sign-in state, prefs, and policies to decide AI feature settings visibility and enablement.
+// ---
+
 #include "components/optimization_guide/core/model_execution/model_execution_features_controller.h"
 
 #include "base/command_line.h"

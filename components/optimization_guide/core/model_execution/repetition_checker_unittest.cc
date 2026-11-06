@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Repetition checker unit tests
+// summary: Unit tests for on-device model output repetition checks, covering HasRepeatingSuffix, trailing newline counting, non-newline detection and the NewlineBuffer chunking behavior.
+// ---
+
 #include "components/optimization_guide/core/model_execution/repetition_checker.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

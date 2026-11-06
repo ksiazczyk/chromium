@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AQA response parser unit tests
+// summary: Unit tests covering valid answers with citations, unanswerable responses, recursive answers, and incomplete-response suppression for AqaResponseParser.
+// ---
+
 #include "components/optimization_guide/core/model_execution/aqa_response_parser.h"
 
 #include "base/test/test.pb.h"

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for optimization guide proto
+summary: Delegates review ownership of BUILD.gn and model_quality_service.proto to the model quality owners.

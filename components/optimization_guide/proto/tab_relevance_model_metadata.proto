@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab relevance model metadata
+// summary: Defines metadata for the contextual tasks tab relevance model, enumerating its ordered input features and settings such as passages per tab and embedding dimensions.
+// ---
+
 edition = "2023";
 
 package optimization_guide.proto;

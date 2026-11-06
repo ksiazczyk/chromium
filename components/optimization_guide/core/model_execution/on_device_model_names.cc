@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: On-device model name conversion functions
+// summary: Implements conversion of model names and component keys to the OnDeviceBaseModel enum and UMA histogram variant names.
+// ---
+
 #include "components/optimization_guide/core/model_execution/on_device_model_names.h"
 
 namespace optimization_guide {

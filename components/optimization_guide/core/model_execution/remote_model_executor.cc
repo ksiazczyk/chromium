@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Model execution result type definitions
+// summary: Defines constructors and move semantics for the model execution and streaming result types used by the remote model executor.
+// ---
+
 #include "components/optimization_guide/core/model_execution/remote_model_executor.h"
 
 namespace optimization_guide {

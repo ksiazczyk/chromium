@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: On-device model feature adapter unit tests
+// summary: Unit tests for OnDeviceModelFeatureAdapter covering input string construction and response parsing with a mocked response parser.
+// ---
+
 #include "components/optimization_guide/core/model_execution/on_device_model_feature_adapter.h"
 
 #include <memory>

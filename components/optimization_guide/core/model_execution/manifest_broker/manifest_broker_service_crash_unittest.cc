@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tests for manifest broker service crash handling
+// summary: Tests ManifestBroker behavior on service crashes, GPU-blocked errors and repeated connection drops.
+// ---
+
 #include <memory>
 #include <string>
 #include <vector>

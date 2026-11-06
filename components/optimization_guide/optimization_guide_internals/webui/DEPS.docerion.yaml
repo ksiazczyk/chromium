@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the WebUI directory
+summary: Specifies the allowed include rules for the optimization guide internals WebUI directory, covering Mojo bindings, WebUI controllers, and generated resource headers.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autocomplete scoring model metadata
+// summary: Proto definitions for autocomplete scoring model metadata, including scoring signal types, transformations, and signal specifications.
+// ---
+
 edition = "2023";
 
 package optimization_guide.proto;

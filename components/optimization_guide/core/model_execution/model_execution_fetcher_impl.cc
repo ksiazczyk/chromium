@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Model execution fetcher implementation
+// summary: Implements remote model execution requests over HTTPS, including access token handling, request serialization, timeouts and cancellation.
+// ---
+
 #include "components/optimization_guide/core/model_execution/model_execution_fetcher_impl.h"
 
 #include <optional>

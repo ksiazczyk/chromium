@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Private AI message population utilities header
+// summary: Declares PopulatePaicMessage for populating PrivateAI paic messages with feature names and execute requests.
+// ---
+
 #ifndef COMPONENTS_OPTIMIZATION_GUIDE_CORE_MODEL_EXECUTION_PRIVATE_AI_UTILS_H_
 #define COMPONENTS_OPTIMIZATION_GUIDE_CORE_MODEL_EXECUTION_PRIVATE_AI_UTILS_H_
 

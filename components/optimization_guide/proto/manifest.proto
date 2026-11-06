@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: On-device model manifest definitions
+// summary: Defines messages for the on-device model manifest, including on-demand component assets, base and adaptation model recipes, and solution configurations.
+// ---
+
 // Messages for describing the on-device model manifest.
 edition = "2023";
 

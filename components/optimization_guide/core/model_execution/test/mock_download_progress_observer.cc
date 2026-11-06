@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock download progress observer implementation
+// summary: Implements a gmock download observer that expects model download progress updates, including normalized values, and can wait for updates via run loops.
+// ---
+
 #include "components/optimization_guide/core/model_execution/test/mock_download_progress_observer.h"
 
 #include "base/functional/callback_forward.h"

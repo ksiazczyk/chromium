@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for model execution logging wrappers
+// summary: Declares a template that runs a model via a remote executor and records the request, response, and execution info into a logging proto for the caller.
+// ---
+
 #ifndef COMPONENTS_OPTIMIZATION_GUIDE_CORE_MODEL_QUALITY_MODEL_EXECUTION_LOGGING_WRAPPERS_H_
 #define COMPONENTS_OPTIMIZATION_GUIDE_CORE_MODEL_QUALITY_MODEL_EXECUTION_LOGGING_WRAPPERS_H_
 

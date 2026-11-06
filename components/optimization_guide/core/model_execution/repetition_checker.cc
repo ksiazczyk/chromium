@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Repetition checker implementation
+// summary: Detects repeating suffixes in generated text and buffers trailing newlines for streamed model output.
+// ---
+
 #include "components/optimization_guide/core/model_execution/repetition_checker.h"
 
 #include <ranges>

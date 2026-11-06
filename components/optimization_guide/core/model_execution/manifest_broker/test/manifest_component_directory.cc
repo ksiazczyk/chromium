@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Manifest component directory test helpers
+// summary: Implements helpers that write manifests and solution configs to a temp directory and build manifest override JSON files for tests.
+// ---
+
 #include "components/optimization_guide/core/model_execution/manifest_broker/test/manifest_component_directory.h"
 
 #include "base/files/file_util.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page handler class declaration for the internals WebUI
+// summary: Declares the page handler class that receives debug log messages from the optimization guide logger and forwards them to the WebUI page.
+// ---
+
 #ifndef COMPONENTS_OPTIMIZATION_GUIDE_OPTIMIZATION_GUIDE_INTERNALS_WEBUI_OPTIMIZATION_GUIDE_INTERNALS_PAGE_HANDLER_IMPL_H_
 #define COMPONENTS_OPTIMIZATION_GUIDE_OPTIMIZATION_GUIDE_INTERNALS_WEBUI_OPTIMIZATION_GUIDE_INTERNALS_PAGE_HANDLER_IMPL_H_
 

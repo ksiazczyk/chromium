@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OnDeviceContext and OnDeviceOptions declarations
+// summary: Declares OnDeviceOptions and OnDeviceContext, which construct on-device model sessions, feed input context incrementally, and support cloning and priority control.
+// ---
+
 #ifndef COMPONENTS_OPTIMIZATION_GUIDE_CORE_MODEL_EXECUTION_ON_DEVICE_CONTEXT_H_
 #define COMPONENTS_OPTIMIZATION_GUIDE_CORE_MODEL_EXECUTION_ON_DEVICE_CONTEXT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Origin gating registration unit tests
+// summary: Unit tests covering checker registration, unregistration on destruction or reset, ownership transfer and service access.
+// ---
+
 #include "components/origin_gating/core/origin_gating_registration.h"
 
 #include "base/test/task_environment.h"

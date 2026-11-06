@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GateableEvent implementation
+// summary: Implements the GateableEvent variant, exposing destination and source URLs and a type-to-string helper for navigation and page action events.
+// ---
+
 #include "components/origin_gating/core/gateable_event.h"
 
 #include <string>

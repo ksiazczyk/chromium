@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Origin gating service header
+// summary: Declares OriginGatingService, a KeyedService that owns OriginGatingChecker instances keyed by CheckerId and manages their lifecycle.
+// ---
+
 #ifndef COMPONENTS_ORIGIN_GATING_CORE_ORIGIN_GATING_SERVICE_H_
 #define COMPONENTS_ORIGIN_GATING_CORE_ORIGIN_GATING_SERVICE_H_
 

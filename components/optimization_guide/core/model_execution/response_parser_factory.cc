@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Response parser factory implementation
+// summary: Creates the appropriate ResponseParser (simple, JSON, or AQA) based on the parser kind configured in the on-device model execution output config.
+// ---
+
 #include "components/optimization_guide/core/model_execution/response_parser_factory.h"
 
 #include "components/optimization_guide/core/model_execution/aqa_response_parser.h"

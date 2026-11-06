@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Usage tracker unit tests
+// summary: Unit tests for UsageTracker priority raising, persistence across restarts, set priority and pref-based usage tracking with mock time.
+// ---
+
 #include "components/optimization_guide/core/model_execution/usage_tracker.h"
 
 #include <memory>

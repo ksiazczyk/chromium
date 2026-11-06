@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: On-device request telemetry logger implementation
+// summary: Records UMA histograms for first response, context processing, completion times, and token counts of on-device model execution requests.
+// ---
+
 #include "components/optimization_guide/core/model_execution/on_device_telemetry_logger.h"
 
 #include "base/metrics/histogram_functions.h"

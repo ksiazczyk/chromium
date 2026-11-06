@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page handler implementation forwarding log messages to the WebUI
+// summary: Implements the internals page handler that observes the optimization guide logger and forwards added log messages to the WebUI page.
+// ---
+
 #include "components/optimization_guide/optimization_guide_internals/webui/optimization_guide_internals_page_handler_impl.h"
 
 #include "base/time/time.h"

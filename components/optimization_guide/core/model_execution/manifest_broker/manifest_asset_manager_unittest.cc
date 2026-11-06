@@ -1,6 +1,13 @@
 // Copyright 2026 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Unit tests for the manifest asset manager
+// summary: Tests manifest asset installation, updates, eviction, uninstall and download progress behavior of ManifestAssetManager.
+// ---
+
 #include "components/optimization_guide/core/model_execution/manifest_broker/manifest_asset_manager.h"
 
 #include <memory>

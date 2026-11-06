@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AndroidManifest class for AICore-owned model solutions
+// summary: Declares the AndroidManifest class that describes how to construct ModelBroker solutions using AICore-owned models and select per-feature model adapters.
+// ---
+
 #ifndef COMPONENTS_OPTIMIZATION_GUIDE_CORE_MODEL_EXECUTION_ANDROID_ANDROID_MANIFEST_H_
 #define COMPONENTS_OPTIMIZATION_GUIDE_CORE_MODEL_EXECUTION_ANDROID_ANDROID_MANIFEST_H_
 

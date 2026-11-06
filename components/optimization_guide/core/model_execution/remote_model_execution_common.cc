@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote model execution common helpers implementation
+// summary: Implements shared remote model execution helpers, including execute request creation and per-feature network traffic annotations.
+// ---
+
 #include "components/optimization_guide/core/model_execution/remote_model_execution_common.h"
 
 #include "base/command_line.h"

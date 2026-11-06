@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock remote model executor implementation
+// summary: Implements the MockRemoteModelExecutor test double, providing only construction and destruction of the gmock remote executor.
+// ---
+
 #include "components/optimization_guide/core/model_execution/test/mock_remote_model_executor.h"
 
 #include "base/memory/raw_ptr.h"

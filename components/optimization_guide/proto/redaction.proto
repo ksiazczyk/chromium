@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Model output redaction rules
+// summary: Defines redaction behaviors and rule messages that reject or redact matched text in model output using regular expressions with length and group constraints.
+// ---
+
 syntax = "proto3";
 option optimize_for = LITE_RUNTIME;
 option java_package = "org.chromium.components.optimization_guide.proto";

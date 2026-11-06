@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Summarize solution config unit test
+// summary: Verifies the Android Summarize config uses the AICore context, execute, and output token limits.
+// ---
+
 #include "components/optimization_guide/core/model_execution/configs/summarize_solution_config.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

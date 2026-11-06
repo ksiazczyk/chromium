@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: On-device model validator unit tests
+// summary: Tests OnDeviceModelValidator success, service crash, model disconnect, and chunked response cases using a fake on-device model service.
+// ---
+
 #include "components/optimization_guide/core/model_execution/on_device_model_validator.h"
 
 #include "base/test/task_environment.h"

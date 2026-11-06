@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Manifest parsing and validation for on-device models
+// summary: Implements the Manifest class that loads, parses and validates the on-device model manifest proto, including identifier and reference checks.
+// ---
+
 #include "components/optimization_guide/core/model_execution/manifest_broker/manifest.h"
 
 #include <optional>

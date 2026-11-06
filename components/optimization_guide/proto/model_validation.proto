@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Model validation protobuf definitions
+// summary: Defines protobuf messages for model validation inputs and outputs, pairing execution requests with responses and log entries.
+// ---
+
 syntax = "proto3";
 option optimize_for = LITE_RUNTIME;
 option java_package = "org.chromium.components.optimization_guide.proto";

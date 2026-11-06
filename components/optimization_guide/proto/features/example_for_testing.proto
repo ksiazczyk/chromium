@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Example proto for testing
+// summary: Defines example request and response messages covering many field types, used for testing the feature proto pipeline.
+// ---
+
 syntax = "proto3";
 
 package optimization_guide.proto;

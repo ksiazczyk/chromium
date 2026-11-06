@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AndroidManifest implementation for on-device model execution
+// summary: Implements AndroidManifest, building the built-in summarize solution config and feature routing configs used to select on-device model feature adapters on Android.
+// ---
+
 #include "components/optimization_guide/core/model_execution/android/android_manifest.h"
 
 #include "base/strings/strcat.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote model execution streaming session implementation
+// summary: Implements the streaming model execution session that talks to the model execution service over WebSocket, with UMA logging for connection status.
+// ---
+
 #include "components/optimization_guide/core/model_execution/remote_model_execution_session_impl.h"
 
 #include <memory>

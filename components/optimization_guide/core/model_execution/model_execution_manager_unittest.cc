@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Model execution manager unit tests
+// summary: Unit tests for ModelExecutionManager using mock fetchers to verify execution flow, responses, errors and model quality logging.
+// ---
+
 #include "components/optimization_guide/core/model_execution/model_execution_manager.h"
 
 #include <memory>

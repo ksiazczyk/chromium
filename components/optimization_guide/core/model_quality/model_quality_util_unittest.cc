@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Model quality utility unit tests
+// summary: Unit tests verifying that model quality client ids differ per feature and change across days, and that the Glic client id is distinct.
+// ---
+
 #include "components/optimization_guide/core/model_quality/model_quality_util.h"
 
 #include "base/strings/string_number_conversions.h"

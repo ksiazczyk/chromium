@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GateableEvent class for events evaluated by origin gating
+// summary: Declares the GateableEvent variant wrapping navigation request, navigation response and page action events passed to gating predicates.
+// ---
+
 #ifndef COMPONENTS_ORIGIN_GATING_CORE_GATEABLE_EVENT_H_
 #define COMPONENTS_ORIGIN_GATING_CORE_GATEABLE_EVENT_H_
 

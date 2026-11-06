@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Private AI model execution fetcher unit tests
+// summary: Unit tests using a mock PrivateAI client to verify request conversion and response handling of the PrivateAI model execution fetcher.
+// ---
+
 #include "components/optimization_guide/core/model_execution/private_ai_model_execution_fetcher.h"
 
 #include "base/test/scoped_feature_list.h"

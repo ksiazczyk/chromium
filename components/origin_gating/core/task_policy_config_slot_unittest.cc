@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TaskPolicyConfigSlot unit tests
+// summary: Unit tests for TaskPolicyConfigSlot checking the initial empty state and that only the first config assignment takes effect.
+// ---
+
 #include "components/origin_gating/core/task_policy_config_slot.h"
 
 #include <vector>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of ModelQualityLogEntry
+// summary: Implements the log entry that uploads a LogAiDataRequest on destruction or drops it, reporting the status to the optimization guide internals WebUI.
+// ---
+
 #include "components/optimization_guide/core/model_quality/model_quality_log_entry.h"
 
 #include "base/base64.h"

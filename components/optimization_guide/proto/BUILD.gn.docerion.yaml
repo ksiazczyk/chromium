@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for optimization guide protos
+summary: GN build configuration defining the fuzzable optimization_guide_proto library and the proto sources it compiles.

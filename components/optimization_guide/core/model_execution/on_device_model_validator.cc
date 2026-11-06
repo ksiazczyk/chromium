@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: On-device model validator implementation
+// summary: Runs configured validation prompts against on-device model sessions and reports success, crash, or mismatch results, with feature parameters for validation behavior.
+// ---
+
 #include "components/optimization_guide/core/model_execution/on_device_model_validator.h"
 
 #include "base/feature_list.h"

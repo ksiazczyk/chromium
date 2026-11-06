@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake component update service header
+// summary: Declares FakeComponentUpdateService, a mock component updater that tracks observers and sends updates, plus FakeComponent for building update items in tests.
+// ---
+
 #ifndef COMPONENTS_OPTIMIZATION_GUIDE_CORE_MODEL_EXECUTION_TEST_FAKE_COMPONENT_UPDATE_SERVICE_H_
 #define COMPONENTS_OPTIMIZATION_GUIDE_CORE_MODEL_EXECUTION_TEST_FAKE_COMPONENT_UPDATE_SERVICE_H_
 

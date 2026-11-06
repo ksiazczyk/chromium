@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Private AI model execution fetcher implementation
+// summary: Implements model execution through the PrivateAI client, mapping optimization guide features and PrivateAI status codes to execute requests and model execution errors.
+// ---
+
 #include "components/optimization_guide/core/model_execution/private_ai_model_execution_fetcher.h"
 
 #include <utility>

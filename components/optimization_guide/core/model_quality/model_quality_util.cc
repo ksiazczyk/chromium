@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Model quality client id utilities
+// summary: Generates, persists and hashes per-feature daily client ids used for model quality logging, including a Glic-specific variant.
+// ---
+
 #include "components/optimization_guide/core/model_quality/model_quality_util.h"
 
 #include <optional>

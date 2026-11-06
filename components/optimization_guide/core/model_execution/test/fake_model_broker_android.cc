@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake Android model broker implementation
+// summary: Implements a fake Android model broker that installs or removes base models, updates adaptations, and binds a ModelBroker remote for testing.
+// ---
+
 #include "components/optimization_guide/core/model_execution/test/fake_model_broker_android.h"
 
 #include "components/optimization_guide/core/model_execution/model_execution_prefs.h"

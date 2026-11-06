@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Optimization guide model execution error unit tests
+// summary: Unit tests verifying which model execution errors should be logged for model quality based on server error states.
+// ---
+
 #include "components/optimization_guide/core/model_execution/optimization_guide_model_execution_error.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

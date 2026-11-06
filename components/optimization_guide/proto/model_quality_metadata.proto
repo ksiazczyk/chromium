@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Model quality metadata protobuf definitions
+// summary: Defines protobuf messages for AI feature logging metadata and model execution info used by Chrome's model quality logging.
+// ---
+
 syntax = "proto3";
 
 option optimize_for = LITE_RUNTIME;

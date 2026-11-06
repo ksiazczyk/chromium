@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Origin gating checker implementation
+// summary: Implements the predicate pipeline that evaluates gateable events against cache, enterprise policy and task policy rules to reach gating decisions.
+// ---
+
 #include "components/origin_gating/core/origin_gating_checker.h"
 
 #include <optional>

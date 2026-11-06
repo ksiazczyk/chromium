@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Manifest unit tests
+// summary: Unit tests for manifest creation, checking device category naming and that duplicate identifiers and missing solution references are rejected.
+// ---
+
 #include "components/optimization_guide/core/model_execution/manifest_broker/manifest.h"
 
 #include "base/test/scoped_feature_list.h"

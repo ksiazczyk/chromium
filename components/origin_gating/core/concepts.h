@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IsIntCompatibleEnum C++ concept
+// summary: Defines the IsIntCompatibleEnum concept, constraining templates to enum types whose underlying values fit within the range of an int.
+// ---
+
 #ifndef COMPONENTS_ORIGIN_GATING_CORE_CONCEPTS_H_
 #define COMPONENTS_ORIGIN_GATING_CORE_CONCEPTS_H_
 

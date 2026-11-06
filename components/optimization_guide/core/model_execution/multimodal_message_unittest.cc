@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Multimodal message unit tests
+// summary: Unit tests verifying field access, editing, nested messages, and image handling in multimodal messages.
+// ---
+
 #include "components/optimization_guide/core/model_execution/multimodal_message.h"
 
 #include <optional>

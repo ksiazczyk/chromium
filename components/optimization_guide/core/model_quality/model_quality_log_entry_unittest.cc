@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ModelQualityLogEntry
+// summary: Verifies upload on destruction, explicit upload, and dropping behavior of model quality log entries using a test uploader service.
+// ---
+
 #include "components/optimization_guide/core/model_quality/model_quality_log_entry.h"
 
 #include "base/memory/scoped_refptr.h"

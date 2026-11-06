@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: On-device feature mapping implementation
+// summary: Implements mappings from OnDeviceFeature enums to histogram variant names, optimization targets, model execution feature protos, and use case names.
+// ---
+
 #include "components/optimization_guide/core/model_execution/on_device_features.h"
 
 #include "base/containers/flat_map.h"

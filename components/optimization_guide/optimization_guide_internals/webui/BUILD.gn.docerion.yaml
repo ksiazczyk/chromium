@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the optimization guide internals WebUI
+summary: Defines the GN build targets for the WebUI static library, the URL constants source set, and the Mojo bindings of the optimization guide internals.

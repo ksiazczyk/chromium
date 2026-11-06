@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Client tool debug serialization implementation
+// summary: Implements ClientTool::ToDebugValue, which serializes the tool's domain and identifier into a base::Value string for debugging purposes.
+// ---
+
 #include "components/origin_gating/core/client_tool.h"
 
 #include "base/strings/stringprintf.h"

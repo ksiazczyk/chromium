@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ValueConverter string-to-value conversion implementations
+// summary: Implements ValueConverter specializations that parse string-encoded values into bool, float, double, integer and unsigned integer types for proto field conversion.
+// ---
+
 #include "components/optimization_guide/core/model_execution/value_converter.h"
 
 #include "base/strings/string_number_conversions.h"

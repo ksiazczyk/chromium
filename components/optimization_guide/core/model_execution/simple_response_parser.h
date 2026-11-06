@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Simple response parser header
+// summary: Declares SimpleResponseParser, a ResponseParser that puts all model output into a single proto field with optional suppression of incomplete responses.
+// ---
+
 #ifndef COMPONENTS_OPTIMIZATION_GUIDE_CORE_MODEL_EXECUTION_SIMPLE_RESPONSE_PARSER_H_
 #define COMPONENTS_OPTIMIZATION_GUIDE_CORE_MODEL_EXECUTION_SIMPLE_RESPONSE_PARSER_H_
 

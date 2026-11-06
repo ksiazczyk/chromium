@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Model execution error conversion implementation
+// summary: Maps HTTP status codes and server error states to OptimizationGuideModelExecutionError values and prints error names for logging.
+// ---
+
 #include "components/optimization_guide/core/model_execution/optimization_guide_model_execution_error.h"
 
 #include <ostream>

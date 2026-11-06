@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: String value wrapper message
+// summary: Defines a StringValue wrapper message for string values whose JSON representation is a plain JSON string.
+// ---
+
 edition = "2023";
 
 package optimization_guide.proto;

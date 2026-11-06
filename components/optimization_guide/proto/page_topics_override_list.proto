@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page topics override list protobuf definitions
+// summary: Defines a protobuf override list that maps domains to page topic IDs, bypassing the TFLite model for those domains.
+// ---
+
 edition = "2023";
 
 package optimization_guide.proto;

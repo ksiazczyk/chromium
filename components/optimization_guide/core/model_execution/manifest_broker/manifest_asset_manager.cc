@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Manifest asset manager implementation
+// summary: Implements installation, update, eviction, uninstall and orphaned-asset scanning for assets defined in the on-device model manifest.
+// ---
+
 #include "components/optimization_guide/core/model_execution/manifest_broker/manifest_asset_manager.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test component state for the manifest asset manager
+// summary: Implements a test stand-in that tracks manifest asset manager registrations with the component updater and simulates installs, updates, and download scenarios.
+// ---
+
 #include "components/optimization_guide/core/model_execution/manifest_broker/test/test_manifest_asset_manager_component_state.h"
 
 #include <memory>
