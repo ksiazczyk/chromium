@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC notification metadata conversion utilities
+// summary: Creates message center notifications from ArcNotificationData, mapping progress values and group parent state.
+// ---
+
 #include "chromeos/ash/experiences/arc/message_center/metadata_utils.h"
 
 #include "base/strings/utf_string_conversions.h"

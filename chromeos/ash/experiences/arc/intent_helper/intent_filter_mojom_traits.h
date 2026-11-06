@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IntentFilter Mojo traits declaration
+// summary: Declares Mojo StructTraits and EnumTraits that map arc::IntentFilter and its helper types to the arc::mojom IntentHelper IPC data views.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_INTENT_HELPER_INTENT_FILTER_MOJOM_TRAITS_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_INTENT_HELPER_INTENT_FILTER_MOJOM_TRAITS_H_
 

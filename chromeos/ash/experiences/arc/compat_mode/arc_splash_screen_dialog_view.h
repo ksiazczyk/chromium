@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Splash screen dialog view class declaration
+// summary: Declares ArcSplashScreenDialogView, a bubble dialog shown in ARC app windows to advertise the resize lock feature, including a test API.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_COMPAT_MODE_ARC_SPLASH_SCREEN_DIALOG_VIEW_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_COMPAT_MODE_ARC_SPLASH_SCREEN_DIALOG_VIEW_H_
 

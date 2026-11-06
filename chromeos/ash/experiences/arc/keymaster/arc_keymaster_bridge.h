@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC keymaster bridge class declaration
+// summary: Declares ArcKeymasterBridge, a browser-context keyed service and KeymasterHost that forwards a KeymasterServer proxy from arc-keymasterd to ARC.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_KEYMASTER_ARC_KEYMASTER_BRIDGE_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_KEYMASTER_ARC_KEYMASTER_BRIDGE_H_
 

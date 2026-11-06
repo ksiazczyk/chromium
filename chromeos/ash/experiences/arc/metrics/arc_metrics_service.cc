@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC metrics service implementation
+// summary: Implements the ARC metrics service that collects process, boot, memory, and window data and records UMA histograms.
+// ---
+
 #include "chromeos/ash/experiences/arc/metrics/arc_metrics_service.h"
 
 #include <sys/sysinfo.h>

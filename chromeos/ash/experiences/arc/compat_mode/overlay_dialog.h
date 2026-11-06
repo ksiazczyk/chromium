@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overlay dialog view header
+// summary: Declares OverlayDialog, a view that shows a dialog with a semi-transparent scrim over an ARC app window and closes any existing overlay.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_COMPAT_MODE_OVERLAY_DIALOG_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_COMPAT_MODE_OVERLAY_DIALOG_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the compat_mode directory
+summary: Defines the allowed header and library includes for code in the ARC compat_mode directory.

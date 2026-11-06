@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Resize toggle menu unit tests
+// summary: Tests the resize toggle menu's button selection, bubble lifecycle and applying resize compat mode commands.
+// ---
+
 #include "chromeos/ash/experiences/arc/compat_mode/resize_toggle_menu.h"
 
 #include <memory>

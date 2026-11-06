@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PSI memory parser unit tests
+// summary: Unit tests covering PSI memory pressure parsing for different collection intervals, malformed input and parse status logging.
+// ---
+
 #include "chromeos/ash/experiences/arc/metrics/psi_memory_parser.h"
 
 #include <memory>

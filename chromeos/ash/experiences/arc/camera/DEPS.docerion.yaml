@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the ARC camera directory
+summary: Defines the allowed include rules for the ARC camera directory, permitting crypto random, ChromeOS camera HAL dispatcher, and mojo core headers.

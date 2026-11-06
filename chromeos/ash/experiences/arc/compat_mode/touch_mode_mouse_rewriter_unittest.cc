@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TouchModeMouseRewriter unit tests
+// summary: Unit tests verifying that right clicks are converted to long presses and mouse wheel events to smooth scroll events for phone-optimized ARC app windows.
+// ---
+
 #include "chromeos/ash/experiences/arc/compat_mode/touch_mode_mouse_rewriter.h"
 
 #include "base/run_loop.h"

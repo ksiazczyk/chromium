@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Compat mode button controller unit tests
+// summary: Tests the controller's button updates across resize lock states and window configurations using fake frame headers.
+// ---
+
 #include "chromeos/ash/experiences/arc/compat_mode/compat_mode_button_controller.h"
 
 #include <memory>

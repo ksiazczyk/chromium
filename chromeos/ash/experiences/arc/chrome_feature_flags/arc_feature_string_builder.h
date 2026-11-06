@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC feature string builder class declaration
+// summary: Declares a helper class that formats feature names and their parameters into a comma-separated string.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_CHROME_FEATURE_FLAGS_ARC_FEATURE_STRING_BUILDER_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_CHROME_FEATURE_FLAGS_ARC_FEATURE_STRING_BUILDER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of com.estoty.game2048.json.
+type: config
+title: Input overlay config for Estoty 2048
+summary: Defines a WASD-driven virtual joystick for the Estoty 2048 game.

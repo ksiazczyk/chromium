@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcCustomTabModalDialogHost implementation
+// summary: Implements the modal dialog host for ARC custom tabs, attaching the WebContentsModalDialogManager and reporting dialog position, size, and host view from the web contents.
+// ---
+
 #include "chromeos/ash/experiences/arc/custom_tab/arc_custom_tab_modal_dialog_host.h"
 
 #include <utility>

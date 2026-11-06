@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC IME key event utility functions
+// summary: Implements helpers that detect control characters and modifier keys in key events.
+// ---
+
 #include "ui/events/event.h"
 
 namespace arc {

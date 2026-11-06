@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcNotificationSurfaceImpl class header
+// summary: Declares ArcNotificationSurfaceImpl, which handles the notification surface role of a given exo surface.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_MESSAGE_CENTER_ARC_NOTIFICATION_SURFACE_IMPL_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_MESSAGE_CENTER_ARC_NOTIFICATION_SURFACE_IMPL_H_
 

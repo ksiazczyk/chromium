@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Resize confirmation dialog view implementation
+// summary: Implements the bubble dialog that asks users to confirm enabling resizing for resize-locked ARC apps, with accept, cancel and do-not-ask options.
+// ---
+
 #include "chromeos/ash/experiences/arc/compat_mode/resize_confirmation_dialog_view.h"
 
 #include <memory>

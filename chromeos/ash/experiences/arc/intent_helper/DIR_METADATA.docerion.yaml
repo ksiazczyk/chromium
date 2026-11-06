@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for ARC intent_helper
+summary: Metadata file naming the owning team email, Chrome OS platform, and Buganizer component for the directory.

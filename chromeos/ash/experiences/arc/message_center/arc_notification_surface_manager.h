@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcNotificationSurfaceManager interface header
+// summary: Declares ArcNotificationSurfaceManager, which tracks notification surfaces and notifies observers of additions, removals, and AX tree ID changes.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_MESSAGE_CENTER_ARC_NOTIFICATION_SURFACE_MANAGER_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_MESSAGE_CENTER_ARC_NOTIFICATION_SURFACE_MANAGER_H_
 

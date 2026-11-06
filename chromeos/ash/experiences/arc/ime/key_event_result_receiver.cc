@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KeyEventResultReceiver implementation
+// summary: Implements the receiver that dispatches IME-processed key events, decides whether they were consumed, and invokes the pending callback with a 300 ms timeout before falling back to ARC.
+// ---
+
 #include "chromeos/ash/experiences/arc/ime/key_event_result_receiver.h"
 
 #include <optional>

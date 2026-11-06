@@ -1,0 +1,4 @@
+# Docerion header of com.androbaby.game2048.json.
+type: config
+title: Input overlay mapping for com.androbaby.game2048
+summary: Defines a WASD virtual joystick keyboard mapping for com.androbaby.game2048 in the ARC input overlay.

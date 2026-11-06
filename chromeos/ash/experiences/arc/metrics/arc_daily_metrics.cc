@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC daily metrics implementation
+// summary: Implements daily reporting of low-memory kill count histograms for ARC apps and background VMs, persisting counts in prefs.
+// ---
+
 #include "chromeos/ash/experiences/arc/metrics/arc_daily_metrics.h"
 
 #include <unordered_set>

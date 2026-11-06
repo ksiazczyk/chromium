@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActivityIconLoader implementation
+// summary: Implements fetching ARC activity icons over the intent helper Mojo interface, resizing them, and encoding PNG data URLs.
+// ---
+
 #include "chromeos/ash/experiences/arc/intent_helper/activity_icon_loader.h"
 
 #include <string.h>

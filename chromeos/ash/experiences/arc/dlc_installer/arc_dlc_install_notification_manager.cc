@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC DLC install notification manager implementation
+// summary: Implements system notifications for ARC VM preload start, success, and failure states via the ChromeOS message center.
+// ---
+
 #include "chromeos/ash/experiences/arc/dlc_installer/arc_dlc_install_notification_manager.h"
 
 #include <memory>

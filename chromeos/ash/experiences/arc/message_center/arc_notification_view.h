@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC notification view header
+// summary: Declares ArcNotificationView, a MessageView subclass that hosts ArcNotificationContentView for custom ARC notifications.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_MESSAGE_CENTER_ARC_NOTIFICATION_VIEW_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_MESSAGE_CENTER_ARC_NOTIFICATION_VIEW_H_
 

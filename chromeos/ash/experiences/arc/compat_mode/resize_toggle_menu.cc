@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Resize toggle menu implementation
+// summary: Implements the bubble menu that lets users switch an ARC app window between phone, tablet and resizable modes.
+// ---
+
 #include "chromeos/ash/experiences/arc/compat_mode/resize_toggle_menu.h"
 
 #include <memory>

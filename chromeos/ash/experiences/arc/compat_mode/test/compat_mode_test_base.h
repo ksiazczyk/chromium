@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CompatModeTestBase class declaration
+// summary: Declares the CompatModeTestBase test fixture providing widget creation, display work area setup, click simulation, and resize lock property sync helpers for ARC compat mode tests.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_COMPAT_MODE_TEST_COMPAT_MODE_TEST_BASE_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_COMPAT_MODE_TEST_COMPAT_MODE_TEST_BASE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ArcNotificationManager unit tests
+// summary: Unit tests for ArcNotificationManager using a fake message center, fake delegate, and fake NotificationsInstance to exercise notification handling.
+// ---
+
 #include "chromeos/ash/experiences/arc/message_center/arc_notification_manager.h"
 
 #include <map>

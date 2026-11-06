@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PSI memory pressure parser header
+// summary: Declares the PSIMemoryParser class, parse status enum and histogram constants for parsing PSI memory pressure data.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_METRICS_PSI_MEMORY_PARSER_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_METRICS_PSI_MEMORY_PARSER_H_
 

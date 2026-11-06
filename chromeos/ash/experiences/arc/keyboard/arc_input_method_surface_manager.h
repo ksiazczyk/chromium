@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcInputMethodSurfaceManager class declaration
+// summary: Declares the ARC input method surface manager, which exposes the current exo input method surface and tracks input method bounds.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_KEYBOARD_ARC_INPUT_METHOD_SURFACE_MANAGER_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_KEYBOARD_ARC_INPUT_METHOD_SURFACE_MANAGER_H_
 

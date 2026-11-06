@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcNotificationContentView class declaration
+// summary: Declares ArcNotificationContentView, a NativeViewHost that displays Android notification content inside the Chrome message center.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_MESSAGE_CENTER_ARC_NOTIFICATION_CONTENT_VIEW_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_MESSAGE_CENTER_ARC_NOTIFICATION_CONTENT_VIEW_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ArcKeyMintBridge unit tests
+// summary: Tests ArcKeyMintBridge construction and serial number handling using a mocked CertStoreBridgeKeyMint and a fake KeyMint instance.
+// ---
+
 #include "chromeos/ash/experiences/arc/keymint/arc_keymint_bridge.h"
 
 #include <gmock/gmock.h>

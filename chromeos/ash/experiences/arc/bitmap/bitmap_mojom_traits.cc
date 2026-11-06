@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Arc bitmap Mojom traits implementation
+// summary: Implements reading ArcBitmap Mojom data into an SkBitmap, validating the buffer size and converting pixels to the native Skia color type.
+// ---
+
 #include "chromeos/ash/experiences/arc/bitmap/bitmap_mojom_traits.h"
 
 namespace mojo {

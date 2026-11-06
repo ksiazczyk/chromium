@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ARC bluetooth type converters
+// summary: Tests conversion of Bluetooth addresses and SDP attributes between Mojo and BlueZ representations, including deep sequence depth limits.
+// ---
+
 #include "chromeos/ash/experiences/arc/bluetooth/bluetooth_type_converters.h"
 
 #include <algorithm>

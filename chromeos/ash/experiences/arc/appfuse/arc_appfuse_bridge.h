@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcAppfuseBridge class declaration
+// summary: Declares the ArcAppfuseBridge keyed service and its AppfuseHost overrides that handle Appfuse mount, unmount and open-file requests from the ARC container.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_APPFUSE_ARC_APPFUSE_BRIDGE_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_APPFUSE_ARC_APPFUSE_BRIDGE_H_
 

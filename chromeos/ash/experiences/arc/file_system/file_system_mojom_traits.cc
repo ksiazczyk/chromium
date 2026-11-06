@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojom traits mapping ARC file system change types
+// summary: Implements mojo EnumTraits converting storage::WatcherManager::ChangeType values to and from arc::mojom::ChangeType for the ARC file system.
+// ---
+
 #include "chromeos/ash/experiences/arc/file_system/file_system_mojom_traits.h"
 
 #include "base/notreached.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcIntentHelperBridge implementation
+// summary: Implements the browser-side ARC intent helper service that handles intents from Android, opening URLs, downloads, custom tabs, wallpaper picker, volume control, and camera app control.
+// ---
+
 #include "chromeos/ash/experiences/arc/intent_helper/arc_intent_helper_bridge.h"
 
 #include <iterator>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ArcMidisBridge unit tests
+// summary: Unit test fixture verifying that the ArcMidisBridge service can be constructed and destructed for a test browser context.
+// ---
+
 #include "chromeos/ash/experiences/arc/midis/arc_midis_bridge.h"
 
 #include "base/memory/raw_ptr.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC notification metrics utilities
+// summary: Logs the Arc.Notifications.IsCustomNotification histogram for ARC notifications.
+// ---
+
 #include "chromeos/ash/experiences/arc/message_center/metrics_utils.h"
 
 #include "base/metrics/histogram_functions.h"

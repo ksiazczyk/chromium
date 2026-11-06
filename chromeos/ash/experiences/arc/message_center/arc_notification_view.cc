@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC notification view implementation
+// summary: Implements the message center view for custom ARC notifications, hosting the content view with focus, popup and animation handling.
+// ---
+
 #include "chromeos/ash/experiences/arc/message_center/arc_notification_view.h"
 
 #include <algorithm>

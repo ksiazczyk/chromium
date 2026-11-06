@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock ARC notification item for tests
+// summary: Provides a mock ArcNotificationItem with fixed notification data and close counting for use in unit tests.
+// ---
+
 #include "chromeos/ash/experiences/arc/message_center/mock_arc_notification_item.h"
 
 #include <utility>

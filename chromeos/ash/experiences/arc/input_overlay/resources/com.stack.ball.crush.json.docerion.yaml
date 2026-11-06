@@ -1,0 +1,4 @@
+# Docerion header of com.stack.ball.crush.json.
+type: config
+title: Stack Ball Crush input overlay config
+summary: Defines the keyboard-to-touch mapping for the Stack Ball Crush Android game, mapping the Space key to a tap action.

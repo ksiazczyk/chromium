@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CustomTab unit tests
+// summary: Unit tests verifying that a CustomTab widget can be resized after closing without crashing and that its NativeViewHost keeps the legacy clipping architecture in Exo/Wayland shells.
+// ---
+
 #include "chromeos/ash/experiences/arc/intent_helper/custom_tab.h"
 
 #include <memory>

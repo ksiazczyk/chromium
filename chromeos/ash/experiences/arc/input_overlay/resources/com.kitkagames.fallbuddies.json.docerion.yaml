@@ -1,0 +1,4 @@
+# Docerion header of com.kitkagames.fallbuddies.json.
+type: config
+title: Input overlay config for Fall Buddies
+summary: Maps Space to a jump tap and WASD to a virtual joystick for Fall Buddies.

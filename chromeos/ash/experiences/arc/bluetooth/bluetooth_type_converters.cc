@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC bluetooth type converters implementation
+// summary: Implements TypeConverter specializations translating Bluetooth addresses, SDP attributes and related data between Chromium, BlueZ and ARC Mojo representations.
+// ---
+
 #include "chromeos/ash/experiences/arc/bluetooth/bluetooth_type_converters.h"
 
 #include <iomanip>

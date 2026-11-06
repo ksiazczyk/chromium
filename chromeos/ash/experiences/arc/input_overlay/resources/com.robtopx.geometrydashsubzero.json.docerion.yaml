@@ -1,0 +1,4 @@
+# Docerion header of com.robtopx.geometrydashsubzero.json.
+type: config
+title: Geometry Dash Subzero input overlay mapping
+summary: Defines keyboard mappings for Geometry Dash Subzero, binding Space to jump and KeyG and KeyH to add and remove flag actions.

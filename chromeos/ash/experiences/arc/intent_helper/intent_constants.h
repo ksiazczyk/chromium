@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android intent action constants
+// summary: Defines well-known Android intent action string constants such as MAIN, VIEW, SEND and SEND_MULTIPLE for use by the ARC intent helper code.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_INTENT_HELPER_INTENT_CONSTANTS_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_INTENT_HELPER_INTENT_CONSTANTS_H_
 

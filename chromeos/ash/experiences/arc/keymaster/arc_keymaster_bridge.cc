@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC keymaster bridge implementation
+// summary: Implements ArcKeymasterBridge, which lazily bootstraps a Mojo connection to the arc-keymasterd daemon and serves the KeymasterServer proxy and placeholder key updates.
+// ---
+
 #include "chromeos/ash/experiences/arc/keymaster/arc_keymaster_bridge.h"
 
 #include <cstdint>

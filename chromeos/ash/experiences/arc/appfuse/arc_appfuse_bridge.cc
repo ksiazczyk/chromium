@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcAppfuseBridge implementation
+// summary: Implements the ArcAppfuseBridge keyed service, forwarding Appfuse mount, unmount and open-file requests from the ARC container to the appfuse provider via D-Bus and returning platform handles.
+// ---
+
 #include "chromeos/ash/experiences/arc/appfuse/arc_appfuse_bridge.h"
 
 #include <sys/epoll.h>

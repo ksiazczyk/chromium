@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC DLC installer unit tests
+// summary: Unit tests for ArcDlcInstaller covering DLC installation, installation state checks, and notifications with fake dlcservice and Upstart clients.
+// ---
+
 #include "chromeos/ash/experiences/arc/dlc_installer/arc_dlc_installer.h"
 
 #include <algorithm>

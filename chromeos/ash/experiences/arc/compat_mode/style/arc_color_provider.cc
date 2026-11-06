@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC color provider implementation
+// summary: Implements IsDarkModeEnabled for ARC compat mode by querying the ash dark/light mode controller, returning false when the controller is unavailable such as in unit tests.
+// ---
+
 #include "chromeos/ash/experiences/arc/compat_mode/style/arc_color_provider.h"
 
 #include "ash/style/dark_light_mode_controller_impl.h"

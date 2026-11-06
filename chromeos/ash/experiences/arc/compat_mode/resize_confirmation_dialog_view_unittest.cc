@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Resize confirmation dialog view unit tests
+// summary: Tests accept, cancel and close paths of the resize confirmation dialog, checking callback results with and without the do-not-ask checkbox.
+// ---
+
 #include "chromeos/ash/experiences/arc/compat_mode/resize_confirmation_dialog_view.h"
 
 #include <memory>

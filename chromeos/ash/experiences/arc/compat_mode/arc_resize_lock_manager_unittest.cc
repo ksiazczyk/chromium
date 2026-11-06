@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ArcResizeLockManager
+// summary: Tests resize lock state updates, compat mode button updates and splash screen dialog behavior using fake windows and test doubles.
+// ---
+
 #include "chromeos/ash/experiences/arc/compat_mode/arc_resize_lock_manager.h"
 
 #include <memory>

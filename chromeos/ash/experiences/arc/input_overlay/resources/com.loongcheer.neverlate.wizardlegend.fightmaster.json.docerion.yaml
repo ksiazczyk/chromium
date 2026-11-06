@@ -1,0 +1,4 @@
+# Docerion header of com.loongcheer.neverlate.wizardlegend.fightmaster.json.
+type: config
+title: Wizard Legend input overlay mapping
+summary: Defines keyboard input mappings for the Wizard Legend game, mapping the WASD keys to a virtual joystick for movement in the ARC input overlay.

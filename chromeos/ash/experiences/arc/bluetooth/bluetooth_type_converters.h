@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC bluetooth type converters declarations
+// summary: Declares TypeConverter specializations for Bluetooth addresses and SDP attributes and defines SDP attribute IDs and protocol UUID constants.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_BLUETOOTH_BLUETOOTH_TYPE_CONVERTERS_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_BLUETOOTH_BLUETOOTH_TYPE_CONVERTERS_H_
 

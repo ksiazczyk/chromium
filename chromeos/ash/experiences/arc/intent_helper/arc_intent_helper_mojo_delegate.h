@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcIntentHelperMojoDelegate interface
+// summary: Declares the API and structs for using the mojo connection to ARC, converting mojom intent types into general structs for intent handling.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_INTENT_HELPER_ARC_INTENT_HELPER_MOJO_DELEGATE_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_INTENT_HELPER_ARC_INTENT_HELPER_MOJO_DELEGATE_H_
 

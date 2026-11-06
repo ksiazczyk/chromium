@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC resize lock manager class declaration
+// summary: Declares ArcResizeLockManager, a keyed service observing aura windows to manage the ARC resize lock feature and its compat mode button controller.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_COMPAT_MODE_ARC_RESIZE_LOCK_MANAGER_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_COMPAT_MODE_ARC_RESIZE_LOCK_MANAGER_H_
 

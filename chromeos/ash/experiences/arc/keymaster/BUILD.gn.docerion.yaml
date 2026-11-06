@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Keymaster static library build definition
+summary: GN build file defining the keymaster static library, listing its bridge sources and dependencies on base, DBus, Mojo and keyed service components.

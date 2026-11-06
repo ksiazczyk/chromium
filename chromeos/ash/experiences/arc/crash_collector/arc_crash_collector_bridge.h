@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcCrashCollectorBridge class header
+// summary: Declares the ArcCrashCollectorBridge keyed service that relays non-native ARC crash dumps to the Chrome OS crash reporter via Mojo.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_CRASH_COLLECTOR_ARC_CRASH_COLLECTOR_BRIDGE_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_CRASH_COLLECTOR_ARC_CRASH_COLLECTOR_BRIDGE_H_
 

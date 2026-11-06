@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ArcMemoryBridge unit tests
+// summary: Unit tests for ArcMemoryBridge covering construction, DropCaches success and failure paths, and Reclaim results using a fake memory instance.
+// ---
+
 #include "chromeos/ash/experiences/arc/memory/arc_memory_bridge.h"
 
 #include <optional>

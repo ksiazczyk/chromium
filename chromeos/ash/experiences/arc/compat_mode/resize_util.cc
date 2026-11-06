@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Resize utility implementation
+// summary: Implements helpers that resize ARC app windows to phone or tablet sizes, enable resizing with confirmation and compute fitting sizes in the work area.
+// ---
+
 #include "chromeos/ash/experiences/arc/compat_mode/resize_util.h"
 
 #include <memory>

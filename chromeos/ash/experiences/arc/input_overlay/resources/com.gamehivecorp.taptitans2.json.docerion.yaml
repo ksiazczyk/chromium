@@ -1,0 +1,4 @@
+# Docerion header of com.gamehivecorp.taptitans2.json.
+type: config
+title: Input overlay config for Tap Titans 2
+summary: Maps the Space key to the attack tap control in Tap Titans 2.

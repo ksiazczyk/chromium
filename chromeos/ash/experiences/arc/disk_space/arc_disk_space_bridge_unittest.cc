@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ARC disk space bridge unit tests
+// summary: Unit tests for ArcDiskSpaceBridge covering quota support checks and per-UID, GID and project ID free space queries using fake D-Bus clients.
+// ---
+
 #include "chromeos/ash/experiences/arc/disk_space/arc_disk_space_bridge.h"
 
 #include <vector>

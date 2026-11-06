@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcNotificationContentView implementation
+// summary: Implements the view that hosts an ARC notification surface, handling control buttons, snapshots, slide behavior and accessibility.
+// ---
+
 #include "chromeos/ash/experiences/arc/message_center/arc_notification_content_view.h"
 
 #include <memory>

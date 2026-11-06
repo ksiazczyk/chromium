@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PSI memory pressure parser implementation
+// summary: Parses Linux PSI memory pressure data into some and full metric values for the configured collection period and logs parse status.
+// ---
+
 #include "chromeos/ash/experiences/arc/metrics/psi_memory_parser.h"
 
 #include <cinttypes>

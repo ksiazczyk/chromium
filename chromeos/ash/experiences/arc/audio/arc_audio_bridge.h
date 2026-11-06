@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcAudioBridge class header
+// summary: Declares the ArcAudioBridge keyed service that hosts the ARC audio mojom interface and observes CrasAudioHandler events.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_AUDIO_ARC_AUDIO_BRIDGE_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_AUDIO_ARC_AUDIO_BRIDGE_H_
 

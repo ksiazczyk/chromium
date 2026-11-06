@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for the ARC KeyMint bridge
+summary: Defines the keymint static library and its unit test source set, listing their sources and build dependencies.

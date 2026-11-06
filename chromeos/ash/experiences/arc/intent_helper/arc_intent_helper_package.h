@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC intent helper package name constant
+// summary: Defines the org.chromium.arc.intent_helper package name constant used by ARC to send URLs to Chrome.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_INTENT_HELPER_ARC_INTENT_HELPER_PACKAGE_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_INTENT_HELPER_ARC_INTENT_HELPER_PACKAGE_H_
 

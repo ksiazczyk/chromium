@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Resize confirmation dialog view header
+// summary: Declares ResizeConfirmationDialogView and its callback for reporting user confirmation and the do-not-ask-again choice when enabling resizing.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_COMPAT_MODE_RESIZE_CONFIRMATION_DIALOG_VIEW_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_COMPAT_MODE_RESIZE_CONFIRMATION_DIALOG_VIEW_H_
 

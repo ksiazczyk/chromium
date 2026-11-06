@@ -1,0 +1,4 @@
+# Docerion header of com.nama.stackball.json.
+type: config
+title: Stack Ball input overlay mapping
+summary: Defines a keyboard mapping for Stack Ball, binding the Space key to a tap action positioned on the game's move control.

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the arc bitmap directory
+summary: Defines include rules allowing this directory to include headers from third_party/skia.

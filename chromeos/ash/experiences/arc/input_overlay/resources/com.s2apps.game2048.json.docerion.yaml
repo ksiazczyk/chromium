@@ -1,0 +1,4 @@
+# Docerion header of com.s2apps.game2048.json.
+type: config
+title: 2048 (s2apps) input overlay mapping
+summary: Defines a keyboard mapping for the s2apps 2048 game, mapping the WASD keys to a virtual joystick for moving tiles.

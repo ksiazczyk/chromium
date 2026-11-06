@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ArcSplashScreenDialogView
+// summary: Tests the splash screen dialog's close button, escape key handling and anchor highlight behavior.
+// ---
+
 #include "chromeos/ash/experiences/arc/compat_mode/arc_splash_screen_dialog_view.h"
 
 #include <memory>

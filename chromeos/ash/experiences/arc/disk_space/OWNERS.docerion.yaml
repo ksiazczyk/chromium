@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: ARC disk space directory owners
+summary: Lists niwa@chromium.org as the owner of the ARC disk_space directory.

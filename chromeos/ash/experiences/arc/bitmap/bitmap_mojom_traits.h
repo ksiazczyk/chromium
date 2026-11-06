@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Arc bitmap Mojom traits header
+// summary: Declares mojo StructTraits mapping SkBitmap to ArcBitmap Mojom messages, exposing pixel data, width and height.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_BITMAP_BITMAP_MOJOM_TRAITS_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_BITMAP_BITMAP_MOJOM_TRAITS_H_
 

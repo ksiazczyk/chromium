@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for ARC message center
+summary: Defines the message_center static library plus test_support and unit_tests targets, listing sources and dependencies for the ARC notification code.

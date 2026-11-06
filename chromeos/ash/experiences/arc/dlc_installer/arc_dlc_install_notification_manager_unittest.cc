@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC DLC install notification manager unit tests
+// summary: Unit tests verifying that ARC DLC install notifications show the correct title, message, and ID using a fake message center.
+// ---
+
 #include "chromeos/ash/experiences/arc/dlc_installer/arc_dlc_install_notification_manager.h"
 
 #include <memory>

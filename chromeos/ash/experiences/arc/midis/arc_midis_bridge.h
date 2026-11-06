@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcMidisBridge class declaration
+// summary: Declares the ArcMidisBridge KeyedService and MidisHost Mojo interface used to connect ARC clients to the MIDI service.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_MIDIS_ARC_MIDIS_BRIDGE_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_MIDIS_ARC_MIDIS_BRIDGE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcIntentHelperBridge class header
+// summary: Declares the KeyedService that receives intents from ARC, with delegates for URL opening and camera control, plus observer and icon cache interfaces.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_INTENT_HELPER_ARC_INTENT_HELPER_BRIDGE_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_INTENT_HELPER_ARC_INTENT_HELPER_BRIDGE_H_
 

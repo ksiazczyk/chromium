@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcKeyMintBridge implementation
+// summary: Implements the browser-context keyed service that bootstraps a Mojo connection to arc-keymintd and forwards placeholder key updates and the ARCVM serial number.
+// ---
+
 #include "chromeos/ash/experiences/arc/keymint/arc_keymint_bridge.h"
 
 #include "base/no_destructor.h"

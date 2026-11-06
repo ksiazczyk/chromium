@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ARC camera bridge unit tests
+// summary: Unit tests for ArcCameraBridge that verify the bridge can be constructed and destructed within a test browser context.
+// ---
+
 #include "chromeos/ash/experiences/arc/camera/arc_camera_bridge.h"
 
 #include "base/memory/raw_ptr.h"

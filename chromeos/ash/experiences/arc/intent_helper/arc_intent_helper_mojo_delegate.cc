@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcIntentHelperMojoDelegate implementation
+// summary: Defines constructors for the IntentInfo, TextSelectionAction, and IntentHandlerInfo structs used by the ARC intent helper mojo delegate.
+// ---
+
 #include "chromeos/ash/experiences/arc/intent_helper/arc_intent_helper_mojo_delegate.h"
 
 namespace arc {

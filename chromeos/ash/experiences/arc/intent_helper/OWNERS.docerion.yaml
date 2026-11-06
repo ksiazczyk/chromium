@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for ARC intent_helper
+summary: OWNERS file listing the directory owner and requiring IPC and ChromeOS security owners for mojom traits files.

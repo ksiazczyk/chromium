@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS rules requiring security review for mojom traits
+summary: Assigns IPC and ChromeOS security owners, with no parent inheritance, to all *_mojom_traits* files in this directory.

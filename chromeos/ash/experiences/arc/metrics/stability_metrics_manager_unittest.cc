@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Stability metrics manager unit tests
+// summary: Unit tests verifying persistence, reset and UMA recording of ARC enabled state and native bridge type stability metrics.
+// ---
+
 #include "chromeos/ash/experiences/arc/metrics/stability_metrics_manager.h"
 
 #include "base/test/metrics/histogram_tester.h"

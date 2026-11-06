@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcKeyMintBridge class declaration
+// summary: Declares the KeyMintHost keyed service that lazily bootstraps a Mojo connection with the arc-keymintd daemon and forwards the KeyMintServer proxy to ARC.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_KEYMINT_ARC_KEYMINT_BRIDGE_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_KEYMINT_ARC_KEYMINT_BRIDGE_H_
 

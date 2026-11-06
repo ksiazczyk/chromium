@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio device type mojom traits implementation
+// summary: Implements conversions between ash::AudioDeviceType and arc::mojom::AudioDeviceType enums for mojo serialization.
+// ---
+
 #include "chromeos/ash/experiences/arc/audio/audio_mojom_traits.h"
 
 #include "base/notreached.h"

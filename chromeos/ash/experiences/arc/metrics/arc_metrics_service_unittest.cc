@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ARC metrics service unit tests
+// summary: Unit tests for ArcMetricsService covering boot progress events, kill counts, and histogram reporting with fake DBus clients.
+// ---
+
 #include "chromeos/ash/experiences/arc/metrics/arc_metrics_service.h"
 
 #include <algorithm>

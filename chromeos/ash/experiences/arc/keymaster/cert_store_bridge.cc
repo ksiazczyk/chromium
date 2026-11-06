@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cert store bridge implementation
+// summary: Implements CertStoreBridge, which binds the CertStoreInstance Mojo proxy from an outgoing invitation and updates placeholder keys in arc-keymasterd.
+// ---
+
 #include "chromeos/ash/experiences/arc/keymaster/cert_store_bridge.h"
 
 #include <cstdint>

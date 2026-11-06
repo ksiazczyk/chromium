@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the ARC keyboard folder
+summary: Grants the input method surface manager unit test permission to include the viz shared image format header.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcNotificationSurfaceImpl implementation
+// summary: Implements ArcNotificationSurfaceImpl, wrapping an exo notification surface in an aura window with a custom delegate for cursor, key events, and hit testing.
+// ---
+
 #include "chromeos/ash/experiences/arc/message_center/arc_notification_surface_impl.h"
 
 #include "base/check_op.h"

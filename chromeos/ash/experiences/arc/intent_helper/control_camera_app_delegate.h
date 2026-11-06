@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ControlCameraAppDelegate interface
+// summary: Declares a delegate interface to launch and close the camera app from Android camera intents and check whether the Chrome camera app is enabled.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_INTENT_HELPER_CONTROL_CAMERA_APP_DELEGATE_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_INTENT_HELPER_CONTROL_CAMERA_APP_DELEGATE_H_
 

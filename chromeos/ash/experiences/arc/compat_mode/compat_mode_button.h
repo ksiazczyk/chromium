@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Compat mode button class
+// summary: Declares the caption button shown in ARC window frames that forwards presses to a compat mode controller.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_COMPAT_MODE_COMPAT_MODE_BUTTON_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_COMPAT_MODE_COMPAT_MODE_BUTTON_H_
 

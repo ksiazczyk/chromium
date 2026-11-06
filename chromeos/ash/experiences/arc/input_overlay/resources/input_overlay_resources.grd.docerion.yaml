@@ -1,0 +1,4 @@
+# Docerion header of input_overlay_resources.grd.
+type: config
+title: Input overlay grit resource list
+summary: Grit resource definition that bundles the per-game input overlay JSON files into the input_overlay_resources.pak package.

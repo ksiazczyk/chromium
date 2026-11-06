@@ -1,0 +1,4 @@
+# Docerion header of com.match3blaster.DropStackBallFall.json.
+type: config
+title: DropStackBallFall input overlay mapping
+summary: Defines a keyboard mapping for Drop Stack Ball Fall, binding the Space key to a tap action positioned on the game's move control.

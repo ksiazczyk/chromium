@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for custom_tab
+summary: Allows the directory to include web_modal headers for modal dialog hosting, such as the dialog host, manager, and delegate interfaces.

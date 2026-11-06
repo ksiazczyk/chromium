@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcNotificationItemImpl implementation
+// summary: Implements ArcNotificationItemImpl, converting Android notification data into Chrome message center notifications and handling user actions.
+// ---
+
 #include "chromeos/ash/experiences/arc/message_center/arc_notification_item_impl.h"
 
 #include <utility>

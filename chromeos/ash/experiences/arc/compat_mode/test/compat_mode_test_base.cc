@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CompatModeTestBase implementation
+// summary: Implements the CompatModeTestBase fixture that sets up a test screen, a fake resize lock pref delegate, and helpers for creating widgets and clicking views in ARC compat mode tests.
+// ---
+
 #include "chromeos/ash/experiences/arc/compat_mode/test/compat_mode_test_base.h"
 
 #include <algorithm>

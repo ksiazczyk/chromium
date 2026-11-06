@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for ARC message center
+summary: Points to the parent ARC OWNERS file and lists toshikikikuchi@chromium.org as an owner of this directory.

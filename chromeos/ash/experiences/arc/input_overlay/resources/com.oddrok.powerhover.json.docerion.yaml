@@ -1,0 +1,4 @@
+# Docerion header of com.oddrok.powerhover.json.
+type: config
+title: PowerHover input overlay mapping
+summary: Defines keyboard mappings for PowerHover, binding KeyA and KeyD to left and right tap actions on the game screen.

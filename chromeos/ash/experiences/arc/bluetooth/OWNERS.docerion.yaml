@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for ARC bluetooth
+summary: Requires ipc and chromeos security owners to review changes to bluetooth type converter and mojom trait files.

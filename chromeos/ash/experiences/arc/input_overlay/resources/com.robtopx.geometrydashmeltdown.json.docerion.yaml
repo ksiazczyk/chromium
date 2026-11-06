@@ -1,0 +1,4 @@
+# Docerion header of com.robtopx.geometrydashmeltdown.json.
+type: config
+title: Geometry Dash Meltdown input overlay mapping
+summary: Defines keyboard mappings for Geometry Dash Meltdown, binding Space to jump and KeyG and KeyH to add and remove flag actions.

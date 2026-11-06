@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock ArcNotificationSurface implementation
+// summary: Implements a stub notification surface with dummy aura windows and attach state tracking for tests.
+// ---
+
 #include "chromeos/ash/experiences/arc/message_center/mock_arc_notification_surface.h"
 
 #include "ui/aura/window.h"

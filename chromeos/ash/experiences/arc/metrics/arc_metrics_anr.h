@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC ANR metrics header
+// summary: Declares ArcMetricsAnr, which handles ANR events and reports their rates as UMA metrics.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_METRICS_ARC_METRICS_ANR_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_METRICS_ARC_METRICS_ANR_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of com.habby.archero.json.
+type: config
+title: Input overlay config for Archero
+summary: Defines a WASD virtual joystick with a move distance setting for Archero.

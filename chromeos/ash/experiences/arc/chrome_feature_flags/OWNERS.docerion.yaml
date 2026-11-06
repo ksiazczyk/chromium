@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the chrome_feature_flags directory
+summary: Lists the code owner responsible for the ARC Chrome feature flags directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC DLC install notification manager header
+// summary: Declares the notification type enum, notification ID constants, and Show() function for ARC DLC installation notifications.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_DLC_INSTALLER_ARC_DLC_INSTALL_NOTIFICATION_MANAGER_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_DLC_INSTALLER_ARC_DLC_INSTALL_NOTIFICATION_MANAGER_H_
 

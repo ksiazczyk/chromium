@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ArcCrashCollectorBridge unit tests
+// summary: Unit tests for the crash collector bridge covering construction, build property validation, and crash dump calls with valid and invalid inputs.
+// ---
+
 #include "chromeos/ash/experiences/arc/crash_collector/arc_crash_collector_bridge.h"
 
 #include <unistd.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcIconCacheDelegate interface
+// summary: Declares the icon cache delegate API for retrieving activity icons and the provider that supplies its implementation.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_INTENT_HELPER_ARC_ICON_CACHE_DELEGATE_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_INTENT_HELPER_ARC_ICON_CACHE_DELEGATE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for ARC file system mojom change type traits
+// summary: Declares the mojo EnumTraits specialization between storage::WatcherManager::ChangeType and arc::mojom::ChangeType.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_FILE_SYSTEM_FILE_SYSTEM_MOJOM_TRAITS_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_FILE_SYSTEM_FILE_SYSTEM_MOJOM_TRAITS_H_
 

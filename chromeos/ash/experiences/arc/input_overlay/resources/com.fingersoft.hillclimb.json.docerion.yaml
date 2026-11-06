@@ -1,0 +1,4 @@
+# Docerion header of com.fingersoft.hillclimb.json.
+type: config
+title: Input overlay config for Hill Climb Racing
+summary: Maps keyboard keys to Hill Climb Racing touch controls for brake, gas and pause.

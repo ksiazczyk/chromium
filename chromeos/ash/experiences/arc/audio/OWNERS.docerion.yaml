@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for ARC audio
+summary: Lists code owners and routes reviews of mojom traits files to the IPC and ChromeOS security owners.

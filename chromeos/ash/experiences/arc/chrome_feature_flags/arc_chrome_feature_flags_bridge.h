@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC Chrome feature flags bridge class declaration
+// summary: Declares the ArcChromeFeatureFlagsBridge keyed service that observes the ARC connection and sends Chrome feature flag states to ARC.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_CHROME_FEATURE_FLAGS_ARC_CHROME_FEATURE_FLAGS_BRIDGE_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_CHROME_FEATURE_FLAGS_ARC_CHROME_FEATURE_FLAGS_BRIDGE_H_
 

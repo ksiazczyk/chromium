@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcAudioBridge implementation
+// summary: Implements the ARC audio bridge keyed service that forwards volume, mute, audio node and spatial audio state between ChromeOS CRAS and the ARC container.
+// ---
+
 #include "chromeos/ash/experiences/arc/audio/arc_audio_bridge.h"
 
 #include <utility>
