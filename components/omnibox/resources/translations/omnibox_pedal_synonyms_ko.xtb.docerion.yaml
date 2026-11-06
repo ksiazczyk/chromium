@@ -1,0 +1,4 @@
+# Docerion header of omnibox_pedal_synonyms_ko.xtb.
+type: data
+title: Omnibox pedal synonyms in Korean
+summary: Korean translation bundle with synonym phrases that help the Chrome omnibox match user queries to pedal actions such as finding a lost phone or changing fonts.

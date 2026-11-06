@@ -1,0 +1,4 @@
+# Docerion header of omnibox_pedal_synonyms_ta.xtb.
+type: data
+title: Tamil omnibox pedal synonyms translation bundle
+summary: XML translation bundle with Tamil synonym phrases for Chrome omnibox pedals, mapping localized queries like account control, theme management and page translation to actions.

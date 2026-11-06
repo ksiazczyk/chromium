@@ -1,0 +1,4 @@
+# Docerion header of omnibox_pedal_synonyms_ar.xtb.
+type: data
+title: Arabic omnibox pedal synonyms translation bundle
+summary: XML translation bundle with Arabic synonym phrases for Chrome omnibox pedal actions such as managing the Google account, creating notes, and cookie settings.

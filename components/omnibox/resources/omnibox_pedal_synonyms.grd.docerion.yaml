@@ -1,0 +1,4 @@
+# Docerion header of omnibox_pedal_synonyms.grd.
+type: data
+title: Omnibox pedal synonyms translations
+summary: Grit resource file containing omnibox pedal synonym strings localized for many languages, with outputs defined as per-locale pak packages.

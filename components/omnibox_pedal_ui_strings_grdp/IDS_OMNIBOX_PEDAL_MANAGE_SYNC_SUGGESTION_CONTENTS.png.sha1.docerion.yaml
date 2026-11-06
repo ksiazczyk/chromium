@@ -1,0 +1,4 @@
+# Docerion header of IDS_OMNIBOX_PEDAL_MANAGE_SYNC_SUGGESTION_CONTENTS.png.sha1.
+type: data
+title: Manage sync suggestion contents image SHA-1 checksum
+summary: Holds the SHA-1 checksum of the PNG image used for the manage sync omnibox pedal suggestion contents in Chrome's UI resources.

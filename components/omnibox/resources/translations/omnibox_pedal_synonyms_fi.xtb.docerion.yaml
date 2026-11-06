@@ -1,0 +1,4 @@
+# Docerion header of omnibox_pedal_synonyms_fi.xtb.
+type: data
+title: Finnish omnibox pedal synonyms
+summary: Finnish translation bundle providing synonym phrases that trigger Chrome omnibox pedal actions.

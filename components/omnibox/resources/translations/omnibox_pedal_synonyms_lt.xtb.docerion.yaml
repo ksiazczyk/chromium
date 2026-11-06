@@ -1,0 +1,4 @@
+# Docerion header of omnibox_pedal_synonyms_lt.xtb.
+type: data
+title: Omnibox pedal synonyms in Lithuanian
+summary: Lithuanian translation bundle with synonym phrases that help the Chrome omnibox match user queries to pedal actions such as managing sync or creating Google Sheets.

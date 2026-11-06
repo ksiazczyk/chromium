@@ -1,0 +1,4 @@
+# Docerion header of omnibox_pedal_synonyms_sr.xtb.
+type: data
+title: Serbian omnibox pedal synonyms translation bundle
+summary: XML translation bundle with Serbian Cyrillic synonym phrases for Chrome omnibox pedals, covering localized queries for settings, sharing, translation and other browser actions.

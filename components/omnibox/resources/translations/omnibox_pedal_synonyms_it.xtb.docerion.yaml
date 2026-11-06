@@ -1,0 +1,4 @@
+# Docerion header of omnibox_pedal_synonyms_it.xtb.
+type: data
+title: Omnibox pedal synonyms in Italian
+summary: Italian translation bundle with synonym phrases that help the Chrome omnibox match user queries to pedal actions such as managing cookies or translating a page.

@@ -1,0 +1,4 @@
+# Docerion header of omnibox_pedal_synonyms_bg.xtb.
+type: data
+title: Bulgarian omnibox pedal synonyms translation bundle
+summary: XML translation bundle with Bulgarian synonym phrases for Chrome omnibox pedal actions such as account management, page sharing, and incognito mode.

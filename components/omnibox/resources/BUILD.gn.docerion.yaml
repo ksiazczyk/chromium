@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for omnibox pedal synonyms
+summary: Defines the grit_strings target that compiles omnibox pedal synonym translations for the supported Chrome locales, with platform-specific locale adjustments.

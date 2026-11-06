@@ -1,0 +1,4 @@
+# Docerion header of omnibox_pedal_synonyms_sl.xtb.
+type: data
+title: Slovenian omnibox pedal synonyms translation bundle
+summary: XML translation bundle with Slovenian synonym phrases for Chrome omnibox pedals, mapping localized queries like account management or incognito actions to browser commands.

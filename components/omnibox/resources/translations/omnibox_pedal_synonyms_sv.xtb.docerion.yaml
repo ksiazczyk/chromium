@@ -1,0 +1,4 @@
+# Docerion header of omnibox_pedal_synonyms_sv.xtb.
+type: data
+title: Swedish omnibox pedal synonyms translation bundle
+summary: XML translation bundle with Swedish synonym phrases for Chrome omnibox pedals, mapping localized user queries such as default browser setup or document creation to actions.

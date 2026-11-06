@@ -1,0 +1,4 @@
+# Docerion header of omnibox_pedal_synonyms_tr.xtb.
+type: data
+title: Turkish omnibox pedal synonyms translation bundle
+summary: XML translation bundle with Turkish synonym phrases for Chrome omnibox pedals, covering localized queries for updates, payments, search engines and other browser actions.
