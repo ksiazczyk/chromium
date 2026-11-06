@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: memdump process memory dumper
+// summary: C++ tool that parses /proc/<pid>/maps and pagemap entries to report memory mappings, resident pages and shared page counts for Android processes.
+// ---
+
 #include <fcntl.h>
 #include <signal.h>
 #include <stddef.h>

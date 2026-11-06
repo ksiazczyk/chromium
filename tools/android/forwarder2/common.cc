@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Common helper implementations for forwarder2
+// summary: Implements shared helpers such as a Chromium-logging perror wrapper and safe file descriptor closing for forwarder2.
+// ---
+
 #include "tools/android/forwarder2/common.h"
 
 #include <errno.h>

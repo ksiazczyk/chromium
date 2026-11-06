@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Async command-line execution helpers
+# summary: Provides asynchronous subprocess execution with detailed error reporting and an adb shell helper used by the other colabutils modules.
+# ---
+
 import asyncio
 import dataclasses
 import sys

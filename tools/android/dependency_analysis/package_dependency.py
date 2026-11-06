@@ -1,6 +1,13 @@
 # Copyright 2020 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Java package dependency graph implementation
+# summary: Implements a package-level dependency graph by collapsing a class-level dependency graph into packages and their edges.
+# ---
+
 """Implementation of the graph module for a [Java package] dependency graph."""
 
 import class_dependency

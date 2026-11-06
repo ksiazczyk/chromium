@@ -1,6 +1,13 @@
 # Copyright 2026 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Memory usage sum tree viewer and differ
+# summary: Builds memory usage trees from Perfetto heap dumps, supporting demangling, aggregation, JSON round-trips, diffs and notebook display.
+# ---
+
 """Utilities for viewing and diffing Sum Trees of memory usage."""
 
 import copy

@@ -1,0 +1,4 @@
+# Docerion header of sample_config.json.
+type: config
+title: Sample benchmark configuration
+summary: Example JSON configuration showing the benchmark parameters accepted by run_benchmark.py.

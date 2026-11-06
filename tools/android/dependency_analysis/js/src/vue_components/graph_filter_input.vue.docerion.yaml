@@ -1,0 +1,4 @@
+# Docerion header of graph_filter_input.vue.
+type: source
+title: Graph filter input component
+summary: Vue component with an autocomplete search box for adding nodes to the graph's node filter, ranking matches by short name.

@@ -4,6 +4,12 @@
 
 // Common helper functions/classes used both in the host and device forwarder.
 
+// ---docerion
+// type: source
+// title: Shared helpers for host and device forwarder
+// summary: Declares shared helpers for both forwarders, including errno-preserving macros, signal-safe logging and a fixed-size string builder for signal handlers.
+// ---
+
 #ifndef TOOLS_ANDROID_FORWARDER2_COMMON_H_
 #define TOOLS_ANDROID_FORWARDER2_COMMON_H_
 

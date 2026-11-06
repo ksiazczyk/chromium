@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: Per-file OWNERS entry assigning skym@chromium.org as owner of NoResourcesGetColor.java in the errorprone plugin directory.

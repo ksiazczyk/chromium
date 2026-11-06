@@ -8,6 +8,12 @@
 // for the script. We expect library to not crash and return the 55 as a
 // result.
 
+// ---docerion
+// type: test
+// title: Test library for the compression script
+// summary: Test library source that sums a large array so tests can verify the library behaves correctly after compression.
+// ---
+
 #include <numeric>
 #include <vector>
 

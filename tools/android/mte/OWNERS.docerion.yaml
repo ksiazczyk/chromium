@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS listing for the mte tools directory
+summary: Lists keishi@chromium.org as the owner responsible for changes in the tools/android/mte directory.

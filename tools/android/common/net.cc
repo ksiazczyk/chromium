@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Socket helper implementations
+// summary: Implements DisableNagle and DeferAccept TCP socket option helpers plus DumpBinary, which renders a binary buffer as a readable hex string.
+// ---
+
 #include "tools/android/common/net.h"
 
 #include <netinet/in.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Target graph page Vue entry point
+// summary: Initializes the Vue target graph page, loading graph data and mounting the target graph component with Vue Material plugins.
+// ---
+
 import TargetGraphPage from './vue_components/target_graph_page.vue';
 import {loadGraph} from './load_graph.js';
 

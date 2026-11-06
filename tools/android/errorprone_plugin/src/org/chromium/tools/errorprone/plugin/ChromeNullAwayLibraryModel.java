@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeNullAwayLibraryModel NullAway library model
+// summary: NullAway library model declaring nullable and non-null parameters and returns for Android framework APIs such as SharedPreferences and SparseArray.
+// ---
+
 package org.chromium.tools.errorprone.plugin;
 
 import static com.uber.nullaway.LibraryModels.MethodRef.methodRef;

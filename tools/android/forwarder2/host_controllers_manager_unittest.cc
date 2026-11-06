@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HostControllersManager unit tests
+// summary: Unit tests verifying that the adb binary is launched without leaked file descriptors and that adb arguments are passed in the correct order.
+// ---
+
 #include "tools/android/forwarder2/host_controllers_manager.h"
 
 #include <cstdio>

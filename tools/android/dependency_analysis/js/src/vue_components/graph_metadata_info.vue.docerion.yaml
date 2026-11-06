@@ -1,0 +1,4 @@
+# Docerion header of graph_metadata_info.vue.
+type: source
+title: Graph metadata info component
+summary: Vue component showing an info button that opens a modal with the graph's commit hash, time, and commit position metadata.

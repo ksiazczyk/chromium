@@ -1,0 +1,4 @@
+# Docerion header of run_server_test.pydeps.
+type: config
+title: Test Python dependency list
+summary: Generated list of Python dependencies for the server unit tests, consumed by the build.

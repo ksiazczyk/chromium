@@ -1,0 +1,4 @@
+# Docerion header of memory_usage_table.html.j2.
+type: source
+title: Jinja2 template for the memory usage table
+summary: Jinja2 HTML template that renders an interactive, expandable table of memory usage names, values and deltas.

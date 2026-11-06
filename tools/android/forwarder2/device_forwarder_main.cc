@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device forwarder main entry point
+// summary: Entry point of the device_forwarder program, which runs as a daemon and starts the DeviceController to handle forwarding commands from the host over ADB.
+// ---
+
 #include <signal.h>
 #include <stdlib.h>
 

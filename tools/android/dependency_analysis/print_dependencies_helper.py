@@ -2,6 +2,13 @@
 # Copyright 2020 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Helpers for matching class and package name inputs
+# summary: Parses user-supplied class and package names into valid, fully qualified dependency graph node keys for the printing tools.
+# ---
+
 """Various helpers for printing dependencies."""
 
 from typing import List

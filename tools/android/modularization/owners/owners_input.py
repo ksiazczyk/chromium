@@ -3,6 +3,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Android folder discovery for the owners tool
+# summary: Walks the Chromium tree to find Android directories, applying ignored-folder exclusions and pattern-based feature names.
+# ---
+
 import os
 import re
 from typing import List

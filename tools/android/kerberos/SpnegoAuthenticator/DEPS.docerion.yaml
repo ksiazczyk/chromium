@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Dependency rules for the SpnegoAuthenticator directory
+summary: Grants this directory include access to net/android/java so the SPNEGO authenticator tool can use Chromium's network Java code.

@@ -1,0 +1,4 @@
+# Docerion header of graph_selected_node_details.vue.
+type: source
+title: Graph selected node details component
+summary: Vue component displaying the selected node's display name and full ID with buttons to add or uncheck it in the node filter.

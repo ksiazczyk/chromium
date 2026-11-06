@@ -1,0 +1,4 @@
+# Docerion header of .classpath.
+type: config
+title: Eclipse classpath for Chrome Android development
+summary: Eclipse classpath configuration listing Java source roots for Chrome Android development, which can also be processed as a Jinja2 template to add downstream entries.

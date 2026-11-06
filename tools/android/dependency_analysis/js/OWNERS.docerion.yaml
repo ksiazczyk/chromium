@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the dependency analysis viewer
+summary: Lists the Chromium accounts responsible for reviewing changes to the JS visualization directory.

@@ -1,0 +1,4 @@
+# Docerion header of customtabs_benchmark.py.
+type: script
+title: Custom Tabs benchmark runner
+summary: Runs Custom Tabs test scenarios on a rooted Android device and emits per-run timing results as CSV lines.

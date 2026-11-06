@@ -1,0 +1,4 @@
+# Docerion header of java_group_unittest.py.
+type: test
+title: Unit tests for JavaGroup
+summary: Unit tests for the JavaGroup class, covering initialization, adding classes and class dependency edges.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for devil_util
+summary: Defines the devil_util executable, its distribution and host symlink targets, and the source and dependency list for the Android tool.

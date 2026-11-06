@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Package graph page Vue entry point
+// summary: Initializes the Vue package graph page, loading graph data and mounting the package graph component with Vue Material plugins.
+// ---
+
 import PackageGraphPage from './vue_components/package_graph_page.vue';
 import {loadGraph} from './load_graph.js';
 

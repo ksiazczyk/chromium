@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build configuration for the MTE device setup wrapper
+summary: Defines a generate_wrapper target that packages with_mte.py and adb into a run_with_mte wrapper script for running commands with MTE on a device.

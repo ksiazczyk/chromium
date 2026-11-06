@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: config
+// title: Webpack build configuration
+// summary: Configures entry points, loaders, dev server settings, HTML outputs and plugins for bundling the visualization pages.
+// ---
+
 const path = require('path');
 
 const CopyPlugin = require('copy-webpack-plugin');

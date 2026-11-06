@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HostControllersManager class header
+// summary: Declares HostControllersManager, which manages one HostController instance per forwarded connection across multiple devices and handles map, unmap and unmap-all commands.
+// ---
+
 #ifndef TOOLS_ANDROID_FORWARDER2_HOST_CONTROLLERS_MANAGER_H_
 #define TOOLS_ANDROID_FORWARDER2_HOST_CONTROLLERS_MANAGER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of elf_headers_test.py.
+type: test
+title: ELF headers parsing unit tests
+summary: Unit tests validating ELF header, program header and section header parsing against a test library.

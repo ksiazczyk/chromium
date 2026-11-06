@@ -1,0 +1,4 @@
+# Docerion header of graph_filter_items.vue.
+type: source
+title: Graph filter items component
+summary: Vue component listing the current node filter entries with buttons to check all, uncheck all, delist unchecked, and remove individual nodes.

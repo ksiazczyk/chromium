@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Custom Vue event name constants
+// summary: Defines the names of custom events emitted by the page's Vue components, such as node clicks and filter submissions.
+// ---
+
 // A collection of names for the custom events to be emitted by the page's
 // components (in vue_components/).
 const CUSTOM_EVENTS = {

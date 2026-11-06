@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Unit tests for Custom Tabs benchmark result parsing
+# summary: Unit tests covering parsing of benchmark result lines, including partial results with missing timings.
+# ---
+
 import unittest
 
 import customtabs_benchmark

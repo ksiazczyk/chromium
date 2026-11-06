@@ -1,6 +1,13 @@
 # Copyright 2020 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Graph serialization and deserialization helpers
+# summary: Converts class, package and target dependency graphs to and from JSON files, including build metadata such as commit hash and time.
+# ---
+
 """Helper module for the de/serialization of graphs to/from files."""
 
 import json

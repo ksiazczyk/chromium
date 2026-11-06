@@ -1,0 +1,4 @@
+# Docerion header of devil_util_test.py.
+type: test
+title: Devil util functional tests
+summary: Python unittest suite exercising the devil_util binary's hash, compress, archive, extract and pipe commands, including stdin/stdout archive handling and response file expansion.

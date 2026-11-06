@@ -1,0 +1,4 @@
+# Docerion header of pinning_config.json.
+type: config
+title: Pinning benchmark configuration
+summary: JSON parameters for the memory pinning benchmark, including the APK to pin, offsets and memory pressure settings.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PipeNotifier class header
+// summary: Declares PipeNotifier, a helper creating a Unix pipe so the main thread can notify other threads to exit via a selectable file descriptor.
+// ---
+
 #ifndef TOOLS_ANDROID_FORWARDER2_PIPE_NOTIFIER_H_
 #define TOOLS_ANDROID_FORWARDER2_PIPE_NOTIFIER_H_
 

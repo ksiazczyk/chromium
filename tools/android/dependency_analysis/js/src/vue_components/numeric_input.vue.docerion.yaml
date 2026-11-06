@@ -1,0 +1,4 @@
+# Docerion header of numeric_input.vue.
+type: source
+title: numeric_input.vue
+summary: Vue component providing a numeric input field with increment and decrement buttons that enforces a minimum value.

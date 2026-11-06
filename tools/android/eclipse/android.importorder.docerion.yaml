@@ -1,0 +1,4 @@
+# Docerion header of android.importorder.
+type: config
+title: Eclipse Java import order settings
+summary: Eclipse import order settings that rank Java package prefixes such as android, com, and org.chromium for organizing import statements.

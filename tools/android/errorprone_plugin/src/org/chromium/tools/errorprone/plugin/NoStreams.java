@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NoStreams – Error Prone check discouraging Java stream APIs
+// summary: Error Prone bug checker that warns on calls to methods of java.util.stream.Stream, recommending plain loops per the Chromium Java style guide.
+// ---
+
 package org.chromium.tools.errorprone.plugin;
 
 import static com.google.errorprone.matchers.Matchers.instanceMethod;

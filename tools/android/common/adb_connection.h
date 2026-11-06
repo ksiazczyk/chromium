@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ADB host socket connection header
+// summary: Declares ConnectAdbHostSocket, which creates a socket forwarded through ADB to a host address given as port and IP address.
+// ---
+
 #ifndef TOOLS_ANDROID_COMMON_ADB_CONNECTION_H_
 #define TOOLS_ANDROID_COMMON_ADB_CONNECTION_H_
 

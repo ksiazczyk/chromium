@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebView benchmark activity
+// summary: Basic Android activity that loads a URL in a WebView and logs navigation start and finish timings for benchmarking against Custom Tabs.
+// ---
+
 package org.chromium.customtabs.test;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

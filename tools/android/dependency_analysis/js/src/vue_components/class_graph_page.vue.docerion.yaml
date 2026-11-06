@@ -1,0 +1,4 @@
+# Docerion header of class_graph_page.vue.
+type: source
+title: Class graph page component
+summary: Vue page component for the class graph view, combining graph visualization with sidebar node filters, display settings, and node details.

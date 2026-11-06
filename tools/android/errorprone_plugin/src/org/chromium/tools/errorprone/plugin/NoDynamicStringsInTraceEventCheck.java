@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NoDynamicStringsInTraceEventCheck Error Prone check
+// summary: Error Prone bug checker that only allows string literals as TraceEvent names and rejects dynamic strings in tracing calls.
+// ---
+
 package org.chromium.tools.errorprone.plugin;
 
 import com.google.errorprone.BugPattern;

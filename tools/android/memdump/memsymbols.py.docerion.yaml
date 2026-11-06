@@ -1,0 +1,4 @@
+# Docerion header of memsymbols.py.
+type: script
+title: memsymbols resident symbol profiler
+summary: Python script that combines memdump -x output with nm symbol tables to list which symbols of a library were resident in memory at snapshot time.

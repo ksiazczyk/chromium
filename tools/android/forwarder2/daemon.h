@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Daemon class interface for forwarder2
+// summary: Declares the Daemon class that spawns, communicates with and kills a forwarder2 daemon via a Unix domain socket, with client and server delegates.
+// ---
+
 #ifndef TOOLS_ANDROID_FORWARDER2_DAEMON_H_
 #define TOOLS_ANDROID_FORWARDER2_DAEMON_H_
 

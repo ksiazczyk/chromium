@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ResidentService that allocates memory in native code
+// summary: Android foreground service that allocates a requested amount of memory via native code and shows a notification while running.
+// ---
+
 package org.chromium.memconsumer;
 
 import android.app.Notification;

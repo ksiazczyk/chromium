@@ -1,0 +1,4 @@
+# Docerion header of class_view.html.
+type: source
+title: Class view HTML page
+summary: HTML shell that provides the container element for the class graph Vue page.

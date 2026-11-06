@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArchiveReader implementation
+// summary: Implements streaming extraction of devil_util archives, parsing magic bytes, member paths and contents and writing files to disk.
+// ---
+
 #include "archive_reader.h"
 
 #include <filesystem>

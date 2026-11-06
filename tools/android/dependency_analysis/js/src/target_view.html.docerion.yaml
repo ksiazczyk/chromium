@@ -1,0 +1,4 @@
+# Docerion header of target_view.html.
+type: source
+title: Target graph page HTML shell
+summary: Minimal HTML page providing the mount point for the target graph visualization and a Roboto and Material Icons stylesheet link.

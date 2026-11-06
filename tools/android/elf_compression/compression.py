@@ -1,6 +1,13 @@
 # Copyright 2019 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Compression algorithms module
+# summary: Exposes the CompressData entry point used by the compression script; currently a placeholder that returns the data unchanged pending a real algorithm.
+# ---
+
 """This file contains compression algorithms for the library's data.
 
 The point of entry is CompressData method which is used by the main script

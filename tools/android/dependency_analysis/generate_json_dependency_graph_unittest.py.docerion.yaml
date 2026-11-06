@@ -1,0 +1,4 @@
+# Docerion header of generate_json_dependency_graph_unittest.py.
+type: test
+title: Unit tests for JSON dependency graph generation
+summary: Unit tests for the jdeps parsing and target-to-jar mapping helpers used to generate JSON dependency graphs.

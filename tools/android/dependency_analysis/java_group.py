@@ -1,6 +1,13 @@
 # Copyright 2022 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: JavaGroup node implementation
+# summary: Implements a graph node representing a group of Java classes, tracking member classes and the class edges behind group dependencies.
+# ---
+
 """Implementation for managing a group of JavaClass nodes."""
 
 import collections

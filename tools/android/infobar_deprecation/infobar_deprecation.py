@@ -2,6 +2,13 @@
 # Copyright 2021 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: script
+# title: Android infobar deprecation presubmit check
+# summary: Check script used by PRESUBMIT.py that warns when new Android infobar files or Android infobar identifiers are added, pointing to the Message UI migration.
+# ---
+
 """Script that is used by PRESUBMIT.py to check Android new infobar files.
 
 This file checks for the following:

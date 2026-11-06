@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromiumDoNotMockChecker Error Prone check
+// summary: Extends Error Prone's built-in DoNotMock check to forbid mocking Android framework classes like Activity and View that cannot carry @DoNotMock.
+// ---
+
 package org.chromium.tools.errorprone.plugin;
 
 import com.google.common.collect.ImmutableMap;

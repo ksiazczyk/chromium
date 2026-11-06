@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: source
+// title: memtrack_helper shared header
+// summary: Header shared by the daemon and test client, providing the log tag and the abstract UNIX socket address setup for the memtrack helper.
+// ---
+
 #ifndef TOOLS_ANDROID_MEMTRACK_HELPER_H_
 #define TOOLS_ANDROID_MEMTRACK_HELPER_H_
 

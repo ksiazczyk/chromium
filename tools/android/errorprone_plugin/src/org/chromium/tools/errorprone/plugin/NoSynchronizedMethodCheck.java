@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Error Prone check banning synchronized in public methods
+// summary: Error Prone bug checker that reports public methods declared synchronized and suggests removing the modifier, with exemptions for tests, overrides, and non-public classes.
+// ---
+
 package org.chromium.tools.errorprone.plugin;
 
 import com.google.errorprone.BugPattern;

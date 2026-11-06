@@ -1,0 +1,4 @@
+# Docerion header of count_cycles.py.
+type: source
+title: Cycle counting tool for dependency graphs
+summary: Command-line tool that enumerates all cycles in graph structures up to a configurable maximum cycle length.

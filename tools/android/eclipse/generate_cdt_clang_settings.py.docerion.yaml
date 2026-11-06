@@ -1,0 +1,4 @@
+# Docerion header of generate_cdt_clang_settings.py.
+type: script
+title: Generate Eclipse CDT clang settings
+summary: Generates an XML file with clang include directories and defines that can be imported into an Eclipse CDT project alongside the output of a GN Eclipse IDE generation.

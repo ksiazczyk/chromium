@@ -1,3 +1,9 @@
+---
+type: readme
+title: Devil Util
+summary: Explains that this directory builds tools for the devil device interaction layer and how to update the prebuilt binaries in devil after changing sources.
+---
+
 ## Devil Util
 
 This directory builds tools used by the

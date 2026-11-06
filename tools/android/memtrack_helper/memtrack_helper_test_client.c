@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: test
+// title: memtrack_helper test client
+// summary: Command-line client that connects to the memtrack_helper daemon over an abstract UNIX socket and prints the memtrack dump for a given pid.
+// ---
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>

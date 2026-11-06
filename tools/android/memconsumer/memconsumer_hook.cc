@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Native JNI hook that allocates memory on demand
+// summary: Implements the nativeUseMemory JNI method that mallocs a requested number of bytes, filling them with random data to simulate memory consumption.
+// ---
+
 #include <android/log.h>
 #include <jni.h>
 #include <stdio.h>

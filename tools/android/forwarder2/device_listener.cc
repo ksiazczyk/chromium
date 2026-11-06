@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceListener implementation
+// summary: Implements DeviceListener, which binds a device-side port, accepts client connections, and starts forwarders once the host opens a data connection.
+// ---
+
 #include "tools/android/forwarder2/device_listener.h"
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of compress_section.py.
+type: script
+title: Shared library section compression script
+summary: Compresses a chosen range of a shared library into a new section and rewrites ELF headers so a decompression hook can restore pages on demand.

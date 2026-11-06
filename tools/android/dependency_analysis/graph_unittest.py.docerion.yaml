@@ -1,0 +1,4 @@
+# Docerion header of graph_unittest.py.
+type: test
+title: Unit tests for graph classes
+summary: Unit tests for the Node and Graph classes, covering initialization, equality, edge handling and node management.

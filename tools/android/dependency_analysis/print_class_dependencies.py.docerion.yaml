@@ -1,0 +1,4 @@
+# Docerion header of print_class_dependencies.py.
+type: source
+title: Class-level dependency printing tool
+summary: Command-line tool that prints inbound or outbound class dependencies from a JSON graph, with options to ignore modularized, audited or same-package dependencies.

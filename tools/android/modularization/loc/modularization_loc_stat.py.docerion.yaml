@@ -1,0 +1,4 @@
+# Docerion header of modularization_loc_stat.py.
+type: script
+title: Modularization LOC Stats Generator
+summary: Python script that analyzes git history to report modularization stats, such as the share of added lines in modularized versus legacy files and the top contributors.

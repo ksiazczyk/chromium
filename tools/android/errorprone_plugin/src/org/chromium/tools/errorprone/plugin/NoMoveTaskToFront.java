@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NoMoveTaskToFront Error Prone check
+// summary: Error Prone bug checker that forbids ActivityManager#moveTaskToFront due to a platform NPE bug and suggests ApiCompatibilityUtils instead.
+// ---
+
 package org.chromium.tools.errorprone.plugin;
 
 import static com.google.errorprone.matchers.Matchers.instanceMethod;

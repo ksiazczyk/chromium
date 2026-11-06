@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MemConsumer activity for setting memory consumption
+// summary: Android activity with a number picker that receives a memory amount via intents and passes it to the ResidentService to consume.
+// ---
+
 package org.chromium.memconsumer;
 
 import android.app.Activity;

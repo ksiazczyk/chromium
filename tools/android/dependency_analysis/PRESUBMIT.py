@@ -1,6 +1,13 @@
 # Copyright 2020 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: ci
+# title: Presubmit checks for dependency analysis
+# summary: Runs the directory's Python unit tests recursively on upload and commit via the depot_tools presubmit API.
+# ---
+
 """Top-level presubmit script for dependency_analysis.
 
 See http://dev.chromium.org/developers/how-tos/depottools/presubmit-scripts

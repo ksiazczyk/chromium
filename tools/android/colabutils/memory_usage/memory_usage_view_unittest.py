@@ -1,6 +1,13 @@
 # Copyright 2026 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: test
+# title: Unit tests for memory_usage_view
+# summary: Tests JSON serialization, DataFrame loading, aggregation, comparison and size formatting of memory usage views.
+# ---
+
 """Tests for memory_usage_view.py"""
 
 import json

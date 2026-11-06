@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ADB host socket connection implementation
+// summary: Implements ConnectAdbHostSocket, which connects to the local ADB server on port 5037, sends a TCP port-forward request, and returns the forwarded socket.
+// ---
+
 #include "tools/android/common/adb_connection.h"
 
 #include <arpa/inet.h>

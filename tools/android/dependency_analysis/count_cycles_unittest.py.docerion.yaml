@@ -1,0 +1,4 @@
+# Docerion header of count_cycles_unittest.py.
+type: test
+title: Unit tests for cycle counting
+summary: Unit tests verifying cycle detection in graphs, covering self-cycles, large cycles, multiple cycles and complete graphs.

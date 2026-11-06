@@ -2,6 +2,13 @@
 # Copyright 2020 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Chrome-specific naming convention helpers
+# summary: Provides functions that shorten fully qualified Java class names and GN build target names according to Chrome conventions.
+# ---
+
 """Functions dealing with Chrome-specific naming conventions."""
 
 

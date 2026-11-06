@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crc32Hasher class declaration
+// summary: Declares Crc32Hasher with methods to parse delimiter-separated file lists and hash files to CRC32 checksums.
+// ---
+
 #ifndef TOOLS_ANDROID_DEVIL_UTIL_CRC32_HASHER_H_
 #define TOOLS_ANDROID_DEVIL_UTIL_CRC32_HASHER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of index.html.
+type: source
+title: Dependency visualizer index page
+summary: Landing page linking to the class, package, and target graph views.

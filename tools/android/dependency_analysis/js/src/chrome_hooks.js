@@ -3,6 +3,12 @@
 // found in the LICENSE file.
 
 
+// ---docerion
+// type: source
+// title: Chrome hooks for name shortening
+// summary: Exports helper functions that shorten and split class, package, and target names for display in the dependency graph SVG.
+// ---
+
 /**
  * Shortens a class name to be displayed in the svg.
  *

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'fincore: file memory residency tool'
+// summary: Command-line tool that memory-maps a file and uses mincore to report the percentage of its pages resident in memory.
+// ---
+
 #include <fcntl.h>
 #include <stdint.h>
 #include <sys/mman.h>

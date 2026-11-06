@@ -1,0 +1,4 @@
+# Docerion header of histogram_trace_cfg.pbtxt.j2.
+type: config
+title: Histogram sampling trace config template
+summary: Jinja2 template generating a Perfetto trace config that records Chrome histogram samples for a given list of histogram names.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Command read and send implementation for forwarder2 sockets
+// summary: Implements reading, sending and matching port-and-type command strings over forwarder2 sockets, with optional timeouts.
+// ---
+
 #include "tools/android/forwarder2/command.h"
 
 #include <errno.h>

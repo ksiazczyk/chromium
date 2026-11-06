@@ -1,6 +1,13 @@
 # Copyright 2026 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: test
+# title: Unit tests for the demangler
+# summary: Verifies that the Demangler correctly demangles symbols such as _Znwm via llvm-cxxfilt, skipping the test on Windows.
+# ---
+
 """Tests for demangler.py"""
 
 import os

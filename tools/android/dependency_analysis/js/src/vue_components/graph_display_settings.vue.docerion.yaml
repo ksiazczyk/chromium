@@ -1,0 +1,4 @@
+# Docerion header of graph_display_settings.vue.
+type: source
+title: Graph display settings component
+summary: Vue component with controls for the graph edge color scheme, curved edges, and coloring edges only on node hover.

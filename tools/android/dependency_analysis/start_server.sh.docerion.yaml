@@ -1,0 +1,4 @@
+# Docerion header of start_server.sh.
+type: script
+title: Dependency graph viewer server startup script
+summary: Generates the JSON dependency graph and starts a local web server so the dependency graph viewer can be browsed.

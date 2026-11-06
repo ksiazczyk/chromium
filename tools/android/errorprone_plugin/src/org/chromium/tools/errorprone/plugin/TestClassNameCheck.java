@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TestClassNameCheck – Error Prone check for test class naming
+// summary: Error Prone bug checker requiring classes containing JUnit or instrumentation tests, identified by the org.junit.runner.RunWith annotation, to live in files whose names end with Test.java.
+// ---
+
 package org.chromium.tools.errorprone.plugin;
 
 import com.google.errorprone.BugPattern;

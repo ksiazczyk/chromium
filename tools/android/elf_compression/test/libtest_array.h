@@ -13,6 +13,12 @@
 // to be declared explicitly to prevent compiler from optimizing continuous
 // row of zeroes.
 
+// ---docerion
+// type: test
+// title: Test array header for compression script tests
+// summary: Header defining an explicitly initialized 8191-byte array used as the compression target in the tests.
+// ---
+
 #ifndef TOOLS_ANDROID_ELF_COMPRESSION_TEST_LIBTEST_ARRAY_H_
 #define TOOLS_ANDROID_ELF_COMPRESSION_TEST_LIBTEST_ARRAY_H_
 

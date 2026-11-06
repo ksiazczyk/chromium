@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Host controllers manager implementation
+// summary: Implements HostControllersManager, which maps, unmaps and tracks host controllers that forward ports between the host and Android devices via adb.
+// ---
+
 #include "tools/android/forwarder2/host_controllers_manager.h"
 
 #include <memory>

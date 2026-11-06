@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Daemon helper declarations
+// summary: Declares helpers for detecting help and no-spawn-daemon switches, showing usage text, and spawning a daemon process that takes over execution.
+// ---
+
 #ifndef TOOLS_ANDROID_COMMON_DAEMON_H_
 #define TOOLS_ANDROID_COMMON_DAEMON_H_
 

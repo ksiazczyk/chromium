@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Forwarder2 command types and socket command helpers
+// summary: Declares the forwarder2 command type enum and helper functions for sending, reading and matching commands over sockets.
+// ---
+
 #ifndef TOOLS_ANDROID_FORWARDER2_COMMAND_H_
 #define TOOLS_ANDROID_FORWARDER2_COMMAND_H_
 

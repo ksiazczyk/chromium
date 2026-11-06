@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Zstd streaming compressor interface
+// summary: Declares the ZstCompressor class for incremental zstd compression into an output stream.
+// ---
+
 #ifndef TOOLS_ANDROID_DEVIL_UTIL_ZST_COMPRESSOR_H_
 #define TOOLS_ANDROID_DEVIL_UTIL_ZST_COMPRESSOR_H_
 

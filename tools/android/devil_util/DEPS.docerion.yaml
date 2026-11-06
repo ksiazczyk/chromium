@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for devil_util
+summary: Grants this directory include access to the zlib and zstd third-party libraries.

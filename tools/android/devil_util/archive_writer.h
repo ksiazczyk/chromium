@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArchiveWriter class declaration
+// summary: Declares ArchiveWriter and its ArchiveMember struct for building the custom archive format incrementally into output buffers.
+// ---
+
 #ifndef TOOLS_ANDROID_DEVIL_UTIL_ARCHIVE_WRITER_H_
 #define TOOLS_ANDROID_DEVIL_UTIL_ARCHIVE_WRITER_H_
 

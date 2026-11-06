@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Decompression hook for compressed ELF library sections
+// summary: Implements a userfaultfd-based watcher that decompresses pages of an ELF library's code on page faults, working with sections compressed by the compress_section.py script.
+// ---
+
 // This file contains userfaultfd watcher constructor that decompress
 // parts of the library's code, compressed by compress_section.py script.
 #include <asm-generic/ioctls.h>

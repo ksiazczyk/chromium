@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SpnegoAuthenticator
+// summary: AbstractAccountAuthenticator implementation that adds accounts and returns dummy SPNEGO auth tokens, prompting for credential confirmation when needed.
+// ---
+
 package org.chromium.tools.spnegoauthenticator;
 
 import android.accounts.AbstractAccountAuthenticator;

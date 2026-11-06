@@ -1,0 +1,4 @@
+# Docerion header of graph_visualization.vue.
+type: source
+title: Graph visualization component
+summary: Vue component that renders the dependency graph in an SVG element by watching model triggers and updating the d3-based GraphView.

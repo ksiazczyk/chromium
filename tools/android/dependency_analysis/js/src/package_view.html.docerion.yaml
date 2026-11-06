@@ -1,0 +1,4 @@
+# Docerion header of package_view.html.
+type: source
+title: Package view HTML page
+summary: HTML shell that provides the container element for the package graph Vue page.

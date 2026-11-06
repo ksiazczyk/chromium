@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccountData
+// summary: Utility class that creates, saves and retrieves SPNEGO account data through the Android AccountManager and builds the matching result intents.
+// ---
+
 package org.chromium.tools.spnegoauthenticator;
 
 import android.accounts.Account;

@@ -1,6 +1,13 @@
 # Copyright 2022 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Java build target dependency graph
+# summary: Implements a dependency graph of Java build targets by collapsing a class-level dependency graph into target-level nodes and edges.
+# ---
+
 """Implementation of the graph module for a build target dependency graph."""
 
 import class_dependency

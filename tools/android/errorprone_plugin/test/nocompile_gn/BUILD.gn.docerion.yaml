@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: test
+title: Errorprone plugin nocompile test build targets
+summary: Defines android_library targets that build errorprone plugin nocompile tests for checks such as redundant field init, test class names, and callback binding.

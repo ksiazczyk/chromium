@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Graph data loader
+// summary: Fetches the dependency graph JSON from cloud storage, falling back to a localhost URL for local development.
+// ---
+
 // For ease of development, we load the graph from this hardcoded location by
 // default. This should be changed when a snapshot picker is implemented.
 const LATEST_GRAPH = 'https://storage.googleapis.com/clank-dependency-graphs/latest/all.json';

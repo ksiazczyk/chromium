@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: test
+title: Errorprone plugin nocompile test build targets
+summary: GN build file defining test-only Android library targets and a nocompile test suite that verifies the errorprone plugin's custom checks emit the expected warnings.

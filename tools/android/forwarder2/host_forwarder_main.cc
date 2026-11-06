@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Host forwarder daemon entry point
+// summary: Main entry point for the host-side forwarder daemon, installing signal handlers and dispatching client commands to the host controllers manager.
+// ---
+
 #include <signal.h>
 #include <stddef.h>
 #include <stdint.h>

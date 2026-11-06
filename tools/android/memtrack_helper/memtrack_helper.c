@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: source
+// title: memtrack_helper daemon implementation
+// summary: Android daemon that loads the memtrack library and serves graphics memory stats for a given pid over a UNIX socket, used by telemetry and memory-infra.
+// ---
+
 #include "tools/android/memtrack_helper/memtrack_helper.h"
 
 #include <dlfcn.h>

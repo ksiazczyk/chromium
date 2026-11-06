@@ -1,3 +1,9 @@
+---
+type: readme
+title: Colab Utilities for Android
+summary: Documents the colabutils Python utilities for Android performance analysis in Colab notebooks, with examples for Perfetto traces, Web Page Replay, and heap snapshots.
+---
+
 # Colab Utilities for Android
 
 This directory contains a collection of Python utilities designed to facilitate

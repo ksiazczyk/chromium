@@ -1,0 +1,4 @@
+# Docerion header of serialization_unittest.py.
+type: test
+title: Unit tests for graph serialization
+summary: Tests JSON serialization and deserialization of class and package dependency graphs against expected sorted structures.

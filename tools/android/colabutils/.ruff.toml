@@ -1,2 +1,8 @@
+# ---docerion
+# type: config
+# title: Ruff configuration for colabutils
+# summary: Extends the repository-level Ruff linter configuration and sets the indentation width for this directory.
+# ---
+
 extend = "../../.ruff.toml"
 indent-width = 4

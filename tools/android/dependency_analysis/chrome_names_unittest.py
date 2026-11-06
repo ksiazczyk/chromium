@@ -2,6 +2,13 @@
 # Copyright 2020 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: test
+# title: Unit tests for chrome_names
+# summary: Verifies that class names and build targets are shortened correctly and that non-Chrome names are left unchanged.
+# ---
+
 """Unit tests for dependency_analysis.print_dependencies_helper."""
 
 import unittest

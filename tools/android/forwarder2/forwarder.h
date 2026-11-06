@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Forwarder header
+// summary: Declares the Forwarder class that forwards traffic between two sockets and exposes FD registration, event processing and shutdown.
+// ---
+
 #ifndef TOOLS_ANDROID_FORWARDER2_FORWARDER_H_
 #define TOOLS_ANDROID_FORWARDER2_FORWARDER_H_
 

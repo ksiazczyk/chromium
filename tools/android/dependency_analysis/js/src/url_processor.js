@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL parameter processor for visualization pages
+// summary: Builds and parses page URLs with search params for display settings, filters, depths and other visualization options.
+// ---
+
 /**
  * The different possible absolute pathnames for the visualization page.
  *

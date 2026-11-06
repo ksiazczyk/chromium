@@ -1,3 +1,9 @@
+<!--docerion
+type: source
+title: Account authenticator activity layout
+summary: Android XML layout for the SPNEGO authenticator activity, showing sign-in and confirm-credentials buttons in a scrollable form.
+-->
+
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
   xmlns:tools="http://schemas.android.com/tools"
   android:layout_width="match_parent"

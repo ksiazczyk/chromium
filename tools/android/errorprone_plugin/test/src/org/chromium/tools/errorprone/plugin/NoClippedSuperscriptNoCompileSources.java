@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NoClippedSuperscriptNoCompileSources
+// summary: Test fixture applying SuperscriptSpan together with RelativeSizeSpan for the NoClippedSuperscript ErrorProne checker.
+// ---
+
 package org.chromium.tools.errorprone.plugin;
 
 import android.text.SpannableString;

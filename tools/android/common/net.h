@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Socket helper declarations
+// summary: Declares DisableNagle, DeferAccept, and DumpBinary utilities shared by the Chrome network stack and adb tools.
+// ---
+
 #ifndef TOOLS_ANDROID_COMMON_NET_H_
 #define TOOLS_ANDROID_COMMON_NET_H_
 

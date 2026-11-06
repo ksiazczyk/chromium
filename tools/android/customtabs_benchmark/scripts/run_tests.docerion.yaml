@@ -1,0 +1,4 @@
+# Docerion header of run_tests.
+type: script
+title: Unit test runner for the scripts directory
+summary: Discovers and runs the directory's *_unittest.py test modules, exiting non-zero when any test fails.

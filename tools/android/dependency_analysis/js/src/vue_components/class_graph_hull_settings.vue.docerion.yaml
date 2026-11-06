@@ -1,0 +1,4 @@
+# Docerion header of class_graph_hull_settings.vue.
+type: source
+title: Class graph hull settings component
+summary: Vue component with radio buttons for choosing how class graph nodes are grouped, emitting a display option changed event.

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for dependency analysis
+summary: Declares the Monorail component, team email and Android OS metadata used by Chromium's directory metadata tooling.

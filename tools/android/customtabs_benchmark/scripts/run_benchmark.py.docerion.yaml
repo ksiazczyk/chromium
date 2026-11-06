@@ -1,0 +1,4 @@
+# Docerion header of run_benchmark.py.
+type: script
+title: Benchmark driver for attached Android devices
+summary: Reads a JSON configuration and loops benchmark runs across all connected devices, writing per-device CSV results.
