@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux network interfaces implementation
+// summary: Implements Linux, ChromeOS and Android network interface enumeration, including connection type detection and SSID retrieval via wireless extensions and ethtool.
+// ---
+
 #include "net/base/network_interfaces_linux.h"
 
 #include <memory>

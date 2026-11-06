@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Host mapping rules implementation
+// summary: Implements HostMappingRules, rewriting hosts and URLs according to MAP and EXCLUDE rules parsed from strings.
+// ---
+
 #include "net/base/host_mapping_rules.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Privacy mode debug string helper
+// summary: Implements PrivacyModeToDebugString, converting PrivacyMode enum values into human-readable debug strings.
+// ---
+
 #include "net/base/privacy_mode.h"
 
 #include "base/notreached.h"

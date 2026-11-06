@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Load timing info test utility header
+// summary: Declares connect timing flags and helper functions for checking LoadTimingInfo values in tests.
+// ---
+
 #ifndef NET_BASE_LOAD_TIMING_INFO_TEST_UTIL_H_
 #define NET_BASE_LOAD_TIMING_INFO_TEST_UTIL_H_
 

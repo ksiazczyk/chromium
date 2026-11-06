@@ -24,6 +24,12 @@
 // platform-independent as possible. So file_stream_context_{win,posix}.cc are
 // much smaller than file_stream_context.cc now.
 
+// ---docerion
+// type: source
+// title: FileStream context class definition
+// summary: Defines the FileStream::Context class that performs the actual file operations, with platform-dependent parts implemented separately for Windows and POSIX.
+// ---
+
 #ifndef NET_BASE_FILE_STREAM_CONTEXT_H_
 #define NET_BASE_FILE_STREAM_CONTEXT_H_
 

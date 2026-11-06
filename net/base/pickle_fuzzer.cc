@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: libFuzzer target for net pickle deserialization
+// summary: libFuzzer harness that feeds arbitrary input to ReadValueFromPickle for a complex type to uncover deserialization bugs.
+// ---
+
 #include "net/base/pickle.h"
 
 #include <stdint.h>

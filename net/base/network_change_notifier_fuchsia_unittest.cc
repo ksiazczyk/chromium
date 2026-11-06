@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fuchsia NetworkChangeNotifier unit tests
+// summary: Unit tests for the Fuchsia network change notifier that feed fake fuchsia.net.interfaces watcher events and verify connection and IP address notifications.
+// ---
+
 #include "net/base/network_change_notifier_fuchsia.h"
 
 #include <fuchsia/net/interfaces/cpp/fidl_test_base.h>

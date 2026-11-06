@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ElementsUploadDataStream unit tests
+// summary: Unit tests for the elements-based upload data stream, using mock and file element readers to exercise init, read, and error paths.
+// ---
+
 #include "net/base/elements_upload_data_stream.h"
 
 #include <stdint.h>

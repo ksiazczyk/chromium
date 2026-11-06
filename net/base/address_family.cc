@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Address family utilities implementation
+// summary: Implements conversions between IPAddress objects, system address family constants and string labels for histograms.
+// ---
+
 #include "net/base/address_family.h"
 
 #include <string_view>

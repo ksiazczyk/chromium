@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ConnectionMigrationInformation declaration
+// summary: Declares a struct tracking network event counts such as disconnects and path degradations for connection migration.
+// ---
+
 #ifndef NET_BASE_CONNECTION_MIGRATION_INFORMATION_H_
 #define NET_BASE_CONNECTION_MIGRATION_INFORMATION_H_
 

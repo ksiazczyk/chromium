@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Proxy string utilities header
+// summary: Declares functions to convert PAC result elements and non-standard proxy URIs to and from ProxyServer and ProxyChain values.
+// ---
+
 #ifndef NET_BASE_PROXY_STRING_UTIL_H_
 #define NET_BASE_PROXY_STRING_UTIL_H_
 

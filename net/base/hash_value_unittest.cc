@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HashValue unit tests
+// summary: Unit tests verifying HashValue round-trips between raw bytes and the sha256/ base64 string format and rejects invalid inputs.
+// ---
+
 #include "net/base/hash_value.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

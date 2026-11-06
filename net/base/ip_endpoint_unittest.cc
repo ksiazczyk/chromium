@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IPEndPoint unit tests
+// summary: Unit tests covering IPEndPoint construction, assignment, sockaddr conversion, string formatting, and IPv6 scope ID handling with fake interface functions.
+// ---
+
 #include "net/base/ip_endpoint.h"
 
 #include <string.h>

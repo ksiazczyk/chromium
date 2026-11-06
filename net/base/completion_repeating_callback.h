@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Deprecated completion repeating-callback type alias
+// summary: Defines a deprecated net callback alias wrapping base::RepeatingCallback for reporting network error codes or byte counts.
+// ---
+
 #ifndef NET_BASE_COMPLETION_REPEATING_CALLBACK_H_
 #define NET_BASE_COMPLETION_REPEATING_CALLBACK_H_
 

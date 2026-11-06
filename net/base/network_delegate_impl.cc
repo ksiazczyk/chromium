@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkDelegateImpl default no-op implementation
+// summary: Provides default no-op implementations for all NetworkDelegate virtual hooks so subclasses only override the callbacks they need.
+// ---
+
 #include "net/base/network_delegate_impl.h"
 
 #include <optional>

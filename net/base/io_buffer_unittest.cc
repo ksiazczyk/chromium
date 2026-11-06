@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IOBuffer unit tests
+// summary: Unit tests verifying IOBuffer span accessors and the behavior of VectorIOBuffer, StringIOBuffer and DrainableIOBuffer.
+// ---
+
 #include "net/base/io_buffer.h"
 
 #include <array>

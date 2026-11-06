@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Port restriction and validity utilities
+// summary: Implements port validation and the Fetch-spec blocked port list, including explicitly allowed ports and field-trial-configured restrictions.
+// ---
+
 #include "net/base/port_util.h"
 
 #include <limits>

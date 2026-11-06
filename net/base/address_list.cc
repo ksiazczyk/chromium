@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AddressList implementation
+// summary: Implements the AddressList container of IP endpoints and DNS aliases, including addrinfo conversion, deduplication and NetLog output.
+// ---
+
 #include "net/base/address_list.h"
 
 #include <iterator>

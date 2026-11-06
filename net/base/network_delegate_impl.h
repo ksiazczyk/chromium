@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkDelegateImpl class declaration
+// summary: Declares NetworkDelegateImpl, a NetworkDelegate subclass with default no-op overrides for every notification hook.
+// ---
+
 #ifndef NET_BASE_NETWORK_DELEGATE_IMPL_H_
 #define NET_BASE_NETWORK_DELEGATE_IMPL_H_
 

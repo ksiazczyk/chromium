@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Directory listing entry unit tests
+// summary: Unit tests for GetDirectoryListingEntry output and human-readable file size string formatting.
+// ---
+
 #include "net/base/module/directory_listing.h"
 
 #include <optional>

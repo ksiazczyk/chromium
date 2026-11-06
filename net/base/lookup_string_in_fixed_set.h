@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fixed set string lookup header
+// summary: Declares DAFSA lookup functions for fixed string sets and registry-controlled domain suffix matching.
+// ---
+
 #ifndef NET_BASE_LOOKUP_STRING_IN_FIXED_SET_H_
 #define NET_BASE_LOOKUP_STRING_IN_FIXED_SET_H_
 

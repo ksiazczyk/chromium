@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MIME utility unit tests
+// summary: Unit tests verifying extension-to-MIME mappings, platform overrides and MIME type matching behavior across platforms.
+// ---
+
 #include "net/base/mime_util.h"
 
 #include <algorithm>

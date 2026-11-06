@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BackoffEntry serialization implementation
+// summary: Implements serialization and deserialization of BackoffEntry state so back-off data can persist beyond the browser lifetime across format versions.
+// ---
+
 #include "net/base/backoff_entry_serializer.h"
 
 #include <algorithm>

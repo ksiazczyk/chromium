@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Apple network change notifier header
+// summary: Declares the Apple implementation of NetworkChangeNotifier based on SystemConfiguration reachability, dynamic store notifications, and network path monitoring.
+// ---
+
 #ifndef NET_BASE_NETWORK_CHANGE_NOTIFIER_APPLE_H_
 #define NET_BASE_NETWORK_CHANGE_NOTIFIER_APPLE_H_
 

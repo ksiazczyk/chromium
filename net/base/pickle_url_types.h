@@ -5,6 +5,12 @@
 // Serialization and deserialization code for some //url types that are used in
 // //net. This can't be put in //url because //url can't depend on //net.
 
+// ---docerion
+// type: source
+// title: Pickle traits for URL types
+// summary: Defines a PickleTraits specialization for serializing and deserializing url::Origin values within //net.
+// ---
+
 #ifndef NET_BASE_PICKLE_URL_TYPES_H_
 #define NET_BASE_PICKLE_URL_TYPES_H_
 

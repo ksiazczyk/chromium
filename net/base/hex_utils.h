@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hex decode and dump utilities
+// summary: Declares HexDecode and HexDump helpers for decoding hex strings and producing hexdump-style representations of binary buffers.
+// ---
+
 #ifndef NET_BASE_HEX_UTILS_H_
 #define NET_BASE_HEX_UTILS_H_
 

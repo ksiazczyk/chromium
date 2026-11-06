@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network handle testing helpers implementation
+// summary: Implements network binding emulation for tests, translating loopback addresses to per-network 127.0.0.X addresses.
+// ---
+
 #include "net/base/network_handle.h"
 
 #include "base/check_is_test.h"

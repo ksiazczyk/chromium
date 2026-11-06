@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ConnectionEndpointMetadata implementation
+// summary: Implements serialization of connection endpoint metadata, including ECH config and trust anchor IDs, to and from base::Value.
+// ---
+
 #include "net/base/connection_endpoint_metadata.h"
 
 #include <optional>

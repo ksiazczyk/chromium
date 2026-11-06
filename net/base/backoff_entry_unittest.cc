@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for BackoffEntry behavior
+// summary: Unit tests verifying BackoffEntry behavior such as request rejection, discard rules and policy-driven back-off timing.
+// ---
+
 #include "net/base/backoff_entry.h"
 
 #include "base/time/tick_clock.h"

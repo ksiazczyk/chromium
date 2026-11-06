@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LoadFlagsToString unit tests
+// summary: Unit tests checking LoadFlagsToString output for zero, one, two, and three combined load flags.
+// ---
+
 #include "net/base/load_flags_to_string.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Address family enum and host resolver flags
+// summary: Declares the AddressFamily enum, HostResolverFlags bitflags and helper functions for host resolver address family handling.
+// ---
+
 #ifndef NET_BASE_ADDRESS_FAMILY_H_
 #define NET_BASE_ADDRESS_FAMILY_H_
 

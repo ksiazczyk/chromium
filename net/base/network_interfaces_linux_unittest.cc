@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Linux network interfaces unit tests
+// summary: Unit tests for the Linux network list implementation, covering offline link trimming, local and virtual address filtering, and address flag handling.
+// ---
+
 #include "net/base/network_interfaces_linux.h"
 
 #include <net/if.h>

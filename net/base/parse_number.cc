@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Number parsing implementation
+// summary: Implements ParseInt32, ParseInt64, and unsigned variants with strict format handling, mapping failures to parse, overflow, or underflow errors.
+// ---
+
 #include "net/base/parse_number.h"
 
 #include "base/strings/string_number_conversions.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Address tracker netlink test utilities header
+// summary: Declares NetlinkMessage and helper functions for constructing netlink messages used in AddressTrackerLinux tests.
+// ---
+
 #ifndef NET_BASE_ADDRESS_TRACKER_LINUX_TEST_UTIL_H_
 #define NET_BASE_ADDRESS_TRACKER_LINUX_TEST_UTIL_H_
 

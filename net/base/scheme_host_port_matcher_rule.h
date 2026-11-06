@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SchemeHostPortMatcherRule interface and rule classes
+// summary: Declares the matcher rule interface plus concrete rules for wildcard hostname patterns, IP hosts and IP blocks with scheme and port restrictions.
+// ---
+
 #ifndef NET_BASE_SCHEME_HOST_PORT_MATCHER_RULE_H_
 #define NET_BASE_SCHEME_HOST_PORT_MATCHER_RULE_H_
 

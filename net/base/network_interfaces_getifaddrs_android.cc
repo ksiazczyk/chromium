@@ -5,6 +5,12 @@
 // Taken from WebRTC's own implementation.
 // https://webrtc.googlesource.com/src/+/4cad08ff199a46087f8ffe91ef89af60a4dc8df9/rtc_base/ifaddrs_android.cc
 
+// ---docerion
+// type: source
+// title: Android getifaddrs implementation
+// summary: Provides Chromium's own getifaddrs implementation for Android, adapted from WebRTC, to work around buggy getifaddrs versions on some Android devices.
+// ---
+
 #include "net/base/network_interfaces_getifaddrs_android.h"
 
 #include <errno.h>

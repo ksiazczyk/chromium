@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MockProxyDelegate header
+// summary: Declares a gmock mock of ProxyDelegate with mocked methods for proxy resolution, fallback, and tunnel request hooks.
+// ---
+
 #ifndef NET_BASE_MOCK_PROXY_DELEGATE_H_
 #define NET_BASE_MOCK_PROXY_DELEGATE_H_
 

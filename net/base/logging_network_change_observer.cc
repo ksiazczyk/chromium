@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Logging network change observer
+// summary: Logs network change events from NetworkChangeNotifier, such as IP address and connectivity changes, to the NetLog.
+// ---
+
 #include "net/base/logging_network_change_observer.h"
 
 #include <string>

@@ -19,6 +19,12 @@
 // If adding new behavior that does not need to be triggered by a renderer,
 // please prefer not to add a LoadFlag.
 
+// ---docerion
+// type: source
+// title: Load flag list for macro expansion
+// summary: Lists load flag names, values, and comments for the LOAD_FLAG macro, covering cache validation, proxy bypass, cookies, prefetch, and related behaviors.
+// ---
+
 LOAD_FLAG(NORMAL, 0)
 
 // This is "normal reload", meaning an if-none-match/if-modified-since query.

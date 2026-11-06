@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkChangeNotifierFactory interface
+// summary: Declares a factory interface that lets embedders override how the default NetworkChangeNotifier instance is created.
+// ---
+
 #ifndef NET_BASE_NETWORK_CHANGE_NOTIFIER_FACTORY_H_
 #define NET_BASE_NETWORK_CHANGE_NOTIFIER_FACTORY_H_
 

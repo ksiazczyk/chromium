@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SIMD-accelerated Base64 decoding header
+// summary: Declares SimdutfBase64Decode for decoding Base64 input via simdutf, noting it is only safe with trustworthy data or in sandboxed processes.
+// ---
+
 #ifndef NET_BASE_BASE64_H_
 #define NET_BASE_BASE64_H_
 

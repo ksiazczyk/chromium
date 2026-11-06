@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: POSIX network interface helper implementation
+// summary: Implements POSIX helpers that filter virtual interfaces like vmnet and detect loopback or unspecified addresses, shared by Linux and getifaddrs backends.
+// ---
+
 #include "net/base/network_interfaces_posix.h"
 
 #include <netinet/in.h>

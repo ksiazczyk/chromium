@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Proxy string utilities implementation
+// summary: Implements conversion between PAC result elements and ProxyServer or ProxyChain, mapping PAC type keywords to proxy schemes.
+// ---
+
 #include "net/base/proxy_string_util.h"
 
 #include <string>

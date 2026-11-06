@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for BackoffEntry serialization
+// summary: Unit tests covering serialization and deserialization of BackoffEntry, including overflow, infinity and format version edge cases.
+// ---
+
 #include "net/base/backoff_entry.h"
 
 #include "base/containers/span.h"

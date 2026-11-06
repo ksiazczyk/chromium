@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Internal filename utilities implementation
+// summary: Implements internal filename generation logic such as sanitizing generated names, correcting extensions against MIME types, and handling shell-integrated extensions.
+// ---
+
 #include "net/base/filename_util_internal.h"
 
 #include <algorithm>

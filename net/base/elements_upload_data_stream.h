@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ElementsUploadDataStream header
+// summary: Declares a non-chunked UploadDataStream composed of one or more upload element readers with init, read, and reset handling.
+// ---
+
 #ifndef NET_BASE_ELEMENTS_UPLOAD_DATA_STREAM_H_
 #define NET_BASE_ELEMENTS_UPLOAD_DATA_STREAM_H_
 

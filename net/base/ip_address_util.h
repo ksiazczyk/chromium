@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IP address socket conversion helper declarations
+// summary: Declares ToInAddr and ToIn6Addr helpers for converting net::IPAddress to native socket address types, kept separate to avoid winsock2.h dependencies.
+// ---
+
 #ifndef NET_BASE_IP_ADDRESS_UTIL_H_
 #define NET_BASE_IP_ADDRESS_UTIL_H_
 

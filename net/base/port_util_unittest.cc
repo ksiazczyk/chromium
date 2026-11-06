@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Port utility unit tests
+// summary: Unit tests covering explicitly allowed ports, restricted abuse ports via feature parameters, and localhost port restrictions with histograms.
+// ---
+
 #include "net/base/port_util.h"
 
 #include <array>

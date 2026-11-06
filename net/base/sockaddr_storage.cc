@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SockaddrStorage implementation
+// summary: Implements copy construction and assignment for the SockaddrStorage socket address wrapper.
+// ---
+
 #include "net/base/sockaddr_storage.h"
 
 #include <string.h>

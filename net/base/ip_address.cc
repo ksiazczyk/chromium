@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IPAddress implementation
+// summary: Implements the IPAddress class with parsing, prefix matching, reserved-range checks and IPv4-mapped IPv6 support.
+// ---
+
 #include "net/base/ip_address.h"
 
 #include <stddef.h>

@@ -5,6 +5,12 @@
 // Serialization and deserialization code for some //base types that are used in
 // //net. This can't be put in //base because //base can't depend on //net.
 
+// ---docerion
+// type: source
+// title: Pickle traits for base types
+// summary: Defines PickleTraits specializations for serializing and deserializing //base types such as base::Time that are used by //net.
+// ---
+
 #ifndef NET_BASE_PICKLE_BASE_TYPES_H_
 #define NET_BASE_PICKLE_BASE_TYPES_H_
 

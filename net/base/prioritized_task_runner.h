@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Prioritized task runner API declarations
+// summary: Declares a ref-counted task runner that executes posted tasks and their replies in priority order, with testing hooks.
+// ---
+
 #ifndef NET_BASE_PRIORITIZED_TASK_RUNNER_H_
 #define NET_BASE_PRIORITIZED_TASK_RUNNER_H_
 

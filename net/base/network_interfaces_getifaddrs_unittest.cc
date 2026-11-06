@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Network interfaces getifaddrs unit tests
+// summary: Unit tests for IfaddrsToNetworkInterfaceList, verifying filtering of offline interfaces and conversion of ifaddrs entries into network interface lists.
+// ---
+
 #include "net/base/network_interfaces_getifaddrs.h"
 
 #include <ifaddrs.h>

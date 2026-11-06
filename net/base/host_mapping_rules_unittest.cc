@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HostMappingRules unit tests
+// summary: Unit tests covering rule parsing, host and URL rewriting, port-specific matching, and handling of invalid rules.
+// ---
+
 #include "net/base/host_mapping_rules.h"
 
 #include <string.h>

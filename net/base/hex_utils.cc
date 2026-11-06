@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hex decoding and dumping helpers
+// summary: Provides HexDecode and HexDump helpers that wrap base and quiche utilities for decoding and dumping hex data.
+// ---
+
 #include "net/base/hex_utils.h"
 
 #include "base/check.h"

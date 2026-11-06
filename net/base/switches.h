@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network stack command-line switches
+// summary: Declares constants for net command-line switches such as log-net-log.
+// ---
+
 #ifndef NET_BASE_SWITCHES_H_
 #define NET_BASE_SWITCHES_H_
 

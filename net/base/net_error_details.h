@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetErrorDetails struct
+// summary: Defines a struct recording granular net error details such as QUIC broken state, connection error, and connection info.
+// ---
+
 #ifndef NET_BASE_NET_ERROR_DETAILS_H_
 #define NET_BASE_NET_ERROR_DETAILS_H_
 

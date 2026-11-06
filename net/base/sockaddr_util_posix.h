@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unix socket address utility declarations
+// summary: Declares FillUnixAddress, which builds Unix domain socket addresses from socket paths.
+// ---
+
 #ifndef NET_BASE_SOCKADDR_UTIL_POSIX_H_
 #define NET_BASE_SOCKADDR_UTIL_POSIX_H_
 

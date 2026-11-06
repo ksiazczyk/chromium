@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ConnectionEndpointMetadata test utility header
+// summary: Declares the ExpectConnectionEndpointMetadata matcher helper and a stream output operator for tests.
+// ---
+
 #ifndef NET_BASE_CONNECTION_ENDPOINT_METADATA_TEST_UTIL_H_
 #define NET_BASE_CONNECTION_ENDPOINT_METADATA_TEST_UTIL_H_
 

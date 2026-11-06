@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetInfo source name constants for NetLog JSON
+// summary: Defines inline constant names of NetInfo sources such as proxy, socket pool, QUIC and cache info that are written to NetLog JSON files.
+// ---
+
 #ifndef NET_BASE_NET_INFO_SOURCE_LIST_H_
 #define NET_BASE_NET_INFO_SOURCE_LIST_H_
 

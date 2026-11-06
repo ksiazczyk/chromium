@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux portal network monitor declaration
+// summary: Declares the PortalMonitor interface for the Linux network change notifier, which returns null when D-Bus is disabled or building Cronet.
+// ---
+
 #ifndef NET_BASE_NETWORK_CHANGE_NOTIFIER_LINUX_PORTAL_H_
 #define NET_BASE_NETWORK_CHANGE_NOTIFIER_LINUX_PORTAL_H_
 

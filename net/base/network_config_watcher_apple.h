@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Apple network config watcher header
+// summary: Declares NetworkConfigWatcherApple, a helper for watching macOS network settings, with a delegate interface for reachability and dynamic store events.
+// ---
+
 #ifndef NET_BASE_NETWORK_CONFIG_WATCHER_APPLE_H_
 #define NET_BASE_NETWORK_CONFIG_WATCHER_APPLE_H_
 

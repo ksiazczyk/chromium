@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HttpUserAgentSettings interface
+// summary: Declares the interface HTTP jobs use to obtain Accept-Language and User-Agent header values.
+// ---
+
 #ifndef NET_BASE_HTTP_USER_AGENT_SETTINGS_H_
 #define NET_BASE_HTTP_USER_AGENT_SETTINGS_H_
 

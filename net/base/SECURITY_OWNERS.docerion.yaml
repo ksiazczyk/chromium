@@ -1,0 +1,4 @@
+# Docerion header of SECURITY_OWNERS.
+type: config
+title: Security reviewers for net/base
+summary: Lists the security reviewers responsible for reviewing MIME sniffing changes in net/base.

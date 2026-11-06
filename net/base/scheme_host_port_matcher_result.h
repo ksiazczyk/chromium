@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SchemeHostPortMatcherResult enum
+// summary: Defines the enum describing whether evaluating a matcher rule includes, excludes, or does not match a URL.
+// ---
+
 #ifndef NET_BASE_SCHEME_HOST_PORT_MATCHER_RESULT_H_
 #define NET_BASE_SCHEME_HOST_PORT_MATCHER_RESULT_H_
 

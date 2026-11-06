@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Pickle base types unit tests
+// summary: Unit tests verifying round-trip serialization of base::Time values through the net pickle helpers, including size estimation.
+// ---
+
 #include "net/base/pickle_base_types.h"
 
 #include <array>

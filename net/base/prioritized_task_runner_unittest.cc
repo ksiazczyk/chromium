@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Prioritized task runner unit tests
+// summary: Unit tests verifying that tasks and replies run in priority order, including thread checks and blocking scenarios.
+// ---
+
 #include "net/base/prioritized_task_runner.h"
 
 #include <algorithm>

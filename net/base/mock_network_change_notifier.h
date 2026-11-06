@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock network change notifier header
+// summary: Declares MockNetworkChangeNotifier and ScopedMockNetworkChangeNotifier for simulating network change events in tests.
+// ---
+
 #ifndef NET_BASE_MOCK_NETWORK_CHANGE_NOTIFIER_H_
 #define NET_BASE_MOCK_NETWORK_CHANGE_NOTIFIER_H_
 

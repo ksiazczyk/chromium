@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Net platform API string-span helpers implementation
+// summary: Implements helpers that copy a string with a terminating nul into a char span and read a possibly nul-terminated span back as a string view.
+// ---
+
 #include "net/base/net_platform_api_util.h"
 
 #include <string_view>

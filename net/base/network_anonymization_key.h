@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network anonymization key header
+// summary: Declares NetworkAnonymizationKey used to partition shared network state by request context, documenting its 2.5-keyed design and empty-key semantics.
+// ---
+
 #ifndef NET_BASE_NETWORK_ANONYMIZATION_KEY_H_
 #define NET_BASE_NETWORK_ANONYMIZATION_KEY_H_
 

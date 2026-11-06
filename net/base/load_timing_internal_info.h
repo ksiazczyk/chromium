@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Load timing internal info
+// summary: Defines internal load timing structures and QUIC session reuse enums used for internal measurements not exposed to the web.
+// ---
+
 #ifndef NET_BASE_LOAD_TIMING_INTERNAL_INFO_H_
 #define NET_BASE_LOAD_TIMING_INTERNAL_INFO_H_
 

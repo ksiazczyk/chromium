@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkIsolationKey header
+// summary: Defines the NetworkIsolationKey class used to partition shared network state such as the HTTP cache using a triple-key scheme of top frame site, frame site, and partition.
+// ---
+
 #ifndef NET_BASE_NETWORK_ISOLATION_KEY_H_
 #define NET_BASE_NETWORK_ISOLATION_KEY_H_
 

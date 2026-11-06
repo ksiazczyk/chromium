@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: macOS network notification thread header
+// summary: Declares GetNetworkNotificationThreadMac, which returns a task runner on a UI thread for macOS notification APIs requiring a CFRunLoop.
+// ---
+
 #ifndef NET_BASE_NETWORK_NOTIFICATION_THREAD_MAC_H_
 #define NET_BASE_NETWORK_NOTIFICATION_THREAD_MAC_H_
 

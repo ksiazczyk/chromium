@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows network cost change notifier implementation
+// summary: Implements NetworkCostChangeNotifierWin, which monitors connection cost changes on Windows via the INetworkCostManager COM API and notifies listeners.
+// ---
+
 #include "net/base/network_cost_change_notifier_win.h"
 
 #include <wrl.h>

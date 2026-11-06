@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows network interfaces internals header
+// summary: Exposes the Windows WLAN API wrapper, handle traits, and network list internals of network_interfaces_win.cc for use by tests.
+// ---
+
 #ifndef NET_BASE_NETWORK_INTERFACES_WIN_H_
 #define NET_BASE_NETWORK_INTERFACES_WIN_H_
 

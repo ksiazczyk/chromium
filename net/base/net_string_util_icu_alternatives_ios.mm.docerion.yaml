@@ -1,0 +1,4 @@
+# Docerion header of net_string_util_icu_alternatives_ios.mm.
+type: source
+title: iOS implementation of network string conversions
+summary: Implements string conversions on iOS using CoreFoundation, supporting Latin-1 and uppercasing while other conversions are not yet implemented.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AddressMapCacheLinux class header
+// summary: Declares AddressMapCacheLinux, a thread-safe AddressMapOwnerLinux implementation that caches address maps and online links.
+// ---
+
 #ifndef NET_BASE_ADDRESS_MAP_CACHE_LINUX_H_
 #define NET_BASE_ADDRESS_MAP_CACHE_LINUX_H_
 

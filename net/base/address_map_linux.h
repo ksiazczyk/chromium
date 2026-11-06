@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AddressMapOwnerLinux interface
+// summary: Defines the AddressMapOwnerLinux interface and diff types for thread-safe access to Linux network address maps.
+// ---
+
 #ifndef NET_BASE_ADDRESS_MAP_LINUX_H_
 #define NET_BASE_ADDRESS_MAP_LINUX_H_
 

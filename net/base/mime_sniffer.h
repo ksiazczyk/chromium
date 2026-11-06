@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MIME sniffer API header
+// summary: Declares functions to decide whether to sniff a MIME type and to guess MIME types from content, with warnings against expanding sniffing capabilities.
+// ---
+
 #ifndef NET_BASE_MIME_SNIFFER_H__
 #define NET_BASE_MIME_SNIFFER_H__
 

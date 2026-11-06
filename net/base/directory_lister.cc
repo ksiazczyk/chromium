@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DirectoryLister implementation
+// summary: Implements asynchronous directory enumeration on a background thread with locale-aware, directories-first sorting.
+// ---
+
 #include "net/base/directory_lister.h"
 
 #include <algorithm>

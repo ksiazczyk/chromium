@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Prioritized task runner implementation
+// summary: Implements posting tasks and replies that run in priority order using thread-safe priority heaps.
+// ---
+
 #include "net/base/prioritized_task_runner.h"
 
 #include <algorithm>

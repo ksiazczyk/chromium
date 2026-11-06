@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkIsolationPartition implementation
+// summary: Implements debug-string conversion for NetworkIsolationPartition values and the rule that allows empty partitions for DNS-over-HTTPS requests.
+// ---
+
 #include "net/base/network_isolation_partition.h"
 
 #include <string>

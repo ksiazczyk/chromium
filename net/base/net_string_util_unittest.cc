@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tests for locale-based uppercase conversion
+// summary: Unit tests for ToUpperUsingLocale covering empty input, single characters, simple words and already uppercase strings.
+// ---
+
 #include "net/base/net_string_util.h"
 
 #include <string>

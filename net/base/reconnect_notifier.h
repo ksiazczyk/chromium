@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ConnectionChangeNotifier header
+// summary: Declares ConnectionChangeNotifier and its observer interface for reconnect and network change events, plus related enums and connection info structs.
+// ---
+
 #ifndef NET_BASE_RECONNECT_NOTIFIER_H_
 #define NET_BASE_RECONNECT_NOTIFIER_H_
 

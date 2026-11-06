@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SIMD-accelerated Base64 decoding
+// summary: Implements SimdutfBase64Decode, a feature-gated Base64 decoder backed by the simdutf library, supporting strict and forgiving padding policies.
+// ---
+
 #include "net/base/base64.h"
 
 #include <algorithm>

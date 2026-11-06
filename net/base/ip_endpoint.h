@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IPEndPoint class header
+// summary: Declares the IPEndPoint class that pairs an IP address with a port and optional IPv6 scope ID, with sockaddr conversion and serialization helpers.
+// ---
+
 #ifndef NET_BASE_IP_ENDPOINT_H_
 #define NET_BASE_IP_ENDPOINT_H_
 

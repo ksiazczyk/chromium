@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IsolationInfo class header
+// summary: Declares IsolationInfo, which tracks network request context for cache sharding, network anonymization, and same-site cookie decisions across redirects.
+// ---
+
 #ifndef NET_BASE_ISOLATION_INFO_H_
 #define NET_BASE_ISOLATION_INFO_H_
 

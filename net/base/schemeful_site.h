@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SchemefulSite class declaration
+// summary: Declares SchemefulSite, representing a scheme and eTLD+1 for an origin, with same-site comparison, serialization and WebSocket conversion helpers.
+// ---
+
 #ifndef NET_BASE_SCHEMEFUL_SITE_H_
 #define NET_BASE_SCHEMEFUL_SITE_H_
 

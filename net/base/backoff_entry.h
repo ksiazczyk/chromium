@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BackoffEntry exponential back-off declarations
+// summary: Declares the BackoffEntry class and its Policy struct, providing reusable randomized exponential back-off logic independent of network specifics.
+// ---
+
 #ifndef NET_BASE_BACKOFF_ENTRY_H_
 #define NET_BASE_BACKOFF_ENTRY_H_
 

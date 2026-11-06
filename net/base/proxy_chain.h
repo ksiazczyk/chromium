@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Proxy chain class
+// summary: Declares ProxyChain representing a chain of proxy servers, including direct chains, IP Protection chains and opaque data.
+// ---
+
 #ifndef NET_BASE_PROXY_CHAIN_H_
 #define NET_BASE_PROXY_CHAIN_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Number parsing utilities
+// summary: Declares ParseInt* and ParseUint* helpers with ParseIntFormat and ParseIntError enums for safely parsing numbers in the context of network protocols.
+// ---
+
 #ifndef NET_BASE_PARSE_NUMBER_H_
 #define NET_BASE_PARSE_NUMBER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ProxyServer unit tests
+// summary: Unit tests verifying ProxyServer construction from scheme, host and port, including canonicalization of IPv4 and IPv6 literals and default ports.
+// ---
+
 #include "net/base/proxy_server.h"
 
 #include <array>

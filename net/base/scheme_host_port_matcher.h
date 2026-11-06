@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SchemeHostPortMatcher class declaration
+// summary: Declares SchemeHostPortMatcher, a serializable ordered rule list for matching URLs by scheme, host and port, with rule management and evaluation APIs.
+// ---
+
 #ifndef NET_BASE_SCHEME_HOST_PORT_MATCHER_H_
 #define NET_BASE_SCHEME_HOST_PORT_MATCHER_H_
 

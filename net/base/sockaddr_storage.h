@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SockaddrStorage struct
+// summary: Declares a convenience struct wrapping sockaddr storage with an address length for socket APIs.
+// ---
+
 #ifndef NET_BASE_SOCKADDR_STORAGE_H_
 #define NET_BASE_SOCKADDR_STORAGE_H_
 

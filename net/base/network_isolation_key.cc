@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkIsolationKey implementation
+// summary: Implements NetworkIsolationKey, which partitions the HTTP cache by top frame site, frame site, nonce, and network isolation partition, including cache key serialization.
+// ---
+
 #include "net/base/network_isolation_key.h"
 
 #include <cstddef>

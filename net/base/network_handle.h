@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkHandle typedef and emulation API declaration
+// summary: Defines the NetworkHandle opaque type for device network connections and declares test hooks for network binding emulation.
+// ---
+
 #ifndef NET_BASE_NETWORK_HANDLE_H_
 #define NET_BASE_NETWORK_HANDLE_H_
 

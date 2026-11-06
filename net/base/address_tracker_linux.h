@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AddressTrackerLinux class header
+// summary: Declares AddressTrackerLinux, which watches rtnetlink for interface address and link changes in tracking or snapshot mode.
+// ---
+
 #ifndef NET_BASE_ADDRESS_TRACKER_LINUX_H_
 #define NET_BASE_ADDRESS_TRACKER_LINUX_H_
 

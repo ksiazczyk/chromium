@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows network change notifier implementation
+// summary: Implements the Windows network change notifier using IP change notifications, connectivity hints, Winsock events and network cost change tracking.
+// ---
+
 #include "net/base/network_change_notifier_win.h"
 
 #include <winsock2.h>

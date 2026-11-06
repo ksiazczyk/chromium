@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Load state enum definition
+// summary: Defines the LoadState enum of resource load blocking phases plus the LoadStateWithParam struct that pairs a state with a descriptive parameter.
+// ---
+
 #ifndef NET_BASE_LOAD_STATES_H__
 #define NET_BASE_LOAD_STATES_H__
 

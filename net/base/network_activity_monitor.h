@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network activity monitor header
+// summary: Declares thread-safe free functions for tracking bytes received from the network across all sockets, excluding cache reads and activity not initiated via Chromium sockets.
+// ---
+
 #ifndef NET_BASE_NETWORK_ACTIVITY_MONITOR_H_
 #define NET_BASE_NETWORK_ACTIVITY_MONITOR_H_
 

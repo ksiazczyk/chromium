@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BackoffEntry exponential back-off implementation
+// summary: Implements the BackoffEntry class that tracks request failures and computes randomized exponential back-off release times for network requests.
+// ---
+
 #include "net/base/backoff_entry.h"
 
 #include <algorithm>

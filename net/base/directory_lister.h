@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DirectoryLister class header
+// summary: Declares DirectoryLister, an API for asynchronously listing directory contents with delegate callbacks and sort options.
+// ---
+
 #ifndef NET_BASE_DIRECTORY_LISTER_H_
 #define NET_BASE_DIRECTORY_LISTER_H_
 

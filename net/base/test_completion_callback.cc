@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test completion callbacks
+// summary: Implements completion callback helpers that let net tests wait for asynchronous results.
+// ---
+
 #include "net/base/test_completion_callback.h"
 
 #include "base/compiler_specific.h"

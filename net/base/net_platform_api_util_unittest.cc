@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tests for net platform API string-span helpers
+// summary: Unit tests verifying that strings are copied into spans with a terminating nul and that spans with or without nul terminators convert back to string views.
+// ---
+
 #include "net/base/net_platform_api_util.h"
 
 #include <string_view>

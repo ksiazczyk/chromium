@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BackoffEntry serializer declarations
+// summary: Declares BackoffEntrySerializer, which converts BackoffEntry release time and failure count to and from a persisted list value.
+// ---
+
 #ifndef NET_BASE_BACKOFF_ENTRY_SERIALIZER_H_
 #define NET_BASE_BACKOFF_ENTRY_SERIALIZER_H_
 

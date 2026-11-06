@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuchsia platform MIME utility stubs
+// summary: Fuchsia implementation of PlatformMimeUtil whose methods are stubs pending integration with a Fuchsia MIME database API.
+// ---
+
 #include "net/base/platform_mime_util.h"
 
 #include <string>

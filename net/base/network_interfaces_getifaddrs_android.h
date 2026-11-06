@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android getifaddrs header
+// summary: Declares Getifaddrs and Freeifaddrs, Chromium's own getifaddrs implementation for Android that works around buggy system versions.
+// ---
+
 #ifndef NET_BASE_NETWORK_INTERFACES_GETIFADDRS_ANDROID_H_
 #define NET_BASE_NETWORK_INTERFACES_GETIFADDRS_ANDROID_H_
 

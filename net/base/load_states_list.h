@@ -15,6 +15,12 @@
 // expanded differently in some places (for example, to automatically
 // map a load flag value to its symbolic name).
 
+// ---docerion
+// type: source
+// title: Load state list for macro expansion
+// summary: Lists load state names, values, and explanations for the LOAD_STATE macro, covering socket pools, delegates, cache waits, proxies, DNS, and SSL phases.
+// ---
+
 // This is the default state.  It corresponds to a resource load that has
 // either not yet begun or is idle waiting for the consumer to do something
 // to move things along (e.g., the consumer of an URLRequest may not have

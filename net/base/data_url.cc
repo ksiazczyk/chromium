@@ -4,6 +4,12 @@
 
 // NOTE: based loosely on mozilla's nsDataChannel.cpp
 
+// ---docerion
+// type: source
+// title: Data URL parsing implementation
+// summary: 'Implements parsing of data: URLs into MIME type, charset and decoded payload, including building response headers.'
+// ---
+
 #include "net/base/data_url.h"
 
 #include <algorithm>

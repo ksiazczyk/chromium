@@ -30,6 +30,12 @@
 //  recreates an empty database.
 //  - Structured headers should be used for HTTP headers.
 
+// ---docerion
+// type: source
+// title: PickleTraits serialization framework
+// summary: Header implementing serialization and deserialization traits for common types with base::Pickle, plus extension points and usage guidance for new types.
+// ---
+
 #ifndef NET_BASE_PICKLE_TRAITS_H_
 #define NET_BASE_PICKLE_TRAITS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DoesUrlMatchFilter unit tests
+// summary: Unit tests verifying URL matching against origins, domains, IPv4 and IPv6 addresses for both match polarities of the filter utility.
+// ---
+
 #include "net/base/does_url_match_filter.h"
 
 #include <string>

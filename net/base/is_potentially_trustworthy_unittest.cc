@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Potentially trustworthy checks unit tests
+// summary: Unit tests for origin and URL trustworthiness checks and the --unsafely-treat-insecure-origin-as-secure allowlist behavior.
+// ---
+
 #include "net/base/is_potentially_trustworthy.h"
 
 #include "base/command_line.h"

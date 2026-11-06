@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NetworkIsolationKey unit tests
+// summary: Unit tests covering NetworkIsolationKey behavior for empty, same-site, cross-site, nonce-based, and partitioned keys, including cache key strings, transience, and debug output.
+// ---
+
 #include "net/base/network_isolation_key.h"
 
 #include <array>

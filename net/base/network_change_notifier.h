@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network change notifier header
+// summary: Declares NetworkChangeNotifier, which watches the system for network changes and defines connection type and subtype enums reported to observers.
+// ---
+
 #ifndef NET_BASE_NETWORK_CHANGE_NOTIFIER_H_
 #define NET_BASE_NETWORK_CHANGE_NOTIFIER_H_
 

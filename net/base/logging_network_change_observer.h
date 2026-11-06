@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Logging network change observer header
+// summary: Declares an observer class that records network change events from NetworkChangeNotifier as NetLog events.
+// ---
+
 #ifndef NET_BASE_LOGGING_NETWORK_CHANGE_OBSERVER_H_
 #define NET_BASE_LOGGING_NETWORK_CHANGE_OBSERVER_H_
 

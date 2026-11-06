@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ParseURLHostnameToAddress fuzzer
+// summary: LibFuzzer harness that parses a hostname into an IP address and exercises AddressList creation and endpoint string conversion.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

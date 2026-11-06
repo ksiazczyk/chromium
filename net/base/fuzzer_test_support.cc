@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shared fuzzer initialization for net tests
+// summary: Provides centralized libFuzzer initialization for net fuzzers, setting up command line, task environment, timeouts, ICU, and logging globals.
+// ---
+
 #include "base/at_exit.h"
 #include "base/command_line.h"
 #include "base/i18n/icu_util.h"

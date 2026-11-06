@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NetworkDelegate unit tests
+// summary: Tests NetworkDelegate's ExcludeAllCookies and MoveExcludedCookies helpers for moving cookies between included and excluded lists.
+// ---
+
 #include "net/base/network_delegate.h"
 
 #include "net/cookies/canonical_cookie.h"

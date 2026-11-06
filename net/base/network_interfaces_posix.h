@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: POSIX network interface helper header
+// summary: Declares shared POSIX helpers for interface filtering and loopback address detection used by the Linux and getifaddrs network interface implementations.
+// ---
+
 #ifndef NET_BASE_NETWORK_INTERFACES_POSIX_H_
 #define NET_BASE_NETWORK_INTERFACES_POSIX_H_
 

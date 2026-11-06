@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IPAddress unit tests
+// summary: Unit tests for IPAddress and IPAddressBytes covering construction, validity, reserved ranges, parsing and conversions.
+// ---
+
 #include "net/base/ip_address.h"
 
 #include <array>

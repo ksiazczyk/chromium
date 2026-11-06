@@ -4,6 +4,12 @@
 
 // Functions used internally by filename_util, and filename_util_icu.
 
+// ---docerion
+// type: source
+// title: Internal filename utilities declarations
+// summary: Declares internal helpers shared by filename_util and filename_util_icu, including sanitization and impl functions that accept a character-replacement callback.
+// ---
+
 #ifndef NET_BASE_FILENAME_UTIL_INTERNAL_H_
 #define NET_BASE_FILENAME_UTIL_INTERNAL_H_
 

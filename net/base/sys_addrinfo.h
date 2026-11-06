@@ -20,6 +20,12 @@
 // avoid including this in headers. Including windows.h can also add significant
 // build overhead.
 
+// ---docerion
+// type: source
+// title: Platform addrinfo convenience header
+// summary: Convenience header that includes the platform-specific addrinfo and sockaddr definitions.
+// ---
+
 #ifndef NET_BASE_SYS_ADDRINFO_H_
 #define NET_BASE_SYS_ADDRINFO_H_
 

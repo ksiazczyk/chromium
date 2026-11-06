@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkDelegate interface declaration
+// summary: Declares the NetworkDelegate interface through which the network stack notifies embedders about request, cookie, proxy, and reporting events.
+// ---
+
 #ifndef NET_BASE_NETWORK_DELEGATE_H_
 #define NET_BASE_NETWORK_DELEGATE_H_
 

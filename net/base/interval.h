@@ -57,6 +57,12 @@
 //   EXPECT_TRUE(r1.Empty());  // Now r1 is empty.
 //   EXPECT_FALSE(r1.Contains(r1.min()));  // e.g. doesn't contain its own min.
 
+// ---docerion
+// type: source
+// title: Interval<T> template class header
+// summary: Defines a half-open Interval<T> class over ordered types with containment, comparison, union, intersection and difference operations.
+// ---
+
 #ifndef NET_BASE_INTERVAL_H_
 #define NET_BASE_INTERVAL_H_
 

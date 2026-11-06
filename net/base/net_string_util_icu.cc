@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ICU implementation of network string conversions
+// summary: Implements the charset conversion functions using ICU converters and base i18n helpers for UTF-8, UTF-16 and uppercase operations.
+// ---
+
 #include "net/base/net_string_util.h"
 
 #include <string_view>

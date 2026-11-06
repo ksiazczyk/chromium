@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SchemeHostPortMatcherRule unit tests
+// summary: Unit tests verifying parsing and evaluation of hostname pattern, IP host and CIDR matcher rules across schemes, ports and hosts.
+// ---
+
 #include "net/base/scheme_host_port_matcher_rule.h"
 
 #include "testing/gtest/include/gtest/gtest.h"
