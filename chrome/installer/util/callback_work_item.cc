@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CallbackWorkItem implementation
+// summary: Implements a work item whose do and rollback actions are supplied as base callbacks and run against the item itself.
+// ---
+
 #include "chrome/installer/util/callback_work_item.h"
 
 CallbackWorkItem::CallbackWorkItem(

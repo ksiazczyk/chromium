@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: InstallUtil unit tests
+// summary: Unit tests for InstallUtil helpers covering command line composition, date formatting, GUID conversion, and toast activator registry paths.
+// ---
+
 
 #include "chrome/installer/util/install_util.h"
 

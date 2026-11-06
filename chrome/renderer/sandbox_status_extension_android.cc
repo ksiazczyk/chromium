@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android sandbox status extension implementation
+// summary: Implements the renderer-side extension that installs a JavaScript function exposing the Android renderer sandbox status on the sandbox status WebUI page, after the browser blesses the frame.
+// ---
+
 #include "chrome/renderer/sandbox_status_extension_android.h"
 
 #include <utility>

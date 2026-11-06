@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome content renderer client unit tests
+// summary: Unit tests checking that the extensions client and its delegated feature availability map are initialized correctly in the renderer process.
+// ---
+
 #include "chrome/renderer/chrome_content_renderer_client.h"
 
 #include <map>

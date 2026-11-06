@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeRenderFrameObserver unit tests
+// summary: Unit tests for ChromeRenderFrameObserver helpers such as image downscaling, image encoding decisions and animated WebP detection.
+// ---
+
 #include "chrome/renderer/chrome_render_frame_observer.h"
 
 #include "base/test/scoped_feature_list.h"

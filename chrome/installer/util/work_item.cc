@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Work item factory implementations
+// summary: Implements factory methods that create work items for file, directory, and registry operations performed during install, update, and uninstall.
+// ---
+
 #include "chrome/installer/util/work_item.h"
 
 #include <windows.h>

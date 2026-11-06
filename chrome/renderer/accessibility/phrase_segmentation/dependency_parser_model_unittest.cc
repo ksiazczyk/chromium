@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the dependency parser model
+// summary: Tests model loading with invalid and valid model files, availability checks, and the expected UMA histogram states for the dependency parser model.
+// ---
+
 #include "chrome/renderer/accessibility/phrase_segmentation/dependency_parser_model.h"
 
 #include <array>

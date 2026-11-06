@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TokenBoundaries unit tests
+// summary: Unit test verifying that TokenBoundaries computes the expected boundary weights for a sample sentence's dependency tree.
+// ---
+
 #include "chrome/renderer/accessibility/phrase_segmentation/token_boundaries.h"
 
 #include <string>

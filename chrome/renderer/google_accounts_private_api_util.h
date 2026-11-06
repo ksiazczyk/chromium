@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Google Accounts private API utility header
+// summary: Declares ShouldExposeGoogleAccountsJavascriptApi, which verifies a frame has a Gaia origin and must match the browser-side logic.
+// ---
+
 #ifndef CHROME_RENDERER_GOOGLE_ACCOUNTS_PRIVATE_API_UTIL_H_
 #define CHROME_RENDERER_GOOGLE_ACCOUNTS_PRIVATE_API_UTIL_H_
 

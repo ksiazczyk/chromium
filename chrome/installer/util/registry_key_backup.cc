@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RegistryKeyBackup implementation
+// summary: Implements recursive backup and restore of a registry key's values and subkeys, excluding security descriptors.
+// ---
+
 #include "chrome/installer/util/registry_key_backup.h"
 
 #include <stdint.h>

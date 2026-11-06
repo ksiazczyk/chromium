@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Update did run state implementation
+// summary: Sets Chrome's 'did run' registry value to true under the client state key so Google Update can see that Chrome has run.
+// ---
+
 #include "chrome/installer/util/update_did_run_state.h"
 
 #include <windows.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Renderer process state implementation
+// summary: Tracks whether the renderer process is incognito or an instant process, using a feature flag or the command-line switch.
+// ---
+
 #include "chrome/renderer/process_state.h"
 
 #include <optional>

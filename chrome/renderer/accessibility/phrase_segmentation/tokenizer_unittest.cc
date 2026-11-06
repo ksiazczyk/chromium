@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tokenizer unit tests
+// summary: Unit tests covering Tokenizer tokenization of sentences, empty input, irregular spaces, punctuation, apostrophes and non-ASCII text.
+// ---
+
 #include "chrome/renderer/accessibility/phrase_segmentation/tokenizer.h"
 
 #include <string>

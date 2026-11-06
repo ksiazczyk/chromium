@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Duplicate tree detector unit tests
+// summary: Unit tests for IsIdenticalFileHierarchy covering identical, containing and differing directory hierarchies.
+// ---
+
 #include "chrome/installer/util/duplicate_tree_detector.h"
 
 #include <windows.h>

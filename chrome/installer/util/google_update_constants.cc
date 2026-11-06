@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Google Update constants definitions
+// summary: Defines Google Update upgrade GUIDs, registry key paths, and registry value field name constants used by the installer.
+// ---
+
 #include "chrome/installer/util/google_update_constants.h"
 
 namespace google_update {

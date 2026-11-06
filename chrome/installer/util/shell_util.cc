@@ -7,6 +7,12 @@
 // work is done by the local functions defined in anonymous namespace in
 // this class.
 
+// ---docerion
+// type: source
+// title: ShellUtil implementation for Windows shell integration
+// summary: Implements functions that integrate Chrome with the Windows shell, covering registry registration, shortcuts, and default program handling for Chrome and its installer.
+// ---
+
 #include "chrome/installer/util/shell_util.h"
 
 #include <objbase.h>

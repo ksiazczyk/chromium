@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TokenizedSentence unit tests
+// summary: Unit tests verifying that TokenizedSentence tokenizes text correctly and that WordsBetween returns the expected word counts between character indices.
+// ---
+
 #include "chrome/renderer/accessibility/phrase_segmentation/tokenized_sentence.h"
 
 #include <string>

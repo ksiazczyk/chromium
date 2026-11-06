@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RegistryEntry class interface
+// summary: Declares RegistryEntry, which represents a single registry entry and supports transactional creation or removal via a work item list.
+// ---
+
 #ifndef CHROME_INSTALLER_UTIL_REGISTRY_ENTRY_H_
 #define CHROME_INSTALLER_UTIL_REGISTRY_ENTRY_H_
 

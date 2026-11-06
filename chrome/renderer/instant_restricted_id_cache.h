@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Instant restricted ID cache
+// summary: Template LRU cache that assigns and resolves restricted IDs for Instant page items so the SearchBox API can fetch object info by ID.
+// ---
+
 #ifndef CHROME_RENDERER_INSTANT_RESTRICTED_ID_CACHE_H_
 #define CHROME_RENDERER_INSTANT_RESTRICTED_ID_CACHE_H_
 

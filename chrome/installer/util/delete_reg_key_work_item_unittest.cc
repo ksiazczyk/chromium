@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Delete registry key work item unit tests
+// summary: Unit tests for DeleteRegKeyWorkItem covering deletion of missing, empty, and populated registry keys and the restoration of their contents on rollback.
+// ---
+
 #include "chrome/installer/util/delete_reg_key_work_item.h"
 
 #include <windows.h>

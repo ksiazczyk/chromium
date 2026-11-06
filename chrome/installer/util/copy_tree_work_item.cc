@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CopyTreeWorkItem implementation
+// summary: Implements copying a source file or directory tree to a destination, with rollback handled through a file conductor.
+// ---
+
 #include "chrome/installer/util/copy_tree_work_item.h"
 
 CopyTreeWorkItem::~CopyTreeWorkItem() = default;

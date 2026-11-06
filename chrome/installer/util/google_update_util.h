@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Google Update utility declarations
+// summary: Declares functions to notify Google Update of an uninstall and to re-enable Chrome updates with elevation if needed.
+// ---
+
 #ifndef CHROME_INSTALLER_UTIL_GOOGLE_UPDATE_UTIL_H_
 #define CHROME_INSTALLER_UTIL_GOOGLE_UPDATE_UTIL_H_
 

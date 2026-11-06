@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows firewall manager implementation
+// summary: Implements the FirewallManager interface for Windows, adding and removing an mDNS UDP firewall rule through the advanced firewall manager.
+// ---
+
 #include "chrome/installer/util/firewall_manager_win.h"
 
 #include <stdint.h>

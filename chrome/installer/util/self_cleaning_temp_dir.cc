@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SelfCleaningTempDir implementation
+// summary: Implements creation and deletion of temporary directories, removing empty intermediate parent directories or scheduling them for deletion after reboot.
+// ---
+
 #include "chrome/installer/util/self_cleaning_temp_dir.h"
 
 #include <windows.h>

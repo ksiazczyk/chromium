@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeleteTreeWorkItem class declaration
+// summary: Declares a WorkItem subclass that recursively deletes a file or directory tree, guarded by optional key files and supporting rollback.
+// ---
+
 #ifndef CHROME_INSTALLER_UTIL_DELETE_TREE_WORK_ITEM_H_
 #define CHROME_INSTALLER_UTIL_DELETE_TREE_WORK_ITEM_H_
 

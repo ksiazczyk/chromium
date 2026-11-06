@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome content settings agent delegate browser tests
+// summary: Browser tests for temporarily allowed plugin behavior and storage access allowlisting of PDF extension frames.
+// ---
+
 #include "chrome/renderer/chrome_content_settings_agent_delegate.h"
 
 #include "chrome/test/base/chrome_render_view_test.h"

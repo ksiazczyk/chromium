@@ -5,6 +5,12 @@
 // This file contains the constants used to process initial_preferences files
 // used by setup and first run.
 
+// ---docerion
+// type: source
+// title: Constants for initial preferences keys
+// summary: Defines the names of distribution preferences such as shortcut creation, system level, EULA, and logging used by setup.
+// ---
+
 #ifndef CHROME_INSTALLER_UTIL_INITIAL_PREFERENCES_CONSTANTS_H_
 #define CHROME_INSTALLER_UTIL_INITIAL_PREFERENCES_CONSTANTS_H_
 

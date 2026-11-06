@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Move tree work item implementation
+// summary: Implements MoveTreeWorkItem, which moves a source file or directory tree to a destination, optionally skipping identical trees, with rollback support.
+// ---
+
 #include "chrome/installer/util/move_tree_work_item.h"
 
 #include "chrome/installer/util/duplicate_tree_detector.h"

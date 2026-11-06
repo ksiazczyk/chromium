@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome render frame observer implementation
+// summary: Implements ChromeRenderFrameObserver, the Chrome-specific per-frame logic including translate agents, phishing classification, and context node image capture.
+// ---
+
 #include "chrome/renderer/chrome_render_frame_observer.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NotificationActivator implementation
+// summary: Handles toast activation by launching Chrome with a notification launch id and records primary and secondary status histograms.
+// ---
+
 #include "chrome/notification_helper/notification_activator.h"
 
 #include <windows.h>

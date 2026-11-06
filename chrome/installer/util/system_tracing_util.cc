@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System tracing service registration helpers
+// summary: Implements helpers that register and deregister the Windows system tracing service by running elevated installer commands for per-machine Chrome installs.
+// ---
+
 #include "chrome/installer/util/system_tracing_util.h"
 
 #include "base/path_service.h"

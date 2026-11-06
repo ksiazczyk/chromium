@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Installer logging implementation
+// summary: Initializes and ends installer logging, truncates oversized log files, and resolves the log file path from installer preferences.
+// ---
+
 #include "chrome/installer/util/logging_installer.h"
 
 #include <windows.h>

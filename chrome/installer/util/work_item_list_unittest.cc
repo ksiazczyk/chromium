@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Work item list unit tests
+// summary: Unit tests verifying that a work item list executes its items in order and rolls them back on both success and mid-list failure paths.
+// ---
+
 #include "chrome/installer/util/work_item_list.h"
 
 #include <memory>

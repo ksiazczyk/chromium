@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ComServerModule unit tests
+// summary: Verifies COM class object registration and that the waitable event signals once the last instance object is released.
+// ---
+
 #include "chrome/notification_helper/com_server_module.h"
 
 #include <memory>

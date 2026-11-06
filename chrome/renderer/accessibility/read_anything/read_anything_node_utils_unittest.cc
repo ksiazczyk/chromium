@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Read Anything node utilities unit tests
+// summary: Unit tests covering node utility behavior such as text detection, HTML tags, and PDF text content filtering for Read Anything.
+// ---
+
 #include "chrome/renderer/accessibility/read_anything/read_anything_node_utils.h"
 
 #include <string>

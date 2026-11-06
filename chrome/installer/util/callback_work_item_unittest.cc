@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CallbackWorkItem unit tests
+// summary: Tests that CallbackWorkItem invokes its do and rollback callbacks and reports failure when the callback returns false.
+// ---
+
 #include "chrome/installer/util/callback_work_item.h"
 
 #include "base/functional/bind.h"

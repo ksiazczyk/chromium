@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Font prewarmer header
+// summary: Declares FontPrewarmer, a simple Mojo forwarder from chrome::mojom::FontPrewarmer to Blink for prewarming font families.
+// ---
+
 #ifndef CHROME_RENDERER_FONT_PREWARMER_H_
 #define CHROME_RENDERER_FONT_PREWARMER_H_
 

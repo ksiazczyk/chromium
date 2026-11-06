@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeRenderFrameObserver browser tests
+// summary: Browser tests for ChromeRenderFrameObserver covering translate agent registration, page text dumps and related renderer frame behavior.
+// ---
+
 #include "chrome/renderer/chrome_render_frame_observer.h"
 
 #include <string>

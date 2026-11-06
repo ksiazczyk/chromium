@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Create registry key work item implementation
+// summary: Implements CreateRegKeyWorkItem, which creates a registry key and its intermediate keys and deletes created keys during rollback.
+// ---
+
 #include <stddef.h>
 
 #include "base/check.h"

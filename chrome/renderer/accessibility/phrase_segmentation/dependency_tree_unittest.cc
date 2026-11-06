@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DependencyTree unit tests
+// summary: Unit tests verifying that DependencyTree initializes dependency relations correctly and maps dependency graph edges to phrase boundaries.
+// ---
+
 #include "chrome/renderer/accessibility/phrase_segmentation/dependency_tree.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Google Accounts private API utility implementation
+// summary: Implements a check that a render frame's origin is the allowed Gaia origin before exposing the Google Accounts JavaScript API.
+// ---
+
 #include "chrome/renderer/google_accounts_private_api_util.h"
 
 #include "content/public/renderer/render_frame.h"

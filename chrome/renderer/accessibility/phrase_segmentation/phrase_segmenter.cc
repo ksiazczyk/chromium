@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PhraseSegmenter implementation
+// summary: Implements the phrase splitting algorithm that iteratively breaks sentences into phrases using boundary weights, strategies and thresholds.
+// ---
+
 #include "chrome/renderer/accessibility/phrase_segmentation/phrase_segmenter.h"
 
 #include <deque>

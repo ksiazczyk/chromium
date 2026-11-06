@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome content renderer client implementation
+// summary: Implements ChromeContentRendererClient, wiring Chrome-specific renderer behavior such as plugins, autofill, spellcheck, profiling, and interface exposure.
+// ---
+
 #include "chrome/renderer/chrome_content_renderer_client.h"
 
 #include <functional>

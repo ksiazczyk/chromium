@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Read Anything app controller implementation
+// summary: Implements the controller for the Read Anything WebUI app, handling AX tree updates, distillation, speech, metrics, and gin bindings to the TypeScript frontend.
+// ---
+
 #include "chrome/renderer/accessibility/read_anything/read_anything_app_controller.h"
 
 #include <algorithm>

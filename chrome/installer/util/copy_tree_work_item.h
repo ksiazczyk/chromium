@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CopyTreeWorkItem class declaration
+// summary: Declares a work item that recursively copies a file hierarchy, saving the original destination for rollback.
+// ---
+
 #ifndef CHROME_INSTALLER_UTIL_COPY_TREE_WORK_ITEM_H_
 #define CHROME_INSTALLER_UTIL_COPY_TREE_WORK_ITEM_H_
 

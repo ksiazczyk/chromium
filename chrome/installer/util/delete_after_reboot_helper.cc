@@ -10,6 +10,12 @@
 // This implementation really is not fast, so do not use it where that will
 // matter.
 
+// ---docerion
+// type: source
+// title: Delete after reboot helper implementation
+// summary: Implements helpers that schedule files and directories for deletion on the next reboot via the PendingFileRenameOperations registry value.
+// ---
+
 #include "chrome/installer/util/delete_after_reboot_helper.h"
 
 #include <string>

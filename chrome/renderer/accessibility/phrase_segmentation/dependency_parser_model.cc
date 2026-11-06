@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TFLite dependency parser model loading and inference
+// summary: Loads a TFLite dependency parsing model from a file, initializes the interpreter, runs inference to predict dependency heads, and records UMA metrics.
+// ---
+
 #include "chrome/renderer/accessibility/phrase_segmentation/dependency_parser_model.h"
 
 #include "base/logging.h"

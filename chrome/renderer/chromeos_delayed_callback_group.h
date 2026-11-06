@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS delayed callback group header
+// summary: Declares the thread-safe DelayedCallbackGroup class that runs queued callbacks en masse or after an expiration delay.
+// ---
+
 #ifndef CHROME_RENDERER_CHROMEOS_DELAYED_CALLBACK_GROUP_H_
 #define CHROME_RENDERER_CHROMEOS_DELAYED_CALLBACK_GROUP_H_
 

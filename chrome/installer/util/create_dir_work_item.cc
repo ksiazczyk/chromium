@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Create directory work item implementation
+// summary: Implements CreateDirWorkItem, which creates a directory and any missing parent directories and rolls back the directories it created.
+// ---
+
 #include "chrome/installer/util/create_dir_work_item.h"
 
 #include <windows.h>

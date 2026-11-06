@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for installer util
+summary: Specifies allowed include dependencies for the installer util directory, such as install_static, metrics, and version_info headers.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ProductState unit tests
+// summary: Unit tests for ProductState initialization from registry data, covering version fields, uninstall commands, and system versus user installs.
+// ---
+
 #include <windows.h>
 
 #include "base/test/test_reg_util_win.h"

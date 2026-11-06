@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL loader throttle provider implementation header
+// summary: Declares the Chrome renderer's blink::URLLoaderThrottleProvider implementation that creates URL loader throttles, including Safe Browsing and extension throttles.
+// ---
+
 #ifndef CHROME_RENDERER_URL_LOADER_THROTTLE_PROVIDER_IMPL_H_
 #define CHROME_RENDERER_URL_LOADER_THROTTLE_PROVIDER_IMPL_H_
 

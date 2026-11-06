@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL loader throttle provider implementation
+// summary: Implements the renderer's URL loader throttle provider that assembles per-frame and per-profile throttles such as safe browsing, extensions, and merge session throttles.
+// ---
+
 #include "chrome/renderer/url_loader_throttle_provider_impl.h"
 
 #include <memory>

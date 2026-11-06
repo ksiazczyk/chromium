@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: V8 stack unwinder class declaration
+// summary: Declares V8Unwinder, a base::Unwinder that unwinds V8 generated code frames for the stack sampling profiler.
+// ---
+
 #ifndef CHROME_RENDERER_V8_UNWINDER_H_
 #define CHROME_RENDERER_V8_UNWINDER_H_
 

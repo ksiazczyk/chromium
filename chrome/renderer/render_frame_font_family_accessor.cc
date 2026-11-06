@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RenderFrameFontFamilyAccessor implementation
+// summary: Implements a render frame observer that collects web font family names after first contentful paint and returns them to the browser via a Mojo interface.
+// ---
+
 #include "chrome/renderer/render_frame_font_family_accessor.h"
 
 #include "content/public/renderer/render_frame.h"

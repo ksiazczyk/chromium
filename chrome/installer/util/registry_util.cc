@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Registry utility functions implementation
+// summary: Implements helpers to delete registry keys and values, conditionally delete based on predicates, and compare program paths.
+// ---
+
 #include "chrome/installer/util/registry_util.h"
 
 #include <windows.h>

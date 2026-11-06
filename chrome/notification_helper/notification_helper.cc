@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification helper executable entry point
+// summary: Windows wWinMain that runs the notification helper COM server, setting up crash reporting, WinRT and persistent histogram storage.
+// ---
+
 #include <windows.h>
 
 #include "base/at_exit.h"

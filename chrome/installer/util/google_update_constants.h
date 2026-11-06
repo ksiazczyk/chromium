@@ -4,6 +4,12 @@
 
 // Defines all the command-line switches used with Google Update.
 
+// ---docerion
+// type: source
+// title: Google Update constants declarations
+// summary: Declares the Google Update registry constants and the Tristate enum used for registry-backed settings.
+// ---
+
 #ifndef CHROME_INSTALLER_UTIL_GOOGLE_UPDATE_CONSTANTS_H_
 #define CHROME_INSTALLER_UTIL_GOOGLE_UPDATE_CONSTANTS_H_
 

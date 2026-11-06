@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Per-install registry value storage declaration
+// summary: Declares PerInstallValue, a class for persisting named base::Value objects in the registry per install, with set, get, and delete operations.
+// ---
+
 #ifndef CHROME_INSTALLER_UTIL_PER_INSTALL_VALUES_H_
 #define CHROME_INSTALLER_UTIL_PER_INSTALL_VALUES_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of notification_helper.rc.
+type: source
+title: Visual C++ resource script
+summary: Resource script defining the English (United States) resources compiled into the notification helper executable.

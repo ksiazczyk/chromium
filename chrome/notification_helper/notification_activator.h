@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NotificationActivator class declaration
+// summary: Declares the COM component exposing INotificationActivationCallback so Win32 apps can participate in the Windows Action Center.
+// ---
+
 #ifndef CHROME_NOTIFICATION_HELPER_NOTIFICATION_ACTIVATOR_H_
 #define CHROME_NOTIFICATION_HELPER_NOTIFICATION_ACTIVATOR_H_
 

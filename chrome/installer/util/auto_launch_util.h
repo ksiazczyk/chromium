@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Auto-launch utility declaration
+// summary: Declares the auto_launch_util namespace with StartupLaunchMode and functions to enable or disable Chrome starting at user login.
+// ---
+
 #ifndef CHROME_INSTALLER_UTIL_AUTO_LAUNCH_UTIL_H_
 #define CHROME_INSTALLER_UTIL_AUTO_LAUNCH_UTIL_H_
 

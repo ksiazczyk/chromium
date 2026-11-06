@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows taskbar pinning implementation
+// summary: Implements pinning, unpinning, and querying of Chrome shortcuts on the Windows taskbar using the undocumented IPinnedList3 COM interface.
+// ---
+
 #include "chrome/installer/util/taskbar_util.h"
 
 #include <objbase.h>

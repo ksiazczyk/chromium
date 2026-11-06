@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabContextDecryptionTokenExtension implementation
+// summary: Implements the renderer extension that installs chrome.getContainerDecryptionToken on allowed tab context origins to fetch decryption tokens for encrypted tab context containers.
+// ---
+
 #include "chrome/renderer/tab_context_decryption_token_extension.h"
 
 #include <utility>

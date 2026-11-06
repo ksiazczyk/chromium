@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InstallationState implementation
+// summary: Reads Chrome's installed product state, including version, channel, brand, usage stats, and uninstall command, from the Windows registry.
+// ---
+
 #include "chrome/installer/util/installation_state.h"
 
 #include <memory>

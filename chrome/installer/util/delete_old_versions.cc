@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Delete old versions implementation
+// summary: Implements cleanup of old Chrome version directories and executables, deleting stray version folders while protecting the active chrome.exe and new_chrome.exe files.
+// ---
+
 #include "chrome/installer/util/delete_old_versions.h"
 
 #include <map>

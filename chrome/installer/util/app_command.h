@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppCommand class declaration
+// summary: Declares the installer AppCommand class describing commands registered by setup.exe that Google Update can invoke, with registry read and work item helpers.
+// ---
+
 #ifndef CHROME_INSTALLER_UTIL_APP_COMMAND_H_
 #define CHROME_INSTALLER_UTIL_APP_COMMAND_H_
 

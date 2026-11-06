@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GoogleUpdateSettings Windows implementation
+// summary: Implements GoogleUpdateSettings on Windows, reading Google Update registry keys, cohort values, and update policies.
+// ---
+
 #include "chrome/installer/util/google_update_settings.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Move tree work item unit tests
+// summary: Unit tests covering moving directories and files with MoveTreeWorkItem, including cases where the destination exists and rollback behavior.
+// ---
+
 #include "chrome/installer/util/move_tree_work_item.h"
 
 #include <windows.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AdditionalParameters class interface
+// summary: Declares a class for accessing and modifying the 'additional parameters' registry value that carries update channel and stats settings.
+// ---
+
 #ifndef CHROME_INSTALLER_UTIL_ADDITIONAL_PARAMETERS_H_
 #define CHROME_INSTALLER_UTIL_ADDITIONAL_PARAMETERS_H_
 

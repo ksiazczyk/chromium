@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome content settings agent delegate implementation
+// summary: Implements the Chrome delegate for content settings, handling temporarily allowed plugins, clipboard permissions, and storage access allowlisting.
+// ---
+
 #include "chrome/renderer/chrome_content_settings_agent_delegate.h"
 
 #include "build/build_config.h"

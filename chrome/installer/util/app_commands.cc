@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppCommands collection implementation
+// summary: Implements a map of AppCommand objects loaded from a registry Commands key, with get, set, remove, clear, copy and iteration operations.
+// ---
+
 #include "chrome/installer/util/app_commands.h"
 
 #include "base/check.h"

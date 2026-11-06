@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of installer initial preferences
+// summary: Parses initial preferences from files, strings, or the command line and merges distribution options for setup and first run.
+// ---
+
 #include "chrome/installer/util/initial_preferences.h"
 
 #include <stddef.h>

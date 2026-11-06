@@ -6,6 +6,12 @@
 // for putting these functions in installer\util library is so that we can
 // separate out the critical logic and write unit tests for it.
 
+// ---docerion
+// type: source
+// title: InstallUtil class declaration
+// summary: Declares shared installation utility methods for the Chrome installer, including registry reads, Active Setup, and first-run checks.
+// ---
+
 #ifndef CHROME_INSTALLER_UTIL_INSTALL_UTIL_H_
 #define CHROME_INSTALLER_UTIL_INSTALL_UTIL_H_
 

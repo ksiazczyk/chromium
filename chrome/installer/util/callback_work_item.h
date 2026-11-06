@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CallbackWorkItem class declaration
+// summary: Declares a work item that invokes caller-supplied callbacks during Do and Rollback processing in the installer.
+// ---
+
 #ifndef CHROME_INSTALLER_UTIL_CALLBACK_WORK_ITEM_H_
 #define CHROME_INSTALLER_UTIL_CALLBACK_WORK_ITEM_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabContextDecryptionTokenExtension unit tests
+// summary: Unit tests verifying when the tab context JavaScript API is exposed based on feature flag, origin, and site lock, plus token value creation behavior.
+// ---
+
 #include "chrome/renderer/tab_context_decryption_token_extension.h"
 
 #include <optional>

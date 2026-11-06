@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Isolation support implementation
+// summary: Builds the installer isolation security attribute name from the install mode's company and product path names.
+// ---
+
 #include "chrome/installer/util/isolation_support.h"
 
 #include <string>

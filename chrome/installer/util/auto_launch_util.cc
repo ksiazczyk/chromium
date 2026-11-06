@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Auto-launch utility implementation
+// summary: Implements enabling and disabling Chrome launch at user login by writing a hashed GoogleChromeAutoLaunch value under the Run key.
+// ---
+
 #include "chrome/installer/util/auto_launch_util.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ConditionalWorkItem class declaration
+// summary: Declares a work item that runs an if or else item based on a runtime condition, with predefined condition classes.
+// ---
+
 #ifndef CHROME_INSTALLER_UTIL_CONDITIONAL_WORK_ITEM_H_
 #define CHROME_INSTALLER_UTIL_CONDITIONAL_WORK_ITEM_H_
 

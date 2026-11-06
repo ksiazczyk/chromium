@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AdvancedFirewallManager class interface
+// summary: Declares a class that manages Windows firewall rules for an application using the Advanced Security API, with most methods requiring elevation.
+// ---
+
 #ifndef CHROME_INSTALLER_UTIL_ADVANCED_FIREWALL_MANAGER_WIN_H_
 #define CHROME_INSTALLER_UTIL_ADVANCED_FIREWALL_MANAGER_WIN_H_
 

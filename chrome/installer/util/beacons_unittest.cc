@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Beacon unit tests
+// summary: Parameterized tests exercising beacon update, removal and registry location across beacon types, scopes and system or user installs.
+// ---
+
 #include "chrome/installer/util/beacons.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System tracing service helper declarations
+// summary: Declares functions to check support and registration of the Windows system tracing service and to register or deregister it via a UAC prompt.
+// ---
+
 #ifndef CHROME_INSTALLER_UTIL_SYSTEM_TRACING_UTIL_H_
 #define CHROME_INSTALLER_UTIL_SYSTEM_TRACING_UTIL_H_
 

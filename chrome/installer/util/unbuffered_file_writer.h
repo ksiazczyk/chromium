@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UnbufferedFileWriter class declarations
+// summary: Declares UnbufferedFileWriter, a class for writing files with direct unbuffered I/O that deletes the file unless a commit succeeds.
+// ---
+
 #ifndef CHROME_INSTALLER_UTIL_UNBUFFERED_FILE_WRITER_H_
 #define CHROME_INSTALLER_UTIL_UNBUFFERED_FILE_WRITER_H_
 

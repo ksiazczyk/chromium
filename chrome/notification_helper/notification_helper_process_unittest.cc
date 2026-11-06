@@ -15,6 +15,12 @@
 // chrome.exe which unit_tests.exe already has, and it's undesired to make
 // notification_helper_unittests.exe have data dependency on chrome.exe.
 
+// ---docerion
+// type: test
+// title: Notification helper process launch test
+// summary: Unit test that registers the COM server in the registry and verifies the OS launches notification_helper.exe.
+// ---
+
 #include <memory>
 #include <string>
 

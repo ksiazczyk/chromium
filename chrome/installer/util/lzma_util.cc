@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LZMA archive unpacking implementation
+// summary: Unpacks 7z/LZMA installer archives to a target location using the seven zip reader with error and directory handling.
+// ---
+
 #include "chrome/installer/util/lzma_util.h"
 
 #include <windows.h>

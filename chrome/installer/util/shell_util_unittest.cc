@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ShellUtil unit tests
+// summary: Unit tests for ShellUtil covering shortcut creation, properties, and Windows shell registration behavior using overridden paths and registry scoping.
+// ---
+
 #include "chrome/installer/util/shell_util.h"
 
 #include <cguid.h>

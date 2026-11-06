@@ -1,0 +1,4 @@
+# Docerion header of notification_helper_exe.ver.
+type: config
+title: Executable version information
+summary: Version resource values giving the internal name and original filename of notification_helper.exe for the build.

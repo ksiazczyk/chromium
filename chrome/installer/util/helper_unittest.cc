@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for installer helper functions
+// summary: Unit tests for install directory resolution, covering registry values, environment overrides, and per-user versus per-machine installs.
+// ---
+
 #include "chrome/installer/util/helper.h"
 
 #include <windows.h>

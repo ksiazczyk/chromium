@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClientIdBackupFileManager class declaration
+// summary: Declares a thread-safe singleton managing the client ID backup file that records the user's metrics reporting choice.
+// ---
+
 #ifndef CHROME_INSTALLER_UTIL_CLIENT_ID_BACKUP_FILE_MANAGER_H_
 #define CHROME_INSTALLER_UTIL_CLIENT_ID_BACKUP_FILE_MANAGER_H_
 

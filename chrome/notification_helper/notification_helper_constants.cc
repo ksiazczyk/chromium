@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification helper constants
+// summary: Defines the histogram allocator name constant used for notification helper metrics storage.
+// ---
+
 #include "chrome/notification_helper/notification_helper_constants.h"
 
 namespace notification_helper {

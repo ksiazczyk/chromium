@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Google Accounts private API extension header
+// summary: Declares a RenderFrameObserver that adds functions to the Google Accounts page accounts.google.com when a script context is created.
+// ---
+
 #ifndef CHROME_RENDERER_GOOGLE_ACCOUNTS_PRIVATE_API_EXTENSION_H_
 #define CHROME_RENDERER_GOOGLE_ACCOUNTS_PRIVATE_API_EXTENSION_H_
 

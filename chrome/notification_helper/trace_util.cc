@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Debug trace output implementation
+// summary: Implements TraceImpl, which formats a wide string and sends it to the Windows debugger via OutputDebugString in debug builds only.
+// ---
+
 
 #include <windows.h>
 

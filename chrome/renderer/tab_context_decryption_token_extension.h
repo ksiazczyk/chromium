@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabContextDecryptionTokenExtension class declaration
+// summary: Declares the render frame observer that exposes the chrome.getContainerDecryptionToken JavaScript API for allowed tab context origins gated by a sync feature flag.
+// ---
+
 #ifndef CHROME_RENDERER_TAB_CONTEXT_DECRYPTION_TOKEN_EXTENSION_H_
 #define CHROME_RENDERER_TAB_CONTEXT_DECRYPTION_TOKEN_EXTENSION_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash merge session loader throttle
+// summary: Implements deferral of XHR requests to Google domains while a ChromeOS merge session mints sign-in cookies.
+// ---
+
 #include "chrome/renderer/ash_merge_session_loader_throttle.h"
 
 #include <utility>

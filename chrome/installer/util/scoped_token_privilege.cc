@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedTokenPrivilege implementation
+// summary: Implements a scoped helper that enables a named privilege on the current process token and restores the previous privilege state on destruction.
+// ---
+
 #include "chrome/installer/util/scoped_token_privilege.h"
 
 namespace installer {

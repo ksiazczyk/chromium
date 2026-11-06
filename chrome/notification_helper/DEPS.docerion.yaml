@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Notification helper include rules
+summary: Restricts includes for the directory, allowing install_static, installer util, crash components, and extra paths for unit tests.

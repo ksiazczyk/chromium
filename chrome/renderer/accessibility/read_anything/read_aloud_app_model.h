@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Read Aloud app model header
+// summary: Declares the ReadAloudAppModel class holding Read Aloud state such as speech rate, voices, languages, highlight granularity, and speech stop source metrics enums.
+// ---
+
 #ifndef CHROME_RENDERER_ACCESSIBILITY_READ_ANYTHING_READ_ALOUD_APP_MODEL_H_
 #define CHROME_RENDERER_ACCESSIBILITY_READ_ANYTHING_READ_ALOUD_APP_MODEL_H_
 

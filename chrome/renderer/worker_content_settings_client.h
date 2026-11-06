@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Worker content settings client header
+// summary: Declares WorkerContentSettingsClient, a blink::WebContentSettingsClient created on the renderer main thread and used on worker threads for content settings checks.
+// ---
+
 #ifndef CHROME_RENDERER_WORKER_CONTENT_SETTINGS_CLIENT_H_
 #define CHROME_RENDERER_WORKER_CONTENT_SETTINGS_CLIENT_H_
 

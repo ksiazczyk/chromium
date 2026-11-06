@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ConditionalWorkItem implementation
+// summary: Implements conditional work item execution plus file-exists, file-in-use, and work-item-succeeded conditions.
+// ---
+
 #include "chrome/installer/util/conditional_work_item.h"
 
 #include <windows.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebSocket handshake throttle provider implementation
+// summary: Implements the renderer's WebSocket handshake throttle provider, creating Safe Browsing extension handshake throttles when extensions and Safe Browsing are enabled.
+// ---
+
 #include "chrome/renderer/websocket_handshake_throttle_provider_impl.h"
 
 #include <utility>

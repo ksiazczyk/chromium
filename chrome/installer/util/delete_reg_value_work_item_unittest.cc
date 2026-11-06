@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Delete registry value work item unit tests
+// summary: Unit tests for DeleteRegValueWorkItem verifying deletion and rollback of existing, empty, and nonexistent registry values under an overridden registry hive.
+// ---
+
 #include "chrome/installer/util/delete_reg_value_work_item.h"
 
 #include <windows.h>

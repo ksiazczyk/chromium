@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome content settings agent delegate class
+// summary: Declares the Chrome delegate for the content settings agent, covering plugin allowances, clipboard access, and scheme allowlisting per render frame.
+// ---
+
 #ifndef CHROME_RENDERER_CHROME_CONTENT_SETTINGS_AGENT_DELEGATE_H_
 #define CHROME_RENDERER_CHROME_CONTENT_SETTINGS_AGENT_DELEGATE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Google Update utility functions
+// summary: Implements launching the Google Update uninstall command and elevating setup.exe to re-enable Chrome auto-updates.
+// ---
+
 #include "chrome/installer/util/google_update_util.h"
 
 #include <string>

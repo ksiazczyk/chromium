@@ -5,6 +5,12 @@
 // Common Windows Taskbar manipulation functions that can be used by the Windows
 // installer as well as Chrome.
 
+// ---docerion
+// type: source
+// title: Windows taskbar pinning declarations
+// summary: Declares taskbar functions for pinning, unpinning, and checking Chrome shortcuts, plus registry tracking of installer-pinned Chrome shortcuts.
+// ---
+
 #ifndef CHROME_INSTALLER_UTIL_TASKBAR_UTIL_H_
 #define CHROME_INSTALLER_UTIL_TASKBAR_UTIL_H_
 

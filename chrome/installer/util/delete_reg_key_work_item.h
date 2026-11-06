@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Delete registry key work item header
+// summary: Declares DeleteRegKeyWorkItem, a WorkItem subclass that deletes a registry key at a given path and restores it on rollback, noting security descriptor caveats.
+// ---
+
 #ifndef CHROME_INSTALLER_UTIL_DELETE_REG_KEY_WORK_ITEM_H_
 #define CHROME_INSTALLER_UTIL_DELETE_REG_KEY_WORK_ITEM_H_
 

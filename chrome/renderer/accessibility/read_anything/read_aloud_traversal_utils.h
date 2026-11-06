@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Read Aloud traversal utilities header
+// summary: Declares text segment and current granularity structures plus traversal state utilities for navigating the accessibility tree during Read Aloud speech.
+// ---
+
 #ifndef CHROME_RENDERER_ACCESSIBILITY_READ_ANYTHING_READ_ALOUD_TRAVERSAL_UTILS_H_
 #define CHROME_RENDERER_ACCESSIBILITY_READ_ANYTHING_READ_ALOUD_TRAVERSAL_UTILS_H_
 

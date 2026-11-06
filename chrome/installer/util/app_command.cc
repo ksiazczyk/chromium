@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppCommand registry command handling
+// summary: Implements reading App Commands from the registry and creating work items to register or delete updater command keys.
+// ---
+
 #include "chrome/installer/util/app_command.h"
 
 #include <windows.h>

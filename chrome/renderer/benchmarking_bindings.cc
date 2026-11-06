@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Benchmarking bindings implementation
+// summary: Installs V8 benchmarking bindings for marks, timing, and cache clearing when benchmarking command-line switches are enabled.
+// ---
+
 #include "chrome/renderer/benchmarking_bindings.h"
 
 #include "base/base_switches.h"

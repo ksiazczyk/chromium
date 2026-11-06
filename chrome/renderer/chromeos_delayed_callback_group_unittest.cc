@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DelayedCallbackGroup unit tests
+// summary: Unit tests for DelayedCallbackGroup covering empty runs, normal runs, timeouts, double expiration and combined timeout and run cases.
+// ---
+
 #include "chrome/renderer/chromeos_delayed_callback_group.h"
 
 #include "base/task/sequenced_task_runner.h"

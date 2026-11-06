@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Read Anything app model unit tests
+// summary: Unit tests for ReadAnythingAppModel covering tree updates, selection handling, and model state before initialization.
+// ---
+
 #include "chrome/renderer/accessibility/read_anything/read_anything_app_model.h"
 
 #include <algorithm>

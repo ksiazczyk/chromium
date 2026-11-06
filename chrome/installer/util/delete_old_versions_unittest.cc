@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Delete old versions unit tests
+// summary: Unit tests for DeleteOldVersions that create alternate-version executables and dummy version directories to verify old files are deleted correctly.
+// ---
+
 #include "chrome/installer/util/delete_old_versions.h"
 
 #include <set>

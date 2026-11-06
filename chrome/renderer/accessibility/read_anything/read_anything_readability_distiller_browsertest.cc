@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Readability distiller browser tests
+// summary: Browser tests verifying Readability distillation success, empty and ineligible results, and cancellation handling.
+// ---
+
 #include "chrome/renderer/accessibility/read_anything/read_anything_readability_distiller.h"
 
 #include <memory>

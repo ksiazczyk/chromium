@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: chrome.loadTimes and chrome.csi bindings implementation
+// summary: Implements the chrome.loadTimes() and chrome.csi() JavaScript functions that expose page load timing and navigation instrumentation data.
+// ---
+
 #include "chrome/renderer/loadtimes_bindings.h"
 
 #include <string_view>

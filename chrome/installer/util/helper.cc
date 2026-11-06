@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Installer helper for resolving Chrome install directories
+// summary: Implements helper functions that resolve default and existing Chrome install directories, with environment variable fallbacks and initial preferences support.
+// ---
+
 #include "chrome/installer/util/helper.h"
 
 #include <array>

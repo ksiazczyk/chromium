@@ -1,3 +1,11 @@
+---
+type: readme
+title: Notification helper overview
+summary: Explains that notification_helper.exe is a standalone COM-launched executable that handles Windows Action Center toast activation per Chrome channel.
+relations:
+  - documents /chrome/notification_helper/notification_activator.cc
+---
+
 This directory contains the code for a COM server to handle native notification
 activation. This code is compiled in an executable named notification_helper.exe.
 

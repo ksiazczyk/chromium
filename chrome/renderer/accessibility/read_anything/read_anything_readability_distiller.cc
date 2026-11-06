@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Readability distiller implementation
+// summary: Implements the Readability-based distiller that requests DOM distillation from the browser process and converts replies into distillation results.
+// ---
+
 #include "chrome/renderer/accessibility/read_anything/read_anything_readability_distiller.h"
 
 #include <optional>

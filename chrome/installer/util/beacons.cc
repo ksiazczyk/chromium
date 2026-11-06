@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Beacon implementation
+// summary: Implements registry beacons that record first and last timestamps of default browser state changes and OS upgrades for the installer.
+// ---
+
 #include "chrome/installer/util/beacons.h"
 
 #include <stdint.h>

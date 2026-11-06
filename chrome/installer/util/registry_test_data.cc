@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RegistryTestData implementation
+// summary: Implements a test helper that creates empty and populated registry keys and verifies their contents for installer unit tests.
+// ---
+
 #include "chrome/installer/util/registry_test_data.h"
 
 #include <windows.h>

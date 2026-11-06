@@ -5,6 +5,12 @@
 // Defines all install related constants that need to be used by Chrome as
 // well as Chrome Installer.
 
+// ---docerion
+// type: source
+// title: Installer constants and install status enum
+// summary: Defines install-related constants and the InstallStatus enum of installer return codes shared by Chrome and the Chrome installer.
+// ---
+
 #ifndef CHROME_INSTALLER_UTIL_UTIL_CONSTANTS_H_
 #define CHROME_INSTALLER_UTIL_UTIL_CONSTANTS_H_
 

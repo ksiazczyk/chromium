@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RegistryTestData class interface
+// summary: Declares RegistryTestData, a helper for unit tests that sets up registry space with empty and non-empty keys.
+// ---
+
 #ifndef CHROME_INSTALLER_UTIL_REGISTRY_TEST_DATA_H_
 #define CHROME_INSTALLER_UTIL_REGISTRY_TEST_DATA_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UnbufferedFileWriter unit tests
+// summary: Unit tests for UnbufferedFileWriter covering empty, small, and chunked writes with checkpoint and commit behavior in temporary directories.
+// ---
+
 #include "chrome/installer/util/unbuffered_file_writer.h"
 
 #include <windows.h>

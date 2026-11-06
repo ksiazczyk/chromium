@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FileConductor class declaration
+// summary: Declares a helper that conducts file operations non-destructively, moving replaced items into a backup directory so they can be restored via Undo.
+// ---
+
 #ifndef CHROME_INSTALLER_UTIL_FILE_CONDUCTOR_H_
 #define CHROME_INSTALLER_UTIL_FILE_CONDUCTOR_H_
 

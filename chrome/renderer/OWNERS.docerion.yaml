@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for chrome/renderer
+summary: Lists per-file owners and review requirements, including security review for exposed renderer interfaces.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Readability distiller class
+// summary: Declares the ReadabilityDistiller class that forwards distillation requests to the browser and reports completed results for Read Anything.
+// ---
+
 #ifndef CHROME_RENDERER_ACCESSIBILITY_READ_ANYTHING_READ_ANYTHING_READABILITY_DISTILLER_H_
 #define CHROME_RENDERER_ACCESSIBILITY_READ_ANYTHING_READ_ANYTHING_READABILITY_DISTILLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Create registry key work item unit tests
+// summary: Unit tests for CreateRegKeyWorkItem covering key creation, existing and shared keys, and rollback deletion using a registry override manager.
+// ---
+
 #include "chrome/installer/util/create_reg_key_work_item.h"
 
 #include <windows.h>

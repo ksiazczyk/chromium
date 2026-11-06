@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InstallServiceWorkItemImpl class declaration
+// summary: Declares the helper class behind InstallServiceWorkItem with service config, install, upgrade, delete, and rollback operations.
+// ---
+
 #ifndef CHROME_INSTALLER_UTIL_INSTALL_SERVICE_WORK_ITEM_IMPL_H_
 #define CHROME_INSTALLER_UTIL_INSTALL_SERVICE_WORK_ITEM_IMPL_H_
 

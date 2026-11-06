@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome render thread observer header
+// summary: Declares ChromeRenderThreadObserver, a render thread observer that filters Chrome-specific control messages and manages dynamic renderer parameters.
+// ---
+
 #ifndef CHROME_RENDERER_CHROME_RENDER_THREAD_OBSERVER_H_
 #define CHROME_RENDERER_CHROME_RENDER_THREAD_OBSERVER_H_
 

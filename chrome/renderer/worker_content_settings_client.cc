@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Worker content settings client implementation
+// summary: Implements the worker thread content settings client that checks storage access and insecure content permissions via the content settings manager.
+// ---
+
 #include "chrome/renderer/worker_content_settings_client.h"
 
 #include "base/memory/ptr_util.h"

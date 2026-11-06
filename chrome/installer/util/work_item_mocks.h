@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock classes for installer WorkItem tests
+// summary: Header defining MockWorkItem and MockCondition GoogleMock helpers used to test installer work items.
+// ---
+
 #ifndef CHROME_INSTALLER_UTIL_WORK_ITEM_MOCKS_H_
 #define CHROME_INSTALLER_UTIL_WORK_ITEM_MOCKS_H_
 

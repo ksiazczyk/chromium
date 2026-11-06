@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FileConductor implementation
+// summary: Implements file and directory operations with transient-failure retries, read-only attribute handling and backup-based undo support.
+// ---
+
 #include "chrome/installer/util/file_conductor.h"
 
 #include <windows.h>

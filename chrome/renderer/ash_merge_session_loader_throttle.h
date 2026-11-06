@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash merge session loader throttle header
+// summary: Declares a URLLoaderThrottle that delays XHR requests on ChromeOS until the merge session finishes or times out.
+// ---
+
 #ifndef CHROME_RENDERER_ASH_MERGE_SESSION_LOADER_THROTTLE_H_
 #define CHROME_RENDERER_ASH_MERGE_SESSION_LOADER_THROTTLE_H_
 

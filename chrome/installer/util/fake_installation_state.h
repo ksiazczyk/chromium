@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeInstallationState test helper
+// summary: Provides a fake InstallationState that registers Chrome product states with versions and uninstall commands for unit tests.
+// ---
+
 #ifndef CHROME_INSTALLER_UTIL_FAKE_INSTALLATION_STATE_H_
 #define CHROME_INSTALLER_UTIL_FAKE_INSTALLATION_STATE_H_
 

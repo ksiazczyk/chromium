@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Read Aloud app model unit tests
+// summary: Unit tests for ReadAloudAppModel covering speech playback state, language and voice settings, granularity traversal, and histogram logging.
+// ---
+
 #include "chrome/renderer/accessibility/read_anything/read_aloud_app_model.h"
 
 #include <algorithm>

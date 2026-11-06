@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FileConductor unit tests
+// summary: Unit tests for FileConductor covering delete, move and copy operations across single-volume and cross-volume scenarios.
+// ---
+
 #include "chrome/installer/util/file_conductor.h"
 
 #include <windows.h>

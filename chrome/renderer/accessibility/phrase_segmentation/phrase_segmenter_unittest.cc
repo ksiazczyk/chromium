@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PhraseSegmenter unit tests
+// summary: Unit tests covering phrase segmentation by word and character strategies, including equal-weight splits and long-word cases.
+// ---
+
 #include "chrome/renderer/accessibility/phrase_segmentation/phrase_segmenter.h"
 
 #include <string>

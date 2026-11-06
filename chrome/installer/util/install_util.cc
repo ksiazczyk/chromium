@@ -5,6 +5,12 @@
 // See the corresponding header file for description of the functions in this
 // file.
 
+// ---docerion
+// type: source
+// title: InstallUtil implementation
+// summary: Implements common installer utilities such as uninstall command lookup, version queries, OS support checks, and UAC elevation helpers.
+// ---
+
 #include "chrome/installer/util/install_util.h"
 
 #include <windows.h>

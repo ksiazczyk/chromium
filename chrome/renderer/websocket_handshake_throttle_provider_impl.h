@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebSocket handshake throttle provider header
+// summary: Declares WebSocketHandshakeThrottleProviderImpl, which provides WebSocket handshake throttles backed by the Safe Browsing extension web request reporter.
+// ---
+
 #ifndef CHROME_RENDERER_WEBSOCKET_HANDSHAKE_THROTTLE_PROVIDER_IMPL_H_
 #define CHROME_RENDERER_WEBSOCKET_HANDSHAKE_THROTTLE_PROVIDER_IMPL_H_
 
