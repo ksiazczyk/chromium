@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Permission request queue class declaration
+// summary: Declares PermissionRequestQueue, a container holding pending permission requests ordered by high, normal and low priority.
+// ---
+
 #ifndef COMPONENTS_PERMISSIONS_PERMISSION_REQUEST_QUEUE_H_
 #define COMPONENTS_PERMISSIONS_PERMISSION_REQUEST_QUEUE_H_
 

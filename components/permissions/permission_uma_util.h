@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Permission UMA logging header
+// summary: Declares the PermissionUmaUtil class with static helpers for logging permission prompt, action, and revocation metrics.
+// ---
+
 #ifndef COMPONENTS_PERMISSIONS_PERMISSION_UMA_UTIL_H_
 #define COMPONENTS_PERMISSIONS_PERMISSION_UMA_UTIL_H_
 

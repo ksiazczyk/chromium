@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth delegate interface declaration
+// summary: Declares BluetoothDelegateImpl and its Client interface for managing device permissions for Web Bluetooth and the Web Bluetooth Scanning API.
+// ---
+
 #ifndef COMPONENTS_PERMISSIONS_BLUETOOTH_DELEGATE_IMPL_H_
 #define COMPONENTS_PERMISSIONS_BLUETOOTH_DELEGATE_IMPL_H_
 

@@ -1,6 +1,13 @@
 // Copyright 2020 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Permission actions history implementation
+// summary: Implements recording of permission prompt actions in preferences and manages heuristic auto-grants based on repeated temporary grants per origin and permission type.
+// ---
+
 #include "components/permissions/permission_actions_history.h"
 
 #include <algorithm>

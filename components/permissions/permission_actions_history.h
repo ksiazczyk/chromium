@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Permission actions history header
+// summary: Declares a browser-wide keyed service that records permission prompt actions, exposes history queries, and manages heuristic permission grants for repeated temporary grants.
+// ---
+
 #ifndef COMPONENTS_PERMISSIONS_PERMISSION_ACTIONS_HISTORY_H_
 #define COMPONENTS_PERMISSIONS_PERMISSION_ACTIONS_HISTORY_H_
 

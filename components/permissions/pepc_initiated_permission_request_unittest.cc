@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PEPC-initiated permission request unit tests
+// summary: Unit tests covering permission requests initiated via embedded permission control, including geolocation and user media element descriptors.
+// ---
+
 #include <optional>
 #include <vector>
 

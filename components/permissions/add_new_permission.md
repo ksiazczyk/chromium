@@ -1,3 +1,13 @@
+---
+type: guide
+title: Add new permission
+summary: Step-by-step guide for adding a new permission, covering PermissionType, ContentSettingsType, permission contexts, UI, tracking, and enterprise policies.
+relations:
+  - references /third_party/blink/public/common/permissions/permission_utils.h
+  - references /components/content_settings/core/common/content_settings_types.h
+  - references /components/permissions/permission_context_base.h
+---
+
 # Add new permission
 
 [TOC]

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Permissions constants declarations
+// summary: Declares shared permissions component constants, including prompt survey keys, help center URLs, and Storage Access API permission lifetimes.
+// ---
+
 #ifndef COMPONENTS_PERMISSIONS_CONSTANTS_H_
 #define COMPONENTS_PERMISSIONS_CONSTANTS_H_
 

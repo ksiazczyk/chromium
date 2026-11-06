@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notifications engagement service
+// summary: Declares a keyed service that stores daily notification engagement per origin for the past 30 days.
+// ---
+
 #ifndef COMPONENTS_PERMISSIONS_NOTIFICATIONS_ENGAGEMENT_SERVICE_H_
 #define COMPONENTS_PERMISSIONS_NOTIFICATIONS_ENGAGEMENT_SERVICE_H_
 

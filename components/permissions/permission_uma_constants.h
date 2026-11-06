@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Permission UMA enum constants
+// summary: Defines append-only enums backing UMA histograms for permission actions, request types, and the UI surfaces that trigger permission prompts.
+// ---
+
 #ifndef COMPONENTS_PERMISSIONS_PERMISSION_UMA_CONSTANTS_H_
 #define COMPONENTS_PERMISSIONS_PERMISSION_UMA_CONSTANTS_H_
 

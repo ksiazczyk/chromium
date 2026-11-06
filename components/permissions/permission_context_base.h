@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Permission context base header
+// summary: Declares the base class for permission contexts that create requests, save accepted or denied permissions in content settings, and notify observers of status changes.
+// ---
+
 #ifndef COMPONENTS_PERMISSIONS_PERMISSION_CONTEXT_BASE_H_
 #define COMPONENTS_PERMISSIONS_PERMISSION_CONTEXT_BASE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Permission HaTS survey trigger helper header
+// summary: Declares PermissionHatsTriggerHelper and structs carrying prompt and survey parameters for permission HaTS surveys.
+// ---
+
 #ifndef COMPONENTS_PERMISSIONS_PERMISSION_HATS_TRIGGER_HELPER_H_
 #define COMPONENTS_PERMISSIONS_PERMISSION_HATS_TRIGGER_HELPER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PermissionRecoverySuccessRateTracker class
+// summary: Declares a WebContentsUserData observer that tracks permissions reallowed via Page Info and records usage and reload information to measure recovery success.
+// ---
+
 #ifndef COMPONENTS_PERMISSIONS_PERMISSION_RECOVERY_SUCCESS_RATE_TRACKER_H_
 #define COMPONENTS_PERMISSIONS_PERMISSION_RECOVERY_SUCCESS_RATE_TRACKER_H_
 

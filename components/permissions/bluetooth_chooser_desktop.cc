@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop Bluetooth chooser implementation
+// summary: Implements the desktop Bluetooth chooser that forwards adapter, discovery, and device updates to the Bluetooth chooser controller and manages the dialog lifetime.
+// ---
+
 #include "components/permissions/bluetooth_chooser_desktop.h"
 
 #include "components/permissions/bluetooth_chooser_controller.h"

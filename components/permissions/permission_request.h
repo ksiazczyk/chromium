@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PermissionRequest class
+// summary: Declares the interface features implement to make permission requests, with decided and finished callbacks, chip text types and origin and request type accessors.
+// ---
+
 #ifndef COMPONENTS_PERMISSIONS_PERMISSION_REQUEST_H_
 #define COMPONENTS_PERMISSIONS_PERMISSION_REQUEST_H_
 

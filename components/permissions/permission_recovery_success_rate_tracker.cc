@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Permission recovery success rate tracker implementation
+// summary: Implements tracking of permissions reallowed via Page Info, recording their usage, infobar display and page reloads as recovery success rate metrics.
+// ---
+
 #include "components/permissions/permission_recovery_success_rate_tracker.h"
 
 #include "components/permissions/permission_uma_util.h"

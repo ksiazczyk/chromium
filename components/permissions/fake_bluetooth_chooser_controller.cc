@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake Bluetooth chooser controller implementation
+// summary: Implements a fake Bluetooth device chooser with controllable devices, adapter status, and permission state for use in tests.
+// ---
+
 #include "components/permissions/fake_bluetooth_chooser_controller.h"
 
 #include "base/check_op.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Permission request ID class declaration
+// summary: Declares PermissionRequestID, which uniquely identifies a permission request by render frame host ID and a local request ID.
+// ---
+
 #ifndef COMPONENTS_PERMISSIONS_PERMISSION_REQUEST_ID_H_
 #define COMPONENTS_PERMISSIONS_PERMISSION_REQUEST_ID_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth scanning prompt controller implementation
+// summary: Implements the controller behind the Bluetooth scanning permission prompt, listing nearby devices and reporting allow, block, or cancel events.
+// ---
+
 #include "components/permissions/bluetooth_scanning_prompt_controller.h"
 
 #include <algorithm>

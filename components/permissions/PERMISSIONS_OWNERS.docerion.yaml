@@ -1,0 +1,4 @@
+# Docerion header of PERMISSIONS_OWNERS.
+type: config
+title: Code owners list for permissions component
+summary: Lists the email addresses of code owners responsible for reviewing changes to the permissions component.

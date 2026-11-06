@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake USB chooser controller for tests
+// summary: Declares a ChooserController subclass that fakes a USB device chooser dialog for interactive tests.
+// ---
+
 #ifndef COMPONENTS_PERMISSIONS_FAKE_USB_CHOOSER_CONTROLLER_H_
 #define COMPONENTS_PERMISSIONS_FAKE_USB_CHOOSER_CONTROLLER_H_
 

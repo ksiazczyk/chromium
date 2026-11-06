@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notifications engagement service implementation
+// summary: Records per-origin notification display, click, and suspicious-content counts daily and reports engagement histograms.
+// ---
+
 #include "components/permissions/notifications_engagement_service.h"
 
 #include "base/metrics/histogram.h"

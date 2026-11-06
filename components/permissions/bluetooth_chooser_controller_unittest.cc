@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bluetooth chooser controller unit tests
+// summary: Unit tests for BluetoothChooserController verifying device addition, updates, selection, and cancellation behavior using a mock chooser view.
+// ---
+
 #include "components/permissions/bluetooth_chooser_controller.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Permission utility implementation
+// summary: Implements PermissionUtil helpers that map request types to UMA values, convert content settings to permission types, and resolve delegation modes.
+// ---
+
 #include "components/permissions/permission_util.h"
 
 #include <algorithm>

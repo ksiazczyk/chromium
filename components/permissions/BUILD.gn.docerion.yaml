@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Permissions component BUILD.gn build targets
+summary: Defines the source sets, sources, and dependencies for building the permissions component, including permission contexts and chooser controllers.

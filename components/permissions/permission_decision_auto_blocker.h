@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Permission decision auto blocker header
+// summary: Declares the PermissionDecisionAutoBlocker KeyedService interface for recording dismissals and ignores and checking embargo status.
+// ---
+
 #ifndef COMPONENTS_PERMISSIONS_PERMISSION_DECISION_AUTO_BLOCKER_H_
 #define COMPONENTS_PERMISSIONS_PERMISSION_DECISION_AUTO_BLOCKER_H_
 

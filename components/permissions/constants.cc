@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Permissions constants implementation
+// summary: Defines help center URLs, HaTS prompt survey data keys, revoked-permission keys, and Storage Access API permission lifetimes for the permissions component.
+// ---
+
 #include "components/permissions/constants.h"
 #include "base/time/clock.h"
 

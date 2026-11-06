@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Permission utility unit tests
+// summary: Unit tests for PermissionUtil::GetLastCommittedOriginAsURL covering main frames, subframes, opaque origins, and sandboxed documents.
+// ---
+
 #include "components/permissions/permission_util.h"
 
 #include <memory>

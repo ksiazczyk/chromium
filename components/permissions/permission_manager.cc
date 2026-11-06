@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Permission manager implementation
+// summary: Implements the PermissionManager that routes permission requests to contexts and serves as the PermissionControllerDelegate.
+// ---
+
 #include "components/permissions/permission_manager.h"
 
 #include <algorithm>

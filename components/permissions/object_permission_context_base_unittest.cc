@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Object permission context base unit tests
+// summary: Unit tests covering granting, revoking, and observing object permissions in ObjectPermissionContextBase.
+// ---
+
 #include "components/permissions/object_permission_context_base.h"
 
 #include "base/strings/strcat.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bluetooth scanning prompt controller unit tests
+// summary: Unit tests for the Bluetooth scanning prompt controller covering device addition, duplicate device names, and allow, block, and cancel events.
+// ---
+
 #include "components/permissions/bluetooth_scanning_prompt_controller.h"
 
 #include <string>

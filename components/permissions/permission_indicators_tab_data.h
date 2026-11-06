@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Permission indicators tab data header
+// summary: Declares PermissionIndicatorsTabData, a WebContentsObserver that tracks verbose indicator display and permission usage activity.
+// ---
+
 #ifndef COMPONENTS_PERMISSIONS_PERMISSION_INDICATORS_TAB_DATA_H_
 #define COMPONENTS_PERMISSIONS_PERMISSION_INDICATORS_TAB_DATA_H_
 

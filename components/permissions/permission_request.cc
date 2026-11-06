@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PermissionRequest implementation
+// summary: Implements permission request behavior including duplicate detection, per-request-type dialog message text and callbacks run when requests are resolved or destroyed.
+// ---
+
 #include "components/permissions/permission_request.h"
 
 #include <string>

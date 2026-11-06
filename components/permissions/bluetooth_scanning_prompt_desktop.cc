@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop Bluetooth scanning prompt implementation
+// summary: Implements the desktop Bluetooth scanning prompt that creates the prompt controller, forwards device updates, and closes the dialog on teardown.
+// ---
+
 #include "components/permissions/bluetooth_scanning_prompt_desktop.h"
 
 #include "components/permissions/bluetooth_scanning_prompt_controller.h"

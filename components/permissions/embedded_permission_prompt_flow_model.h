@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EmbeddedPermissionPromptFlowModel class declaration
+// summary: Declares the model that computes which embedded permission prompt variant to show based on requests, content settings, policies, and OS state.
+// ---
+
 #ifndef COMPONENTS_PERMISSIONS_EMBEDDED_PERMISSION_PROMPT_FLOW_MODEL_H_
 #define COMPONENTS_PERMISSIONS_EMBEDDED_PERMISSION_PROMPT_FLOW_MODEL_H_
 

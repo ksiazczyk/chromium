@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Permission request queue unit tests
+// summary: Unit tests verifying queue size, emptiness, containment, priority ordering and duplicate handling in PermissionRequestQueue.
+// ---
+
 #include "components/permissions/permission_request_queue.h"
 
 #include <stddef.h>

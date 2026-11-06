@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Permission manager unit tests
+// summary: Unit tests for PermissionManager covering permission results, partitioned origins, permissions policy integration and Android-specific window management behavior.
+// ---
+
 #include "components/permissions/permission_manager.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth scanning prompt controller declaration
+// summary: Declares BluetoothScanningPromptController, a ChooserController that presents nearby Bluetooth devices for the Web Bluetooth Scanning API prompt.
+// ---
+
 #ifndef COMPONENTS_PERMISSIONS_BLUETOOTH_SCANNING_PROMPT_CONTROLLER_H_
 #define COMPONENTS_PERMISSIONS_BLUETOOTH_SCANNING_PROMPT_CONTROLLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Permission preference name constants
+// summary: Defines preference name constants for permission action history, Android location settings dialog backoff, and one-time prompt counts, and registers profile prefs.
+// ---
+
 #include "components/permissions/pref_names.h"
 #include "components/permissions/permission_actions_history.h"
 #include "components/pref_registry/pref_registry_syncable.h"

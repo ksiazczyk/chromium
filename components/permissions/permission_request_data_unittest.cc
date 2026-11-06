@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Permission request data unit tests
+// summary: Unit tests verifying that PermissionRequestData reports the requested geolocation accuracy as approximate or precise.
+// ---
+
 #include "components/permissions/permission_request_data.h"
 
 #include <memory>

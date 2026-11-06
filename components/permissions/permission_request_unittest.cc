@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Permission request unit tests
+// summary: Unit tests verifying that PermissionRequest::IsDuplicateOf coalesces requests only when origin, request type, and geolocation prompt type match.
+// ---
+
 #include "components/permissions/permission_request.h"
 
 #include <memory>

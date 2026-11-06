@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PermissionRequestData implementation
+// summary: Implements PermissionRequestData constructors that translate permission descriptors, request descriptions and request types into request data with origins and device IDs.
+// ---
+
 #include "components/permissions/permission_request_data.h"
 
 #include "components/permissions/content_setting_permission_context_base.h"

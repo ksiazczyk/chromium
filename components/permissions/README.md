@@ -1,3 +1,9 @@
+---
+type: readme
+title: Permission Checks and Requests
+summary: Explains the permissions architecture, covering PermissionController, PermissionManager, content settings, prompts, security verifications, and the embargo system.
+---
+
 # Permission Checks and Requests
 
 [TOC]

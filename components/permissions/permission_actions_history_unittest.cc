@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Permission actions history unit tests
+// summary: Unit tests for recording, filtering, and clearing permission action history and for the heuristic auto-grant behavior on repeated temporary grants.
+// ---
+
 #include "components/permissions/permission_actions_history.h"
 
 #include <algorithm>

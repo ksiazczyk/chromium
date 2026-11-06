@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PermissionPrompt interface
+// summary: Platform-independent interface through which per-tab permission request managers communicate with the UI surface, defining tab-switching behavior and a delegate for user actions.
+// ---
+
 #ifndef COMPONENTS_PERMISSIONS_PERMISSION_PROMPT_H_
 #define COMPONENTS_PERMISSIONS_PERMISSION_PROMPT_H_
 

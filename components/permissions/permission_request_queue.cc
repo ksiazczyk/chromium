@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Permission request queue implementation
+// summary: Implements a priority-ordered queue for pending permission requests with push, pop, erase and duplicate lookup operations.
+// ---
+
 #include "components/permissions/permission_request_queue.h"
 
 #include <algorithm>

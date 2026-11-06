@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Permission request manager class declaration
+// summary: Declares PermissionRequestManager, a WebContentsUserData that manages permission prompts, request queues and console messages for abusive flows.
+// ---
+
 #ifndef COMPONENTS_PERMISSIONS_PERMISSION_REQUEST_MANAGER_H_
 #define COMPONENTS_PERMISSIONS_PERMISSION_REQUEST_MANAGER_H_
 

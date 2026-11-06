@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Permission decision auto blocker implementation
+// summary: Implements embargo logic that automatically blocks origins from requesting permissions after repeated dismissals or ignores.
+// ---
+
 #include "components/permissions/permission_decision_auto_blocker.h"
 
 #include <algorithm>

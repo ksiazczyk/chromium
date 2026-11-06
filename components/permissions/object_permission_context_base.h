@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Object permission context base class
+// summary: Declares the base class for object permissions with complex grants, including observers and granted-object lookup.
+// ---
+
 #ifndef COMPONENTS_PERMISSIONS_OBJECT_PERMISSION_CONTEXT_BASE_H_
 #define COMPONENTS_PERMISSIONS_OBJECT_PERMISSION_CONTEXT_BASE_H_
 

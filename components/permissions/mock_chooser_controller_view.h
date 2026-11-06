@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock chooser controller view
+// summary: Declares a GoogleMock implementation of ChooserController::View for testing chooser UI callbacks.
+// ---
+
 #ifndef COMPONENTS_PERMISSIONS_MOCK_CHOOSER_CONTROLLER_VIEW_H_
 #define COMPONENTS_PERMISSIONS_MOCK_CHOOSER_CONTROLLER_VIEW_H_
 

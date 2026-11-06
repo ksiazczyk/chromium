@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include dependency rules for permissions component
+summary: Specifies the allowed include dependencies for the permissions component, with a special rule for the permission_util_unittest file.
