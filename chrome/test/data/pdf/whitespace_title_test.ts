@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PDF whitespace title test
+// summary: Browser test verifying that the PDF viewer shows the expected title for test-whitespace-title.pdf.
+// ---
+
 import {assertTrue} from 'chrome://webui-test/chai_assert.js';
 
 import {checkPdfTitleIsExpectedTitle} from './test_util.js';

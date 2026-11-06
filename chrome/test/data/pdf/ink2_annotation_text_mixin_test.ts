@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ink annotation text mixin tests
+// summary: Tests the InkAnnotationTextMixin, verifying initialization of fonts, colors, and sizes and that changes to text attributes fire manager events.
+// ---
+
 import type {TextAttributes} from 'chrome-extension://mhjfbmdgcfjbbpaeojofohoefgiehjai/pdf_viewer_wrapper.js';
 import {hexToColor, Ink2Manager, InkAnnotationTextMixin, TEXT_COLORS, TEXT_SIZES, TextAlignment, TextStyle, TextTypeface} from 'chrome-extension://mhjfbmdgcfjbbpaeojofohoefgiehjai/pdf_viewer_wrapper.js';
 import {CrLitElement, html} from 'chrome://resources/lit/v3_0/lit.rollup.js';

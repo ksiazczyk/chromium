@@ -1,0 +1,4 @@
+# Docerion header of test-beep-csp.pdf.mock-http-headers.
+type: test
+title: Mock HTTP headers for the CSP beep PDF test
+summary: Serves the beep test PDF with a permissive script-src content security policy and an application/pdf content type.

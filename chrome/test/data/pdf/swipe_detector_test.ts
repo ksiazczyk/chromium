@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tests for the PDF viewer swipe detector
+// summary: Browser test verifying swipe gesture detection in the PDF viewer across presentation modes, directions and touch distances.
+// ---
+
 import {SwipeDetector, SwipeDirection} from 'chrome-extension://mhjfbmdgcfjbbpaeojofohoefgiehjai/pdf_viewer_wrapper.js';
 
 chrome.test.runTests(function() {

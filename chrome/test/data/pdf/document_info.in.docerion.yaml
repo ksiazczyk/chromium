@@ -1,0 +1,4 @@
+# Docerion header of document_info.in.
+type: test
+title: PDF document info test template
+summary: PDFium-style template used to generate a test PDF carrying document info metadata such as author, dates, keywords, subject and title.

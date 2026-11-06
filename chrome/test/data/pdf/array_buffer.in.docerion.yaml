@@ -1,0 +1,4 @@
+# Docerion header of array_buffer.in.
+type: test
+title: PDF ArrayBuffer JavaScript test template
+summary: PDF template whose embedded JavaScript creates ArrayBuffers and beeps to signal the test harness that allocation behaves as expected.

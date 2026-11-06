@@ -1,0 +1,4 @@
+# Docerion header of test-layout4.in.
+type: test
+title: Test PDF template with four rotated pages
+summary: PDF template that generates a four-page test document with page rotations of 0, 90, 180 and 270 degrees.

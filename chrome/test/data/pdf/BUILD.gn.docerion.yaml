@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: PDF viewer WebUI tests build file
+summary: Defines the GN build target that assembles the PDF viewer WebUI JavaScript tests, including conditional Ink2 and Save to Drive test files.

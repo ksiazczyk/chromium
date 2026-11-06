@@ -1,0 +1,4 @@
+# Docerion header of pdf_embed_with_hung_sibling_subframe.html.
+type: test
+title: Test page with PDF embed and hung subframe
+summary: HTML fixture combining a PDF embed with a hung iframe subframe for testing PDF loading next to an unresponsive frame.

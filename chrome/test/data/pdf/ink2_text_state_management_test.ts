@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ink2 text state management tests
+// summary: Browser tests for text annotation state handling in the PDF viewer's ink2 feature, covering text boxes, panels, colors and alignment selectors.
+// ---
+
 import {AnnotationMode, hexToColor, Ink2Manager, PdfViewerPrivateProxyImpl, PluginController, PluginControllerEventType, TextAlignment} from 'chrome-extension://mhjfbmdgcfjbbpaeojofohoefgiehjai/pdf_viewer_wrapper.js';
 import type {InkColorSelectorElement, InkTextAnnotationsElement, InkTextBoxElement, TextAlignmentSelectorElement, TextAnnotationMessageData, TextAttributes, ViewerBottomToolbarDropdownElement, ViewerTextBottomToolbarElement, ViewerTextSidePanelElement} from 'chrome-extension://mhjfbmdgcfjbbpaeojofohoefgiehjai/pdf_viewer_wrapper.js';
 import {eventToPromise, isVisible, microtasksFinished} from 'chrome://webui-test/test_util.js';

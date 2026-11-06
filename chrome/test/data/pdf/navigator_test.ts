@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PDF navigator tests
+// summary: Tests the PDF viewer navigator's URL handling across current tab, new tab and new window dispositions, including allowed local file access.
+// ---
+
 import type {NavigatorDelegate, PdfNavigator} from 'chrome-extension://mhjfbmdgcfjbbpaeojofohoefgiehjai/pdf_viewer_wrapper.js';
 import {OpenPdfParamsParser, PdfNavigatorImpl, WindowOpenDisposition} from 'chrome-extension://mhjfbmdgcfjbbpaeojofohoefgiehjai/pdf_viewer_wrapper.js';
 import {assertNotReached} from 'chrome://resources/js/assert.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ink annotation brush mixin tests
+// summary: Tests the InkAnnotationBrushMixin for pen and highlighter brushes, checking default colors and sizes, brush property changes, and available brush colors.
+// ---
+
 import {AnnotationBrushType, hexToColor, HIGHLIGHTER_COLORS, HIGHLIGHTER_SIZES, Ink2Manager, InkAnnotationBrushMixin, PEN_COLORS, PEN_SIZES} from 'chrome-extension://mhjfbmdgcfjbbpaeojofohoefgiehjai/pdf_viewer_wrapper.js';
 import {CrLitElement, html} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 import {eventToPromise} from 'chrome://webui-test/test_util.js';

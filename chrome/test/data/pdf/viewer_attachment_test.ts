@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Viewer attachment element unit tests
+// summary: Unit tests for the viewer-attachment element, checking download button visibility and title styling for regular and oversized PDF attachments.
+// ---
+
 import type {ViewerAttachmentElement} from 'chrome-extension://mhjfbmdgcfjbbpaeojofohoefgiehjai/elements/viewer_attachment.js';
 import {microtasksFinished} from 'chrome://webui-test/test_util.js';
 

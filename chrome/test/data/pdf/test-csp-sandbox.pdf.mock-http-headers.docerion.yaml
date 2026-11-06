@@ -1,0 +1,4 @@
+# Docerion header of test-csp-sandbox.pdf.mock-http-headers.
+type: test
+title: CSP sandbox PDF mock HTTP headers
+summary: Mock HTTP headers serving a PDF with content-security-policy sandbox for PDF browser tests.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ink text annotation coordinate conversion tests
+// summary: Tests coordinate conversion utilities for rotated viewports and mapping between page and screen coordinates for text annotation rectangles.
+// ---
+
 import type {TextBoxRect, Viewport} from 'chrome-extension://mhjfbmdgcfjbbpaeojofohoefgiehjai/pdf_viewer_wrapper.js';
 import {convertRotatedCoordinates, pageToScreenCoordinates, screenToPageCoordinates} from 'chrome-extension://mhjfbmdgcfjbbpaeojofohoefgiehjai/pdf_viewer_wrapper.js';
 

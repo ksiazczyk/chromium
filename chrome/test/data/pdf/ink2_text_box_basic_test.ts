@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ink text box basic rendering tests
+// summary: Tests basic ink-text-box behavior, verifying box drawing, positioning, sizing and text style updates driven by manager events.
+// ---
+
 import {hexToColor, MIN_TEXTBOX_SIZE_PX, TEXT_COLORS, TextAlignment, TextStyle, TextTypeface} from 'chrome-extension://mhjfbmdgcfjbbpaeojofohoefgiehjai/pdf_viewer_wrapper.js';
 import {loadTimeData} from 'chrome://resources/js/load_time_data.js';
 import {eventToPromise, microtasksFinished} from 'chrome://webui-test/test_util.js';

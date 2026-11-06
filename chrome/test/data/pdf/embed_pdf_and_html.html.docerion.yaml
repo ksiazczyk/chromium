@@ -1,0 +1,4 @@
+# Docerion header of embed_pdf_and_html.html.
+type: test
+title: Embedded PDF and HTML iframe test page
+summary: Minimal HTML page combining an embedded PDF and an HTML iframe, used as a fixture for mixed embedding tests.

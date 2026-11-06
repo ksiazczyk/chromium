@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Circular progress ring element test
+// summary: Browser test checking that the circular progress ring element updates its stroke dash offset correctly for different value settings.
+// ---
+
 import 'chrome-extension://mhjfbmdgcfjbbpaeojofohoefgiehjai/pdf_viewer_wrapper.js';
 
 import {microtasksFinished} from 'chrome://webui-test/test_util.js';

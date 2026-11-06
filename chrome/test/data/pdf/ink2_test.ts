@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ink2 annotation mode browser tests
+// summary: Browser tests for the PDF viewer's Ink2 annotation mode, covering enabling annotations, setting annotation modes and related user action metrics.
+// ---
+
 import {AnnotationMode, Ink2Manager, PdfViewerPrivateProxyImpl, PluginController, PluginControllerEventType, TextStyle, UserAction} from 'chrome-extension://mhjfbmdgcfjbbpaeojofohoefgiehjai/pdf_viewer_wrapper.js';
 import {loadTimeData} from 'chrome://resources/js/load_time_data.js';
 import {keyDownOn} from 'chrome://webui-test/keyboard_mock_interactions.js';

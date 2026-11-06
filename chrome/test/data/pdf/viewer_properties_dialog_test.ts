@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Viewer properties dialog test
+// summary: Tests the viewer-properties dialog, asserting document metadata fields such as file name, size, author, PDF version, and page count.
+// ---
+
 import {eventToPromise} from 'chrome://webui-test/test_util.js';
 
 const viewer = document.body.querySelector('pdf-viewer')!;

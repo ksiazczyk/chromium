@@ -1,0 +1,4 @@
+# Docerion header of test-fenced-frame.pdf.mock-http-headers.
+type: test
+title: Fenced frame PDF mock HTTP headers
+summary: Mock HTTP headers serving a PDF with the Supports-Loading-Mode fenced-frame header for PDF browser tests.

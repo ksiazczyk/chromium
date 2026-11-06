@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Thumbnail lazy loading tests
+// summary: Tests that the PDF viewer loads only an initial batch of thumbnails for a long document and loads more as the user scrolls.
+// ---
+
 import {assert} from 'chrome://resources/js/assert.js';
 import {eventToPromise, whenAttributeIs} from 'chrome://webui-test/test_util.js';
 

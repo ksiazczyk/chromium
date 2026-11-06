@@ -1,0 +1,4 @@
+# Docerion header of test-coep-data-pdf-embed.html.mock-http-headers.
+type: test
+title: Mock HTTP headers for the data URL PDF embed page
+summary: Serves the data URL PDF embed test page with a require-corp cross-origin embedder policy header.

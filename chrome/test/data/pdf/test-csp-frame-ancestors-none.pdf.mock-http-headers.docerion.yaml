@@ -1,0 +1,4 @@
+# Docerion header of test-csp-frame-ancestors-none.pdf.mock-http-headers.
+type: test
+title: CSP frame-ancestors none PDF mock HTTP headers
+summary: Mock HTTP headers serving a PDF with content-security-policy frame-ancestors 'none' for embedding tests.

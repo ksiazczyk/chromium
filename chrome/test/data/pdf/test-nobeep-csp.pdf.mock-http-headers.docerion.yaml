@@ -1,0 +1,4 @@
+# Docerion header of test-nobeep-csp.pdf.mock-http-headers.
+type: test
+title: Mock HTTP headers for a CSP-restricted PDF response
+summary: Mock HTTP response headers serving a PDF with a script-src 'none' content security policy for tests.

@@ -1,0 +1,4 @@
+# Docerion header of text_form.in.
+type: test
+title: Text form PDF template
+summary: PDF template that generates a test PDF containing an AcroForm text field widget for viewer form tests.

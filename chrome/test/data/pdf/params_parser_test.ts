@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PDF open params parser tests
+// summary: Tests OpenPdfParamsParser handling of URL parameters such as named destinations, page numbers, and view modes when opening PDFs.
+// ---
+
 import {FittingType, OpenPdfParamsParser, ViewMode} from 'chrome-extension://mhjfbmdgcfjbbpaeojofohoefgiehjai/pdf_viewer_wrapper.js';
 
 const URL = 'http://xyz.pdf';

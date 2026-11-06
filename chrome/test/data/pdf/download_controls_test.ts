@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Download controls save options test
+// summary: Browser test verifying the download controls offer original and edited PDF save options, with the menu shown only when edits exist.
+// ---
+
 import {eventToPromise} from 'chrome://webui-test/test_util.js';
 
 const SaveRequestType = chrome.pdfViewerPrivate.SaveRequestType;

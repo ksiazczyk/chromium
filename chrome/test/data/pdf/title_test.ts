@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PDF title test
+// summary: Verifies that the PDF viewer displays the expected document title for test-title.pdf.
+// ---
+
 import {assertTrue} from 'chrome://webui-test/chai_assert.js';
 
 import {checkPdfTitleIsExpectedTitle} from './test_util.js';

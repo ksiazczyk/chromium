@@ -1,0 +1,4 @@
+# Docerion header of test-coep-iframe.html.mock-http-headers.
+type: test
+title: COEP iframe mock HTTP headers
+summary: Mock HTTP response headers serving an HTML page with cross-origin-embedder-policy require-corp for PDF browser tests.

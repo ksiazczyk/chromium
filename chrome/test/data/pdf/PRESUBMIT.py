@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: ci
+# title: Presubmit checks for PDF test data
+# summary: Runs ESLint style and patch formatting checks on changes to the PDF test data directory during upload and commit.
+# ---
+
 
 def _CommonChecks(input_api, output_api):
   results = []

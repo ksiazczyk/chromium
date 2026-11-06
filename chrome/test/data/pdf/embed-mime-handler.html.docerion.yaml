@@ -1,0 +1,4 @@
+# Docerion header of embed-mime-handler.html.
+type: test
+title: MIME handler embedded PDF secure context test harness
+summary: HTML harness that iframes a PDF to test MIME-handler OOPIF dispatch and secure context behavior for the embedded viewer and its descendants.

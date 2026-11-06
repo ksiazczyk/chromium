@@ -1,0 +1,4 @@
+# Docerion header of test-csp.pdf.mock-http-headers.
+type: test
+title: CSP default-src PDF mock HTTP headers
+summary: Mock HTTP headers serving a PDF with content-security-policy default-src 'self' for PDF browser tests.
