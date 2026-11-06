@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoEncoderFallback class declaration
+// summary: Declares the fallback video encoder proxy used to switch from a hardware platform encoder to a more reliable software encoder on failure.
+// ---
+
 #ifndef MEDIA_VIDEO_VIDEO_ENCODER_FALLBACK_H_
 #define MEDIA_VIDEO_VIDEO_ENCODER_FALLBACK_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Alpha video encoder wrapper implementation
+// summary: Implements AlphaVideoEncoderWrapper, which splits frames with an alpha channel between separate YUV and alpha encoders, divides bitrate accordingly, and merges their encoded output.
+// ---
+
 #include "media/video/alpha_video_encoder_wrapper.h"
 
 #include <algorithm>

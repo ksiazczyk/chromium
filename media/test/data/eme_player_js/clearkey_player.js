@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Clear Key EME player
+// summary: Implements a player that plays encrypted media with the Clear Key key system and answers license messages with JWK keys.
+// ---
+
 // ClearKeyPlayer responsible for playing media using Clear Key key system.
 function ClearKeyPlayer(video, testConfig) {
   this.video = video;

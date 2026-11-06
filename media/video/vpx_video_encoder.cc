@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: libvpx VP8 and VP9 video encoder implementation
+// summary: Implements a software video encoder for VP8 and VP9 using libvpx, including temporal SVC layer patterns and rate control configuration.
+// ---
+
 #include "media/video/vpx_video_encoder.h"
 
 #include <algorithm>

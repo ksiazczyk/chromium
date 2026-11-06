@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoEncodeAccelerator interface
+// summary: Defines the video encode accelerator interface with per-codec bitstream metadata structs, configuration, and client callbacks for hardware encoding.
+// ---
+
 #ifndef MEDIA_VIDEO_VIDEO_ENCODE_ACCELERATOR_H_
 #define MEDIA_VIDEO_VIDEO_ENCODE_ACCELERATOR_H_
 

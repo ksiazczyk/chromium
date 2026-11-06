@@ -1,0 +1,4 @@
+# Docerion header of decode_capabilities_test.html.
+type: test
+title: Decode capabilities test page
+summary: Test page that queries mediaCapabilities.decodingInfo for audio and video support, including HDR metadata and key systems.

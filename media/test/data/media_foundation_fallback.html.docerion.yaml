@@ -1,0 +1,4 @@
+# Docerion header of media_foundation_fallback.html.
+type: test
+title: Test crashing media foundation cdm removes it from available key systems
+summary: Test page that repeatedly crashes the Media Foundation Clear Key CDM via a special key ID and verifies the key system becomes disabled.

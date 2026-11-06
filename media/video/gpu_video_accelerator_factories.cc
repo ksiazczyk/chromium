@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU video accelerator factories implementation
+// summary: Implements IsDecoderConfigSupportedOrUnknown on GpuVideoAcceleratorFactories, returning unknown when decoder support is not yet known.
+// ---
+
 #include "media/video/gpu_video_accelerator_factories.h"
 
 namespace media {

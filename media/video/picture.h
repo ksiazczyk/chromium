@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Picture and PictureBuffer class declarations
+// summary: Declares PictureBuffer, which tracks buffer metadata, and Picture, a decoded frame with buffer, bitstream, and visible rectangle identifiers.
+// ---
+
 #ifndef MEDIA_VIDEO_PICTURE_H_
 #define MEDIA_VIDEO_PICTURE_H_
 

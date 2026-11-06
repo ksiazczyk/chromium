@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Software video encoder tests
+// summary: Parametrized tests that encode and decode video with software encoders for codecs such as H264, VP8, VP9, and AV1 to verify encoder output.
+// ---
+
 #include <algorithm>
 #include <array>
 #include <memory>

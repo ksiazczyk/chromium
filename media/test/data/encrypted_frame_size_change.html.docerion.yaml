@@ -1,0 +1,4 @@
+# Docerion header of encrypted_frame_size_change.html.
+type: test
+title: Encrypted video frame size change test
+summary: Test page playing two encrypted videos to verify decoding and rendering when the video resolution changes during playback.

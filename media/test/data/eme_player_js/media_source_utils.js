@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MSE media source loader
+// summary: Provides helpers to load media files into a MediaSource and append them to source buffers for playback.
+// ---
+
 // MediaSourceUtils provides basic functionality to load content using MSE API.
 var MediaSourceUtils = new function() {
 }

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VideoEncodeAcceleratorAdapter unit tests
+// summary: Unit tests for the video encode accelerator adapter, using fake and mock GPU factories and encode accelerators to exercise encoding and flush behavior.
+// ---
+
 #include "media/video/video_encode_accelerator_adapter.h"
 
 #include <algorithm>

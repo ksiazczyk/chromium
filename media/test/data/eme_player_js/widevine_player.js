@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Widevine player for the EME test app
+// summary: Implements a Widevine key system player that initializes EME event listeners and updates media key sessions with license responses during tests.
+// ---
+
 // Widevine player responsible for playing media using Widevine key system.
 function WidevinePlayer(video, testConfig) {
   this.video = video;

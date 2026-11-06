@@ -1,0 +1,4 @@
+# Docerion header of media_suspend_test.html.
+type: test
+title: Test harness for forced suspend browser tests
+summary: Test page playing bear.webm and polling the element's suspension state to support forced media suspend browser tests.

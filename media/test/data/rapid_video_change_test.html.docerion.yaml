@@ -1,0 +1,4 @@
+# Docerion header of rapid_video_change_test.html.
+type: test
+title: HTML 5 Change H.264 Video Test
+summary: Test page that repeatedly swaps the source of a playing H.264 video element to verify the browser does not hang when hardware-decoded videos are added and removed.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoEncodeAcceleratorAdapter implementation
+// summary: Implements the adapter bridging VideoEncodeAccelerator to VideoEncoder, managing buffers, bitrate setup, and task runner hops.
+// ---
+
 #include "media/video/video_encode_accelerator_adapter.h"
 
 #include <algorithm>

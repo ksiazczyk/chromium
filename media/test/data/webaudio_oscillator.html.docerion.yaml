@@ -1,0 +1,4 @@
+# Docerion header of webaudio_oscillator.html.
+type: test
+title: WebAudio Oscillator
+summary: HTML test page that creates an AudioContext oscillator and starts it on demand for WebAudio testing.

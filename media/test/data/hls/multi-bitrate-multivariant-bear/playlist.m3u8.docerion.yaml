@@ -1,0 +1,4 @@
+# Docerion header of playlist.m3u8.
+type: test
+title: HLS multivariant playlist
+summary: Multivariant playlist declaring two HLS variants with bandwidth, resolution and codec information for the bear test stream.

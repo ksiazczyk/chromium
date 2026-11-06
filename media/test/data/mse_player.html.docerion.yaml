@@ -1,0 +1,4 @@
+# Docerion header of mse_player.html.
+type: test
+title: MSE player test page
+summary: Test page that loads and plays one or more media segments via Media Source Extensions, configured through URL query parameters.

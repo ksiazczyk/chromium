@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoEncoderInfo implementation
+// summary: Implements the VideoEncoderInfo and ResolutionRateLimit constructors, equality operators, and GPU shared image support checks.
+// ---
+
 #include "media/video/video_encoder_info.h"
 
 #include <algorithm>

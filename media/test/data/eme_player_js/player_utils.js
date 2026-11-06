@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EME player utilities
+// summary: Provides utility functions to register media and EME event handlers and to create players based on test configuration.
+// ---
+
 // The PlayerUtils provides utility functions to binding common media events
 // to specific player functions. It also provides functions to load media source
 // base on test configurations.

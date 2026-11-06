@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Video FPS observer
+// summary: Observes a video element during playback and reports decoded FPS, dropped FPS and total dropped frames.
+// ---
+
 // FPSObserver observes a <video> and reports decoded FPS, dropped FPS, and
 // total dropped frames during the video playback.
 var FPSObserver = new function() {

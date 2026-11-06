@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoEncoderFallback unit tests
+// summary: Unit tests verifying that encoding work falls back from the main mock encoder to a secondary encoder when the main encoder fails.
+// ---
+
 #include "media/video/video_encoder_fallback.h"
 
 #include "base/functional/bind.h"

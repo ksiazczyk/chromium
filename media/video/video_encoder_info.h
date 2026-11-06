@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoEncoderInfo and ResolutionRateLimit declarations
+// summary: Declares structs describing video encoder capabilities such as hardware acceleration, simulcast, frame delay, and resolution rate limits.
+// ---
+
 #ifndef MEDIA_VIDEO_VIDEO_ENCODER_INFO_H_
 #define MEDIA_VIDEO_VIDEO_ENCODER_INFO_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoDecodeAccelerator base implementation
+// summary: Implements default methods and helpers of the VideoDecodeAccelerator interface, including human-readable config and capabilities descriptions.
+// ---
+
 #include "media/video/video_decode_accelerator.h"
 
 #include <GLES2/gl2.h>

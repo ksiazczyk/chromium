@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Alpha video encoder wrapper unit tests
+// summary: Parameterized unit tests that encode and decode alpha-channel frames through AlphaVideoEncoderWrapper using VpxVideoEncoder and VpxVideoDecoder when libvpx is enabled.
+// ---
+
 #include "media/video/video_encode_accelerator_adapter.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EME player test app
+// summary: Starts playback on the eme_player page by selecting and initializing a suitable player based on key system and test options.
+// ---
+
 // EMEApp is responsible for starting playback on the eme_player.html page.
 // It selects the suitable player based on key system and other test options.
 function EMEApp(testConfig) {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EME player app script loader
+// summary: Loads the JavaScript dependencies of the EME player test app by adding script tags for each module to the document.
+// ---
+
 // Adds a Javascript source tag to the document.
 function addScriptTag(src) {
   document.write(
