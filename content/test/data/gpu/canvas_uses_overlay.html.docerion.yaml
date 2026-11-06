@@ -1,0 +1,4 @@
+# Docerion header of canvas_uses_overlay.html.
+type: test
+title: Canvas uses CALayerOverlay test
+summary: Test page that checks whether a 2D canvas is promoted to a Core Animation layer overlay, drawing green, blue, or red squares to signal the outcome.

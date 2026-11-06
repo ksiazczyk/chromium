@@ -1,0 +1,4 @@
+# Docerion header of pixel_offscreenCanvas_transfer_after_style_resize.html.
+type: test
+title: 'Pixel test: OffscreenCanvas transfer after style resize'
+summary: Browser pixel test checking OffscreenCanvas WebGL rendering after the placeholder canvas is resized and given a yellow border via CSS style changes.

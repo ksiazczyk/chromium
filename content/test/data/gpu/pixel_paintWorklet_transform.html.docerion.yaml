@@ -1,0 +1,4 @@
+# Docerion header of pixel_paintWorklet_transform.html.
+type: test
+title: PaintWorklet draw and transform pixel test
+summary: Pixel test rendering a registered CSS PaintWorklet that draws rectangles using transform, translate, rotate and scale operations.

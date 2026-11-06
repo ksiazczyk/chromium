@@ -1,0 +1,4 @@
+# Docerion header of frame-qp-encoding.html.
+type: test
+title: Frame QP encoding test
+summary: Manual test page checking VideoEncoder support for per-frame quantizer and QP values across AV1, VP9, AVC and HEVC codecs.

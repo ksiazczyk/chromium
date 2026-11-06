@@ -1,0 +1,4 @@
+# Docerion header of pixel_canvas_low_latency_webgl_occluded.html.
+type: test
+title: Low latency WebGL canvas occlusion test
+summary: Test page that renders a desynchronized WebGL canvas over red and blue background divs to exercise occlusion behavior.

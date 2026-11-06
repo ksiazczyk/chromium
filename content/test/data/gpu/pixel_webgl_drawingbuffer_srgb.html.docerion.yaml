@@ -1,0 +1,4 @@
+# Docerion header of pixel_webgl_drawingbuffer_srgb.html.
+type: test
+title: WebGL sRGB drawing buffer pixel test
+summary: Test page that creates eight WebGL canvases with sRGB drawing buffers across WebGL version, antialiasing and premultiplied alpha combinations and verifies drawn colors.

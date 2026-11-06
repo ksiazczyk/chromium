@@ -1,0 +1,4 @@
+# Docerion header of pixel_video_mp4.html.
+type: test
+title: MP4 video pixel test page
+summary: HTML test page that plays a four-color MP4 video for GPU pixel output verification.

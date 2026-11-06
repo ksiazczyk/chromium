@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebGPU unit test utilities module
+// summary: Exports standalone WebGPU render and compute unit tests that verify results without depending on the canvas.
+// ---
+
 // Test "enum" allows for specifying tests in webGpuUnitTests below.
 const WebGpuUnitTestId = {
   RenderTest: 'render-test',

@@ -1,0 +1,4 @@
+# Docerion header of pixel_video_mp4_four_colors_rot_270.html.
+type: test
+title: MP4 four-color 270-degree rotation video pixel test page
+summary: HTML test page that plays a four-color MP4 video rotated 270 degrees for GPU pixel output verification.

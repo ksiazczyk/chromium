@@ -1,0 +1,4 @@
+# Docerion header of pixel_canvas_low_latency_webgl_rounded_corners.html.
+type: test
+title: Low latency WebGL canvas rounded corners test
+summary: Test page that renders a desynchronized WebGL canvas with rounded corners and reports success after several animation frames.

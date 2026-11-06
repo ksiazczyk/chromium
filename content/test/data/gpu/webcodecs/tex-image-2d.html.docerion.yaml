@@ -1,0 +1,4 @@
+# Docerion header of tex-image-2d.html.
+type: test
+title: texImage2D frame rendering test page
+summary: Manual test page rendering frames from various sources to a canvas via WebGL texImage2D and validating the four-color output with source-specific tolerances.

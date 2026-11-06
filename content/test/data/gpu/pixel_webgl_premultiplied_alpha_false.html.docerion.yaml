@@ -1,0 +1,4 @@
+# Docerion header of pixel_webgl_premultiplied_alpha_false.html.
+type: test
+title: WebGL PremultipliedAlpha False Test
+summary: Pixel test page that clears a WebGL canvas with premultipliedAlpha disabled and reports the result to the browser test harness via domAutomationController.

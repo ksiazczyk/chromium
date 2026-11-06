@@ -1,0 +1,4 @@
+# Docerion header of pixel_offscreenCanvas_webgl_resize_on_worker.html.
+type: test
+title: OffscreenCanvas WebGL resize on worker pixel test
+summary: Pixel test drawing a WebGL triangle on an OffscreenCanvas that a worker resizes from 200x200 to 40x50.

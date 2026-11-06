@@ -1,0 +1,4 @@
+# Docerion header of pixel_webgpu_copy_externalImage_imageData.html.
+type: test
+title: WebGPU copyExternalImageToTexture from ImageData pixel test
+summary: Pixel test page that builds ImageData pixel buffers, converts them to an ImageBitmap, and uploads the result to a WebGPU texture.

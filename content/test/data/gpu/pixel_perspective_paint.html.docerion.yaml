@@ -1,0 +1,4 @@
+# Docerion header of pixel_perspective_paint.html.
+type: test
+title: CSS perspective rendering pixel test for divs
+summary: Pixel test rendering nested divs with CSS perspective, rounded borders and scrollable content.

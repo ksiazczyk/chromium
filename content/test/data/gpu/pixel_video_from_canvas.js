@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Canvas to video pixel test script
+// summary: Shared test script that draws four-color frames on 2D or WebGL canvases, captures them into a video element, and verifies corner pixel colors with tolerance.
+// ---
+
 function logOutput(s) {
   if (window.domAutomationController)
     window.domAutomationController.log(s);

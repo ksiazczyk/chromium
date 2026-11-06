@@ -1,0 +1,4 @@
+# Docerion header of webgl_y16_uploads.html.
+type: test
+title: Y16 texSubImage2D UNPACK_ROW_LENGTH out-of-bounds test
+summary: Uploads Y16 fake-camera video frames into a WebGL2 texture with UNPACK_ROW_LENGTH set to exercise the out-of-bounds row length path.

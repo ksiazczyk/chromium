@@ -1,0 +1,4 @@
+# Docerion header of screenshot_sync_canvas.html.
+type: test
+title: Synchronized screenshot test page with canvas
+summary: Test page that fills a 2D canvas with an RGB color and shows the value as text for synchronized screenshot verification.

@@ -1,0 +1,4 @@
+# Docerion header of pixel_canvas_low_latency_webgl.html.
+type: test
+title: Low latency WebGL canvas test
+summary: Test page that renders a green box with a desynchronized WebGL canvas and reports success to the automation controller after a number of animation frames.

@@ -1,0 +1,4 @@
+# Docerion header of pixel_webgl_aa_noalpha.html.
+type: test
+title: 'WebGL pixel test: green triangle with antialiasing and no alpha'
+summary: Test page that renders a green triangle over a black background with antialiasing enabled and alpha disabled for GPU pixel comparison.

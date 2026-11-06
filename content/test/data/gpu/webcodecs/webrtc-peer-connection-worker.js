@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Frame writer worker for RTCPeerConnection test
+// summary: Worker script that continuously writes generated canvas frames to a MediaStreamTrackGenerator writable stream for the peer connection test.
+// ---
+
 importScripts('webcodecs_common.js');
 
 self.onmessage = async e => {

@@ -1,0 +1,4 @@
+# Docerion header of terminate-worker.html.
+type: test
+title: Worker termination during encoding test page
+summary: Manual test page that terminates a worker while it performs frame readback and video encoding to check behavior on abrupt worker shutdown.

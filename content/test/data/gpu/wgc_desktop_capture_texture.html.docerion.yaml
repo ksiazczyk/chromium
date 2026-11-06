@@ -1,0 +1,4 @@
+# Docerion header of wgc_desktop_capture_texture.html.
+type: test
+title: WGC desktop capture texture test page
+summary: Captures the screen via getDisplayMedia and relays it through WebRTC peer connections to verify screen capture delivers texture frames.

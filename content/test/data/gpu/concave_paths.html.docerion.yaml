@@ -1,0 +1,4 @@
+# Docerion header of concave_paths.html.
+type: test
+title: Concave paths rendering test
+summary: Test page that renders repeated concave SVG paths and animates their z-index over several frames before reporting success to domAutomationController.

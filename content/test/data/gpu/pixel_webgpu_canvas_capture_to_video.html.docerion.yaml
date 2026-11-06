@@ -1,0 +1,4 @@
+# Docerion header of pixel_webgpu_canvas_capture_to_video.html.
+type: test
+title: WebGPU canvas capture to video stream pixel test
+summary: Pixel test page that captures a WebGPU canvas as a video stream and verifies video frames are received before reporting success.

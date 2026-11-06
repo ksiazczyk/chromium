@@ -1,0 +1,4 @@
+# Docerion header of pixel_scissor_expectations.json.
+type: test
+title: Pixel scissor test expectations
+summary: JSON expectations listing expected colors, locations, sizes and tolerances for verifying the output of the WebGL scissor pixel test.

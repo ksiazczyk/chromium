@@ -1,0 +1,4 @@
+# Docerion header of pixel_webgpu_copy_externalImage_2d_canvas.html.
+type: test
+title: WebGPU copyExternalImageToTexture from 2D canvas pixel test
+summary: Pixel test page that draws colored rectangles on a 2D canvas and uploads it to a WebGPU texture via copyExternalImageToTexture.

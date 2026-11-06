@@ -1,0 +1,4 @@
+# Docerion header of codec_loopback.html.
+type: test
+title: WebRTC codec loopback GPU test page
+summary: Browser test page that loops WebRTC video through a preferred codec, checking hardware encoder and decoder support via MediaCapabilities and RTP stats.

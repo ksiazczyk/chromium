@@ -1,0 +1,4 @@
+# Docerion header of encode-decode.html.
+type: test
+title: Encode, decode, render test
+summary: GPU smoke test page that encodes frames with an accelerated VideoEncoder, decodes them with VideoDecoder and validates dot counts, timestamps and error handling.

@@ -1,0 +1,4 @@
+# Docerion header of pixel_render_passes.html.
+type: test
+title: Render passes pixel test with masks, clipping and rounded corners
+summary: Pixel test exercising masks, clipping and rounded corners on a rotated blurred image and two rounded iframes.

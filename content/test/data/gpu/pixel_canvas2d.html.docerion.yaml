@@ -1,0 +1,4 @@
+# Docerion header of pixel_canvas2d.html.
+type: test
+title: 'Canvas 2D Test: Red Box over Black Background'
+summary: Draws a semi-transparent red box over a black background with Canvas 2D and reports success after 15 frames for GPU pixel testing.

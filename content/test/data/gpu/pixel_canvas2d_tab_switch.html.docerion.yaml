@@ -1,0 +1,4 @@
+# Docerion header of pixel_canvas2d_tab_switch.html.
+type: test
+title: 'Tab Switch Canvas 2D Test: Diagonally opposite green and blue box, over red box'
+summary: Draws diagonally opposite green and blue boxes over a red box on a Canvas 2D surface and waits for the tab to become visible before reporting success.

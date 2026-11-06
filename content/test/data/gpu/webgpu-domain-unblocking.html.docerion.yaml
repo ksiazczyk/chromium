@@ -1,0 +1,4 @@
+# Docerion header of webgpu-domain-unblocking.html.
+type: test
+title: WebGPU domain unblocking test
+summary: Crashes the GPU process twice to trigger WebGPU domain blocking and checks that stale adapters and new adapter requests fail.

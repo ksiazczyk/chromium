@@ -1,0 +1,4 @@
+# Docerion header of filter_effects.html.
+type: test
+title: Basic CSS filter effects test
+summary: Test page that applies animated CSS filter effects such as blur, sepia, and drop-shadow to canvas elements to exercise the compositor filter path.

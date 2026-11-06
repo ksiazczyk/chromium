@@ -1,0 +1,4 @@
+# Docerion header of offscreencanvas_imagebitmap_from_worker_uses_overlay.html.
+type: test
+title: OffscreenCanvas worker ImageBitmap CALayerOverlay test
+summary: Browser test page that checks a canvas displaying a worker-produced ImageBitmap uses the CALayerOverlay compositing path.

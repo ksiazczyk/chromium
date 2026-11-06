@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Encoding rate control test script
+// summary: Test logic that draws pseudorandom gradient animation on a canvas, encodes the frames and asserts the achieved bitrate stays within tolerance of the configured bitrate.
+// ---
+
 'use strict';
 
 function createRandomGenerator(seed) {

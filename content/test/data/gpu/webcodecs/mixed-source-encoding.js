@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mixed source encoding test script
+// summary: Encodes frames from camera, capture, offscreen, buffer and decoder sources and asserts the encoder emits the expected number of chunks without errors.
+// ---
+
 'use strict';
 
 async function main(arg) {

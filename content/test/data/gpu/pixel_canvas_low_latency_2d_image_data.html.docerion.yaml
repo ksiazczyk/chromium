@@ -1,0 +1,4 @@
+# Docerion header of pixel_canvas_low_latency_2d_image_data.html.
+type: test
+title: Low latency 2D canvas get/putImageData test
+summary: Test page that copies image data between two desynchronized 2D canvases and signals success to the browser automation controller after several frames.

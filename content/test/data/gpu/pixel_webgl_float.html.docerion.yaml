@@ -1,0 +1,4 @@
+# Docerion header of pixel_webgl_float.html.
+type: test
+title: WebGL floating-point drawing buffer pixel test
+summary: Test page that creates four WebGL canvases with floating-point drawing buffers and verifies that greater than 8-bit color precision survives draw and readback.

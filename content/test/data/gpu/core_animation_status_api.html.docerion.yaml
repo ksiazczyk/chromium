@@ -1,0 +1,4 @@
+# Docerion header of core_animation_status_api.html.
+type: test
+title: GPU benchmarking Core Animation status API test
+summary: Test page that registers a Core Animation status event listener via chrome.gpuBenchmarking and compares the returned CALayer error code with an expected value.

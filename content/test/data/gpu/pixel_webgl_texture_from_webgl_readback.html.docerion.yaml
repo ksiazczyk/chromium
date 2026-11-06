@@ -1,0 +1,4 @@
+# Docerion header of pixel_webgl_texture_from_webgl_readback.html.
+type: test
+title: 'WebGL Test: Upload WebGL canvas as texture3D of another WebGL canvas'
+summary: Pixel test page that uploads one WebGL canvas as a 3D texture into another WebGL canvas to force the readback and upload path.

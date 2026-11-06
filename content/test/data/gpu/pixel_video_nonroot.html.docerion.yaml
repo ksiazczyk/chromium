@@ -1,0 +1,4 @@
+# Docerion header of pixel_video_nonroot.html.
+type: test
+title: Nonroot Video Test
+summary: GPU pixel test page that plays an MP4 video with a gradient mask next to a black overlay box for video rendering checks.

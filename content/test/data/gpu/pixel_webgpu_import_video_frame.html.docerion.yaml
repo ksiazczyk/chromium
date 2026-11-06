@@ -1,0 +1,4 @@
+# Docerion header of pixel_webgpu_import_video_frame.html.
+type: test
+title: WebGPU importExternalTexture video frame pixel test page
+summary: Browser test page that imports a video frame as a WebGPU external texture, renders it to a canvas, and reports SUCCESS or FAILURE via domAutomationController.

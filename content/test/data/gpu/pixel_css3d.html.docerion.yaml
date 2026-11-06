@@ -1,0 +1,4 @@
+# Docerion header of pixel_css3d.html.
+type: test
+title: CSS 3D projected blue box test
+summary: Test page that displays a CSS 3D rotated blue box over a black background and animates its z-index until reporting success.

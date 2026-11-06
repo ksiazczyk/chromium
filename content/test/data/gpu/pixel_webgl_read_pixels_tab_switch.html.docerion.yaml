@@ -1,0 +1,4 @@
+# Docerion header of pixel_webgl_read_pixels_tab_switch.html.
+type: test
+title: WebGL Canvas Read Pixels And Tab Switch Test
+summary: Pixel test page that reads pixels while the tab is hidden to verify the WebGL drawing buffer is not recomposited after switching back.

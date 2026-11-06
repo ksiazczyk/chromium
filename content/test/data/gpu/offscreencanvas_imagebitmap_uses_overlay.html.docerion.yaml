@@ -1,0 +1,4 @@
+# Docerion header of offscreencanvas_imagebitmap_uses_overlay.html.
+type: test
+title: OffscreenCanvas ImageBitmap CALayerOverlay test
+summary: Browser test page that verifies an ImageBitmap-rendered canvas uses CALayerOverlay, showing green on success and red on failure.

@@ -1,0 +1,4 @@
+# Docerion header of pixel_video_underlay.html.
+type: test
+title: MP4 Underlay Video Test
+summary: GPU pixel test page that plays an MP4 video beneath a black overlay box to exercise underlay video compositing.

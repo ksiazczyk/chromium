@@ -1,0 +1,4 @@
+# Docerion header of pixel_webgl_noalpha_implicit_clear.html.
+type: test
+title: WebGL transparent green triangle implicit clear regression test
+summary: Regression test for crbug 666259 that renders a transparent green triangle with alpha disabled and an implicit clear to check alpha channel blending.

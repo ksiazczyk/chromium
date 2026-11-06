@@ -1,0 +1,4 @@
+# Docerion header of screenshot_sync_divs.html.
+type: test
+title: Synchronized screenshot test page with divs
+summary: Test page that sets the background colors of two composited divs for synchronized screenshot verification.

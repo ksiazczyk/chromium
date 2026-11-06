@@ -1,0 +1,4 @@
+# Docerion header of pixel_webgl_display_p3.html.
+type: test
+title: WebGL Display P3 color space pixel test
+summary: Test page that clears a WebGL canvas in Display P3 color space and compares it against expected and incorrect colors to verify color space handling.

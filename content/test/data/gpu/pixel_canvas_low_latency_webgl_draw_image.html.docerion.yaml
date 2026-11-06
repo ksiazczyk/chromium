@@ -1,0 +1,4 @@
+# Docerion header of pixel_canvas_low_latency_webgl_draw_image.html.
+type: test
+title: Low latency WebGL canvas drawImage test
+summary: Test page that draws a desynchronized WebGL canvas into a 2D canvas via drawImage and reports success after several animation frames.

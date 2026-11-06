@@ -1,0 +1,4 @@
+# Docerion header of pixel_webgpu_copy_externalImage_offscreenCanvas.html.
+type: test
+title: WebGPU copyExternalImageToTexture from OffscreenCanvas pixel test
+summary: Pixel test page that transfers a 2D canvas to an OffscreenCanvas and copies it to a WebGPU texture via copyExternalImageToTexture.

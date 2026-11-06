@@ -1,0 +1,4 @@
+# Docerion header of pixel_video_backdrop_filter.html.
+type: test
+title: Video backdrop filter pixel test page
+summary: Test page playing a four-color MP4 video beneath a grayscale backdrop-filter overlay for pixel test verification.

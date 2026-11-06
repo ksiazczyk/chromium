@@ -1,0 +1,4 @@
+# Docerion header of encode-color-space.html.
+type: test
+title: Encode color space test page
+summary: Manual test page that loads encode-color-space.js and adds buttons to check encoder output color space handling for AVC and AV1 codecs.

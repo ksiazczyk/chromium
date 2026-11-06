@@ -1,0 +1,4 @@
+# Docerion header of pixel_offscreenCanvas_webgl_paint_after_resize.html.
+type: test
+title: OffscreenCanvas WebGL paint after resize pixel test
+summary: Pixel test verifying that an OffscreenCanvas WebGL context still updates its output after the canvas is resized.

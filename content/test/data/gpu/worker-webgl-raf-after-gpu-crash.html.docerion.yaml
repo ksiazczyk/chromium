@@ -1,0 +1,4 @@
+# Docerion header of worker-webgl-raf-after-gpu-crash.html.
+type: test
+title: Worker WebGL rAF after GPU crash test page
+summary: Verifies that a WebGL requestAnimationFrame loop in a worker resumes after a GPU process crash and context restore.

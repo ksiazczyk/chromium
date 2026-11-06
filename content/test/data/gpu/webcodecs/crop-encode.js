@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cropped frame encode-decode test logic
+// summary: Test logic that wraps a frame with a visible-rect crop, exercises copyTo(), then encodes and decodes it to verify the crop is respected.
+// ---
+
 'use strict';
 async function main(arg) {
   const frame_width = 640;

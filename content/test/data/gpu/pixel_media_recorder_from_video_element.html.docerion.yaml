@@ -1,0 +1,4 @@
+# Docerion header of pixel_media_recorder_from_video_element.html.
+type: test
+title: 'Pixel test: MediaRecorder capture from video element'
+summary: Browser pixel test page that records a looping VP9 video element with MediaRecorder and checks the captured output video.

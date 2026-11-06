@@ -1,6 +1,13 @@
 // Copyright 2024 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Worker encoder script for termination test
+// summary: Worker script that encodes a received video frame and further generated frames so the page can terminate the worker during readback and encoding.
+// ---
+
 'use strict';
 
 self.onmessage = async function(e) {

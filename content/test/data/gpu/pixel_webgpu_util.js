@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebGPU pixel test helper utility
+// summary: Shared JavaScript helper for WebGPU pixel tests that initializes a WebGPU canvas context and runs blit, clear, and importExternalTexture render tests.
+// ---
+
 const webGpuUtils = function() {
   const outputFormat = 'bgra8unorm';
 

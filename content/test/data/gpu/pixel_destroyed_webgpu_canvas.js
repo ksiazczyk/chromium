@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebGPU destroyed canvas test logic
+// summary: JavaScript that drives the WebGPU destroyed canvas test, creating onscreen or offscreen canvases and reading them back via drawImage, toBlob, captureStream and other methods.
+// ---
+
 const parsedString = new URLSearchParams(window.location.search);
 const canvas_string = parsedString.get('canvas');
 const method_string = parsedString.get('method');

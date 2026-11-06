@@ -1,0 +1,4 @@
+# Docerion header of pixel_offscreenCanvas_transferToImageBitmap_worker.html.
+type: test
+title: 'Pixel test: OffscreenCanvas transferToImageBitmap on worker thread'
+summary: Browser pixel test checking that a worker transfers ImageBitmaps from two WebGL OffscreenCanvases to main-thread canvases for display.

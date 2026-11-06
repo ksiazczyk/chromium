@@ -1,0 +1,4 @@
+# Docerion header of pixel_webgpu_cached_swap_buffer_invalidated.html.
+type: test
+title: WebGPU Cached Swap Buffer Invalidation Test
+summary: WebGPU pixel test page verifying that acquiring the swapchain texture without rendering presents transparent black, for crbug.com/1240182.

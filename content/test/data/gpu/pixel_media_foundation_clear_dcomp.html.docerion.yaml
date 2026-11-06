@@ -1,0 +1,4 @@
+# Docerion header of pixel_media_foundation_clear_dcomp.html.
+type: test
+title: MediaFoundation clear DirectComposition video test
+summary: Test page that hosts a video element for the MediaFoundation clear DirectComposition video test using media_foundation_clear_dcomp.js.

@@ -1,0 +1,4 @@
+# Docerion header of webgpu-domain-blocking-page2.html.
+type: test
+title: WebGPU domain blocking test page 2
+summary: Second stage of the domain blocking test that requests a WebGPU adapter to verify the domain has been blocked.

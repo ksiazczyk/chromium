@@ -1,0 +1,4 @@
+# Docerion header of pixel_canvas2d_webgl.html.
+type: test
+title: Accelerated Retina Canvas 2D and WebGL Test
+summary: Draws a red box with Canvas 2D and a green triangle with WebGL over a black background to test accelerated retina rendering.

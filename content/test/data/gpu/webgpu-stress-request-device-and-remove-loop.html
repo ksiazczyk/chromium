@@ -1,3 +1,9 @@
+<!--docerion
+type: test
+title: WebGPU request-device and iframe removal stress test
+summary: Stress test for crbug.com/1242269 that repeatedly creates iframes initializing GPUDevices and removes them for 90 seconds to catch a use-after-free crash.
+-->
+
 <!--
   This is a stress test for crbug.com/1242269.
   In the bug, a flaky use-after-free could happen depending on the ordering of

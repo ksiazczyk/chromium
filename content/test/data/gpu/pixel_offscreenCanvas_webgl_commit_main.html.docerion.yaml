@@ -1,0 +1,4 @@
+# Docerion header of pixel_offscreenCanvas_webgl_commit_main.html.
+type: test
+title: OffscreenCanvas WebGL commit pixel test on main thread
+summary: Pixel test checking that two OffscreenCanvas WebGL contexts on the main thread submit frames together and draw an upright triangle.

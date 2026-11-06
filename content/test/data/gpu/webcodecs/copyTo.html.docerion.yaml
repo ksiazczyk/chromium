@@ -1,0 +1,4 @@
+# Docerion header of copyTo.html.
+type: test
+title: copyTo() test page
+summary: Manual test page that reads frames from various sources with copyTo() into regular and shared buffers and validates decoded pixel colors.

@@ -1,0 +1,4 @@
+# Docerion header of canvas_2d_gpu_crash.html.
+type: test
+title: Canvas 2D GPU crash context loss and restoration test
+summary: Browser test page that validates canvas 2D contextlost and contextrestored events after a GPU crash and reports success via domAutomationController.

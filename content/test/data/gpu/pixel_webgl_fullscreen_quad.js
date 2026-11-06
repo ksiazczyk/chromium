@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebGL fullscreen quad test helper
+// summary: Test helper script that initializes a WebGL context, compiles shaders and draws fullscreen quads for GPU pixel tests.
+// ---
+
 const defaultVertexShader = [
   'attribute vec3 pos;',
   'void main(void)',

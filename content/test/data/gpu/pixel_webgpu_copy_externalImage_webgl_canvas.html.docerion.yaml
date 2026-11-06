@@ -1,0 +1,4 @@
+# Docerion header of pixel_webgpu_copy_externalImage_webgl_canvas.html.
+type: test
+title: WebGPU copyExternalImageToTexture from WebGL canvas pixel test
+summary: Pixel test page that clears scissored regions of a WebGL canvas and copies it to a WebGPU texture via copyExternalImageToTexture.

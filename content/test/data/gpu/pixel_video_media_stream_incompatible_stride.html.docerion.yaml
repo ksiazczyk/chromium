@@ -1,0 +1,4 @@
+# Docerion header of pixel_video_media_stream_incompatible_stride.html.
+type: test
+title: Media stream incompatible stride video pixel test page
+summary: HTML test page that plays a getUserMedia media stream with an incompatible stride for GPU pixel output verification.

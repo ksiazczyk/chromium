@@ -1,0 +1,4 @@
+# Docerion header of pixel_webgl_preserved_after_tab_switch.html.
+type: test
+title: 'WebGL Test: WebGL Content Preserved after Tab Switched'
+summary: Pixel test page that copies a WebGL canvas into a 2D canvas to verify WebGL content is preserved after a tab switch.
