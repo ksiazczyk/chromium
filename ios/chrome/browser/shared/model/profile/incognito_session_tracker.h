@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IncognitoSessionTracker class declaration
+// summary: Declares IncognitoSessionTracker, which observes the profile manager to report whether any off-the-record tabs are open and notify on changes.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_MODEL_PROFILE_INCOGNITO_SESSION_TRACKER_H_
 #define IOS_CHROME_BROWSER_SHARED_MODEL_PROFILE_INCOGNITO_SESSION_TRACKER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Application context build definition
+summary: GN build file defining the application_context source set with its source files and dependencies on base and optimization guide build flags.

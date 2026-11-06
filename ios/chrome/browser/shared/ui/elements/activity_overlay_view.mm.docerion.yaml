@@ -1,0 +1,4 @@
+# Docerion header of activity_overlay_view.mm.
+type: source
+title: ActivityOverlayView implementation
+summary: Implements the overlay view, animating a scrim background and activity indicator when first added to a superview.

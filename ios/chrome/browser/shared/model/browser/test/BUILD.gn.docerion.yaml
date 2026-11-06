@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for browser test support
+summary: Defines the testonly test_support source_set bundling the fake and test browser helpers with their dependencies.

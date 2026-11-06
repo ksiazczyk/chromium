@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProfileManagerObserverIOS interface
+// summary: Declares ProfileManagerObserverIOS, an observer interface notified of profile manager shutdown and profile creation, loading, unloading, and deletion.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_MODEL_PROFILE_PROFILE_MANAGER_OBSERVER_IOS_H_
 #define IOS_CHROME_BROWSER_SHARED_MODEL_PROFILE_PROFILE_MANAGER_OBSERVER_IOS_H_
 

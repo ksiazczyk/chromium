@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Passthrough stack view header
+// summary: Declares a UIStackView subclass that passes touches on its transparent areas through to views behind it.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_UI_ELEMENTS_PASSTHROUGH_STACK_VIEW_H_
 #define IOS_CHROME_BROWSER_SHARED_UI_ELEMENTS_PASSTHROUGH_STACK_VIEW_H_
 

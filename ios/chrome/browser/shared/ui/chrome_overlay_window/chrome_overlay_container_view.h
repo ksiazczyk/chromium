@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome overlay container view header
+// summary: Declares ChromeOverlayContainerView, a UIView that allows touches to pass through to underlying content when the touch is not on an active overlay.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_UI_CHROME_OVERLAY_WINDOW_CHROME_OVERLAY_CONTAINER_VIEW_H_
 #define IOS_CHROME_BROWSER_SHARED_UI_CHROME_OVERLAY_WINDOW_CHROME_OVERLAY_CONTAINER_VIEW_H_
 

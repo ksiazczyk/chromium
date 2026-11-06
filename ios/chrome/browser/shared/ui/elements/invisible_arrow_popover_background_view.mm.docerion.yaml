@@ -1,0 +1,4 @@
+# Docerion header of invisible_arrow_popover_background_view.mm.
+type: source
+title: Invisible arrow popover background view
+summary: Implements a popover background view whose arrow and shadow are invisible, using zero arrow size and content insets.

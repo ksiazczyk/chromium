@@ -1,0 +1,4 @@
+# Docerion header of gradient_layer.mm.
+type: source
+title: GradientLayer implementation
+summary: Implements gradient curves by generating multi-step interpolated colors between start and end colors for each gradient type.

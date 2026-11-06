@@ -1,0 +1,4 @@
+# Docerion header of browser_util_unittest.mm.
+type: test
+title: Unit tests for browser tab moving utilities
+summary: Unit tests verifying tab moves between regular and incognito browsers and the associated snapshot migration.

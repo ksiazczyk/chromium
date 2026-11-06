@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Home waiting view interface
+// summary: Declares a view that shows a delayed activity indicator over an optional colored background while the UI is waiting.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_UI_ELEMENTS_HOME_WAITING_VIEW_H_
 #define IOS_CHROME_BROWSER_SHARED_UI_ELEMENTS_HOME_WAITING_VIEW_H_
 

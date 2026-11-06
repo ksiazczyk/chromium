@@ -1,0 +1,4 @@
+# Docerion header of self_sizing_table_view.mm.
+type: source
+title: Self-sizing table view implementation
+summary: Implements intrinsic content size calculation and automatic invalidation whenever the table view content size changes.

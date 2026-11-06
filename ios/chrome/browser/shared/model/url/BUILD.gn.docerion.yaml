@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the shared URL model
+summary: Defines GN source sets for the URL utilities, Chrome URL constants, and unit tests, together with their dependencies.

@@ -1,0 +1,4 @@
+# Docerion header of all_web_state_observation_forwarder.mm.
+type: source
+title: AllWebStateObservationForwarder implementation
+summary: Implements the forwarder by observing all WebStates in the list and updating observations on insert, detach, and replace changes.

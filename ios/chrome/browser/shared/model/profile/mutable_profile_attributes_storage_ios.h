@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MutableProfileAttributesStorageIOS class declaration
+// summary: Declares a ProfileAttributesStorageIOS subclass restricted to ProfileManagerIOS that supports adding, deleting and reserving profile names.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_MODEL_PROFILE_MUTABLE_PROFILE_ATTRIBUTES_STORAGE_IOS_H_
 #define IOS_CHROME_BROWSER_SHARED_MODEL_PROFILE_MUTABLE_PROFILE_ATTRIBUTES_STORAGE_IOS_H_
 

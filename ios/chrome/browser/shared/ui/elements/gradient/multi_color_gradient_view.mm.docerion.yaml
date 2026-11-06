@@ -1,0 +1,4 @@
+# Docerion header of multi_color_gradient_view.mm.
+type: source
+title: MultiColorGradientView implementation
+summary: Implements the multi-color gradient view backed by CAGradientLayer, updating colors on trait changes without animation.

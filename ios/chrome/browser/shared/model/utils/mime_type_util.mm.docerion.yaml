@@ -1,0 +1,4 @@
+# Docerion header of mime_type_util.mm.
+type: source
+title: MIME type constant definitions
+summary: Defines the MIME type and file extension constants declared in mime_type_util.h for use across iOS Chrome.

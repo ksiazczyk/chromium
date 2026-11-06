@@ -1,0 +1,4 @@
+# Docerion header of bottom_sheet_util_unittest.mm.
+type: test
+title: Unit tests for bottom sheet URL formatting
+summary: Tests host-only display, trivial www stripping, port handling, IDN spoof cases and LTR wrapping of the formatted URL.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Gradient UI source_set build definition (BUILD.gn)
+summary: Defines the gradient source_set target listing the gradient blur, layer and view sources with a dependency on //base.

@@ -1,0 +1,4 @@
+# Docerion header of pref_backed_boolean_unittest.mm.
+type: test
+title: Unit tests for PrefBackedBoolean
+summary: Verifies reading and writing the backing preference and that observers are notified only when the value changes.

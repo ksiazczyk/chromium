@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestBrowser test double header
+// summary: Declares TestBrowser, a fake Browser implementation with configurable profile, scene state, web state list delegate, and type for unit tests.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_MODEL_BROWSER_TEST_TEST_BROWSER_H_
 #define IOS_CHROME_BROWSER_SHARED_MODEL_BROWSER_TEST_TEST_BROWSER_H_
 

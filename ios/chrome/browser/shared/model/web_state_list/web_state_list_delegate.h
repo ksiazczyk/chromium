@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebStateList delegate interface
+// summary: Declares a delegate interface letting WebStateList perform work it cannot do itself, such as preparing web states for addition, activation, and removal.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_MODEL_WEB_STATE_LIST_WEB_STATE_LIST_DELEGATE_H_
 #define IOS_CHROME_BROWSER_SHARED_MODEL_WEB_STATE_LIST_WEB_STATE_LIST_DELEGATE_H_
 

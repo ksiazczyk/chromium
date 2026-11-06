@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserProviderInterface protocol header
+// summary: Declares the BrowserProviderInterface protocol that exposes the current, main, and incognito BrowserProvider instances for the Chrome UI.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_MODEL_BROWSER_BROWSER_PROVIDER_INTERFACE_H_
 #define IOS_CHROME_BROWSER_SHARED_MODEL_BROWSER_BROWSER_PROVIDER_INTERFACE_H_
 

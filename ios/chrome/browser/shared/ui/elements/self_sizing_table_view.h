@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Self-sizing table view header
+// summary: Declares a UITableView subclass that exposes its content height as intrinsic size and notifies a delegate of size changes.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_UI_ELEMENTS_SELF_SIZING_TABLE_VIEW_H_
 #define IOS_CHROME_BROWSER_SHARED_UI_ELEMENTS_SELF_SIZING_TABLE_VIEW_H_
 

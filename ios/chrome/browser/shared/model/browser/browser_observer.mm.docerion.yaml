@@ -1,0 +1,4 @@
+# Docerion header of browser_observer.mm.
+type: source
+title: BrowserObserver implementation
+summary: Implements the BrowserObserver destructor, which checks that the observer is not destroyed while still registered in an observer list.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrefBackedBoolean observable boolean interface
+// summary: Declares an observable boolean backed by a named preference from a PrefService, with a stop method to end observation.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_MODEL_PREFS_PREF_BACKED_BOOLEAN_H_
 #define IOS_CHROME_BROWSER_SHARED_MODEL_PREFS_PREF_BACKED_BOOLEAN_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the prefs directory
+summary: Lists owners responsible for pref migration and deprecation and for simple additions or removals of preferences.

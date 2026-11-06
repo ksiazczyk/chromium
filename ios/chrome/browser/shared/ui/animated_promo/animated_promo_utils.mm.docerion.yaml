@@ -1,0 +1,4 @@
+# Docerion header of animated_promo_utils.mm.
+type: source
+title: Animated promo animation color utilities implementation
+summary: Implements helpers that set Lottie animation color values by keypath, supporting semantic colors, SkColor pairs, and light/dark color providers.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ListModel model class for collection and table view controllers
+// summary: Declares ListModel, a model class mapping index paths to sections, items, headers and footers, with collapsed-state support for dynamic lists.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_UI_LIST_MODEL_LIST_MODEL_H_
 #define IOS_CHROME_BROWSER_SHARED_UI_LIST_MODEL_LIST_MODEL_H_
 

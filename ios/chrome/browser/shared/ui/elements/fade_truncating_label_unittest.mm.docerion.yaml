@@ -1,0 +1,4 @@
+# Docerion header of fade_truncating_label_unittest.mm.
+type: test
+title: Fade truncating label unit tests
+summary: Unit tests for FadeTruncatingLabel verifying line wrapping, bounding rects, and drawing parameters using OCMock stubs and platform test fixtures.

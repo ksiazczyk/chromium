@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AnimatedPromoViewController header
+// summary: Declares AnimatedPromoViewController, a full-screen promo container combining a Lottie animation with a confirmation alert screen.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_UI_ANIMATED_PROMO_ANIMATED_PROMO_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_SHARED_UI_ANIMATED_PROMO_ANIMATED_PROMO_VIEW_CONTROLLER_H_
 

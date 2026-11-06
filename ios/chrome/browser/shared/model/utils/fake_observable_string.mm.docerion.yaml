@@ -1,0 +1,4 @@
+# Docerion header of fake_observable_string.mm.
+type: source
+title: Implementation of the observable string test fake
+summary: Implements FakeObservableString value changes and a counting TestStringObserver for tests.

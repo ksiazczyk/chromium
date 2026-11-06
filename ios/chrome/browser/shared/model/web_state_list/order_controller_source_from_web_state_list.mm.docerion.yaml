@@ -1,0 +1,4 @@
+# Docerion header of order_controller_source_from_web_state_list.mm.
+type: source
+title: OrderControllerSourceFromWebStateList implementation
+summary: Implements OrderControllerSource by reading counts, opener relationships, and tab group data from a WebStateList.

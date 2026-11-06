@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the bottom sheet targets
+summary: Defines GN source sets for the bottom sheet utility, view controllers and their unit tests with their dependencies.

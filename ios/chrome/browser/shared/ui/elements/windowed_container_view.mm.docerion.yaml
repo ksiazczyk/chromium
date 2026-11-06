@@ -1,0 +1,4 @@
+# Docerion header of windowed_container_view.mm.
+type: source
+title: WindowedContainerView implementation
+summary: Implements WindowedContainerView, which attaches itself to the key window and resigns first responder of added subviews to prevent keyboard display.

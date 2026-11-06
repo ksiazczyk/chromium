@@ -1,0 +1,4 @@
+# Docerion header of fade_truncating_label.mm.
+type: source
+title: Fade truncating label implementation
+summary: Implements FadeTruncatingLabel, drawing attributed text with a linear gradient opacity mask to fade truncated text at the left or right edge.

@@ -1,0 +1,4 @@
+# Docerion header of tab_group.mm.
+type: source
+title: TabGroup implementation
+summary: Implements TabGroup title retrieval with fallback, color access, visual data updates, and default color selection for new tab groups.

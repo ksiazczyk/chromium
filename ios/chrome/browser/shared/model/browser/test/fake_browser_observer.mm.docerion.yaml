@@ -1,0 +1,4 @@
+# Docerion header of fake_browser_observer.mm.
+type: test
+title: FakeBrowserObserver test helper implementation
+summary: Implements FakeBrowserObserver by registering with the browser on construction and flagging destruction.

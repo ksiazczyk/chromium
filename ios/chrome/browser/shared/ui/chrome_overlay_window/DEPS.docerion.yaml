@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Chrome overlay window dependency rules
+summary: Declares include rules for the chrome_overlay_window directory, allowing imports from ios/chrome/browser/crash_report/model.

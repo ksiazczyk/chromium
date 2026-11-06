@@ -1,0 +1,4 @@
+# Docerion header of browser_list_observer.mm.
+type: source
+title: BrowserListObserver implementation
+summary: Implements the BrowserListObserver destructor, asserting observers are removed from the observer list before destruction.

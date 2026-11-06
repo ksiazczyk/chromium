@@ -1,0 +1,4 @@
+# Docerion header of blue_dot_util_unittest.mm.
+type: test
+title: Blue dot utility unit tests
+summary: Unit tests verifying blue dot insertion order, modern button configuration handling, and mask application and removal.

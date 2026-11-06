@@ -1,0 +1,4 @@
+# Docerion header of animation_brick.mm.
+type: source
+title: AnimationBrick implementation
+summary: Implements AnimationBrick, creating Lottie animations and handling dark mode, size class changes, and animation playback.

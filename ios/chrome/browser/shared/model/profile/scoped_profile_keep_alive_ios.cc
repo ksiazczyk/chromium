@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedProfileKeepAliveIOS implementation
+// summary: Implements ScopedProfileKeepAliveIOS, the move-only keep-alive object that runs a cleanup callback when reset or destroyed.
+// ---
+
 #include "ios/chrome/browser/shared/model/profile/scoped_profile_keep_alive_ios.h"
 
 #include <algorithm>

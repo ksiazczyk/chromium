@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Activity overlay Earl Grey test helper interface
+// summary: Declares WaitForActivityOverlayToDisappear for use at the end of Earl Grey tests that show the overlay.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_UI_ELEMENTS_ACTIVITY_OVERLAY_EGTEST_UTIL_H_
 #define IOS_CHROME_BROWSER_SHARED_UI_ELEMENTS_ACTIVITY_OVERLAY_EGTEST_UTIL_H_
 

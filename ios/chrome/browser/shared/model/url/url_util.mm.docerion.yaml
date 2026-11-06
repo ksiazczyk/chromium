@@ -1,0 +1,4 @@
+# Docerion header of url_util.mm.
+type: source
+title: Implementation of iOS URL utilities
+summary: Implements URL checks for NTP, shareability, downloaded files, external file references, and the ChromeAppConstants scheme singleton.

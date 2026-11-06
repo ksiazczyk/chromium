@@ -1,0 +1,4 @@
+# Docerion header of bottom_sheet_view_controller.mm.
+type: source
+title: Bottom sheet view controller implementation
+summary: Implements sheet presentation setup, custom minimized and expanded detents, corner radius and trait change handling.

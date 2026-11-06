@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the paths source set
+summary: Defines the paths source_set listing its header and implementation sources and its dependencies on base, branding buildflags, and the GCM driver component.

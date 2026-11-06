@@ -1,0 +1,4 @@
+# Docerion header of browser_list.mm.
+type: source
+title: BrowserList implementation
+summary: Implements BrowserList, including browser type matching, browser registration and removal, and observer notifications.

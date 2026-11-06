@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the profile directory
+summary: Restricts the includes allowed for files in the profile directory, with a specific exception for profile_ios.mm.

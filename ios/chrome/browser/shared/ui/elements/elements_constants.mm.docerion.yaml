@@ -1,0 +1,4 @@
+# Docerion header of elements_constants.mm.
+type: source
+title: Elements constants implementation
+summary: Defines shared UI element constants for Chrome for iOS, including the activity overlay view accessibility identifier string.

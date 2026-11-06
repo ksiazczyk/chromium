@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Path keys for the Chrome on iOS PathService
+// summary: Declares the ios enum of path keys for user data, crash dumps, test data, the global GCM store, local state, the resources pack, and prediction models, plus RegisterPathProvider.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_MODEL_PATHS_PATHS_H_
 #define IOS_CHROME_BROWSER_SHARED_MODEL_PATHS_PATHS_H_
 

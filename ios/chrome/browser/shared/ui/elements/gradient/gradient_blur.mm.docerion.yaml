@@ -1,0 +1,4 @@
+# Docerion header of gradient_blur.mm.
+type: source
+title: GradientBlur implementation
+summary: Implements partial blur using a paused UIViewPropertyAnimator with a GradientLayer mask, reapplied when entering foreground.

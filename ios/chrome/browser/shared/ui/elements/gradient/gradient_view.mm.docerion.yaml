@@ -1,0 +1,4 @@
+# Docerion header of gradient_view.mm.
+type: source
+title: GradientView implementation
+summary: Implements the two-color gradient view backed by GradientLayer, updating colors without animation on trait changes.

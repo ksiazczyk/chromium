@@ -1,0 +1,4 @@
+# Docerion header of order_controller_source_from_web_state_list_unittest.mm.
+type: test
+title: Unit tests for OrderControllerSourceFromWebStateList
+summary: Tests the WebStateList-backed source implementation for counts, pinned counts, opener lookups, and group ranges.

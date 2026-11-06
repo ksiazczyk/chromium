@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActivityOverlayView interface
+// summary: Declares a view with a translucent background and a centered activity indicator.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_UI_ELEMENTS_ACTIVITY_OVERLAY_VIEW_H_
 #define IOS_CHROME_BROWSER_SHARED_UI_ELEMENTS_ACTIVITY_OVERLAY_VIEW_H_
 

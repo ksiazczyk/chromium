@@ -1,0 +1,4 @@
+# Docerion header of order_controller.mm.
+type: source
+title: OrderController implementation for WebStateList ordering
+summary: Implements the algorithms that compute where to insert a new WebState and which index becomes active after closures.

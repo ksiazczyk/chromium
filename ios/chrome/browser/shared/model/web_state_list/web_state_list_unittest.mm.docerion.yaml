@@ -1,0 +1,4 @@
+# Docerion header of web_state_list_unittest.mm.
+type: test
+title: WebStateList unit tests
+summary: Extensive unit tests for WebStateList covering insertion, moves, replacement, detachment, activation, tab groups, batch operations and observer notifications.

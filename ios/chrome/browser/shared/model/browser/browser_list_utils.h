@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser list utilities header
+// summary: Declares browser_list_utils helpers that return the most recently foregrounded regular browser and the currently visible browser of a foreground active scene.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_MODEL_BROWSER_BROWSER_LIST_UTILS_H_
 #define IOS_CHROME_BROWSER_SHARED_MODEL_BROWSER_BROWSER_LIST_UTILS_H_
 

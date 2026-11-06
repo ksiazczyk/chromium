@@ -1,0 +1,4 @@
+# Docerion header of test_browser_list_observer.mm.
+type: test
+title: TestBrowserListObserver test helper implementation
+summary: Implements TestBrowserListObserver, tracking browser list events and keeping separate sets of regular and incognito browsers.

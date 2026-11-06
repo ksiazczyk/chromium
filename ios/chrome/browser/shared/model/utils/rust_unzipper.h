@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Rust unzipper interface
+// summary: Declares UnzipData, which asynchronously unzips in-memory data via Rust and reports unzipped files or an error through a callback.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_MODEL_UTILS_RUST_UNZIPPER_H_
 #define IOS_CHROME_BROWSER_SHARED_MODEL_UTILS_RUST_UNZIPPER_H_
 

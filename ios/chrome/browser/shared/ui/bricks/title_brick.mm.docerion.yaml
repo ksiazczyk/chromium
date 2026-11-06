@@ -1,0 +1,4 @@
+# Docerion header of title_brick.mm.
+type: source
+title: TitleBrick implementation
+summary: Implements TitleBrick, building a vertical stack of styled, accessible title and subtitle labels with dynamic font support.

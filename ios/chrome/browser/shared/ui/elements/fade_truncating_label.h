@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fade truncating label interface
+// summary: Declares a UILabel subclass that fades the trailing end of overflowing text to the background color, with URL display and text direction options.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_UI_ELEMENTS_FADE_TRUNCATING_LABEL_H_
 #define IOS_CHROME_BROWSER_SHARED_UI_ELEMENTS_FADE_TRUNCATING_LABEL_H_
 

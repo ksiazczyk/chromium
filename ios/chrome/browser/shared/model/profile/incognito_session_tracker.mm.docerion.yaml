@@ -1,0 +1,4 @@
+# Docerion header of incognito_session_tracker.mm.
+type: source
+title: IncognitoSessionTracker implementation
+summary: Implements IncognitoSessionTracker by tracking per-profile incognito tab state and invoking registered callbacks when it changes.

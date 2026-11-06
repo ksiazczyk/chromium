@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bottom sheet view controller interface
+// summary: Declares a confirmation alert view controller presented as a bottom sheet, with methods for detents and presentation setup.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_UI_BOTTOM_SHEET_BOTTOM_SHEET_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_SHARED_UI_BOTTOM_SHEET_BOTTOM_SHEET_VIEW_CONTROLLER_H_
 

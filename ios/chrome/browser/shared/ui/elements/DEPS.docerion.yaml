@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the elements directory
+summary: Restricts allowed dependencies for this directory to the scoped UI blocker bundle under ios/chrome/browser.

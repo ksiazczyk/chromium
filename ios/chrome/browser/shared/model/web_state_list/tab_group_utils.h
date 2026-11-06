@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabGroup utilities header
+// summary: Declares helpers to gather tab groups across browsers and profiles, find groups for active web states, and move tabs between groups.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_MODEL_WEB_STATE_LIST_TAB_GROUP_UTILS_H_
 #define IOS_CHROME_BROWSER_SHARED_MODEL_WEB_STATE_LIST_TAB_GROUP_UTILS_H_
 

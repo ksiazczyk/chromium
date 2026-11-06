@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Profile keyed service utilities unit tests
+// summary: Unit tests verifying that GetContextToUseForKeyedServiceFactory returns the expected profile for regular, incognito, and null contexts.
+// ---
+
 #include "ios/chrome/browser/shared/model/profile/profile_keyed_service_utils.h"
 
 #include "base/memory/raw_ptr.h"

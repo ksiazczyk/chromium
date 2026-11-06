@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AnimatedPromoWithBricksViewController header
+// summary: Declares a brick-based full-screen promo view controller that hosts an animation, title, subtitle, and button stack from a configuration object.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_UI_ANIMATED_PROMO_ANIMATED_PROMO_WITH_BRICKS_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_SHARED_UI_ANIMATED_PROMO_ANIMATED_PROMO_WITH_BRICKS_VIEW_CONTROLLER_H_
 

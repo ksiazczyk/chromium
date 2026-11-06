@@ -1,0 +1,4 @@
+# Docerion header of all_web_state_observation_forwarder_unittest.mm.
+type: test
+title: Unit tests for AllWebStateObservationForwarder
+summary: Verifies that the forwarder notifies the observer for all WebStates across insertion, detachment, and replacement scenarios.

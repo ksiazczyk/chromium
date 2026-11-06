@@ -1,0 +1,4 @@
+# Docerion header of bottom_sheet_util.mm.
+type: source
+title: Implementation of bottom sheet URL display formatting
+summary: Implements URL formatting that strips trivial www subdomains, omits scheme, path and default ports, and wraps output in LTR marks.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ProfileIOS unit tests
+// summary: Tests that ProfileIOS updates CORS-exempt headers correctly and that registered profile destruction callbacks are invoked.
+// ---
+
 #include "ios/chrome/browser/shared/model/profile/profile_ios.h"
 
 #include "base/run_loop.h"

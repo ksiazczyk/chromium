@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn
+summary: GN build configuration defining the animated_promo and utils source sets with their sources, dependencies, and frameworks.

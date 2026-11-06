@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserList keyed service interface
+// summary: Declares BrowserList, an observable keyed service that tracks the addition and removal of Browsers for regular and OTR profiles.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_MODEL_BROWSER_BROWSER_LIST_H_
 #define IOS_CHROME_BROWSER_SHARED_MODEL_BROWSER_BROWSER_LIST_H_
 

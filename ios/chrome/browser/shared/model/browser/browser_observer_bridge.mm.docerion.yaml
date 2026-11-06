@@ -1,0 +1,4 @@
+# Docerion header of browser_observer_bridge.mm.
+type: source
+title: BrowserObserverBridge implementation
+summary: Implements BrowserObserverBridge, which starts observing a browser and forwards the destroyed event to the Objective-C observer before ending the observation.

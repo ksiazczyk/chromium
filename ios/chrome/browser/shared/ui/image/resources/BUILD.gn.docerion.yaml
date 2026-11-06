@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for shared image UI resources
+summary: Defines bundle_data_xcassets targets that package asset catalogs with enterprise signin, guided tour, notifications, and password manager widget promo images for the iOS shared image UI.

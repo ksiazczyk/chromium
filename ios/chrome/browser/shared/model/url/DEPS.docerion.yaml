@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the URL model folder
+summary: Declares the headers that code in the shared URL model directory is allowed to include.

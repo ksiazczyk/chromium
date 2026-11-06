@@ -1,0 +1,4 @@
+# Docerion header of removing_indexes_unittest.mm.
+type: test
+title: RemovingIndexes unit tests
+summary: Unit tests verifying count, span, and index and range remapping behavior of RemovingIndexes for empty, single, range, and disjoint removals.

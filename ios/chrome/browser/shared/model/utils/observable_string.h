@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ObservableString protocol
+// summary: Defines protocols for an observable string value and an observer that is notified when the value changes.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_MODEL_UTILS_OBSERVABLE_STRING_H_
 #define IOS_CHROME_BROWSER_SHARED_MODEL_UTILS_OBSERVABLE_STRING_H_
 

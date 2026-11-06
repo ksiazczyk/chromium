@@ -1,0 +1,4 @@
+# Docerion header of activity_overlay_coordinator.mm.
+type: source
+title: ActivityOverlayCoordinator implementation
+summary: Implements start and stop to add and remove the activity overlay view controller with matching size and center constraints.

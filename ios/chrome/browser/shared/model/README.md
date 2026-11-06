@@ -1,3 +1,9 @@
+---
+type: readme
+title: Shared model folder
+summary: Explains that this folder holds code shared by all model features, added only when widely reused, mainly to simplify DEPS dependency rules.
+---
+
 # Shared model folder
 
 This folder only contains the code shared by all the model features.

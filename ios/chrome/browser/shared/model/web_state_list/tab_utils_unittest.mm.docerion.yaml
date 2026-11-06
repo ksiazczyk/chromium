@@ -1,0 +1,4 @@
+# Docerion header of tab_utils_unittest.mm.
+type: test
+title: Unit tests for tab utilities
+summary: Unit tests verifying that MoveWebStateWithIdentifierToInsertionParams moves web states correctly within and between tab groups.

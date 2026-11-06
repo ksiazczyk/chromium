@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for shared model utils
+summary: Defines source sets, a Rust static library for zip FFI glue, and test targets for the shared model utils directory.

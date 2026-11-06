@@ -1,0 +1,4 @@
+# Docerion header of extended_touch_target_button.mm.
+type: source
+title: Extended touch target button implementation
+summary: Implements ExtendedTouchTargetButton, treating touches within the circular minimum diameter area as inside the button.

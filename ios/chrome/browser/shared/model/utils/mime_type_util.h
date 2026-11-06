@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MIME type constant declarations for iOS Chrome
+// summary: Declares named MIME type constants for file types such as passes, archives, 3D models, documents, and media used by iOS Chrome.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_MODEL_UTILS_MIME_TYPE_UTIL_H_
 #define IOS_CHROME_BROWSER_SHARED_MODEL_UTILS_MIME_TYPE_UTIL_H_
 

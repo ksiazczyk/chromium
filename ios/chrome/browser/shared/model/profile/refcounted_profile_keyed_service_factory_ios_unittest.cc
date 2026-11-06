@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Refcounted profile keyed service factory unit tests
+// summary: Parameterized unit tests covering DummyService creation through RefcountedProfileKeyedServiceFactoryIOS across ProfileSelection, ServiceCreation, and TestingCreation traits.
+// ---
+
 #include "ios/chrome/browser/shared/model/profile/refcounted_profile_keyed_service_factory_ios.h"
 
 #include <string_view>

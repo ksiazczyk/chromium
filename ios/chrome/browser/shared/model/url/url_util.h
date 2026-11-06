@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL utility functions and ChromeAppConstants interface
+// summary: Declares helpers for classifying and handling URLs, plus the ChromeAppConstants singleton exposing bundle URL schemes.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_MODEL_URL_URL_UTIL_H_
 #define IOS_CHROME_BROWSER_SHARED_MODEL_URL_URL_UTIL_H_
 

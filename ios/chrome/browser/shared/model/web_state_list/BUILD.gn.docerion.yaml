@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for web_state_list
+summary: Defines the web_state_list, utils, and unit_tests source sets with their sources and dependencies for the Chromium iOS build.

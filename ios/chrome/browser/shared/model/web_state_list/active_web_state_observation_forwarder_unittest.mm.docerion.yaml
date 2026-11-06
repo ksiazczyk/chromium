@@ -1,0 +1,4 @@
+# Docerion header of active_web_state_observation_forwarder_unittest.mm.
+type: test
+title: Unit tests for ActiveWebStateObservationForwarder
+summary: Verifies that the forwarder notifies the observer only for the active WebState across insertion, activation, and detachment scenarios.

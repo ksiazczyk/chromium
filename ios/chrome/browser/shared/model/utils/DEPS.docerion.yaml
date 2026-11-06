@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include dependency rules for shared model utils
+summary: Restricts includes in this directory to the first run model header via include_rules.

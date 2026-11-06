@@ -1,0 +1,4 @@
+# Docerion header of list_model.mm.
+type: source
+title: Implementation of ListModel section and item management
+summary: Implements ListModel's section and item storage, modification methods and collapsed-state handling backed by NSUserDefaults.

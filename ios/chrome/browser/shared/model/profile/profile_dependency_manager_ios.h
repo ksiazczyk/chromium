@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProfileDependencyManagerIOS class header
+// summary: Declares ProfileDependencyManagerIOS, a singleton managing KeyedService creation and destruction according to declared dependencies for ProfileIOS instances.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_MODEL_PROFILE_PROFILE_DEPENDENCY_MANAGER_IOS_H_
 #define IOS_CHROME_BROWSER_SHARED_MODEL_PROFILE_PROFILE_DEPENDENCY_MANAGER_IOS_H_
 

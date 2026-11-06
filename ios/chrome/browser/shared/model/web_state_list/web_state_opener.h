@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebStateOpener struct header
+// summary: Declares the WebStateOpener struct that records the WebState responsible for opening another WebState together with its last committed navigation index.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_MODEL_WEB_STATE_LIST_WEB_STATE_OPENER_H_
 #define IOS_CHROME_BROWSER_SHARED_MODEL_WEB_STATE_LIST_WEB_STATE_OPENER_H_
 

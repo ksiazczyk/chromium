@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for bottom sheet URL display formatting
+// summary: Declares FormatUrlForBottomSheetDisplay, which formats a URL for display in localized bottom sheet strings.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_UI_BOTTOM_SHEET_BOTTOM_SHEET_UTIL_H_
 #define IOS_CHROME_BROWSER_SHARED_UI_BOTTOM_SHEET_BOTTOM_SHEET_UTIL_H_
 

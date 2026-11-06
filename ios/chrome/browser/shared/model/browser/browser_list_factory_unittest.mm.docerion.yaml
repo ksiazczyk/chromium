@@ -1,0 +1,4 @@
+# Docerion header of browser_list_factory_unittest.mm.
+type: test
+title: BrowserListFactory unit tests
+summary: Unit tests verifying the factory returns a non-null instance and shares it between regular and off-the-record profiles.

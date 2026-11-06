@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ListItem base class holding model data for a list item
+// summary: Declares the abstract ListItem base class that holds model data, a client-defined type and the cell class used with the item.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_UI_LIST_MODEL_LIST_ITEM_H_
 #define IOS_CHROME_BROWSER_SHARED_UI_LIST_MODEL_LIST_ITEM_H_
 

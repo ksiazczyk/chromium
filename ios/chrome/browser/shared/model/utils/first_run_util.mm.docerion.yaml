@@ -1,0 +1,4 @@
+# Docerion header of first_run_util.mm.
+type: source
+title: First run utility implementation
+summary: Determines first run state and client age from the first run sentinel and experimental flags.

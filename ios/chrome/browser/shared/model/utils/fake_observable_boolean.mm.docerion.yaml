@@ -1,0 +1,4 @@
+# Docerion header of fake_observable_boolean.mm.
+type: source
+title: Implementation of the observable boolean test fake
+summary: Implements FakeObservableBoolean value changes and a counting TestBooleanObserver for tests.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProfileAttributesStorageIOS implementation
+// summary: Implements ProfileAttributesStorageIOS, persisting profile attributes in preferences and iterating over them with support for mutation and observers.
+// ---
+
 #include "ios/chrome/browser/shared/model/profile/profile_attributes_storage_ios.h"
 
 #include <stddef.h>

@@ -1,0 +1,4 @@
+# Docerion header of activity_overlay_view_controller.mm.
+type: source
+title: Activity overlay view controller implementation
+summary: Implements the activity overlay view controller by loading an ActivityOverlayView as its view.

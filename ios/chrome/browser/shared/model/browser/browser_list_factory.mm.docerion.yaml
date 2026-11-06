@@ -1,0 +1,4 @@
+# Docerion header of browser_list_factory.mm.
+type: source
+title: BrowserListFactory implementation
+summary: Implements BrowserListFactory, building a BrowserList instance with incognito profiles redirected to the regular profile's service.

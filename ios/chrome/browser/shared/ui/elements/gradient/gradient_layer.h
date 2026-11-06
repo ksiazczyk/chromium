@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GradientLayer interface for curved gradients
+// summary: Declares GradientLayer, a CAGradientLayer subclass supporting linear, ease-in-out and ease-in-then-linear gradient curves.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_UI_ELEMENTS_GRADIENT_GRADIENT_LAYER_H_
 #define IOS_CHROME_BROWSER_SHARED_UI_ELEMENTS_GRADIENT_GRADIENT_LAYER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of browser_list_unittest.mm.
+type: test
+title: BrowserList unit tests
+summary: Unit tests covering BrowserList add and remove behavior and the interactions between regular, incognito and inactive browsers.

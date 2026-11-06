@@ -1,0 +1,4 @@
+# Docerion header of list_model_unittest.mm.
+type: test
+title: Unit tests for ListModel sections, items and index path mapping
+summary: Exercises ListModel section and item management, index path mapping, generic model boxing and data source methods across many test cases.

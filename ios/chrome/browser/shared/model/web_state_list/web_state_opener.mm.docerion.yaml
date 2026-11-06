@@ -1,0 +1,4 @@
+# Docerion header of web_state_opener.mm.
+type: source
+title: WebStateOpener implementation
+summary: Implements the WebStateOpener constructors, deriving the navigation index from the opener WebState's navigation manager when available.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebStateDeferredExecutor interface
+// summary: Declares a utility that delays block execution until a web state is loaded or realized, with delegate callbacks around loading and realization.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_MODEL_UTILS_WEB_STATE_DEFERRED_EXECUTOR_H_
 #define IOS_CHROME_BROWSER_SHARED_MODEL_UTILS_WEB_STATE_DEFERRED_EXECUTOR_H_
 

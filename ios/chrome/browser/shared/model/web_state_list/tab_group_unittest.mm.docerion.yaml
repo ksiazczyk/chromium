@@ -1,0 +1,4 @@
+# Docerion header of tab_group_unittest.mm.
+type: test
+title: TabGroup unit tests
+summary: Unit tests verifying TabGroup visual data updates, default and constructed ranges, title fallback behavior, and tab group identifiers.

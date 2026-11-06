@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AnimationBrickConfiguration interface
+// summary: Declares the configuration object for the AnimationBrick brick, covering light and dark animation resources, text localization, background color, and dark mode color providers.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_UI_BRICK_CONFIGURATIONS_ANIMATION_BRICK_CONFIGURATION_H_
 #define IOS_CHROME_BROWSER_SHARED_UI_BRICK_CONFIGURATIONS_ANIMATION_BRICK_CONFIGURATION_H_
 

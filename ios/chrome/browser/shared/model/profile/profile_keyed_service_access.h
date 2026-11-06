@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile keyed service access checkers
+// summary: Defines RejectImplicitAccessIfIncognito and a ServiceAccessChecker combinator that let keyed service factories reject implicit access to incognito profiles.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_MODEL_PROFILE_PROFILE_KEYED_SERVICE_ACCESS_H_
 #define IOS_CHROME_BROWSER_SHARED_MODEL_PROFILE_PROFILE_KEYED_SERVICE_ACCESS_H_
 

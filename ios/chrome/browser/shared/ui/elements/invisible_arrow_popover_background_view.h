@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Invisible arrow popover background view interface
+// summary: Declares a custom UIPopoverBackgroundView subclass that hides the popover's arrow.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_UI_ELEMENTS_INVISIBLE_ARROW_POPOVER_BACKGROUND_VIEW_H_
 #define IOS_CHROME_BROWSER_SHARED_UI_ELEMENTS_INVISIBLE_ARROW_POPOVER_BACKGROUND_VIEW_H_
 

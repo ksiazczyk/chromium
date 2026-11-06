@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProfileIncognitoSessionTracker class header
+// summary: Declares ProfileIncognitoSessionTracker, which tracks whether a profile has open off-the-record tabs and invokes a callback when that state changes.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_MODEL_PROFILE_PROFILE_INCOGNITO_SESSION_TRACKER_H_
 #define IOS_CHROME_BROWSER_SHARED_MODEL_PROFILE_PROFILE_INCOGNITO_SESSION_TRACKER_H_
 

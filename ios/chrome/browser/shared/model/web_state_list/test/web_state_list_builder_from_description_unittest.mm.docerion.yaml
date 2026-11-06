@@ -1,0 +1,4 @@
+# Docerion header of web_state_list_builder_from_description_unittest.mm.
+type: test
+title: WebStateList builder from description unit tests
+summary: Contains unit tests verifying that WebStateListBuilderFromDescription builds and describes WebStateLists as expected.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile keyed service utilities interface
+// summary: Declares GetContextToUseForKeyedServiceFactory, which selects the profile context used by keyed service factories according to ProfileSelection.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_MODEL_PROFILE_PROFILE_KEYED_SERVICE_UTILS_H_
 #define IOS_CHROME_BROWSER_SHARED_MODEL_PROFILE_PROFILE_KEYED_SERVICE_UTILS_H_
 

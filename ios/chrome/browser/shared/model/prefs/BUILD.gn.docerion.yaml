@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the iOS prefs module
+summary: Defines GN source sets for pref-backed wrappers, pref names, and browser_prefs sources together with their component dependencies.

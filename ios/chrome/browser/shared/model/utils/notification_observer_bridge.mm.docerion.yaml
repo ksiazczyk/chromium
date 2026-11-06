@@ -1,0 +1,4 @@
+# Docerion header of notification_observer_bridge.mm.
+type: source
+title: NotificationObserverBridge implementation
+summary: Implements NotificationObserverBridge, forwarding received NSNotifications to the supplied C++ callback.

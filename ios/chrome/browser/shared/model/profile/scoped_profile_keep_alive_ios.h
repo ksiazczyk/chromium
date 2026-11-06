@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedProfileKeepAliveIOS interface
+// summary: Declares ScopedProfileKeepAliveIOS, a move-only wrapper returned by ProfileManagerIOS that keeps a loaded profile alive until reset or destroyed.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_MODEL_PROFILE_SCOPED_PROFILE_KEEP_ALIVE_IOS_H_
 #define IOS_CHROME_BROWSER_SHARED_MODEL_PROFILE_SCOPED_PROFILE_KEEP_ALIVE_IOS_H_
 

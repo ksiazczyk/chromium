@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build configuration for WebStateList test support
+summary: Defines GN source sets providing WebStateList test support fakes and helpers plus the builder unit tests for iOS Chrome.

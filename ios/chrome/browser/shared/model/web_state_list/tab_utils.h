@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab utilities header for web state search and pinning
+// summary: Declares helpers to find web states by identifier and pinned state, get the active tab, pin or unpin tabs, and move web states within a WebStateList.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_MODEL_WEB_STATE_LIST_TAB_UTILS_H_
 #define IOS_CHROME_BROWSER_SHARED_MODEL_WEB_STATE_LIST_TAB_UTILS_H_
 

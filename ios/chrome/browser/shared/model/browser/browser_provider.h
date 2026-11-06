@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserProvider protocol
+// summary: Declares the BrowserProvider protocol exposing the active browser and, behind a pass key, the view controller of the Chrome UI to the application layer.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_MODEL_BROWSER_BROWSER_PROVIDER_H_
 #define IOS_CHROME_BROWSER_SHARED_MODEL_BROWSER_BROWSER_PROVIDER_H_
 

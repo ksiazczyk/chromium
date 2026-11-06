@@ -1,0 +1,4 @@
+# Docerion header of text_field_configuration.mm.
+type: source
+title: Text field configuration implementation
+summary: Implements the designated initializer that stores the configured text field options as read-only properties.

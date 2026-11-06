@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for the image source set
+summary: Defines the image source_set with its Objective-C sources and dependencies on base, buildflags, and branded image resources.

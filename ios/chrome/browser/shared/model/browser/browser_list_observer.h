@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserListObserver interface
+// summary: Declares the BrowserListObserver interface with callbacks for browser addition, browser removal, and browser list shutdown.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_MODEL_BROWSER_BROWSER_LIST_OBSERVER_H_
 #define IOS_CHROME_BROWSER_SHARED_MODEL_BROWSER_BROWSER_LIST_OBSERVER_H_
 

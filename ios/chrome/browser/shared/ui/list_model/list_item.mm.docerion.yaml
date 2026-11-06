@@ -1,0 +1,4 @@
+# Docerion header of list_item.mm.
+type: source
+title: Implementation of the ListItem model class
+summary: Implements the ListItem class and its Controller category, including the designated initializer and the type setter.

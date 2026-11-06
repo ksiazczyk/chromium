@@ -1,0 +1,4 @@
+# Docerion header of test_profile_ios.mm.
+type: test
+title: TestProfileIOS implementation
+summary: Implements TestProfileIOS, including off-the-record profiles, testing prefs, networking stubs, and testing factory assignment.

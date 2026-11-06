@@ -1,0 +1,4 @@
+# Docerion header of chrome_overlay_window.mm.
+type: source
+title: Chrome overlay window implementation
+summary: Implements ChromeOverlayWindow with level-sorted overlay activation and deactivation, container stacking, and user interface style and crash key recording.

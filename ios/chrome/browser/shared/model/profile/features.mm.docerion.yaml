@@ -1,0 +1,4 @@
+# Docerion header of features.mm.
+type: source
+title: Profile feature flag implementations
+summary: Implements the profile feature flag accessors and defines the kDestroyOTRProfileEarly feature enabled by default.

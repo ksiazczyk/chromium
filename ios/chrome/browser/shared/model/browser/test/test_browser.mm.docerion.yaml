@@ -1,0 +1,4 @@
+# Docerion header of test_browser.mm.
+type: test
+title: TestBrowser test double implementation
+summary: Implements TestBrowser, wiring the web state list, command dispatcher, observers, and inactive browser creation for tests.

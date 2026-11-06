@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Blue dot utility interface
+// summary: Declares helpers to mask a view with a hole for a blue dot and to add a blue dot view to a button's top trailing corner.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_UI_ELEMENTS_BLUE_DOT_UTIL_H_
 #define IOS_CHROME_BROWSER_SHARED_UI_ELEMENTS_BLUE_DOT_UTIL_H_
 

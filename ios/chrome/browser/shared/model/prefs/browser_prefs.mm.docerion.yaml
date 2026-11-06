@@ -1,0 +1,4 @@
+# Docerion header of browser_prefs.mm.
+type: source
+title: Implementation of iOS Chrome pref registration and migration
+summary: Implements registration of local state and profile preferences and migration of obsolete prefs across many Chrome components.

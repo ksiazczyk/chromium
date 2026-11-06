@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TitleBrickConfiguration interface
+// summary: Declares the configuration object for the TitleBrick brick with title and subtitle strings and their text styles.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_UI_BRICK_CONFIGURATIONS_TITLE_BRICK_CONFIGURATION_H_
 #define IOS_CHROME_BROWSER_SHARED_UI_BRICK_CONFIGURATIONS_TITLE_BRICK_CONFIGURATION_H_
 

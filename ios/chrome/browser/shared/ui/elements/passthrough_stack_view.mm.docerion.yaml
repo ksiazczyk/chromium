@@ -1,0 +1,4 @@
+# Docerion header of passthrough_stack_view.mm.
+type: source
+title: Passthrough stack view implementation
+summary: Implements hit testing so that touches landing on the stack view itself return nil and pass through to underlying views.

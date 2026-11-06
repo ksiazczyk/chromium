@@ -1,0 +1,4 @@
+# Docerion header of browser_prefs_unittest.mm.
+type: test
+title: Unit tests for pref registration and migration
+summary: Tests pref renaming, local-state and profile pref migrations, and NSUserDefaults cleanup performed by the migration functions.

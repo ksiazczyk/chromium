@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Shared UI dependency rules
+summary: Restricts includes of certain test app interface headers and allows omnibox dependencies for the shared UI folder.

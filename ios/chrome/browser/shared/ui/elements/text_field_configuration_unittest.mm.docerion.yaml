@@ -1,0 +1,4 @@
+# Docerion header of text_field_configuration_unittest.mm.
+type: test
+title: Text field configuration unit tests
+summary: Unit tests verifying that TextFieldConfiguration stores all values passed to its initializer correctly.

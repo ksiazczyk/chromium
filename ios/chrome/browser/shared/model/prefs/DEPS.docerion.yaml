@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the prefs directory
+summary: Restricts which headers and directories files in the prefs folder may include, with special include rules for browser_prefs.mm.

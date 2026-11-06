@@ -1,0 +1,4 @@
+# Docerion header of web_state_list_observer.mm.
+type: source
+title: WebStateList change type implementations
+summary: Implements constructors and type accessors for the WebStateListChange subclasses that report status, detach, move, replace, insert, and group events.

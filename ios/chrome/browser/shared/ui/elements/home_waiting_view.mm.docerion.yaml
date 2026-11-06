@@ -1,0 +1,4 @@
+# Docerion header of home_waiting_view.mm.
+type: source
+title: Home waiting view implementation
+summary: Implements HomeWaitingView, starting a centered blue activity indicator after a delay and stopping it with an optional completion block.
