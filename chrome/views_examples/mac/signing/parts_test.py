@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Unit tests for Views Examples signing parts
+# summary: Unit tests that check the list of signed parts, their identifiers and options, and the sign_all signing flow.
+# ---
+
 import asyncio
 import unittest
 from unittest import mock

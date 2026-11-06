@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows COM service runner header
+// summary: Declares the Service class, the runner for a Windows service hosting a COM server, including class object registration and lifecycle control.
+// ---
+
 #ifndef CHROME_WINDOWS_SERVICES_SERVICE_PROGRAM_SERVICE_H_
 #define CHROME_WINDOWS_SERVICES_SERVICE_PROGRAM_SERVICE_H_
 

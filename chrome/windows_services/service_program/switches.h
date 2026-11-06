@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Service program command line switches
+// summary: Defines command line switch names for the log file handle, log source PID, and unattended test mode.
+// ---
+
 #ifndef CHROME_WINDOWS_SERVICES_SERVICE_PROGRAM_SWITCHES_H_
 #define CHROME_WINDOWS_SERVICES_SERVICE_PROGRAM_SWITCHES_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Exit codes for the installer process
+// summary: Defines the ExitCode enum listing success and failure codes returned by the Windows updater installer process.
+// ---
+
 #ifndef CHROME_UPDATER_WIN_INSTALLER_EXIT_CODE_H_
 #define CHROME_UPDATER_WIN_INSTALLER_EXIT_CODE_H_
 

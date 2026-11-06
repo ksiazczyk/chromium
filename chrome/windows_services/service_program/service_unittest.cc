@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service program unit tests
+// summary: Unit tests that install a test service and exercise the Windows COM service program, including log collection and crash report handling.
+// ---
+
 #include <objbase.h>
 
 #include <shlobj.h>

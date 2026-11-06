@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Image writer error message declarations
+// summary: Declares the error message string constants used by the image writer, including a macOS-only unmount error.
+// ---
+
 #ifndef CHROME_UTILITY_IMAGE_WRITER_ERROR_MESSAGE_STRINGS_H_
 #define CHROME_UTILITY_IMAGE_WRITER_ERROR_MESSAGE_STRINGS_H_
 

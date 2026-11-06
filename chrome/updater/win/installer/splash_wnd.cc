@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Splash window implementation for the Windows updater installer
+// summary: Implements the DPI-aware splash window shown during installation, drawing the logo bitmap and updating window icons.
+// ---
+
 #include "chrome/updater/win/installer/splash_wnd.h"
 
 #include <windows.h>

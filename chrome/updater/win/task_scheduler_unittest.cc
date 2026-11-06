@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Task scheduler unit tests for the Windows updater
+// summary: Unit tests for the Windows Task Scheduler wrapper, covering task registration, deletion, and process cleanup in the Chrome updater.
+// ---
+
 #include "chrome/updater/win/task_scheduler.h"
 
 #include <lmsname.h>

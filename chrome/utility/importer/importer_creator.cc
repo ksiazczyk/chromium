@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Importer creator factory
+// summary: Factory that instantiates the appropriate browser importer (IE, Edge, Firefox, Safari, or bookmarks file) for the requested importer type.
+// ---
+
 #include "chrome/utility/importer/importer_creator.h"
 
 #include "base/notreached.h"

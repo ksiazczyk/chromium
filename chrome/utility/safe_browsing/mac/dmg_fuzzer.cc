@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DMG parsing fuzzer harness
+// summary: libFuzzer entry point that parses UDIF partitions and reads HFS files to uncover parsing crashes.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

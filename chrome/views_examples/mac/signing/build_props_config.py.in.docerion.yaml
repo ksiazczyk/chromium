@@ -1,0 +1,4 @@
+# Docerion header of build_props_config.py.in.
+type: config
+title: Build properties signing config template
+summary: Template expanded by GN into a Python code sign config that injects the product name, version and bundle ID for the Views Examples app.

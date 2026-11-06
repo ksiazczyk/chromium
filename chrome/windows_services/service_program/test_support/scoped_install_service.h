@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedInstallService header
+// summary: Declares a RAII test helper that installs a Windows service, reports validity, and provides a handle to the running service process.
+// ---
+
 #ifndef CHROME_WINDOWS_SERVICES_SERVICE_PROGRAM_TEST_SUPPORT_SCOPED_INSTALL_SERVICE_H_
 #define CHROME_WINDOWS_SERVICES_SERVICE_PROGRAM_TEST_SUPPORT_SCOPED_INSTALL_SERVICE_H_
 

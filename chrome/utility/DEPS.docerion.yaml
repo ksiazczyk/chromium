@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for chrome/utility
+summary: DEPS file listing the headers and modules that code in the utility directory is allowed to include.

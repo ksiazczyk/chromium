@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for Views Examples Mac signing
+summary: Defines GN targets that generate and copy the signing scripts into the packaging directory and run the Views Examples Mac signing tests.

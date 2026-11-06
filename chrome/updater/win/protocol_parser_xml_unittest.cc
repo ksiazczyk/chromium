@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the XML protocol parser
+// summary: Tests successful parsing of update responses and error cases such as bad XML, unsupported versions, and missing attributes.
+// ---
+
 #include "chrome/updater/win/protocol_parser_xml.h"
 
 #include <stddef.h>

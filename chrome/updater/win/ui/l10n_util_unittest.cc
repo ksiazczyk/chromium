@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for updater UI localization utilities
+// summary: Unit tests verifying that localized strings load for all string IDs, format placeholders correctly, and match expected translations.
+// ---
+
 #include "chrome/updater/win/ui/l10n_util.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Progress window unit tests
+// summary: Unit tests for ProgressWnd covering button clicks, install state transitions, dark mode theming, and event sink behavior using mock events.
+// ---
+
 #include "chrome/updater/win/ui/progress_wnd.h"
 
 #include <stddef.h>

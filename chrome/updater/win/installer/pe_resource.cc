@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PE resource extraction implementation
+// summary: Implements the PEResource class that locates Windows PE resources in a loaded module and writes them to disk in chunks.
+// ---
+
 #include "chrome/updater/win/installer/pe_resource.h"
 
 #include <stddef.h>

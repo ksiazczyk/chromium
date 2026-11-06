@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OmahaWnd base window implementation
+// summary: Implements the OmahaWnd dialog base class with font setup, flat buttons, theme and DPI handling, and dialog initialization for updater windows.
+// ---
+
 #include "chrome/updater/win/ui/ui.h"
 
 #include <windows.h>

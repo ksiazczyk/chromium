@@ -1,0 +1,4 @@
+# Docerion header of updater.rc.
+type: source
+title: Windows resource script for the updater
+summary: Language-neutral Windows resource script that embeds updater typelibs and includes the English UI resources.

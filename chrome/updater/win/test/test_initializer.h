@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Init-done notifier declaration
+// summary: Declares NotifyInitializationDoneForTesting, which lets a test harness pause the test binary during startup.
+// ---
+
 #ifndef CHROME_UPDATER_WIN_TEST_TEST_INITIALIZER_H_
 #define CHROME_UPDATER_WIN_TEST_TEST_INITIALIZER_H_
 

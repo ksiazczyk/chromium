@@ -1,0 +1,4 @@
+# Docerion header of updater.release.
+type: config
+title: Updater release file manifest
+summary: Lists the files packaged into the updater release installer archive.

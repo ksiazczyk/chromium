@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Updater Windows UI utility functions
+// summary: Declares helpers for the updater's Windows UI, including process window lookup, foregrounding, DPI-scaled icon loading, badge geometry, and bitmap stride calculation.
+// ---
+
 #ifndef CHROME_UPDATER_WIN_UI_UI_UTIL_H_
 #define CHROME_UPDATER_WIN_UI_UI_UTIL_H_
 

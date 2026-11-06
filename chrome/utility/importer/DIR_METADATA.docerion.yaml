@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Import directory bug tracker metadata
+summary: Maps the importer directory to the UI>Browser>Import monorail component and a Buganizer component ID.

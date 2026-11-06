@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: libFuzzer harness for the HFS+ iterator
+// summary: Fuzzes HFSIterator by feeding arbitrary bytes as an HFS+ image, iterating entries and reading file contents to uncover parsing bugs.
+// ---
+
 #include "chrome/utility/safe_browsing/mac/hfs.h"
 
 #include <stddef.h>

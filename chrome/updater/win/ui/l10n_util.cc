@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Updater UI localization utilities implementation
+// summary: Implements loading of localized updater strings by language offset, including formatted strings and metainstaller error messages.
+// ---
+
 #include "chrome/updater/win/ui/l10n_util.h"
 
 #include <windows.h>

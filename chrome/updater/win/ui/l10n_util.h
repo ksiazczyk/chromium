@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Updater UI localization utilities declaration
+// summary: Declares functions that return the preferred language and load or format localized strings from the updater binary's string table.
+// ---
+
 #ifndef CHROME_UPDATER_WIN_UI_L10N_UTIL_H_
 #define CHROME_UPDATER_WIN_UI_L10N_UTIL_H_
 

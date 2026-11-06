@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System tracing session implementation
+// summary: Implements the COM SystemTracingSession that accepts a mojo invitation handle from a client over RPC, registers the ETW system data source, and establishes tracing.
+// ---
+
 #include "chrome/windows_services/elevated_tracing_service/system_tracing_session.h"
 
 #include <windows.h>

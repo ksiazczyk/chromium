@@ -1,3 +1,13 @@
+---
+type: readme
+title: Views Examples Mac Signing
+summary: Explains the packaging and signing setup for the Views Examples app on Mac, including build requirements, how to invoke signing, and how to run the tests.
+relations:
+  - documents /chrome/views_examples/mac/signing/config_factory.py
+  - documents /chrome/views_examples/mac/signing/parts.py
+  - documents /chrome/views_examples/mac/signing/pipeline.py
+---
+
 # Views Examples Mac Signing
 
 This directory contains the packaging and signing configuration for the

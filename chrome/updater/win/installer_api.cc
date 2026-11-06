@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Installer API implementation
+// summary: Implements the installer API registry values under ClientState, including persisting last installer results and reading installer outcomes.
+// ---
+
 #include "chrome/updater/win/installer_api.h"
 
 #include <algorithm>

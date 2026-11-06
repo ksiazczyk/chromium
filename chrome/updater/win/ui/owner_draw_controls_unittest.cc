@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Owner-draw controls unit tests
+// summary: Unit tests for the updater's owner-drawn caption buttons, checking dark mode colors, glyph rendering, and GDI drawing paths by sampling rendered pixels.
+// ---
+
 #include "chrome/updater/win/ui/owner_draw_controls.h"
 
 #include <windows.h>

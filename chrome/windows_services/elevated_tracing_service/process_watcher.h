@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Process watcher header
+// summary: Declares the ProcessWatcher class that runs a closure when a watched process terminates and cancels the watch on destruction.
+// ---
+
 #ifndef CHROME_WINDOWS_SERVICES_ELEVATED_TRACING_SERVICE_PROCESS_WATCHER_H_
 #define CHROME_WINDOWS_SERVICES_ELEVATED_TRACING_SERVICE_PROCESS_WATCHER_H_
 

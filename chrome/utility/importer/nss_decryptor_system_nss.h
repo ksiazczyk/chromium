@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NSS decryptor system NSS header
+// summary: Declares NSSDecryptor for system NSS platforms, including Init, Decrypt, and ReadAndParseLogins for Firefox password import.
+// ---
+
 #ifndef CHROME_UTILITY_IMPORTER_NSS_DECRYPTOR_SYSTEM_NSS_H_
 #define CHROME_UTILITY_IMPORTER_NSS_DECRYPTOR_SYSTEM_NSS_H_
 

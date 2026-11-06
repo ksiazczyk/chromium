@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System tracing session class declaration
+// summary: Declares the SystemTracingSession COM runtime class implementing the per-channel ISystemTraceSession interfaces, along with a test CLSID and a testing command-line switch.
+// ---
+
 #ifndef CHROME_WINDOWS_SERVICES_ELEVATED_TRACING_SERVICE_SYSTEM_TRACING_SESSION_H_
 #define CHROME_WINDOWS_SERVICES_ELEVATED_TRACING_SERVICE_SYSTEM_TRACING_SESSION_H_
 

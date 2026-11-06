@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test process helper declarations
+// summary: Declares helpers for launching the long-running updater test process and the name of the test executable.
+// ---
+
 #ifndef CHROME_UPDATER_WIN_TEST_TEST_EXECUTABLES_H_
 #define CHROME_UPDATER_WIN_TEST_TEST_EXECUTABLES_H_
 

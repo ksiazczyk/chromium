@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crash handler launch interface
+// summary: Declares StartCrashHandler, which launches a crashpad handler child process with a per-process crash database directory and process type annotation.
+// ---
+
 #ifndef CHROME_WINDOWS_SERVICES_SERVICE_PROGRAM_CRASH_REPORTING_H_
 #define CHROME_WINDOWS_SERVICES_SERVICE_PROGRAM_CRASH_REPORTING_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of create_metainstaller_string_rc.py.
+type: script
+title: Metainstaller string RC generator
+summary: Lists the string IDs extracted to generate localized resource strings for the Windows metainstaller UI.

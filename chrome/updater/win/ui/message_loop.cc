@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Updater UI Win32 message loop implementation
+// summary: Implements a Win32 message pump that dispatches messages through registered filters in reverse registration order.
+// ---
+
 #include "chrome/updater/win/ui/message_loop.h"
 
 #include <windows.h>

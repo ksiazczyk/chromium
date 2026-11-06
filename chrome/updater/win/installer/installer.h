@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Installer interface and process exit result types
+// summary: Declares ProcessExitResult, the CommandString type, and functions for command-line building, elevation handling, and the installer WMain entry point.
+// ---
+
 #ifndef CHROME_UPDATER_WIN_INSTALLER_INSTALLER_H_
 #define CHROME_UPDATER_WIN_INSTALLER_INSTALLER_H_
 

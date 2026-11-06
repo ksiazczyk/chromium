@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for service program
+summary: Specifies the include paths allowed in this directory, with a special rule permitting crashpad client includes in service_unittest.cc.

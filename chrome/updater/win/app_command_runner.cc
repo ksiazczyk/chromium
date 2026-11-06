@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App command runner implementation
+// summary: Implements loading and running app commands registered in the Windows registry, including legacy process launcher support for older Chrome versions.
+// ---
+
 #include "chrome/updater/win/app_command_runner.h"
 
 #include <windows.h>

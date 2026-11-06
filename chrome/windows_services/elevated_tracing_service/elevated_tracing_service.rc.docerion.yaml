@@ -1,0 +1,4 @@
+# Docerion header of elevated_tracing_service.rc.
+type: source
+title: Windows resource script for the service executable
+summary: Resource script that embeds the tracing service type library and standard Windows resources into the executable.

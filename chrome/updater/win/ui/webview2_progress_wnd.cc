@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebView2 progress window implementation
+// summary: Implements the WebView2-based install progress window, loading the embedded HTML progress page and verifying WebView2 runtime availability.
+// ---
+
 #include "chrome/updater/win/ui/webview2_progress_wnd.h"
 
 #include <windows.h>

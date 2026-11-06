@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Internet Explorer importer for Windows
+// summary: Implements IEImporter, which imports favorites, history, search engines and homepage settings from Internet Explorer and old Edge on Windows.
+// ---
+
 #include "chrome/utility/importer/ie_importer_win.h"
 
 #include <objbase.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac disk unmounter implementation
+// summary: Implements claiming and unmounting disks on macOS through Disk Arbitration on a dedicated CFRunLoop thread, reporting success or failure via continuations.
+// ---
+
 #include "chrome/utility/image_writer/disk_unmounter_mac.h"
 
 #include <IOKit/storage/IOStorageProtocolCharacteristics.h>

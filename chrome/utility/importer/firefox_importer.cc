@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Firefox importer implementation
+// summary: Implements FirefoxImporter, which imports bookmarks, favicons, history, passwords, homepage and autofill data from Firefox profile databases.
+// ---
+
 #include "chrome/utility/importer/firefox_importer.h"
 
 #include <memory>

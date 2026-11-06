@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Windows user info helpers
+// summary: Tests GetProcessUser, IsLocalSystemUser, and GetThreadUserSid for correct SID, name, and domain results.
+// ---
+
 #include "chrome/updater/win/user_info.h"
 
 #include <windows.h>

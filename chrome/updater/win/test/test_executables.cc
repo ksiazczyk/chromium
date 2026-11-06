@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Long-running test process helpers
+// summary: Implements helpers that launch the long-running updater test process and build its command line for a given test name and scope.
+// ---
+
 #include "chrome/updater/win/test/test_executables.h"
 
 #include <memory>

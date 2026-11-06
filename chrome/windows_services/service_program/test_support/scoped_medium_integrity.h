@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedMediumIntegrity header
+// summary: Declares a RAII test helper that drops the current thread to medium integrity and reports whether impersonation succeeded.
+// ---
+
 #ifndef CHROME_WINDOWS_SERVICES_SERVICE_PROGRAM_TEST_SUPPORT_SCOPED_MEDIUM_INTEGRITY_H_
 #define CHROME_WINDOWS_SERVICES_SERVICE_PROGRAM_TEST_SUPPORT_SCOPED_MEDIUM_INTEGRITY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Utility process service registration
+// summary: Registers out-of-process services such as unzip, patch, importers, and platform-specific helpers in the utility process.
+// ---
+
 #include "chrome/utility/services.h"
 
 #include <memory>

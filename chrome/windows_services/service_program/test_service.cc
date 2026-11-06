@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test service COM implementation
+// summary: Implements a test COM service exposing the client process handle, unattended state, Crashpad database path, and crash induction for exercising the service program framework.
+// ---
+
 #include <windows.h>
 
 #include <wrl/module.h>

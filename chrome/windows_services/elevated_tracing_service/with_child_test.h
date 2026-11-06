@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Child process test fixture declaration
+// summary: Declares a multiprocess test fixture that spawns a child process with inherited event handles to synchronize its start and termination.
+// ---
+
 #ifndef CHROME_WINDOWS_SERVICES_ELEVATED_TRACING_SERVICE_WITH_CHILD_TEST_H_
 #define CHROME_WINDOWS_SERVICES_ELEVATED_TRACING_SERVICE_WITH_CHILD_TEST_H_
 

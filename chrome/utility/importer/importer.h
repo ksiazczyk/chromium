@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Importer base class
+// summary: Declares the Importer base class that all browser importers implement, defining StartImport, cancellation and bookmark HTML parser injection.
+// ---
+
 #ifndef CHROME_UTILITY_IMPORTER_IMPORTER_H_
 #define CHROME_UTILITY_IMPORTER_IMPORTER_H_
 

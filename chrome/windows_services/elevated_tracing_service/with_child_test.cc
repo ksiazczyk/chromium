@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Child process test fixture implementation
+// summary: Implements WithChildTest helpers that pass event handles to a spawned child process and coordinate its startup and termination during multiprocess tests.
+// ---
+
 #include "chrome/windows_services/elevated_tracing_service/with_child_test.h"
 
 #include "base/command_line.h"

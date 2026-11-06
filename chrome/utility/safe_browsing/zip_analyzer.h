@@ -5,6 +5,12 @@
 // This file contains the zip file analysis implementation for download
 // protection, which runs in a sandboxed utility process.
 
+// ---docerion
+// type: source
+// title: ZIP analyzer for download protection
+// summary: Declares ZipAnalyzer, the ZIP file analysis class for download protection running in a sandboxed utility process.
+// ---
+
 #ifndef CHROME_UTILITY_SAFE_BROWSING_ZIP_ANALYZER_H_
 #define CHROME_UTILITY_SAFE_BROWSING_ZIP_ANALYZER_H_
 

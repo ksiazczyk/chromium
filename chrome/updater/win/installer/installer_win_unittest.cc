@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows installer unit tests
+// summary: Unit tests covering elevation handling, offline directory lookup, and installer command line argument building.
+// ---
+
 #include "chrome/updater/win/installer/installer.h"
 
 #include <shlobj.h>

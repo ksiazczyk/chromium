@@ -1,0 +1,4 @@
+# Docerion header of uninstall.cmd.
+type: script
+title: Batch script to delete updater install directories
+summary: Windows batch script that validates a directory is an updater install path and recursively deletes it, retrying up to 30 times.

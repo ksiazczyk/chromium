@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Utility process build configuration
+summary: GN build file defining the chrome utility static library, its sources, and platform-specific dependencies.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InitializeLogging implementation
+// summary: Implements InitializeLogging, which sets up service logging to stderr or to a file handle duplicated from a test process.
+// ---
+
 #include "chrome/windows_services/service_program/logging_support.h"
 
 #include <windows.h>

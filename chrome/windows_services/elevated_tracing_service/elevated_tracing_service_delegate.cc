@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Service delegate implementation
+// summary: Implements the service delegate that creates the SystemTracingSession COM class factory and wires up logging, IPC support and the session registry.
+// ---
+
 #include "chrome/windows_services/elevated_tracing_service/elevated_tracing_service_delegate.h"
 
 #include <wrl/client.h>

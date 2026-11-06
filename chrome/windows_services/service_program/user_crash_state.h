@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User crash state header
+// summary: Declares the UserCrashState class holding per-user crash reporting state, including the user SID and consent-related registry keys.
+// ---
+
 #ifndef CHROME_WINDOWS_SERVICES_SERVICE_PROGRAM_USER_CRASH_STATE_H_
 #define CHROME_WINDOWS_SERVICES_SERVICE_PROGRAM_USER_CRASH_STATE_H_
 

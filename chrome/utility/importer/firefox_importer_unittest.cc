@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Firefox importer unit tests
+// summary: Unit tests for FirefoxImporter that verify bookmark and favicon imports from Firefox profile test data across several Firefox versions.
+// ---
+
 #include "chrome/utility/importer/firefox_importer.h"
 
 #include <string>

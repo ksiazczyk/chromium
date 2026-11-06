@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows implementation of ImageWriter
+// summary: Windows-specific ImageWriter methods that validate removable devices, open device files with required flags, and unmount volumes before writing.
+// ---
+
 #include "chrome/utility/image_writer/image_writer.h"
 
 #include <windows.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IsRunningUnattended declaration
+// summary: Declares IsRunningUnattended, which reports whether the service runs on behalf of a test in unattended mode.
+// ---
+
 #ifndef CHROME_WINDOWS_SERVICES_SERVICE_PROGRAM_IS_RUNNING_UNATTENDED_H_
 #define CHROME_WINDOWS_SERVICES_SERVICE_PROGRAM_IS_RUNNING_UNATTENDED_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of run_mac_signing_tests.py.
+type: script
+title: Runner for the Views Examples Mac signing tests
+summary: Merges the Views Examples signing overrides over the base installer signing library in a temporary directory and runs the Python unit tests with typ.

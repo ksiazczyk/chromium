@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MSI custom action interface declarations
+// summary: Declares the MsiHandleInterface wrapper for MSI API calls and the DLL entry points for tag extraction and installer result display.
+// ---
+
 #ifndef CHROME_UPDATER_WIN_INSTALLER_MSI_CUSTOM_ACTION_H_
 #define CHROME_UPDATER_WIN_INSTALLER_MSI_CUSTOM_ACTION_H_
 

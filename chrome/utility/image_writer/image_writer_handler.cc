@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Removable storage writer Mojo handler implementation
+// summary: Implements the RemovableStorageWriter Mojo handler, dispatching write and verify requests and sending progress, success, and failure results to the client.
+// ---
+
 #include "chrome/utility/image_writer/image_writer_handler.h"
 
 #include <memory>

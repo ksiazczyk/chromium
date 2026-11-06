@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows Task Scheduler implementation
+// summary: Implements registering, querying, and deleting Windows scheduled tasks through the Task Scheduler V1 and V2 APIs.
+// ---
+
 #include "chrome/updater/win/task_scheduler.h"
 
 #include <mstask.h>

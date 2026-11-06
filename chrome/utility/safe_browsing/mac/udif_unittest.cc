@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UDIF parser unit tests
+// summary: Parameterized unit tests verifying UDIFParser partition parsing, expected partition layouts for GPT and APM disk images, and partition data reading.
+// ---
+
 #include "chrome/utility/safe_browsing/mac/udif.h"
 
 #include <hfs/hfs_format.h>

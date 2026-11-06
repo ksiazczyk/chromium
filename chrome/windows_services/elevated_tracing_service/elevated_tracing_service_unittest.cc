@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Elevated tracing service unit tests
+// summary: Unit tests for the Windows elevated tracing service, covering COM activation, mojo invitation handling, and service process behavior.
+// ---
+
 #include <objbase.h>
 
 #include <windows.h>

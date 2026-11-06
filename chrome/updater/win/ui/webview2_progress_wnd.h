@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebView2 progress window header
+// summary: Declares the WebView2 progress window class implementing AppInstallProgress callbacks, initialization checks, and failure fallback handling.
+// ---
+
 #ifndef CHROME_UPDATER_WIN_UI_WEBVIEW2_PROGRESS_WND_H_
 #define CHROME_UPDATER_WIN_UI_WEBVIEW2_PROGRESS_WND_H_
 

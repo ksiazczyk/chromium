@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac disk unmounter header
+// summary: Declares DiskUnmounterMac, which unmounts a device via Disk Arbitration on a CFRunLoop thread and handles one unmount operation at a time.
+// ---
+
 #ifndef CHROME_UTILITY_IMAGE_WRITER_DISK_UNMOUNTER_MAC_H_
 #define CHROME_UTILITY_IMAGE_WRITER_DISK_UNMOUNTER_MAC_H_
 

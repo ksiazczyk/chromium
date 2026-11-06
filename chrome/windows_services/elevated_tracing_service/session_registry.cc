@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session registry implementation
+// summary: Implements SessionRegistry, which permits a single active tracing session and clears it on session destruction or client process termination.
+// ---
+
 #include "chrome/windows_services/elevated_tracing_service/session_registry.h"
 
 #include <objbase.h>

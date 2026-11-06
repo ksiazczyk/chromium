@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SevenZip archive analyzer implementation
+// summary: Implements 7z archive analysis, mapping extracted entries to memory, handling encrypted entries and updating Safe Browsing analysis results.
+// ---
+
 #include "chrome/utility/safe_browsing/seven_zip_analyzer.h"
 
 #include "base/feature_list.h"

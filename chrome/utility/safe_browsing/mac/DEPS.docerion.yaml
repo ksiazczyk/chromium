@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules
+summary: Restricts which safe_browsing headers and protos this directory is allowed to include.

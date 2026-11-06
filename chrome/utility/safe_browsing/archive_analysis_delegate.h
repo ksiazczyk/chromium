@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Archive analysis delegate interface
+// summary: Declares an abstract delegate interface for creating archive reader and writer delegates, including nested archive handling, for ZIP and RAR analysis.
+// ---
+
 #ifndef CHROME_UTILITY_SAFE_BROWSING_ARCHIVE_ANALYSIS_DELEGATE_H_
 #define CHROME_UTILITY_SAFE_BROWSING_ARCHIVE_ANALYSIS_DELEGATE_H_
 

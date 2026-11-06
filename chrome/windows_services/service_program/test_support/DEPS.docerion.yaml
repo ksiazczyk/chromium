@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for test support
+summary: Allows the test support code to include the installer's install_service_work_item.h header.

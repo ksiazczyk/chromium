@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows update action handler
+// summary: Implements the update client action handler that launches EXE actions on Windows and waits up to ten minutes for their exit codes.
+// ---
+
 #include "chrome/updater/action_handler.h"
 
 #include <string>

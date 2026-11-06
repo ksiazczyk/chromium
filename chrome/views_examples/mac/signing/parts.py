@@ -1,6 +1,13 @@
 # Copyright 2026 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Views Examples signing parts
+# summary: Defines the nested code parts of the Views Examples app bundle that must be code signed and provides functions to sign and verify them.
+# ---
+
 """
 The parts module defines the various binary pieces of the Views Examples
 application bundle that need to be signed, as well as providing a function

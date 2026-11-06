@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UDIF disk image parser implementation
+// summary: Implements parsing of UDIF (DMG) resource files and blkx block chunks, decompressing zlib, bzip2, and ADC chunks to expose the contained partitions.
+// ---
+
 #include "chrome/utility/safe_browsing/mac/udif.h"
 
 #include <CoreFoundation/CoreFoundation.h>

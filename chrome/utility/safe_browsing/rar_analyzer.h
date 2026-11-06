@@ -18,6 +18,12 @@
 // 5. Finally, |SafeArchiveAnalyzer::AnalyzeRarFile()| calls |AnalyzeRarFile()|
 //    defined in this file to actually inspect the file.
 
+// ---docerion
+// type: source
+// title: RAR analyzer class declaration
+// summary: Declares the RarAnalyzer class and documents the sandboxed call flow used to inspect downloaded RAR files for Safe Browsing.
+// ---
+
 #ifndef CHROME_UTILITY_SAFE_BROWSING_RAR_ANALYZER_H_
 #define CHROME_UTILITY_SAFE_BROWSING_RAR_ANALYZER_H_
 

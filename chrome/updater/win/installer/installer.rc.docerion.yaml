@@ -1,0 +1,4 @@
+# Docerion header of installer.rc.
+type: asset
+title: Windows resource script for the installer
+summary: Resource script that bundles the installer icon and logo bitmap, choosing branded or unbranded assets via the branding build flag.

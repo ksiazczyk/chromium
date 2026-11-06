@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit test suite entry point
+// summary: Main for the tracing service test binary, initializing mojo IPC support, a WRL module, and extended timeouts, and running tests serially.
+// ---
+
 #include "base/check.h"
 #include "base/command_line.h"
 #include "base/functional/bind.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InitializeLogging declaration
+// summary: Declares InitializeLogging, which initializes logging in the service process, optionally redirected by tests.
+// ---
+
 #ifndef CHROME_WINDOWS_SERVICES_SERVICE_PROGRAM_LOGGING_SUPPORT_H_
 #define CHROME_WINDOWS_SERVICES_SERVICE_PROGRAM_LOGGING_SUPPORT_H_
 

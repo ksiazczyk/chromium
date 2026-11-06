@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test API for owner-drawn UI controls
+// summary: Exposes test APIs that let unit tests inspect hover state, glyph colors, and title bar child controls without widening the public API.
+// ---
+
 #ifndef CHROME_UPDATER_WIN_UI_OWNER_DRAW_CONTROLS_TEST_API_H_
 #define CHROME_UPDATER_WIN_UI_OWNER_DRAW_CONTROLS_TEST_API_H_
 

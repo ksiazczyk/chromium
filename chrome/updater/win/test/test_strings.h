@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Command-line switches for the test process
+// summary: Defines command-line switch constants that control the behavior of the updater test process executable.
+// ---
+
 #ifndef CHROME_UPDATER_WIN_TEST_TEST_STRINGS_H_
 #define CHROME_UPDATER_WIN_TEST_TEST_STRINGS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Updater UI message loop and filter declaration
+// summary: Declares a lightweight replacement for WTL's message loop, with a MessageFilter interface for pre-translating window messages.
+// ---
+
 #ifndef CHROME_UPDATER_WIN_UI_MESSAGE_LOOP_H_
 #define CHROME_UPDATER_WIN_UI_MESSAGE_LOOP_H_
 

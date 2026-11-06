@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe string helpers and StackString declaration
+// summary: Declares safe string functions and a fixed-capacity StackString class for the mini installer.
+// ---
+
 
 #ifndef CHROME_UPDATER_WIN_INSTALLER_STRING_H_
 #define CHROME_UPDATER_WIN_INSTALLER_STRING_H_

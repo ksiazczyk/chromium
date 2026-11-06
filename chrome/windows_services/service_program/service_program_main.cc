@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Service program entry point implementation
+// summary: Implements ServiceProgramMain, which initializes logging, crash reporting, COM, and process mitigations before running the service.
+// ---
+
 #include "chrome/windows_services/service_program/service_program_main.h"
 
 #include <windows.h>

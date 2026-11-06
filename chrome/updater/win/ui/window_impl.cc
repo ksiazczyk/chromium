@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Win32 dialog and window helper implementation
+// summary: Implements Win32 helpers for the updater UI, including window centering, messaging descendant windows, dialog focus, and a DialogImpl class that replaces ATL's CDialogImpl.
+// ---
+
 #include "chrome/updater/win/ui/window_impl.h"
 
 #include <windows.h>

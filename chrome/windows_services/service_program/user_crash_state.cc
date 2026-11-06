@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User crash state implementation
+// summary: Implements UserCrashState, which gathers the client user's SID and crash consent registry keys while impersonating the client.
+// ---
+
 #include "chrome/windows_services/service_program/user_crash_state.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImageWriter stub implementation for unsupported platforms
+// summary: Default stub version of the platform-specific ImageWriter methods, returning not-implemented errors so new platforms can be added by replacing it.
+// ---
+
 #include "chrome/utility/image_writer/image_writer.h"
 
 #include "base/notimplemented.h"

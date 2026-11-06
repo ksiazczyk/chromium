@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OmahaWnd base window header
+// summary: Declares OmahaWnd, the base dialog class for updater windows, with message maps, theme and DPI change handling, and event sink support.
+// ---
+
 #ifndef CHROME_UPDATER_WIN_UI_UI_H_
 #define CHROME_UPDATER_WIN_UI_UI_H_
 

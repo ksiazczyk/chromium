@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Unit tests for the Views Examples signing pipeline
+# summary: Unit tests that mock commands and signing steps to verify app signing, ZIP packaging and notarization behavior of the pipeline.
+# ---
+
 import asyncio
 import unittest
 from unittest import mock

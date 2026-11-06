@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmarks file importer implementation
+// summary: Implements the importer that reads a bookmarks HTML file, filters importable URLs, and parses bookmarks through a Mojo HTML parser service.
+// ---
+
 #include "chrome/utility/importer/bookmarks_file_importer.h"
 
 #include <stddef.h>

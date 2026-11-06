@@ -1,0 +1,4 @@
+# Docerion header of safari_importer_unittest.mm.
+type: test
+title: Safari importer unit tests
+summary: Unit tests for SafariImporter that parse bookmarks from a simulated Safari Library directory in the Chrome test data and verify imported entries.

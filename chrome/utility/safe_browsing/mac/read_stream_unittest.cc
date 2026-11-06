@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the read stream implementations
+// summary: Tests Read, Seek, ReadEntireStream, and CopyStreamToFile behavior for both MemoryReadStream and FileReadStream using typed test suites.
+// ---
+
 #include "chrome/utility/safe_browsing/mac/read_stream.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DMG analyzer unit tests
+// summary: Unit tests for DMGAnalyzer using a mock DMG iterator to exercise open, empty, and populated archives.
+// ---
+
 #include "chrome/utility/safe_browsing/mac/dmg_analyzer.h"
 
 #include <string>

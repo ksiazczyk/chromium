@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Installer API interface
+// summary: Declares installer API helpers and documents the registry value contract, result codes, and environment variables passed to installers.
+// ---
+
 #ifndef CHROME_UPDATER_WIN_INSTALLER_API_H_
 #define CHROME_UPDATER_WIN_INSTALLER_API_H_
 

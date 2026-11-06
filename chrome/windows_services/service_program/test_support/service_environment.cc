@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ServiceEnvironment implementation
+// summary: Implements ServiceEnvironment, which installs a test Windows service for its lifetime, builds its command line with testing and logging switches, and manages a global mutex and log grabbing.
+// ---
+
 #include "chrome/windows_services/service_program/test_support/service_environment.h"
 
 #include <windows.h>

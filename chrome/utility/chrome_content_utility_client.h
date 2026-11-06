@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome content utility client header
+// summary: Declares ChromeContentUtilityClient, the Chrome-specific override of the content utility client interface.
+// ---
+
 #ifndef CHROME_UTILITY_CHROME_CONTENT_UTILITY_CLIENT_H_
 #define CHROME_UTILITY_CHROME_CONTENT_UTILITY_CLIENT_H_
 

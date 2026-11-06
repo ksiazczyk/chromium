@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Header for the DMG test file helper
+// summary: Declares GetTestFile, a helper that opens generated test data files for Safe Browsing DMG tests and reports failures via gtest assertions.
+// ---
+
 #ifndef CHROME_UTILITY_SAFE_BROWSING_MAC_DMG_TEST_UTILS_H_
 #define CHROME_UTILITY_SAFE_BROWSING_MAC_DMG_TEST_UTILS_H_
 

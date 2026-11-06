@@ -1,0 +1,4 @@
+# Docerion header of safari_importer.mm.
+type: source
+title: Safari importer implementation
+summary: Implements SafariImporter, recursively parsing Safari's bookmarks plist via Cocoa to collect imported bookmark entries and favicons.

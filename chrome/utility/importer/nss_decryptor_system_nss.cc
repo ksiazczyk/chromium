@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NSS decryptor system NSS implementation
+// summary: Implements NSSDecryptor using the system NSS libraries to open Firefox's NSS database and decrypt stored passwords.
+// ---
+
 #include "chrome/utility/importer/nss_decryptor_system_nss.h"
 
 #include <pk11pub.h>

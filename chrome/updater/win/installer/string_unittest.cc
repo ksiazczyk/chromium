@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for StackString
+// summary: Tests StackString append, length, clear and overflow behavior for the installer string helpers.
+// ---
+
 #include "chrome/updater/win/installer/string.h"
 
 #include <windows.h>

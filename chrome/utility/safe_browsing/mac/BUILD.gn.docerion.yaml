@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for mac safe browsing
+summary: GN build file defining the dmg_common source set, the crdmg tool, libFuzzer targets, and unit tests.

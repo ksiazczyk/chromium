@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Process watcher implementation
+// summary: Implements ProcessWatcher, which waits on a thread pool for a watched process to terminate and runs a closure, with shutdown handling.
+// ---
+
 #include "chrome/windows_services/elevated_tracing_service/process_watcher.h"
 
 #include <windows.h>

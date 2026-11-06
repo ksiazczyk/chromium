@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedLogGrabber implementation
+// summary: Implements a pipe-based helper that streams a service process's log output to the test process's stderr and dispatches messages to a callback.
+// ---
+
 #include "chrome/windows_services/service_program/test_support/scoped_log_grabber.h"
 
 #include <windows.h>

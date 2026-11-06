@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac image writer platform implementation
+// summary: macOS implementation of device validation via IOKit, volume unmounting, and opening the raw device for writing through authopen.
+// ---
+
 #include "chrome/utility/image_writer/image_writer.h"
 
 #include <CoreFoundation/CoreFoundation.h>

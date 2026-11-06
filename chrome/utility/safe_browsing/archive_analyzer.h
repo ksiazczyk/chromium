@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Archive analyzer base class declaration
+// summary: Declares the ArchiveAnalyzer base class with callbacks, initialization, nested archive handling and result update helpers for archive analyzers.
+// ---
+
 #ifndef CHROME_UTILITY_SAFE_BROWSING_ARCHIVE_ANALYZER_H_
 #define CHROME_UTILITY_SAFE_BROWSING_ARCHIVE_ANALYZER_H_
 

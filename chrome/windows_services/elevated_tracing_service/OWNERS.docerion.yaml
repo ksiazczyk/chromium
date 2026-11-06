@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the elevated tracing service
+summary: Lists the directory owners and routes IDL file reviews to the IPC security owners.

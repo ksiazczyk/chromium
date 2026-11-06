@@ -1,0 +1,4 @@
+# Docerion header of signing_sources.gni.
+type: config
+title: Views Examples Mac signing sources list
+summary: GN importable list of Mac signing script sources for Views Examples, combining Chrome's Mac signing sources with local overrides for consumption by BUILD files.

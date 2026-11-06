@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Offline manifest utilities for Windows installers
+// summary: Declares functions to read installer commands from offline manifests and to check platform and architecture compatibility.
+// ---
+
 #ifndef CHROME_UPDATER_WIN_MANIFEST_UTIL_H_
 #define CHROME_UPDATER_WIN_MANIFEST_UTIL_H_
 

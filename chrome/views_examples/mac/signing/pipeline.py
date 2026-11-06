@@ -1,6 +1,13 @@
 # Copyright 2026 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Views Examples signing pipeline
+# summary: Orchestrates code signing, optional notarization and stapling, and ZIP packaging of the Views Examples app bundle.
+# ---
+
 """
 The pipeline module orchestrates the entire signing process, which includes:
     1. Code signing the application bundle and all of its nested code.

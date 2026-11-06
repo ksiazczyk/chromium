@@ -1,0 +1,4 @@
+# Docerion header of test_service_idl.idl.
+type: source
+title: ITestService COM interface definition
+summary: Defines the ITestService COM interface and TestServiceLib type library with methods for process handles, unattended state, and crash induction.

@@ -1,0 +1,4 @@
+# Docerion header of webview2_progress.html.
+type: source
+title: Updater progress page for WebView2
+summary: HTML page shown in WebView2 that displays updater install progress and sends UI events such as cancellation to the C++ backend.

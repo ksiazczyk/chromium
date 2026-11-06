@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bookmarks file importer unit tests
+// summary: Unit tests for the bookmarks file importer covering URL filtering rules and bookmark import notifications via a mock importer bridge.
+// ---
+
 #include "chrome/utility/importer/bookmarks_file_importer.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Image writer error message strings
+// summary: Defines the error message constants reported by the image writer for device, image, write, unmount, and verification failures.
+// ---
+
 #include "chrome/utility/image_writer/error_message_strings.h"
 
 #include "build/build_config.h"

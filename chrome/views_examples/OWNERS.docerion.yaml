@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: views_examples OWNERS
+summary: Delegates code ownership for the views_examples directory to the owners listed in ui/views/OWNERS.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NSS decryptor Windows implementation
+// summary: Loads Firefox's NSS DLLs on Windows and resolves the functions needed to decrypt stored Firefox passwords.
+// ---
+
 #include "chrome/utility/importer/nss_decryptor_win.h"
 
 #include <windows.h>

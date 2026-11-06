@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Edge database reader unit tests
+// summary: Unit tests for the Edge ESE database reader checking database opening, table enumeration, and rejection of invalid or corrupt database files.
+// ---
+
 #include <windows.h>
 
 #include <stddef.h>

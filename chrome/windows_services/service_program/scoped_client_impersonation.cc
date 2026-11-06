@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped client impersonation implementation
+// summary: Implements a scoped helper that impersonates the COM calling client via IServerSecurity and reverts to self on destruction.
+// ---
+
 #include "chrome/windows_services/service_program/scoped_client_impersonation.h"
 
 #include <objbase.h>

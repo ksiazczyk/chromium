@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebView2 UI wrapper header
+// summary: Declares the WebView2UI class for creating a WebView2 child control with navigation, script execution, resize, and web message handling.
+// ---
+
 #ifndef CHROME_UPDATER_WIN_UI_WEBVIEW2UI_H_
 #define CHROME_UPDATER_WIN_UI_WEBVIEW2UI_H_
 

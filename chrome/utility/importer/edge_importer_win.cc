@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Microsoft Edge importer implementation
+// summary: Implements the Microsoft Edge importer that locates the spartan.edb database and imports favorites and favicons into Chrome.
+// ---
+
 #include "chrome/utility/importer/edge_importer_win.h"
 
 #include <Shlobj.h>

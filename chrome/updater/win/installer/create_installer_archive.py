@@ -1,6 +1,13 @@
 # Copyright 2019 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: script
+# title: Chrome updater installer archive creation script
+# summary: Python script that reads updater.release, stages installer files, and produces the uncompressed and compressed 7z archives embedded in the installer.
+# ---
+
 """Script to create the Chrome Updater Installer archive.
 
 This script is used to create an archive of all the files required for a

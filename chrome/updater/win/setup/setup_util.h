@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows updater setup utility header
+// summary: Declares helpers for registering and checking COM interfaces, servers, and typelibs, plus wake task management used by the Windows updater setup.
+// ---
+
 #ifndef CHROME_UPDATER_WIN_SETUP_SETUP_UTIL_H_
 #define CHROME_UPDATER_WIN_SETUP_SETUP_UTIL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Importer creator header
+// summary: Declares CreateImporterByType, which returns an Importer instance matching the given importer type.
+// ---
+
 #ifndef CHROME_UTILITY_IMPORTER_IMPORTER_CREATOR_H_
 #define CHROME_UTILITY_IMPORTER_IMPORTER_CREATOR_H_
 

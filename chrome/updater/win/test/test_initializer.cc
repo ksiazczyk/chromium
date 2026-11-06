@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Init-done notifier for test process
+// summary: Signals the init-done event passed on the command line and waits for the test harness before continuing test process startup.
+// ---
+
 #include "chrome/updater/win/test/test_initializer.h"
 
 #include <stdint.h>

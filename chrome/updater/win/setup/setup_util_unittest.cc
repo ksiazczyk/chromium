@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Windows updater setup utilities
+// summary: Unit tests covering legacy per-user entry deletion, typelib registration, and the register wake task work item behavior.
+// ---
+
 #include "chrome/updater/win/setup/setup_util.h"
 
 #include <memory>

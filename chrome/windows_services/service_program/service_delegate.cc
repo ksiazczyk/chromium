@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Service delegate default implementations
+// summary: Provides default not-reached implementations for the ServiceDelegate interface methods.
+// ---
+
 #include "chrome/windows_services/service_program/service_delegate.h"
 
 #include "base/functional/callback.h"

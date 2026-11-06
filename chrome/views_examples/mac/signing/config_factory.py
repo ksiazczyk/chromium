@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Signing config and invoker factory
+# summary: Provides factory functions that select the unbranded code sign config and the invoker class used by the Views Examples signing pipeline.
+# ---
+
 
 def get_class():
     """Returns the subclass of |model.CodeSignConfig| to use."""

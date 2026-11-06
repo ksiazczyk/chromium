@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedLogGrabber header
+// summary: Declares a test helper that captures a COM service's log output through an anonymous pipe and forwards messages to the test's stderr.
+// ---
+
 #ifndef CHROME_WINDOWS_SERVICES_SERVICE_PROGRAM_TEST_SUPPORT_SCOPED_LOG_GRABBER_H_
 #define CHROME_WINDOWS_SERVICES_SERVICE_PROGRAM_TEST_SUPPORT_SCOPED_LOG_GRABBER_H_
 

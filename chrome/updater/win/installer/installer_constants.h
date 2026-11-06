@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Constants for installer archive and resource types
+// summary: Defines the updater archive filename prefix and the LZMA resource type identifier unpacked from the mini installer.
+// ---
+
 #ifndef CHROME_UPDATER_WIN_INSTALLER_INSTALLER_CONSTANTS_H_
 #define CHROME_UPDATER_WIN_INSTALLER_INSTALLER_CONSTANTS_H_
 

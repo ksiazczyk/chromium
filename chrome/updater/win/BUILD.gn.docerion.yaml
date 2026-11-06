@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Windows updater build configuration
+summary: GN build file defining targets for the Windows updater executable, version resources, signing artifacts, zip packaging, and tests.
