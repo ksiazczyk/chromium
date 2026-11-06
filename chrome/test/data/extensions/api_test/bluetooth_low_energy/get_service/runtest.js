@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bluetooth Low Energy getService API test script
+// summary: Tests chrome.bluetoothLowEnergy.getService across unknown service ID, unknown device, and success cases, asserting the returned service's instance ID, UUID, primary flag, and device address.
+// ---
+
 let error;
 
 function testGetService() {

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the automation scale factor test app
+summary: Chrome app manifest for chrome.automation.scaleFactorTests that enables desktop automation and runs location_scaled.js as the background script.

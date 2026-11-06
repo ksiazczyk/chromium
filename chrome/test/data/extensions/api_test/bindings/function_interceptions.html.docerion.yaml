@@ -1,0 +1,4 @@
+# Docerion header of function_interceptions.html.
+type: test
+title: Function interception bindings test page
+summary: Test page intercepting Object.prototype getters to verify internal binding objects like utils and binding are not leaked.

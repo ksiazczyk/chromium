@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest of the nocompile test extension
+summary: Manifest v3 extension manifest that registers devtools.html as the devtools page for the nocompile API test.

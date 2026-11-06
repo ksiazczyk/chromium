@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Automation focus in iframe test
+// summary: Tests that focus events are delivered for a button inside an iframe opened from the test server.
+// ---
+
 const allTests = [
   function testFocusInIframes() {
     chrome.test.getConfig(function(config) {

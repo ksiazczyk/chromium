@@ -5,6 +5,12 @@
 // Note: `RoleType` and `EventType` are defined in
 // automation/tests/desktop/common.js.
 
+// ---docerion
+// type: test
+// title: Document selection automation tests
+// summary: Browser test verifying document and text field selection via chrome.automation.setDocumentSelection and related selection events.
+// ---
+
 const html = `<head><title>testdoc</title></head>
     <p>para1</p><input type="text" id="textField" value="hello world">`;
 

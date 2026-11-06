@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bluetooth Low Energy createCharacteristic API test script
+// summary: Extension background script that creates a service and tests createCharacteristic with an invalid and a valid service ID, failing or succeeding accordingly.
+// ---
+
 function failOnError(result) {
   if (chrome.runtime.lastError || !result) {
     chrome.test.fail(chrome.runtime.lastError.message);

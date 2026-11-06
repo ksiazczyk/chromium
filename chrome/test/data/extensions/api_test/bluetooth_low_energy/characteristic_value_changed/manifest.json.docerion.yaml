@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the Bluetooth LE characteristic value changed test
+summary: Chrome extension manifest that declares the test app for the Bluetooth Low Energy onCharacteristicValueChanged API test, using runtest.js as its background script and requesting the needed bluetooth permissions.

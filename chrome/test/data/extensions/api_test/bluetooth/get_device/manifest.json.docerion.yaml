@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the Bluetooth getDevice API test app
+summary: Chrome extension manifest that sets up the test app running runtest.js with the bluetooth permission for the getDevice API test.

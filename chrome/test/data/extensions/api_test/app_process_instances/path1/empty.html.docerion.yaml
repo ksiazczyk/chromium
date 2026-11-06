@@ -1,0 +1,4 @@
+# Docerion header of empty.html.
+type: test
+title: Empty test page titled Unmodified
+summary: Minimal HTML page used as a fixture for the app_process_instances extension API test.

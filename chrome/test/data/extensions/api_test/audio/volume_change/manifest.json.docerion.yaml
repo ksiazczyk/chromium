@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Audio volume change test extension manifest
+summary: Manifest version 2 app manifest for the chrome.audio.OnOutputNodeVolumeChanged browser test, loading background.js and requesting the audio permission.

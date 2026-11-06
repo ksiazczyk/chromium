@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test for the Bluetooth Low Energy resetAdvertising API
+// summary: Registers two Bluetooth Low Energy advertisements, resets all advertisements, and verifies the registered ones can no longer be unregistered.
+// ---
+
 const kAdvertisement = {
   type: 'broadcast',
   serviceUuids: ['value1', 'value2'],

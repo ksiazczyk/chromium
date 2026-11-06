@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for Bluetooth onAdapterStateChanged event test
+summary: Chrome extension manifest that defines the test app used to exercise the Bluetooth onAdapterStateChanged event in the extension API test suite.

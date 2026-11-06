@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bluetooth Low Energy connect and disconnect in progress test
+// summary: Test script that calls chrome.bluetoothLowEnergy connect and disconnect concurrently, verifying in-progress and not-connected error behavior.
+// ---
+
 const deviceAddress0 = '11:22:33:44:55:66';
 const ble = chrome.bluetoothLowEnergy;
 

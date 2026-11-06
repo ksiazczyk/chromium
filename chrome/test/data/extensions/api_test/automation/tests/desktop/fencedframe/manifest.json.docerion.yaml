@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the fenced frame automation test extension
+summary: Extension manifest for chrome.automation.sanityCheck that enables desktop automation and injects the content script into fenced frame inner pages

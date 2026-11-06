@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Automation API test OWNERS
+summary: OWNERS file that includes the owners from the automation API implementation directory for this extension test data folder.

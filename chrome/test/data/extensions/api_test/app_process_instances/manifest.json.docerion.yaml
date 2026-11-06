@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: app_process_instances extension test manifest
+summary: Manifest for the app_process_instances extension API test that verifies app URLs without the background permission are not consolidated into one process.

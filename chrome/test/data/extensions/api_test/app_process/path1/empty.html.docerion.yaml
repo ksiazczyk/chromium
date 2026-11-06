@@ -1,0 +1,4 @@
+# Docerion header of empty.html.
+type: test
+title: Empty target test page
+summary: Minimal test page titled 'Unmodified' that serves as the navigation target for redirects and popups in the app_process API test.

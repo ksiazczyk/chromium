@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Automation event listener add and remove tests
+// summary: Tests that adding and removing desktop automation event listeners manages the automation tree lifecycle, including unbalanced listener cases.
+// ---
+
 const allTests = [
   async function testAddRemoveOnDesktop() {
     const desktop = await new Promise(r => chrome.automation.getDesktop(r));

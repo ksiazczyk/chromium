@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Automation API hit test browser test
+// summary: Browser test verifying webArea.hitTest locates buttons and dispatches hover and click events at given coordinates.
+// ---
+
 const allTests = [
   function testHitTest() {
     const buttons = rootNode.findAll({role: RoleType.BUTTON});

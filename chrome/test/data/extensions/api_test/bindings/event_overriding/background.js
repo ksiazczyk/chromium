@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Event overriding API test background script
+// summary: Browser test script that verifies extension event listeners can be removed and re-added without crashing, including regression checks for dotted API names (crbug 40395582).
+// ---
+
 function test() {
   let testWindowId = null;
 

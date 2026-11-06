@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Event filter test extension manifest
+summary: Manifest for the event_filter test extension, granting webNavigation permission and host access to example.com for the background script test.

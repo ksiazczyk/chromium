@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the Bluetooth Low Energy registerAdvertisement API test
+summary: Manifest for the Chrome extension app used to test the bluetoothLowEnergy registerAdvertisement API, declaring kiosk mode and Bluetooth low energy peripheral permissions.

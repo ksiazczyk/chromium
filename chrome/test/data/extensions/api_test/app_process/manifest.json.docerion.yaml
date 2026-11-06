@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: app_process test extension manifest
+summary: Manifest for the app_process extension API test app, declaring app URLs, a launch web URL, and the background permission used to verify process grouping.

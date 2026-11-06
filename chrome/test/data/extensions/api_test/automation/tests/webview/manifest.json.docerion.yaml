@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the WebView automation test app
+summary: Chrome extension manifest defining the chrome.automation.webViewTests app that runs the WebView location tests.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Automation test for desktop hit testing
+// summary: Browser test that performs a desktop hit test just inside a button's bounds to verify coordinate conversion and CLICKED event delivery.
+// ---
+
 const allTests = [
   function testHitTestInDesktop() {
     const url = `data:text/html,<!doctype html>${

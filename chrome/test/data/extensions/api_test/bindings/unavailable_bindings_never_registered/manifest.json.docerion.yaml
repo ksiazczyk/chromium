@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the unavailable bindings test extension
+summary: Manifest for the unavailable_bindings_never_registered test extension, declaring a background script and the optional storage permission exercised by the test.

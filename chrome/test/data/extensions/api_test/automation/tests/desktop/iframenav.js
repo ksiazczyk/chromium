@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Automation test for iframe navigation tree destruction
+// summary: Browser test verifying that an iframe's accessibility tree is destroyed after navigation, so the old button node loses its role.
+// ---
+
 let firstButton = undefined;
 let clicked = false;
 

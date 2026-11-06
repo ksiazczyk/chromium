@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the about_blank_iframe test extension
+summary: Manifest v2 fixture declaring the test extension bindings/about_blank_iframe with background.js as its background script.

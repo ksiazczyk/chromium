@@ -1,0 +1,4 @@
+# Docerion header of iframe.html.
+type: test
+title: App process test page opening a popup to a non-app page
+summary: Test fixture that opens a small popup to the same-origin, non-app empty.html page to exercise app process handling.

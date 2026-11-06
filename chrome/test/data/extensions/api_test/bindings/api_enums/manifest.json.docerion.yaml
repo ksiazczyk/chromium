@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the api_enums test extension
+summary: Manifest version 2 fixture declaring the background script, omnibox keyword and management and notifications permissions needed by the API enums test.

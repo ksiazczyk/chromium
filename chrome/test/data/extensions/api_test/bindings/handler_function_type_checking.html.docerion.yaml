@@ -1,0 +1,4 @@
+# Docerion header of handler_function_type_checking.html.
+type: test
+title: Handler function type checking test page
+summary: Test page using an iframe's Object prototype getter to check handler_function type validation in extension bindings.

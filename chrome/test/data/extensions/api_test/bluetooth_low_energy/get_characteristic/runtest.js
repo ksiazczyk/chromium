@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test script for the Bluetooth Low Energy getCharacteristic API
+// summary: Runs getCharacteristic calls through failure cases (unknown IDs, unknown device or service) and then verifies the returned characteristic's instanceId, UUID, properties, and value bytes.
+// ---
+
 let error;
 
 function testGetCharacteristic() {

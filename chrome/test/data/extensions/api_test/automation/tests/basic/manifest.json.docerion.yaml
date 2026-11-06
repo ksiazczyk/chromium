@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the basic chrome.automation test extension
+summary: Manifest V2 extension manifest granting tabs permission and desktop automation access for the basic chrome.automation API test.

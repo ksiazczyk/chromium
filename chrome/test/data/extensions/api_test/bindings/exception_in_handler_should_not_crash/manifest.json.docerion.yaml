@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the exception in handler test extension
+summary: Manifest for the bug106201 test extension used by the exception_in_handler_should_not_crash browser test.

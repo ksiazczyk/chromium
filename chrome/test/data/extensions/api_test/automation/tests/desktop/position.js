@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Automation tests for the automation Position API
+// summary: Browser tests covering automation tree and text positions, including position types, backing objects, cross-root moves and leaf text offsets.
+// ---
+
 const allTests = [
   function testPositionType() {
     const button = rootNode.find({role: chrome.automation.RoleType.BUTTON});

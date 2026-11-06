@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the chrome.autotestPrivate API
+// summary: JavaScript browser tests for the chrome.autotestPrivate API, covering accelerators, launcher state, window management, login status, and session actions like logout and restart.
+// ---
+
 function newAccelerator(keyCode, shift, control, alt, search) {
   const accelerator = new Object();
   accelerator.keyCode = keyCode;

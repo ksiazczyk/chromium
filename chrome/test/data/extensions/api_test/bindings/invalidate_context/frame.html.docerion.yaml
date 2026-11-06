@@ -1,0 +1,4 @@
+# Docerion header of frame.html.
+type: test
+title: Empty frame page for the invalidate context test
+summary: Minimal HTML page loaded into an iframe by the test to create a frame context that is later removed.

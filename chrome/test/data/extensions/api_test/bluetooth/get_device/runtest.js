@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bluetooth getDevice extension API test
+// summary: Test script that calls chrome.bluetooth.getDevice for an existing and a non-existing device address and asserts the results and error handling.
+// ---
+
 function testGetDevice() {
   chrome.test.assertEq(1, devices.length);
   chrome.test.assertEq('d1', devices[0].name);

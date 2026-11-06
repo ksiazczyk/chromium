@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Background Scripts Test extension manifest
+summary: Manifest for the test extension that loads a.js and b.js through the background.scripts key.

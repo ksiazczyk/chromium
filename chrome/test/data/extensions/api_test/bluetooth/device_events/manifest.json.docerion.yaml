@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Bluetooth device events test manifest
+summary: Manifest for the Chrome extension test app that runs the Bluetooth device events API tests.

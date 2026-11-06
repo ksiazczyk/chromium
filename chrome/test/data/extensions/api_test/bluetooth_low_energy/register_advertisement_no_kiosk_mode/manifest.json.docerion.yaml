@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the BLE registerAdvertisement no-kiosk-mode test app
+summary: Manifest version 2 app manifest declaring the background test script and Bluetooth low energy peripheral permissions with UUID 1234.

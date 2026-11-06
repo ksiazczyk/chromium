@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Automation API location tests with device scale factor
+// summary: Chrome automation test verifying that button coordinates from the automation API are reported without the device scale factor applied.
+// ---
+
 const assertTrue = chrome.test.assertTrue;
 
 const EventType = chrome.automation.EventType;

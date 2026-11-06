@@ -1,0 +1,4 @@
+# Docerion header of desktop.html.
+type: test
+title: Desktop Test Page
+summary: Minimal HTML fixture with an autofocused titled input used by desktop automation tests.

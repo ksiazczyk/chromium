@@ -8,6 +8,12 @@
  * Tests that verify specific behaviors should be in their own API tests.
  */
 
+// ---docerion
+// type: test
+// title: Bluetooth API basics sanity tests
+// summary: Runs basic sanity checks of chrome.bluetooth functions such as adapter state, device lookup, and discovery in a real non-mocked environment.
+// ---
+
 // Tests chrome.bluetooth availability.
 function bluetoothSanityCheck() {
   chrome.test.assertTrue(

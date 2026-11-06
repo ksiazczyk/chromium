@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: External message listener test extension manifest
+summary: Manifest for the external_message_listener API test extension, pinning a fixed extension key and registering a persistent background page that runs background.js.

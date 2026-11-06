@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab close automation tree cleanup test
+// summary: Browser test that opens a tab, closes it, and polls until its automation nodes are cleaned up.
+// ---
+
 const allTests = [function testCloseTab() {
   getUrlFromConfig('index.html', function(url) {
     createTabAndWaitUntilLoaded(url, function(tab) {

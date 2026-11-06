@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Reverse relations browser test
+// summary: Browser test verifying reverse relations such as detailsFor and labelFor on automation nodes.
+// ---
+
 const allTests = [
   function testDetailsReverseRelations() {
     const detailsFrom = rootNode.find({attributes: {name: 'DetailsFrom'}});

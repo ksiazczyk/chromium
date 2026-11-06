@@ -1,0 +1,4 @@
+# Docerion header of fencedframe_inner.html.mock-http-headers.
+type: test
+title: Mock HTTP headers for fenced frame inner page
+summary: Mock HTTP response headers serving the inner page as text/html with the Supports-Loading-Mode fenced-frame header.

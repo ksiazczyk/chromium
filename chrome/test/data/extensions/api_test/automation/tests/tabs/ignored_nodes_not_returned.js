@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ignored nodes not returned browser test
+// summary: Browser test checking that ignored nodes such as line breaks are excluded from the automation tree.
+// ---
+
 const allTests = [
   function testIgnoredNodesNotReturned() {
     let node = rootNode.find({role: chrome.automation.RoleType.STATIC_TEXT});

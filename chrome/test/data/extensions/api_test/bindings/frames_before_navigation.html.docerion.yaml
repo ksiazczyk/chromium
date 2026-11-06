@@ -1,0 +1,4 @@
+# Docerion header of frames_before_navigation.html.
+type: test
+title: Frames before navigation bindings test page
+summary: Test page checking that chrome.runtime is unavailable in iframes and opened windows that load extension or nonexistent pages.

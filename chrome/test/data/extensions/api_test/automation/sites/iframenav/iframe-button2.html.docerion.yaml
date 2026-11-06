@@ -1,0 +1,4 @@
+# Docerion header of iframe-button2.html.
+type: test
+title: Iframe second button test page
+summary: Test fixture page containing a second button that serves as the navigation target in the iframe automation test.

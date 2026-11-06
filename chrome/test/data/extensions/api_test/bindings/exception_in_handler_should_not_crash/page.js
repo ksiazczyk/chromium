@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension API test verifying exceptions in handlers do not crash
+// summary: Runs chrome.test cases that throw errors in API callbacks and listeners, asserting the exception handler reports stack traces instead of crashing.
+// ---
+
 // A named function that throws the error, used to verify that the error message
 // has a stack trace that contains the relevant stack frames.
 function throwNewError(message) {

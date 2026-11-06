@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Automation tree find and findAll tests
+// summary: Browser test verifying find and findAll queries by role, state, and attributes on the automation tree.
+// ---
+
 let group;
 let h1;
 let p1;

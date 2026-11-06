@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Node location browser test
+// summary: Browser test verifying automation nodes expose location with left, top, width and height properties.
+// ---
+
 const allTests = [
   function testLocation() {
     function assertOkButtonLocation(event) {

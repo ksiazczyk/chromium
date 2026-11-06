@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bluetooth LE start and stop notifications API test
+// summary: Drives chrome.bluetoothLowEnergy start and stop characteristic notifications through success and error cases such as not found, permission denied, and already notifying.
+// ---
+
 let error;
 
 function testStartStopNotifications() {

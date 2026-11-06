@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bluetooth Low Energy removeService API test script
+// summary: Creates, registers and removes GATT services via chrome.bluetoothLowEnergy, asserting that operations on removed or fake services fail with lastError.
+// ---
+
 function failOnError(result) {
   if (chrome.runtime.lastError || !result) {
     chrome.test.fail(chrome.runtime.lastError.message);

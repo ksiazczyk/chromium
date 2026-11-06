@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Automation test for getNextTextMatch
+// summary: Browser test checking that rootNode.getNextTextMatch finds text matches forward and case-insensitively and returns nothing for non-matching queries.
+// ---
+
 const allTests = [
   function testGetMatch() {
     assertTrue(!!rootNode.getNextTextMatch('inner', false), 'Forward error');

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Image data browser test
+// summary: Browser test verifying image.getImageData returns a PNG data URL whose RGBA pixel values match the expected colors.
+// ---
+
 const allTests = [
   function testGetImageData() {
     const image = rootNode.find({role: RoleType.IMAGE});

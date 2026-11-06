@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: chrome.audio API basics test
+// summary: Browser test that verifies chrome.audio device listing and related behavior by comparing returned devices against expected device sets.
+// ---
+
 /**
  * Asserts that device property values match properties in |expectedProperties|.
  * The method will *not* assert that the device contains *only* properties

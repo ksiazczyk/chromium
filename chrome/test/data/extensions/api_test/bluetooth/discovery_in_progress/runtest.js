@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bluetooth discovery-in-progress test script
+// summary: Runs the chrome.bluetooth discovery test, recording devices found during an in-progress discovery and asserting the expected device names.
+// ---
+
 const kExpectedDeviceNames = ['d2'];
 
 function testDiscovery() {

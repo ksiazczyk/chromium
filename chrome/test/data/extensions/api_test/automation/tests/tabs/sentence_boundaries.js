@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sentence boundaries browser test
+// summary: Browser test verifying sentenceStarts and sentenceEnds offsets on inline text box nodes.
+// ---
+
 const allTests = [
   function testSentenceStartBoundary() {
     const expectations = getExpections();

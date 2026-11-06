@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test script for reading a Bluetooth Low Energy characteristic value
+// summary: Runs browser tests for chrome.bluetoothLowEnergy.readCharacteristicValue, covering an unknown characteristic ID, a failing call, and a successful read.
+// ---
+
 let error;
 
 function testReadCharacteristicValue() {

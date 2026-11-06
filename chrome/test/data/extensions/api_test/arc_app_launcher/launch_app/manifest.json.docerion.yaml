@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the Launch Arc Apps test app
+summary: Chrome extension manifest for the ARC app launcher API test app, granting the arcAppsPrivate permission and loading test.js as its background script.

@@ -1,0 +1,4 @@
+# Docerion header of override_gin_define.html.
+type: test
+title: Overridden gin define bindings test page
+summary: Test page overriding Object.prototype define and create setters to verify gin define and native binding functions are not leaked.

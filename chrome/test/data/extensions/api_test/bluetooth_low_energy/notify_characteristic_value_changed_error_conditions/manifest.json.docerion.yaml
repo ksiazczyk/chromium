@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the Bluetooth Low Energy notify error conditions test app
+summary: Chrome extension manifest that defines the test app with Bluetooth Low Energy permissions and runs runtest.js as its background script.

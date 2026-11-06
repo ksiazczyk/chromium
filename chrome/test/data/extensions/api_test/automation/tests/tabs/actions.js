@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Automation node action tests
+// summary: Browser test verifying focus and setValue actions on automation nodes via expected events.
+// ---
+
 const allTests = [
   function testSimpleAction() {
     const okButton = rootNode.firstChild.firstChild;

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for Bluetooth Low Energy createService kiosk test
+summary: Extension manifest for the kiosk-session API test, enabling kiosk mode and Bluetooth Low Energy peripheral permissions with UUID 1234.

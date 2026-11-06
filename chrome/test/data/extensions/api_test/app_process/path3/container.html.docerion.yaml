@@ -1,0 +1,4 @@
+# Docerion header of container.html.
+type: test
+title: App process test container page embedding path1 iframe
+summary: HTML fixture for the app_process extension API test that embeds an iframe loading the path1 test page.

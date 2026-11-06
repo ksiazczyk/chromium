@@ -1,0 +1,4 @@
+# Docerion header of iframe_inner.html.
+type: test
+title: Iframe Inner Test Page
+summary: HTML fixture containing a button that serves as the inner frame content for iframe automation tests.

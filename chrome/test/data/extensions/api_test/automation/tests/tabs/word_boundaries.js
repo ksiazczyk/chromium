@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tabs test for word boundary offsets
+// summary: Browser test asserting that nonInlineTextWordStarts and nonInlineTextWordEnds return the expected offsets for a sample text node.
+// ---
+
 const allTests = [
   function testWordStartAndEndOffsets() {
     const node = rootNode.find(

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the Bluetooth discovery-in-progress test app
+summary: Manifest for the Chrome app used by the extension API test that exercises the Bluetooth discovery API while discovery is already in progress.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bluetooth Low Energy getDescriptor API test script
+// summary: Tests chrome.bluetoothLowEnergy.getDescriptor by walking through error cases for unknown IDs and verifying the returned descriptor's UUID, instance ID, and value bytes.
+// ---
+
 let error;
 
 function testGetDescriptor() {

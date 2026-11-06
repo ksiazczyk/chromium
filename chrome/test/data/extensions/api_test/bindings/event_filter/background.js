@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Event filter test background script
+// summary: Background script for the event_filter extension API test that intercepts the windowExposedByDefault filter attribute and listens to webNavigation events with a URL filter.
+// ---
+
 // Make sure that putting interceptors on event filter attributes doesn't
 // break anything.
 Object.defineProperty(Object.prototype, 'windowExposedByDefault', {

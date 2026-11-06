@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Autotest Private test extension manifest
+summary: Manifest for the Autotest Private test extension that loads test.js and requests autotestPrivate, system.display, and notifications permissions for browser tests.

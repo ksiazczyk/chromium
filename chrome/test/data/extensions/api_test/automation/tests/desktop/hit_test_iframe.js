@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Automation test for hit testing in iframes
+// summary: Browser test that hit tests the center of a button inside an iframe and expects a HOVER event on the inner button.
+// ---
+
 const allTests = [
   function testHitTestInIframe() {
     chrome.test.getConfig(function(config) {

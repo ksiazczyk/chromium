@@ -1,0 +1,4 @@
+# Docerion header of user_gesture_test.html.
+type: test
+title: User gesture test page
+summary: Test page providing a clickable body that loads user_gesture_test.js for fullscreen user gesture testing.

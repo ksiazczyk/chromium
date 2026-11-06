@@ -4,6 +4,12 @@
 
 // Note: `RoleType` is defined in automation/tests/desktop/common.js.
 
+// ---docerion
+// type: test
+// title: boundsForRange direction and clipping tests
+// summary: Browser test verifying boundsForRange results for text in all four writing directions and for clipped overflowing text.
+// ---
+
 const allTests = [
   function boundsForRange() {
     function getNthListItemInlineTextBox(index) {

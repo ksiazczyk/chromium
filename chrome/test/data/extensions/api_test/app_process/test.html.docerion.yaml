@@ -1,0 +1,4 @@
+# Docerion header of test.html.
+type: test
+title: app_process test page
+summary: Test page that opens three tabs at app URLs and expects the first two to be grouped into the same app process, then notifies pass.

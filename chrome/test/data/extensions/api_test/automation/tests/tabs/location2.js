@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Node location regression test
+// summary: Regression browser test checking the automation API returns the correct element location for a specific layout.
+// ---
+
 const allTests = [
   // This is a regression test for a particular layout where the
   // automation API was returning the wrong location for an element.

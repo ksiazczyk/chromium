@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the Bluetooth Low Energy writeDescriptorValue API test
+summary: Chrome extension manifest that defines the test app running runtest.js with the bluetooth.low_energy permission for the writeDescriptorValue API test.

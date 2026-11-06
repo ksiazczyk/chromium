@@ -1,6 +1,13 @@
 // Copyright 2014 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Test script asserting Permission denied for bluetoothLowEnergy calls
+// summary: Extension test that calls bluetoothLowEnergy service, characteristic and descriptor methods and asserts each returns a Permission denied error.
+// ---
+
 const deviceAddress = '11:22:33:44:55:66';
 const serviceId = 'service_id0';
 const charId = 'char_id0';

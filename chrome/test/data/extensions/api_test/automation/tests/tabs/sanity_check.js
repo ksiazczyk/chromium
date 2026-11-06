@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Automation tree sanity check test
+// summary: Browser test sanity-checking the automation tree structure, node states, restrictions and traversal links.
+// ---
+
 // Do not test orientation or hover attributes (similar to exclusions on native
 // accessibility), since they can be inconsistent depending on the environment.
 const RemoveUntestedStates = function(state) {

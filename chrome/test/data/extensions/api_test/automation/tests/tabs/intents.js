@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Selection intents browser test
+// summary: Browser test verifying text selection change events report intents with command, text boundary and move direction.
+// ---
+
 const allTests = [function testIntents() {
   const text = rootNode.find({role: chrome.automation.RoleType.STATIC_TEXT});
   assertEq('111', text.name);

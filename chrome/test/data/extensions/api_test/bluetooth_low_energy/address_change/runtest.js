@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bluetooth Low Energy service address change test script
+// summary: Fetches a GATT service via chrome.bluetoothLowEnergy.getService and asserts its device address was updated to the new device address.
+// ---
+
 let error;
 
 function testAddressChanged() {

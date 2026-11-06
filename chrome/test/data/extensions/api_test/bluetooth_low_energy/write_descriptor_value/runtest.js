@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bluetooth Low Energy writeDescriptorValue API test script
+// summary: Test script that calls chrome.bluetoothLowEnergy.writeDescriptorValue with an unknown and a valid descriptor ID, then verifies the written value bytes.
+// ---
+
 let error;
 
 function testWriteDescriptorValue() {

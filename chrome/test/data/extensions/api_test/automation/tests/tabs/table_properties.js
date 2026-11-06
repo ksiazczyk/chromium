@@ -4,6 +4,12 @@
 
 // Note: `RoleType` is defined in automation/tests/desktop/common.js.
 
+// ---docerion
+// type: test
+// title: Tabs test for table cell properties
+// summary: Browser test verifying that automation API table cells expose their name and column header cells, run against table.html.
+// ---
+
 const allTests = [
   function tableProperties() {
     const cell = rootNode.find({role: RoleType.CELL});

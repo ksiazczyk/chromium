@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bluetooth Low Energy registerService API test script
+// summary: Creates and registers GATT services via chrome.bluetoothLowEnergy, verifying that duplicate registration fails while registering a second service succeeds.
+// ---
+
 function failOnError(result) {
   if (chrome.runtime.lastError || !result) {
     chrome.test.fail(chrome.runtime.lastError.message);

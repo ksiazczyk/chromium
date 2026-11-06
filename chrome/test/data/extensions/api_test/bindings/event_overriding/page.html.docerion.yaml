@@ -1,0 +1,4 @@
+# Docerion header of page.html.
+type: test
+title: Test page opened by the event overriding test
+summary: Minimal HTML page that the test extension opens in a new window as part of the event overriding API test.

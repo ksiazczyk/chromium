@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the Bluetooth LE get removed descriptor test
+summary: Chrome app manifest that declares runtest.js as the background script and the bluetooth.low_energy permission and UUIDs needed for the removed-descriptor API test.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bluetooth device events test script
+// summary: Test script that records Bluetooth device added, changed, and removed events and asserts the expected device names and addresses.
+// ---
+
 const kExpectedDeviceNames = {
   '21:22:23:24:25:26': 'the real d2',
   '31:32:33:34:35:36': 'd3',

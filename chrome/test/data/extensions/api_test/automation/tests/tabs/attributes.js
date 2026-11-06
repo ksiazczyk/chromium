@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Automation node attribute tests
+// summary: Browser test checking attribute presence and values on automation nodes, including link, editable text, range, and table attributes.
+// ---
+
 const ActiveDescendantAttribute = ['activeDescendant'];
 const LinkAttributes = ['url'];
 const DocumentAttributes =

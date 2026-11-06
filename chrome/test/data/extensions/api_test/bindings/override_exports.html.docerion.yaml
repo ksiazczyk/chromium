@@ -1,0 +1,4 @@
+# Docerion header of override_exports.html.
+type: test
+title: Overridden exports bindings test page
+summary: Test page overriding Object.prototype setters for handleResponse, $set and clear to verify bindings do not leak internal exports.

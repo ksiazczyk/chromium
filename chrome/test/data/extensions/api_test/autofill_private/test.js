@@ -6,6 +6,12 @@
 // that callbacks are correctly invoked, expected parameters are correct,
 // and failures are detected.
 
+// ---docerion
+// type: test
+// title: autofillPrivate API interface tests
+// summary: Browser test script verifying the chrome.autofillPrivate interface, checking callback invocation, parameters and failure handling for addresses, cards, IBANs and entities.
+// ---
+
 const AttributeTypeDataType = chrome.autofillPrivate.AttributeTypeDataType;
 const EntityPassType = chrome.autofillPrivate.EntityPassType;
 
