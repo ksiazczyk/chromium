@@ -1,0 +1,4 @@
+# Docerion header of fonts.html.
+type: test
+title: Font loading test page for MHTML serialization
+summary: Test page rendering text with an Ahem WOFF font and a nonexistent font to verify font loading behavior in MHTML serialization.

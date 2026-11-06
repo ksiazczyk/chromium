@@ -1,0 +1,4 @@
+# Docerion header of mac_system_hotkeys.plist.
+type: data
+title: macOS system hotkeys plist fixture
+summary: Property-list fixture of macOS symbolic system hotkey settings with enabled flags and key parameters, used as test data.

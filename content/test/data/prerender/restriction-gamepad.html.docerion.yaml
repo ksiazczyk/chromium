@@ -1,0 +1,4 @@
+# Docerion header of restriction-gamepad.html.
+type: test
+title: Gamepad restriction prerender test page
+summary: Test page that on prerenderingchange calls navigator.getGamepads, for testing gamepad access restrictions during prerendering.

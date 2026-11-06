@@ -1,0 +1,4 @@
+# Docerion header of audio-and-canvas.html.
+type: test
+title: Picture-in-picture test page with audio and canvas video
+summary: Test fixture page that plays an audio-only clip alongside a canvas-captured video, enters picture-in-picture, and exposes MediaSession and play/pause handlers.

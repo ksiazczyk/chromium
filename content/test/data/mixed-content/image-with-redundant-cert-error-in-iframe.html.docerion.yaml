@@ -1,0 +1,4 @@
+# Docerion header of image-with-redundant-cert-error-in-iframe.html.
+type: test
+title: Redundant certificate error image page embedded in an iframe
+summary: Test page that embeds the redundant certificate error image page from redundant.test in an iframe.

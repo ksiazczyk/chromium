@@ -1,0 +1,4 @@
+# Docerion header of payment_app_invocation.html.
+type: test
+title: Payment app invocation test page
+summary: Test page that listens for messages from the payment app service worker and pushes them into a result queue for verification in browser tests.

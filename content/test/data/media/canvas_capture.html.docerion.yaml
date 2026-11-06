@@ -1,0 +1,4 @@
+# Docerion header of canvas_capture.html.
+type: test
+title: Canvas capture browser test page
+summary: Browser test page that captures streams from 2D, WebGL, offscreen and bitmap-renderer canvases and records them with MediaRecorder.

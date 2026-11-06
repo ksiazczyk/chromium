@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Video capture test logic
+// summary: JavaScript that starts getUserMedia video capture, verifies stream dimensions, virtual device output, and video input device enumeration counts.
+// ---
+
 $ = function(id) {
   return document.getElementById(id);
 };

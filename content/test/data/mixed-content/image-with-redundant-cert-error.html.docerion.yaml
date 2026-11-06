@@ -1,0 +1,4 @@
+# Docerion header of image-with-redundant-cert-error.html.
+type: test
+title: Image with redundant certificate error test page
+summary: Test page that loads an image from redundant.test intended to trigger a redundant certificate error.

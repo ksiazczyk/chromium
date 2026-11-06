@@ -4,6 +4,12 @@
 
 // Webrtc codec test utilities.
 
+// ---docerion
+// type: test
+// title: WebRTC codec SDP utilities
+// summary: JavaScript helpers that rewrite SDP lines to prefer the H264 video codec in WebRTC tests.
+// ---
+
 // Promotes H264 to be the first in the m=video line, if available.
 function maybePreferH264SendCodec(sdp) {
   var sdpLines = sdp.split('\r\n');

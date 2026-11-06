@@ -1,0 +1,4 @@
+# Docerion header of aaudio_freezer_test.html.
+type: test
+title: AAudio freezer test page
+summary: Test page that automatically starts WebAudio playback on load to trigger the MmapPlayback wake lock.

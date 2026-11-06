@@ -1,0 +1,4 @@
+# Docerion header of screen_orientation_lock_disabled.html.
+type: test
+title: Screen orientation lock disabled test page
+summary: Attempts to lock the screen orientation to portrait-secondary and reports success or the error name through the URL hash.

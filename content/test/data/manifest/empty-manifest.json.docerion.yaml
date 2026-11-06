@@ -1,0 +1,4 @@
+# Docerion header of empty-manifest.json.
+type: test
+title: Empty web app manifest
+summary: Empty JSON manifest used to test parsing of a manifest with no members.

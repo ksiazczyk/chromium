@@ -1,0 +1,4 @@
+# Docerion header of parse-error-manifest.json.
+type: test
+title: Invalid JSON manifest
+summary: Deliberately invalid JSON file used to trigger a manifest parsing error in tests.

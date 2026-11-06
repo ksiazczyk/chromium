@@ -1,0 +1,4 @@
+# Docerion header of shape_detection_test.html.
+type: test
+title: Shape detection test page
+summary: Test page that loads an image and runs a shape detector on it, returning the bounding boxes of detected objects.

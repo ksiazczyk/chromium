@@ -1,0 +1,4 @@
+# Docerion header of focus.html.
+type: test
+title: Frame focus test page
+summary: Test fixture page with nested iframes and script functions to focus or detach frames, used for cross-frame focus testing.

@@ -1,0 +1,4 @@
+# Docerion header of basic-active-in-iframe.html.
+type: test
+title: Basic active mixed content page embedded in an iframe
+summary: Test page that embeds the basic active mixed content page in a cross-site iframe.

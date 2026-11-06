@@ -1,0 +1,4 @@
+# Docerion header of canvas-in-pip.html.
+type: test
+title: Canvas capture picture-in-picture test page
+summary: Test fixture page that captures a canvas stream into a video, plays it, and requests picture-in-picture.

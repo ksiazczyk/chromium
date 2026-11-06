@@ -1,0 +1,4 @@
+# Docerion header of cross-origin-non-tao-image.html.
+type: test
+title: 'Largest Contentful Paint: cross-origin non-TAO image renderTime'
+summary: Test page that loads a cross-origin image without Timing-Allow-Origin to expose its Largest Contentful Paint renderTime.

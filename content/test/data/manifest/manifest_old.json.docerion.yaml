@@ -1,0 +1,4 @@
+# Docerion header of manifest_old.json.
+type: test
+title: Manifest_Old test manifest
+summary: Minimal web app manifest named Manifest_Old with start_url, scope and id, initially linked from the manifest index test page.

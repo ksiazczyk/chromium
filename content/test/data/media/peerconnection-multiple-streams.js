@@ -5,6 +5,12 @@
  */
 /*jshint esversion: 6 */
 
+// ---docerion
+// type: test
+// title: PeerConnection multiple streams test helper
+// summary: JavaScript helper defining a loopback PeerConnection class that manages multiple media streams and verifies active streams and reported video resolutions.
+// ---
+
 /**
  * A loopback peer connection with one or more streams.
  */

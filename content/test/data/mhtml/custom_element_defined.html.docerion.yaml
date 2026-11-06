@@ -1,0 +1,4 @@
+# Docerion header of custom_element_defined.html.
+type: test
+title: Custom element test page for MHTML serialization
+summary: Test page defining autonomous and customized built-in custom elements with shadow roots and adopted stylesheets to check their serialization in MHTML.

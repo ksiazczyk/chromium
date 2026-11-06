@@ -1,0 +1,4 @@
+# Docerion header of manifest_index.html.
+type: test
+title: Manifest index test page
+summary: HTML page linking to manifest_old.json with a script that lets tests switch the manifest link to another URL.

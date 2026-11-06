@@ -1,0 +1,4 @@
+# Docerion header of position.html.
+type: test
+title: Video player position test page
+summary: Video player test page with a six-second video element used for playback position testing.

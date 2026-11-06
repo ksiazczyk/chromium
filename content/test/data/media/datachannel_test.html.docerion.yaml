@@ -1,0 +1,4 @@
+# Docerion header of datachannel_test.html.
+type: test
+title: RTCDataChannel browser test page
+summary: Browser test page verifying that an RTCDataChannel with event handlers is not garbage-collected while messages are exchanged.

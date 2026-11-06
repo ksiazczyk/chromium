@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: test
+title: Stylesheet with hidden element rules for MHTML tests
+summary: Stylesheet linked from styles.html that toggles display of the hidden1 to hidden4 elements to verify stylesheet application order.
+*/
+
 #hidden1 {
     display: none;
 }

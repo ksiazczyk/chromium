@@ -1,0 +1,4 @@
+# Docerion header of video-player.html.
+type: test
+title: Video player test page with picture-in-picture disabled
+summary: Test page with a bear.webm video that disables picture-in-picture and provides a fullscreen button for player behavior testing.

@@ -1,0 +1,4 @@
+# Docerion header of viewport.html.
+type: test
+title: Viewport test page
+summary: Page with a viewport meta tag and a helper to append viewport-fit values, used in prerendering viewport tests.

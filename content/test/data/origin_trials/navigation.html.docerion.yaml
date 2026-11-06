@@ -1,0 +1,4 @@
+# Docerion header of navigation.html.
+type: test
+title: Navigation origin trial test page
+summary: HTML test page carrying an origin trial token for the FrobulateNavigation feature on example.test.

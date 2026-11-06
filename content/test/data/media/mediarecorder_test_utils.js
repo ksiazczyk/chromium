@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MediaRecorder test utilities
+// summary: JavaScript helpers for MediaRecorder tests providing promise-based waits for a fixed duration and for a predicate to become true.
+// ---
+
 'use strict';
 
 // This function will be used only when we need to wait for data gathering.

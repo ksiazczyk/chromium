@@ -1,0 +1,4 @@
+# Docerion header of image_capture_test.html.
+type: test
+title: Image Capture browser test page
+summary: Browser test page exercising ImageCapture APIs including getPhotoCapabilities, getPhotoSettings, takePhoto, grabFrame and track capabilities and settings.

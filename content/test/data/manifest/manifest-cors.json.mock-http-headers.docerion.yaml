@@ -1,0 +1,4 @@
+# Docerion header of manifest-cors.json.mock-http-headers.
+type: test
+title: Manifest CORS mock HTTP headers
+summary: Mock HTTP headers that serve the manifest JSON response with a permissive Access-Control-Allow-Origin header for cross-origin manifest tests.

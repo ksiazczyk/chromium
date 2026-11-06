@@ -1,0 +1,4 @@
+# Docerion header of basic.html.
+type: test
+title: Basic origin trial test page
+summary: HTML test page carrying an origin trial token for the Frobulate feature on example.test.

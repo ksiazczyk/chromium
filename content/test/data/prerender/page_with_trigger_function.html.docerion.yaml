@@ -1,0 +1,4 @@
+# Docerion header of page_with_trigger_function.html.
+type: test
+title: Speculation rules trigger function page
+summary: Test page defining add_speculation_rules, which injects a speculation rules script to prerender a given URL on demand.

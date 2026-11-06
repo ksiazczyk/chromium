@@ -1,0 +1,4 @@
+# Docerion header of fullscreen.html.
+type: test
+title: Fullscreen video detection test page
+summary: Test page with large, small and portrait videos used to exercise effectively-fullscreen detection and fullscreen toggling.

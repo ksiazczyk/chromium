@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: test
+title: Imported CSS rule for font-c in MHTML style tests
+summary: CSS rule for the font-c element that is pulled in via imported_inline.css and should be left unserialized per the spec issue noted in the comment.
+*/
+
 /*
 This style won't serialize correctly because the spec does not allow it, see
 crbug.com/40804066. Because this style element is not modified by JS, Chrome

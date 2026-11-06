@@ -1,0 +1,4 @@
+# Docerion header of parsing-errors.html.
+type: test
+title: Parsing errors test page
+summary: HTML page that links to parsing-errors-manifest.json to test manifest member parsing errors.

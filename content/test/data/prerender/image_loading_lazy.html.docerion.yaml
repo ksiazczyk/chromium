@@ -1,0 +1,4 @@
+# Docerion header of image_loading_lazy.html.
+type: test
+title: Lazy image loading test page
+summary: Test page with a lazy-loaded image that resolves a promise on load, for prerendering activation tests.

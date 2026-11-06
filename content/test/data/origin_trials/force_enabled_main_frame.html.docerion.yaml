@@ -1,0 +1,4 @@
+# Docerion header of force_enabled_main_frame.html.
+type: test
+title: Force enabled origin trial main frame test page
+summary: Main frame test page embedding same-origin and cross-origin iframes that have no origin trial token.

@@ -1,0 +1,4 @@
+# Docerion header of bear_corp.flac.mock-http-headers.
+type: test
+title: Mock HTTP headers for bear_corp.flac
+summary: Mock HTTP response headers served with bear_corp.flac, returning 200 OK with a cross-origin Cross-Origin-Resource-Policy.

@@ -1,0 +1,4 @@
+# Docerion header of preloading_decider.html.
+type: test
+title: Preloading Decider Browser Test
+summary: HTML test page with a speculation rules prefetch for one link, used to exercise the preloading decider in browser tests.

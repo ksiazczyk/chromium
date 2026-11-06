@@ -1,0 +1,4 @@
+# Docerion header of mac_system_hotkeys_sparse.plist.
+type: data
+title: Sparse macOS system hotkeys plist fixture
+summary: Sparse property-list fixture of macOS system hotkeys listing enabled states and a few button shortcut parameters for tests.

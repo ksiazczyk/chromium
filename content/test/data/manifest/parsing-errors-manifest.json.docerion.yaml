@@ -1,0 +1,4 @@
+# Docerion header of parsing-errors-manifest.json.
+type: test
+title: Manifest with wrong value types
+summary: Manifest JSON whose members have incorrect types and values, such as name as an object and display tulip, to exercise parsing error reporting.

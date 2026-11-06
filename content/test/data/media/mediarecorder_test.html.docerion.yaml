@@ -1,0 +1,4 @@
+# Docerion header of mediarecorder_test.html.
+type: test
+title: MediaRecorder browser test page
+summary: Browser test page for MediaRecorder covering recorder state, start events, MIME types, time slices and recording of real-time audio and video streams.

@@ -1,0 +1,4 @@
+# Docerion header of basic-passive-in-iframe.html.
+type: test
+title: Passive mixed content page embedded in an iframe
+summary: Test page that embeds the basic passive mixed content page in a cross-site iframe.

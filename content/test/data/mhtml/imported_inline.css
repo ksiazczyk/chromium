@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: test
+title: Importing CSS rule for font-b in MHTML style tests
+summary: CSS file imported by styles.html that styles the font-b element and imports imported_imported.css for the MHTML stylesheet tests.
+*/
+
 @import url("imported_imported.css");
 /*
 This style won't serialize correctly because the spec does not allow it, see

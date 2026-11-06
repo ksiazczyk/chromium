@@ -4,6 +4,12 @@
 
 // Audio test utilities.
 
+// ---docerion
+// type: test
+// title: WebRTC audio test utilities
+// summary: JavaScript helpers that use WebAudio analysis to verify whether a peer connection's audio track is playing or silent.
+// ---
+
 // Uses WebAudio's analyser of the on peerConnection's media stream to find
 // out whether audio is muted on the connection.
 // Note this does not necessarily mean the audio is actually

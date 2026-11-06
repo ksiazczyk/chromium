@@ -1,0 +1,4 @@
+# Docerion header of redundant-cert-error-in-iframe.html.
+type: test
+title: Test page embedding iframe with redundant cert error image
+summary: Test fixture that embeds an iframe loading an image with a redundant certificate error, for mixed content handling tests.

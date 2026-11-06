@@ -1,0 +1,4 @@
+# Docerion header of event_timing.html.
+type: test
+title: Event Timing test helper with busy main-thread event listeners
+summary: Test page registering mouseup, pointerup and click listeners that keep the main thread busy for Event Timing observation.

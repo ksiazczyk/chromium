@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: canPlayType codec string tests
+// summary: JavaScript test checking canPlayType results for many valid and invalid codec strings across MPEG, OGG and other containers.
+// ---
+
 // List of unsupported MPEG codec types.
 const BAD_MPEG_CODEC_LIST = [
   // AVC codecs must be followed by valid 6-digit hexadecimal number.

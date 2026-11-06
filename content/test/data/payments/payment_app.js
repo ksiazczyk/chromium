@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Payment app service worker for browser tests
+// summary: Service worker that simulates a payment app, handling abortpayment, canmakepayment and paymentrequest events and messaging test pages for Chromium browser tests.
+// ---
+
 self.addEventListener('abortpayment', e => {
   e.respondWith(true);
 });

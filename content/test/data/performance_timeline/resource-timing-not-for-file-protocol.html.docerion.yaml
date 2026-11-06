@@ -1,0 +1,4 @@
+# Docerion header of resource-timing-not-for-file-protocol.html.
+type: test
+title: Resource Timing file protocol stylesheet test page
+summary: Test page loading an existing and a missing stylesheet to check Resource Timing behavior for the file protocol.

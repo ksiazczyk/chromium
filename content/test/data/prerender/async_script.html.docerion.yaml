@@ -1,0 +1,4 @@
+# Docerion header of async_script.html.
+type: test
+title: Async script prerender test page
+summary: Test page that loads status_script.js with the async attribute plus an image, to exercise prerendering of async scripts.

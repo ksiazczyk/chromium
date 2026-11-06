@@ -1,0 +1,4 @@
+# Docerion header of basic-active.html.
+type: test
+title: Active mixed content test page
+summary: Test page that embeds an insecure HTTP iframe to exercise active mixed content blocking.

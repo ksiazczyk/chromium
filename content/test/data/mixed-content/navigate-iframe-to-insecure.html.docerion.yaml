@@ -1,0 +1,4 @@
+# Docerion header of navigate-iframe-to-insecure.html.
+type: test
+title: Iframe navigation to insecure URL test page
+summary: Test page with an iframe and a helper script that navigates the iframe to an insecure URL.

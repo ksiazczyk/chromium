@@ -1,0 +1,4 @@
+# Docerion header of screen_orientation_lock_smoke.html.
+type: test
+title: Screen orientation lock smoke test page
+summary: Locks the orientation to landscape and reports pass, fail, or the error name through the URL hash.

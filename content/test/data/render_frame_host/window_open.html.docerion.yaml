@@ -1,0 +1,4 @@
+# Docerion header of window_open.html.
+type: test
+title: Window open test page
+summary: Test fixture page whose callWindowOpen function sets result flags and calls window.open to about:blank, for testing window opening behavior.

@@ -1,0 +1,4 @@
+# Docerion header of sandboxed.html.
+type: test
+title: Sandboxed page for manifest tests
+summary: Empty HTML page that loads script.js, served with a sandbox CSP to test manifest handling in sandboxed documents.

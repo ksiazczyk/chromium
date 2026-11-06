@@ -1,0 +1,4 @@
+# Docerion header of video-player-pip.html.
+type: test
+title: Video player picture-in-picture test page
+summary: Test page with a looping bear.webm video and a fullscreen button, used for picture-in-picture player testing.

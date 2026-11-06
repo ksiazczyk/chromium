@@ -1,0 +1,4 @@
+# Docerion header of sample-manifest.html.
+type: test
+title: Sample manifest test page
+summary: HTML page that links to sample-manifest.json as a basic fixture for manifest loading tests.

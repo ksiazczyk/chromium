@@ -1,0 +1,4 @@
+# Docerion header of parse-error-manifest.html.
+type: test
+title: Parse error manifest test page
+summary: HTML page that links to parse-error-manifest.json to test handling of an unparseable manifest.

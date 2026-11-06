@@ -1,0 +1,4 @@
+# Docerion header of screen_orientation_screenorientationchange.html.
+type: test
+title: Screen orientation change event test page
+summary: Registers a screen.orientation onchange handler that reports the new orientation angle through the URL hash.

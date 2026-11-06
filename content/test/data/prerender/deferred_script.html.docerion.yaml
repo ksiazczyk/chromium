@@ -1,0 +1,4 @@
+# Docerion header of deferred_script.html.
+type: test
+title: Deferred script prerender test page
+summary: Test page that loads status_script.js with the defer attribute plus an image, to exercise prerendering of deferred scripts.

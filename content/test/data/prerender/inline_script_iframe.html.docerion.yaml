@@ -1,0 +1,4 @@
+# Docerion header of inline_script_iframe.html.
+type: test
+title: Inline script iframe prerendering beacon test page
+summary: Test page whose inline script sends a beacon recording whether it executed during prerendering, so tests can verify the prerendering upgrade fired.

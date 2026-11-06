@@ -1,0 +1,4 @@
+# Docerion header of icon-manifest.html.
+type: test
+title: Icon manifest test page
+summary: HTML test page linking to a manifest that declares an app icon.

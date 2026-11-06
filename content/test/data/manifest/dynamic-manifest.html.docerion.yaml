@@ -1,0 +1,4 @@
+# Docerion header of dynamic-manifest.html.
+type: test
+title: Dynamic manifest test page
+summary: HTML test page that loads script.js, presumably to attach or change a web app manifest dynamically.

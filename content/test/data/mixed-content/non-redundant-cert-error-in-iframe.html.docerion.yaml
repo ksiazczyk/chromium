@@ -1,0 +1,4 @@
+# Docerion header of non-redundant-cert-error-in-iframe.html.
+type: test
+title: Test page embedding iframe with non-redundant cert error image
+summary: Test fixture that embeds a cross-site iframe loading an image with a non-redundant certificate error, for mixed content blocking tests.
