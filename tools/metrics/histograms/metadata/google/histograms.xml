@@ -18,6 +18,12 @@ have an OWNERS file. As a last resort you can send the CL to
 chromium-metrics-reviews@google.com.
 -->
 
+<!--docerion
+type: config
+title: Google update histogram definitions
+summary: Lists GoogleUpdate UMA histograms with descriptions, owners and expiry dates for monitoring updater behavior on Windows and macOS.
+-->
+
 <histogram-configuration>
 
 <histograms>

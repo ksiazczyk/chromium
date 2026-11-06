@@ -17,6 +17,12 @@ Please follow the instructions in the OWNERS file in this directory to find a
 reviewer.
 -->
 
+<!--docerion
+type: config
+title: Facilitated Payments histogram enums
+summary: Defines the enum types referenced by Facilitated Payments histograms, such as flow exit reasons and prompt user actions.
+-->
+
 <histogram-configuration>
 
 <!-- Enum types -->

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for event histogram metadata
+summary: Sets reviewers for event histogram metadata changes, delegating metric reviews to the central reviewer owners list, with jonross@chromium.org for EventLatency changes.

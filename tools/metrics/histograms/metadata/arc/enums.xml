@@ -20,6 +20,12 @@ have an OWNERS file. As a last resort you can send the CL to
 chromium-metrics-reviews@google.com.
 -->
 
+<!--docerion
+type: config
+title: ARC metrics enum definitions
+summary: Defines the enumeration values and labels referenced by ARC histogram entries in the Chromium metrics configuration.
+-->
+
 <histogram-configuration>
 
 <!-- Enum types -->

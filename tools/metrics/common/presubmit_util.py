@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Presubmit and pretty printing driver for metric XML
+# summary: Runs pretty printing checks on metric XML files, prompting for diff acceptance, printing diffs, and updating files with backups.
+# ---
+
 from __future__ import print_function
 
 import argparse

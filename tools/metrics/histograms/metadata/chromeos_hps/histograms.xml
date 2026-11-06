@@ -18,6 +18,12 @@ have an OWNERS file. As a last resort you can send the CL to
 chromium-metrics-reviews@google.com.
 -->
 
+<!--docerion
+type: config
+title: ChromeOS HPS histogram definitions
+summary: Defines the ChromeOS HPS histograms, including image invalidity, turn-on results and durations, and update stage durations, with owners and expiry dates.
+-->
+
 <histogram-configuration>
 
 <histograms>

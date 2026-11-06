@@ -18,6 +18,12 @@ have an OWNERS file. As a last resort you can send the CL to
 chromium-metrics-reviews@google.com.
 -->
 
+<!--docerion
+type: config
+title: Collaboration service histogram definitions
+summary: Defines the CollaborationService UMA histograms for join, share, leave and latency metrics, including owners, summaries and expiry dates.
+-->
+
 <histogram-configuration>
 
 <histograms>

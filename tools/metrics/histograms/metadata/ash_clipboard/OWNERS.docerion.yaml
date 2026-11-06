@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for ash_clipboard histogram metadata
+summary: Lists the metric reviewers and owners responsible for changes to the ash_clipboard histogram metadata directory.

@@ -1,0 +1,4 @@
+# Docerion header of extract_actions.sh.
+type: script
+title: Shell wrapper to run extract_actions.py
+summary: Shell script that invokes extract_actions.py with the bundled Python interpreter, setting up Cygwin paths for Windows.

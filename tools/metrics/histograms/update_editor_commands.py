@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Update Editor Commands Enum
+# summary: Updates the MappedEditingCommands enum in web_core enums.xml with values read from EditorCommand.cpp.
+# ---
+
 """Updates MappedEditingCommands enum in histograms.xml file with values read
  from EditorCommand.cpp.
 

@@ -1,6 +1,13 @@
 # Copyright 2020 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Model objects for actions.xml
+# summary: Defines XML node types for actions.xml content, including actions, tokens, variants, and suffixes, with natural-sort and formatting rules.
+# ---
+
 """Model objects for actions.xml contents."""
 
 import os

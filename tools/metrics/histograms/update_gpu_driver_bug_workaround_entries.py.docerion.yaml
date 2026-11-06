@@ -1,0 +1,4 @@
+# Docerion header of update_gpu_driver_bug_workaround_entries.py.
+type: script
+title: Update GpuDriverBugWorkaroundEntry enum from gpu_driver_bug_list.json
+summary: Script that refreshes the GpuDriverBugWorkaroundEntry enum in enums.xml with workaround ids and descriptions parsed from gpu_driver_bug_list.json.

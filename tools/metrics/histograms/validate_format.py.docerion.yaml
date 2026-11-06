@@ -1,0 +1,4 @@
+# Docerion header of validate_format.py.
+type: script
+title: Validate Histograms XML Formatting
+summary: Verifies that histograms XML files are well-formatted, checking namespace placement across files and that tokens are registered as variants.

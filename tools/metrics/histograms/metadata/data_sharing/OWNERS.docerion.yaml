@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Data sharing metrics OWNERS
+summary: Lists the owners responsible for reviewing data sharing histogram changes, with metric reviewer fallback contacts.

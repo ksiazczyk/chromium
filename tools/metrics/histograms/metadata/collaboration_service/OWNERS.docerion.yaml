@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Collaboration service metrics OWNERS
+summary: Lists the owners responsible for reviewing changes to the collaboration service metrics metadata, falling back to the shared metric reviewer owners.

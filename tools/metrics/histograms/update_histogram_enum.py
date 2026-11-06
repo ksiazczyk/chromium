@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Shared helper for updating enums in histograms.xml from C++ enums
+# summary: Library that parses C++ enum definitions and rewrites the matching enum entries in histograms XML files, preserving pretty-printed formatting.
+# ---
+
 """Updates enums in histograms.xml file with values read from provided C++ enum.
 
 If the file was pretty-printed, the updated version is pretty-printed too.

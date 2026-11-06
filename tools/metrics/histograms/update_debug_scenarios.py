@@ -1,6 +1,13 @@
 # Copyright 2021 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Update Debug Scenario Enums
+# summary: Updates the DebugScenario enum in stability enums.xml with values read from content/common/debug_utils.h.
+# ---
+
 """Updates the DebugScenario enums in histograms with values read from the
 corresponding header file.
 

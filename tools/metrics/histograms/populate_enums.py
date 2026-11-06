@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Populate enums with UKM events
+# summary: Provides functions to populate the UkmEventNameHash enum with UKM event names, truncated hashes, and obsolete markers.
+# ---
+
 """Functions for populating enums with ukm events."""
 
 import collections

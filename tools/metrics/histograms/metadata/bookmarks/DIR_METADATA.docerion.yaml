@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Bookmarks metrics directory metadata
+summary: Maps the bookmarks metrics directory to its Buganizer component for issue tracking.

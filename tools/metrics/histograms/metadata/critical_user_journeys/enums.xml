@@ -8,6 +8,12 @@ found in the LICENSE file.
 This file defines enums used in Critical User Journey histograms.
 -->
 
+<!--docerion
+type: config
+title: Critical User Journey enums.xml
+summary: Defines the enum values for Critical User Journey histogram steps, results, and HaTS survey events, kept in sync with the journey registry source files.
+-->
+
 <histogram-configuration>
 
 <enums>

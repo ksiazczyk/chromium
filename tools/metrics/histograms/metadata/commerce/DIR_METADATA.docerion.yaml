@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Commerce metrics DIR_METADATA
+summary: Sets the Monorail and Buganizer issue tracker components used for the commerce histogram metadata directory.

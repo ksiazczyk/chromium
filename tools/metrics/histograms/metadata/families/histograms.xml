@@ -30,6 +30,12 @@ Current expiration date for histograms owned by cros-families-eng@google.com:
 2025-11-01.
 -->
 
+<!--docerion
+type: config
+title: Histogram definitions for the Family Experiences team
+summary: Generates a comprehensive list of histograms owned by the Family Experiences team with owners, expiration dates and detailed descriptions for each metric.
+-->
+
 <histogram-configuration>
 
 <histograms>

@@ -1,0 +1,4 @@
+# Docerion header of update_permissions_policy_enum.py.
+type: script
+title: Update FeaturePolicyFeature enum from permissions_policy_feature.mojom
+summary: Script that refreshes the FeaturePolicyFeature enum in the blink metadata enums.xml with values read from permissions_policy_feature.mojom.

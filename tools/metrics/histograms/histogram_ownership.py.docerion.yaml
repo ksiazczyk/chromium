@@ -1,0 +1,4 @@
+# Docerion header of histogram_ownership.py.
+type: script
+title: Histogram Ownership Tool
+summary: Command-line tool that prints the owners of each histogram defined in histograms.xml files, marking entries without owners.

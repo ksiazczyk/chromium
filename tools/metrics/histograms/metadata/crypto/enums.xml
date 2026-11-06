@@ -20,6 +20,12 @@ have an OWNERS file. As a last resort you can send the CL to
 chromium-metrics-reviews@google.com.
 -->
 
+<!--docerion
+type: data
+title: Crypto histogram enum definitions
+summary: Defines the enumeration values and labels referenced by crypto histograms, covering TPM results, unexportable key service errors, and Win32 TPM error codes.
+-->
+
 <histogram-configuration>
 
 <!-- Enum types -->

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: GCM histogram metadata OWNERS
+summary: Lists the owners who review changes to GCM histogram definitions, with the metric reviewer owners file as a per-file fallback.

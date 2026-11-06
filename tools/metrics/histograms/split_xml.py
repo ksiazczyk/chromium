@@ -1,6 +1,13 @@
 # Copyright 2020 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Split Histograms XML Into Smaller Files
+# summary: Splits large histograms.xml or enums.xml files into smaller per-directory XML files based on the first camel-case part of histogram names.
+# ---
+
 """Splits a XML file into smaller XMLs in subfolders.
 
 Splits nodes according to the first camelcase part of their name attribute.

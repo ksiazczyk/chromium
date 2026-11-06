@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for cros histogram metadata
+summary: Lists the code owners and reviewer routing for changes to ChromeOS histogram metadata in this directory.

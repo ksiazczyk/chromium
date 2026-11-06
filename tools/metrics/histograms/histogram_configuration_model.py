@@ -1,6 +1,13 @@
 # Copyright 2020 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Model objects for histograms.xml contents
+# summary: Defines node types, attributes, and sorting rules used to parse and pretty-print enums.xml and histograms.xml.
+# ---
+
 """Model objects for histograms.xml contents."""
 
 import re

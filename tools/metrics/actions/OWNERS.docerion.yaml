@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS rules for user action metric reviews
+summary: Routes reviews of actions.xml changes to metrics reviewers and the chromium-metrics-reviews list, with no-parent enforcement for metric changes.

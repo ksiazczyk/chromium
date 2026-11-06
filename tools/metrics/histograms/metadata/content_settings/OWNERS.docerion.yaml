@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for content settings metrics metadata
+summary: Lists the owners and backup reviewer address for changes to metrics metadata in the content_settings directory.

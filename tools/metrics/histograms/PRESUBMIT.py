@@ -1,6 +1,13 @@
 # Copyright 2013 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: ci
+# title: Histograms presubmit checks
+# summary: Runs presubmit validation on histogram XML changes, covering formatting, tokens, enums, and allowlists.
+# ---
+
 """
 See http://dev.chromium.org/developers/how-tos/depottools/presubmit-scripts
 for more details on the presubmit API built into depot_tools.

@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: XML parsing utilities preserving comments
+# summary: Parses raw XML into ElementTree nodes while keeping comments and extracts content appearing before the first tag.
+# ---
+
 """Utility functions for parsing XML strings into ElementTree nodes."""
 
 import sys

@@ -20,6 +20,12 @@ have an OWNERS file. As a last resort you can send the CL to
 chromium-metrics-reviews@google.com.
 -->
 
+<!--docerion
+type: config
+title: Ash clipboard histogram enum definitions
+summary: Defines the enumeration types, such as clipboard history display formats and trigger types, referenced by the histograms in this directory.
+-->
+
 <histogram-configuration>
 
 <!-- Enum types -->

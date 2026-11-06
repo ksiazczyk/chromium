@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: script
+# title: Update ExtensionPermission3 enum from api_permission_id.mojom
+# summary: Script that refreshes the ExtensionPermission3 enum in the extensions metadata enums.xml with values read from api_permission_id.mojom.
+# ---
+
 """Updates the ExtensionPermission3 enum in the histograms.xml file with values
 read from api_permission_id.mojom.
 

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Cross-device metrics directory metadata
+summary: Directory metadata that inherits common metadata mixins from the ChromeOS multidevice components for the cross-device histograms directory.

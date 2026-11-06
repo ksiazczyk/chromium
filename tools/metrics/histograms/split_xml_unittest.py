@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Split XML Unit Tests
+# summary: Unit tests verifying the camel-case name extraction and snake-case conversion helpers used by split_xml.py.
+# ---
+
 import unittest
 import xml.etree.ElementTree as ET
 

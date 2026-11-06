@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for Assistant histogram metadata
+summary: Lists the owners who review changes to Assistant histogram definitions and points to the shared metric reviewer owners file.

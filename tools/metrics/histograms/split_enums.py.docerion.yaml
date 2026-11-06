@@ -1,0 +1,4 @@
+# Docerion header of split_enums.py.
+type: source
+title: Split Enums XML Into Separate Files
+summary: Extracts enums referenced by a directory's histograms.xml into a separate enums.xml file under the metadata directory.

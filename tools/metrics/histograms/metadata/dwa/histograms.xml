@@ -18,6 +18,12 @@ have an OWNERS file. As a last resort you can send the CL to
 chromium-metrics-reviews@google.com.
 -->
 
+<!--docerion
+type: config
+title: DWA histogram definitions
+summary: XML metadata listing DWA histograms with names, owners, expiry dates, and descriptions, used to generate the comprehensive DWA histogram documentation.
+-->
+
 <histogram-configuration>
 
 <histograms>

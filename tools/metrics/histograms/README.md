@@ -1,3 +1,9 @@
+---
+type: readme
+title: Histogram Guidelines
+summary: Best practices for defining, naming, emitting, typing, testing, and expiring histograms in Chromium.
+---
+
 # Histogram Guidelines
 
 This document gives the best practices on how to use histograms in code and how

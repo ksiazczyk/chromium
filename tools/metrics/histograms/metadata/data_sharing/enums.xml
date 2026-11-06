@@ -20,6 +20,12 @@ have an OWNERS file. As a last resort you can send the CL to
 chromium-metrics-reviews@google.com.
 -->
 
+<!--docerion
+type: config
+title: Data sharing histogram enums
+summary: Defines the enum types referenced by data sharing histogram entries, covering intent types, user actions, and Android flow states.
+-->
+
 <histogram-configuration>
 
 <!-- Enum types -->

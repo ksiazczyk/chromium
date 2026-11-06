@@ -1,0 +1,4 @@
+# Docerion header of generate_allowlist_from_histograms_file_unittest.py.
+type: test
+title: Unit tests for the histogram allowlist generator
+summary: Tests that generate_allowlist_from_histograms_file.py produces sorted C++ allowlist headers from histogram variants and enums.

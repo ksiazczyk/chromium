@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Shared codegen helpers for metrics hashing
+# summary: Provides hash functions matching Chromium's metrics hash implementations plus FileInfo and ModelTypeInfo classes used by metrics code generation.
+# ---
+
 import hashlib
 import os
 import re

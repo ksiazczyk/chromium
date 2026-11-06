@@ -1,6 +1,13 @@
 # Copyright 2013 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Histogram XML extraction
+# summary: Parses histogram description XML files into dictionaries of histograms, enums, variants, and tokens.
+# ---
+
 """Extract histogram names from the description XML file.
 
 For more information on the format of the XML file, which is self-documenting,

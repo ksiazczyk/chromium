@@ -1,0 +1,4 @@
+# Docerion header of pretty_print.py.
+type: script
+title: Pretty-print the actions.xml user actions file
+summary: Script that reformats actions.xml by re-running the extract_actions XML update in a presubmit workflow.

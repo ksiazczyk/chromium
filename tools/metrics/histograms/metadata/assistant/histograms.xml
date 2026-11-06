@@ -18,6 +18,12 @@ have an OWNERS file. As a last resort you can send the CL to
 chromium-metrics-reviews@google.com.
 -->
 
+<!--docerion
+type: data
+title: Assistant histogram definitions
+summary: Defines the Assistant histograms, including Assistant.NewEntryPoint.Eligibility, with owners, expiry dates, and descriptions.
+-->
+
 <histogram-configuration>
 
 <histograms>

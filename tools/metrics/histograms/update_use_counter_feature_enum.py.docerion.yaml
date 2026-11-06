@@ -1,0 +1,4 @@
+# Docerion header of update_use_counter_feature_enum.py.
+type: script
+title: Update UseCounter Feature Enum Script
+summary: Scans the Chromium UseCounter source and merges the WebFeature and WebDXFeature enums into the blink metadata enums.xml.

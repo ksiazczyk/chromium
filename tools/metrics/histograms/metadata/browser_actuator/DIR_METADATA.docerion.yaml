@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for browser_actuator histogram metadata
+summary: Points the browser_actuator histogram metadata directory at the shared component metadata through a mixin reference.

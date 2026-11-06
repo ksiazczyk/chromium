@@ -20,6 +20,12 @@ have an OWNERS file. As a last resort you can send the CL to
 chromium-metrics-reviews@google.com.
 -->
 
+<!--docerion
+type: config
+title: Bluetooth histogram enums
+summary: Defines the enum value labels referenced by Bluetooth histogram entries in this directory, including lint markers that keep shared enums in sync with other files.
+-->
+
 <histogram-configuration>
 
 <!-- Enum types -->

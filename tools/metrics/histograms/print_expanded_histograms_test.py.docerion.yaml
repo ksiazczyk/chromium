@@ -1,0 +1,4 @@
+# Docerion header of print_expanded_histograms_test.py.
+type: test
+title: Print expanded histograms smoke tests
+summary: Smoke tests that run print_expanded_histograms.py and check for a successful exit code and valid output.

@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Tests for the actions.xml presubmit checks
+# summary: Unit tests for the presubmit script, covering hash conflicts, owner validity changes, and removed segmentation user actions.
+# ---
+
 import unittest
 from unittest.mock import MagicMock, patch, call
 import sys

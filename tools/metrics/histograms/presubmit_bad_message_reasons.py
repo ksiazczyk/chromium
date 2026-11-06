@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: BadMessage enum presubmit check
+# summary: Presubmit helper that checks whether BadMessage enums in enums.xml are up to date with bad_message.h changes.
+# ---
+
 """Check to see if the various BadMessage enums in histograms.xml need to be
 updated. This can be called from a chromium PRESUBMIT.py to ensure updates to
 bad_message.h also include the generated changes to histograms.xml

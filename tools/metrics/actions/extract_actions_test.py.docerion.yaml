@@ -1,0 +1,4 @@
+# Docerion header of extract_actions_test.py.
+type: test
+title: Unit tests for the extract_actions script
+summary: Unit tests validating how extract_actions parses, updates and pretty-prints actions.xml user action definitions.

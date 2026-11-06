@@ -1,0 +1,4 @@
+# Docerion header of generate_allowlist_from_histograms_file.pydeps.
+type: config
+title: Python dependencies for generate_allowlist_from_histograms_file
+summary: Generated list of Python module dependencies for the generate_allowlist_from_histograms_file.py tool, used by build tooling.

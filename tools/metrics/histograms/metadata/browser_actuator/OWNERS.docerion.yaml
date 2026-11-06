@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for browser_actuator histogram metadata
+summary: Lists the directory owners and routes histogram changes to the shared metric reviewer owners file as a per-file rule.

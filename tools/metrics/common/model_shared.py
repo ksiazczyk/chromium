@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Shared model node types for ukm.xml
+# summary: Defines text node types and sorting key helpers used to build models of ukm.xml metric content.
+# ---
+
 import setup_modules  # pylint: disable=unused-import
 
 

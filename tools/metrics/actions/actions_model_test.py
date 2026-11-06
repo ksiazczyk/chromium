@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Tests for actions.xml model objects
+# summary: Unit tests checking pretty-printing, indentation, single-line fields, line breaks, and ordering of actions.xml via the model objects.
+# ---
+
 from parameterized import parameterized  # type: ignore
 import unittest
 import xml.dom.minidom

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for background histogram metadata
+summary: Routes reviews of histograms in this directory to the shared metric reviewer owners, with chromium-metrics-reviews@google.com as a backup.

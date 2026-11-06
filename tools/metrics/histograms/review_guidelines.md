@@ -1,3 +1,11 @@
+---
+type: guide
+title: Metrics Code Review Guidelines
+summary: Explains what reviewers should check when reviewing metrics code in Chromium, covering UMA histograms, user actions, UKMs and other specialized metrics.
+relations:
+  - references /tools/metrics/histograms/README.md
+---
+
 # Things to note when doing metrics code review.
 
 [TOC]

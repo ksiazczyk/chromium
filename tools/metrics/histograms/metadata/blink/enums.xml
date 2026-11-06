@@ -20,6 +20,12 @@ have an OWNERS file. As a last resort you can send the CL to
 chromium-metrics-reviews@google.com.
 -->
 
+<!--docerion
+type: config
+title: Blink histogram enum definitions
+summary: Defines the enumerations referenced by Blink histogram entries, mapping integer values to human-readable labels for the metrics tooling.
+-->
+
 <histogram-configuration>
 
 <!-- Enum types -->

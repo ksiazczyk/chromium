@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: FastPair metrics directory owners
+summary: Lists the owners and metric reviewers who should review changes to the FastPair histogram metadata files.

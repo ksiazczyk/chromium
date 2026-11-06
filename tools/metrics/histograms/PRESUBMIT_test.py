@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Histograms presubmit check tests
+# summary: Unit tests verifying the behavior of the histograms presubmit checks with mocked inputs.
+# ---
+
 import contextlib
 import os
 import tempfile

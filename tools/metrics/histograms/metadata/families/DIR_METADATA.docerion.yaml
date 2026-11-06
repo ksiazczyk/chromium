@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for families metrics
+summary: Declares supervised_user metadata mixins that apply to the families histogram metadata directory.

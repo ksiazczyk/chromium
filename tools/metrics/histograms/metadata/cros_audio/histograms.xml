@@ -18,6 +18,12 @@ within about 5 minutes. This approach helps the metrics team to load-balance
 incoming reviews. Googlers can read more about this at go/gwsq-gerrit.
 -->
 
+<!--docerion
+type: config
+title: ChromeOS audio histogram definitions
+summary: Defines the ChromeOS audio selection histograms for CrosAudioConfig, with names, owners, expiry dates, and descriptions of when each metric is recorded.
+-->
+
 <histogram-configuration>
 
 <histograms>

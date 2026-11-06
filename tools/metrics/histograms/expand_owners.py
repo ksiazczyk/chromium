@@ -1,6 +1,13 @@
 # Copyright 2019 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Histogram owner expansion from OWNERS files
+# summary: Extracts owner emails and components from OWNERS files to expand owner tags in histogram XML.
+# ---
+
 """Functions for extracting emails and components from OWNERS files."""
 
 import json

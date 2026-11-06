@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for ARC metrics metadata
+summary: Sets the code owners who review changes to ARC histogram metadata, falling back to the shared metric reviewer owners list.

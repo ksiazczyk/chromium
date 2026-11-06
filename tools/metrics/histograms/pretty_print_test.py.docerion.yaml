@@ -1,0 +1,4 @@
+# Docerion header of pretty_print_test.py.
+type: test
+title: Pretty-print tests
+summary: Unit tests verifying that pretty_print.py rewrites sample histograms XML into the expected canonical formatted output.

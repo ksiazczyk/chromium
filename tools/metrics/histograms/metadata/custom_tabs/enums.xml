@@ -20,6 +20,12 @@ have an OWNERS file. As a last resort you can send the CL to
 chromium-metrics-reviews@google.com.
 -->
 
+<!--docerion
+type: data
+title: Custom Tabs histogram enums
+summary: Defines the enumerations, such as CustomTabsCloseCause and CustomTabsFeatureUsed, referenced by histogram entries in this directory.
+-->
+
 <histogram-configuration>
 
 <!-- Enum types -->

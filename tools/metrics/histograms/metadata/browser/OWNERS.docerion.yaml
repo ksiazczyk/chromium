@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Browser histogram metadata OWNERS
+summary: Lists code owners and per-file reviewer rules for browser histogram metadata, including specific owners for PaintPreview, Tabs, RenderProcessHost, and InfoBar histograms.

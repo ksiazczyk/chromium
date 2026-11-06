@@ -18,6 +18,12 @@ have an OWNERS file. As a last resort you can send the CL to
 chromium-metrics-reviews@google.com.
 -->
 
+<!--docerion
+type: config
+title: histograms.xml for content metrics
+summary: Generates a comprehensive list of Content histograms with descriptions, owners, and expiry dates for each metric.
+-->
+
 <histogram-configuration>
 
 <histograms>

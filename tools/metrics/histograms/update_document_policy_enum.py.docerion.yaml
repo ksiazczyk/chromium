@@ -1,0 +1,4 @@
+# Docerion header of update_document_policy_enum.py.
+type: source
+title: Update Document Policy Feature Enum
+summary: Updates the DocumentPolicyFeature enum in blink enums.xml with values read from document_policy_feature.mojom.

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Fingerprint metrics DIR_METADATA
+summary: Maps the fingerprint metrics directory to internal and public Buganizer components for issue tracking.

@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Histogram Utils Unit Tests
+# summary: Unit tests for the histogram parsing utilities, covering name extraction, stream handling, and variants block change detection.
+# ---
+
 import io
 import pathlib
 import tempfile

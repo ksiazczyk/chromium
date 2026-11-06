@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Diff acceptance prompt utility
+# summary: Shows an HTML diff of old and new file contents in a browser and asks the user whether automatically applied changes are acceptable.
+# ---
+
 """Utility functions for prompting user if changes automatically applied to some
 user-managed files are correct.
 """

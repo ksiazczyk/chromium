@@ -18,6 +18,12 @@ have an OWNERS file. As a last resort you can send the CL to
 chromium-metrics-reviews@google.com.
 -->
 
+<!--docerion
+type: config
+title: Accessibility histogram definitions
+summary: Defines the comprehensive list of accessibility histograms with owners, expiry dates, variants and detailed descriptions for each metric.
+-->
+
 <histogram-configuration>
 
 <histograms>

@@ -18,6 +18,12 @@ have an OWNERS file. As a last resort you can send the CL to
 chromium-metrics-reviews@google.com.
 -->
 
+<!--docerion
+type: config
+title: Bluetooth histogram definitions
+summary: Declares the Bluetooth histograms with owners, expiry dates, variants and summaries, used to generate the comprehensive Chromium metrics list.
+-->
+
 <histogram-configuration>
 
 <histograms>

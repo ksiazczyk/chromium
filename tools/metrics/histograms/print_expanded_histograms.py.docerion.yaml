@@ -1,0 +1,4 @@
+# Docerion header of print_expanded_histograms.py.
+type: script
+title: Print expanded histograms
+summary: Prints fully expanded histograms from all histograms XML files, optionally filtered by a name regex or limited to names only.

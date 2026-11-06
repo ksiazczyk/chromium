@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Tests for histogram owner expansion
+# summary: Unit tests for expanding histogram owners from OWNERS files and DIR_METADATA components.
+# ---
+
 import os
 import shutil
 import tempfile

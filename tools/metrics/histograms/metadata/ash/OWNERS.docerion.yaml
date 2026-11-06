@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for Ash histogram metadata
+summary: Lists the owners who review changes to Ash histogram metadata and points to the shared metrics reviewer owners file as a fallback.

@@ -20,6 +20,12 @@ have an OWNERS file. As a last resort you can send the CL to
 chromium-metrics-reviews@google.com.
 -->
 
+<!--docerion
+type: config
+title: Collaboration service histogram enums
+summary: Defines the enumeration values used by the collaboration service histograms, such as flow events and join entry points, kept in sync with the service source.
+-->
+
 <histogram-configuration>
 
 <!-- Enum types -->

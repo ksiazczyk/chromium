@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Enterprise metrics metadata OWNERS
+summary: Lists the owners and backup reviewer contacts for changes to enterprise histogram metadata in this directory.

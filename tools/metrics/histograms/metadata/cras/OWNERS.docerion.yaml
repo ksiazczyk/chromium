@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for CRAS histogram metadata
+summary: Lists the owners and backup reviewer contacts for changes to the CRAS histogram metadata files in this directory.

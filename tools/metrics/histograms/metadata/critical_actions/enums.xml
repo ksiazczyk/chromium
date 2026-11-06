@@ -18,6 +18,12 @@ have an OWNERS file. As a last resort you can send the CL to
 chromium-metrics-reviews@google.com.
 -->
 
+<!--docerion
+type: config
+title: Enums for Critical Actions histograms
+summary: Defines the enum values and labels used by Critical Actions histograms, with LINT links to the matching source definitions.
+-->
+
 <histogram-configuration>
 
 <enums>

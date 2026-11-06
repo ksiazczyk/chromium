@@ -1,0 +1,4 @@
+# Docerion header of histogram_paths.py.
+type: source
+title: Histogram XML Paths
+summary: Defines paths to histograms, enums, and variants XML files and regenerates histograms_xml_files.gni when executed.

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Critical User Journeys Metrics OWNERS
+summary: Lists the code owners who review changes to the critical user journey metrics metadata, with a backup review mailing list for metric CLs.

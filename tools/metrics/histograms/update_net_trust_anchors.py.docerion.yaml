@@ -1,0 +1,4 @@
+# Docerion header of update_net_trust_anchors.py.
+type: script
+title: Update NetTrustAnchors enum from root_stores.json
+summary: Script that refreshes the NetTrustAnchors enum in the net metadata enums.xml with trust anchor SPKI ids read from root_stores.json.

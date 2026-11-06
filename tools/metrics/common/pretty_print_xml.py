@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: XML pretty printing with IFTTT comment handling
+# summary: Pretty prints XML files such as histograms.xml and actions.xml while preserving and correctly sorting LINT.IfChange/ThenChange comment blocks.
+# ---
+
 """Utility file for pretty printing xml file.
 
 The function PrettyPrintXml will be used for formatting both histograms.xml

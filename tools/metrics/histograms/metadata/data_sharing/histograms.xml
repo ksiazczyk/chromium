@@ -19,6 +19,12 @@ have an OWNERS file. As a last resort you can send the CL to
 chromium-metrics-reviews@google.com.
 -->
 
+<!--docerion
+type: config
+title: Data sharing histogram definitions
+summary: Defines DataSharing histograms tracking Android join and share flows, user actions, latency, and group database initialization.
+-->
+
 <histogram-configuration>
 
 <histograms>

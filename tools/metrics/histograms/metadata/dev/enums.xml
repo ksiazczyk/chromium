@@ -20,6 +20,12 @@ have an OWNERS file. As a last resort you can send the CL to
 chromium-metrics-reviews@google.com.
 -->
 
+<!--docerion
+type: data
+title: Enums for Dev histograms
+summary: Defines the enumeration values referenced by Dev histogram entries, such as CDP commands and DevTools-specific enums.
+-->
+
 <histogram-configuration>
 
 <!-- Enum types -->

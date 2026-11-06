@@ -1,0 +1,4 @@
+# Docerion header of update_scheduler_enums.py.
+type: script
+title: Update WebSchedulerTrackedFeature enum from web_scheduler_tracked_feature.mojom
+summary: Script that refreshes the WebSchedulerTrackedFeature enum in the navigation metadata enums.xml with values read from web_scheduler_tracked_feature.mojom.
