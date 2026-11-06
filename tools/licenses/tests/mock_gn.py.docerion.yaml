@@ -1,0 +1,4 @@
+# Docerion header of mock_gn.py.
+type: test
+title: Mock gn binary for licenses tests
+summary: Standalone fake of the gn tool that emulates gn desc for the //foo target, printing a warning and a fixed list of BUILD.gn paths for the licenses.py integration tests.

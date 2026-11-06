@@ -1,0 +1,4 @@
+# Docerion header of tryserver.v8.json.
+type: config
+title: tryserver.v8 MB config expectations
+summary: Defines expected GN arguments for V8 tryserver builders such as v8_linux_blink_rel and v8_linux_chromium_gn_rel.

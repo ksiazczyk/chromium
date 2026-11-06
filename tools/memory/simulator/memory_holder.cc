@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MemoryHolder base class implementation
+// summary: Implements the MemoryHolder constructor, destructor and the Rand helper that supplies random values for write operations.
+// ---
+
 #include "tools/memory/simulator/memory_holder.h"
 
 namespace memory_simulator {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Memory simulator command-line entry point
+// summary: Parses command-line options for allocation, read, write and timeout behaviour, then runs the simulator and reports metrics.
+// ---
+
 #include <cstdint>
 #include <iostream>
 #include <limits>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for metrics XML and Python tests
+summary: Defines GN targets that build and copy histograms, actions, and UKM XML files and lists the dependencies of the metrics Python test suite.

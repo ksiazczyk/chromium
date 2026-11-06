@@ -1,6 +1,13 @@
 # Copyright 2022 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: ci
+# title: Presubmit checks for metrics scripts and XML files
+# summary: Runs presubmit checks for metrics changes, including mypy, quote consistency, affected script tests, and BUILD.gn coverage validation.
+# ---
+
 """Presubmit script for changes to histograms/enums.xml and python scripts.
 
 See http://dev.chromium.org/developers/how-tos/depottools/presubmit-scripts

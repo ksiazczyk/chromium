@@ -1,0 +1,4 @@
+# Docerion header of chrome.orderfile.json.
+type: config
+title: MB config expectations for orderfile builders
+summary: Defines the expected GN arguments for Android and WebView orderfile profiling builders.

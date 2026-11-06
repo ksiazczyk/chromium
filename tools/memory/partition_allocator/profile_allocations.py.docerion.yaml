@@ -1,0 +1,4 @@
+# Docerion header of profile_allocations.py.
+type: script
+title: Thread cache allocation profiler
+summary: Parses thread cache allocation profiles from Chrome memory-infra traces and plots allocation size distributions and CDFs.

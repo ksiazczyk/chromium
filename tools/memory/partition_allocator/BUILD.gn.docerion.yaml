@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: PartitionAlloc tools build file
+summary: GN build rules for the PartitionAlloc inspection tools, defining the pa_tool_utils source set and the pa_tcache_inspect, pa_buckets_inspect and pa_dump_heap executables.

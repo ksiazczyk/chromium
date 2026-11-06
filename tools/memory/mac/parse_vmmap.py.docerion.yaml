@@ -1,0 +1,4 @@
+# Docerion header of parse_vmmap.py.
+type: source
+title: Parse vmmap output for IOSurface memory usage
+summary: Parses vmmap output from a process or saved file to extract IOSurface memory details such as sizes, dirty and swapped memory, and dimensions.

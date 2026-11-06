@@ -1,0 +1,4 @@
+# Docerion header of 11_22.txt.
+type: test
+title: Absolute offset test data 11_22
+summary: Test fixture with numeric values in hexadecimal, signed hexadecimal, and decimal notation in the absolute_offset test data folder of the Mac power tool.

@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: LLDB source map setup for Chromium
+# summary: Configures LLDB source mapping so debug symbols with relative paths resolve to the Chromium checkout root.
+# ---
+
 # The GN arg `strip_absolute_paths_from_debug_symbols = 1` uses relative paths
 # for debug symbols. This confuses lldb. We explicitly set the source-map to
 # point at the root directory of the chromium checkout.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: M1 sampler header
+// summary: Declares the M1Sampler class that samples P-core and E-core temperatures on Apple M1 hardware.
+// ---
+
 #ifndef TOOLS_MAC_POWER_POWER_SAMPLER_M1_SAMPLER_H_
 #define TOOLS_MAC_POWER_POWER_SAMPLER_M1_SAMPLER_H_
 

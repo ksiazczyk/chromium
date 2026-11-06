@@ -1,0 +1,4 @@
+# Docerion header of png_fix.py.
+type: script
+title: Normalize PNG files for macOS icons
+summary: Rebuilds PNG icon images to meet Mac icon requirements, enforcing sRGB color profiles and allowed color types.

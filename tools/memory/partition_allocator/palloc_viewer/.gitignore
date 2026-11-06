@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: palloc_viewer .gitignore
+# summary: Ignores build outputs, downloaded imgui and implot checkouts, and generated font headers in the palloc_viewer directory.
+# ---
+
 *.o
 palloc-viewer-gui
 binary_to_compressed_c

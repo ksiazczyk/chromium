@@ -1,0 +1,4 @@
+# Docerion header of m1_sampler.mm.
+type: source
+title: M1 sampler implementation
+summary: Implements the M1Sampler that reads P-core and E-core temperatures via M1SensorsReader and reports them in Celsius.

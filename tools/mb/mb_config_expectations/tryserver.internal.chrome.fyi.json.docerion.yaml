@@ -1,0 +1,4 @@
+# Docerion header of tryserver.internal.chrome.fyi.json.
+type: config
+title: tryserver.internal.chrome.fyi MB config expectations
+summary: Defines expected GN arguments for internal Chrome FYI tryserver builders running finch smoke tests on Android, Linux, Mac arm64, and Windows.

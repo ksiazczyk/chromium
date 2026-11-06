@@ -1,3 +1,11 @@
+---
+type: readme
+title: md_browser
+summary: Documents a local tool that renders Markdown docs in a Chromium checkout while emulating the Gitiles Markdown flavor, and explains how to run it on port 8080.
+relations:
+  - documents /tools/md_browser/md_browser.py
+---
+
 # md_browser
 
 This is a simple tool to render the markdown docs in a chromium checkout

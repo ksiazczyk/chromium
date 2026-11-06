@@ -8,6 +8,12 @@
 // Use with ih32, il32, is32, it32. For it32, use "skip", because there are four
 // bytes of unknown use (typically zero) before the compressed data begins.
 
+// ---docerion
+// type: source
+// title: 'unpackicon: decode RLE icon data'
+// summary: Implements UnpackIcon, which decodes PackBits-like RLE data from old-style icon image chunks into raw uncompressed output.
+// ---
+
 #include <errno.h>
 #include <fcntl.h>
 #include <stdio.h>

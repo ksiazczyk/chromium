@@ -1,0 +1,4 @@
+# Docerion header of test_list.golden.
+type: test
+title: Golden output for the list command
+summary: Expected output of licenses.py list mapping GN targets to their license files.

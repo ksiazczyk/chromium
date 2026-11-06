@@ -1,0 +1,4 @@
+# Docerion header of safari_navigation.
+type: source
+title: Safari navigation script template
+summary: Jinja template that generates an AppleScript driving Safari through a list of sites for repeated navigation cycles in power testing.

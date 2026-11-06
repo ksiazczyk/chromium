@@ -1,0 +1,4 @@
+# Docerion header of tryserver.chromium.perf.json.
+type: config
+title: tryserver.chromium.perf MB config expectations
+summary: Defines expected GN arguments for tryserver.chromium.perf builders such as Android arm64 Compile Perf and Linux Builder Perf.

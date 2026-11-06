@@ -1,0 +1,4 @@
+# Docerion header of dump-static-initializers.py.
+type: script
+title: Static initializer dump tool
+summary: Command-line tool that dumps names, addresses and disassembly of static initializers in a built binary using LLVM nm, objdump and readobj.

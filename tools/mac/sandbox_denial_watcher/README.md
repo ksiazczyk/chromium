@@ -1,3 +1,11 @@
+---
+type: readme
+title: macOS Sandbox Denial Watcher
+summary: Documents how to run the watcher, report unexpected sandbox denials, and add known denials.
+relations:
+  - documents /tools/mac/sandbox_denial_watcher/sandbox_denial_watcher.py
+---
+
 # macOS Sandbox Denial Watcher
 
 This directory contains tools to detect and report unexpected macOS

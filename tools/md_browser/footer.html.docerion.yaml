@@ -1,0 +1,4 @@
+# Docerion header of footer.html.
+type: source
+title: HTML footer template for rendered pages
+summary: HTML fragment that closes the page body and adds a footer crediting the md_browser tool.

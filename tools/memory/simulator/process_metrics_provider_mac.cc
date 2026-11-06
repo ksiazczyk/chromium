@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: macOS process memory metrics provider implementation
+// summary: Collects per-process macOS memory metrics such as resident, internal, external, compressed and physical footprint via Mach task info.
+// ---
+
 #include "tools/memory/simulator/process_metrics_provider_mac.h"
 
 #include <mach/mach.h>

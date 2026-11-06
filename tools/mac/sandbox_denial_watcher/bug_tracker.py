@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Bug URL generation for sandbox denials
+# summary: Generates pre-filled Chromium Issue Tracker bug URLs for sandbox denials, redacting the home directory.
+# ---
+
 """Chromium Issue Tracker bug URL generation for sandbox denials."""
 
 from __future__ import annotations

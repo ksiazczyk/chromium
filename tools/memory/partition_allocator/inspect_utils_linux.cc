@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux inspect utils
+// summary: Linux implementation of remote process memory reading via /proc, including pagemap access and scanning process maps for the thread cache needle array.
+// ---
+
 #include "tools/memory/partition_allocator/inspect_utils.h"
 
 #include <sys/mman.h>

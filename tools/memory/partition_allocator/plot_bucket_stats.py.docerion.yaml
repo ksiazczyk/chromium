@@ -1,0 +1,4 @@
+# Docerion header of plot_bucket_stats.py.
+type: script
+title: Slot span statistics plotter
+summary: Plots allocated, free and unprovisioned slot distributions in slot spans from pa_tcache_inspect JSON output.

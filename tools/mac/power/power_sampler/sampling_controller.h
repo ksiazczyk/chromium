@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sampling controller header
+// summary: Declares SamplingController, which manages samplers and monitors and coordinates the start, sampling and end of a session.
+// ---
+
 #ifndef TOOLS_MAC_POWER_POWER_SAMPLER_SAMPLING_CONTROLLER_H_
 #define TOOLS_MAC_POWER_POWER_SAMPLER_SAMPLING_CONTROLLER_H_
 

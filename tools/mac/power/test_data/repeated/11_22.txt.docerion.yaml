@@ -1,0 +1,4 @@
+# Docerion header of 11_22.txt.
+type: test
+title: Test data 11_22
+summary: Stack sample fixture with fake module frames and a repeat count, used as test input for the macOS power tooling.

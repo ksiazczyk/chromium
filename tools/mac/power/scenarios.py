@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Power measurement scenario drivers
+# summary: Defines OSA-script-based scenario drivers, including browser-driven ones, that automate user activity during power measurements.
+# ---
+
 import abc
 import subprocess
 import jinja2

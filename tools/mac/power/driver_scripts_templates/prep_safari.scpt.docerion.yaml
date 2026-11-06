@@ -1,0 +1,4 @@
+# Docerion header of prep_safari.scpt.
+type: source
+title: Safari preparation script
+summary: AppleScript that resets Safari to a clean state by closing recovered tabs and all windows before power test scenarios start.

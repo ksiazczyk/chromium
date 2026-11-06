@@ -1,0 +1,4 @@
+# Docerion header of tryserver.chrome.orderfile.json.
+type: config
+title: MB build config expectations for tryserver.chrome.orderfile
+summary: Maps orderfile profiling trybots for Android and WebView to their expected GN arguments, using the PGO override args file, for MB validation.

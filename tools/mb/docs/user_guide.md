@@ -1,3 +1,11 @@
+---
+type: guide
+title: The MB (Meta-Build wrapper) user guide
+summary: User guide for the MB meta-build wrapper describing its subcommands, the mb_config.pyl config file, isolates, and debugging.
+relations:
+  - references /tools/mb/docs/design_spec.md
+---
+
 # The MB (Meta-Build wrapper) user guide
 
 [TOC]

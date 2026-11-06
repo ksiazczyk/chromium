@@ -1,0 +1,4 @@
+# Docerion header of show_mod_init_func.py.
+type: script
+title: Show module initializer functions in a Mach-O image
+summary: Prints and symbolizes module initializers stored in S_MOD_INIT_FUNC_POINTERS or S_INIT_FUNC_OFFSETS sections of a Mach-O executable.

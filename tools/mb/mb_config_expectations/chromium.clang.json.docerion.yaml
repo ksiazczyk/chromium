@@ -1,0 +1,4 @@
+# Docerion header of chromium.clang.json.
+type: config
+title: MB config expectations for ToT Clang official builders
+summary: Defines the expected GN arguments for Tip-of-Tree Clang official builders on Linux, Mac, and Windows.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CsvExporter implementation
+// summary: Implements CsvExporter, writing sampler data rows in CSV format to a file as samples arrive.
+// ---
+
 #include "tools/mac/power/power_sampler/csv_exporter.h"
 
 #include "base/logging.h"

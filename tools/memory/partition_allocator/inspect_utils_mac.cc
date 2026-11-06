@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: macOS inspect utils
+// summary: macOS implementation of remote process memory reading using Mach task APIs, including page-by-page reads and locating the thread cache needle array.
+// ---
+
 #include "tools/memory/partition_allocator/inspect_utils.h"
 
 #include <libproc.h>

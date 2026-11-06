@@ -1,0 +1,4 @@
+# Docerion header of safari_scroll.
+type: source
+title: Safari scroll script template
+summary: Jinja template generating an AppleScript that loads reddit.com in Safari and scrolls it via JavaScript for power testing.

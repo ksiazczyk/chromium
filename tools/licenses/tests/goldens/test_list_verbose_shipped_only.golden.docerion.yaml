@@ -1,0 +1,4 @@
+# Docerion header of test_list_verbose_shipped_only.golden.
+type: test
+title: Golden verbose shipped-only output for the list command
+summary: Expected verbose output of licenses.py list filtered to shipped third-party libraries.

@@ -1,3 +1,13 @@
+---
+type: readme
+title: Useful icon tools README
+summary: Explains the purpose of the 2015–2016 era Chrome icon tools, how to compile them with make, and lists what each tool does.
+relations:
+  - documents /tools/mac/icons/additional_tools/maketoc.py
+  - documents /tools/mac/icons/additional_tools/makeicns.cc
+  - documents /tools/mac/icons/additional_tools/makepng.cc
+---
+
 # Useful icon tools
 
 This directory contains tools that were used [in the 2015–2016

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CsvExporter class header
+// summary: Declares CsvExporter, a Monitor that writes power sampling data to a file in CSV format.
+// ---
+
 #ifndef TOOLS_MAC_POWER_POWER_SAMPLER_CSV_EXPORTER_H_
 #define TOOLS_MAC_POWER_POWER_SAMPLER_CSV_EXPORTER_H_
 

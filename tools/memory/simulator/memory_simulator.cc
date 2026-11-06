@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MemorySimulator implementation
+// summary: Implements timed allocation, reading and writing of memory pages at configurable frequencies with allocation limits and read and write deadlines.
+// ---
+
 #include "tools/memory/simulator/memory_simulator.h"
 
 #include <cstdint>

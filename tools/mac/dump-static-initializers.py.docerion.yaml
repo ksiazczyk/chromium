@@ -1,0 +1,4 @@
+# Docerion header of dump-static-initializers.py.
+type: script
+title: Dump files with static initializers from a dSYM
+summary: Parses dsymutil output for a dSYM file and prints the source and object files that contain static initializers in release builds.

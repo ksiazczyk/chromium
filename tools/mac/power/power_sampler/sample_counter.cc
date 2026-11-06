@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sample counter implementation
+// summary: Implements SampleCounter::OnSample, which decrements the remaining sample count and signals the session to end once the maximum is reached.
+// ---
+
 #include "tools/mac/power/power_sampler/sample_counter.h"
 
 namespace power_sampler {

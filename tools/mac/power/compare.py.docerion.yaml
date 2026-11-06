@@ -1,0 +1,4 @@
+# Docerion header of compare.py.
+type: script
+title: Benchmark result comparison
+summary: Compares baseline and alternative summary.csv files, computing percent differences, z-scores and UMA-style diamond significance.

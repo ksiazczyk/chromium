@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'unmakeicns: unpack an .icns into its images'
+// summary: Implements the unmakeicns tool, which unpacks an .icns file into an iconset directory, recombining old-style data/mask pairs into PNGs.
+// ---
+
 #include <arpa/inet.h>
 #include <assert.h>
 #include <errno.h>

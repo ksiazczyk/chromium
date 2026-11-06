@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Java class generator
+# summary: Generates Java inner class fields and constructors from a JSON schema for the Java element generator.
+# ---
+
 _INDENT = '    '
 
 

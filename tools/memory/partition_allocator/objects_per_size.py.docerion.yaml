@@ -1,0 +1,4 @@
+# Docerion header of objects_per_size.py.
+type: script
+title: Objects per PartitionAlloc bucket size
+summary: Lists all object types sharing the same PartitionAlloc bucket by parsing a Chrome build with pahole and mapping sizes to buckets.

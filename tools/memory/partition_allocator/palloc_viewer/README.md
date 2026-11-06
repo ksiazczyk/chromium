@@ -1,3 +1,11 @@
+---
+type: readme
+title: Basic usage
+summary: Explains how to build and run the PartitionAlloc viewer GUI, lists its dependencies, and documents known limitations and warnings.
+relations:
+  - documents /tools/memory/partition_allocator/palloc_viewer/palloc-viewer-gui.cc
+---
+
 Basic usage
 ===========
 Download dependencies (in the directory `palloc_viewer`):

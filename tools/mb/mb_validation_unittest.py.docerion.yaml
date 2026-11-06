@@ -1,0 +1,4 @@
+# Docerion header of mb_validation_unittest.py.
+type: test
+title: Unit tests for MB config validation
+summary: Python unit tests for MB config validation, covering unreferenced or unknown mixins and sorted builder groups, configs, and mixins.

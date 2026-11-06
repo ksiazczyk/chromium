@@ -1,0 +1,4 @@
+# Docerion header of metrics_python_tests.py.
+type: test
+title: Runner for all metrics Python tests
+summary: Discovers and runs all Python test files under tools/metrics with the typ runner, excluding itself from the test list.

@@ -1,0 +1,4 @@
+# Docerion header of md2xml.py.
+type: script
+title: Markdown to histograms.xml converter for UMA metric docs
+summary: Parses markdown documentation of UMA metrics and writes the extracted metric definitions into histograms.xml.

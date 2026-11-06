@@ -1,3 +1,11 @@
+---
+type: readme
+title: PartitionAlloc tools
+summary: Describes the tools for inspecting, debugging and optimizing PartitionAlloc, covering pa_tcache_inspect usage and pa_dump_heap with plot_superpages.py visualizations.
+relations:
+  - documents /tools/memory/partition_allocator/plot_superpages.py
+---
+
 # PartitionAlloc tools
 
 This directory contains tools useful to inspect, debug and optimize

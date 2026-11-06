@@ -1,0 +1,4 @@
+# Docerion header of plot_iosurface.py.
+type: source
+title: Plot IOSurface memory usage over time
+summary: Visualizes IOSurface virtual, dirty and swapped memory usage over time for a given process using matplotlib animation.

@@ -1,0 +1,4 @@
+# Docerion header of test_credits_with_warnings.golden.
+type: test
+title: Golden output for credits with warnings
+summary: Expected credits output including errors and warnings for invalid or missing third-party metadata.

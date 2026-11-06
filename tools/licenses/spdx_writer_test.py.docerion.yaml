@@ -1,0 +1,4 @@
+# Docerion header of spdx_writer_test.py.
+type: test
+title: Unit tests for the SPDX writer
+summary: Tests SPDX path resolution, package and license ID generation, and duplicate ID handling in the JSON writer.

@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: ci
+# title: Presubmit checks for sandbox denial watcher
+# summary: Presubmit checks that run the directory's unit tests and pylint, skipping Windows.
+# ---
+
 """Presubmit script for tools/mac/sandbox_denial_watcher."""
 
 PRESUBMIT_VERSION = "2.0.0"

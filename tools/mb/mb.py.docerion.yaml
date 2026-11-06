@@ -1,0 +1,4 @@
+# Docerion header of mb.py.
+type: source
+title: MB meta-build wrapper implementation
+summary: Main implementation of the MB wrapper around GN, providing gen and analyze commands, configuration handling, and environment sanitization.

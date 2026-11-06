@@ -1,0 +1,4 @@
+# Docerion header of test_license_file_txt.golden.
+type: test
+title: Golden SPDX txt output for the license_file command
+summary: Expected SPDX 2.2 JSON output of licenses.py license_file in txt format, matching the SPDX golden file.

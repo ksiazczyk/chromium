@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: ci
+# title: Linux tools presubmit script
+# summary: Presubmit script for the linux tools directory that runs Python unit tests on affected files before upload and commit.
+# ---
+
 """Top-level presubmit script for linux.
 
 See http://dev.chromium.org/developers/how-tos/depottools/presubmit-scripts

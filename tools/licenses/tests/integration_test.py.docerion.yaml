@@ -1,0 +1,4 @@
+# Docerion header of integration_test.py.
+type: test
+title: Integration tests for licenses.py
+summary: Runs licenses.py commands against a mock repository with a faked gn binary and compares exit codes, output, and depfiles against golden files, with rebaseline support.

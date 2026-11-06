@@ -1,3 +1,12 @@
+---
+type: reference
+title: The MB (Meta-Build wrapper) design spec
+summary: Design specification for the MB meta-build wrapper covering its command line, configurations, the analyze step, and design rationale.
+relations:
+  - references /tools/mb/docs/user_guide.md
+  - references /tools/mb/mb_config.pyl
+---
+
 # The MB (Meta-Build wrapper) design spec
 
 [TOC]

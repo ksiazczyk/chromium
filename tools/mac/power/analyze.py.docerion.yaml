@@ -1,0 +1,4 @@
+# Docerion header of analyze.py.
+type: script
+title: Power metrics analysis script
+summary: Parses powermetrics plist samples from a benchmark run and writes a summary.csv with flattened per-coalition and processor metrics.

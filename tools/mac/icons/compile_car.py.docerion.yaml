@@ -1,0 +1,4 @@
+# Docerion header of compile_car.py.
+type: script
+title: Compile asset catalogs into .car files for macOS
+summary: Compiles Xcode asset catalogs into prebuilt .car files for Chromium Mac, verifying actool versions and handling compatibility fallbacks.

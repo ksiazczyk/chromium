@@ -7,6 +7,12 @@
 // shared cache macOS version because the format of the cache can change
 // between macOS versions.
 
+// ---docerion
+// type: source
+// title: dsc_extractor tool for macOS dyld shared caches
+// summary: Command-line tool that extracts dylibs from a macOS dyld shared cache by invoking the system dsc_extractor.bundle.
+// ---
+
 #include <dlfcn.h>
 #include <stddef.h>
 #include <stdio.h>

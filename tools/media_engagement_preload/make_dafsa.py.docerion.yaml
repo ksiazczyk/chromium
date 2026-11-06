@@ -1,0 +1,4 @@
+# Docerion header of make_dafsa.py.
+type: source
+title: Compile origin lists into a DAFSA
+summary: Python tool that converts a list of origins from a gperf-style input into a compact DAFSA byte array used for the preloaded Media Engagement Index list.

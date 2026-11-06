@@ -1,0 +1,4 @@
+# Docerion header of iwakeups.d.
+type: script
+title: DTrace script analyzing interrupt wakeups of a process
+summary: DTrace script that captures stacks of threads woken by interrupts for a process and its children, producing data convertible to a pprof by export_dtrace.py.

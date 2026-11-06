@@ -1,6 +1,13 @@
 # Copyright 2021 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: LLDB command to load Google Chrome symbols
+# summary: Adds a getchromesyms LLDB command that downloads and loads dSYM symbols for the running official Google Chrome build.
+# ---
+
 """
 Downloads, extracts, and loads symbols for the current version of Google Chrome
 running under the debugger. This only works for official, Google Chrome builds.

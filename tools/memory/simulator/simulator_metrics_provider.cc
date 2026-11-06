@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Simulator metrics provider implementation
+// summary: Reports simulator metrics including allocated pages in GB and allocation, read and write rates in MB/s computed from a MemorySimulator instance.
+// ---
+
 #include "tools/memory/simulator/simulator_metrics_provider.h"
 
 #include "base/time/time.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unpackicon command-line entry point
+// summary: C++ main function that parses usage arguments, including an optional -s skip flag, and calls UnpackIcon to unpack a packed icon file.
+// ---
+
 #include <errno.h>
 #include <fcntl.h>
 #include <stdio.h>

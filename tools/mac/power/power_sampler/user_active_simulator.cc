@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User active simulator implementation
+// summary: Periodically declares user activity via IOPM so macOS keeps active-user scheduling policies during benchmarks.
+// ---
+
 #include "tools/mac/power/power_sampler/user_active_simulator.h"
 #include "base/functional/bind.h"
 

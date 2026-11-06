@@ -1,0 +1,4 @@
+# Docerion header of test_scan.golden.
+type: test
+title: Golden output for licenses scan errors
+summary: Expected golden output for the licenses scan command, capturing the errors raised for invalid README.chromium metadata and missing third-party license files.

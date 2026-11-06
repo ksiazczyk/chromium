@@ -1,0 +1,4 @@
+# Docerion header of safari_meet.
+type: source
+title: Safari Google Meet driver script template
+summary: Safari-specific variant of the meet template, using Safari's document access and JavaScript execution to join a Google Meet meeting.

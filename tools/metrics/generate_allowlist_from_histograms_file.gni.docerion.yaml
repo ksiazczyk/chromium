@@ -1,0 +1,4 @@
+# Docerion header of generate_allowlist_from_histograms_file.gni.
+type: config
+title: GN template for generating histogram allowlist headers
+summary: GN template that generates a C++ header listing enum or variant values from a histograms XML file so C++ code stays in sync with metrics.

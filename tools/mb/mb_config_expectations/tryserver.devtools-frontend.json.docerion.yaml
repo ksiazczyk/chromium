@@ -1,0 +1,4 @@
+# Docerion header of tryserver.devtools-frontend.json.
+type: config
+title: tryserver.devtools-frontend MB config expectations
+summary: Defines expected GN arguments for devtools-frontend tryserver builders including the Linux blink light and regular release configurations.

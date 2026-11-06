@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build file for mac tools
+summary: Defines the mac tools group and builds the dsc_extractor executable from dsc_extractor.cc.

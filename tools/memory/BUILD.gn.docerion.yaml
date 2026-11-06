@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build file for memory tools
+summary: Defines a test-only GN group that aggregates the partition_allocator and simulator targets under tools/memory.

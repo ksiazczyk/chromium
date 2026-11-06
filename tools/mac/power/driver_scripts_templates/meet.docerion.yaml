@@ -1,0 +1,4 @@
+# Docerion header of meet.
+type: source
+title: Google Meet driver script template
+summary: Jinja template for an AppleScript that opens a Google Meet meeting by ID and clicks the join button via JavaScript.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JsonExporter implementation
+// summary: Implements JsonExporter, accumulating samples and writing them with column labels to a JSON file at session end.
+// ---
+
 #include "tools/mac/power/power_sampler/json_exporter.h"
 
 #include <ostream>

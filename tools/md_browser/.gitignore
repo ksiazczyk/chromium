@@ -1,1 +1,7 @@
+# ---docerion
+# type: config
+# title: Git ignore rules for md_browser
+# summary: Ignores compiled Python bytecode files (*.pyc) in the md_browser tool directory.
+# ---
+
 *.pyc

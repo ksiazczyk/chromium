@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JsonExporter class header
+// summary: Declares JsonExporter, a Monitor that writes collected power sampling data to a JSON file on session end.
+// ---
+
 #ifndef TOOLS_MAC_POWER_POWER_SAMPLER_JSON_EXPORTER_H_
 #define TOOLS_MAC_POWER_POWER_SAMPLER_JSON_EXPORTER_H_
 

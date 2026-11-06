@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Ruff lint and format configuration for metrics Python code
+# summary: Configures Ruff formatting and linting for tools/metrics, setting line length, single-quote style, and a list of ignored lint rules.
+# ---
+
 line-length = 80
 indent-width = 2
 

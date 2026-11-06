@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: macOS system memory metrics provider implementation
+// summary: Collects macOS system-wide memory statistics such as free, active, wired and compressor pages plus paging and compression rates via Mach host APIs.
+// ---
+
 #include "tools/memory/simulator/system_metrics_provider_mac.h"
 
 #include <mach/mach.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: macOS process memory metrics provider header
+// summary: Declares ProcessMetricsProviderMac, a MetricsProvider that reports per-process memory metrics on macOS.
+// ---
+
 #ifndef TOOLS_MEMORY_SIMULATOR_PROCESS_METRICS_PROVIDER_MAC_H_
 #define TOOLS_MEMORY_SIMULATOR_PROCESS_METRICS_PROVIDER_MAC_H_
 

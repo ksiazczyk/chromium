@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Main display sampler unit tests
+// summary: Unit tests for the MainDisplaySampler using a test subclass with stubbed brightness and sleeping values.
+// ---
+
 #include "tools/mac/power/power_sampler/main_display_sampler.h"
 
 #include <memory>

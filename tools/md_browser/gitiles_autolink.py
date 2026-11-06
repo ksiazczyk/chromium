@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Gitiles autolink Markdown extension
+# summary: Markdown extension that auto-links bare http and https URLs the way Gitiles does.
+# ---
+
 """Implements Gitiles' simpler auto linking.
 
 This extention auto links basic URLs that aren't bracketed by <...>.

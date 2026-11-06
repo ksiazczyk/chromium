@@ -1,0 +1,4 @@
+# Docerion header of test_list_verbose.golden.
+type: test
+title: Golden verbose output for the list command
+summary: Expected verbose output of licenses.py list showing metadata dictionaries for each third-party directory.

@@ -1,0 +1,4 @@
+# Docerion header of tryserver.chrome.pgo.json.
+type: config
+title: MB build config expectations for tryserver.chrome.pgo
+summary: Maps PGO trybots across Android, Linux, Mac, WebView and Windows to their expected GN arguments with chrome_pgo_phase settings for MB validation.

@@ -1,0 +1,4 @@
+# Docerion header of export_dtrace.py.
+type: source
+title: DTrace to pprof profile exporter
+summary: Reads DTrace result files and converts them into pprof profiles for flamegraph generation.

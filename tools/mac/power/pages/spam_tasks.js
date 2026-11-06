@@ -7,6 +7,12 @@
 // unaligned. See the HTML file to know how to invoke this with the correct
 // parameters.
 
+// ---docerion
+// type: source
+// title: Spam tasks repeating timer script
+// summary: Runs costly repeating timers that rewrite the page body, coordinating unaligned start times across peer pages via a broadcast channel.
+// ---
+
 // Try to make this a more pleasant experience by failing fast.
 'use strict';
 

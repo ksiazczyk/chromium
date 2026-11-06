@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sampler interface header
+// summary: Defines the abstract Sampler interface that concrete samplers implement to report their name, datum names and units, and samples.
+// ---
+
 #ifndef TOOLS_MAC_POWER_POWER_SAMPLER_SAMPLER_H_
 #define TOOLS_MAC_POWER_POWER_SAMPLER_SAMPLER_H_
 

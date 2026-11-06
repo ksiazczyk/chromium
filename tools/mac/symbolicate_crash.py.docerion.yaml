@@ -1,0 +1,4 @@
+# Docerion header of symbolicate_crash.py.
+type: script
+title: Symbolicate Apple crash reports
+summary: Parses Apple CrashReporter logs of versions 6 through 9 and symbolicates Chrome stack traces using dSYM symbols and atos.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContiguousMemoryHolder class header
+// summary: Declares a MemoryHolder subclass that holds memory pages at contiguous virtual addresses with a bounded maximum page count.
+// ---
+
 #ifndef TOOLS_MEMORY_SIMULATOR_CONTIGUOUS_MEMORY_HOLDER_H_
 #define TOOLS_MEMORY_SIMULATOR_CONTIGUOUS_MEMORY_HOLDER_H_
 

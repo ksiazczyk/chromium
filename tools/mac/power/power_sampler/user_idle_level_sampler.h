@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User idle level sampler header
+// summary: Declares a sampler that reports the machdep.user_idle_level sysctl value when it exists.
+// ---
+
 #ifndef TOOLS_MAC_POWER_POWER_SAMPLER_USER_IDLE_LEVEL_SAMPLER_H_
 #define TOOLS_MAC_POWER_POWER_SAMPLER_USER_IDLE_LEVEL_SAMPLER_H_
 

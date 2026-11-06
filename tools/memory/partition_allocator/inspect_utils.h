@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Inspect utils header
+// summary: Declares utilities for the PartitionAlloc tools, including remote process memory reading, RawBuffer access to copied objects, and thread cache needle indexing.
+// ---
+
 #ifndef TOOLS_MEMORY_PARTITION_ALLOCATOR_INSPECT_UTILS_H_
 #define TOOLS_MEMORY_PARTITION_ALLOCATOR_INSPECT_UTILS_H_
 

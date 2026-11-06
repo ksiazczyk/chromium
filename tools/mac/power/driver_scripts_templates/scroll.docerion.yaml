@@ -1,0 +1,4 @@
+# Docerion header of scroll.
+type: source
+title: Browser scroll script template
+summary: Jinja template generating an AppleScript that scrolls reddit.com in a configurable browser using JavaScript increments.

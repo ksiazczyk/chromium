@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'makeicns: build an .icns from an iconset directory'
+// summary: Implements the makeicns tool, which packs an .iconset directory of PNG files into a macOS .icns file, writing icon headers and lengths.
+// ---
+
 #include <arpa/inet.h>
 #include <errno.h>
 #include <fcntl.h>

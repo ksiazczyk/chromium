@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Simulator metrics provider header
+// summary: Declares SimulatorMetricsProvider, which exposes allocation, read and write statistics from a MemorySimulator instance.
+// ---
+
 #ifndef TOOLS_MEMORY_SIMULATOR_SIMULATOR_METRICS_PROVIDER_H_
 #define TOOLS_MEMORY_SIMULATOR_SIMULATOR_METRICS_PROVIDER_H_
 

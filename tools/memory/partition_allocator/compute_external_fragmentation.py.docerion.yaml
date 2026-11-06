@@ -1,0 +1,4 @@
+# Docerion header of compute_external_fragmentation.py.
+type: script
+title: External fragmentation calculator
+summary: Parses allocation profiles from a memory-infra trace and plots external fragmentation percentages and wasted memory per PartitionAlloc bucket.

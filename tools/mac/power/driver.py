@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Benchmark driver context
+# summary: Implements DriverContext, which manages caffeinate, user-active simulation, display brightness and battery readiness during benchmark runs.
+# ---
+
 import ctypes
 import io
 import json

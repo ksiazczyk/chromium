@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: MB directory metadata
+summary: Metadata file declaring the Chromium bug component, owning team email, and Buganizer component for the MB directory.

@@ -1,0 +1,4 @@
+# Docerion header of mb.bat.
+type: script
+title: Windows batch launcher for MB
+summary: Windows batch wrapper that launches mb.py with python3 and adjusts PATH for Cygwin.

@@ -1,0 +1,4 @@
+# Docerion header of profile.d.
+type: script
+title: DTrace script profiling on-CPU time of a process
+summary: DTrace script that samples user stacks at 997 Hz for a process and its children to profile on-CPU time, producing data convertible to a pprof by export_dtrace.py.

@@ -1,3 +1,12 @@
+---
+type: readme
+title: Tests for tools/licenses.py
+summary: Describes the tests covering tools/licenses.py, pointing to the goldens-based integration test and the end-to-end unittest of IDR_ABOUT_UI_CREDITS_HTML.
+relations:
+  - documents /tools/licenses/tests/integration_test.py
+  - documents /tools/licenses/licenses.py
+---
+
 Tests covering `tools/licenses.py`:
 
 * `tools/licenses/tests/integration_test.py`:

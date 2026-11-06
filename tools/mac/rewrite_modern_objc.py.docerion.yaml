@@ -1,0 +1,4 @@
+# Docerion header of rewrite_modern_objc.py.
+type: script
+title: Run clang's modern Objective-C rewriter on Chrome code
+summary: Runs clang's modern Objective-C rewriter over ObjC and ObjC++ compile commands from a Ninja build to convert code to modern syntax.

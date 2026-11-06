@@ -1,0 +1,4 @@
+# Docerion header of safari_idle_on_site.
+type: source
+title: Safari idle on site driver script template
+summary: Safari-specific variant of the idle_on_site template, differing only in how Safari windows are accessed.

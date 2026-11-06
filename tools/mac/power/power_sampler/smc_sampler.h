@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SMC sampler header
+// summary: Declares SMCSampler, which samples power usage of various hardware components from the macOS System Management Controller.
+// ---
+
 #ifndef TOOLS_MAC_POWER_POWER_SAMPLER_SMC_SAMPLER_H_
 #define TOOLS_MAC_POWER_POWER_SAMPLER_SMC_SAMPLER_H_
 

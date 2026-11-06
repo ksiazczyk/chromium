@@ -5,6 +5,12 @@
 // Connects to a running Chrome process, and outputs statistics about its thread
 // caches.
 
+// ---docerion
+// type: source
+// title: Thread cache inspection tool
+// summary: Connects to a running Chrome process and reports statistics about its PartitionAlloc thread caches, optionally as JSON.
+// ---
+
 #include <fcntl.h>
 #include <signal.h>
 #include <sys/stat.h>

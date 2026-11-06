@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for the memory simulator
+summary: GN build configuration defining the memory_simulator static library and executable targets, including macOS-specific metric provider sources.

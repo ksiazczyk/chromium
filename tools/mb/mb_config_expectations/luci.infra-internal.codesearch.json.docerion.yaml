@@ -1,0 +1,4 @@
+# Docerion header of luci.infra-internal.codesearch.json.
+type: config
+title: MB build config expectations for luci.infra-internal.codesearch
+summary: Maps codesearch generation builders for Chrome internal Android and Linux to their expected GN arguments, including Kythe annotations, for MB validation.

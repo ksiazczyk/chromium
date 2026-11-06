@@ -1,0 +1,4 @@
+# Docerion header of procfs.py.
+type: source
+title: Procfs reader library
+summary: Python library that reads and stores Linux /proc process information such as stat and statm, keeping raw data and translating values on request.

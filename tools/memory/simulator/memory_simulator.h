@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MemorySimulator class header
+// summary: Declares the MemorySimulator class that schedules page allocation, read and write operations using metronome timers and tracks page counts.
+// ---
+
 #ifndef TOOLS_MEMORY_SIMULATOR_MEMORY_SIMULATOR_H_
 #define TOOLS_MEMORY_SIMULATOR_MEMORY_SIMULATOR_H_
 

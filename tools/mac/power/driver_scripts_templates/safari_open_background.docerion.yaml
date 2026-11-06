@@ -1,0 +1,4 @@
+# Docerion header of safari_open_background.
+type: source
+title: Safari open background script template
+summary: Jinja template generating an AppleScript that opens background sites in Safari and waits for each page to finish loading.

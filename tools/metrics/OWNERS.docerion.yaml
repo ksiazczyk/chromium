@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for metrics tools reviews
+summary: Directs code reviews in this directory to chromium-metrics-reviews@google.com and inherits owners from base/metrics.

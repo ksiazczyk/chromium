@@ -1,6 +1,13 @@
 # Copyright 2021 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Trace parsing helpers
+# summary: Helper module that loads and parses Chrome memory-infra traces into Python objects for the other PartitionAlloc scripts.
+# ---
+
 """Parses traces into Python objects.
 
 Takes a trace from chrome://tracing and returns a Python dict containing the

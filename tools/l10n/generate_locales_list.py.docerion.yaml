@@ -1,0 +1,4 @@
+# Docerion header of generate_locales_list.py.
+type: source
+title: Generate the platform locale list for Chrome
+summary: Generates a sorted list of locales with strings for the current platform, invoked by the //ui/base:locales_list_gen build rule.
