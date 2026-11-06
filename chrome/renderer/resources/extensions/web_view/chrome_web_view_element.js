@@ -4,6 +4,12 @@
 
 // This module registers the chrome-specific <webview> Element.
 
+// ---docerion
+// type: source
+// title: Chrome-specific <webview> element registration
+// summary: Registers the ChromeWebViewElement custom element for <webview> and forwards its API methods to the Chrome implementation and internal bindings.
+// ---
+
 const ChromeWebViewImpl = require('chromeWebView').ChromeWebViewImpl;
 const forwardApiMethods =
     require('guestViewContainerElement').forwardApiMethods;

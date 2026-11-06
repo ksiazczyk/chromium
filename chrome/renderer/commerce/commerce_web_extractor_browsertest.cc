@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Commerce web extractor browser tests
+// summary: Browser tests verifying that the commerce web extractor extracts og:type meta tags from valid HTML and returns an empty result for invalid markup.
+// ---
+
 #include "chrome/test/base/chrome_render_view_test.h"
 #include "components/commerce/content/renderer/commerce_web_extractor.h"
 #include "components/commerce/core/commerce_constants.h"

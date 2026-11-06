@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Flash embed URL rewriting header
+// summary: Declares FlashEmbedRewrite, whose entry point dispatches to site-specific Flash-to-HTML5 URL rewrites.
+// ---
+
 #ifndef CHROME_RENDERER_MEDIA_FLASH_EMBED_REWRITE_H_
 #define CHROME_RENDERER_MEDIA_FLASH_EMBED_REWRITE_H_
 

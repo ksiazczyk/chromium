@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Drag and release tool implementation
+// summary: Implements the actor's drag and release tool, injecting mouse move, down, and up events to drag from one target point to another in the renderer.
+// ---
+
 #include "chrome/renderer/actor/drag_and_release_tool.h"
 
 #include "base/notimplemented.h"

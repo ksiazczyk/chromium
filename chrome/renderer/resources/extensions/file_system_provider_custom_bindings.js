@@ -4,6 +4,12 @@
 
 // Custom binding for the fileSystemProvider API.
 
+// ---docerion
+// type: source
+// title: fileSystemProvider custom bindings
+// summary: Custom binding for the fileSystemProvider API that validates returned metadata, thumbnail URIs and sizes, and error codes before delivering them to extensions.
+// ---
+
 const fileSystemProviderInternal = getInternalApi('fileSystemProviderInternal');
 
 /**

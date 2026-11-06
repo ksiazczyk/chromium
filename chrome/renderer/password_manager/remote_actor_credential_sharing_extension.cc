@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote actor credential sharing extension implementation
+// summary: Implements the renderer-side extension that exposes chrome.requestAgentAuthentication to authorized main frame origins and forwards requests over Mojo.
+// ---
+
 #include "chrome/renderer/password_manager/remote_actor_credential_sharing_extension.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome plugin placeholder class declaration
+// summary: Declares ChromePluginPlaceholder, a gin-wrappable loadable plugin placeholder with factories for blocked and missing plugins.
+// ---
+
 #ifndef CHROME_RENDERER_PLUGINS_CHROME_PLUGIN_PLACEHOLDER_H_
 #define CHROME_RENDERER_PLUGINS_CHROME_PLUGIN_PLACEHOLDER_H_
 

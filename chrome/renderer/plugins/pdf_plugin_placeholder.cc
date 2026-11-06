@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF plugin placeholder implementation
+// summary: Implements PDFPluginPlaceholder, which shows a click-to-open placeholder when the PDF plugin fails to load or is disabled.
+// ---
+
 #include "chrome/renderer/plugins/pdf_plugin_placeholder.h"
 
 #include "base/command_line.h"

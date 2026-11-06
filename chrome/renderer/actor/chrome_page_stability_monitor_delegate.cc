@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome page stability monitor delegate implementation
+// summary: Implements the Chrome-specific page stability delegate that logs stability events to the Actor Journal and creates renderer stability metrics.
+// ---
+
 #include "chrome/renderer/actor/chrome_page_stability_monitor_delegate.h"
 
 #include <memory>

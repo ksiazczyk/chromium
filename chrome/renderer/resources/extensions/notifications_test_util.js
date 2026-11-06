@@ -6,6 +6,12 @@
 // variables used by notifications_custom_bindings.js that are not
 // available with gtestjs tests.
 
+// ---docerion
+// type: test
+// title: Notifications test utility stubs
+// summary: Provides stubs for the global classes and variables used by the notifications custom bindings so they can run under gtestjs tests.
+// ---
+
 Object.assign(window, {
   apiBridge: {
     registerCustomHook: function() {},

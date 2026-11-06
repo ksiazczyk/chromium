@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IndigoAgent renderer-side implementation
+// summary: Implements the renderer agent that injects the Indigo content script into pages and exposes a gin-wrapped JavaScript context for image replacement and invoke handling.
+// ---
+
 #include "chrome/renderer/indigo/indigo_agent.h"
 
 #include <utility>

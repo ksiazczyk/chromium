@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SearchBox class header
+// summary: Declares the renderer-side SearchBox class implementing the embeddedSearch API with most-visited items, NTP theme, and omnibox key capture handling.
+// ---
+
 #ifndef CHROME_RENDERER_SEARCHBOX_SEARCHBOX_H_
 #define CHROME_RENDERER_SEARCHBOX_SEARCHBOX_H_
 

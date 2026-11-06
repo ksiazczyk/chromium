@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Policy activity log filter delegate unit tests
+// summary: Verifies the filter delegate returns true for high-risk events like cookie access and false for benign DOM actions.
+// ---
+
 #include "chrome/renderer/extensions/chrome_policy_activity_log_filter_delegate.h"
 
 #include "base/values.h"

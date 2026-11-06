@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for Chrome renderer extensions
+summary: Defines the extensions source set and unit test targets with their public headers, sources, and dependencies for the Chrome renderer.

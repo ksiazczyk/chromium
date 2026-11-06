@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media Galleries custom bindings header
+// summary: Declares MediaGalleriesCustomBindings, a native handler that implements custom bindings for the media galleries extension API, including the get media file system object route.
+// ---
+
 #ifndef CHROME_RENDERER_EXTENSIONS_API_MEDIA_GALLERIES_CUSTOM_BINDINGS_H_
 #define CHROME_RENDERER_EXTENSIONS_API_MEDIA_GALLERIES_CUSTOM_BINDINGS_H_
 

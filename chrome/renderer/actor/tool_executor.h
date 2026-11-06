@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tool executor class declaration
+// summary: Declares ToolExecutor, the renderer-side executor responsible for receiving tool request messages and invoking the requested tool in the renderer.
+// ---
+
 #ifndef CHROME_RENDERER_ACTOR_TOOL_EXECUTOR_H_
 #define CHROME_RENDERER_ACTOR_TOOL_EXECUTOR_H_
 

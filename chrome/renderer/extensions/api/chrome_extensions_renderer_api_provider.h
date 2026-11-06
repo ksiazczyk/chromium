@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome extensions renderer API provider header
+// summary: Declares the provider supplying capabilities for extension APIs defined at the Chrome layer in the extensions renderer.
+// ---
+
 #ifndef CHROME_RENDERER_EXTENSIONS_API_CHROME_EXTENSIONS_RENDERER_API_PROVIDER_H_
 #define CHROME_RENDERER_EXTENSIONS_API_CHROME_EXTENSIONS_RENDERER_API_PROVIDER_H_
 

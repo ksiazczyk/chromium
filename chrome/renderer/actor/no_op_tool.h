@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: No-op tool class declaration
+// summary: Declares the NoOpTool class, a tool that does nothing and is useful for validation and tool side effects.
+// ---
+
 #ifndef CHROME_RENDERER_ACTOR_NO_OP_TOOL_H_
 #define CHROME_RENDERER_ACTOR_NO_OP_TOOL_H_
 

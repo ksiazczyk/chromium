@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bound session request throttled in-renderer manager unit tests
+// summary: Unit tests using a fake Mojo handler to verify blocked request forwarding and the resume or cancel unblock actions.
+// ---
+
 #include "chrome/renderer/bound_session_credentials/bound_session_request_throttled_in_renderer_manager.h"
 
 #include <array>

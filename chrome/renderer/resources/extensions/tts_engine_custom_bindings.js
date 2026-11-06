@@ -4,6 +4,12 @@
 
 // Custom binding for the ttsEngine API.
 
+// ---docerion
+// type: source
+// title: TTS Engine custom bindings
+// summary: Custom binding for the chrome.ttsEngine API that reshapes onSpeak and onSpeakWithAudioStream event arguments and validates audio buffers sent back to the engine.
+// ---
+
 bindingUtil.registerEventArgumentMassager(
     'ttsEngine.onSpeak', function(args, dispatch) {
       const text = args[0];

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners with per-file review rules
+summary: Defines owners for the directory, including per-file owner rules for specific binding files such as automation, IME, and notifications.

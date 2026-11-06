@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the autofill renderer directory
+summary: Delegates directory ownership to the autofill OWNERS file and routes password-related files to the password manager owners.

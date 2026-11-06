@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the platform keys directory
+summary: Delegates code review ownership to the ChromeOS platform keys OWNERS file in chrome/browser.

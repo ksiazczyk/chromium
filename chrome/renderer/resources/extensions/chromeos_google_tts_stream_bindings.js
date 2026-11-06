@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo bindings for the ChromeOS Google TTS stream
+// summary: Loads the required Mojo bindings, connects to the GoogleTtsStream interface, and exports the resulting pointer for text-to-speech use.
+// ---
+
 'use strict';
 
 if ((typeof mojo === 'undefined') || !mojo.bindingsLibraryInitialized) {

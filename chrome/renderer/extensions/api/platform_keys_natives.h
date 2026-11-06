@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Platform Keys natives header
+// summary: Declares PlatformKeysNatives, a native handler that normalizes and validates WebCrypto algorithm parameters for the platformKeys extension API.
+// ---
+
 #ifndef CHROME_RENDERER_EXTENSIONS_API_PLATFORM_KEYS_NATIVES_H_
 #define CHROME_RENDERER_EXTENSIONS_API_PLATFORM_KEYS_NATIVES_H_
 

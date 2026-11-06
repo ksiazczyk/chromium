@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome resource request policy delegate header
+// summary: Declares the ChromeResourceRequestPolicyDelegate class that overrides ResourceRequestPolicy delegate hooks for frame origins and devtools page loads.
+// ---
+
 #ifndef CHROME_RENDERER_EXTENSIONS_CHROME_RESOURCE_REQUEST_POLICY_DELEGATE_H_
 #define CHROME_RENDERER_EXTENSIONS_CHROME_RESOURCE_REQUEST_POLICY_DELEGATE_H_
 

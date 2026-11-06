@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA
+summary: Directory metadata file that mixes in the common metadata from //pdf/COMMON_METADATA for the chrome/renderer/pdf directory.

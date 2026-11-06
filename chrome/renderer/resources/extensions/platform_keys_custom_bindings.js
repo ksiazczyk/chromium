@@ -4,6 +4,12 @@
 
 // Custom bindings for the platformKeys API.
 
+// ---docerion
+// type: source
+// title: Platform Keys API custom bindings
+// summary: Custom renderer bindings for the platformKeys API that create key objects, select client certificates, and expose a SubtleCrypto instance.
+// ---
+
 const SubtleCrypto = require('platformKeys.SubtleCrypto').SubtleCrypto;
 const cryptoKeyUtil = require('platformKeys.getCryptoKeyUtil');
 const getPublicKey = cryptoKeyUtil.getPublicKey;

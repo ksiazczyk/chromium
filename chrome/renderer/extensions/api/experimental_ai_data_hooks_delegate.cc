@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Experimental AI data API hooks delegate implementation
+// summary: Implements native hooks for the experimentalAiData API, converting between DOM nodes and DOM node IDs with document-scoped validation.
+// ---
+
 #include "chrome/renderer/extensions/api/experimental_ai_data_hooks_delegate.h"
 
 #include <cstdint>

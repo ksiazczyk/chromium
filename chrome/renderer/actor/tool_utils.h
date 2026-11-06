@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actor tool utilities header
+// summary: Declares actor tool helpers such as InteractionPointRefiner, node lookup, viewport checks and debug string conversion for tool targets.
+// ---
+
 #ifndef CHROME_RENDERER_ACTOR_TOOL_UTILS_H_
 #define CHROME_RENDERER_ACTOR_TOOL_UTILS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page auto fetcher helper Android class declaration
+// summary: Declares the PageAutoFetcherHelper class that wraps renderer-thread calls to the browser's OfflinePageAutoFetcher Mojo interface and records related UMA.
+// ---
+
 #ifndef CHROME_RENDERER_NET_PAGE_AUTO_FETCHER_HELPER_ANDROID_H_
 #define CHROME_RENDERER_NET_PAGE_AUTO_FETCHER_HELPER_ANDROID_H_
 

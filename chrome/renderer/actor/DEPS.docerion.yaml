@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Actor renderer include rules
+summary: DEPS file granting this directory include access to components/actor/core.

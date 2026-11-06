@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the web_view directory
+summary: Delegates code ownership of the web_view directory to the OWNERS file of components/guest_view.

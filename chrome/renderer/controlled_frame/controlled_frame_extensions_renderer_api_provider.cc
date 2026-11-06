@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Controlled Frame extensions renderer API provider implementation
+// summary: Registers Controlled Frame JS modules, the WebUrlPatternNatives handler, and the controlledframe custom element in the renderer bindings system.
+// ---
+
 #include "chrome/renderer/controlled_frame/controlled_frame_extensions_renderer_api_provider.h"
 
 #include <string_view>

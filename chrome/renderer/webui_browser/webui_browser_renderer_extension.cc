@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI browser renderer extension implementation
+// summary: Implements the renderer extension that injects the chrome.browser API, exposing custom element registration and iframe guest attachment only to same-origin WebUI browser frames.
+// ---
+
 #include "chrome/renderer/webui_browser/webui_browser_renderer_extension.h"
 
 #include "base/check.h"

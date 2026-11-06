@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaGalleries custom bindings implementation
+// summary: Implements custom bindings for the mediaGalleries API, constructing external file system objects from media file system mount URLs.
+// ---
+
 #include "chrome/renderer/extensions/api/media_galleries_custom_bindings.h"
 
 #include <string>

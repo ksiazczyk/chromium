@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Non-loadable plugin placeholder implementation
+// summary: Implements placeholders for plugins that cannot load, such as unsupported plugins and deprecated Adobe Flash Player.
+// ---
+
 #include "chrome/renderer/plugins/non_loadable_plugin_placeholder.h"
 
 #include "base/values.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Translate agent browser test
+// summary: Browser test for the renderer TranslateAgent, using a fake content translate driver and a test TFLite model to exercise language detection and page registration.
+// ---
+
 #include "components/translate/content/renderer/translate_agent.h"
 
 #include <memory>

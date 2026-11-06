@@ -4,6 +4,12 @@
 
 // Custom binding for the pageCapture API.
 
+// ---docerion
+// type: source
+// title: Page Capture API custom bindings
+// summary: Custom renderer binding for the pageCapture API that converts saved MHTML responses into blobs and acknowledges them back to the browser.
+// ---
+
 const handleUncaughtException = require('uncaught_exception_handler').handle;
 const pageCaptureNatives = requireNative('page_capture');
 const CreateBlob = pageCaptureNatives.CreateBlob;

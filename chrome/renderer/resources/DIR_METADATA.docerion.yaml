@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for renderer resources
+summary: Points this directory to the shared WebUI common metadata mixins.

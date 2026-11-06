@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password generation test utilities implementation
+// summary: Implements test helpers for the renderer password generation agent, including marking a form eligible for generation and building scripts that register field event listeners.
+// ---
+
 #include "chrome/renderer/autofill/password_generation_test_utils.h"
 
 #include "base/strings/escape.h"

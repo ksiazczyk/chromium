@@ -4,6 +4,12 @@
 
 // Custom binding for the webrtcDesktopCapturePrivate API.
 
+// ---docerion
+// type: source
+// title: WebRTC Desktop Capture Private custom bindings
+// summary: Custom binding for the webrtcDesktopCapturePrivate API that tracks pending chooseDesktopMedia requests by ID and supports cancelling them.
+// ---
+
 const idGenerator = requireNative('id_generator');
 
 apiBridge.registerCustomHook(function(bindingsAPI) {

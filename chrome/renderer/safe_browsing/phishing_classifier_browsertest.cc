@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the phishing classifier
+// summary: Parameterized browser tests that run the content phishing classifier and image embedder against a prepared flatbuffer client model and scorer.
+// ---
+
 #include <algorithm>
 #include <memory>
 #include <string>

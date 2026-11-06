@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Click tool implementation
+// summary: Implements the actor click tool, validating and resolving targets and executing clicks, including direct activation for occluded targets.
+// ---
+
 #include "chrome/renderer/actor/click_tool.h"
 
 #include <cstdint>

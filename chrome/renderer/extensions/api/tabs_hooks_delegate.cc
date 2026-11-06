@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tabs hooks delegate implementation
+// summary: Implements custom hooks for the tabs API handling tabs.connect, tabs.sendMessage and tabs.sendRequest messaging calls.
+// ---
+
 #include "chrome/renderer/extensions/api/tabs_hooks_delegate.h"
 
 #include <string_view>

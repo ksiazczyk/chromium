@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUIBrowserRendererExtension class declaration
+// summary: Declares the WebUIBrowserRendererExtension class, a RenderFrameObserver that injects the chrome.browser API with methods for custom element registration and iframe guest attachment.
+// ---
+
 #ifndef CHROME_RENDERER_WEBUI_BROWSER_WEBUI_BROWSER_RENDERER_EXTENSION_H_
 #define CHROME_RENDERER_WEBUI_BROWSER_WEBUI_BROWSER_RENDERER_EXTENSION_H_
 

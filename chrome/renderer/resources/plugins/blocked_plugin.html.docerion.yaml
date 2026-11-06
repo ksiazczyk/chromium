@@ -1,0 +1,4 @@
+# Docerion header of blocked_plugin.html.
+type: source
+title: Blocked plugin placeholder page
+summary: HTML template shown when a plugin is blocked, displaying an extension icon and a localized message, with scripts to update the message and notify the plugin of loading.

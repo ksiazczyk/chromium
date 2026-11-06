@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App API hooks delegate implementation
+// summary: Implements custom native hooks for the chrome.app API, including install state, running state, and details retrieval for hosted apps.
+// ---
+
 #include "chrome/renderer/extensions/api/app_hooks_delegate.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SearchBoxExtension header
+// summary: Declares the chrome.embeddedSearch JavaScript bindings installation and static helpers for dispatching focus, input, theme, and most-visited events.
+// ---
+
 #ifndef CHROME_RENDERER_SEARCHBOX_SEARCHBOX_EXTENSION_H_
 #define CHROME_RENDERER_SEARCHBOX_SEARCHBOX_EXTENSION_H_
 

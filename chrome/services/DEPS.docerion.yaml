@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Chrome services include dependency rules
+summary: Defines allowed include dependencies for code under chrome/services, blocking cross-service includes and permitting test-only metrics headers.

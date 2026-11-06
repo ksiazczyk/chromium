@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FileManagerPrivate custom bindings header
+// summary: Declares the ObjectBackedNativeHandler providing custom bindings for the fileManagerPrivate API's file system handlers.
+// ---
+
 #ifndef CHROME_RENDERER_EXTENSIONS_API_FILE_MANAGER_PRIVATE_CUSTOM_BINDINGS_H_
 #define CHROME_RENDERER_EXTENSIONS_API_FILE_MANAGER_PRIVATE_CUSTOM_BINDINGS_H_
 

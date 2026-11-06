@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetErrorHelperCore header
+// summary: Declares NetErrorHelperCore and its Delegate interface, isolating error page logic from RenderView and WebFrame so it can be tested without them.
+// ---
+
 #ifndef CHROME_RENDERER_NET_NET_ERROR_HELPER_CORE_H_
 #define CHROME_RENDERER_NET_NET_ERROR_HELPER_CORE_H_
 

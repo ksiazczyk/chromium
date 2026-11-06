@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Click dispatcher header
+// summary: Declares ClickDispatcher, which sequences mouse events for a click and leaves the page consistent when cancelled.
+// ---
+
 #ifndef CHROME_RENDERER_ACTOR_CLICK_DISPATCHER_H_
 #define CHROME_RENDERER_ACTOR_CLICK_DISPATCHER_H_
 

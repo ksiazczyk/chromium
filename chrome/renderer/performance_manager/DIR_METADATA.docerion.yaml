@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA
+summary: Points the renderer performance manager directory to the shared performance manager metadata mixins.

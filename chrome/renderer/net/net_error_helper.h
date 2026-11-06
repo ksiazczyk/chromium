@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetErrorHelper header
+// summary: Declares the NetErrorHelper class, a RenderFrameObserver that updates error pages with DNS probe results and exposes network diagnostics and easter egg support.
+// ---
+
 #ifndef CHROME_RENDERER_NET_NET_ERROR_HELPER_H_
 #define CHROME_RENDERER_NET_NET_ERROR_HELPER_H_
 

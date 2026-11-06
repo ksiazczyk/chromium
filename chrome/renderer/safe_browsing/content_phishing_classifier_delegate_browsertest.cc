@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the content phishing classifier delegate
+// summary: Exercises the content phishing classifier delegate with flatbuffer client models, checking phishing detection triggers, histograms, and page transitions.
+// ---
+
 #include "components/safe_browsing/content/renderer/phishing_classifier/content_phishing_classifier_delegate.h"
 
 #include <memory>

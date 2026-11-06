@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for chrome/renderer/net
+summary: Defines allowed include directories for the folder, covering error page, offline pages, security interstitials, and gin components.

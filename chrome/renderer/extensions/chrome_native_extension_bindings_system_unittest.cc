@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Native extension bindings system unit tests
+// summary: Tests Chrome-specific extension API bindings, covering context initialization and developer mode restrictions on the debugger API.
+// ---
+
 #include "base/strings/stringprintf.h"
 #include "base/test/scoped_feature_list.h"
 #include "extensions/buildflags/buildflags.h"

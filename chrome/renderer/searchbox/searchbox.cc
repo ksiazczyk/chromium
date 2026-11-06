@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SearchBox renderer implementation
+// summary: Implements the renderer-side SearchBox for the embeddedSearch API, including most-visited item caching and translation of restricted favicon URLs.
+// ---
+
 #include "chrome/renderer/searchbox/searchbox.h"
 
 #include <stddef.h>

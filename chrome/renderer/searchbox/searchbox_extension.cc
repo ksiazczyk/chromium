@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SearchBoxExtension JavaScript bindings implementation
+// summary: Implements the chrome.embeddedSearch JavaScript bindings, exposing NTP theme, most-visited items, and event dispatching to renderer frames.
+// ---
+
 #include "chrome/renderer/searchbox/searchbox_extension.h"
 
 #include <stddef.h>

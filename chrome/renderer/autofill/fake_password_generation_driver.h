@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake password generation driver header
+// summary: Declares a gmock fake of the PasswordGenerationDriver Mojo interface covering password generation and editing calls.
+// ---
+
 #ifndef CHROME_RENDERER_AUTOFILL_FAKE_PASSWORD_GENERATION_DRIVER_H_
 #define CHROME_RENDERER_AUTOFILL_FAKE_PASSWORD_GENERATION_DRIVER_H_
 

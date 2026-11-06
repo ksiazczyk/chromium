@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox API custom bindings
+// summary: Custom renderer bindings for the omnibox API that parse XML suggestion descriptions into styles, sanitize text, and validate and convert action icon data.
+// ---
+
 // Custom binding for the omnibox API. Only injected into the v8 contexts
 // for extensions which have permission for the omnibox API.
 const inServiceWorker = requireNative('utils').isInServiceWorker();

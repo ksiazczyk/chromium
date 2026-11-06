@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Notifications custom bindings tests
+// summary: gtestjs tests asserting the behavior of imageDataSetter and getUrlSpecs, including scaled image size handling for notification icons and buttons.
+// ---
+
 function assertTrue(condition) {
   if (!condition) {
     throw new Error('Assertion failed: expected ' + condition + ' to be true');

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Controlled Frame renderer GN build file
+summary: GN build configuration defining the controlled_frame source set and its browser test target with sources and dependencies.

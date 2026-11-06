@@ -4,6 +4,12 @@
 
 // Custom binding for the webrtcLoggingPrivate API.
 
+// ---docerion
+// type: source
+// title: WebRTC Logging Private custom bindings
+// summary: Custom binding for the webrtcLoggingPrivate API that binds the getLogsDirectory callback to the shared file entry directory callback helper.
+// ---
+
 const getBindDirectoryEntryCallback =
     require('fileEntryBindingUtil').getBindDirectoryEntryCallback;
 

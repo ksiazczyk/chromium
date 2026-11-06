@@ -1,0 +1,4 @@
+# Docerion header of disabled_plugin.html.
+type: source
+title: Disabled plugin placeholder page
+summary: HTML template shown for a disabled plugin, displaying an extension icon and a localized message using the shared placeholder stylesheet.

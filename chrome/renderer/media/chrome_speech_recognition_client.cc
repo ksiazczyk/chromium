@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome speech recognition client implementation
+// summary: Implements the renderer-side client that captures, converts and sends audio to the speech recognition service over Mojo.
+// ---
+
 #include "chrome/renderer/media/chrome_speech_recognition_client.h"
 
 #include <utility>

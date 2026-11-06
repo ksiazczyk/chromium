@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote Apps Mojo bindings for the renderer
+// summary: JavaScript bindings that expose a RemoteAppsAdapter for adding and deleting ChromeOS launcher apps and folders and observing remote app launches via Mojo.
+// ---
+
 'use strict';
 
 if ((typeof mojo === 'undefined') || !mojo.bindingsLibraryInitialized) {

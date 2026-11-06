@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for renderer extensions dependencies
+summary: Grants the directory access to media, PDF, metrics, and network service headers in Chromium dependency checks.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome extensions renderer API provider implementation
+// summary: Registers Chrome-specific extension API native handlers, hooks delegates, and resource bindings in the extensions renderer.
+// ---
+
 #include "chrome/renderer/extensions/api/chrome_extensions_renderer_api_provider.h"
 
 #include <string_view>

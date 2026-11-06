@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Supervised user renderer directory metadata
+summary: Directory metadata for the supervised user renderer folder, referencing the common supervised_user metadata mixins.

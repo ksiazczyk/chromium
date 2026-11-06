@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for ThreatDOMDetails resource extraction
+// summary: Checks that ThreatDOMDetails extracts DOM nodes, scripts, and configured tag attributes from loaded pages, respecting node and attribute limits.
+// ---
+
 #include "components/safe_browsing/content/renderer/threat_dom_details.h"
 
 #include <memory>

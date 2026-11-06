@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Click tool header
+// summary: Declares ClickTool, a ToolBase subclass that performs clicks on resolved targets using ClickDispatcher.
+// ---
+
 #ifndef CHROME_RENDERER_ACTOR_CLICK_TOOL_H_
 #define CHROME_RENDERER_ACTOR_CLICK_TOOL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Platform Keys natives implementation
+// summary: Implements native handler functions for the platformKeys API, normalizing WebCrypto algorithm parameters and converting them to V8 values for operations such as GenerateKey, ImportKey, Sign and Verify.
+// ---
+
 #include "chrome/renderer/extensions/api/platform_keys_natives.h"
 
 #include <memory>

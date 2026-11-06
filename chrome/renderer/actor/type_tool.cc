@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Type tool implementation
+// summary: Implements the actor tool that simulates typing text into a target DOM node by dispatching click and keyboard events.
+// ---
+
 #include "chrome/renderer/actor/type_tool.h"
 
 #include <optional>

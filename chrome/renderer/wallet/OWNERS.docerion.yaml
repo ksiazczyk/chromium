@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Wallet renderer OWNERS file
+summary: Delegates code ownership of the wallet renderer folder to the OWNERS file of components/wallet.

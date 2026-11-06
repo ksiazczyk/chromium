@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mouse move tool implementation
+// summary: Implements the MouseMoveTool that validates a target and dispatches a mouse move event over it in the renderer.
+// ---
+
 #include "chrome/renderer/actor/mouse_move_tool.h"
 
 #include <optional>

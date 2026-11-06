@@ -1,0 +1,4 @@
+# Docerion header of renderer_resources.grd.
+type: config
+title: GRIT resource list for renderer resources
+summary: GRIT XML that packs plugin HTML pages into renderer resource pak outputs.

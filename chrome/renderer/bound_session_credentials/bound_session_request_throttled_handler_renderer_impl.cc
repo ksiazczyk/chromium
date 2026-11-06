@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bound session request throttled handler renderer implementation
+// summary: Implements the renderer-side handler that forwards requests blocked on bound session cookies to the manager on the IO thread.
+// ---
+
 #include "chrome/renderer/bound_session_credentials/bound_session_request_throttled_handler_renderer_impl.h"
 
 #include <memory>

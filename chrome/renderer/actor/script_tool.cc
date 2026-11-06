@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Script tool implementation
+// summary: Implements ScriptTool, which invokes a declared script tool in the frame's document and maps its results, annotations, and errors into actor action results.
+// ---
+
 #include "chrome/renderer/actor/script_tool.h"
 
 #include <memory>

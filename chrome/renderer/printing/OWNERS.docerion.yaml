@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the printing renderer directory
+summary: Sets code review ownership for this directory by including the owners listed in the referenced printing/OWNERS file.

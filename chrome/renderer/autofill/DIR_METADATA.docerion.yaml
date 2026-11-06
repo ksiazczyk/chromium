@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for the autofill renderer directory
+summary: Points the chrome/renderer/autofill directory to the shared autofill COMMON_METADATA mixins.

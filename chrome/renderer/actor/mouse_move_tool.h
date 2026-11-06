@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mouse move tool class declaration
+// summary: Declares the MouseMoveTool class for performing mouse move actions over targets.
+// ---
+
 #ifndef CHROME_RENDERER_ACTOR_MOUSE_MOVE_TOOL_H_
 #define CHROME_RENDERER_ACTOR_MOUSE_MOVE_TOOL_H_
 

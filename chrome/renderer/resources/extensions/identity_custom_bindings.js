@@ -4,6 +4,12 @@
 
 // Custom binding for the Identity API.
 
+// ---docerion
+// type: source
+// title: Identity custom bindings
+// summary: Custom binding for the Identity API that implements getRedirectURL, building the https redirect endpoint for the extension's chromiumapp.org domain.
+// ---
+
 apiBridge.registerCustomHook(function(binding, id, contextType) {
   const apiFunctions = binding.apiFunctions;
 

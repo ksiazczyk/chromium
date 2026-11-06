@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy activity log filter delegate header
+// summary: Declares Chrome's policy activity log filter delegate that identifies high-risk behaviors such as session hijacking and script injection.
+// ---
+
 #ifndef CHROME_RENDERER_EXTENSIONS_CHROME_POLICY_ACTIVITY_LOG_FILTER_DELEGATE_H_
 #define CHROME_RENDERER_EXTENSIONS_CHROME_POLICY_ACTIVITY_LOG_FILTER_DELEGATE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notifications API custom bindings
+// summary: Custom renderer bindings for the notifications API that download and scale notification icons and images before dispatching create, update, and clear calls.
+// ---
+
 // Custom bindings for the notifications API.
 //
 const exceptionHandler = require('uncaught_exception_handler');

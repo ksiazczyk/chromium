@@ -1,3 +1,13 @@
+---
+type: readme
+title: Controlled Frame renderer implementation overview
+summary: Explains the renderer-side Controlled Frame components for Isolated Web Apps and links to companion common and browser documentation.
+relations:
+  - references /chrome/browser/controlled_frame/README.md
+  - references /chrome/common/controlled_frame/README.md
+  - documents /chrome/renderer/controlled_frame/web_url_pattern_natives.cc
+---
+
 # Controlled Frame Renderer Implementation (`chrome/renderer/controlled_frame`)
 
 This directory contains the renderer-process C++ bindings and native handlers

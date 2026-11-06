@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Controlled frame renderer resources build file
+summary: GN build file that bundles the controlled frame JavaScript resources into a generated .grdp resource list.

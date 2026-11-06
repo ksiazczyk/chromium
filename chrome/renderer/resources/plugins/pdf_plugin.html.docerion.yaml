@@ -1,0 +1,4 @@
+# Docerion header of pdf_plugin.html.
+type: source
+title: PDF plugin placeholder page
+summary: HTML template for the PDF viewer placeholder in WebView, showing the file name and an open button that triggers the PDF download or navigation.

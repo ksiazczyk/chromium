@@ -4,6 +4,12 @@
 
 // Custom binding for the Media Gallery API.
 
+// ---docerion
+// type: source
+// title: Media Galleries API custom bindings
+// summary: Custom renderer bindings for the chrome.mediaGalleries API that build file system objects, track gallery metadata, and keep blobs alive during metadata parsing.
+// ---
+
 const blobNatives = requireNative('blob_natives');
 const mediaGalleriesNatives = requireNative('mediaGalleries');
 

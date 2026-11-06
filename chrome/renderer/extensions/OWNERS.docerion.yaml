@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners file for renderer extensions
+summary: Delegates ownership approvals to the owners file of the top-level extensions directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Key import and public key retrieval helpers
+// summary: Normalizes asymmetric key import parameters and exposes getPublicKey, getPublicKeyBySpki, and getSymKeyById over the platformKeysInternal API.
+// ---
+
 const internalAPI = getInternalApi('platformKeysInternal');
 
 const normalizeAlgorithm =

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the renderer media directory
+summary: Lists directory owners and per-file owner rules for speech recognition and EME key system changes.

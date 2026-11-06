@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page Capture custom bindings header
+// summary: Declares PageCaptureCustomBindings, a native handler for the pageCapture API with routes for creating file blobs and sending response acknowledgements.
+// ---
+
 #ifndef CHROME_RENDERER_EXTENSIONS_API_PAGE_CAPTURE_CUSTOM_BINDINGS_H_
 #define CHROME_RENDERER_EXTENSIONS_API_PAGE_CAPTURE_CUSTOM_BINDINGS_H_
 

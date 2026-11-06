@@ -4,6 +4,12 @@
 
 // Custom binding for the syncFileSystem API.
 
+// ---docerion
+// type: source
+// title: Sync File System API custom bindings
+// summary: Custom renderer bindings for the syncFileSystem API that convert FileEntry and DOMFileSystem arguments to URLs and reformat file status events.
+// ---
+
 const fileSystemNatives = requireNative('file_system_natives');
 const syncFileSystemNatives = requireNative('sync_file_system');
 

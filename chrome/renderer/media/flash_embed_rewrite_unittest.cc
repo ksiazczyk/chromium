@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Flash embed URL rewriting
+// summary: Tests rewriting of YouTube, Dailymotion and Vimeo Flash embed URLs, including parameter fixing and non-Flash cases.
+// ---
+
 #include "chrome/renderer/media/flash_embed_rewrite.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

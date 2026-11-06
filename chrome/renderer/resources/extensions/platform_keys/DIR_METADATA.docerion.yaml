@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for the platform keys directory
+summary: Maps the platform keys directory to Buganizer components for public and internal issue tracking.

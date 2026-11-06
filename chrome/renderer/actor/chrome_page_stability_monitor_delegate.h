@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome page stability monitor delegate header
+// summary: Declares ChromePageStabilityMonitorDelegate, which routes page stability monitor events into the Actor Journal.
+// ---
+
 #ifndef CHROME_RENDERER_ACTOR_CHROME_PAGE_STABILITY_MONITOR_DELEGATE_H_
 #define CHROME_RENDERER_ACTOR_CHROME_PAGE_STABILITY_MONITOR_DELEGATE_H_
 

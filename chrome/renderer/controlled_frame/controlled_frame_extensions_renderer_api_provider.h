@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Controlled Frame extensions renderer API provider header
+// summary: Declares the provider class that supplies Controlled Frame API sources, custom element allowlisting, and WebView module requirements.
+// ---
+
 #ifndef CHROME_RENDERER_CONTROLLED_FRAME_CONTROLLED_FRAME_EXTENSIONS_RENDERER_API_PROVIDER_H_
 #define CHROME_RENDERER_CONTROLLED_FRAME_CONTROLLED_FRAME_EXTENSIONS_RENDERER_API_PROVIDER_H_
 

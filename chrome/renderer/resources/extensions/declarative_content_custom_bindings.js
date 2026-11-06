@@ -4,6 +4,12 @@
 
 // Custom binding for the declarativeContent API.
 
+// ---docerion
+// type: source
+// title: Custom bindings for the chrome.declarativeContent API
+// summary: Custom binding that wraps declarativeContent.SetIcon with renderer-side validation while other types are validated natively.
+// ---
+
 const setIcon = require('setIcon').setIcon;
 
 apiBridge.registerCustomHook(function(api) {

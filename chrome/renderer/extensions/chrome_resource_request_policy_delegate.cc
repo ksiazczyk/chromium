@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome resource request policy delegate implementation
+// summary: Implements Chrome-specific resource request policy rules, always allowing requests from chrome-search frame origins and permitting loads of extensions' devtools pages.
+// ---
+
 #include "chrome/renderer/extensions/chrome_resource_request_policy_delegate.h"
 
 #include "chrome/common/url_constants.h"

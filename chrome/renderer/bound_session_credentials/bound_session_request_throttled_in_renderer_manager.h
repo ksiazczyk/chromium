@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bound session request throttled in-renderer manager header
+// summary: Declares the renderer-side manager that forwards bound session cookie-blocked requests to the browser and cancels them if the Mojo connection closes.
+// ---
+
 #ifndef CHROME_RENDERER_BOUND_SESSION_CREDENTIALS_BOUND_SESSION_REQUEST_THROTTLED_IN_RENDERER_MANAGER_H_
 #define CHROME_RENDERER_BOUND_SESSION_CREDENTIALS_BOUND_SESSION_REQUEST_THROTTLED_IN_RENDERER_MANAGER_H_
 

@@ -4,6 +4,12 @@
 
 // Custom binding for the Tab Capture API.
 
+// ---docerion
+// type: source
+// title: Tab Capture custom bindings
+// summary: Custom binding for the Tab Capture API that proxies the capture callback to navigator.mediaDevices.getUserMedia and maps errors to runtime.lastError messages.
+// ---
+
 apiBridge.registerCustomHook(function(bindingsAPI, extensionId) {
   function proxyToGetUserMedia(callback, response) {
     if (!callback) {

@@ -5,6 +5,12 @@
 // Custom binding for the input ime API. Only injected into the
 // v8 contexts for extensions which have permission for the API.
 
+// ---docerion
+// type: source
+// title: input.ime custom bindings
+// summary: Custom binding for the input.ime API that dispatches onKeyEvent results back to the browser, restricts listener arguments, and resolves createWindow callbacks to frame views.
+// ---
+
 const appWindowNatives = requireNative('app_window_natives');
 
 let keyEventHandled;

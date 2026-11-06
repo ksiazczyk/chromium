@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Translate renderer OWNERS
+summary: OWNERS file that delegates code ownership of the chrome/renderer/translate directory to components/translate/OWNERS.

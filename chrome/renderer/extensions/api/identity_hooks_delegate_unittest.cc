@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for identity getAuthToken hooks delegate
+// summary: Unit tests verifying that the identity getAuthToken hook fulfills promise-based calls with a single result object and callback-based calls with multiple arguments.
+// ---
+
 #include "chrome/renderer/extensions/api/identity_hooks_delegate.h"
 
 #include "extensions/buildflags/buildflags.h"

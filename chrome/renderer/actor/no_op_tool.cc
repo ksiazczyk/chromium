@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: No-op tool implementation
+// summary: Implements the NoOpTool that validates a target and then completes without performing any action.
+// ---
+
 #include "chrome/renderer/actor/no_op_tool.h"
 
 #include "base/notimplemented.h"

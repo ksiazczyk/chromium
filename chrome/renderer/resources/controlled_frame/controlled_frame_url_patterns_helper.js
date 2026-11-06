@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Controlled frame URL patterns helper
+// summary: Converts URLPattern objects or strings into extension match patterns for use by Controlled Frame APIs.
+// ---
+
 const WebUrlPatternNatives = requireNative('WebUrlPatternNatives');
 
 function convertURLPatternsToMatchPatterns(urlPatternsStrsOrObjs) {

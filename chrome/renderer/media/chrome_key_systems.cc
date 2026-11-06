@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome key systems registration implementation
+// summary: Registers the EME key systems supported by the chrome layer for a render frame via the CDM key system support updater.
+// ---
+
 #include "chrome/renderer/media/chrome_key_systems.h"
 
 #include "chrome/renderer/process_state.h"

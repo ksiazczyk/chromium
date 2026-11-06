@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Controlled frame internal custom bindings
+// summary: Registers custom bindings for the controlledFrameInternal API's context menus create and update request handlers.
+// ---
+
 const contextMenusHandlers = require('contextMenusHandlers');
 
 apiBridge.registerCustomHook(function(bindingsAPI) {

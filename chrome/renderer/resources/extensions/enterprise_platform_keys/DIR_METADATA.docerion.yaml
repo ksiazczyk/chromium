@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Enterprise platform keys directory metadata
+summary: Declares the Buganizer component IDs used to track bugs for the enterprise platform keys directory.

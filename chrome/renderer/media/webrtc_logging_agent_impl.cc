@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebRTC logging agent implementation
+// summary: Implements the renderer-side WebRtcLoggingAgent Mojo service that buffers WebRTC log messages and forwards them to a browser-side logging client.
+// ---
+
 #include "chrome/renderer/media/webrtc_logging_agent_impl.h"
 
 #include "base/no_destructor.h"

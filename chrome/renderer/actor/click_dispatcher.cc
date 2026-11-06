@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Click dispatcher implementation
+// summary: Implements the mouse move, down and up event sequence for clicks, with delays, optional move-before-click and cancellation that lifts the mouse.
+// ---
+
 #include "chrome/renderer/actor/click_dispatcher.h"
 
 #include <utility>

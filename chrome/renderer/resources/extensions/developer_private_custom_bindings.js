@@ -4,6 +4,12 @@
 
 // Custom binding for the developerPrivate API.
 
+// ---docerion
+// type: source
+// title: developerPrivate custom bindings
+// summary: Custom binding for the developerPrivate API that converts DirectoryEntry arguments to URLs for loadDirectory and validates parameters when opening DevTools via inspect.
+// ---
+
 apiBridge.registerCustomHook(function(bindingsAPI) {
   const apiFunctions = bindingsAPI.apiFunctions;
 

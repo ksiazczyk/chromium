@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actor tool utilities implementation
+// summary: Implements helper functions for actor tools, including hit box computation, interaction point refinement and node lookup in render frames.
+// ---
+
 #include "chrome/renderer/actor/tool_utils.h"
 
 #include <algorithm>

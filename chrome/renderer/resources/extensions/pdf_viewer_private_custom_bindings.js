@@ -4,6 +4,12 @@
 
 // Custom binding for the pdfViewerPrivate API.
 
+// ---docerion
+// type: source
+// title: PDF Viewer Private API custom bindings
+// summary: Custom renderer binding for the pdfViewerPrivate API that forwards getTextInfo font queries to native code with success and failure callbacks.
+// ---
+
 const pdfViewerPrivateNatives = requireNative('pdf_viewer_private');
 
 apiBridge.registerCustomHook(function(bindingsAPI) {

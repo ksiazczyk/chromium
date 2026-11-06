@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Translate renderer directory metadata
+summary: DIR_METADATA file that mixes in the common metadata from //components/translate for the chrome/renderer/translate directory.

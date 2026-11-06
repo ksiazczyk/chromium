@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Supervised user error page controller implementation
+// summary: Implements the gin-wrappable controller that exposes go-back and remote or local URL access request actions to supervised user interstitial pages.
+// ---
+
 #include "chrome/renderer/supervised_user/supervised_user_error_page_controller.h"
 
 #include "base/functional/bind.h"

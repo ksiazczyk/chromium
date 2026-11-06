@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web URL pattern natives implementation
+// summary: Implements the V8 handler that validates blink URL patterns and converts them into extension match-pattern strings for Controlled Frame rules.
+// ---
+
 #include "chrome/renderer/controlled_frame/web_url_pattern_natives.h"
 
 #include <algorithm>

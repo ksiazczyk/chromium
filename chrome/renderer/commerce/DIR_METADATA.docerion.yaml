@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the commerce renderer
+summary: Declares the shopping UI monorail component, team email, and Buganizer component that own this directory.

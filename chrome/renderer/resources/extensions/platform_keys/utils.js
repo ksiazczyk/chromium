@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Array intersection utility
+// summary: Provides an intersect helper that returns the elements common to two unsorted arrays.
+// ---
+
 // Returns the intersection of the arrays |a| and |b|, which do not have to be
 // sorted.
 function intersect(a, b) {

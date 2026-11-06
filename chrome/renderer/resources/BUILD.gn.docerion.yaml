@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Renderer resources GN build file
+summary: GN build rules that generate GRD/GRDP resource bundles for Chrome renderer extension and ChromeOS Mojo scripts.
