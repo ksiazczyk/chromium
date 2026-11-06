@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for the bluetooth_config service
+summary: Defines the bluetooth_config static library, the in_process_bluetooth_config component, and a test_support library with their sources and dependencies.

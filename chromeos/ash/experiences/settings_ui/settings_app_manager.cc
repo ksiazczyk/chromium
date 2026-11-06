@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SettingsAppManager implementation
+// summary: Implements the SettingsAppManager singleton and the CreateAppManagementPagePath helper for building app details subpage URLs.
+// ---
+
 #include "chromeos/ash/experiences/settings_ui/settings_app_manager.h"
 
 #include "ash/webui/settings/public/constants/routes.mojom.h"

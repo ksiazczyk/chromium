@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OTA activator base implementation
+// summary: Implements the OtaActivator base class, providing remote generation for the carrier portal handler and invocation of the finished callback.
+// ---
+
 #include "chromeos/ash/services/cellular_setup/ota_activator.h"
 
 #include <utility>

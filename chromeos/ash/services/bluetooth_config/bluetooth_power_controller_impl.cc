@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth power controller implementation
+// summary: Implements BluetoothPowerController by saving the Bluetooth power state to profile or local state prefs and applying it to the adapter, including HID detection handling.
+// ---
+
 #include "chromeos/ash/services/bluetooth_config/bluetooth_power_controller_impl.h"
 
 #include "ash/constants/ash_pref_names.h"

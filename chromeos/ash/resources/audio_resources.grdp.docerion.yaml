@@ -1,0 +1,4 @@
+# Docerion header of audio_resources.grdp.
+type: config
+title: Ash audio sound resources grit part
+summary: Grit part listing Ash sound resources for accessibility, power charging, focus mode, and a brand-dependent startup sound.

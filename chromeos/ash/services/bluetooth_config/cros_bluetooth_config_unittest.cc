@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CrosBluetoothConfig unit tests
+// summary: Tests initialization, preference registration, and mojo binding of CrosBluetoothConfig using a mock Bluetooth adapter, fake delegates, and observers.
+// ---
+
 #include "chromeos/ash/services/bluetooth_config/cros_bluetooth_config.h"
 
 #include <memory>

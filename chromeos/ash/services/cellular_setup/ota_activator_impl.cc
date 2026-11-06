@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OTA activator implementation
+// summary: Implements the over-the-air cellular SIM activation flow, including modem reset, connection retries, carrier portal payment tracking, and final activation via Shill.
+// ---
+
 #include "chromeos/ash/services/cellular_setup/ota_activator_impl.h"
 
 #include <sstream>

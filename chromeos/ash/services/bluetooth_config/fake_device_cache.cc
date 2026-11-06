@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeDeviceCache implementation
+// summary: Implements a fake DeviceCache that stores test paired and unpaired devices and notifies observers of list changes.
+// ---
+
 #include "chromeos/ash/services/bluetooth_config/fake_device_cache.h"
 
 namespace ash::bluetooth_config {

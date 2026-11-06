@@ -1,0 +1,4 @@
+# Docerion header of state.mojom.
+type: source
+title: Cros healthd connectivity test state Mojom interfaces
+summary: Defines the State and ConnectivityTestProvider Mojom interfaces used to sync connectivity test state and bootstrap test objects between processes, kept in sync with the platform2 diagnostics copy.

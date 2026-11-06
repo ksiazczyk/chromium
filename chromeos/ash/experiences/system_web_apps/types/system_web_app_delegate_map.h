@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SystemWebAppDelegateMap typedef and lookup header
+// summary: Declares the SystemWebAppDelegateMap flat map type and the helper function to fetch the delegate for a given app type.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_SYSTEM_WEB_APPS_TYPES_SYSTEM_WEB_APP_DELEGATE_MAP_H_
 #define CHROMEOS_ASH_EXPERIENCES_SYSTEM_WEB_APPS_TYPES_SYSTEM_WEB_APP_DELEGATE_MAP_H_
 

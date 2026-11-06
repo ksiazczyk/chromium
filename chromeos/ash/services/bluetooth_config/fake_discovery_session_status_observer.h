@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeDiscoverySessionStatusObserver header
+// summary: Declares a fake DiscoverySessionStatusObserver that tracks whether at least one discovery session exists and counts change callbacks in tests.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_BLUETOOTH_CONFIG_FAKE_DISCOVERY_SESSION_STATUS_OBSERVER_H_
 #define CHROMEOS_ASH_SERVICES_BLUETOOTH_CONFIG_FAKE_DISCOVERY_SESSION_STATUS_OBSERVER_H_
 

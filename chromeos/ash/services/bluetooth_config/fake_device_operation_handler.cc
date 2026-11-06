@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeDeviceOperationHandler implementation
+// summary: Implements the fake device operation handler, counting connect calls and letting tests complete or inspect pending device operations.
+// ---
+
 #include "chromeos/ash/services/bluetooth_config/fake_device_operation_handler.h"
 
 namespace ash::bluetooth_config {

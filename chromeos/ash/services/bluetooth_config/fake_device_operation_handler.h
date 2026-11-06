@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeDeviceOperationHandler
+// summary: Declares a fake DeviceOperationHandler that records connect calls and lets tests manually complete pending operations.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_BLUETOOTH_CONFIG_FAKE_DEVICE_OPERATION_HANDLER_H_
 #define CHROMEOS_ASH_SERVICES_BLUETOOTH_CONFIG_FAKE_DEVICE_OPERATION_HANDLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bluetooth device status notifier unit tests
+// summary: Unit tests for BluetoothDeviceStatusNotifierImpl covering pairing, connection and disconnection notifications and suspend cooldown behavior using fake components.
+// ---
+
 #include "chromeos/ash/services/bluetooth_config/bluetooth_device_status_notifier_impl.h"
 
 #include <memory>

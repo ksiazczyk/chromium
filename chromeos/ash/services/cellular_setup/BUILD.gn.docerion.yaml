@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the cellular setup service
+summary: Defines GN build targets for the cellular setup service, including the cellular_setup and esim_manager libraries, in-process eSIM manager component, test support, and unit tests.

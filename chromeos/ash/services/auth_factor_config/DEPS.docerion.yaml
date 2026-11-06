@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for auth_factor_config
+summary: Lists the include directories that code in the auth_factor_config service is allowed to depend on.

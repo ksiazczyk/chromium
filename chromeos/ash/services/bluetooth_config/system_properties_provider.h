@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System Bluetooth properties provider interface
+// summary: Declares the SystemPropertiesProvider base class that manages observers and provides system Bluetooth properties like availability and on/off state.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_BLUETOOTH_CONFIG_SYSTEM_PROPERTIES_PROVIDER_H_
 #define CHROMEOS_ASH_SERVICES_BLUETOOTH_CONFIG_SYSTEM_PROPERTIES_PROVIDER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Auth factor config helper functions
+// summary: Provides helpers to classify Gaia and local password factors and to fail requests with an invalid token error.
+// ---
+
 #include "chromeos/ash/services/auth_factor_config/auth_factor_config_utils.h"
 
 #include "base/syslog_logging.h"

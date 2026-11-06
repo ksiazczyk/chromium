@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CloudSafetySession class header
+// summary: Declares CloudSafetySession, a mojo service that uses the Manta WalrusProvider to connect to the cloud safety classifier server.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_CROS_SAFETY_CLOUD_SAFETY_SESSION_H_
 #define CHROMEOS_ASH_SERVICES_CROS_SAFETY_CLOUD_SAFETY_SESSION_H_
 

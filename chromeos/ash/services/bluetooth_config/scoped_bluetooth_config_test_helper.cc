@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scoped test helper with fake Bluetooth config implementations
+// summary: Implements a scoped test helper that overrides the in-process CrosBluetoothConfig with fake implementations and exposes them to tests.
+// ---
+
 #include "chromeos/ash/services/bluetooth_config/scoped_bluetooth_config_test_helper.h"
 
 #include "chromeos/ash/services/bluetooth_config/fake_adapter_state_controller.h"

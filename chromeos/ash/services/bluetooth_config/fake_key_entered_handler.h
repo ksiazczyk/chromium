@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeKeyEnteredHandler header
+// summary: Declares a fake KeyEnteredHandler that captures passkey key-entry events and exposes Mojo connection state for tests.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_BLUETOOTH_CONFIG_FAKE_KEY_ENTERED_HANDLER_H_
 #define CHROMEOS_ASH_SERVICES_BLUETOOTH_CONFIG_FAKE_KEY_ENTERED_HANDLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScreenshotArea struct and ScreenshotType enum declaration
+// summary: Declares the ScreenshotType enum and the ScreenshotArea struct that represents the target area of a screenshot, with its window and optional rect.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_SCREENSHOT_AREA_SCREENSHOT_AREA_H_
 #define CHROMEOS_ASH_EXPERIENCES_SCREENSHOT_AREA_SCREENSHOT_AREA_H_
 

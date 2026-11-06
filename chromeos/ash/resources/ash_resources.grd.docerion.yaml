@@ -1,0 +1,4 @@
+# Docerion header of ash_resources.grd.
+type: config
+title: Ash resources grit resource definition
+summary: Grit XML definition declaring the generated headers and pak output for Ash resources and including the audio, growth, scalable IPH, and scanner resource parts.

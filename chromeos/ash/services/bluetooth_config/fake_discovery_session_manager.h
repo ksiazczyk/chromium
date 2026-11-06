@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeDiscoverySessionManager header
+// summary: Header for a fake DiscoverySessionManager that lets tests toggle discovery session state and inspect created fake device pairing handlers.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_BLUETOOTH_CONFIG_FAKE_DISCOVERY_SESSION_MANAGER_H_
 #define CHROMEOS_ASH_SERVICES_BLUETOOTH_CONFIG_FAKE_DISCOVERY_SESSION_MANAGER_H_
 

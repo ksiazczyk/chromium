@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: In-process instance API for CrosBluetoothConfig
+// summary: Declares functions to initialize, shut down, update preferences for, and bind to the in-process CrosBluetoothConfig instance, including test overrides.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_BLUETOOTH_CONFIG_IN_PROCESS_INSTANCE_H_
 #define CHROMEOS_ASH_SERVICES_BLUETOOTH_CONFIG_IN_PROCESS_INSTANCE_H_
 

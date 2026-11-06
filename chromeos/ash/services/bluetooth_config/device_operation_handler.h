@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceOperationHandler interface
+// summary: Declares DeviceOperationHandler, which manages queued Bluetooth device operations such as connect, disconnect, and forget while Bluetooth is enabled.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_BLUETOOTH_CONFIG_DEVICE_OPERATION_HANDLER_H_
 #define CHROMEOS_ASH_SERVICES_BLUETOOTH_CONFIG_DEVICE_OPERATION_HANDLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceCache interface
+// summary: Declares the abstract DeviceCache that caches known Bluetooth devices, with sorted getters for paired and unpaired devices plus an observer interface for list updates.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_BLUETOOTH_CONFIG_DEVICE_CACHE_H_
 #define CHROMEOS_ASH_SERVICES_BLUETOOTH_CONFIG_DEVICE_CACHE_H_
 

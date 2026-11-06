@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for cros_safety
+summary: Defines include rules restricting which ARC, manta, and session manager headers and components this directory may depend on.

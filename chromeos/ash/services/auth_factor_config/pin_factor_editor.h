@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PinFactorEditor mojo service header
+// summary: Declares the PinFactorEditor class implementing the mojom::PinFactorEditor interface for managing PIN auth factors and their complexity checks.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_AUTH_FACTOR_CONFIG_PIN_FACTOR_EDITOR_H_
 #define CHROMEOS_ASH_SERVICES_AUTH_FACTOR_CONFIG_PIN_FACTOR_EDITOR_H_
 

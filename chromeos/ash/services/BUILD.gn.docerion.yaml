@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Ash services unit tests build target
+summary: GN build file that aggregates unit test source sets from Chrome OS ash services into a single testonly target.

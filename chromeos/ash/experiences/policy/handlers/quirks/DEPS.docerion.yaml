@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for quirks
+summary: Grants the quirks directory dependency access to chromeos/ash/components/settings and components/quirks.

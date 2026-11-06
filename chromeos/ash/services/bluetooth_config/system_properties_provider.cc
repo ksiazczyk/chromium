@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System properties provider base implementation
+// summary: Implements observer registration and notification of system Bluetooth properties such as system state, modification state, and paired devices.
+// ---
+
 #include "chromeos/ash/services/bluetooth_config/system_properties_provider.h"
 
 #include "base/trace_event/trace_event.h"

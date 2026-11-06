@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceOperationHandlerImpl implementation
+// summary: Implements DeviceOperationHandler by invoking BluetoothDevice methods for connect, disconnect, and forget, and recording reconnection metrics.
+// ---
+
 #include "chromeos/ash/services/bluetooth_config/device_operation_handler_impl.h"
 
 #include "base/functional/callback_helpers.h"

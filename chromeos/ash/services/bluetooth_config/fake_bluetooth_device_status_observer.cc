@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake BluetoothDeviceStatusObserver implementation
+// summary: Implements a fake BluetoothDeviceStatusObserver that records paired, connected, and disconnected device events for tests.
+// ---
+
 #include "chromeos/ash/services/bluetooth_config/fake_bluetooth_device_status_observer.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeDiscoveredDevicesProvider implementation
+// summary: Implements a fake DiscoveredDevicesProvider that stores a test-settable list of discovered Bluetooth devices and notifies observers.
+// ---
+
 #include "chromeos/ash/services/bluetooth_config/fake_discovered_devices_provider.h"
 
 namespace ash::bluetooth_config {

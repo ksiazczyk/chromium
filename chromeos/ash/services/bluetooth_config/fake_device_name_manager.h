@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeDeviceNameManager
+// summary: Fake DeviceNameManager that stores device nicknames in a map so tests can supply and look up nicknames without real preferences.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_BLUETOOTH_CONFIG_FAKE_DEVICE_NAME_MANAGER_H_
 #define CHROMEOS_ASH_SERVICES_BLUETOOTH_CONFIG_FAKE_DEVICE_NAME_MANAGER_H_
 

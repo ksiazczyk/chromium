@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceOperationHandler implementation
+// summary: Implements DeviceOperationHandler, queueing connect, disconnect, and forget operations sequentially with timeouts and result callbacks to clients.
+// ---
+
 #include "chromeos/ash/services/bluetooth_config/device_operation_handler.h"
 
 #include "chromeos/ash/services/bluetooth_config/public/mojom/cros_bluetooth_config.mojom.h"

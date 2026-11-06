@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DevicePairingHandlerImpl unit tests
+// summary: Unit tests for DevicePairingHandlerImpl covering pairing flows, authentication types, failure handling, and pairing metrics histograms using mock Bluetooth devices.
+// ---
+
 #include "chromeos/ash/services/bluetooth_config/device_pairing_handler_impl.h"
 
 #include <algorithm>

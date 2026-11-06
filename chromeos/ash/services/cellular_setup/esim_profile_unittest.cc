@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ESimProfile unit tests
+// summary: Unit tests for ESimProfile covering install, uninstall, and rename operations plus related histograms, including guest mode behavior.
+// ---
+
 #include <string>
 
 #include "ash/constants/ash_features.h"

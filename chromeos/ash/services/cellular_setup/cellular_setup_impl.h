@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CellularSetupImpl class declaration
+// summary: Declares the concrete mojom::CellularSetup implementation that creates an OtaActivator for each activation request and returns its remote to the client.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_CELLULAR_SETUP_CELLULAR_SETUP_IMPL_H_
 #define CHROMEOS_ASH_SERVICES_CELLULAR_SETUP_CELLULAR_SETUP_IMPL_H_
 

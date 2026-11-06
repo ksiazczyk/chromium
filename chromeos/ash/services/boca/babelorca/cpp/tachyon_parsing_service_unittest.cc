@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TachyonParsingService unit tests
+// summary: Unit tests verifying conversion of Tachyon protobuf stream data into BabelOrca mojom messages, transcript parts, and status handling.
+// ---
+
 #include "chromeos/ash/services/boca/babelorca/cpp/tachyon_parsing_service.h"
 
 #include <string>

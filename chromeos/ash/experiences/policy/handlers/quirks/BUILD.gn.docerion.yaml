@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for quirks policy handler
+summary: Defines the quirks static library target with the policy controller sources and its base, settings, and quirks dependencies.

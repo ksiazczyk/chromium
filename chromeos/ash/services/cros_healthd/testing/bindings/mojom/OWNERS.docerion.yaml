@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Per-file owners for Mojom bindings
+summary: Assigns per-file review ownership, requiring security team approval for changes to Mojom and Mojom traits files.

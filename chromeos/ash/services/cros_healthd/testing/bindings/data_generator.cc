@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Handle data generator implementation
+// summary: Implements HandleDataGenerator, which generates a Mojo platform handle opened on /dev/null for connectivity tests.
+// ---
+
 #include "chromeos/ash/services/cros_healthd/testing/bindings/data_generator.h"
 
 #include <fcntl.h>

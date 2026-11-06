@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AdapterStateControllerImpl header
+// summary: Declares the BluetoothAdapter-backed AdapterStateController implementation with queued power state change tracking and adapter observation.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_BLUETOOTH_CONFIG_ADAPTER_STATE_CONTROLLER_IMPL_H_
 #define CHROMEOS_ASH_SERVICES_BLUETOOTH_CONFIG_ADAPTER_STATE_CONTROLLER_IMPL_H_
 

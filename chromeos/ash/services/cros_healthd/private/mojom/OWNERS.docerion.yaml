@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for cros_healthd private Mojom
+summary: Per-file owners rules requiring security team review for Mojom and Mojom traits changes in this directory.

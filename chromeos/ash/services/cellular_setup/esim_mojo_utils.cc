@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: eSIM Mojo conversion utilities
+// summary: Converts Hermes D-Bus response statuses and cellular eSIM profile states into their corresponding mojo enum values for install results and operations.
+// ---
+
 #include "chromeos/ash/services/cellular_setup/esim_mojo_utils.h"
 
 #include "chromeos/ash/services/cellular_setup/public/mojom/esim_manager.mojom.h"

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for auth_factor_config
+summary: Defines the auth_factor_config static library with its source files and build dependencies for ChromeOS Ash.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device conversion utilities
+// summary: Converts device::BluetoothDevice objects into mojo BluetoothDeviceProperties, computing device type, audio output capability, battery info, and Fast Pair device images.
+// ---
+
 #include "chromeos/ash/services/bluetooth_config/device_conversion_util.h"
 
 #include <bitset>

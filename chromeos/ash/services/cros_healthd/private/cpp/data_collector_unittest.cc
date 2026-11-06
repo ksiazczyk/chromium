@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for DataCollector
+// summary: Tests touchscreen device retrieval, touchpad library name, and privacy screen request rejection using a fake delegate.
+// ---
+
 #include "chromeos/ash/services/cros_healthd/private/cpp/data_collector.h"
 
 #include "base/test/test_future.h"

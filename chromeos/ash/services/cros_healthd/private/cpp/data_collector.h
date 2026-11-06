@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DataCollector class declaration
+// summary: Declares the DataCollector mojo service provider class with a replaceable Delegate interface for touchpad and privacy screen operations.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_CROS_HEALTHD_PRIVATE_CPP_DATA_COLLECTOR_H_
 #define CHROMEOS_ASH_SERVICES_CROS_HEALTHD_PRIVATE_CPP_DATA_COLLECTOR_H_
 

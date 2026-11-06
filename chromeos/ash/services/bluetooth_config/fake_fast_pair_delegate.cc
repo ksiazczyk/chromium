@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeFastPairDelegate implementation
+// summary: Implements a fake FastPairDelegate that stores device images, nicknames, and forgotten device addresses for use in tests.
+// ---
+
 #include "chromeos/ash/services/bluetooth_config/fake_fast_pair_delegate.h"
 
 namespace ash::bluetooth_config {

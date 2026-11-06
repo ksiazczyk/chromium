@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: In-process eSIM manager declaration
+// summary: Declares BindToInProcessESimManager, an exported function that binds ESimManager Mojo receivers to an in-process singleton.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_CELLULAR_SETUP_IN_PROCESS_ESIM_MANAGER_H_
 #define CHROMEOS_ASH_SERVICES_CELLULAR_SETUP_IN_PROCESS_ESIM_MANAGER_H_
 

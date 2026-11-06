@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake BluetoothPowerController implementation
+// summary: Implements a fake BluetoothPowerController that forwards Bluetooth enabled-state changes to an AdapterStateController for tests.
+// ---
+
 #include "chromeos/ash/services/bluetooth_config/fake_bluetooth_power_controller.h"
 
 namespace ash::bluetooth_config {

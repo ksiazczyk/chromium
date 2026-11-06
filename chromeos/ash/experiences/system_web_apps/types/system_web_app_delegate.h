@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SystemWebAppDelegate configuration class header
+// summary: Declares the SystemWebAppDelegate base class for configuring System Web App behavior like installation, window size, launch handling, and UI options.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_SYSTEM_WEB_APPS_TYPES_SYSTEM_WEB_APP_DELEGATE_H_
 #define CHROMEOS_ASH_EXPERIENCES_SYSTEM_WEB_APPS_TYPES_SYSTEM_WEB_APP_DELEGATE_H_
 

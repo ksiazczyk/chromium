@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Assistant service build file
+summary: GN build file defining a test-only static library with a scoped assistant browser delegate for use in assistant service tests.

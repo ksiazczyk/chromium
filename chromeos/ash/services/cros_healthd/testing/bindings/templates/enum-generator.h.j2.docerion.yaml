@@ -1,0 +1,4 @@
+# Docerion header of enum-generator.h.j2.
+type: source
+title: Enum data generator header template
+summary: Jinja2 template that declares a DataGeneratorInterface subclass producing successive values of a Mojo enum.

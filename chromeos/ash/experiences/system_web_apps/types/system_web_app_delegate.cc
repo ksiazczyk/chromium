@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SystemWebAppDelegate default implementations
+// summary: Provides default implementations of SystemWebAppDelegate behavior such as window controls, launcher visibility, navigation capture, and background task info.
+// ---
+
 #include "chromeos/ash/experiences/system_web_apps/types/system_web_app_delegate.h"
 
 #include "ui/gfx/geometry/rect.h"

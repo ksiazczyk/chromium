@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DeviceNameManagerImpl unit tests
+// summary: Unit tests for DeviceNameManagerImpl covering nickname get, set, and remove, validation, observer notifications, and Floss versus BlueZ pref handling.
+// ---
+
 #include "chromeos/ash/services/bluetooth_config/device_name_manager_impl.h"
 
 #include "base/strings/strcat.h"

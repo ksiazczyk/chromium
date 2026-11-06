@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothAdapter-backed discovery session manager declaration
+// summary: Declares DiscoverySessionManagerImpl, a DiscoverySessionManager that uses the BluetoothAdapter to start and stop discovery sessions.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_BLUETOOTH_CONFIG_DISCOVERY_SESSION_MANAGER_IMPL_H_
 #define CHROMEOS_ASH_SERVICES_BLUETOOTH_CONFIG_DISCOVERY_SESSION_MANAGER_IMPL_H_
 

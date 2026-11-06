@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AdapterStateController base class implementation
+// summary: Implements the AdapterStateController base class, managing the observer list and notifying observers of adapter state changes.
+// ---
+
 #include "chromeos/ash/services/bluetooth_config/adapter_state_controller.h"
 
 namespace ash::bluetooth_config {

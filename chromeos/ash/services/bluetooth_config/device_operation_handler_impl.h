@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceOperationHandlerImpl header
+// summary: Declares the concrete DeviceOperationHandler implementation that performs device operations via the Bluetooth adapter and updates nicknames and Fast Pair state.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_BLUETOOTH_CONFIG_DEVICE_OPERATION_HANDLER_IMPL_H_
 #define CHROMEOS_ASH_SERVICES_BLUETOOTH_CONFIG_DEVICE_OPERATION_HANDLER_IMPL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Concrete Bluetooth device status notifier header
+// summary: Declares BluetoothDeviceStatusNotifierImpl, which observes DeviceCache and power manager events to notify device status changes with a suspend cooldown period.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_BLUETOOTH_CONFIG_BLUETOOTH_DEVICE_STATUS_NOTIFIER_IMPL_H_
 #define CHROMEOS_ASH_SERVICES_BLUETOOTH_CONFIG_BLUETOOTH_DEVICE_STATUS_NOTIFIER_IMPL_H_
 

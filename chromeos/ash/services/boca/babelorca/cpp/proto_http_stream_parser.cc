@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProtoHttpStreamParser implementation
+// summary: Implements incremental parsing of StreamBody protobuf messages from an HTTP stream, tracking parse state, pending data limits, and parse results.
+// ---
+
 #include "chromeos/ash/services/boca/babelorca/cpp/proto_http_stream_parser.h"
 
 #include <cstdint>

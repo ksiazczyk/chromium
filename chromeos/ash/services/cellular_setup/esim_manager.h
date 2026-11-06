@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ESimManager mojo service header
+// summary: Declares ESimManager, the mojom::ESimManager implementation that uses Hermes D-Bus clients to provide eSIM management for cellular settings and eSIM setup WebUI.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_CELLULAR_SETUP_ESIM_MANAGER_H_
 #define CHROMEOS_ASH_SERVICES_CELLULAR_SETUP_ESIM_MANAGER_H_
 

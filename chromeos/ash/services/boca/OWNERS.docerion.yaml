@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: Points to the OWNERS file of chromeos/ash/components/boca to define approvers for this directory.

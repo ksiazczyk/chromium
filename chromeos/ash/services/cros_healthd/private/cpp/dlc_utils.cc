@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DLC install trigger utility for cros_healthd
+// summary: Triggers installation of the fio-dlc DLC through the dlcservice D-Bus client and logs install errors.
+// ---
+
 #include "chromeos/ash/services/cros_healthd/private/cpp/dlc_utils.h"
 
 #include "base/functional/callback_helpers.h"

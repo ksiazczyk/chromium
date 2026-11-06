@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Discovery session manager implementation unit tests
+// summary: Unit tests for DiscoverySessionManagerImpl covering discovery start and stop, delegate notifications, and Floss-specific behavior with a mock Bluetooth adapter.
+// ---
+
 #include "chromeos/ash/services/bluetooth_config/discovery_session_manager_impl.h"
 
 #include <memory>

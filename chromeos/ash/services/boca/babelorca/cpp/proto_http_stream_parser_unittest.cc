@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ProtoHttpStreamParser unit tests
+// summary: Unit tests covering StreamBody message parsing across one or more chunks, multiple messages, noops, and error handling.
+// ---
+
 #include "chromeos/ash/services/boca/babelorca/cpp/proto_http_stream_parser.h"
 
 #include <string>

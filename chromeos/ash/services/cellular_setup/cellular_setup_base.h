@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CellularSetupBase class declaration
+// summary: Declares a base mojom::CellularSetup implementation that manages a receiver set, leaving the interface methods for derived classes to override.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_CELLULAR_SETUP_CELLULAR_SETUP_BASE_H_
 #define CHROMEOS_ASH_SERVICES_CELLULAR_SETUP_CELLULAR_SETUP_BASE_H_
 

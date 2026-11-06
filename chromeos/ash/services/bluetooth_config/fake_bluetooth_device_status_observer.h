@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake BluetoothDeviceStatusObserver header
+// summary: Declares a fake BluetoothDeviceStatusObserver that records device status events and manages its Mojo connection for tests.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_BLUETOOTH_CONFIG_FAKE_BLUETOOTH_DEVICE_STATUS_OBSERVER_H_
 #define CHROMEOS_ASH_SERVICES_BLUETOOTH_CONFIG_FAKE_BLUETOOTH_DEVICE_STATUS_OBSERVER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceNameManager base class implementation
+// summary: Implements the DeviceNameManager base class, defining nickname pref name constants and observer add, remove, and notification plumbing.
+// ---
+
 #include "chromeos/ash/services/bluetooth_config/device_name_manager.h"
 
 namespace ash::bluetooth_config {

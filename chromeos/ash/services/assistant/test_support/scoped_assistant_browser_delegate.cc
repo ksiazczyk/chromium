@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedAssistantBrowserDelegate implementation
+// summary: Implements the scoped test double for AssistantBrowserDelegate, running a configurable closure for opening the new entry point and reporting eligibility for the primary profile.
+// ---
+
 #include "chromeos/ash/services/assistant/test_support/scoped_assistant_browser_delegate.h"
 
 #include <optional>

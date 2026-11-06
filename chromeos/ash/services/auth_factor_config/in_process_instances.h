@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: In-process instances for auth factor config mojo services
+// summary: Declares functions that bind mojo clients for auth factor config services to singleton server implementations, requiring QuickUnlockStorage delegates for compatibility with QuickUnlockPrivate.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_AUTH_FACTOR_CONFIG_IN_PROCESS_INSTANCES_H_
 #define CHROMEOS_ASH_SERVICES_AUTH_FACTOR_CONFIG_IN_PROCESS_INSTANCES_H_
 

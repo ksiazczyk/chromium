@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit test runner for ash experiences tests
+// summary: Main entry point that initializes the Ash test suite and Mojo embedder, then launches the directory's unit tests via the base test launcher.
+// ---
+
 #include "base/base_switches.h"
 #include "base/command_line.h"
 #include "base/test/launcher/unit_test_launcher.h"

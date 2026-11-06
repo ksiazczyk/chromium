@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for cros_healthd private cpp
+summary: Restricts allowed includes for the directory, permitting ui/events, content/public/browser, and ash, with extra test includes for unittest files.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceCache base implementation
+// summary: Implements the DeviceCache base class, returning empty paired and unpaired device lists when Bluetooth is disabled and notifying observers of device list changes.
+// ---
+
 #include "chromeos/ash/services/bluetooth_config/device_cache.h"
 
 #include "chromeos/ash/services/bluetooth_config/adapter_state_controller.h"

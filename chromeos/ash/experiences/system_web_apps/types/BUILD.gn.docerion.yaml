@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the system web apps types static library
+summary: Defines the static library target for system web app type sources along with its build dependencies and public dependencies.

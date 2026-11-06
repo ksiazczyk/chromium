@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceNameManagerImpl implementation
+// summary: Implements DeviceNameManager by persisting device nicknames in local state prefs, handling Floss and BlueZ ID formats, validation, and metrics.
+// ---
+
 
 #include "chromeos/ash/services/bluetooth_config/device_name_manager_impl.h"
 

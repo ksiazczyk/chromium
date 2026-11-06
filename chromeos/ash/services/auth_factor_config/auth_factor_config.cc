@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AuthFactorConfig service implementation
+// summary: Implements the AuthFactorConfig mojo service that queries and configures cryptohome auth factors and notifies observers of changes.
+// ---
+
 #include "chromeos/ash/services/auth_factor_config/auth_factor_config.h"
 
 #include <algorithm>

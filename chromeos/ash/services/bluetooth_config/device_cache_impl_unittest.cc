@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DeviceCacheImpl unit tests
+// summary: Unit tests for DeviceCacheImpl using mock adapters and devices, verifying paired and unpaired list updates and observer notifications for device changes.
+// ---
+
 #include "chromeos/ash/services/bluetooth_config/device_cache_impl.h"
 
 #include <algorithm>

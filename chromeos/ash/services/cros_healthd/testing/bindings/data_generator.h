@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Data generators for connectivity test parameters
+// summary: Defines template generators for primitive, optional, nullable and handle types that produce test parameters for TestProvider and TestConsumer.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_CROS_HEALTHD_TESTING_BINDINGS_DATA_GENERATOR_H_
 #define CHROMEOS_ASH_SERVICES_CROS_HEALTHD_TESTING_BINDINGS_DATA_GENERATOR_H_
 

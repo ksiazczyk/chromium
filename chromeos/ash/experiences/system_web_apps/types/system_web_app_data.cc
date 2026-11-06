@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SystemWebAppData implementation
+// summary: Implements debug value serialization and equality comparison for SystemWebAppData based on its system app type.
+// ---
+
 #include "chromeos/ash/experiences/system_web_apps/types/system_web_app_data.h"
 
 #include <ios>

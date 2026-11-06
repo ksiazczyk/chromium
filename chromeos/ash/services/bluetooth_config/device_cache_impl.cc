@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceCacheImpl implementation
+// summary: Concrete DeviceCache that fetches initial devices from BluetoothAdapter and updates paired and unpaired lists by observing adapter, adapter state, and nickname changes.
+// ---
+
 #include "chromeos/ash/services/bluetooth_config/device_cache_impl.h"
 
 #include <algorithm>

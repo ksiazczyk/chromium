@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Discovery session manager implementation
+// summary: Implements DiscoverySessionManager, which manages Bluetooth discovery clients, notifying delegates when discovery starts or stops and when the discovered devices list changes.
+// ---
+
 #include "chromeos/ash/services/bluetooth_config/discovery_session_manager.h"
 
 #include "base/functional/bind.h"

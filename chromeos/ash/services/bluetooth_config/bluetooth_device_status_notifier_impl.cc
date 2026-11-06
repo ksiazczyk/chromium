@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Concrete Bluetooth device status notifier implementation
+// summary: Implements the device status notifier using DeviceCache and PowerManagerClient to detect newly paired, connected and disconnected devices, with a cooldown after suspend.
+// ---
+
 #include "chromeos/ash/services/bluetooth_config/bluetooth_device_status_notifier_impl.h"
 
 #include <algorithm>

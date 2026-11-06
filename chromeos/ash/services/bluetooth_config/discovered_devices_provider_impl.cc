@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DiscoveredDevicesProviderImpl implementation
+// summary: Implements the concrete discovered devices provider that tracks unpaired devices from the device cache and delays sorting and notification to limit UI churn.
+// ---
+
 #include "chromeos/ash/services/bluetooth_config/discovered_devices_provider_impl.h"
 
 #include <algorithm>

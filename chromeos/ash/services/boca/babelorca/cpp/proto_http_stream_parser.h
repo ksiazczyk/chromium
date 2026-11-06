@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProtoHttpStreamParser class header
+// summary: Declares the ProtoHttpStreamParser class that parses incoming stream data wrapped in a StreamBody proto message and exposes parse results.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_BOCA_BABELORCA_CPP_PROTO_HTTP_STREAM_PARSER_H_
 #define CHROMEOS_ASH_SERVICES_BOCA_BABELORCA_CPP_PROTO_HTTP_STREAM_PARSER_H_
 

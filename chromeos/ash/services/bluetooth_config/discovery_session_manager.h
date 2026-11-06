@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Discovery session manager class declaration
+// summary: Declares DiscoverySessionManager, which keeps Bluetooth discovery active while at least one client is pairing new devices and forwards discovered device updates.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_BLUETOOTH_CONFIG_DISCOVERY_SESSION_MANAGER_H_
 #define CHROMEOS_ASH_SERVICES_BLUETOOTH_CONFIG_DISCOVERY_SESSION_MANAGER_H_
 

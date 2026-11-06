@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote state implementation for connectivity tests
+// summary: Implements RemoteState over a Mojo State remote, providing closures to query LastCallHasNext and wait for or fulfill the last call.
+// ---
+
 #include "chromeos/ash/services/cros_healthd/testing/bindings/remote_state.h"
 
 #include <utility>

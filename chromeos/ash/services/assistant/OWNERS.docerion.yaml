@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Assistant service owners
+summary: OWNERS file that delegates code ownership to the owners of the ChromeOS assistant component.

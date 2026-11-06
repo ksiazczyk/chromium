@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AdapterStateControllerImpl unit tests
+// summary: Tests adapter state reporting, power state changes and queuing, and observer notifications using a mock Bluetooth adapter.
+// ---
+
 #include "chromeos/ash/services/bluetooth_config/adapter_state_controller_impl.h"
 
 #include <memory>

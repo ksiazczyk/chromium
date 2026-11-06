@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SystemPropertiesProviderImpl unit tests
+// summary: Unit tests for SystemPropertiesProviderImpl that verify system state, paired device lists, and session changes using fake adapter state controller and device cache.
+// ---
+
 #include "chromeos/ash/services/bluetooth_config/system_properties_provider_impl.h"
 
 #include <memory>

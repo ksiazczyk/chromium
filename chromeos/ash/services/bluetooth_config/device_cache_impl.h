@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceCacheImpl header
+// summary: Declares DeviceCacheImpl, which observes BluetoothAdapter, AdapterStateController, and DeviceNameManager to keep cached paired and unpaired device properties current.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_BLUETOOTH_CONFIG_DEVICE_CACHE_IMPL_H_
 #define CHROMEOS_ASH_SERVICES_BLUETOOTH_CONFIG_DEVICE_CACHE_IMPL_H_
 

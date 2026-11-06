@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Context interface for connectivity test bindings
+// summary: Declares the Context interface exposing the local and remote state used by the connectivity test objects.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_CROS_HEALTHD_TESTING_BINDINGS_CONTEXT_H_
 #define CHROMEOS_ASH_SERVICES_CROS_HEALTHD_TESTING_BINDINGS_CONTEXT_H_
 

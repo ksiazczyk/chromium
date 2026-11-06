@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for ash experiences tests
+summary: Defines allowed include dependencies for tests in this directory, permitting chromeos/ash/components/test and mojo/core/embedder.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceNameManager interface
+// summary: Declares the DeviceNameManager interface for saving, retrieving, and removing Bluetooth device nicknames shared by all users, with observer support.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_BLUETOOTH_CONFIG_DEVICE_NAME_MANAGER_H_
 #define CHROMEOS_ASH_SERVICES_BLUETOOTH_CONFIG_DEVICE_NAME_MANAGER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of struct-generator.cc.j2.
+type: source
+title: Struct data generator implementation template
+summary: Jinja2 template that implements a data generator producing successive instances of a Mojo struct, including nullable variants.

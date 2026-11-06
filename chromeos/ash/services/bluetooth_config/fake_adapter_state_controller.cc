@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake adapter state controller implementation
+// summary: Implements FakeAdapterStateController, a test double that simulates Bluetooth adapter system state and enable changes for unit tests.
+// ---
+
 #include "chromeos/ash/services/bluetooth_config/fake_adapter_state_controller.h"
 
 #include "base/run_loop.h"

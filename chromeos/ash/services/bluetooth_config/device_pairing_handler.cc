@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevicePairingHandler implementation
+// summary: Implements the base DevicePairingHandler that manages Bluetooth pairing requests, formats passkeys, and maps connection failure reasons to pairing results.
+// ---
+
 #include "chromeos/ash/services/bluetooth_config/device_pairing_handler.h"
 
 #include "base/strings/strcat.h"

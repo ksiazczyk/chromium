@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevicePairingHandlerImpl class declaration
+// summary: Declares the concrete DevicePairingHandler implementation, including its testing factory and the BluetoothDevice PairingDelegate interface methods it serves.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_BLUETOOTH_CONFIG_DEVICE_PAIRING_HANDLER_IMPL_H_
 #define CHROMEOS_ASH_SERVICES_BLUETOOTH_CONFIG_DEVICE_PAIRING_HANDLER_IMPL_H_
 

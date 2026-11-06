@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake BluetoothDiscoveryDelegate header
+// summary: Declares a fake BluetoothDiscoveryDelegate that records discovery callbacks, discovered devices, and pairing handler state for tests.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_BLUETOOTH_CONFIG_FAKE_BLUETOOTH_DISCOVERY_DELEGATE_H_
 #define CHROMEOS_ASH_SERVICES_BLUETOOTH_CONFIG_FAKE_BLUETOOTH_DISCOVERY_DELEGATE_H_
 

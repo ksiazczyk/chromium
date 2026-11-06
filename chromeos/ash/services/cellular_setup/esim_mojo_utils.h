@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: eSIM Mojo conversion utilities header
+// summary: Declares helpers that map Hermes response statuses and profile states to mojo ProfileInstallResult, ProfileState, and ESimOperationResult values.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_CELLULAR_SETUP_ESIM_MOJO_UTILS_H_
 #define CHROMEOS_ASH_SERVICES_CELLULAR_SETUP_ESIM_MOJO_UTILS_H_
 

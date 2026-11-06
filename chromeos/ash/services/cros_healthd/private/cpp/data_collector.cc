@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DataCollector implementation for cros_healthd
+// summary: Implements the ChromiumDataCollector mojo service, including touchpad library detection, touchscreen device queries, and privacy screen state handling.
+// ---
+
 #include "chromeos/ash/services/cros_healthd/private/cpp/data_collector.h"
 
 #include <fcntl.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth power controller interface
+// summary: Declares the BluetoothPowerController interface for setting the Bluetooth power state and persisting it to user or local state preferences.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_BLUETOOTH_CONFIG_BLUETOOTH_POWER_CONTROLLER_H_
 #define CHROMEOS_ASH_SERVICES_BLUETOOTH_CONFIG_BLUETOOTH_POWER_CONTROLLER_H_
 

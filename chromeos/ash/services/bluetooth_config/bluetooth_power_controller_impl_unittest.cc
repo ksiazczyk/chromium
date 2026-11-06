@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bluetooth power controller unit tests
+// summary: Unit tests for BluetoothPowerControllerImpl covering pref persistence, regular and kiosk user sessions, and HID detection state restoration.
+// ---
+
 #include "chromeos/ash/services/bluetooth_config/bluetooth_power_controller_impl.h"
 
 #include "ash/constants/ash_pref_names.h"

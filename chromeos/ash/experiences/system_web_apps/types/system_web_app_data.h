@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SystemWebAppData struct header
+// summary: Declares the in-memory representation of a registered System Web App used to identify it during reinstall before apps are synchronized.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_SYSTEM_WEB_APPS_TYPES_SYSTEM_WEB_APP_DATA_H_
 #define CHROMEOS_ASH_EXPERIENCES_SYSTEM_WEB_APPS_TYPES_SYSTEM_WEB_APP_DATA_H_
 
