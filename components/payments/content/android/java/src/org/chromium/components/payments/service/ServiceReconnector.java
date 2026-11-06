@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ServiceReconnector helper for reconnecting with exponential backoff
+// summary: Helper class that reconnects to a remote service after unexpected disconnects using exponential backoff, up to a maximum retry count, and resets state on intentional disconnects.
+// ---
+
 package org.chromium.components.payments.service;
 
 import android.os.Handler;

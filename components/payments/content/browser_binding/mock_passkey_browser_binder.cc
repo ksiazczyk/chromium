@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock PasskeyBrowserBinder implementation
+// summary: Implements the constructor and destructor of MockPasskeyBrowserBinder, a test double for PasskeyBrowserBinder.
+// ---
+
 #include "components/payments/content/browser_binding/mock_passkey_browser_binder.h"
 
 namespace payments {

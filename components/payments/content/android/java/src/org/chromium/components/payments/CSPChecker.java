@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Interface for Content-Security-Policy checks
+// summary: Interface that checks whether the CSP connect-src directive allows a given URL, mirroring the renderer's AllowConnectToSource behavior.
+// ---
+
 package org.chromium.components.payments;
 
 import org.chromium.base.Callback;

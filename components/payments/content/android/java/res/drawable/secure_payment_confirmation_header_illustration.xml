@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Secure payment confirmation header illustration
+summary: Android vector drawable providing the header illustration for the secure payment confirmation UI in the payments component.
+-->
+
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
     android:width="200dp"
     android:height="90dp"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser-side PaymentRequest interface
+// summary: Interface for the browser part of the PaymentRequest implementation, covering details updates, completion, retry handling, and showing the app selector.
+// ---
+
 package org.chromium.components.payments;
 
 import org.chromium.base.Callback;

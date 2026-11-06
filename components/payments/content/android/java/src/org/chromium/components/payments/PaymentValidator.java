@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PaymentValidator
+// summary: Static JNI bridge to the native C++ validator for payment details, payment validation errors, and secure payment confirmation requests.
+// ---
+
 package org.chromium.components.payments;
 
 import org.jni_zero.JNINamespace;

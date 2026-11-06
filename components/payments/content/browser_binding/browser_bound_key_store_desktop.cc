@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop implementation of the browser bound key store
+// summary: Implements the desktop browser bound key store on top of crypto unexportable keys, with latency histograms and MAC keychain support.
+// ---
+
 #include "components/payments/content/browser_binding/browser_bound_key_store_desktop.h"
 
 #include "base/metrics/histogram_functions.h"

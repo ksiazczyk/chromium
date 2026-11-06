@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ServiceReconnector unit tests
+// summary: Robolectric unit tests verifying the payments service reconnector's reconnect delays, retry limits, and behavior on unexpected versus intentional service disconnects.
+// ---
+
 package org.chromium.components.payments.service;
 
 import static org.mockito.Mockito.any;

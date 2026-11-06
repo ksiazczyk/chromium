@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payment request service
+// summary: Core PaymentRequest mojo service implementation shared between Clank and other content embedders, handling payment apps, details, and responses.
+// ---
+
 package org.chromium.components.payments;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

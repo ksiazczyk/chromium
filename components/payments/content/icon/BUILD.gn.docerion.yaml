@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Payments icon BUILD.gn build definition
+summary: Defines the static library target for the payments icon component, listing the icon_size sources and the ui/display dependency.

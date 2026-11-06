@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for Android payments content
+summary: Restricts which directories the code in this folder may include, allowing specific JNI, prefs, and network dependencies.

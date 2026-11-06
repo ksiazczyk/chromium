@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payment manifest downloader
+// summary: Android JNI wrapper that asynchronously downloads payment method and web app manifests, reporting success or failure through callbacks.
+// ---
+
 package org.chromium.components.payments;
 
 import org.jni_zero.CalledByNative;

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for payments browser binding
+summary: Defines GN source sets for the browser binding component, including interface, passkey binder, Android and desktop targets, and test support.

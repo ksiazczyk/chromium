@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PaymentApp
+// summary: Abstract base class for a single payment app such as a payment handler, defining callbacks for instrument details, aborts, and errors.
+// ---
+
 package org.chromium.components.payments;
 
 import static java.util.Collections.emptyList;

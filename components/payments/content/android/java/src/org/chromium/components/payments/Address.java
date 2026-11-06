@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Immutable payment address model with Android bundle keys
+// summary: Immutable Java mirror of the PaymentAddress mojom type that validates country codes and packs shipping address fields into Android bundle extras.
+// ---
+
 package org.chromium.components.payments;
 
 import android.os.Bundle;

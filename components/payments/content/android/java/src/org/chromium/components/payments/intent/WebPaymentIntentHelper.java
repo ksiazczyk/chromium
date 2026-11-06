@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebPaymentIntentHelper
+// summary: Builds and processes Android payment app intents for pay, is-ready-to-pay, and payment details update actions, serializing payment request data into intent extras.
+// ---
+
 package org.chromium.components.payments.intent;
 
 import android.app.Activity;

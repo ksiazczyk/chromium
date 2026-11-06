@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PaymentAppServiceBridge implementation
+// summary: Implements the bridge that creates payment apps via PaymentAppService and relays results such as CanMakePayment back to Java callbacks.
+// ---
+
 #include "components/payments/content/android/payment_app_service_bridge.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JNI payment app bridge implementation
+// summary: Implements JniPaymentApp, forwarding payment app operations like invoke, update, and abort between native PaymentApp objects and Java.
+// ---
+
 #include "components/payments/content/android/jni_payment_app.h"
 
 #include <string>

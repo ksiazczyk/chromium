@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PaymentDetailsUpdateServiceImpl
+// summary: Real implementation of the payment details update service in the chrome split module, dispatching authorized AIDL calls onto the UI thread.
+// ---
+
 package org.chromium.components.payments;
 
 import android.content.Intent;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Secure Payment Confirmation render test
+// summary: Parameterized Android instrumented tests that render the Secure Payment Confirmation bottom sheet in light, dark, RTL, and inform-only variants and verify the resulting UI.
+// ---
+
 package org.chromium.components.payments.secure_payment_confirmation;
 
 import static com.google.common.truth.Truth.assertThat;

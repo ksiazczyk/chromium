@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PaymentManifestResolver Tests
+// summary: Tests for determining the set of URL payment method manifests to download, based on an app's default and other payment methods and merchant support.
+// ---
+
 package org.chromium.components.payments;
 
 import static org.junit.Assert.assertEquals;

@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Payments UI dialog width dimension for tablet layouts
+summary: Android resource XML defining payments_ui_max_dialog_width as 600dp, capping the payments dialog width on devices with smallest width 600dp.
+-->
+
 <resources>
     <!-- Payments UI -->
     <dimen name="payments_ui_max_dialog_width">600dp</dimen>

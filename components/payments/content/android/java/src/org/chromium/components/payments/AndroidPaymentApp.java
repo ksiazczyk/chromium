@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Interaction point with installed Android payment apps
+// summary: Implements interaction with locally installed third-party Android payment apps, handling ready-to-pay checks, intent launches, and payment details updates.
+// ---
+
 package org.chromium.components.payments;
 
 import android.content.Intent;

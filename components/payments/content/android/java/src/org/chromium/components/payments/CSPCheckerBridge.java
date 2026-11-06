@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JNI bridge for the CSP checker
+// summary: JNI bridge that exposes the Java CSP checker to native code and forwards connect-src check results back through callbacks.
+// ---
+
 package org.chromium.components.payments;
 
 import org.jni_zero.CalledByNative;

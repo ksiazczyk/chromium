@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payment manifest downloader Android JNI implementation
+// summary: Implements the Android JNI bridge for downloading payment method and web app payment manifests, reporting download results to Java callbacks.
+// ---
+
 #include "components/payments/content/android/payment_manifest_downloader_android.h"
 
 #include <memory>

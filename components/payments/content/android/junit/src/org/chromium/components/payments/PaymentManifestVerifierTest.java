@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PaymentManifestVerifier Tests
+// summary: Tests for PaymentManifestVerifier, covering payment method and web app manifest cache lookups and package signature verification for payment apps.
+// ---
+
 package org.chromium.components.payments;
 
 import static org.mockito.ArgumentMatchers.any;

@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Payment request UI bottom sheet layout
+summary: Main layout of the PaymentRequestUI dialog, a bottom sheet that includes the header, loading spinner, scrollable option container and bottom bar.
+-->
+
 <!-- PaymentRequestUI dialog
      Sits at the bottom of the screen like a Bottom Sheet.
 -->

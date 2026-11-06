@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PaymentDetailsUpdateConnection Tests
+// summary: Robolectric tests for PaymentDetailsUpdateConnection, verifying binding to the payment app service, service setup, and unbinding on permission or null-service failures.
+// ---
+
 package org.chromium.components.payments;
 
 import static org.mockito.AdditionalAnswers.answerVoid;

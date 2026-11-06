@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PackageManagerDelegate
+// summary: Abstraction over Android's package manager for querying installed apps, signatures, and intent handlers, designed to enable testing.
+// ---
+
 package org.chromium.components.payments;
 
 import android.annotation.SuppressLint;

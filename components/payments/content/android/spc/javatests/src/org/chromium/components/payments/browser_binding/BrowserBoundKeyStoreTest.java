@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BrowserBoundKeyStoreTest
+// summary: Android instrumentation tests for the browser bound key store, verifying creation, lookup, and signing of browser bound keys when StrongBox is available.
+// ---
+
 package org.chromium.components.payments.browser_binding;
 
 import static org.junit.Assert.assertEquals;

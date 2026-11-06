@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebPaymentIntentHelperTypeConverter
+// summary: Converts payment information types from org.chromium.payments.mojom into their WebPaymentIntentHelperType counterparts for Android payment intents.
+// ---
+
 package org.chromium.components.payments.intent;
 
 import android.os.Bundle;

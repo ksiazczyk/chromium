@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JNI wrapper for payment error messages
+// summary: Exposes the not-supported payment method error message builder from the payments core to Java through a JNI function.
+// ---
+
 #include <jni.h>
 #include <set>
 #include <string>

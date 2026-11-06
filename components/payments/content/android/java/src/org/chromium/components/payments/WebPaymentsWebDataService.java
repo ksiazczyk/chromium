@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebPaymentsWebDataService JNI wrapper for the web data service
+// summary: Java wrapper around the native Web Payments web data service that fetches and stores payment method manifests and payment web app manifests.
+// ---
+
 package org.chromium.components.payments;
 
 import org.jni_zero.CalledByNative;

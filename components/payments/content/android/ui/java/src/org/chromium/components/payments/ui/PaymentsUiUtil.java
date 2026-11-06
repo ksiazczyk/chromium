@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PaymentsUiUtil
+// summary: Utility class with shared payments UI helpers, notably applying a ripple effect and semantic surface color tint to a view's background.
+// ---
+
 package org.chromium.components.payments.ui;
 
 import android.content.Context;

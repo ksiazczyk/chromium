@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Helpers to convert Java ByteBuffers and Mojo structs
+// summary: Template helpers that serialize native Mojo objects to Java byte arrays and deserialize Java ByteBuffers back into Mojo structs.
+// ---
+
 #ifndef COMPONENTS_PAYMENTS_CONTENT_ANDROID_BYTE_BUFFER_HELPER_H_
 #define COMPONENTS_PAYMENTS_CONTENT_ANDROID_BYTE_BUFFER_HELPER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payment request spec Android bridge implementation
+// summary: Implements the Android bridge that owns a C++ PaymentRequestSpec, deserializing payment options, details and method data from Java byte buffers.
+// ---
+
 #include "components/payments/content/android/payment_request_spec.h"
 
 #include <utility>

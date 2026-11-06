@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Android browser bound key store
+// summary: Tests the Android browser bound key store, covering StrongBox hardware key support, JNI conversion and latency metrics.
+// ---
+
 #include "components/payments/content/browser_binding/browser_bound_key_store.h"
 
 #include <stdint.h>

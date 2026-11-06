@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JourneyLoggerAndroid class header
+// summary: Declares JourneyLoggerAndroid, a JNI bridge that forwards payment journey logging calls from Java to the cross-platform JourneyLogger.
+// ---
+
 #ifndef COMPONENTS_PAYMENTS_CONTENT_ANDROID_JOURNEY_LOGGER_ANDROID_H_
 #define COMPONENTS_PAYMENTS_CONTENT_ANDROID_JOURNEY_LOGGER_ANDROID_H_
 

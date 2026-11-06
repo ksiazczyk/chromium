@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Google Pay logo vector drawable
+summary: Android vector drawable rendering the Google Pay logo for payment interfaces.
+-->
+
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
     android:viewportWidth="49"
     android:viewportHeight="20"

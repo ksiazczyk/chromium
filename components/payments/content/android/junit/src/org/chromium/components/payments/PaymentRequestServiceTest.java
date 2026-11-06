@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PaymentRequestService Tests
+// summary: Robolectric tests for PaymentRequestService covering payment requests, responses, shipping and payer details, aborts, and can-make-payment queries.
+// ---
+
 package org.chromium.components.payments;
 
 import android.graphics.drawable.Drawable;

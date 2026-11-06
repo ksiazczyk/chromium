@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PaymentHandlerHost JNI bridge implementation
+// summary: Implements the native bridge that lets Java notify the payment handler of merchant payment details updates.
+// ---
+
 #include "components/payments/content/android/payment_handler_host.h"
 
 #include "base/android/jni_android.h"

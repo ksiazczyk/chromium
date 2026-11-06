@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Night mode colors for Payments UI
+summary: Android resource file that overrides the Google Pay icon color for dark mode using the baseline neutral 100 color.
+-->
+
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Payments UI colors -->
     <color name="google_pay_icon_color">@color/baseline_neutral_100</color>

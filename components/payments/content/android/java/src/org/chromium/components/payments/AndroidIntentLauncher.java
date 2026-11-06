@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Interface for launching Android intent-based payment apps
+// summary: Defines the interface for launching Android intent-based payment apps, with callbacks for errors and for the payment app's response.
+// ---
+
 package org.chromium.components.payments;
 
 import android.content.Intent;

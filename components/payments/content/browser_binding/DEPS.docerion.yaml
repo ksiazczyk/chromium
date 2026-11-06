@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for browser binding
+summary: Allows includes from device/fido/public and grants Android files access to the browser binding JNI headers and jni_zero.

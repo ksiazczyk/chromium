@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock payment manifest downloader for tests
+// summary: Downloader override that serves static payment method and web app manifest JSON responses keyed by hostname instead of querying servers on the network.
+// ---
+
 package org.chromium.components.payments;
 
 import org.chromium.url.GURL;

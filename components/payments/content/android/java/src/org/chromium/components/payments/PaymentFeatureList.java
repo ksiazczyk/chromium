@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PaymentFeatureList
+// summary: Exposes payments feature flag names to Java and queries their enabled state through the native feature map, mirroring features registered in native code.
+// ---
+
 package org.chromium.components.payments;
 
 import org.jni_zero.JNINamespace;

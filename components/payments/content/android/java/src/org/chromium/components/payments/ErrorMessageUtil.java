@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web payment error messages
+// summary: Provides web-developer facing error messages for web payment, such as unsupported payment methods, via JNI to native code.
+// ---
+
 package org.chromium.components.payments;
 
 import androidx.annotation.VisibleForTesting;

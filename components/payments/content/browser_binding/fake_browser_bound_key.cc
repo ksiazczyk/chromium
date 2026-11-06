@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake browser bound key for tests
+// summary: Implements a fake browser bound key that returns preset identifier, public key and signature values during tests.
+// ---
+
 #include "components/payments/content/browser_binding/fake_browser_bound_key.h"
 
 #include <cstdint>

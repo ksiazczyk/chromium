@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payment manifest parser
+// summary: Android JNI wrapper that parses payment method and web app manifest contents via a native utility process and returns the parsed results.
+// ---
+
 package org.chromium.components.payments;
 
 import org.jni_zero.CalledByNative;

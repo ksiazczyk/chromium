@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ItemDividerBase
+// summary: RecyclerView ItemDecoration that assigns rounded or plain background drawables to list items in bottom sheets depending on each item's position in the list.
+// ---
+
 package org.chromium.components.payments.ui;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

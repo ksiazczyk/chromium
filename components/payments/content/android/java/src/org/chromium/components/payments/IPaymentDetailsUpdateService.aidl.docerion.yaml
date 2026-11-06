@@ -1,0 +1,4 @@
+# Docerion header of IPaymentDetailsUpdateService.aidl.
+type: source
+title: IPaymentDetailsUpdateService AIDL interface
+summary: AIDL interface letting an invoked native payment app notify the browser when the user selects a different payment method, shipping option, or shipping address.

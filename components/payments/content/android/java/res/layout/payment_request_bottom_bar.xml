@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Payment request bottom bar layout
+summary: Layout for the bottom bar of the payment request UI, showing merchant logos plus secondary edit and primary pay buttons.
+-->
+
 <!-- Sits at the bottom of the payment request UI. -->
 <org.chromium.chrome.browser.payments.ui.PaymentRequestBottomBar
     xmlns:android="http://schemas.android.com/apk/res/android"

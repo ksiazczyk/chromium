@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the payments Android UI targets
+summary: GN build file defining the native ui library, generated JNI headers, the Java payments UI library and test support for the payments Android UI component.

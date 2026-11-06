@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the payments intent helpers
+summary: Routes ownership of this directory to the payments component owners and assigns IPC security owners to TypeConverter files.

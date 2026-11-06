@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JourneyLoggerAndroid JNI implementation
+// summary: Implements the JNI bridge that forwards Android payment journey logging events from Java to the native payments JourneyLogger.
+// ---
+
 #include "components/payments/content/android/journey_logger_android.h"
 
 #include "base/android/jni_array.h"

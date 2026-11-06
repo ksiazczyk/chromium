@@ -1,0 +1,4 @@
+# Docerion header of IPaymentDetailsUpdateServiceCallback.aidl.
+type: source
+title: IPaymentDetailsUpdateServiceCallback AIDL interface
+summary: AIDL interface letting the browser send the merchant's updated payment details, or lack thereof, back to the invoked payment app.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android BrowserBoundKeyStore JNI implementation
+// summary: Implements the browser bound key store on Android via JNI, including credential parameter conversion and hardware key support checks with metrics.
+// ---
+
 #include "components/payments/content/browser_binding/browser_bound_key_store_android.h"
 
 #include "base/android/scoped_java_ref.h"

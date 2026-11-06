@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Secure payment confirmation controller
+// summary: Controller that owns the secure payment confirmation UI, creating and connecting its model, view and observer, and reporting the user's response such as accept, cancel or opt out.
+// ---
+
 package org.chromium.components.payments.secure_payment_confirmation;
 
 import static org.chromium.build.NullUtil.assertNonNull;

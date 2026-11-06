@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the spc component
+summary: Declares allowed directory dependencies for the Secure Payment Confirmation component, including rules needed for on-device unit tests and integration tests.

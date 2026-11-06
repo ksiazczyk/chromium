@@ -1,0 +1,4 @@
+# Docerion header of payment_details_update_service.aidl.
+type: source
+title: Payment details update service AIDL declarations
+summary: AIDL file declaring the IPaymentDetailsUpdateService and callback interfaces used for binder IPC when payment details are updated.

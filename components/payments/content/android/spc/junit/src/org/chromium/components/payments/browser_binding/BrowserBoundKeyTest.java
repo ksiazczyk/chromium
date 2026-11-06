@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BrowserBoundKeyTest
+// summary: Robolectric unit tests for BrowserBoundKey covering identifier retrieval, ES256 signing verification, and COSE key encoding of EC public key coordinates.
+// ---
+
 package org.chromium.components.payments.browser_binding;
 
 import static org.junit.Assert.assertArrayEquals;

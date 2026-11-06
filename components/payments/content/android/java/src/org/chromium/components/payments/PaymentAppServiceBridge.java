@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PaymentAppServiceBridge
+// summary: JNI bridge implementing PaymentAppFactoryInterface that asks native code to find payment apps and relays results, errors, and can-make-payment values back to the delegate.
+// ---
+
 package org.chromium.components.payments;
 
 import org.jni_zero.CalledByNative;

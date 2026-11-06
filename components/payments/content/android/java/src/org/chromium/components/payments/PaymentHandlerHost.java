@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PaymentHandlerHost
+// summary: JNI bridge handling communication from the payment handler renderer process to the merchant renderer process for payment details updates.
+// ---
+
 package org.chromium.components.payments;
 
 import org.jni_zero.CalledByNative;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android BrowserBoundKey JNI implementation
+// summary: Implements BrowserBoundKey on Android by forwarding identifier, signing and public key calls to a Java object through JNI.
+// ---
+
 #include "components/payments/content/browser_binding/browser_bound_key_android.h"
 
 #include "base/android/jni_array.h"

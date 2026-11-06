@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser Global Payment Flow Manager Unit Tests
+// summary: Unit tests for the browser-global payment flow manager, verifying that only one payment flow UI can be shown at a time and that flows start and stop correctly.
+// ---
+
 package org.chromium.components.payments;
 
 import org.junit.After;

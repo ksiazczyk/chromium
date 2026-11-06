@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payment handler navigation throttle
+// summary: Java class with JNI bindings that marks a WebContents as a payment handler so native navigation code can identify payment handler pages.
+// ---
+
 package org.chromium.components.payments;
 
 import org.jni_zero.JNINamespace;

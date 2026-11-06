@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PaymentUiServiceTestInterface
+// summary: Interface exposing PaymentUiService testing hooks, such as clicking the payment handler security icon or close button and closing the payment UI.
+// ---
+
 package org.chromium.components.payments;
 
 import org.chromium.build.annotations.NullMarked;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for BrowserBoundKeyDesktop
+// summary: Tests desktop browser bound key algorithm validation, identifier retrieval, signing, COSE public key output and latency metrics.
+// ---
+
 #include "components/payments/content/browser_binding/browser_bound_key_desktop.h"
 
 #include <memory>

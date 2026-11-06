@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PasskeyBrowserBinder unit tests
+// summary: Unit tests for PasskeyBrowserBinder covering unbound key creation, key binding, retrieval and browser bound key metadata handling.
+// ---
+
 #include "components/payments/content/browser_binding/passkey_browser_binder.h"
 
 #include <cstdint>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Secure payment confirmation view binder
+// summary: Stateless binder that applies secure payment confirmation model properties such as logos, title, item list adapter and texts to the corresponding view widgets.
+// ---
+
 package org.chromium.components.payments.secure_payment_confirmation;
 
 import android.view.View;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PaymentRequestSpec
+// summary: Java container for Payment Request API data received from the renderer, backed by a native payment_request_spec instance that must be freed via destroy().
+// ---
+
 package org.chromium.components.payments;
 
 import androidx.collection.ArrayMap;

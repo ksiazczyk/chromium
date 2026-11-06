@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Secure payment confirmation UI properties
+// summary: Defines the property keys that fully describe the state of the secure payment confirmation UI, including header logos, title, item list, opt-out text, footnote and continue button label.
+// ---
+
 package org.chromium.components.payments.secure_payment_confirmation;
 
 import android.graphics.drawable.Drawable;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OriginSecurityChecker
+// summary: Java helper that queries native code to check whether a URL's origin is secure or its scheme is cryptographic.
+// ---
+
 package org.chromium.components.payments;
 
 import org.jni_zero.JNINamespace;

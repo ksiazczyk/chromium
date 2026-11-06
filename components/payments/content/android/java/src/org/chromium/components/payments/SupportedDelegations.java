@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SupportedDelegations
+// summary: Model of the delegations a service worker payment app supports, such as shipping address, payer name, phone, and email, parsed from name arrays.
+// ---
+
 package org.chromium.components.payments;
 
 import org.chromium.base.Log;

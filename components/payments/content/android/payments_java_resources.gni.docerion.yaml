@@ -1,0 +1,4 @@
+# Docerion header of payments_java_resources.gni.
+type: config
+title: Payments Java resources list for GN builds
+summary: GN build list naming the Java resource files, such as layouts, drawables and values, used by the Android payments UI.

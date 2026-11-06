@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the desktop browser bound key store
+// summary: Tests the desktop browser bound key store with a mock unexportable key provider, covering key creation, retrieval and metrics.
+// ---
+
 #include "components/payments/content/browser_binding/browser_bound_key_store_desktop.h"
 
 #include "base/test/gtest_util.h"

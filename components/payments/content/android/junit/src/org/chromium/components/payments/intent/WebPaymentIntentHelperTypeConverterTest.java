@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebPaymentIntentHelperTypeConverterTest
+// summary: Robolectric tests verifying that merchant website mojo payment data, such as totals and modifiers, is correctly converted into Android intent bundles for invoked Android payment apps.
+// ---
+
 package org.chromium.components.payments.intent;
 
 import static org.chromium.components.payments.intent.WebPaymentIntentHelperType.PaymentCurrencyAmount.EXTRA_CURRENCY;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Finder of Android payment apps with manifest verification
+// summary: Finds installed native Android payment apps and verifies their signatures against payment method manifests downloaded from payment method URLs.
+// ---
+
 package org.chromium.components.payments;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

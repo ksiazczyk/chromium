@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserBoundKeyStore.java
+// summary: Creates and stores browser bound keys for matching external credentials in the Android KeyStore, using StrongBox-backed key pairs for Secure Payment Confirmation.
+// ---
+
 package org.chromium.components.payments.browser_binding;
 
 import android.content.pm.PackageManager;

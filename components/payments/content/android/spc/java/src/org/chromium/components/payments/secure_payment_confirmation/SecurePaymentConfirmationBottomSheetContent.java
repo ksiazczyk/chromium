@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Secure payment confirmation bottom sheet content
+// summary: Implements the bottom sheet content for the secure payment confirmation sheet, providing the content view, scroll offset, accessibility strings, priority and sheet type.
+// ---
+
 package org.chromium.components.payments.secure_payment_confirmation;
 
 import android.content.Context;

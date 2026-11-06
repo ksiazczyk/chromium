@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default payment feature config for unit tests
+// summary: Provides a helper that applies the default payments feature flag configuration for unit tests without overriding @EnableFeatures and @DisableFeatures annotations.
+// ---
+
 package org.chromium.components.payments.test_support;
 
 import org.chromium.base.FeatureOverrides;
