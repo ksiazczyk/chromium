@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners reference for the on_device_ai directory
+summary: Points to the OWNERS file of chrome/browser/ai as the code owners for this directory.

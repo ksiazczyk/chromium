@@ -1,0 +1,4 @@
+# Docerion header of IDS_SUSPICIOUS_VERBOSE_STATE.png.sha1.
+type: data
+title: SHA-1 checksum for IDS_SUSPICIOUS_VERBOSE_STATE image
+summary: Holds the SHA-1 hash of the PNG screenshot for the suspicious verbose state string in the omnibox string resources.

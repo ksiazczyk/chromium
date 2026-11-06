@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: On-device AI utility implementations
+// summary: Implements conversion of on-device errors to Blink streaming response statuses and computes the set of enabled languages for a feature parameter.
+// ---
+
 #include "components/on_device_ai/ai_utils.h"
 
 #include "base/logging.h"

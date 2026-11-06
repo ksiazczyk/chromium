@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for the omnibox strings directory
+summary: Declares the UI>Browser>Omnibox monorail component and Buganizer component ID 1457180 for tracking issues in this directory.

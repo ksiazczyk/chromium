@@ -1,0 +1,4 @@
+# Docerion header of IDS_CONTENT_SUGGESTION_DESCRIPTION_TEMPLATE.png.sha1.
+type: asset
+title: SHA-1 for content suggestion description template image
+summary: Stores the SHA-1 hash of the PNG image for the template content suggestion description in the omnibox strings resource.
