@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockPermissionUiSelector header
+// summary: Declares a test PermissionUiSelector that always returns a canned decision and exposes the last prediction and relevance values.
+// ---
+
 #ifndef COMPONENTS_PERMISSIONS_TEST_MOCK_PERMISSION_UI_SELECTOR_H_
 #define COMPONENTS_PERMISSIONS_TEST_MOCK_PERMISSION_UI_SELECTOR_H_
 

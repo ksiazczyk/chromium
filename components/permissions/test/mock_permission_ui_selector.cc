@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockPermissionUiSelector implementation
+// summary: Implements a mock UI selector that always returns a canned decision and records UKM prediction and relevance values for tests.
+// ---
+
 #include "components/permissions/test/mock_permission_ui_selector.h"
 
 #include "base/functional/callback.h"

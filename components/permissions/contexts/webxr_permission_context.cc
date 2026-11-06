@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebXR permission context implementation
+// summary: Implements the WebXR permission context for VR, AR and hand-tracking settings, including Android OS-level permission checks after grants.
+// ---
+
 #include "components/permissions/contexts/webxr_permission_context.h"
 
 #include <memory>

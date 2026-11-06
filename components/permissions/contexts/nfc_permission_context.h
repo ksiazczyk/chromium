@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NFC permission context class declaration
+// summary: Declares NfcPermissionContext with a delegate interface that lets embedders adjust permission behavior.
+// ---
+
 #ifndef COMPONENTS_PERMISSIONS_CONTEXTS_NFC_PERMISSION_CONTEXT_H_
 #define COMPONENTS_PERMISSIONS_CONTEXTS_NFC_PERMISSION_CONTEXT_H_
 

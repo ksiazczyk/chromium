@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LocalFontsPermissionContext class header
+// summary: Declares the LocalFontsPermissionContext class for managing local font access permissions.
+// ---
+
 #ifndef COMPONENTS_PERMISSIONS_CONTEXTS_LOCAL_FONTS_PERMISSION_CONTEXT_H_
 #define COMPONENTS_PERMISSIONS_CONTEXTS_LOCAL_FONTS_PERMISSION_CONTEXT_H_
 

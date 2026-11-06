@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake AIvX permission model handlers header
+// summary: Declares fake classes for AIvX permission model handlers, letting tests simulate model loading and execution with controllable callbacks.
+// ---
+
 #ifndef COMPONENTS_PERMISSIONS_TEST_FAKE_PERMISSIONS_AIVX_MODELHANDLERS_H_
 #define COMPONENTS_PERMISSIONS_TEST_FAKE_PERMISSIONS_AIVX_MODELHANDLERS_H_
 

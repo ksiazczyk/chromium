@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Permission dialog class header
+// summary: Declares PermissionDialog, an iOS permission prompt subclass that presents requests as a modal dialog and provides localized button text.
+// ---
+
 #ifndef COMPONENTS_PERMISSIONS_IOS_CONTENT_PERMISSION_PROMPT_PERMISSION_DIALOG_H_
 #define COMPONENTS_PERMISSIONS_IOS_CONTENT_PERMISSION_PROMPT_PERMISSION_DIALOG_H_
 

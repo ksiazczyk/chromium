@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Prediction common helpers declaration
+// summary: Declares shared constants and helper functions for permission prediction requests, including the default service URL and rounding utilities.
+// ---
+
 #ifndef COMPONENTS_PERMISSIONS_PREDICTION_SERVICE_PREDICTION_COMMON_H_
 #define COMPONENTS_PERMISSIONS_PREDICTION_SERVICE_PREDICTION_COMMON_H_
 

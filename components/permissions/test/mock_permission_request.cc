@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockPermissionRequest implementation
+// summary: Implements a configurable mock permission request with default origin, gesture type and geolocation prompt options for use in tests.
+// ---
+
 #include "components/permissions/test/mock_permission_request.h"
 
 #include <memory>

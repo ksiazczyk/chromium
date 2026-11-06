@@ -1,0 +1,4 @@
+# Docerion header of IDS_CHROMEOS_NAME_FRAGMENT.png.sha1.
+type: data
+title: SHA-1 hash for IDS_CHROMEOS_NAME_FRAGMENT screenshot
+summary: Holds the SHA-1 checksum of the expected screenshot for the ChromeOS name fragment permission string.

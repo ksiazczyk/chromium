@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LoopbackNetworkPermissionContext implementation
+// summary: Implements the loopback network permission context bound to the loopback network content setting and its permissions policy feature.
+// ---
+
 #include "components/permissions/contexts/loopback_network_permission_context.h"
 
 #include "components/content_settings/core/common/content_settings_types.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock permission prompt header
+// summary: Declares a skeleton mock permission prompt for unit and browser tests of the permission request manager, created via its mock prompt factory.
+// ---
+
 #ifndef COMPONENTS_PERMISSIONS_TEST_MOCK_PERMISSION_PROMPT_H_
 #define COMPONENTS_PERMISSIONS_TEST_MOCK_PERMISSION_PROMPT_H_
 

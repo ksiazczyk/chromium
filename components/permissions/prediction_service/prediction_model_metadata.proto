@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Prediction model metadata definitions
+// summary: Defines protobuf messages characterizing CPSS permission prediction models, including likelihood thresholds, model features and permission types.
+// ---
+
 syntax = "proto3";
 
 option optimize_for = LITE_RUNTIME;

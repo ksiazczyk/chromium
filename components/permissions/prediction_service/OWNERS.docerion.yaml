@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Prediction service code owners
+summary: Lists the owners responsible for reviewing changes to the permissions prediction service directory.

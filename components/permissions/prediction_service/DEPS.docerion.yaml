@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Prediction service dependency allowlist
+summary: Chromium DEPS file listing the include rules and allowed dependencies for the prediction service directory.

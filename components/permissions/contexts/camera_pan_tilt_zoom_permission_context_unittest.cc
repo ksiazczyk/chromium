@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Camera pan tilt zoom permission context unit tests
+// summary: Unit tests verifying camera PTZ permission behavior, including content setting changes and interaction with regular camera permissions.
+// ---
+
 #include "components/permissions/contexts/camera_pan_tilt_zoom_permission_context.h"
 
 #include "base/memory/raw_ptr.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android geolocation permission context header
+// summary: Declares the Android geolocation permission context, which gates the per-site permission flow on system location settings and observes request finalization.
+// ---
+
 #ifndef COMPONENTS_PERMISSIONS_CONTEXTS_GEOLOCATION_PERMISSION_CONTEXT_ANDROID_H_
 #define COMPONENTS_PERMISSIONS_CONTEXTS_GEOLOCATION_PERMISSION_CONTEXT_ANDROID_H_
 

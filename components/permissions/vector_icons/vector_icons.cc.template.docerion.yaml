@@ -1,0 +1,4 @@
+# Docerion header of vector_icons.cc.template.
+type: source
+title: Template for generated vector_icons.cc
+summary: C++ template from which the permissions vector_icons.cc file is generated, so edits should be made here rather than in the generated output.

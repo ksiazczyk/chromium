@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KeyboardLockPermissionContext implementation
+// summary: Implements the keyboard lock permission context, granting the permission by default unless the keyboard lock prompt feature is enabled.
+// ---
+
 #include "components/permissions/contexts/keyboard_lock_permission_context.h"
 
 #include "components/content_settings/core/common/content_settings_types.h"

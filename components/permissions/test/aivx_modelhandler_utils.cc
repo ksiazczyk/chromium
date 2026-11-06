@@ -1,6 +1,13 @@
 // Copyright 2025 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: AIvX model handler test utilities implementation
+// summary: Implements test helpers for AIvX model handler tests, resolving model file paths under the test data root and building solid-color SkBitmaps.
+// ---
+
 #include "components/permissions/test/aivx_modelhandler_utils.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock permission prompt delegate header
+// summary: Declares a gmock mock of PermissionPrompt::Delegate that stubs request, accept, deny, dismiss, and related prompt delegate methods for tests.
+// ---
+
 #ifndef COMPONENTS_PERMISSIONS_TEST_MOCK_PERMISSION_PROMPT_DELEGATE_H_
 #define COMPONENTS_PERMISSIONS_TEST_MOCK_PERMISSION_PROMPT_DELEGATE_H_
 

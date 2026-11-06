@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Clipboard permission context delegate interface
+// summary: Declares a delegate interface that lets embedders override clipboard permission decisions and permission status lookups for webviews and workers.
+// ---
+
 #ifndef COMPONENTS_PERMISSIONS_CONTEXTS_CLIPBOARD_PERMISSION_CONTEXT_DELEGATE_H_
 #define COMPONENTS_PERMISSIONS_CONTEXTS_CLIPBOARD_PERMISSION_CONTEXT_DELEGATE_H_
 

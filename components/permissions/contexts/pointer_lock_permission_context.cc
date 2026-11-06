@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pointer lock permission context implementation
+// summary: Implements the pointer lock permission context, preventing one-time grants from persisting and allowing by default on non-Android platforms.
+// ---
+
 #include "components/permissions/contexts/pointer_lock_permission_context.h"
 
 #include "components/content_settings/core/common/content_settings_types.h"

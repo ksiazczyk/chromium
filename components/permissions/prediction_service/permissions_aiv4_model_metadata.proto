@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Permissions AIv4 model metadata proto schema
+// summary: Defines the protobuf message carrying AIv4 model metadata such as relevance thresholds, permission type, text embedding input size and passage count.
+// ---
+
 syntax = "proto3";
 
 package permissions;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Keyboard lock prompt unit tests
+// summary: Unit tests verifying keyboard lock permission status is granted when the prompt feature is disabled and set to ask when enabled.
+// ---
+
 #include "base/test/scoped_feature_list.h"
 #include "components/permissions/contexts/keyboard_lock_permission_context.h"
 #include "components/permissions/contexts/pointer_lock_permission_context.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NFC permission context for Android
+// summary: Declares the Android NFC permission context that handles system-level NFC setting prompts and notifies permission set results.
+// ---
+
 #ifndef COMPONENTS_PERMISSIONS_CONTEXTS_NFC_PERMISSION_CONTEXT_ANDROID_H_
 #define COMPONENTS_PERMISSIONS_CONTEXTS_NFC_PERMISSION_CONTEXT_ANDROID_H_
 

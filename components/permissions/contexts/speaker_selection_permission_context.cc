@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Speaker selection permission context implementation
+// summary: Implements the speaker selection permission context constructor for the SPEAKER_SELECTION content setting.
+// ---
+
 #include "components/permissions/contexts/speaker_selection_permission_context.h"
 
 #include "components/content_settings/core/common/content_settings_types.h"

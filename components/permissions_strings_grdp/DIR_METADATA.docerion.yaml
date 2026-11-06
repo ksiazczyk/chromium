@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for the permissions strings folder
+summary: Declares the Internals>Permissions monorail component, the permissions-dev team email and a Buganizer component for this folder.

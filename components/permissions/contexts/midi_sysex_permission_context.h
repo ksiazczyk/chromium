@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MIDI SysEx permission context class declaration
+// summary: Declares MidiSysexPermissionContext for managing Web MIDI SysEx permission requests.
+// ---
+
 #ifndef COMPONENTS_PERMISSIONS_CONTEXTS_MIDI_SYSEX_PERMISSION_CONTEXT_H_
 #define COMPONENTS_PERMISSIONS_CONTEXTS_MIDI_SYSEX_PERMISSION_CONTEXT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth chooser context class declaration
+// summary: Declares the manager for Web Bluetooth device permissions, including conversions between WebBluetoothDeviceId and device addresses and service access checks.
+// ---
+
 #ifndef COMPONENTS_PERMISSIONS_CONTEXTS_BLUETOOTH_CHOOSER_CONTEXT_H_
 #define COMPONENTS_PERMISSIONS_CONTEXTS_BLUETOOTH_CHOOSER_CONTEXT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockPermissionRequest header
+// summary: Declares a mock PermissionRequest subclass with shared state tracking granted, cancelled and finished results, plus duplicate request creation.
+// ---
+
 #ifndef COMPONENTS_PERMISSIONS_TEST_MOCK_PERMISSION_REQUEST_H_
 #define COMPONENTS_PERMISSIONS_TEST_MOCK_PERMISSION_REQUEST_H_
 

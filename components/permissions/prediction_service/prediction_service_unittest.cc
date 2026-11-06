@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Prediction service unit tests
+// summary: Unit tests for PredictionService covering request feature building, service URL handling and response parsing.
+// ---
+
 #include "components/permissions/prediction_service/prediction_service.h"
 
 #include <memory>

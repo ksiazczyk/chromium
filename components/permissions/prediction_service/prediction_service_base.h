@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Prediction service base interface
+// summary: Defines the abstract PredictionServiceBase interface and lookup callbacks shared by permission prediction service implementations.
+// ---
+
 #ifndef COMPONENTS_PERMISSIONS_PREDICTION_SERVICE_PREDICTION_SERVICE_BASE_H_
 #define COMPONENTS_PERMISSIONS_PREDICTION_SERVICE_PREDICTION_SERVICE_BASE_H_
 

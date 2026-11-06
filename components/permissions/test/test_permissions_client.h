@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test permissions client header
+// summary: Declares TestPermissionsClient, a PermissionsClient for tests that implements all pure virtual methods and assumes a single BrowserContext.
+// ---
+
 #ifndef COMPONENTS_PERMISSIONS_TEST_TEST_PERMISSIONS_CLIENT_H_
 #define COMPONENTS_PERMISSIONS_TEST_TEST_PERMISSIONS_CLIENT_H_
 

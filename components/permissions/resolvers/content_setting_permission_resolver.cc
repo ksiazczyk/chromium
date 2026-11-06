@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content setting permission resolver implementation
+// summary: Implements the resolver for basic ContentSetting permissions, mapping content settings and prompt decisions to permission statuses.
+// ---
+
 #include "components/permissions/resolvers/content_setting_permission_resolver.h"
 
 #include <variant>

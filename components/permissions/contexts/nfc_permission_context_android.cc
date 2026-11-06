@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android NFC permission context implementation
+// summary: Implements the Android NFC permission context, prompting users to enable the NFC system-level setting when needed.
+// ---
+
 #include "components/permissions/contexts/nfc_permission_context_android.h"
 
 #include <memory>

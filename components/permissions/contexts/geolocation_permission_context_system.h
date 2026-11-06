@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System geolocation permission context header
+// summary: Declares a geolocation permission context that factors the operating system's location permission into permission status and observes system permission updates.
+// ---
+
 #ifndef COMPONENTS_PERMISSIONS_CONTEXTS_GEOLOCATION_PERMISSION_CONTEXT_SYSTEM_H_
 #define COMPONENTS_PERMISSIONS_CONTEXTS_GEOLOCATION_PERMISSION_CONTEXT_SYSTEM_H_
 

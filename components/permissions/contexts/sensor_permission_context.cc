@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sensor permission context implementation
+// summary: Implements the sensor permission context, recording allowed or blocked sensor access in page-specific content settings.
+// ---
+
 #include "components/permissions/contexts/sensor_permission_context.h"
 
 #include "components/content_settings/browser/page_specific_content_settings.h"

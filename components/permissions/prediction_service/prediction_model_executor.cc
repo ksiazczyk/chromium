@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Prediction model executor implementation
+// summary: Implements preprocessing and postprocessing that move permission request features into and results out of the TFLite model's input and output tensors.
+// ---
+
 #include "components/permissions/prediction_service/prediction_model_executor.h"
 
 #include "base/notreached.h"

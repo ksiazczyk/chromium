@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Prediction service build configuration
+summary: GN build file defining the proto message library, the prediction service source set, and the unit test targets with their dependencies.

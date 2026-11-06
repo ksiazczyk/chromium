@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Permission test utility implementation
+// summary: Implements fake permission contexts, a test geolocation delegate, and helpers that build permission contexts and a PermissionControllerDelegate for permission tests.
+// ---
+
 #include "components/permissions/test/permission_test_util.h"
 
 #include "base/feature_list.h"

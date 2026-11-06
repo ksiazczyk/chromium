@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for permissions contexts
+summary: Defines the allowed include dependencies for the permissions contexts directory, such as content settings, location, prefs, WebRTC and Bluetooth.

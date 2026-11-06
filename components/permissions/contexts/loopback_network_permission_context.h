@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LoopbackNetworkPermissionContext class declaration
+// summary: Declares the loopback network permission context, a content setting permission context for loopback network access.
+// ---
+
 #ifndef COMPONENTS_PERMISSIONS_CONTEXTS_LOOPBACK_NETWORK_PERMISSION_CONTEXT_H_
 #define COMPONENTS_PERMISSIONS_CONTEXTS_LOOPBACK_NETWORK_PERMISSION_CONTEXT_H_
 

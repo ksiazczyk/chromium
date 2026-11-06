@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Prediction request features
+// summary: Defines the PredictionRequestFeatures struct carrying gesture, request type, permission action counts, origin and experiment ID for prediction requests.
+// ---
+
 #ifndef COMPONENTS_PERMISSIONS_PREDICTION_SERVICE_PREDICTION_REQUEST_FEATURES_H_
 #define COMPONENTS_PERMISSIONS_PREDICTION_SERVICE_PREDICTION_REQUEST_FEATURES_H_
 

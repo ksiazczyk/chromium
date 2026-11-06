@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PermissionUiSelector implementation
+// summary: Implements Decision helpers, animation suppression logic, and default UKM-related methods for the permission UI selector interface.
+// ---
+
 #include "components/permissions/prediction_service/permission_ui_selector.h"
 
 #include <optional>

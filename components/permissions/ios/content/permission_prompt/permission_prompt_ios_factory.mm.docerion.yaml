@@ -1,0 +1,4 @@
+# Docerion header of permission_prompt_ios_factory.mm.
+type: source
+title: Permission prompt factory for iOS
+summary: Factory that creates PermissionDialog instances as the iOS PermissionPrompt and supplies no-op embedded prompt flow delegate methods.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PermissionRequestObserver header
+// summary: Declares an observer for tests to detect whether a permission request was shown, usable in blocking or non-blocking mode.
+// ---
+
 #ifndef COMPONENTS_PERMISSIONS_TEST_PERMISSION_REQUEST_OBSERVER_H_
 #define COMPONENTS_PERMISSIONS_TEST_PERMISSION_REQUEST_OBSERVER_H_
 

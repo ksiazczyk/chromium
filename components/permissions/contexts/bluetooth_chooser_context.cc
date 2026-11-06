@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth chooser context implementation
+// summary: Implements management of Web Bluetooth device permissions, storing device addresses, names, services and manufacturer data per origin.
+// ---
+
 #include "components/permissions/contexts/bluetooth_chooser_context.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app installation permission context header
+// summary: Declares the WebAppInstallationPermissionContext class managing the web app installation content setting.
+// ---
+
 #ifndef COMPONENTS_PERMISSIONS_CONTEXTS_WEB_APP_INSTALLATION_PERMISSION_CONTEXT_H_
 #define COMPONENTS_PERMISSIONS_CONTEXTS_WEB_APP_INSTALLATION_PERMISSION_CONTEXT_H_
 

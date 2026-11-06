@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Permissions AIv4 model executor implementation
+// summary: Preprocesses page snapshots and text embeddings into TFLite tensors and sets relevance thresholds for the on-device AIv4 permission model.
+// ---
+
 #include "components/permissions/prediction_service/permissions_aiv4_executor.h"
 
 #include <array>

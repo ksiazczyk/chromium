@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GeolocationPermissionContext implementation
+// summary: Implements geolocation permission decisions, tab context updates, and support for the approximate geolocation permission feature.
+// ---
+
 #include "components/permissions/contexts/geolocation_permission_context.h"
 
 #include <variant>

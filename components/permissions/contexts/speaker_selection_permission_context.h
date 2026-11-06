@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Speaker selection permission context header
+// summary: Declares the speaker selection permission context, which is not yet hooked into MediaStreamDevicesController.
+// ---
+
 #ifndef COMPONENTS_PERMISSIONS_CONTEXTS_SPEAKER_SELECTION_PERMISSION_CONTEXT_H_
 #define COMPONENTS_PERMISSIONS_CONTEXTS_SPEAKER_SELECTION_PERMISSION_CONTEXT_H_
 

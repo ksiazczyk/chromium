@@ -1,0 +1,4 @@
+# Docerion header of vector_icons.h.template.
+type: source
+title: Template for generated vector_icons.h
+summary: Header template from which the permissions vector_icons.h file is generated, declaring vector icon constants in the permissions namespace.

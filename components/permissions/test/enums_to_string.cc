@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Permission enum to string conversions implementation
+// summary: Implements ToString helpers that map permission enums such as quiet UI reasons and request types to readable strings for test naming and logging.
+// ---
+
 #include "components/permissions/test/enums_to_string.h"
 
 #include "base/containers/fixed_flat_map.h"

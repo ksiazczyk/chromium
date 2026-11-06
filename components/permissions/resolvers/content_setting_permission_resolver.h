@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentSettingPermissionResolver class declaration
+// summary: Declares the PermissionResolver subclass for basic ContentSetting permissions that do not use permission prompt options.
+// ---
+
 #include "components/permissions/permission_decision.h"
 #include "components/permissions/request_type.h"
 #include "components/permissions/resolvers/permission_resolver.h"

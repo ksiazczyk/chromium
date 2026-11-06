@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Prediction common helpers implementation
+// summary: Implements shared prediction service helpers for ratio rounding, value bucketing, platform and gesture conversions, and building prediction request protos.
+// ---
+
 #include "components/permissions/prediction_service/prediction_common.h"
 
 #include <cmath>

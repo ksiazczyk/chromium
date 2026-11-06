@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClipboardReadWritePermissionContext header
+// summary: Declares the permission context that manages Clipboard API user permissions for unsanitized read and write as well as sanitized read.
+// ---
+
 #ifndef COMPONENTS_PERMISSIONS_CONTEXTS_CLIPBOARD_READ_WRITE_PERMISSION_CONTEXT_H_
 #define COMPONENTS_PERMISSIONS_CONTEXTS_CLIPBOARD_READ_WRITE_PERMISSION_CONTEXT_H_
 

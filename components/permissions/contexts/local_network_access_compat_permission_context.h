@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LocalNetworkAccessCompatPermissionContext class header
+// summary: Declares the LocalNetworkAccessCompatPermissionContext that aliases local-network-access to the local-network and loopback-network permissions.
+// ---
+
 #ifndef COMPONENTS_PERMISSIONS_CONTEXTS_LOCAL_NETWORK_ACCESS_COMPAT_PERMISSION_CONTEXT_H_
 #define COMPONENTS_PERMISSIONS_CONTEXTS_LOCAL_NETWORK_ACCESS_COMPAT_PERMISSION_CONTEXT_H_
 

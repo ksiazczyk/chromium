@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window management permission context implementation
+// summary: Implements the window management permission context with Android feature-gated status checks and user activation notification on grant.
+// ---
+
 #include "components/permissions/contexts/window_management_permission_context.h"
 
 #include "components/content_settings/core/common/content_settings_types.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local network access compat permission context implementation
+// summary: Implements a compatibility permission context that derives the local-network-access status from the local-network and loopback-network content settings.
+// ---
+
 #include "components/permissions/contexts/local_network_access_compat_permission_context.h"
 
 #include "base/logging.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Permissions AI encoder base implementation
+// summary: Implements SkBitmap to TFLite tensor conversion and threshold-based mapping of model output to permission request relevance values.
+// ---
+
 #include "components/permissions/prediction_service/permissions_ai_encoder_base.h"
 
 #include <array>

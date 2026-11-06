@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockPermissionObserver header
+// summary: Declares a gmock-based permission observer that records object permission changes and revocations for tests.
+// ---
+
 #ifndef COMPONENTS_PERMISSIONS_TEST_OBJECT_PERMISSION_CONTEXT_BASE_MOCK_PERMISSION_OBSERVER_H_
 #define COMPONENTS_PERMISSIONS_TEST_OBJECT_PERMISSION_CONTEXT_BASE_MOCK_PERMISSION_OBSERVER_H_
 

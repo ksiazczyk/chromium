@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Permission enum to string conversions header
+// summary: Declares ToString helpers that convert permission-related enums into strings to support parametrized test name generation and simple logging.
+// ---
+
 #ifndef COMPONENTS_PERMISSIONS_TEST_ENUMS_TO_STRING_H_
 #define COMPONENTS_PERMISSIONS_TEST_ENUMS_TO_STRING_H_
 
