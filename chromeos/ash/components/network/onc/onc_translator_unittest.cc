@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ONC translator unit tests
+// summary: Verifies ONC-to-Shill and Shill-to-ONC translation against expected test dictionaries across many network and VPN types.
+// ---
+
 #include "chromeos/ash/components/network/onc/onc_translator.h"
 
 #include <string>

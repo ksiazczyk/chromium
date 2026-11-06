@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TechnologyEnablementWaiter test support header
+// summary: Declares a NetworkStateHandlerObserver-based test helper that lets tests wait for a network technology to become enabled or disabled.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_NETWORK_TEST_SUPPORT_TECHNOLOGY_ENABLEMENT_WAITER_H_
 #define CHROMEOS_ASH_COMPONENTS_NETWORK_TEST_SUPPORT_TECHNOLOGY_ENABLEMENT_WAITER_H_
 

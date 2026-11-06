@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build configuration for the ONC network component
+summary: Defines the onc source set, its unit test target, and the onc_normalizer fuzzer target with their sources and dependencies.

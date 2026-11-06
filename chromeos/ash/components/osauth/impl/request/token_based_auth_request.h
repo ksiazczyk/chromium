@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TokenBasedAuthRequest class declaration
+// summary: Declares the base class for authentication requests that deliver an auth proof token and timeout through a completion callback on success.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_OSAUTH_IMPL_REQUEST_TOKEN_BASED_AUTH_REQUEST_H_
 #define CHROMEOS_ASH_COMPONENTS_OSAUTH_IMPL_REQUEST_TOKEN_BASED_AUTH_REQUEST_H_
 

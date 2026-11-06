@@ -1,3 +1,12 @@
+---
+type: readme
+title: Open Network Configuration
+summary: Explains the ONC format on ChromeOS, covering ONC constants, translation to and from Shill, merging, configuring networks, and extending ONC.
+relations:
+  - references /components/onc/docs/onc_spec.md
+  - references /chromeos/ash/components/network/README.md
+---
+
 # Open Network Configuration
 
 The [Open Network Configuration

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MockAuthFactorEngine implementation
+// summary: Provides constructor and destructor definitions for MockAuthFactorEngine and MockAuthFactorEngineObserver.
+// ---
+
 #include "chromeos/ash/components/osauth/test_support/mock_auth_factor_engine.h"
 
 namespace ash {

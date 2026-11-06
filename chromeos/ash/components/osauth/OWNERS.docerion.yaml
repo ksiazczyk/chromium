@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OS auth component owners
+summary: Lists the primary and secondary code owners responsible for the osauth component directory.

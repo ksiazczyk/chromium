@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AuthPartsImpl class declaration
+// summary: Declares AuthPartsImpl, the AuthParts implementation holding the auth hub, session storage, cryptohome core and engine factories.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_OSAUTH_IMPL_AUTH_PARTS_IMPL_H_
 #define CHROMEOS_ASH_COMPONENTS_OSAUTH_IMPL_AUTH_PARTS_IMPL_H_
 

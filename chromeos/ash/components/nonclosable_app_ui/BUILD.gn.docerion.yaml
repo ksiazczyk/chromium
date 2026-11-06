@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for the nonclosable_app_ui component
+summary: Defines the GN build target for the nonclosable_app_ui component, listing its sources and dependencies on ash, base, chromeos strings, and ui/base.

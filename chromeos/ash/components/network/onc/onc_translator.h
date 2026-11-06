@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ONC translator interface
+// summary: Declares functions that translate network settings between hierarchical ONC dictionaries and flat Shill dictionaries.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_NETWORK_ONC_ONC_TRANSLATOR_H_
 #define CHROMEOS_ASH_COMPONENTS_NETWORK_ONC_ONC_TRANSLATOR_H_
 

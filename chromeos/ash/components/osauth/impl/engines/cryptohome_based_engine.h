@@ -1,6 +1,13 @@
 // Copyright 2023 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: CryptohomeBasedEngine base class header
+// summary: Declares CryptohomeBasedEngine, the common base for cryptohome-based auth factor engines, with shared initialization, auth flow and shutdown logic.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_OSAUTH_IMPL_ENGINES_CRYPTOHOME_BASED_ENGINE_H_
 #define CHROMEOS_ASH_COMPONENTS_OSAUTH_IMPL_ENGINES_CRYPTOHOME_BASED_ENGINE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Prefs-based legacy PIN engine unit tests
+// summary: Unit tests verifying the legacy PIN engine's factor identification and PIN authentication flow.
+// ---
+
 #include "chromeos/ash/components/osauth/impl/engines/prefs_pin_engine.h"
 
 #include "ash/constants/ash_pref_names.h"

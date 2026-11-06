@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Token-based auth request base implementation
+// summary: Implements the base class for auth requests that return an auth proof token, completing attempts with success, token and lifetime via a callback.
+// ---
+
 #include "chromeos/ash/components/osauth/impl/request/token_based_auth_request.h"
 
 #include "chromeos/ash/components/cryptohome/constants.h"

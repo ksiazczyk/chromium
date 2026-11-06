@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payments autofill auth request implementation
+// summary: Implements the auth request for payments autofill, treating a missing auth factor as success and otherwise delegating to the token-based base class.
+// ---
+
 #include "chromeos/ash/components/osauth/impl/request/payments_autofill_auth_request.h"
 
 #include <string>

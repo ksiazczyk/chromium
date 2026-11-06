@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CryptohomeCoreImpl implementation
+// summary: Implements CryptohomeCore, managing cryptohome auth sessions, context borrowing and auth factor configuration requests.
+// ---
+
 #include "chromeos/ash/components/osauth/impl/cryptohome_core_impl.h"
 
 #include <memory>

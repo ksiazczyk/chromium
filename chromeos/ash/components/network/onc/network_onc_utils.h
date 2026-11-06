@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ONC network utility declarations
+// summary: Declares functions for translating proxy settings between ONC and ProxyConfig, importing networks for users, and querying network policies.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_NETWORK_ONC_NETWORK_ONC_UTILS_H_
 #define CHROMEOS_ASH_COMPONENTS_NETWORK_ONC_NETWORK_ONC_UTILS_H_
 

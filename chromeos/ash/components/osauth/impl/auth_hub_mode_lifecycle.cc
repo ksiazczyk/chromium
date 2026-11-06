@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AuthHubModeLifecycle implementation
+// summary: Implements engine initialization and shutdown sequences with watchdogs when the auth hub switches between modes.
+// ---
+
 #include "chromeos/ash/components/osauth/impl/auth_hub_mode_lifecycle.h"
 #include <memory>
 #include <ostream>

@@ -1,3 +1,9 @@
+---
+type: readme
+title: About //chromeos/ash/components/osauth
+summary: Explains that the directory implements local OS user authentication and management of local authentication factors, decoupled from login logic via Cryptohome modernization.
+---
+
 # About //chromeos/ash/components/osauth
 
 This directory contains components that implement OS User authentication

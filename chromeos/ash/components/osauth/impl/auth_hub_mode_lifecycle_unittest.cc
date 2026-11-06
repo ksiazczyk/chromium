@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AuthHubModeLifecycle unit tests
+// summary: Unit tests for the mode lifecycle, verifying engine creation, initialization, shutdown, and mode switching behavior.
+// ---
+
 #include "chromeos/ash/components/osauth/impl/auth_hub_mode_lifecycle.h"
 
 #include <memory>

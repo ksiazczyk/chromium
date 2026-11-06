@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MockAuthFactorStatusConsumer header
+// summary: Declares a gmock mock of AuthFactorStatusConsumer with mocked UI initialization, factor list and status changes, and auth success or failure callbacks for tests.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_OSAUTH_TEST_SUPPORT_MOCK_AUTH_FACTOR_STATUS_CONSUMER_H_
 #define CHROMEOS_ASH_COMPONENTS_OSAUTH_TEST_SUPPORT_MOCK_AUTH_FACTOR_STATUS_CONSUMER_H_
 

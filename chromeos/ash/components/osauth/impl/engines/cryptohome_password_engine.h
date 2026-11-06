@@ -1,6 +1,13 @@
 // Copyright 2023 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: CryptohomePasswordEngine header
+// summary: Declares the password auth factor engine and its factory for Gaia password authentication via the cryptohome-based engine base class.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_OSAUTH_IMPL_ENGINES_CRYPTOHOME_PASSWORD_ENGINE_H_
 #define CHROMEOS_ASH_COMPONENTS_OSAUTH_IMPL_ENGINES_CRYPTOHOME_PASSWORD_ENGINE_H_
 

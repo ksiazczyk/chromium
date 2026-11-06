@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for pcie_peripheral
+summary: Specifies allowed include dependencies for the directory plus extra rules for the unit test file.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Peripheral notification BUILD.gn build configuration
+summary: GN build file defining the peripheral_notification component and its unit test target, including their sources and dependencies.

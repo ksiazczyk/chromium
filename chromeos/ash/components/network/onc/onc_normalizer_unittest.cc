@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ONC normalizer unit tests
+// summary: Unit tests verifying removal of irrelevant StaticIPConfig, NameServers, and other ONC fields during normalization.
+// ---
+
 #include "chromeos/ash/components/network/onc/onc_normalizer.h"
 
 #include "base/values.h"

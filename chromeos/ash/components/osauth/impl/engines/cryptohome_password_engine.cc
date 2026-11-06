@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CryptohomePasswordEngine implementation
+// summary: Implements the password auth factor engine, performing password authentication attempts against cryptohome and reporting results to observers.
+// ---
+
 #include "chromeos/ash/components/osauth/impl/engines/cryptohome_password_engine.h"
 #include <memory>
 #include <optional>

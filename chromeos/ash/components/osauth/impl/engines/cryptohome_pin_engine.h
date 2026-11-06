@@ -1,6 +1,13 @@
 // Copyright 2023 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: CryptohomePinEngine header
+// summary: Declares the PIN auth factor engine and its factory, including PIN attempt handling and retrieval of the user's quick-unlock PIN salt.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_OSAUTH_IMPL_ENGINES_CRYPTOHOME_PIN_ENGINE_H_
 #define CHROMEOS_ASH_COMPONENTS_OSAUTH_IMPL_ENGINES_CRYPTOHOME_PIN_ENGINE_H_
 

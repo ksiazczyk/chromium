@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the ONC certificate importer
+// summary: Tests importing client certificates from ONC test dictionaries into test NSS public and private databases.
+// ---
+
 #include "chromeos/ash/components/network/onc/onc_certificate_importer_impl.h"
 
 #include <cert.h>

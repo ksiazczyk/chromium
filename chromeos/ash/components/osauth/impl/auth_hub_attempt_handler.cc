@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AuthHubAttemptHandler implementation
+// summary: Combines events from auth factor engines during a single authentication flow, tracks factor states and reports status changes to the consumer.
+// ---
+
 #include "chromeos/ash/components/osauth/impl/auth_hub_attempt_handler.h"
 
 #include <optional>

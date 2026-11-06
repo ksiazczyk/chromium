@@ -1,6 +1,13 @@
 // Copyright 2024 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: CryptohomeFingerprintEngine header
+// summary: Declares the fingerprint auth factor engine and its factory, including stage handling for preparation, authentication and termination of fingerprint scans.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_OSAUTH_IMPL_ENGINES_CRYPTOHOME_FINGERPRINT_ENGINE_H_
 #define CHROMEOS_ASH_COMPONENTS_OSAUTH_IMPL_ENGINES_CRYPTOHOME_FINGERPRINT_ENGINE_H_
 

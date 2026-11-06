@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Legacy auth surface registry header
+// summary: Declares LegacyAuthSurfaceRegistry with an AuthSurface enum and callback registration for auth dialog shown notifications.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_OSAUTH_IMPL_LEGACY_AUTH_SURFACE_REGISTRY_H_
 #define CHROMEOS_ASH_COMPONENTS_OSAUTH_IMPL_LEGACY_AUTH_SURFACE_REGISTRY_H_
 

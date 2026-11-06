@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AuthFactorConfigurationHelper class declaration
+// summary: Declares a helper that fetches configured auth factors for an account and checks whether an online password is present.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_OSAUTH_IMPL_AUTH_FACTOR_CONFIGURATION_HELPER_H_
 #define CHROMEOS_ASH_COMPONENTS_OSAUTH_IMPL_AUTH_FACTOR_CONFIGURATION_HELPER_H_
 

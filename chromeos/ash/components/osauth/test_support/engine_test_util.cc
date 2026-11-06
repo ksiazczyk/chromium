@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EngineTestBase implementation
+// summary: Implements the EngineTestBase constructor and destructor that wire a cryptohome core to a mock UserDataAuth client.
+// ---
+
 #include "chromeos/ash/components/osauth/test_support/engine_test_util.h"
 
 #include <memory>

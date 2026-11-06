@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ONC translation tables header
+// summary: Declares the ONC-to-Shill string and field translation tables plus helper functions for table lookup and nested dictionary paths.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_NETWORK_ONC_ONC_TRANSLATION_TABLES_H_
 #define CHROMEOS_ASH_COMPONENTS_NETWORK_ONC_ONC_TRANSLATION_TABLES_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CryptohomeBasedEngine implementation
+// summary: Implements the common base class for cryptohome-based auth factor engines, handling session start, shutdown, cleanup, observer updates and usage settings.
+// ---
+
 #include "chromeos/ash/components/osauth/impl/engines/cryptohome_based_engine.h"
 
 #include <utility>

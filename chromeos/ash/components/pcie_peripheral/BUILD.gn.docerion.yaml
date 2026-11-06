@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for pcie_peripheral
+summary: Defines the pcie_peripheral component and its unit test source set, listing sources, dependencies, and build configs.

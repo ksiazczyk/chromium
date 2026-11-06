@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UIProxyConfigService class declaration
+// summary: Declares the service that provides the UI with network proxy configurations and the proxy mode for privacy warnings.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_NETWORK_PROXY_UI_PROXY_CONFIG_SERVICE_H_
 #define CHROMEOS_ASH_COMPONENTS_NETWORK_PROXY_UI_PROXY_CONFIG_SERVICE_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for osauth test support library
+summary: Defines the test_support static library that bundles mocks and test utilities for the ChromeOS ash osauth component.

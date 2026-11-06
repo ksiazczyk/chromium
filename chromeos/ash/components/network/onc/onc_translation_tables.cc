@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ONC translation tables implementation
+// summary: Defines the field and string translation tables that map ONC network setting names and values to Shill properties.
+// ---
+
 #include "chromeos/ash/components/network/onc/onc_translation_tables.h"
 
 #include <cstddef>

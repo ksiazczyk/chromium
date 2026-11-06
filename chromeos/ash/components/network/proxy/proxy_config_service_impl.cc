@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProxyConfigServiceImpl implementation
+// summary: Implements the ChromeOS proxy config service that computes the effective proxy configuration from prefs, policies, and the active network.
+// ---
+
 #include "chromeos/ash/components/network/proxy/proxy_config_service_impl.h"
 
 #include <memory>

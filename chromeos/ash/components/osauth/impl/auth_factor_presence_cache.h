@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AuthFactorPresenceCache class declaration
+// summary: Declares a cache that gives the authentication UI synchronous access to the expected set of available auth factors per attempt.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_OSAUTH_IMPL_AUTH_FACTOR_PRESENCE_CACHE_H_
 #define CHROMEOS_ASH_COMPONENTS_OSAUTH_IMPL_AUTH_FACTOR_PRESENCE_CACHE_H_
 

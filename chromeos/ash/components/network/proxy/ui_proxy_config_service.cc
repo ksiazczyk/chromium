@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UIProxyConfigService implementation
+// summary: Implements merging enforced proxy settings from policies and extensions into ONC dictionaries for the ChromeOS settings UI.
+// ---
+
 #include "chromeos/ash/components/network/proxy/ui_proxy_config_service.h"
 
 #include <memory>

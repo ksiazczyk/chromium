@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AuthSurfaceRegistry implementation
+// summary: Implements the registry that notifies registered observers when auth dialogs are shown on supported surfaces.
+// ---
+
 #include "chromeos/ash/components/osauth/impl/auth_surface_registry.h"
 
 #include "base/notimplemented.h"

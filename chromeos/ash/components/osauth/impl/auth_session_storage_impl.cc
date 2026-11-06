@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AuthSessionStorageImpl implementation
+// summary: Implements token-based storage managing lifetime of authenticated UserContexts, including borrowing, returning and session invalidation.
+// ---
+
 #include "chromeos/ash/components/osauth/impl/auth_session_storage_impl.h"
 
 #include <memory>

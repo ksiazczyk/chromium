@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PaymentsAutofillAuthRequest class declaration
+// summary: Declares the token-based auth request used when authenticating for payments autofill, handling behavior specific to those requests.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_OSAUTH_IMPL_REQUEST_PAYMENTS_AUTOFILL_AUTH_REQUEST_H_
 #define CHROMEOS_ASH_COMPONENTS_OSAUTH_IMPL_REQUEST_PAYMENTS_AUTOFILL_AUTH_REQUEST_H_
 

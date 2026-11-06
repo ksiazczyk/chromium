@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AuthSessionStorageImpl unit tests
+// summary: Unit tests covering token validity, borrowing, returning and invalidation of stored authentication sessions with a mock UserDataAuthClient.
+// ---
+
 #include "chromeos/ash/components/osauth/impl/auth_session_storage_impl.h"
 
 #include <memory>

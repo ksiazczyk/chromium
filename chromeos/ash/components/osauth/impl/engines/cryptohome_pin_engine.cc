@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CryptohomePinEngine implementation
+// summary: Implements the PIN auth factor engine, performing PIN authentication attempts with per-user salt lookup and reporting results to observers.
+// ---
+
 #include "chromeos/ash/components/osauth/impl/engines/cryptohome_pin_engine.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ONC certificate pattern unit tests
+// summary: Unit tests verifying parsing of certificate patterns from ONC dictionaries and matching of issuer, subject, and CA fields against test certificates.
+// ---
+
 #include "chromeos/ash/components/network/onc/onc_certificate_pattern.h"
 
 #include <string>

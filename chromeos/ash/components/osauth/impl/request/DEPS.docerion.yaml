@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the osauth request directory
+summary: Defines the include dependencies allowed for code in the osauth request implementation directory, permitting cryptohome, login and ui/base.

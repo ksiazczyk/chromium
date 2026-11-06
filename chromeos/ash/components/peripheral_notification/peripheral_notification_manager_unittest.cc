@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Peripheral notification manager unit tests
+// summary: Unit tests for PeripheralNotificationManager using fake Typecd and Pciguard clients and a fake observer to verify notification behavior and recorded metrics.
+// ---
+
 #include "chromeos/ash/components/peripheral_notification/peripheral_notification_manager.h"
 
 #include <memory>

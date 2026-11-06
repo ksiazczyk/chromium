@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Login screen auth policy connector header
+// summary: Declares LoginScreenAuthPolicyConnector, an AuthPolicyConnector backed by local state for pre-profile login screen policy.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_OSAUTH_IMPL_LOGIN_SCREEN_AUTH_POLICY_CONNECTOR_H_
 #define CHROMEOS_ASH_COMPONENTS_OSAUTH_IMPL_LOGIN_SCREEN_AUTH_POLICY_CONNECTOR_H_
 

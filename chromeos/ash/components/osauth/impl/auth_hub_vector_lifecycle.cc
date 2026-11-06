@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AuthHubVectorLifecycle implementation
+// summary: Implements the per-attempt lifecycle that starts, cleans up, and stops auth engines for a user and purpose combination.
+// ---
+
 #include "chromeos/ash/components/osauth/impl/auth_hub_vector_lifecycle.h"
 
 #include <optional>

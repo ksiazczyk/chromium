@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ONC normalizer fuzzer
+// summary: Fuzz target that feeds arbitrary JSON network configurations to the ONC Normalizer with and without removal of recommended fields.
+// ---
+
 #include "chromeos/ash/components/network/onc/onc_normalizer.h"
 
 #include <stddef.h>

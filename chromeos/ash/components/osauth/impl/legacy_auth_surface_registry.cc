@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Legacy auth surface registry implementation
+// summary: Implements LegacyAuthSurfaceRegistry, notifying registered callbacks when in-session auth dialogs are shown.
+// ---
+
 #include "chromeos/ash/components/osauth/impl/legacy_auth_surface_registry.h"
 
 #include "base/notimplemented.h"

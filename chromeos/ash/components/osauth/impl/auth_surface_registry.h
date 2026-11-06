@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AuthSurfaceRegistry class declaration
+// summary: Declares a registry of auth surfaces such as login, lock and in-session, with callbacks for shown auth dialogs.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_OSAUTH_IMPL_AUTH_SURFACE_REGISTRY_H_
 #define CHROMEOS_ASH_COMPONENTS_OSAUTH_IMPL_AUTH_SURFACE_REGISTRY_H_
 

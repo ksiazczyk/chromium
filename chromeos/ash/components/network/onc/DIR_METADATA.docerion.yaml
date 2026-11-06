@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Bug tracking metadata for the ONC directory
+summary: Maps the directory to the OS>Software>Enterprise>Networking Monorail component and a Buganizer component ID.
