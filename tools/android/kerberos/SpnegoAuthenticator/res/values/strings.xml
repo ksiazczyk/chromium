@@ -1,3 +1,9 @@
+<!--docerion
+type: config
+title: SpnegoAuthenticator string resources
+summary: Defines Android string resources for the SpnegoAuthenticator app, including sign-in action labels, activity title, and the account type identifier.
+-->
+
 <resources>
     <string name="app_name">SpnegoAuthenticator</string>
     <string name="action_sign_in_1">Sign In Account 1</string>

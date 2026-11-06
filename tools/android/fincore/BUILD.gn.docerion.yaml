@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: fincore GN build file
+summary: GN build configuration that defines the fincore executable target with fincore.cc as its source.

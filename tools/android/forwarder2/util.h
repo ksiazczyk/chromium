@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Map deletion utility templates
+// summary: Provides templates that safely delete ref-counted values in a map by unlinking them before erasure, guarding destructors that access the map.
+// ---
+
 #ifndef TOOLS_ANDROID_FORWARDER2_UTIL_H_
 #define TOOLS_ANDROID_FORWARDER2_UTIL_H_
 

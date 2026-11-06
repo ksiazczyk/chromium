@@ -1,0 +1,4 @@
+# Docerion header of graph_display_panel.vue.
+type: source
+title: Graph display panel component
+summary: Vue component providing a display preset selector and a toggleable panel that reveals advanced graph display settings via a slot.

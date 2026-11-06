@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Daemon spawning implementation
+// summary: Implements help and no-spawn-daemon switch checks, usage output, and SpawnDaemon, which forks a detached daemon process and closes standard file descriptors.
+// ---
+
 #include "tools/android/common/daemon.h"
 
 #include <errno.h>

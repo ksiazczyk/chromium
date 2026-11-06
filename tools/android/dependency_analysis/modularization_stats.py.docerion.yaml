@@ -1,0 +1,4 @@
+# Docerion header of modularization_stats.py.
+type: source
+title: Modularization stats command-line tool
+summary: Generates a JSON of metrics such as graph sizes, package cycles, inbound dependencies and LOC stats to track Chrome Android modularization progress.

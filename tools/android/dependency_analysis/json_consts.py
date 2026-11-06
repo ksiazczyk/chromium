@@ -1,6 +1,13 @@
 # Copyright 2020 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: JSON constants for dependency graph de/serialization
+# summary: Defines constants for node, edge, build metadata and graph keys used when serializing and deserializing dependency graphs.
+# ---
+
 """Various constants used in de/serialization."""
 
 # Node-specific constants

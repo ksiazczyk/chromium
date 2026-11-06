@@ -1,0 +1,4 @@
+# Docerion header of run_server.py.
+type: source
+title: Layout inspector web server
+summary: Runs a local web server that serves a static UI and proxies ADB commands such as density queries and screenshots to a connected Android device.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the SpnegoAuthenticator APK
+summary: Defines the test-only spnego_authenticator_apk target with its Java sources and the Android resources packaged into the APK.

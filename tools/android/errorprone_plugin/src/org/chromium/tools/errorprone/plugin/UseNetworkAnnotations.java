@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UseNetworkAnnotations – Error Prone check for direct network calls
+// summary: Error Prone bug checker that blocks direct calls to URL#openConnection() and openStream() outside an allowlist, requiring ChromiumNetworkAdapter with a NetworkTrafficAnnotationTag instead.
+// ---
+
 package org.chromium.tools.errorprone.plugin;
 
 import static com.google.errorprone.matchers.Matchers.anyOf;

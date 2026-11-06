@@ -1,0 +1,4 @@
+# Docerion header of negotiate_test_server.py.
+type: script
+title: Negotiate Authorization test server
+summary: Minimal dummy HTTP server that issues Negotiate challenges and reports whether SPNEGO authentication succeeded, for manual testing of Chrome on Android.

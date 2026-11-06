@@ -1,3 +1,9 @@
+<!--docerion
+type: config
+title: Custom Tabs benchmark app string resources
+summary: Defines the user-facing strings for the Custom Tabs benchmark Android app, including UI labels and default URLs to load.
+-->
+
 <resources>
   <string name="url_to_load">URL to Load:</string>
   <string name="default_url">https://www.android.com</string>

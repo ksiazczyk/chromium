@@ -4,6 +4,12 @@
 
 // Benchmarks SHA256 hashing.
 
+// ---docerion
+// type: source
+// title: SHA256 hashing benchmark
+// summary: Benchmarks SHA256 hashing of random data across chunk sizes, logging throughput and latency, with optional pinning to a specific CPU core.
+// ---
+
 #include <sched.h>
 #include <stdlib.h>
 

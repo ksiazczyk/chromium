@@ -1,0 +1,4 @@
+# Docerion header of launch.sh.
+type: script
+title: Shell launcher for the Custom Tabs test app
+summary: Launches the Custom Tabs test activity over adb with a URL, WebView flag and warmup option after dropping caches.

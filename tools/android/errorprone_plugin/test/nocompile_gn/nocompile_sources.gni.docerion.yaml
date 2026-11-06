@@ -1,0 +1,4 @@
+# Docerion header of nocompile_sources.gni.
+type: test
+title: Errorprone plugin nocompile test source lists
+summary: Declares GN variables listing the Java source files used by each errorprone plugin nocompile test target in the sibling BUILD.gn.

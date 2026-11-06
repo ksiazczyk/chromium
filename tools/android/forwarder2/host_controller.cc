@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HostController implementation
+// summary: Implements HostController, which connects to the device over ADB, sends listen commands, and starts host-side forwarders for forwarded ports.
+// ---
+
 #include "tools/android/forwarder2/host_controller.h"
 
 #include <memory>

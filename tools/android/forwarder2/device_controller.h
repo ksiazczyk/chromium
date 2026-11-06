@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceController header
+// summary: Declares the DeviceController class that manages all active port redirections on the device side of the forwarder, one DeviceListener per redirection.
+// ---
+
 #ifndef TOOLS_ANDROID_FORWARDER2_DEVICE_CONTROLLER_H_
 #define TOOLS_ANDROID_FORWARDER2_DEVICE_CONTROLLER_H_
 

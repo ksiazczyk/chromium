@@ -1,0 +1,4 @@
+# Docerion header of with_mte.py.
+type: script
+title: Run commands on an Android device with MTE enabled
+summary: Python tool that enables arm64 memory tagging via the adb bootctl property on a connected Android device, runs a given command, then reboots with MTE disabled.

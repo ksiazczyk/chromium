@@ -1,0 +1,4 @@
+# Docerion header of diff_graphs.py.
+type: source
+title: Dependency graph diff tool
+summary: Command-line tool that compares two JSON dependency graphs and reports differences in nodes, edges and cycles.

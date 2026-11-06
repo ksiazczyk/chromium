@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AndroidNullableCheck Error Prone check
+// summary: Error Prone bug checker that flags javax.annotation.Nullable annotations and requires androidx.annotation.Nullable instead.
+// ---
+
 package org.chromium.tools.errorprone.plugin;
 
 import com.google.errorprone.BugPattern;

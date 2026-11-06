@@ -5,6 +5,12 @@
 // Benchmarks in-memory compression and decompression of an input file,
 // comparing zlib and snappy.
 
+// ---docerion
+// type: source
+// title: Compression and decompression benchmark
+// summary: Benchmarks in-memory compression and decompression of an input file in chunks, comparing snappy, zlib, brotli, and zstd throughput, latency, and ratio.
+// ---
+
 #include <algorithm>
 #include <memory>
 #include <string>

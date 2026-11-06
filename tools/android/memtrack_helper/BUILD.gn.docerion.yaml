@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build config for memtrack_helper
+summary: Defines the memtrack_helper daemon and test client build targets, with a config that drops unwind tables to avoid a libc++ dependency.

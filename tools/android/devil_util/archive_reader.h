@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArchiveReader class declaration
+// summary: Declares ArchiveReader, which extracts the custom archive format incrementally through repeated ExtractArchiveStreaming calls.
+// ---
+
 #ifndef TOOLS_ANDROID_DEVIL_UTIL_ARCHIVE_READER_H_
 #define TOOLS_ANDROID_DEVIL_UTIL_ARCHIVE_READER_H_
 

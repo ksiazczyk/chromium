@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the io_benchmark directory
+summary: Allows includes of crypto/hash.h and the brotli, snappy, zlib, and zstd third-party libraries within this directory.

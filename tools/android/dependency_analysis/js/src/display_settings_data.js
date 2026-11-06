@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Display settings data store
+// summary: Defines edge color schemes, display setting presets, and node filter data backing the graph visualizer's settings UI.
+// ---
+
 import {HullDisplay} from './class_view_consts.js';
 import {UrlProcessor, URL_PARAM_KEYS} from './url_processor.js';
 

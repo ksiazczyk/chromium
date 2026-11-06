@@ -1,6 +1,13 @@
 # Copyright 2020 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Constants for class dependency JSON keys
+# summary: Defines the JSON key constants such as package, class, build_targets and nested_classes used when serializing class nodes.
+# ---
+
 """Various class dependency constants used in de/serialization."""
 
 # Node-specific constants

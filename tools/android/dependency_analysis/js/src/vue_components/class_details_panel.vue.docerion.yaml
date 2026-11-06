@@ -1,0 +1,4 @@
+# Docerion header of class_details_panel.vue.
+type: source
+title: Class details panel component
+summary: Vue component listing package and target graph links for the class currently selected in the dependency viewer's class graph.

@@ -1,0 +1,4 @@
+# Docerion header of generate_json_dependency_graph.py.
+type: source
+title: JSON dependency graph generator
+summary: Command-line tool that runs jdeps on built jars and processes the output into a JSON class and package dependency graph.

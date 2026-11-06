@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Custom Tabs Benchmark Android manifest
+summary: Android manifest for the CustomTabsBenchmark test app, declaring the package, internet and package-query permissions, and the launcher MainActivity plus WebViewActivity.
+-->
+
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="org.chromium.customtabs.test"
     android:versionCode="1"

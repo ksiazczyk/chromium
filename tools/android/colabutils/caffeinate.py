@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Device wake-keeping context manager
+# summary: Provides an async context manager that keeps a connected Android device awake by simulating F24 keypresses over ADB at a configurable interval.
+# ---
+
 import signal
 import contextlib
 import asyncio

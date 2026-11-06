@@ -1,0 +1,4 @@
+# Docerion header of create_compression_plots.py.
+type: script
+title: Plot compression benchmark results from a log file
+summary: Python script that parses compression benchmark log output and generates plots of throughput, latency, and compression ratio using matplotlib.

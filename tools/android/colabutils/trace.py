@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Perfetto trace recording and querying
+# summary: Implements TraceFile for recording Perfetto traces on a device and querying them with trace_processor, plus helpers for histogram-based trace configs and queries.
+# ---
+
 import os
 import pandas as pd
 import io

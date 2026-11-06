@@ -1,3 +1,13 @@
+---
+type: readme
+title: Chrome Android Dependency Analysis Visualization
+summary: Explains how to generate the dependency graph JSON, install dependencies, run the dev server, build, lint and deploy the web visualization.
+relations:
+  - references /tools/android/dependency_analysis/README.md
+  - references /tools/android/dependency_analysis/start_server.sh
+  - references /tools/android/dependency_analysis/generate_json_dependency_graph.py
+---
+
 # Chrome Android Dependency Analysis Visualization
 
 If you'd like to just view the graph, the simplest way is to use the script:

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SpnegoAuthenticatorActivity
+// summary: Activity providing the UI to administrate SPNEGO accounts, supporting add-account and confirm-credentials modes.
+// ---
+
 package org.chromium.tools.spnegoauthenticator;
 
 import android.accounts.AccountAuthenticatorActivity;

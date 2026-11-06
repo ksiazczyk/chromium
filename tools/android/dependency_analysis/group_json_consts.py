@@ -1,6 +1,13 @@
 # Copyright 2022 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Group dependency JSON constants
+# summary: Defines constants for group dependency keys used when serializing and deserializing group graphs.
+# ---
+
 """Various group dependency constants used in de/serialization."""
 
 # Node-specific constants

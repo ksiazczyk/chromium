@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ForwardersManager implementation
+// summary: Implements ForwardersManager, which creates Forwarder instances on an internal thread and multiplexes their socket events with select().
+// ---
+
 #include "tools/android/forwarder2/forwarders_manager.h"
 
 #include <stddef.h>

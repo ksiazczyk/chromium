@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Forwarder implementation
+// summary: Implements the Forwarder class, which pipes duplex traffic between two sockets using pairs of buffered copiers driven by select().
+// ---
+
 #include "tools/android/forwarder2/forwarder.h"
 
 #include <utility>

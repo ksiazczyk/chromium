@@ -1,0 +1,4 @@
+# Docerion header of package.json.
+type: config
+title: npm package manifest and scripts
+summary: Declares the Vue and D3 dependencies and npm scripts for serving, building and linting the visualization.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NoRedundantFieldInitCheck – Error Prone check for redundant field initialization
+// summary: Error Prone bug checker that flags non-final fields explicitly initialized to literal default values and suggests removing the initializer, skipping IInterface subclasses, final fields, and interface or annotation members.
+// ---
+
 package org.chromium.tools.errorprone.plugin;
 
 import com.google.errorprone.BugPattern;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Constants
+// summary: Holds shared constants for the SPNEGO authenticator, including the log tag, dummy auth token, notification ID and dummy account names.
+// ---
+
 package org.chromium.tools.spnegoauthenticator;
 
 class Constants {

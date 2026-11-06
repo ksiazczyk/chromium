@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page-wide state container for graph visualization
+// summary: Defines PageModel, which holds the graph model and selected node details as the single source of truth observed by Vue components.
+// ---
+
 import {GraphModel} from './graph_model.js';
 
 /**

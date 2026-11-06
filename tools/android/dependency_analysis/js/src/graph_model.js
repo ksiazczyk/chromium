@@ -5,6 +5,12 @@
  * @file Data structures for representing a directed graph.
  */
 
+// ---docerion
+// type: source
+// title: Graph model data structures
+// summary: Defines node and edge classes, including class, package, and target nodes, for representing the directed dependency graph.
+// ---
+
 /**
  * Some classes add noise that are not always relevant (e.g. tests, utils,
  * feature maps, etc). This list is used to exclude those classes. If any one of

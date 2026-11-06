@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Git ignore rules for build output
+# summary: Keeps Node modules, webpack build output and the generated JSON graph file out of version control.
+# ---
+
 node_modules/
 dist/
 json_graph.txt

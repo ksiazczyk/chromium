@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Speedometer 3.1 benchmark runner
+# summary: Runs the Speedometer 3.1 benchmark over ADB via crossbench and reads benchmark results into a Result object with aggregated statistics.
+# ---
+
 from enum import Enum
 import os
 import re

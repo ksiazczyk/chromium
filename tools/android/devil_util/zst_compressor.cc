@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Zstd streaming compressor implementation
+// summary: Implements ZstCompressor, which streams input through zstd and writes compressed output to a stream at a configurable compression level.
+// ---
+
 #include "zst_compressor.h"
 
 #include <iostream>

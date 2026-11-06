@@ -11,6 +11,12 @@
  * a good resource if you are unfamiliar with data joins.
  */
 
+// ---docerion
+// type: source
+// title: D3 graph visualization view
+// summary: Implements the GraphView class that encapsulates all D3 rendering and force simulation logic for the graph SVG.
+// ---
+
 import {DisplaySettingsData} from './display_settings_data.js';
 import {GraphNode, D3GraphData} from './graph_model.js';
 import {GraphEdgeColor} from './display_settings_data.js';

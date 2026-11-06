@@ -1,0 +1,4 @@
+# Docerion header of touch_resources.py.
+type: script
+title: Create Android resources boilerplate for a module
+summary: Utility script that creates resources directories and prefilled values XML files for a module, then suggests and optionally applies the needed BUILD.gn changes.

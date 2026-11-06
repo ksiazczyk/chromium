@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Custom Tabs benchmark activity
+// summary: Android activity that benchmarks Custom Tabs page load time, comparing basic WebView usage against Custom Tabs under various speculation and warmup scenarios.
+// ---
+
 package org.chromium.customtabs.test;
 
 import static org.chromium.build.NullUtil.assertNonNull;

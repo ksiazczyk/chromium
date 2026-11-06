@@ -1,0 +1,4 @@
+# Docerion header of getowners.py.
+type: script
+title: Get OWNERS information for Android directories
+summary: Command-line entry point that traverses the Chromium codebase to collect OWNERS, git, and DIR_METADATA data for Android directories and writes the results to JSON.

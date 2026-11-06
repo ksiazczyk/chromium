@@ -1,6 +1,13 @@
 # Copyright 2025 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Cold start and first frame measurement
+# summary: Measures Chrome's Android cold start time and time to first frame by recording traces and querying startup histograms or logcat values.
+# ---
+
 import asyncio
 import os
 import tempfile

@@ -2,6 +2,13 @@
 # Copyright 2021 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Helper library for editing BUILD.gn files
+# summary: Python library with classes for parsing and updating GN targets and variables, such as adding unique elements to lists in BUILD.gn files.
+# ---
+
 r'''Helper code to handle editing BUILD.gn files.'''
 
 from __future__ import annotations

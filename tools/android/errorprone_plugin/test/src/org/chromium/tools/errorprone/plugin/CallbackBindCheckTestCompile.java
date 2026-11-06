@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CallbackBindCheckTestCompile
+// summary: ErrorProne test fixture with valid CallbackBindCheck patterns that should compile without producing warnings.
+// ---
+
 package org.chromium.tools.errorprone.plugin;
 
 import org.chromium.base.Callback;

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the MemConsumer Android APK
+summary: Defines GN build targets for the MemConsumer test app, including its resources, APK with Java sources, and native shared library.

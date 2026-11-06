@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Strip plot visualization helper
+# summary: Provides a seaborn-based strip plot helper that overlays group means and 95% confidence intervals for benchmark data in notebooks.
+# ---
+
 import seaborn as sns
 import matplotlib.pyplot as plt
 import matplotlib.lines as mlines

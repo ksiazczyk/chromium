@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Archive format constants
+// summary: Defines magic bytes and fixed-length field size constants for the custom devil_util archive format.
+// ---
+
 #ifndef TOOLS_ANDROID_DEVIL_UTIL_ARCHIVE_HELPER_H_
 #define TOOLS_ANDROID_DEVIL_UTIL_ARCHIVE_HELPER_H_
 

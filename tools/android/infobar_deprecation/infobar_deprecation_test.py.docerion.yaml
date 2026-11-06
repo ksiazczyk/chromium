@@ -1,0 +1,4 @@
+# Docerion header of infobar_deprecation_test.py.
+type: test
+title: Unit tests for infobar deprecation checks
+summary: Unit tests verifying the infobar deprecation checks with mock files, mock InfoBarIdentifier contents, and presubmit test APIs.

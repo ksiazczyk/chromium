@@ -1,0 +1,4 @@
+# Docerion header of run_server_test.py.
+type: test
+title: Layout inspector server unit tests
+summary: Unit tests covering density parsing, screenshot trimming, allowed file extensions, root redirect, and client IP imprinting.

@@ -1,0 +1,4 @@
+# Docerion header of target_dependency_unittest.py.
+type: test
+title: Unit tests for the Java build target dependency graph
+summary: Unit tests for JavaTargetDependencyGraph covering graph initialization, targets without dependencies, and intra-target edges.

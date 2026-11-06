@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CallbackBindCheck Error Prone check
+// summary: Error Prone bug checker that suggests callback.bind(foo) instead of parameterless Runnable lambdas that only call callback.onResult(foo).
+// ---
+
 package org.chromium.tools.errorprone.plugin;
 
 import static com.google.errorprone.matchers.Matchers.instanceMethod;

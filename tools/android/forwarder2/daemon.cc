@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Daemon spawning and Unix socket server implementation
+// summary: Implements the forwarder2 daemon lifecycle, including forking, Unix domain socket serving with welcome message checks and SIGCHLD handling.
+// ---
+
 #include "tools/android/forwarder2/daemon.h"
 
 #include <errno.h>

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Forwarder2 code owners list
+summary: Lists the owner responsible for reviewing changes to the forwarder2 directory.

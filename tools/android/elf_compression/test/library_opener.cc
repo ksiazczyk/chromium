@@ -7,6 +7,12 @@
 // It is used solely for testing purposes to validate that the library is
 // still working after applying the compression_script on it.
 
+// ---docerion
+// type: test
+// title: Test helper that opens a library and calls GetSum
+// summary: Test helper binary that loads a shared library with dlopen and calls its GetSum function to verify it still works after compression.
+// ---
+
 #include <dlfcn.h>
 #include <iostream>
 

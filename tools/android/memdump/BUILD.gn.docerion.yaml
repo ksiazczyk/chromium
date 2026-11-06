@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: memdump BUILD.gn build definition
+summary: GN build file that defines the memdump executable from memdump.cc with a dependency on //base.

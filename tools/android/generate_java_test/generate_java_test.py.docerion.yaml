@@ -1,0 +1,4 @@
+# Docerion header of generate_java_test.py.
+type: script
+title: 'generate_java_test.py: Java test scaffolding generator'
+summary: Python tool that scaffolds Java instrumentation and Robolectric unit tests for a given source file, registers them in the GN java_sources files, and creates an OWNER file when one is missing.

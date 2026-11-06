@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NoResourcesGetColor – Error Prone check banning Resources#getColor(int)
+// summary: Error Prone bug checker that forbids android.content.res.Resources#getColor(int) because it lacks Theme information, steering developers toward Context#getColor(int) instead.
+// ---
+
 package org.chromium.tools.errorprone.plugin;
 
 import static com.google.errorprone.matchers.Matchers.instanceMethod;

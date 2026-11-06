@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceListener header
+// summary: Declares the DeviceListener class used by device_forwarder to listen on a device port and relay connections to the host through ADB sockets.
+// ---
+
 #ifndef TOOLS_ANDROID_FORWARDER2_DEVICE_LISTENER_H_
 #define TOOLS_ANDROID_FORWARDER2_DEVICE_LISTENER_H_
 

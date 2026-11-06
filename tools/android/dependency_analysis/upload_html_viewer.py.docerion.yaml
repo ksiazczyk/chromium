@@ -1,0 +1,4 @@
+# Docerion header of upload_html_viewer.py.
+type: script
+title: Deploy dependency graph viewer to Firebase hosting
+summary: Builds the dependency graph viewer distribution and deploys it to Firebase hosting after checking Firebase CLI and npm prerequisites.

@@ -1,0 +1,4 @@
+# Docerion header of .eslintrc.json.
+type: config
+title: ESLint configuration for the visualization code
+summary: Sets ESLint environments and Google, Vue and JSDoc rule sets, plus custom lint rules for the JavaScript and Vue sources.

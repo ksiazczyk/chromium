@@ -1,0 +1,4 @@
+# Docerion header of .clang-format.
+type: config
+title: Clang-format configuration
+summary: Sets the Chromium-based formatting style with JavaScript-specific overrides such as an 80-column limit and 2-space indent.

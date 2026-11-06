@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CallbackBindCheckTest1
+// summary: ErrorProne test fixture triggering CallbackBindCheck with a simple lambda expression that calls onResult with a local variable.
+// ---
+
 package org.chromium.tools.errorprone.plugin;
 
 import org.chromium.base.Callback;

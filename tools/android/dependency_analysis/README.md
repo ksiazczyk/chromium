@@ -1,3 +1,13 @@
+---
+type: readme
+title: Chrome Android Dependency Analysis Tool
+summary: Explains how to generate JSON dependency graphs and use the class, package and cycle analysis command-line tools for Chrome Android modularization.
+relations:
+  - references /tools/android/dependency_analysis/js/README.md
+  - documents /tools/android/dependency_analysis/start_server.sh
+  - documents /tools/android/dependency_analysis/generate_json_dependency_graph.py
+---
+
 # Chrome Android Dependency Analysis Tool
 
 ## Overview

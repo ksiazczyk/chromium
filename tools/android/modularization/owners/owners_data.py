@@ -3,6 +3,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Data classes for owners, git, and directory metadata
+# summary: Defines dataclasses representing OWNERS files, git statistics, DIR_METADATA, and requested paths shared by the owners tool modules.
+# ---
+
 import collections
 import dataclasses
 from typing import List, Optional

@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Web Page Replay archive recording and replay helper
+# summary: Python helper that runs the Web Page Replay server in record or replay mode, forwarding adb ports and setting Chrome flags to capture or serve network traffic.
+# ---
+
 import psutil
 import asyncio
 import signal

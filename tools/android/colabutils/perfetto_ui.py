@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Perfetto UI trace viewer integration
+# summary: Opens a recorded trace file in the Perfetto UI from a notebook by embedding it as base64 in JavaScript and posting it to ui.perfetto.dev.
+# ---
+
 import base64
 from IPython.display import display, Javascript
 

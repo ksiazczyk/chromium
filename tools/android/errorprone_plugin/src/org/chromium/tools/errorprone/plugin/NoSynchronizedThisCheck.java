@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NoSynchronizedThisCheck – Error Prone check against synchronized(this)
+// summary: Error Prone bug checker that errors when code in a public class uses a synchronized block locking on 'this', discouraging instance locks.
+// ---
+
 package org.chromium.tools.errorprone.plugin;
 
 import com.google.errorprone.BugPattern;

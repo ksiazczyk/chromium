@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Self-deletion helper template
+// summary: Template helper that lets an object doing work on an internal thread schedule deletion of its own instance on the thread where it was created.
+// ---
+
 #ifndef TOOLS_ANDROID_FORWARDER2_SELF_DELETER_HELPER_H_
 #define TOOLS_ANDROID_FORWARDER2_SELF_DELETER_HELPER_H_
 

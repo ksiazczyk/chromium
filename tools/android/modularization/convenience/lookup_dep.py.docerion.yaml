@@ -1,0 +1,4 @@
+# Docerion header of lookup_dep.py.
+type: script
+title: Find the build target providing a Java class
+summary: Command-line utility that searches build output to report which GN build target(s) contain a given Java class, optionally building .build_config files first.

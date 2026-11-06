@@ -1,0 +1,4 @@
+# Docerion header of compression_script_test.py.
+type: test
+title: Compression script unit tests
+summary: Unit tests that build a test library, run the compress_section script on it, and verify the patched library still works.

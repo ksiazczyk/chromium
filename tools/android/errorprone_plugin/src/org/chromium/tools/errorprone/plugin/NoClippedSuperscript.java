@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NoClippedSuperscript Error Prone check
+// summary: Error Prone bug checker that flags SuperscriptSpan combined with RelativeSizeSpan, which clips tall glyphs such as Thai vowel signs.
+// ---
+
 package org.chromium.tools.errorprone.plugin;
 
 import com.google.errorprone.BugPattern;

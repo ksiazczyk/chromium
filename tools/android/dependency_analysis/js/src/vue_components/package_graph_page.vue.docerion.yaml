@@ -1,0 +1,4 @@
+# Docerion header of package_graph_page.vue.
+type: source
+title: package_graph_page.vue
+summary: Vue page component for the Clank Dependency Viewer package graph, combining graph visualization, node filtering, display options, and package details.

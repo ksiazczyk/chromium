@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NoRedundantFieldInitCheckIntTest
+// summary: ErrorProne test input whose redundant initialization of the int field mBar is expected to trigger the NoRedundantFieldInitCheck warning.
+// ---
+
 package org.chromium.tools.errorprone.plugin;
 
 /** |mBar| initialization should cause 'NoRedundantFieldInitCheck' errorprone warning. */

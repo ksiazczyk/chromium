@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NoAndroidAsyncTaskCheck Error Prone check
+// summary: Error Prone bug checker that errors on android.os.AsyncTask usage and directs developers to org.chromium.base.task.AsyncTask.
+// ---
+
 package org.chromium.tools.errorprone.plugin;
 
 import com.google.errorprone.BugPattern;

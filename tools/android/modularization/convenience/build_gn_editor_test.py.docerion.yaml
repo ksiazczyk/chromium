@@ -1,0 +1,4 @@
+# Docerion header of build_gn_editor_test.py.
+type: test
+title: Unit tests for the BUILD.gn editor helper
+summary: Unittest suite verifying that BuildTarget correctly parses GN variables, including matching whole variable names when fetching list contents.

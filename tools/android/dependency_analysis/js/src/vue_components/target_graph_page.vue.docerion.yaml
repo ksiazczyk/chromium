@@ -1,0 +1,4 @@
+# Docerion header of target_graph_page.vue.
+type: source
+title: target_graph_page.vue
+summary: Vue page component for the Clank Dependency Viewer target graph, combining graph visualization, node filtering, display options, and target details.

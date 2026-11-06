@@ -1,6 +1,13 @@
 # Copyright 2019 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: 64-bit ELF header access and modification library
+# summary: Provides classes for parsing and rewriting 64-bit ELF headers so the compression script can move segments and adjust file offsets precisely.
+# ---
+
 """This library contains 64 bit ELF headers access and modification methods.
 
 This library implements classes representing various ELF structures.

@@ -1,3 +1,12 @@
+---
+type: readme
+title: Kerberos Test Utils
+summary: Setup guide for testing Kerberos auth on Chrome and WebView on Android, covering the SpnegoAuthenticator app, a dummy server, Chrome configuration, and port forwarding.
+relations:
+  - references /tools/android/kerberos/SpnegoAuthenticator/preview.png
+  - documents /tools/android/kerberos/negotiate_test_server.py
+---
+
 ## Kerberos Test Utils
 
 Simple app and scripts used to test Kerberos auth on Chrome and WebView.

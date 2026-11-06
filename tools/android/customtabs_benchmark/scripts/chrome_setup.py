@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: script
+# title: Chrome setup helpers for Custom Tabs benchmarks
+# summary: Defines Chrome command-line flags for loading benchmarks and resets the Chrome profile and caches on a device.
+# ---
+
 import subprocess
 
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pipe notifier implementation
+// summary: Implements PipeNotifier, a Unix pipe that writes a byte to wake up a receiver file descriptor used for exit notifications.
+// ---
+
 #include "tools/android/forwarder2/pipe_notifier.h"
 
 #include <errno.h>

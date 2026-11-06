@@ -1,3 +1,13 @@
+---
+type: readme
+title: Shared library compression
+summary: Describes the shared library compression tool, its compression script and decompression hook, and explains how to build, use and test it.
+relations:
+  - documents /tools/android/elf_compression/decompression_hook/decompression_hook.c
+  - documents /tools/android/elf_compression/compress_section.py
+  - documents /tools/android/elf_compression/test/run_tests.py
+---
+
 # Shared library compression
 ## Description
 This directory contains the shared library compression tool that allows to

@@ -1,0 +1,4 @@
+# Docerion header of run_tests.py.
+type: test
+title: Test suite runner
+summary: Runner script that loads and executes the compression script and ELF headers test suites.

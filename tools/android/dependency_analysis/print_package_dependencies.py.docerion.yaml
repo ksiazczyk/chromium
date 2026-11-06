@@ -1,0 +1,4 @@
+# Docerion header of print_package_dependencies.py.
+type: source
+title: Package-level dependency printing tool
+summary: Command-line tool that prints inbound and outbound package dependencies for a package, including the class edges comprising each dependency.

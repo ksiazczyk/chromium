@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SpnegoAuthenticatorService
+// summary: Android service that binds to and exposes the dummy SpnegoAuthenticator to the system.
+// ---
+
 package org.chromium.tools.spnegoauthenticator;
 
 import android.annotation.SuppressLint;

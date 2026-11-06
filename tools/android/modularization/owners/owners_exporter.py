@@ -3,6 +3,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: JSON export for collected owners data
+# summary: Serializes path, owners, git, and directory metadata records into a line-delimited JSON output file.
+# ---
+
 import json
 from typing import Dict, List, Tuple
 

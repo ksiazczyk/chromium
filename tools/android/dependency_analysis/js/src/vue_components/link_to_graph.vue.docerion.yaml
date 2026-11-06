@@ -1,0 +1,4 @@
+# Docerion header of link_to_graph.vue.
+type: source
+title: link_to_graph.vue
+summary: Vue component that renders a styled link with an icon to a target, package, or class graph page, building the URL from the current filter.

@@ -1,0 +1,4 @@
+# Docerion header of histogram_query.j2.
+type: script
+title: Histogram sample SQL query template
+summary: Jinja2 template with a Perfetto SQL query that extracts Chrome histogram sample values from a trace by histogram name.

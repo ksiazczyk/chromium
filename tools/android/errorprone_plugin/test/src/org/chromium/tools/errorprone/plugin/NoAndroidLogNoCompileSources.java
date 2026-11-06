@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NoAndroidLogNoCompileSources
+// summary: Test fixture exercising Android Log calls, constants and class references for the NoAndroidLog ErrorProne checker.
+// ---
+
 package org.chromium.tools.errorprone.plugin;
 
 import static android.util.Log.ASSERT;

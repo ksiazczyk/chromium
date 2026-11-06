@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for layout inspector
+summary: Defines Python library targets for the server and its tests plus a generated wrapper script to run the tests.

@@ -1,6 +1,13 @@
 # Copyright 2020 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Graph data structure utilities
+# summary: Defines the generic directed Graph and Node classes with sorting helpers used across the dependency analysis tools.
+# ---
+
 """Utility classes (and functions, in the future) for graph operations."""
 
 import functools

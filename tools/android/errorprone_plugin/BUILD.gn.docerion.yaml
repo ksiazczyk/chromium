@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the errorprone_plugin java_binary
+summary: GN build definition that declares the errorprone_plugin java_binary, listing its ErrorProne check source files, nullaway jar input, and build dependencies.

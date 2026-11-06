@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for tools/android/common
+summary: Defines the common source set for the Android tools, listing the adb connection, daemon, and net sources with a dependency on //base.

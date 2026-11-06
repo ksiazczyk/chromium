@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for forwarder2
+summary: Defines GN build targets for the device_forwarder and host_forwarder executables, the device forwarder distribution, and the host_forwarder_unittests test.

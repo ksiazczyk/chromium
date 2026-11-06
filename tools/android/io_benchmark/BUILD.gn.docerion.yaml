@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for the benchmark executables
+summary: Defines the io_benchmark, compression_benchmark, and sha_benchmark test-only executables and their source and dependency lists.

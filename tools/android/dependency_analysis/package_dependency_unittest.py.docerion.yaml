@@ -1,0 +1,4 @@
+# Docerion header of package_dependency_unittest.py.
+type: test
+title: Unit tests for the package dependency graph
+summary: Tests that JavaPackageDependencyGraph correctly collapses class graphs, including packages with no or only internal dependencies.

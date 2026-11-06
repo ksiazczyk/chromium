@@ -1,6 +1,13 @@
 # Copyright 2026 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: ci
+# title: Presubmit checks for colabutils
+# summary: Presubmit script that runs the Python unit tests in this directory for changes affecting .py or .j2 files.
+# ---
+
 """Presubmit script for tools/android/colabutils.
 
 See http://dev.chromium.org/developers/how-tos/depottools/presubmit-scripts

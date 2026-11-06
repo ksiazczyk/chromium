@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ForwardersManager header
+// summary: Declares ForwardersManager, which owns and notifies Forwarder instances on a dedicated internal thread.
+// ---
+
 #ifndef TOOLS_ANDROID_FORWARDER2_FORWARDERS_MANAGER_H_
 #define TOOLS_ANDROID_FORWARDER2_FORWARDERS_MANAGER_H_
 

@@ -5,6 +5,12 @@
 // Benchmarks the IO system on a device, by writing and then readind a file
 // filled with random data.
 
+// ---docerion
+// type: source
+// title: Device IO read and write benchmark
+// summary: Benchmarks device IO by writing and reading files of random incompressible data, reporting write and read throughput and latency, including random 4k IO.
+// ---
+
 #include <fcntl.h>
 #include <string.h>
 #include <sys/stat.h>

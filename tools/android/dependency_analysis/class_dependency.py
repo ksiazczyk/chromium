@@ -2,6 +2,13 @@
 # Copyright 2020 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Java class dependency graph implementation
+# summary: Implements the JavaClass node and JavaClassDependencyGraph used to model class-level dependencies, including nested classes and build targets.
+# ---
+
 """Implementation of the graph module for a [Java class] dependency graph."""
 
 from typing import Optional, Set, Tuple

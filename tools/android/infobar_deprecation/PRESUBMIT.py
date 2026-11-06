@@ -1,6 +1,13 @@
 # Copyright 2021 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: ci
+# title: Presubmit tests for tools/android/infobar_deprecation
+# summary: Presubmit hook that runs the infobar_deprecation unit tests on upload when Python files are affected.
+# ---
+
 """Presubmit tests for /tools/android/infobar_deprecation.
 
 Runs Python unit tests in /tools/android/infobar_deprecation on upload.

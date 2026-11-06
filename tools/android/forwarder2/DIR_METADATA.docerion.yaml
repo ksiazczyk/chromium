@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Forwarder2 issue tracker metadata
+summary: Declares the Monorail component and Buganizer component ID used for filing bugs against the forwarder2 tool.

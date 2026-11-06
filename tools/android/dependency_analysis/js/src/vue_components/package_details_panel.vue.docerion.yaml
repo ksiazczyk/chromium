@@ -1,0 +1,4 @@
+# Docerion header of package_details_panel.vue.
+type: source
+title: package_details_panel.vue
+summary: Vue component listing full and individual class graph URLs for the package currently selected in the dependency viewer.

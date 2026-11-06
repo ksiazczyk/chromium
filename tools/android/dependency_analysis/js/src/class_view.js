@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Class view Vue entry point
+// summary: Loads the class graph data and mounts the Vue class graph page with Vue Material and modal plugins registered.
+// ---
+
 import ClassGraphPage from './vue_components/class_graph_page.vue';
 import {loadGraph} from './load_graph.js';
 

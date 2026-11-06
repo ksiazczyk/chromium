@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Devil util command-line entry point
+// summary: Implements the devil_util CLI with hash, compress, archive, extract and pipe subcommands for CRC32 hashing and zstd-compressed content.
+// ---
+
 
 #include <sys/stat.h>
 

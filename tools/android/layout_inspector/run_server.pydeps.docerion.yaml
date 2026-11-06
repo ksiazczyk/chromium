@@ -1,0 +1,4 @@
+# Docerion header of run_server.pydeps.
+type: config
+title: Server Python dependency list
+summary: Generated list of Python dependencies for the layout inspector server, consumed by the build.

@@ -1,0 +1,4 @@
+# Docerion header of class_dependency_unittest.py.
+type: test
+title: Unit tests for class_dependency
+summary: Tests key helper functions, JavaClass initialization, equality, nested class handling and the class dependency graph.

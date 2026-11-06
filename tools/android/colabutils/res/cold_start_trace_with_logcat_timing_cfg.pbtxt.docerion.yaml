@@ -1,0 +1,4 @@
+# Docerion header of cold_start_trace_with_logcat_timing_cfg.pbtxt.
+type: config
+title: Cold start trace config with logcat timing
+summary: Perfetto trace config that records ftrace, Android log, frame timeline and process stats for ten seconds to analyze cold start timing.

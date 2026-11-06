@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Socket wrapper implementation
+// summary: Implements the Socket wrapper for creating, binding, connecting, accepting, reading and writing over Unix domain and TCP sockets.
+// ---
+
 #include "tools/android/forwarder2/socket.h"
 
 #include <arpa/inet.h>

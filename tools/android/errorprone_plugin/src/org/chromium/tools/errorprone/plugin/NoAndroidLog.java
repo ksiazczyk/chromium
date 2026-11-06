@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NoAndroidLog Error Prone check
+// summary: Error Prone bug checker that warns when android.util.Log is used directly and points developers to org.chromium.base.Log.
+// ---
+
 package org.chromium.tools.errorprone.plugin;
 
 import com.google.errorprone.BugPattern;
