@@ -1,0 +1,4 @@
+# Docerion header of shadow_dom_article.html.
+type: test
+title: Shadow DOM test article fixture
+summary: Article fixture with nested shadow roots, slots, and ad-break elements used by DistillerPageWebContentsTest.HandlesShadowDOM.

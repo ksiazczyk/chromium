@@ -1,0 +1,4 @@
+# Docerion header of 026_checkout_ikea.com.out.
+type: test
+title: IKEA checkout autofill expected output
+summary: Expected autofill field type classifications for the IKEA checkout page, listing name, address, email, and phone fields.

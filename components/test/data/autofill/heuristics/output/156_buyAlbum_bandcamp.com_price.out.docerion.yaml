@@ -1,0 +1,4 @@
+# Docerion header of 156_buyAlbum_bandcamp.com_price.out.
+type: test
+title: Autofill expected output for Bandcamp name-your-price form
+summary: Expected autofill predictions for Bandcamp's name-your-price album purchase form, including price, email and country fields.

@@ -1,3 +1,9 @@
+-- ---docerion
+-- type: test
+-- title: Explore sites v3 SQL schema and seed data
+-- summary: SQL script that creates the version 3 explore sites schema, bumping the version marker to 3 while keeping the same tables as version 2.
+-- ---
+
 INSERT OR REPLACE INTO meta (key, value)
 VALUES ('version', 3), ('last_compatible_version', 1);
 

@@ -1,0 +1,4 @@
+# Docerion header of 072_register_supershuttle.com.out.
+type: test
+title: Autofill heuristics test output for SuperShuttle registration form
+summary: Expected autofill field classifications for the SuperShuttle login and registration pages, covering email, name, and phone number fields.

@@ -6,6 +6,12 @@
  * @fileoverview Test suite for the Pincher class in pinch_handler.js.
  */
 
+// ---docerion
+// type: test
+// title: Pinch zoom handler test suite
+// summary: Test suite exercising the Pincher touch handler for zoom in, zoom out, and pan gestures in the distilled page viewer.
+// ---
+
 // TODO(crbug.com/40108835): Consider replacing this class with
 // dispatched touch events.
 class Touch {

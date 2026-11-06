@@ -1,0 +1,4 @@
+# Docerion header of addressLinesLessInfo.out.
+type: test
+title: Address lines less info merge expected output
+summary: Expected output for an autofill profile merge test where the address lines contain less information.

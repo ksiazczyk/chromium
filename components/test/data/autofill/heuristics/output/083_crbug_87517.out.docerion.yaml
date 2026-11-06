@@ -1,0 +1,4 @@
+# Docerion header of 083_crbug_87517.out.
+type: test
+title: Autofill heuristic expected output for crbug 87517
+summary: Expected Autofill classifications for an online donation form with donor, tribute, and credit card sections, used in heuristic regression tests.

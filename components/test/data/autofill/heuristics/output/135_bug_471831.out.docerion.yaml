@@ -1,0 +1,4 @@
+# Docerion header of 135_bug_471831.out.
+type: test
+title: Autofill heuristics expected output for bug 471831
+summary: Expected autofill predictions for a form with email, card number, combined expiry, CVC and phone, including unknown Bitcoin-related year and month fields.

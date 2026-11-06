@@ -1,0 +1,4 @@
+# Docerion header of 178_zip_file_extension.out.
+type: test
+title: Zip file extension autofill test expectations
+summary: Expected autofill classifications for a Taiwanese contact form with attachment fields, used to verify that .zip file extension mentions are not misclassified.

@@ -1,0 +1,4 @@
+# Docerion header of 044_register_amazon.com.out.
+type: test
+title: Autofill heuristic output for amazon.com registration
+summary: Expected autofill field type predictions for the amazon.com registration form, covering name, email and password fields.

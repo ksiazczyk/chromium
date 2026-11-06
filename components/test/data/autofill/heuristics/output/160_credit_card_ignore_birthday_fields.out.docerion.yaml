@@ -1,0 +1,4 @@
+# Docerion header of 160_credit_card_ignore_birthday_fields.out.
+type: test
+title: Credit card form ignoring birthday fields output
+summary: Expected autofill heuristic predictions for a credit card form whose date-of-birth fields remain untyped.

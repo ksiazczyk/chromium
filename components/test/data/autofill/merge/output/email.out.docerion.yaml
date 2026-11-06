@@ -1,0 +1,4 @@
+# Docerion header of email.out.
+type: test
+title: Email merge expected output
+summary: Expected output for an autofill profile merge test covering email addresses in address fields, with two merged profiles.

@@ -1,0 +1,4 @@
+# Docerion header of 003_i18n_es.out.
+type: test
+title: Autofill heuristics expected output for Spanish form labels
+summary: Expected autofill field type predictions for a Spanish-language test form covering name, address, email, phone and credit card labels.

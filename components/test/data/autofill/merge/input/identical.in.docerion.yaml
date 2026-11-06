@@ -1,0 +1,4 @@
+# Docerion header of identical.in.
+type: test
+title: Autofill merge input for identical profiles
+summary: Two identical autofill profiles used to verify that merging duplicates produces no changes.

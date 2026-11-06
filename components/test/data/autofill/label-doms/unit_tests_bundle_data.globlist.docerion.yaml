@@ -1,0 +1,4 @@
+# Docerion header of unit_tests_bundle_data.globlist.
+type: test
+title: Glob patterns for label DOM test bundle data
+summary: Glob patterns defining which label DOM test data files belong in the bundle filelist used by the update script.

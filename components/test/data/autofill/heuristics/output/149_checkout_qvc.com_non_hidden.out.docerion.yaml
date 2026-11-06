@@ -1,0 +1,4 @@
+# Docerion header of 149_checkout_qvc.com_non_hidden.out.
+type: test
+title: Autofill heuristics expected output for QVC checkout form
+summary: Expected autofill field type predictions for the non-hidden fields of the QVC.com checkout form, used by the autofill heuristics tests.

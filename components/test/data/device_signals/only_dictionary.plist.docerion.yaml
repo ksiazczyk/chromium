@@ -1,0 +1,4 @@
+# Docerion header of only_dictionary.plist.
+type: test
+title: Dictionary-only plist test fixture
+summary: Property list fixture containing a dictionary with real, data, string, integer and boolean values, used to test plist value extraction.

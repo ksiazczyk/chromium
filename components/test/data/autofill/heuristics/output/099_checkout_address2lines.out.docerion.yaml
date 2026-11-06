@@ -1,0 +1,4 @@
+# Docerion header of 099_checkout_address2lines.out.
+type: test
+title: Expected autofill output for a two-line address checkout form
+summary: Expected field classifications for a checkout form with separate address line one and line two fields.

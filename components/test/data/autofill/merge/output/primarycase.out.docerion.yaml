@@ -1,0 +1,4 @@
+# Docerion header of primarycase.out.
+type: test
+title: Primary case merge expected output
+summary: Expected output for an autofill profile merge test covering primary case handling, listing two merged profiles.

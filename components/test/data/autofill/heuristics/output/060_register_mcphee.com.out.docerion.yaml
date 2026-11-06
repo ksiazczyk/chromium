@@ -1,0 +1,4 @@
+# Docerion header of 060_register_mcphee.com.out.
+type: test
+title: Expected autofill types for mcphee.com registration form
+summary: Expected autofill heuristic output listing predicted field types for the mcphee.com registration form, covering email, name, address, and phone fields.

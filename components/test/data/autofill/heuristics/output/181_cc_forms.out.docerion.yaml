@@ -1,0 +1,4 @@
+# Docerion header of 181_cc_forms.out.
+type: test
+title: Autofill heuristics expected output for credit card forms
+summary: Expected field type predictions for various credit card form layouts, covering expiration date and year format variants.

@@ -1,0 +1,4 @@
+# Docerion header of 075_register_trueblue.jetblue.com.out.
+type: test
+title: Autofill heuristics test output for JetBlue TrueBlue registration form
+summary: Expected autofill field classifications for the JetBlue TrueBlue enrollment page, covering name, address, phone, and email fields.

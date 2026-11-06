@@ -1,0 +1,4 @@
+# Docerion header of 017_checkout_advanceautoparts.com.out.
+type: test
+title: 'Autofill heuristics expected output: advanceautoparts.com checkout (017)'
+summary: Expected field type predictions for the advanceautoparts.com checkout test page, covering billing and shipping addresses, phones and account fields.

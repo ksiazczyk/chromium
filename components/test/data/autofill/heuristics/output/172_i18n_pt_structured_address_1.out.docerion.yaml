@@ -1,0 +1,4 @@
+# Docerion header of 172_i18n_pt_structured_address_1.out.
+type: test
+title: Portuguese structured address autofill expectations 1
+summary: Expected autofill field classifications for a Portuguese-language structured address test form, including an unidentified address identification field.

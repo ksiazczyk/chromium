@@ -1,0 +1,4 @@
+# Docerion header of streetaddress.out.
+type: test
+title: Street address merge expected output
+summary: Expected merged autofill profile values for a street address merge test case, including a multi-line street address with building details.

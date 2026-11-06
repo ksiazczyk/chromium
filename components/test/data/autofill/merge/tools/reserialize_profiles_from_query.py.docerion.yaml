@@ -1,0 +1,4 @@
+# Docerion header of reserialize_profiles_from_query.py.
+type: script
+title: Reserialize autofill profiles from a SQL query
+summary: Command-line script that converts the output of a SELECT query on autofill_profiles into the serialized profiles format used by the merge tests.

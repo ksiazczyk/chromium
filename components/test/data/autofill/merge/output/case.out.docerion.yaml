@@ -1,0 +1,4 @@
+# Docerion header of case.out.
+type: test
+title: Case merge expected output
+summary: Expected output for an autofill profile merge test covering case differences in profile field values.

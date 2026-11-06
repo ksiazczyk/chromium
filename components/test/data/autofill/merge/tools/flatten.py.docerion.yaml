@@ -1,0 +1,4 @@
+# Docerion header of flatten.py.
+type: script
+title: Flatten serialized autofill profiles
+summary: Command-line script that converts a vertical serialization of autofill profiles into a compact, column-aligned horizontal table.

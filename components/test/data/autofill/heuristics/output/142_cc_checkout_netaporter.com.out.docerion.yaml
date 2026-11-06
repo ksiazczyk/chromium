@@ -1,0 +1,4 @@
+# Docerion header of 142_cc_checkout_netaporter.com.out.
+type: test
+title: Autofill heuristics expected output for Net-a-Porter credit card form
+summary: Expected autofill field type predictions for the Net-a-Porter checkout credit card fields, used by the autofill heuristics tests.

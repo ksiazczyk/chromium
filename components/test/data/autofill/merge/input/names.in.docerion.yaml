@@ -1,0 +1,4 @@
+# Docerion header of names.in.
+type: test
+title: Autofill merge input for name field differences
+summary: Two autofill profiles differing in name fields, one missing the middle name and using a lowercase first name, used to exercise name merging.

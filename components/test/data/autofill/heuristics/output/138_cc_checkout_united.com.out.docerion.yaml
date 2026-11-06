@@ -1,0 +1,4 @@
+# Docerion header of 138_cc_checkout_united.com.out.
+type: test
+title: Autofill heuristics expected output for united.com checkout
+summary: Expected autofill predictions for a united.com checkout with credit card, billing address, alternative payment methods, contact and date-of-birth fields.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Wrap tables tester suite
+// summary: Test suite checking that wrapTables wraps tables in a scrollable container and avoids double wrapping already wrapped tables.
+// ---
+
 // Test that the JS file is loaded and the test is running.
 suite('MakeTablesScrollableTest', function() {
   test('Wrap the tables in a scrollable-container', async function() {

@@ -1,0 +1,4 @@
+# Docerion header of 048_register_deviantart.com.out.
+type: test
+title: Autofill heuristic output for deviantart.com registration
+summary: Expected autofill field type predictions for the deviantart.com registration form, covering email, password, name and country fields.

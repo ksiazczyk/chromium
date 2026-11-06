@@ -1,0 +1,4 @@
+# Docerion header of model_without_version.json.
+type: test
+title: Bookmark model fixture without version field
+summary: Test fixture omitting the version key so bookmark model decoding can be checked against files without a version.

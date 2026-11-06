@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Autofill merge test tool shared helpers
+# summary: Shared Python module for the autofill merge tools, providing profile serialization and mapping of autofill_profiles column names to AutofillField types.
+# ---
+
 
 class UnknownColumnNameException(Exception):
   """Exception type raised when encountering an unknown column name."""

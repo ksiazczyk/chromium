@@ -1,0 +1,4 @@
+# Docerion header of 027_checkout_jcrew.com.out.
+type: test
+title: J.Crew checkout autofill expected output
+summary: Expected autofill field type classifications for the J.Crew checkout page, covering address, phone, password, and email fields.

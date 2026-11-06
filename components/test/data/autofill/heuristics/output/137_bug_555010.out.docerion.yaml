@@ -1,0 +1,4 @@
+# Docerion header of 137_bug_555010.out.
+type: test
+title: Autofill heuristics expected output for bug 555010
+summary: Expected autofill predictions for a checkout page with card details, shipping and billing addresses, phone, email and a login section.

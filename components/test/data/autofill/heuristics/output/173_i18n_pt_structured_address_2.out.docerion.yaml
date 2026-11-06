@@ -1,0 +1,4 @@
+# Docerion header of 173_i18n_pt_structured_address_2.out.
+type: test
+title: Portuguese structured address autofill expectations 2
+summary: Expected autofill field classifications for a second Portuguese-language structured address test form variant with reordered house number and street fields.

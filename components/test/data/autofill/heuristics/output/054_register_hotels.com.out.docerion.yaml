@@ -1,0 +1,4 @@
+# Docerion header of 054_register_hotels.com.out.
+type: test
+title: Autofill heuristics expected output for Hotels.com registration form
+summary: Expected autofill field classifications for the Hotels.com profile registration form, including contact, address, and company fields.

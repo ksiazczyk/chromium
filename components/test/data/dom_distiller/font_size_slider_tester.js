@@ -6,6 +6,12 @@
  * @fileoverview Test suite for the font size slider.
  */
 
+// ---docerion
+// type: test
+// title: Font size slider tests
+// summary: Test suite checking that font scaling values update the distilled viewer's root font size correctly.
+// ---
+
 suite('FontSizeSlider', function() {
   suiteSetup(function() {
     // The UI components are normally lazily initialized. We need to initialize

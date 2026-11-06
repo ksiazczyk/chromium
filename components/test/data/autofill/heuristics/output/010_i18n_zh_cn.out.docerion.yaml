@@ -1,0 +1,4 @@
+# Docerion header of 010_i18n_zh_cn.out.
+type: test
+title: 'Autofill heuristics expected output: Simplified Chinese form (010)'
+summary: Expected field type predictions for the Simplified Chinese international autofill test form, covering name, address, email, phone and credit card fields.

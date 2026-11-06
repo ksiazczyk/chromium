@@ -1,0 +1,4 @@
+# Docerion header of unit_tests_bundle_data.filelist.
+type: test
+title: Unit tests bundle data filelist
+summary: Generated list of custom handler test data files packaged into the iOS unit test bundle and not meant for manual edits.

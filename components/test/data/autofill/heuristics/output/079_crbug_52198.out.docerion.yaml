@@ -1,0 +1,4 @@
+# Docerion header of 079_crbug_52198.out.
+type: test
+title: Autofill heuristics test output for crbug 52198 student form
+summary: Expected autofill field classifications for a student registration form from Chromium bug 52198, covering name, birthplace, and contact fields.

@@ -1,0 +1,4 @@
+# Docerion header of 174_i18n_id.out.
+type: test
+title: Indonesian i18n autofill expectations
+summary: Expected autofill field classifications for an Indonesian-language test form covering name, address with dependent locality, email, phone and credit card fields.

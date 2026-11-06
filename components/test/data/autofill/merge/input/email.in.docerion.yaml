@@ -1,0 +1,4 @@
+# Docerion header of email.in.
+type: test
+title: Autofill merge input for email values in varied fields
+summary: Series of autofill profiles placing an email-like value in different fields such as name, company, address and phone to exercise merge decisions.

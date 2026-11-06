@@ -1,0 +1,4 @@
+# Docerion header of 012_autocomplete_attribute_advanced.out.
+type: test
+title: 'Autofill heuristics expected output: advanced autocomplete attributes (012)'
+summary: Expected field type predictions for a test page exercising advanced autocomplete attribute values such as sections, shipping groups and telephone subfields.

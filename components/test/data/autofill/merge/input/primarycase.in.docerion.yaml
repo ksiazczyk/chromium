@@ -1,0 +1,4 @@
+# Docerion header of primarycase.in.
+type: test
+title: Autofill merge input for primary profile case differences
+summary: Profiles for two people sharing an address written in different letter casing with different phone numbers, used to exercise primary profile handling in merges.

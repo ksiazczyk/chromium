@@ -1,0 +1,4 @@
+# Docerion header of 082_crbug_74918.out.
+type: test
+title: Autofill heuristic expected output for crbug 74918
+summary: Expected Autofill classifications for a contact form whose fields mostly remain untyped, used in heuristic regression tests.

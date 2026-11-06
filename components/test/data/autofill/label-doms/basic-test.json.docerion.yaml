@@ -1,0 +1,4 @@
+# Docerion header of basic-test.json.
+type: test
+title: Expected autofill label heuristic results
+summary: JSON expectations pairing each test input with the label heuristic that should detect its label, matching the basic test page.

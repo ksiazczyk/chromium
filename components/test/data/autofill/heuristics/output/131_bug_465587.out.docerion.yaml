@@ -1,0 +1,4 @@
+# Docerion header of 131_bug_465587.out.
+type: test
+title: Autofill heuristics expected output for bug 465587
+summary: Expected autofill predictions for a bodybuilding.com checkout form with credit card, billing address, name and phone fields.

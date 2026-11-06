@@ -1,0 +1,4 @@
+# Docerion header of model_without_mobile_bookmarks.json.
+type: test
+title: Bookmark model fixture without mobile bookmarks root
+summary: Test fixture lacking the mobile bookmarks root to verify bookmark model decoding tolerates a missing root node.

@@ -1,0 +1,4 @@
+# Docerion header of 136_bug_497850.out.
+type: test
+title: Autofill heuristics expected output for bug 497850
+summary: Expected autofill predictions for an ASP.NET payment form with card type, number, holder name, expiry month and year, and CVC fields.

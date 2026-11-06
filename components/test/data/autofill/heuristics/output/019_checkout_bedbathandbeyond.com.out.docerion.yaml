@@ -1,0 +1,4 @@
+# Docerion header of 019_checkout_bedbathandbeyond.com.out.
+type: test
+title: 'Autofill heuristics expected output: bedbathandbeyond.com checkout (019)'
+summary: Expected field type predictions for the bedbathandbeyond.com checkout test page, covering billing and shipping contact, address and phone fields.

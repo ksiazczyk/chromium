@@ -1,0 +1,4 @@
+# Docerion header of Info.plist.
+type: test
+title: Info.plist
+summary: Property list with bundle metadata (executable name, package type, version) for the UnsignedApp.app fixture used in device signal tests.

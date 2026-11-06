@@ -1,0 +1,4 @@
+# Docerion header of 157_bug_971402_opentable_checkout.out.
+type: test
+title: Autofill expected output for OpenTable checkout (bug 971402)
+summary: Expected autofill predictions for an OpenTable checkout credit card form, a regression case for bug 971402.

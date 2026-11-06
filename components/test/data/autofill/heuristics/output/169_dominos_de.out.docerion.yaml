@@ -1,0 +1,4 @@
+# Docerion header of 169_dominos_de.out.
+type: test
+title: Domino's Germany address fields expected output
+summary: Expected autofill heuristic predictions for Domino's Germany address fields including street name and house number.

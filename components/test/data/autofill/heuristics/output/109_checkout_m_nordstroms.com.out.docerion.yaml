@@ -1,0 +1,4 @@
+# Docerion header of 109_checkout_m_nordstroms.com.out.
+type: test
+title: Autofill heuristics expected output for mobile nordstroms.com checkout
+summary: Expected autofill field classifications for the mobile nordstroms.com checkout page, covering name, address, gift card and credit card fields.

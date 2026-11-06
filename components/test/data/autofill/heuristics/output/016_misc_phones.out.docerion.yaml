@@ -1,0 +1,4 @@
+# Docerion header of 016_misc_phones.out.
+type: test
+title: 'Autofill heuristics expected output: miscellaneous phone fields (016)'
+summary: Expected field type predictions for a form with assorted phone field layouts, including area code, prefix, suffix and extension splits.

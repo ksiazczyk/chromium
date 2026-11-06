@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Content processing link sanitization tests
+// summary: Test suite for sanitizeLinks covering valid http/https links, javascript, mailto, empty hash and SVG xlink:href links.
+// ---
+
 suite('ContentProcessing.sanitizeLinks', function() {
   let testContainer;
 

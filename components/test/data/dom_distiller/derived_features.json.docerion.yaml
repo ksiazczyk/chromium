@@ -1,0 +1,4 @@
+# Docerion header of derived_features.json.
+type: data
+title: Derived page features test data
+summary: JSON fixture listing derived distiller features per URL, including anchor ratios, element counts and text length metrics.

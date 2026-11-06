@@ -1,0 +1,4 @@
+# Docerion header of 056_register_jbox.com.out.
+type: test
+title: Autofill heuristics expected output for J-List/JBOX registration form
+summary: Expected autofill field classifications for the JBOX.com registration form, mapping name, address, phone, and email fields to predicted types.

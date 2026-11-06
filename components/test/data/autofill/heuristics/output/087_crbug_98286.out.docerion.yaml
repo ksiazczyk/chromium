@@ -1,0 +1,4 @@
+# Docerion header of 087_crbug_98286.out.
+type: test
+title: Autofill heuristic expected output for crbug 98286
+summary: Expected Autofill classifications for a credit card form with card type, number, expiry, and verification fields, used in heuristic regression tests.

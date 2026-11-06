@@ -1,0 +1,4 @@
+# Docerion header of 089_crbug_224601.out.
+type: test
+title: Autofill heuristic expected output for crbug 224601
+summary: Expected Autofill classifications for a train journey search and account registration form with address and contact fields, used in heuristic regression tests.

@@ -1,0 +1,4 @@
+# Docerion header of addressLinesMoreInfo.out.
+type: test
+title: Address lines more info merge expected output
+summary: Expected output for an autofill profile merge test where the address lines contain more information.

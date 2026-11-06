@@ -1,0 +1,4 @@
+# Docerion header of 081_crbug_64569.out.
+type: test
+title: Autofill heuristic expected output for crbug 64569
+summary: Expected Autofill classifications for a form combining credit card, address, and email fields, used in heuristic regression tests.

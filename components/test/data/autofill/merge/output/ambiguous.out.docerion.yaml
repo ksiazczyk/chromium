@@ -1,0 +1,4 @@
+# Docerion header of ambiguous.out.
+type: test
+title: Ambiguous merge expected output
+summary: Empty expected output file for the ambiguous case of an autofill profile merge test.

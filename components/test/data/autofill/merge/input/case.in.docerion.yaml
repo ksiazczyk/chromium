@@ -1,0 +1,4 @@
+# Docerion header of case.in.
+type: test
+title: Autofill merge input for case differences
+summary: Two autofill profiles that differ only in letter case across name, company and address fields, used to exercise case-insensitive merging.

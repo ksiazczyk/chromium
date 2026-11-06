@@ -1,0 +1,4 @@
+# Docerion header of 064_register_officemax.com.out.
+type: test
+title: Expected autofill types for officemax.com registration form
+summary: Expected autofill heuristic output for the officemax.com registration form covering MaxPerks ID, name, email, zip code, and password fields.

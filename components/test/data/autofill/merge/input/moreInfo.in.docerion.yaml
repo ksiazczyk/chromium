@@ -1,0 +1,4 @@
+# Docerion header of moreInfo.in.
+type: test
+title: Autofill merge input for profiles with more information
+summary: Two autofill profiles where one lacks company name and phone number, used to exercise merging when one profile has more information.

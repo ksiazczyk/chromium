@@ -1,0 +1,4 @@
+# Docerion header of model_with_repeated_predicted_types.textproto.
+type: test
+title: Model metadata with repeated predicted types
+summary: Text-format protobuf metadata for a test model variant with postprocessing parameters that disallow predicting the same field type more than once.

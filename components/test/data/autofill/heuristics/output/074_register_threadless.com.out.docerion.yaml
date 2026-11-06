@@ -1,0 +1,4 @@
+# Docerion header of 074_register_threadless.com.out.
+type: test
+title: Autofill heuristics test output for Threadless registration form
+summary: Expected autofill field classifications for Threadless login and account creation forms, covering email, username, and password fields.

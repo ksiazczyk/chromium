@@ -1,0 +1,4 @@
+# Docerion header of 076_register_uhaul.com.out.
+type: test
+title: Autofill heuristics test output for U-Haul registration form
+summary: Expected autofill field classifications for the U-Haul registration page, covering name, company, email, and phone fields.

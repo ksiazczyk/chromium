@@ -1,0 +1,4 @@
+# Docerion header of 125_bug_462080.out.
+type: test
+title: Autofill heuristics expected output for bug 462080
+summary: Expected Autofill field type predictions for the link-sharing and invitation dialog from bug 462080, used as reference output by the Autofill heuristics tests.

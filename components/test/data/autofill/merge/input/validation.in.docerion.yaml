@@ -1,0 +1,4 @@
+# Docerion header of validation.in.
+type: test
+title: Autofill merge test input for field validation
+summary: Test input with profiles containing invalid emails, states and ZIP codes to exercise validation during profile merging.

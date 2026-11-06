@@ -1,0 +1,4 @@
+# Docerion header of 051_register_epson.com.out.
+type: test
+title: Autofill heuristics expected output for Epson registration form
+summary: Expected autofill field classifications for the Epson.com registration form, covering name, email, and password fields.

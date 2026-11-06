@@ -1,0 +1,4 @@
+# Docerion header of 069_register_signup.clicksor.com.out.
+type: test
+title: Expected autofill types for signup.clicksor.com registration form
+summary: Expected autofill heuristic output for the signup.clicksor.com publisher signup form with contact, company, address, and security code fields.

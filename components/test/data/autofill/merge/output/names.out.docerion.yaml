@@ -1,0 +1,4 @@
+# Docerion header of names.out.
+type: test
+title: Names merge expected output
+summary: Expected output for an autofill profile merge test covering merging of name fields.

@@ -1,0 +1,4 @@
+# Docerion header of 055_register_imdb.com.out.
+type: test
+title: Autofill heuristics expected output for IMDb registration form
+summary: Expected autofill field classifications for the IMDb.com registration form, covering email, postal code, country, and password fields.

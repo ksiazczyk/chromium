@@ -1,0 +1,4 @@
+# Docerion header of 073_register_target.com.out.
+type: test
+title: Autofill heuristics test output for Target registration form
+summary: Expected autofill field classifications for Target sign-in and registration forms, covering email, password, and name fields.

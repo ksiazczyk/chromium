@@ -1,0 +1,4 @@
+# Docerion header of 143_cc_checkout_efollet.com.out.
+type: test
+title: Autofill heuristics expected output for efollet credit card form
+summary: Expected autofill field type predictions for the efollet.com checkout credit card fields, used by the autofill heuristics tests.

@@ -1,0 +1,4 @@
+# Docerion header of 071_register_sourceforge.net.out.
+type: test
+title: Autofill heuristics test output for SourceForge registration form
+summary: Expected autofill field classifications for the SourceForge registration page, covering name, email, password, country, and security question fields.

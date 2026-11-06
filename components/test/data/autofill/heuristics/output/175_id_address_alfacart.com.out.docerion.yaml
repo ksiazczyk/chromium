@@ -1,0 +1,4 @@
+# Docerion header of 175_id_address_alfacart.com.out.
+type: test
+title: Alfacart Indonesian address form autofill expectations
+summary: Expected autofill classifications for the alfacart.com Indonesian address form, including province, city, district and postal code fields.

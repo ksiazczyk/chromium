@@ -1,0 +1,4 @@
+# Docerion header of 107_checkout_m_apple.com.out.
+type: test
+title: Autofill heuristics expected output for mobile apple.com checkout
+summary: Expected autofill field classifications for the mobile apple.com checkout page, covering contact, address and credit card payment fields.

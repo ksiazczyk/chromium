@@ -1,0 +1,4 @@
+# Docerion header of 159_bug_966406_transavia.com.out.
+type: test
+title: Autofill expected output for Transavia booking form (bug 966406)
+summary: Expected autofill predictions for Transavia's login and booking retrieval form, a regression case for bug 966406.

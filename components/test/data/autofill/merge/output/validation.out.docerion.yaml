@@ -1,0 +1,4 @@
+# Docerion header of validation.out.
+type: test
+title: Validation merge expected output
+summary: Expected merged autofill profile values for a validation merge test case, showing two profiles with differing field completeness.

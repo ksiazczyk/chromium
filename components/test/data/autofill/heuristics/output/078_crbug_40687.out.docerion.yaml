@@ -1,0 +1,4 @@
+# Docerion header of 078_crbug_40687.out.
+type: test
+title: Autofill heuristics test output for crbug 40687 billing form
+summary: Expected autofill field classifications for a billing and payment form from Chromium bug 40687, covering address, contact, and credit card fields.

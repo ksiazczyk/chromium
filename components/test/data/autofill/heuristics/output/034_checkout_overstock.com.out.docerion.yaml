@@ -1,0 +1,4 @@
+# Docerion header of 034_checkout_overstock.com.out.
+type: test
+title: Autofill heuristics expected output for the Overstock checkout page
+summary: Expected autofill field classifications for the Overstock checkout form, covering billing, shipping, credit card and gift card fields.

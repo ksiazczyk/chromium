@@ -1,0 +1,4 @@
+# Docerion header of 046_register_bestbuy.com.out.
+type: test
+title: Autofill heuristic output for bestbuy.com registration
+summary: Expected autofill field type predictions for the bestbuy.com registration form, covering name, email, password, ZIP code and search fields.

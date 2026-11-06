@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Empty SVG identification tests
+// summary: Test suite verifying SVGs with local use references are flagged with a class while other SVGs are ignored.
+// ---
+
 suite('IdentifyEmptySVGsTest', function() {
   test('Correctly identifies SVG with href', async function() {
     const {assert} = await import('./index.js');

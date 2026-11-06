@@ -1,0 +1,4 @@
+# Docerion header of core_features.json.
+type: data
+title: Core page features test data
+summary: Large JSON fixture of raw extracted features per URL, such as text content and scripts, used to test distiller feature computation.

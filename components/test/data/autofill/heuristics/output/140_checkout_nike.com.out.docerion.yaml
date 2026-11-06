@@ -1,0 +1,4 @@
+# Docerion header of 140_checkout_nike.com.out.
+type: test
+title: Autofill heuristics expected output for Nike checkout form
+summary: Expected autofill field type predictions for the Nike.com checkout form, covering name, address, APO/FPO and account fields, used by the autofill heuristics tests.

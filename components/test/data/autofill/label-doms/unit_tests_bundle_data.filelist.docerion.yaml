@@ -1,0 +1,4 @@
+# Docerion header of unit_tests_bundle_data.filelist.
+type: test
+title: Test bundle file list for label DOM test data
+summary: Generated list of label DOM test data files to include in the iOS unit test bundle and not meant to be edited manually.

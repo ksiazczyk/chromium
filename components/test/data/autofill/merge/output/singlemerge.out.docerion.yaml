@@ -1,0 +1,4 @@
+# Docerion header of singlemerge.out.
+type: test
+title: Single merge expected output
+summary: Expected merged autofill profile values for a single-profile merge test case, covering name, email, company, address and phone fields.

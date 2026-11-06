@@ -1,0 +1,4 @@
+# Docerion header of ambiguous.in.
+type: test
+title: Autofill merge input for ambiguous profile values
+summary: Autofill profiles containing conflicting and duplicate values for names, email and phone, used to exercise ambiguous merge behavior.

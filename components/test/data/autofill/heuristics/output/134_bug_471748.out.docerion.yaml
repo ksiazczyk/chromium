@@ -1,0 +1,4 @@
+# Docerion header of 134_bug_471748.out.
+type: test
+title: Autofill heuristics expected output for bug 471748
+summary: Expected autofill predictions for a small credit card form with card type, number, two-digit-year expiry date and CVV2 fields.

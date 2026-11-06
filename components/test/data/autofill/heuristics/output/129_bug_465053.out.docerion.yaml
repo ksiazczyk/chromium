@@ -1,0 +1,4 @@
+# Docerion header of 129_bug_465053.out.
+type: test
+title: Autofill heuristics expected output for bug 465053
+summary: Expected Autofill field type predictions for the shipping address and credit card form from bug 465053, used as reference output by the Autofill heuristics tests.

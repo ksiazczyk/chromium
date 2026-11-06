@@ -1,0 +1,4 @@
+# Docerion header of 035_checkout_petco.com.out.
+type: test
+title: Autofill heuristics expected output for the Petco checkout page
+summary: Expected autofill field classifications for the Petco checkout form, covering email, shipping address and phone fields.

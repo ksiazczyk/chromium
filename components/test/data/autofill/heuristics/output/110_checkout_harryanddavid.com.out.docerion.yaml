@@ -1,0 +1,4 @@
+# Docerion header of 110_checkout_harryanddavid.com.out.
+type: test
+title: Harry and David checkout expected autofill output
+summary: Expected autofill heuristic output for the Harry & David checkout form, covering gift card, credit card, contact and address field classifications.

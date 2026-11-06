@@ -1,0 +1,4 @@
+# Docerion header of 050_register_ecomm.dell.com.out.
+type: test
+title: Autofill heuristics expected output for Dell registration form
+summary: Expected autofill field classifications for the Dell.com registration form, mapping name, address, email, and password fields to predicted types.

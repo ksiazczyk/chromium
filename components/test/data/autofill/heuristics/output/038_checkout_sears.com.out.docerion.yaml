@@ -1,0 +1,4 @@
+# Docerion header of 038_checkout_sears.com.out.
+type: test
+title: Autofill heuristics expected output for the Sears checkout page
+summary: Expected autofill field classifications for the Sears checkout form, covering shipping and billing address, phone and email fields.

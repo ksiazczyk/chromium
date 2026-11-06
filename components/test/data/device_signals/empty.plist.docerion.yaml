@@ -1,0 +1,4 @@
+# Docerion header of empty.plist.
+type: test
+title: Empty plist test fixture
+summary: Empty property list with an empty dictionary, used as test data for plist parsing and signal extraction.

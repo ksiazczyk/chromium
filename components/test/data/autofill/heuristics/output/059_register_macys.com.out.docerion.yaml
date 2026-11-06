@@ -1,0 +1,4 @@
+# Docerion header of 059_register_macys.com.out.
+type: test
+title: Autofill heuristics expected output for Macy's registration form
+summary: Expected autofill field classifications for the Macy's registration form, covering name, address, email, phone, and account number fields.

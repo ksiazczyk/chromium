@@ -1,0 +1,4 @@
+# Docerion header of 115_checkout_walgreens.com.out.
+type: test
+title: Walgreens address form expected autofill output
+summary: Expected autofill heuristic output for the Walgreens address form with name, address, email and phone fields.

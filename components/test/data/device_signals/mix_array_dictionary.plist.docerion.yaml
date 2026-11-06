@@ -1,0 +1,4 @@
+# Docerion header of mix_array_dictionary.plist.
+type: test
+title: Mixed array and dictionary plist test fixture
+summary: Property list fixture with nested dictionaries and arrays of strings, used to test parsing of mixed plist structures.

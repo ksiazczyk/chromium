@@ -1,0 +1,4 @@
+# Docerion header of 180_namesurname.out.
+type: test
+title: Autofill heuristics expected output for name and surname fields
+summary: Expected field type predictions for a form with name, surname, city and ZIP fields used by the autofill heuristics tests.

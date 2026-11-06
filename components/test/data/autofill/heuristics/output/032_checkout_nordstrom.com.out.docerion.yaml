@@ -1,0 +1,4 @@
+# Docerion header of 032_checkout_nordstrom.com.out.
+type: test
+title: Autofill heuristics expected output for the Nordstrom checkout page
+summary: Expected autofill field classifications for the Nordstrom checkout form, including billing and shipping address, email and phone fields.

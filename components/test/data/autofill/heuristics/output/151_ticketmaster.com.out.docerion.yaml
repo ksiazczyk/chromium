@@ -1,0 +1,4 @@
+# Docerion header of 151_ticketmaster.com.out.
+type: test
+title: Autofill heuristics expected output for Ticketmaster checkout form
+summary: Expected autofill field type predictions for a Ticketmaster checkout form with credit card, billing address and phone fields.

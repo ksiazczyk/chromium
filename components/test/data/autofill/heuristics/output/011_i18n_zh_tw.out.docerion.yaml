@@ -1,0 +1,4 @@
+# Docerion header of 011_i18n_zh_tw.out.
+type: test
+title: 'Autofill heuristics expected output: Traditional Chinese form (011)'
+summary: Expected field type predictions for the Traditional Chinese international autofill test form, covering name, address, email, phone and credit card fields.

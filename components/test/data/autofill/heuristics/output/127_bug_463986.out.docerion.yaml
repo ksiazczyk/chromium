@@ -1,0 +1,4 @@
+# Docerion header of 127_bug_463986.out.
+type: test
+title: Autofill heuristics expected output for bug 463986
+summary: Expected Autofill field type predictions for the checkout form with card and bank transfer fields from bug 463986, used as reference output by the Autofill heuristics tests.

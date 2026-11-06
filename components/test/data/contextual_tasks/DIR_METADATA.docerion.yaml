@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Contextual tasks DIR_METADATA
+summary: Directory metadata file that applies the common metadata mixins from //components/contextual_tasks/COMMON_METADATA to the contextual tasks test data folder.

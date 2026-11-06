@@ -1,0 +1,4 @@
+# Docerion header of 171_i18n_ru_structured_address_2.out.
+type: test
+title: Russian structured address autofill expectations 2
+summary: Expected autofill field classifications for a second Russian-language structured address test form variant with reordered street and house number labels.

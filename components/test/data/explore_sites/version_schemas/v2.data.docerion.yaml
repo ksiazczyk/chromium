@@ -1,0 +1,4 @@
+# Docerion header of v2.data.
+type: test
+title: Explore sites v2 test database dump
+summary: Text dump of the version 2 explore sites database, adding ntp_shown_count to the categories table, used as test fixture data.

@@ -1,0 +1,4 @@
+# Docerion header of uuid_and_synced.html.
+type: test
+title: UUID and synced attribute test fixture
+summary: Bookmark file with UUID and SYNCED attributes including invalid values, used to test handling of sync metadata during bookmark parsing.

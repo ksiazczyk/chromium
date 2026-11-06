@@ -1,0 +1,4 @@
+# Docerion header of 028_checkout_jr.com.out.
+type: test
+title: JR.com checkout autofill expected output
+summary: Expected autofill field type classifications for the JR.com checkout page, including billing, shipping, and gift order fields.
