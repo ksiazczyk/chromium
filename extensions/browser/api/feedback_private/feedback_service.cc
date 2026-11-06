@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feedback service implementation for collecting and sending reports
+// summary: Implements the feedback report pipeline that gathers system information, attachments, screenshots and ChromeOS logs, redacts them, and sends the report, including HPKE-encrypted variations data.
+// ---
+
 #include "extensions/browser/api/feedback_private/feedback_service.h"
 
 #include <memory>

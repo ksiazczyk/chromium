@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Composite matcher unit tests
+// summary: Unit tests for CompositeMatcher covering rule priority spaces, modifyHeaders actions, and matching behavior across multiple rulesets.
+// ---
+
 #include "extensions/browser/api/declarative_net_request/composite_matcher.h"
 
 #include <array>

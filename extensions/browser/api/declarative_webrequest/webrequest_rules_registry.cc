@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebRequest rules registry implementation
+// summary: Implements the WebRequestRulesRegistry that stores declarative WebRequest rules, matches them against network requests, and computes prioritized request modifications as EventResponseDelta lists.
+// ---
+
 #include "extensions/browser/api/declarative_webrequest/webrequest_rules_registry.h"
 
 #include <algorithm>

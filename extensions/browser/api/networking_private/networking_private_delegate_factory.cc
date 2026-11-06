@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkingPrivateDelegateFactory implementation
+// summary: Builds platform-specific NetworkingPrivateDelegate instances for ChromeOS, Linux, Windows and macOS as keyed services per browser context.
+// ---
+
 #include "extensions/browser/api/networking_private/networking_private_delegate_factory.h"
 
 #include "build/build_config.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header declaring the DNS resolve extension function
+// summary: Declares the DnsResolveFunction class for the dns.resolve extension API, which acts as a Mojo ResolveHostClient while a host resolution request is pending.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_DNS_DNS_API_H_
 #define EXTENSIONS_BROWSER_API_DNS_DNS_API_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Offscreen extension API function implementations
+// summary: Implements the offscreen createDocument, closeDocument and hasDocument extension functions, including browser context selection for incognito modes.
+// ---
+
 #include "extensions/browser/api/offscreen/offscreen_api.h"
 
 #include "base/command_line.h"

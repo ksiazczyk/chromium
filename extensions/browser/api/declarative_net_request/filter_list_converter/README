@@ -1,3 +1,9 @@
+---
+type: readme
+title: Filter List Converter
+summary: Describes the tool that converts text filter list files into a JSON ruleset or a complete extension for the Declarative Net Request API, based on the subresource filter ruleset converter.
+---
+
 Filter List Converter is a tool to convert filter list files in the text format
 to a JSON file in a format supported by the Declarative Net Request API. It can
 either output the complete extension or just the JSON ruleset.

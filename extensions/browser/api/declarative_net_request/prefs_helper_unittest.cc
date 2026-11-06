@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PrefsHelper unit tests
+// summary: Unit tests for PrefsHelper covering updates to disabled static rule ids, rule count limits and related preference behavior.
+// ---
+
 #include "extensions/browser/api/declarative_net_request/prefs_helper.h"
 
 #include "components/crx_file/id_util.h"

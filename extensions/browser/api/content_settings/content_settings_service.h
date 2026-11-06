@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentSettingsService class declaration
+// summary: Declares the BrowserContextKeyedAPI service that hosts the single ContentSettingsStore backing the chrome.contentSettings extension API.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_CONTENT_SETTINGS_CONTENT_SETTINGS_SERVICE_H_
 #define EXTENSIONS_BROWSER_API_CONTENT_SETTINGS_CONTENT_SETTINGS_SERVICE_H_
 

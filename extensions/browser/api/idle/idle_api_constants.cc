@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Idle API state constant definitions
+// summary: Defines the string constants for the active, idle and locked idle states.
+// ---
+
 #include "extensions/browser/api/idle/idle_api_constants.h"
 
 namespace extensions {

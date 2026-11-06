@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for conversion utilities
+// summary: Unit tests verifying proto-to-IDL and IDL-to-proto conversions in conversion_utils with fake perception data.
+// ---
+
 #include "extensions/browser/api/media_perception_private/conversion_utils.h"
 
 #include <memory>

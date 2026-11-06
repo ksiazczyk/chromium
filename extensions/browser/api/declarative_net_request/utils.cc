@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Declarative Net Request utilities implementation
+// summary: Implements helper functions for the Declarative Net Request API, including ruleset format versioning, checksums, persisting indexed rulesets, resource type mapping and rule limit overrides for testing.
+// ---
+
 #include "extensions/browser/api/declarative_net_request/utils.h"
 
 #include <algorithm>

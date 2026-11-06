@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Declarations for chrome.fileSystem extension API functions
+// summary: Declares the extension function classes for the fileSystem API plus helpers to get and set the last chosen entry directory per extension.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_FILE_SYSTEM_FILE_SYSTEM_API_H_
 #define EXTENSIONS_BROWSER_API_FILE_SYSTEM_FILE_SYSTEM_API_H_
 

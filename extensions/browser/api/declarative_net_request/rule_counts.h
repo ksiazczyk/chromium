@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Rule counts for a ruleset
+// summary: Declares the RuleCounts struct tracking the total, unsafe, and regex rule counts of a Declarative Net Request ruleset.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_DECLARATIVE_NET_REQUEST_RULE_COUNTS_H_
 #define EXTENSIONS_BROWSER_API_DECLARATIVE_NET_REQUEST_RULE_COUNTS_H_
 

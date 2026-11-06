@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Global rules tracker header
+// summary: Declares GlobalRulesTracker, which manages each extension's allocation from the global pool of static Declarative Net Request rules.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_DECLARATIVE_NET_REQUEST_GLOBAL_RULES_TRACKER_H_
 #define EXTENSIONS_BROWSER_API_DECLARATIVE_NET_REQUEST_GLOBAL_RULES_TRACKER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MetricsPrivateDelegate interface for embedder-specific behavior
+// summary: Abstract delegate interface that lets embedders provide metricsPrivate functionality, currently reporting whether crash reporting is enabled.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_METRICS_PRIVATE_METRICS_PRIVATE_DELEGATE_H_
 #define EXTENSIONS_BROWSER_API_METRICS_PRIVATE_METRICS_PRIVATE_DELEGATE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Rules registry service implementation
+// summary: Implements the browser-context-keyed service that owns rules registries, registering, looking up and removing them by event name and registry ID.
+// ---
+
 #include "extensions/browser/api/declarative/rules_registry_service.h"
 
 #include <algorithm>

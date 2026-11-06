@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RequestStage enum for web request stages
+// summary: Declares the RequestStage enum of web request life-cycle stages plus the active stage and last active stage constants.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_DECLARATIVE_WEBREQUEST_REQUEST_STAGE_H_
 #define EXTENSIONS_BROWSER_API_DECLARATIVE_WEBREQUEST_REQUEST_STAGE_H_
 

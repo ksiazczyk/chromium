@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RulesCacheDelegate class declaration
+// summary: Declares RulesCacheDelegate, which handles rule persistence and caching on the UI thread with ephemeral and persistent cache types.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_DECLARATIVE_RULES_CACHE_DELEGATE_H__
 #define EXTENSIONS_BROWSER_API_DECLARATIVE_RULES_CACHE_DELEGATE_H__
 

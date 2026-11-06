@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for NetworkManager D-Bus constants on Linux
+// summary: Declares the NetworkManager D-Bus constant strings shared by the Linux networking implementation.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_NETWORKING_PRIVATE_NETWORK_CONFIG_DBUS_CONSTANTS_LINUX_H_
 #define EXTENSIONS_BROWSER_API_NETWORKING_PRIVATE_NETWORK_CONFIG_DBUS_CONSTANTS_LINUX_H_
 

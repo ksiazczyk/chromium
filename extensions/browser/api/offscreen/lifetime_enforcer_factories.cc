@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lifetime enforcer factory registry implementation
+// summary: Implements the registry mapping offscreen document reasons to lifetime enforcer factories, falling back to an empty enforcer for unmanaged reasons.
+// ---
+
 #include "extensions/browser/api/offscreen/lifetime_enforcer_factories.h"
 
 #include <utility>

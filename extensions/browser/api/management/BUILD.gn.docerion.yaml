@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the extensions management API
+summary: Defines the management source_set for the extensions browser, listing the management API sources and their public and private dependencies.

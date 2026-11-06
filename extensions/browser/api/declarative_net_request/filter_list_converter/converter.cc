@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Filter list to Declarative Net Request rule conversion implementation
+// summary: Implements conversion of proto URL rules from text filter lists into JSON rules supported by the Declarative Net Request API, including validation and error reporting.
+// ---
+
 #include "extensions/browser/api/declarative_net_request/filter_list_converter/converter.h"
 
 #include <fstream>

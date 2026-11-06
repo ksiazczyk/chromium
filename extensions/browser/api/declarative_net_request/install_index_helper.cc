@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Install-time ruleset indexing helper implementation
+// summary: Implements InstallIndexHelper, which indexes extension static rulesets at install time and combines per-ruleset results, warnings and install preferences.
+// ---
+
 #include "extensions/browser/api/declarative_net_request/install_index_helper.h"
 
 #include <iterator>

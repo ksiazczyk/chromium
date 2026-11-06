@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for the DNS extension API
+summary: GN build file that defines the dns source set containing dns_api.cc and dns_api.h together with its public and private dependencies.

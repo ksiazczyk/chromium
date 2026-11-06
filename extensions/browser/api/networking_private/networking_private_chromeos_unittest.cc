@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Chrome OS networkingPrivate API
+// summary: Unit tests exercising the networkingPrivate extension API on Chrome OS with stub Shill services covering shared, private and managed networks.
+// ---
+
 #include <memory>
 #include <optional>
 #include <string>

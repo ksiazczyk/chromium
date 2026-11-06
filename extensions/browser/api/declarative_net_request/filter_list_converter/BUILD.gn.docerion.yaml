@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build rules for the filter list converter tool
+summary: GN build file defining the support source set, the filter_list_converter executable and its unit tests for converting filter lists to Declarative Net Request rulesets.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Idle extension API function declarations
+// summary: Declares the extension function classes that implement the chrome.idle queryState, setDetectionInterval and getAutoLockDelay APIs.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_IDLE_IDLE_API_H_
 #define EXTENSIONS_BROWSER_API_IDLE_IDLE_API_H_
 

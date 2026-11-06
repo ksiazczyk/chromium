@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: mediaPerceptionPrivate extension API implementation
+// summary: Implements the mediaPerceptionPrivate extension functions getState, setState, and getDiagnostics, validating parameters and delegating to MediaPerceptionAPIManager.
+// ---
+
 #include "extensions/browser/api/media_perception_private/media_perception_private_api.h"
 #include "base/functional/bind.h"
 

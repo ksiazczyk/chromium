@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App file handler utility header
+// summary: Declares utilities for matching file handlers to entries, including WebAppFileHandlerMatch and file entry creation with permissions.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_FILE_HANDLERS_APP_FILE_HANDLER_UTIL_H_
 #define EXTENSIONS_BROWSER_API_FILE_HANDLERS_APP_FILE_HANDLER_UTIL_H_
 

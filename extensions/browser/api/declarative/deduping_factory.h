@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DedupingFactory template for reusing immutable objects
+// summary: Defines a factory template that caches recently created immutable objects per instance type and recycles identical instances instead of creating new ones.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_DECLARATIVE_DEDUPING_FACTORY_H__
 #define EXTENSIONS_BROWSER_API_DECLARATIVE_DEDUPING_FACTORY_H__
 

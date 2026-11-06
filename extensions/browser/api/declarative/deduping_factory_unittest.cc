@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for DedupingFactory
+// summary: Unit tests for the DedupingFactory template, verifying parameterized instantiation, prototype cache eviction and object reuse.
+// ---
+
 #include "extensions/browser/api/declarative/deduping_factory.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Idle API state and event constant declarations
+// summary: Declares string constants for the idle state values and the onStateChanged event name.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_IDLE_IDLE_API_CONSTANTS_H_
 #define EXTENSIONS_BROWSER_API_IDLE_IDLE_API_CONSTANTS_H_
 

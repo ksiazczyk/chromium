@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkingPrivateLinux D-Bus implementation
+// summary: Implements the networkingPrivate extension API delegate on Linux, using D-Bus to enumerate Wi-Fi access points and building network GUIDs from device path, access point path, and SSID.
+// ---
+
 #include "extensions/browser/api/networking_private/networking_private_linux.h"
 
 #include <stddef.h>

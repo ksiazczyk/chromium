@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Declarative Net Request flat ruleset build target
+summary: GN build file that defines the flatbuffer target generating the extension ruleset from the extension_ruleset schema, depending on the url_pattern_index flat rules.

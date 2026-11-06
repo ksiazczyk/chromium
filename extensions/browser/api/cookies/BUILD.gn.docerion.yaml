@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the cookies extension API
+summary: Defines the cookies source_set with its source files and public dependencies for building the extensions cookies API.

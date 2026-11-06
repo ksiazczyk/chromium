@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for the file handlers source set
+summary: GN build file defining the file_handlers source set, its source files, and its public and private dependencies.

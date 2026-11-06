@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: HID API directory metadata
+summary: Specifies the Monorail component and Buganizer component ID used for bug tracking of the HID extension API directory.

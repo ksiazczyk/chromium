@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebRequestAction base class and action declarations
+// summary: Declares the WebRequestAction base class and concrete actions such as redirects, header changes and cookie modifications for the declarative Web Request API.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_DECLARATIVE_WEBREQUEST_WEBREQUEST_ACTION_H_
 #define EXTENSIONS_BROWSER_API_DECLARATIVE_WEBREQUEST_WEBREQUEST_ACTION_H_
 

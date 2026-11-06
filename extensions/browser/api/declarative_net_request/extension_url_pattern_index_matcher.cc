@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension URL pattern index matcher implementation
+// summary: Matches network requests against filter list style declarative rules using the url_pattern_index component for before-request and headers-received phases.
+// ---
+
 #include "extensions/browser/api/declarative_net_request/extension_url_pattern_index_matcher.h"
 
 #include <algorithm>

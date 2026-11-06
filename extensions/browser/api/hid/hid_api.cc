@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HID extension API function implementations
+// summary: Implements the chrome.hid extension API functions for enumerating devices, opening connections, and transferring input, output, and feature reports.
+// ---
+
 #include "extensions/browser/api/hid/hid_api.h"
 
 #include <stdint.h>

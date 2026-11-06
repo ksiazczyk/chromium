@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stub networkingPrivate extension functions
+// summary: Provides stub implementations of the networkingPrivate extension functions that respond with a not-implemented error on platforms lacking networking support.
+// ---
+
 #include "extensions/browser/api/networking_private/networking_private_api.h"
 #include "extensions/browser/api/networking_private/networking_private_event_router_factory.h"
 

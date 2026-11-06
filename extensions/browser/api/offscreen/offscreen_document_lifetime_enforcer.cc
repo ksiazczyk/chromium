@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Base offscreen document lifetime enforcer implementation
+// summary: Implements the base OffscreenDocumentLifetimeEnforcer, storing the document host and running the termination and inactivity notification callbacks.
+// ---
+
 #include "extensions/browser/api/offscreen/offscreen_document_lifetime_enforcer.h"
 
 namespace extensions {

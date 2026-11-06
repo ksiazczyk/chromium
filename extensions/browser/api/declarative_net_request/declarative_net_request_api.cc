@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Declarative Net Request extension API implementation
+// summary: Implements the declarativeNetRequest extension functions for updating and fetching dynamic, session, and static rulesets and matched rules.
+// ---
+
 #include "extensions/browser/api/declarative_net_request/declarative_net_request_api.h"
 
 #include <functional>

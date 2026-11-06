@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HID connection resource implementation
+// summary: Implements the ApiResource that wraps a Mojo HID connection and its BrowserContextKeyedAPIFactory resource manager.
+// ---
+
 #include "extensions/browser/api/hid/hid_connection_resource.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Declarative Web Request stage constants
+// summary: Defines the active request stage bitmask and the last active stage constant for the declarative Web Request API.
+// ---
+
 #include "extensions/browser/api/declarative_webrequest/request_stage.h"
 
 

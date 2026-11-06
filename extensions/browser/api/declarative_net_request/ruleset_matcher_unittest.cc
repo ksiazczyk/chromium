@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the DNR ruleset matcher
+// summary: Contains gtest coverage for RulesetMatcher behavior, including blocking, redirect, allow, upgrade, and header modification rules.
+// ---
+
 #include "extensions/browser/api/declarative_net_request/ruleset_matcher.h"
 
 #include <array>

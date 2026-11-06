@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the chrome.fileSystem extension API
+// summary: Implements the chrome.fileSystem extension functions such as choosing entries, requesting writable entries, and managing retained file access across platforms.
+// ---
+
 #include "extensions/browser/api/file_system/file_system_api.h"
 
 #include <stddef.h>

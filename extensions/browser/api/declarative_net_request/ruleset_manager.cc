@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ruleset manager implementation
+// summary: Implements RulesetManager, which evaluates network requests against extension rulesets and applies actions such as blocking, redirecting, and header modification.
+// ---
+
 #include "extensions/browser/api/declarative_net_request/ruleset_manager.h"
 
 #include <algorithm>

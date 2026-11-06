@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the i18n.getAcceptLanguages extension function
+// summary: Implements I18nGetAcceptLanguagesFunction, which reads the accept-languages preference, splits and sanitizes it, and returns the language list or an error.
+// ---
+
 #include "extensions/browser/api/i18n/i18n_api.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Global rules tracker implementation
+// summary: Implements GlobalRulesTracker, which tracks and enforces the global limit on static rules allocated across installed extensions.
+// ---
+
 #include "extensions/browser/api/declarative_net_request/global_rules_tracker.h"
 
 #include "extensions/browser/api/declarative_net_request/prefs_helper.h"

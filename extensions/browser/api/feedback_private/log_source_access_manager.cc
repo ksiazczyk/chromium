@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Log source access manager implementation with rate limiting
+// summary: Implements helpers that split log responses into redacted lines and defines the rate-limiting and size caps applied when extensions read log sources.
+// ---
+
 #include "extensions/browser/api/feedback_private/log_source_access_manager.h"
 
 #include <algorithm>

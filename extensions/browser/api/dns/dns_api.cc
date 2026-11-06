@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the dns.resolve extension function
+// summary: Implements DnsResolveFunction, which resolves a hostname through the network service host resolver and returns the resolved address or error to the calling extension.
+// ---
+
 #include "extensions/browser/api/dns/dns_api.h"
 
 #include "base/functional/bind.h"

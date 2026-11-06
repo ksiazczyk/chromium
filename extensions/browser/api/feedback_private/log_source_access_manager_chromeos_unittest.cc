@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for LogSourceAccessManager reader limits on ChromeOS
+// summary: Verifies that LogSourceAccessManager enforces the maximum number of open log source readers for the same extension and across different extensions.
+// ---
+
 #include "extensions/browser/api/feedback_private/log_source_access_manager.h"
 
 #include "base/functional/bind.h"

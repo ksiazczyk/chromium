@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the mimeHandler extension API
+// summary: Tests the mimeHandler API functions using mock streams, frames, and response headers, covering stream info results and response header filtering behavior.
+// ---
+
 #include "extensions/browser/api/mime_handler/mime_handler_api.h"
 
 #include <map>

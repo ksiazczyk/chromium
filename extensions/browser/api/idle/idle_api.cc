@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Idle extension API function implementations
+// summary: Implements the chrome.idle queryState, setDetectionInterval and getAutoLockDelay extension functions with threshold clamping.
+// ---
+
 #include "extensions/browser/api/idle/idle_api.h"
 
 #include "base/values.h"

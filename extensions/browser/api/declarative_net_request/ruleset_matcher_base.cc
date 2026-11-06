@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared rule matcher logic for actions and URL transforms
+// summary: Implements RulesetMatcherBase helpers such as query transformations, URL scheme upgrades, and creation of block, allow, redirect, and header actions.
+// ---
+
 #include "extensions/browser/api/declarative_net_request/ruleset_matcher_base.h"
 
 #include <algorithm>

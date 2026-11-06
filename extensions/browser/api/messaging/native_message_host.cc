@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Native messaging host error message constants
+// summary: Defines shared error string constants for native messaging host failures such as invalid names, forbidden access, exited hosts and input/output errors.
+// ---
+
 #include "extensions/browser/api/messaging/native_message_host.h"
 
 namespace extensions {

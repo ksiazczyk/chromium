@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Indexed rule parsing implementation
+// summary: Implements parsing of Declarative Net Request API rules into IndexedRule structures, including URL filter parsing and priority computation.
+// ---
+
 #include "extensions/browser/api/declarative_net_request/indexed_rule.h"
 
 #include <algorithm>

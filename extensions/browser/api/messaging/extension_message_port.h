@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension message port class declaration
+// summary: Declares ExtensionMessagePort with factory methods for tab-scoped, extension-wide, and endpoint-based ports that communicate with extension contexts.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_MESSAGING_EXTENSION_MESSAGE_PORT_H_
 #define EXTENSIONS_BROWSER_API_MESSAGING_EXTENSION_MESSAGE_PORT_H_
 

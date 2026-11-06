@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebContentsHelper implementation
+// summary: Implements a WebContents observer that forwards render frame creation, deletion and navigation events to the Declarative Net Request RulesetManager for a browser context.
+// ---
+
 #include "extensions/browser/api/declarative_net_request/web_contents_helper.h"
 #include "base/check.h"
 #include "content/public/browser/navigation_handle.h"

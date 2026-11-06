@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Idle state manager implementation
+// summary: Implements IdleManager, which polls idle state, tracks per-extension thresholds and dispatches onStateChanged events to extensions.
+// ---
+
 #include "extensions/browser/api/idle/idle_manager.h"
 
 #include <utility>

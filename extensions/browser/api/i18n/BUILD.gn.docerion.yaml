@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the i18n extension API
+summary: Defines the i18n source_set build target with i18n_api.cc and i18n_api.h plus dependencies on base, language, prefs, content, and extensions common API.

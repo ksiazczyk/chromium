@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MessageService header for extension messaging channels
+// summary: Declares MessageService, the browser-context keyed API that manages message channels and event passing between extension contexts and renderer processes.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_MESSAGING_MESSAGE_SERVICE_H_
 #define EXTENSIONS_BROWSER_API_MESSAGING_MESSAGE_SERVICE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for cookies API helpers
+// summary: Unit tests covering cookie serialization with extreme expiration dates and cookie partition key validation error cases.
+// ---
+
 #include "extensions/browser/api/cookies/cookies_helpers.h"
 
 #include <limits>

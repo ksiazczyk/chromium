@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebRequest condition attribute implementations
+// summary: Implements condition attributes for resource type, content type, request and response headers, and stages, instantiated via a deduping factory.
+// ---
+
 #include "extensions/browser/api/declarative_webrequest/webrequest_condition_attribute.h"
 
 #include <stddef.h>

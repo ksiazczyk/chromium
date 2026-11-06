@@ -5,6 +5,12 @@
 // Defines the Chrome Extensions Cookies API functions for accessing internet
 // cookies, as specified in the extension API JSON.
 
+// ---docerion
+// type: source
+// title: Chrome Extensions Cookies API declarations
+// summary: Declares the cookies API function classes and the CookiesEventRouter that relays CookieManager Mojo messages as extension events.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_COOKIES_COOKIES_API_H_
 #define EXTENSIONS_BROWSER_API_COOKIES_COOKIES_API_H_
 

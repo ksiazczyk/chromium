@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test helpers for Declarative Net Request unit tests
+// summary: Implements test helpers such as creating test RequestActions, verified matchers, temporary ruleset sources, and equality and output operators.
+// ---
+
 #include "extensions/browser/api/declarative_net_request/test_utils.h"
 
 #include <string>

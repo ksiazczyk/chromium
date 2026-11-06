@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Channel endpoint class declaration
+// summary: Declares ChannelEndpoint, which represents one end of an extension message channel in a render process or a native messaging host.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_MESSAGING_CHANNEL_ENDPOINT_H_
 #define EXTENSIONS_BROWSER_API_MESSAGING_CHANNEL_ENDPOINT_H_
 

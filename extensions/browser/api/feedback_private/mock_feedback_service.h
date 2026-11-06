@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock feedback service header
+// summary: Declares MockFeedbackService, a GoogleMock subclass of FeedbackService that stubs RedactThenSendFeedback so tests can intercept feedback submissions.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_FEEDBACK_PRIVATE_MOCK_FEEDBACK_SERVICE_H_
 #define EXTENSIONS_BROWSER_API_FEEDBACK_PRIVATE_MOCK_FEEDBACK_SERVICE_H_
 

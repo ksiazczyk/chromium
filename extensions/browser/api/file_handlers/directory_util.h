@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Directory utility header
+// summary: Declares GetIsDirectoryForLocalPath and the IsDirectoryCollector class that gathers which of a set of paths are directories.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_FILE_HANDLERS_DIRECTORY_UTIL_H_
 #define EXTENSIONS_BROWSER_API_FILE_HANDLERS_DIRECTORY_UTIL_H_
 

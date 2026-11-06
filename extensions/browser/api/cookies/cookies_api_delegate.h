@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cookies API embedder delegate interface
+// summary: Defines an abstract delegate giving the chrome.cookies API embedder-specific hooks for browser context and cookie store relationships.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_COOKIES_COOKIES_API_DELEGATE_H_
 #define EXTENSIONS_BROWSER_API_COOKIES_COOKIES_API_DELEGATE_H_
 

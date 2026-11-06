@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser-side implementation of guestViewInternal extension functions
+// summary: Implements extension functions that create, destroy unattached, and resize guest views through the GuestViewManager.
+// ---
+
 #include "extensions/browser/api/guest_view/guest_view_internal_api.h"
 
 #include <memory>

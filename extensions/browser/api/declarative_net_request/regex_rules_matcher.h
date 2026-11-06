@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RegexRulesMatcher class declaration
+// summary: Declares RegexRulesMatcher, which matches regular expression rules using re2's FilteredRE2 and Aho-Corasick substring matching for speed.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_DECLARATIVE_NET_REQUEST_REGEX_RULES_MATCHER_H_
 #define EXTENSIONS_BROWSER_API_DECLARATIVE_NET_REQUEST_REGEX_RULES_MATCHER_H_
 

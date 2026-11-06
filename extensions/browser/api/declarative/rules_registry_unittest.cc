@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Rules registry unit tests
+// summary: Unit tests verifying that RulesRegistry fills unique rule identifiers and enforces add, remove and duplicate-ID behavior.
+// ---
+
 #include "extensions/browser/api/declarative/rules_registry.h"
 
 #include <algorithm>

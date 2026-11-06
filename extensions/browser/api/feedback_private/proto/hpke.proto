@@ -14,6 +14,12 @@
 //
 ////////////////////////////////////////////////////////////////////////////////
 
+// ---docerion
+// type: source
+// title: HPKE protobuf definitions for the feedback private API
+// summary: Proto3 schema defining HPKE KEM, KDF, and AEAD enums plus key parameter, public key, private key, and key format messages.
+// ---
+
 syntax = "proto3";
 
 option optimize_for = LITE_RUNTIME;

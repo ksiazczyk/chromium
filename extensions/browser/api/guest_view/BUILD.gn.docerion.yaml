@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the guest_view extension API
+summary: Defines the guest_view source set with its sources and dependencies for building the extensions browser guest view API.

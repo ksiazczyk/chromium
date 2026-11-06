@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of SavedFileEntry constructors
+// summary: Implements the constructors of the SavedFileEntry struct that stores an id, path, directory flag, and LRU sequence number.
+// ---
+
 #include "extensions/browser/api/file_system/saved_file_entry.h"
 
 namespace extensions {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Command line entry point for filter_list_converter
+// summary: Parses the input filter lists, output path and output type switches, then runs the conversion to a JSON ruleset or extension.
+// ---
+
 #include <vector>
 
 #include "base/command_line.h"

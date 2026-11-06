@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock feedback service implementation
+// summary: Implements MockFeedbackService constructors and destructor for a GoogleMock stub of FeedbackService used in place of real feedback sending during tests.
+// ---
+
 #include "extensions/browser/api/feedback_private/mock_feedback_service.h"
 
 namespace extensions {

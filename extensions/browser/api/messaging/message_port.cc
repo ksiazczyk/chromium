@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Message port base implementation
+// summary: Implements MessagePort base defaults, including closing ports through the channel delegate and verifying browser-side user activation before posting messages.
+// ---
+
 #include "extensions/browser/api/messaging/message_port.h"
 
 #include <optional>

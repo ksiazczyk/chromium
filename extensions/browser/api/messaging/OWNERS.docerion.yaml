@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the messaging directory
+summary: Lists the owner emails for reviews and requires IPC security owners for changes to message_service_bindings files.

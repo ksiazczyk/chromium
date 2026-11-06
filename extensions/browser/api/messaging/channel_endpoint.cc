@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Channel endpoint implementation
+// summary: Implements ChannelEndpoint, determining whether a message channel endpoint is a render frame, service worker, or native messaging host and checking that it is still valid.
+// ---
+
 #include "extensions/browser/api/messaging/channel_endpoint.h"
 
 #include "content/public/browser/child_process_host.h"

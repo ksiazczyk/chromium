@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebContentsHelper class declaration
+// summary: Declares a WebContentsObserver subclass that routes WebContents lifecycle events such as render frame changes and finished navigations to the RulesetManager.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_DECLARATIVE_NET_REQUEST_WEB_CONTENTS_HELPER_H_
 #define EXTENSIONS_BROWSER_API_DECLARATIVE_NET_REQUEST_WEB_CONTENTS_HELPER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the media perception API manager
+// summary: Unit tests for the API manager using fake Upstart and media analytics clients to verify state handling and service errors.
+// ---
+
 #include "extensions/browser/api/media_perception_private/media_perception_api_manager.h"
 
 #include <memory>

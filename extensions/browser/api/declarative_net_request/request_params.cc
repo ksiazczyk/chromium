@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Request parameters implementation
+// summary: Implements RequestParams helpers for Declarative Net Request evaluation, including third-party request detection and response header condition matching.
+// ---
+
 #include "extensions/browser/api/declarative_net_request/request_params.h"
 
 #include <algorithm>

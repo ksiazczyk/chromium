@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Delegate interface for browser-specific management behavior
+// summary: Declares ManagementAPIDelegate and prompt lifetime delegates so the extensions layer can call into Chrome for app launching, enabling, uninstalling, and shortcut creation.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_MANAGEMENT_MANAGEMENT_API_DELEGATE_H_
 #define EXTENSIONS_BROWSER_API_MANAGEMENT_MANAGEMENT_API_DELEGATE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HID connection resource declaration
+// summary: Declares HidConnectionResource, an ApiResource holding a Mojo remote to an open HID connection on the UI thread.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_HID_HID_CONNECTION_RESOURCE_H_
 #define EXTENSIONS_BROWSER_API_HID_HID_CONNECTION_RESOURCE_H_
 

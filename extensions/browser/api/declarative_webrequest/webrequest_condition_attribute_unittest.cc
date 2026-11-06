@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Condition attribute unit tests
+// summary: Unit tests covering creation and evaluation of declarative Web Request condition attributes such as resource type and content type.
+// ---
+
 #include "extensions/browser/api/declarative_webrequest/webrequest_condition_attribute.h"
 
 #include <stddef.h>

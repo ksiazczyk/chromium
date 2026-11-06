@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Non-ChromeOS networkingPrivate event router implementation
+// summary: Implements the networkingPrivate event router for non-ChromeOS platforms by observing NetworkingPrivateDelegate change events and dispatching them to listeners.
+// ---
+
 #include <memory>
 
 #include "base/memory/raw_ptr.h"

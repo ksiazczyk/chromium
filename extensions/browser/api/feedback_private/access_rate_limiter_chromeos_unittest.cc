@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the access rate limiter
+// summary: Tests rate limiter behavior for zero limits, repeated access, recharging and unlimited access using a test clock.
+// ---
+
 #include "extensions/browser/api/feedback_private/access_rate_limiter.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MessageService Mojo bindings implementation
+// summary: Implements the browser-side bindings for MessageService, validating messaging sources and port contexts such as sandboxed frames before handling channel requests.
+// ---
+
 #include <optional>
 
 #include "base/debug/crash_logging.h"

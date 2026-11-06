@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RequestAction implementation
+// summary: Implements RequestAction, including conversion of flatbuffer header operations and comparison operators based on priority, ruleset and rule id.
+// ---
+
 #include "extensions/browser/api/declarative_net_request/request_action.h"
 
 #include <tuple>

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the mime_handler_private directory
+summary: Lists sammc@chromium.org as the owner responsible for this directory.

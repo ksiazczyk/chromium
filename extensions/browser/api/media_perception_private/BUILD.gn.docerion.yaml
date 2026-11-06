@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for media_perception_private
+summary: Defines the media_perception_private source set with its sources and Chrome OS, Mojo, and extensions dependencies for the GN build.

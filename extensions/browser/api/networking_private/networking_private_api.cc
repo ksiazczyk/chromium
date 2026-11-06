@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the networkingPrivate extension API
+// summary: Implements the chrome.networkingPrivate extension API functions, including access checks and filtering of private network properties per extension context.
+// ---
+
 #include "extensions/browser/api/networking_private/networking_private_api.h"
 
 #include <memory>

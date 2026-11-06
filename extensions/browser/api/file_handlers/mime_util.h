@@ -4,6 +4,12 @@
 //
 // This file provides MIME related utilities.
 
+// ---docerion
+// type: source
+// title: MIME utility header
+// summary: Declares GetMimeTypeForLocalPath and the MimeTypeCollector class for asynchronously collecting MIME types for URLs and local paths.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_FILE_HANDLERS_MIME_UTIL_H_
 #define EXTENSIONS_BROWSER_API_FILE_HANDLERS_MIME_UTIL_H_
 

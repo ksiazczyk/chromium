@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Access rate limiter implementation
+// summary: Implements a rechargeable counter that grants or denies resource access attempts based on elapsed time.
+// ---
+
 #include "extensions/browser/api/feedback_private/access_rate_limiter.h"
 
 namespace extensions {

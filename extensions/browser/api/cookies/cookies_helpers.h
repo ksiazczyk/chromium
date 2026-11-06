@@ -7,6 +7,12 @@
 // extensions/browser/api/cookies/cookies_api.cc. This separate interface
 // exposes pieces of the API implementation mainly for unit testing purposes.
 
+// ---docerion
+// type: source
+// title: Cookies API helper declarations
+// summary: Declares shared helper functions used by the cookies API implementation, exposed separately mainly for unit testing purposes.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_COOKIES_COOKIES_HELPERS_H_
 #define EXTENSIONS_BROWSER_API_COOKIES_COOKIES_HELPERS_H_
 

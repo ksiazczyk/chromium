@@ -1,0 +1,4 @@
+# Docerion header of extension_ruleset.fbs.
+type: source
+title: FlatBuffers schema for the declarative net request indexed ruleset
+summary: FlatBuffers schema defining the indexed extension ruleset, covering action types, URL transforms, rule metadata, embedder conditions, and index types.

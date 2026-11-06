@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ContentSettingsStore unit tests
+// summary: Unit tests for the extension ContentSettingsStore, covering extension registration and unregistration, rule lookup, and observer notifications.
+// ---
+
 #include "extensions/browser/api/content_settings/content_settings_store.h"
 
 #include <stdint.h>

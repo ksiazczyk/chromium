@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Declarative API extension function declarations
+// summary: Declares the RulesFunction base class and the events addRules, removeRules and getRules extension functions used to manage declarative rules.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_DECLARATIVE_DECLARATIVE_API_H_
 #define EXTENSIONS_BROWSER_API_DECLARATIVE_DECLARATIVE_API_H_
 

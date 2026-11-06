@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the idle API component
+summary: Declares the monorail and buganizer components used for filing bugs against the idle extension API.

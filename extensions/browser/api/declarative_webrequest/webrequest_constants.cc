@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Declarative WebRequest API constants
+// summary: Defines string constants for the declarative WebRequest API, including event signal names, dictionary keys, enum values, and action instance type identifiers.
+// ---
+
 #include "extensions/browser/api/declarative_webrequest/webrequest_constants.h"
 
 namespace extensions {

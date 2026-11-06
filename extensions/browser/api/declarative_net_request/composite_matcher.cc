@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Composite matcher implementation
+// summary: Implements CompositeMatcher, which manages an extension's ruleset matchers, computes request actions, and records evaluation timing histograms.
+// ---
+
 #include "extensions/browser/api/declarative_net_request/composite_matcher.h"
 
 #include <algorithm>

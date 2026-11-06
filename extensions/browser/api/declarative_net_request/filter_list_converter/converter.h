@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Filter list converter interface
+// summary: Declares the ConvertRuleset function and WriteType enum for converting filter list files into a JSON ruleset or a complete extension.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_DECLARATIVE_NET_REQUEST_FILTER_LIST_CONVERTER_CONVERTER_H_
 #define EXTENSIONS_BROWSER_API_DECLARATIVE_NET_REQUEST_FILTER_LIST_CONVERTER_CONVERTER_H_
 

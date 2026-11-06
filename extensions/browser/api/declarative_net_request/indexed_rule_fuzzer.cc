@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Indexed rule fuzzer
+// summary: LibFuzzer entry point that exercises IndexedRule creation with random rules, URLs, and ruleset IDs to uncover parsing crashes.
+// ---
+
 #include "extensions/browser/api/declarative_net_request/indexed_rule.h"
 
 #include <fuzzer/FuzzedDataProvider.h>

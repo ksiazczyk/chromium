@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the metricsPrivate extension API
+// summary: Implements the chrome.metricsPrivate extension functions for recording user actions, histograms, counts, times, sparse values and UKM events, and for querying field trials and crash reporting state.
+// ---
+
 #include "extensions/browser/api/metrics_private/metrics_private_api.h"
 
 #include <limits.h>

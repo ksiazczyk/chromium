@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Indexed rule unit tests
+// summary: Unit tests for IndexedRule covering rule IDs, priorities, URL filters, redirects, and header modification parsing cases.
+// ---
+
 #include "extensions/browser/api/declarative_net_request/indexed_rule.h"
 
 #include <algorithm>

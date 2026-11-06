@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Idle state manager class declaration
+// summary: Declares the IdleManager keyed service and IdleMonitor struct that track idle state, listeners and thresholds for extensions.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_IDLE_IDLE_MANAGER_H_
 #define EXTENSIONS_BROWSER_API_IDLE_IDLE_MANAGER_H_
 

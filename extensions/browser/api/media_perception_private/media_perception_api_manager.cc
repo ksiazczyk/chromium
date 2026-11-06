@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media perception API manager implementation
+// summary: Implements the API manager that controls the media analytics process via D-Bus and Upstart and manages Mojo connections to the media perception service.
+// ---
+
 #include "extensions/browser/api/media_perception_private/media_perception_api_manager.h"
 
 #include <memory>

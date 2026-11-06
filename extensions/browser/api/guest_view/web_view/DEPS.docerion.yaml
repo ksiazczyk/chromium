@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the web_view API directory
+summary: Grants this directory permission to include the Chromium crash key header used for crash reporting.

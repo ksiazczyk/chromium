@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HID device manager declaration
+// summary: Declares HidDeviceManager, the BrowserContextKeyedAPI that maps enumerated HID devices to chrome.hid API resource IDs and dispatches device events.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_HID_HID_DEVICE_MANAGER_H_
 #define EXTENSIONS_BROWSER_API_HID_HID_DEVICE_MANAGER_H_
 

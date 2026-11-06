@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NativeMessageHost interface for native messaging
+// summary: Declares the NativeMessageHost interface for hosting native components that exchange messages with extensions through the Native Messaging API.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_MESSAGING_NATIVE_MESSAGE_HOST_H_
 #define EXTENSIONS_BROWSER_API_MESSAGING_NATIVE_MESSAGE_HOST_H_
 

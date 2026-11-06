@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Directory include dependencies
+summary: DEPS file listing the include rules that allow this directory to depend on url_pattern_index, flatbuffers, and the JSON schema compiler utilities.

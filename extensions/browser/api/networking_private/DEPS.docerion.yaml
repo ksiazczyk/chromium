@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include dependency rules for networking_private
+summary: Chromium DEPS rules allowing this directory to include components such as dbus, onc, wifi, chromeos and third_party/cros_system_api.

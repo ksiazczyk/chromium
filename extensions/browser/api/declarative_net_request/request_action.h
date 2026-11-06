@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Request action for matched DNR rules
+// summary: Defines the RequestAction struct representing the action (block, redirect, upgrade, modify headers, etc.) to apply to a request for a matched Declarative Net Request rule, attributed to one extension.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_DECLARATIVE_NET_REQUEST_REQUEST_ACTION_H_
 #define EXTENSIONS_BROWSER_API_DECLARATIVE_NET_REQUEST_REQUEST_ACTION_H_
 

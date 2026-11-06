@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content settings helper functions
+// summary: Implements parsing of extension match patterns into content settings patterns and conversion between content settings type strings and ContentSettingsType values.
+// ---
+
 #include "extensions/browser/api/content_settings/content_settings_helpers.h"
 
 #include <memory>

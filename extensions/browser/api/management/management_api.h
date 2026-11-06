@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Declarations of chrome.management extension functions
+// summary: Declares the ExtensionFunction classes for the chrome.management API, such as getAll, get, setEnabled, launchApp, and uninstall, along with the browser-side keyed service.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_MANAGEMENT_MANAGEMENT_API_H_
 #define EXTENSIONS_BROWSER_API_MANAGEMENT_MANAGEMENT_API_H_
 

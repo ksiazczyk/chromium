@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MessagingDelegate default stub implementation
+// summary: Provides default not-implemented MessagingDelegate methods that disallow native messaging hosts and return no tab information or native app receivers.
+// ---
+
 #include "extensions/browser/api/messaging/messaging_delegate.h"
 
 #include "base/functional/callback.h"

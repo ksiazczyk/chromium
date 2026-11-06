@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the WebView internal extension API
+// summary: Implements browser-side extension functions for the web view tag, covering content script injection, navigation, visible region capture, permission setting, and data removal.
+// ---
+
 #include "extensions/browser/api/guest_view/web_view/web_view_internal_api.h"
 
 #include <memory>

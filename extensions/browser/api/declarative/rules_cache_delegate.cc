@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RulesCacheDelegate implementation
+// summary: Implements the UI-thread part of the rules registry, reading and writing declarative rules to the extension state store and notifying observers.
+// ---
+
 #include "extensions/browser/api/declarative/rules_cache_delegate.h"
 
 #include <utility>

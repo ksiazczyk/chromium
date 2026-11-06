@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for video capture mojom
+summary: Grants this directory include access to services/video_capture/public/mojom for dependency checking.

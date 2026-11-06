@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: feedbackPrivate extension API implementation
+// summary: Implements the feedbackPrivate API functions for sending feedback, fetching system information and reading log sources.
+// ---
+
 #include "extensions/browser/api/feedback_private/feedback_private_api.h"
 
 #include <string>
