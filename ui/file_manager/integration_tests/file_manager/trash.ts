@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Files app trash integration tests
+// summary: Integration tests for moving files to trash, permanently deleting them and managing the .Trash folder.
+// ---
+
 import {DialogType} from '../prod/file_manager/shared_types.js';
 import {addEntries, createNestedTestFolders, ENTRIES, RootPath, sendTestMessage} from '../test_util.js';
 

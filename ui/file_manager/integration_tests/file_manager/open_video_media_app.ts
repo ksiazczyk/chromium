@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Video file MediaApp open tests
+// summary: Integration tests verifying that video files from Downloads and Drive open in the MediaApp/Backlight viewer.
+// ---
+
 import {ENTRIES, RootPath} from '../test_util.js';
 
 import {opensInMediaApp} from './open_media_app.js';

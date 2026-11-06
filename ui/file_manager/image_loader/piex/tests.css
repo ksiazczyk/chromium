@@ -2,6 +2,13 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file.
  */
+
+/*docerion
+type: test
+title: Piex test page styles
+summary: Stylesheet that lays out images and result text on the piex WASM test page.
+*/
+
 canvas {
   margin: 0 9px 0 0;
   vertical-align: top;

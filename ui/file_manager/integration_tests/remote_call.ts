@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RemoteCall helper for driving the Files app in integration tests
+// summary: Provides the RemoteCall class and helpers to send test messages and control the Files app window during integration tests.
+// ---
+
 import {DirectoryTreePageObject} from './file_manager/page_objects/directory_tree.js';
 import {BASIC_CROSTINI_ENTRY_SET, BASIC_DRIVE_ENTRY_SET, BASIC_LOCAL_ENTRY_SET} from './file_manager/test_data.js';
 import type {ElementObject, FilesAppState, KeyModifiers, VolumeType} from './prod/file_manager/shared_types.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XfBreadcrumb widget
+// summary: Implements the xf-breadcrumb component that displays the current directory path and elides middle path parts into a drop-down menu.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_action_menu/cr_action_menu.js';
 import 'chrome://resources/polymer/v3_0/paper-ripple/paper-ripple.js';
 

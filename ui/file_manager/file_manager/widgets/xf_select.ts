@@ -6,6 +6,12 @@
  * @fileoverview xf-select element which is ChromeOS <select>..</select>.
  */
 
+// ---docerion
+// type: source
+// title: xf-select dropdown element
+// summary: ChromeOS-styled select element offering a filter chip and dropdown menu of options, emitting SELECTION_CHANGED events with the selected index, value, and text.
+// ---
+
 import type {CrActionMenuElement} from 'chrome://resources/ash/common/cr_elements/cr_action_menu/cr_action_menu.js';
 import {AnchorAlignment} from 'chrome://resources/ash/common/cr_elements/cr_action_menu/cr_action_menu.js';
 import type {CrButtonElement} from 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';

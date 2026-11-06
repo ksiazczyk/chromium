@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Icon custom element
+// summary: xf-icon custom element that renders file icons by type or from base64 icon sets in several sizes, including multicolour SVG icons.
+// ---
+
 import {iconSetToCSSBackgroundImageValue} from '../common/js/util.js';
 import {ICON_TYPES} from '../foreground/js/constants.js';
 

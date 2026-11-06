@@ -6,6 +6,12 @@
  * @fileoverview xf-cloud-panel element.
  */
 
+// ---docerion
+// type: source
+// title: XfCloudPanel widget
+// summary: Implements the xf-cloud-panel component showing Drive bulk pinning progress and states like offline, battery saver and metered network.
+// ---
+
 import type {CrActionMenuElement} from 'chrome://resources/ash/common/cr_elements/cr_action_menu/cr_action_menu.js';
 
 import {getCurrentLocaleOrDefault, secondsToRemainingTimeString, str, strf} from '../common/js/translations.js';

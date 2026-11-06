@@ -1,0 +1,4 @@
+# Docerion header of xf_nudge.html.
+type: source
+title: Nudge bubble template
+summary: HTML template with the styles and markup for the nudge dot, bubble and dismiss button used to draw attention to parts of the UI.

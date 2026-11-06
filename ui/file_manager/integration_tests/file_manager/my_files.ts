@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: My files integration tests
+// summary: Integration tests for the My files volume in the Files app, covering directory tree display, tree refresh behavior and recursive child updates.
+// ---
+
 import {addEntries, ENTRIES, EntryType, RootPath, sendTestMessage, TestEntryInfo} from '../test_util.js';
 
 import {remoteCall} from './background.js';

@@ -1,0 +1,4 @@
+# Docerion header of xf_dlp_restriction_details_dialog.html.
+type: source
+title: DLP restriction details dialog template
+summary: HTML template defining the layout and styling of the dialog that shows Data Leak Prevention restriction details for a file.

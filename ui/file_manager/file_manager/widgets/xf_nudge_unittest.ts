@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: xf-nudge element unit tests
+// summary: Unit tests for the xf-nudge component covering show validation, dot and bubble positioning relative to the anchor, and repositioning when the anchor changes.
+// ---
+
 import './xf_nudge.js';
 
 import {getTrustedHTML} from 'chrome://resources/js/static_types.js';

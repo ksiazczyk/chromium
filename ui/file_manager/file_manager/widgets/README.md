@@ -1,3 +1,11 @@
+---
+type: readme
+title: Files app Widgets
+summary: Documents the Files app widget conventions and how to create new LitElement widgets, covering slots, events, styles, lifecycle, accessibility and tests.
+relations:
+  - references /ui/file_manager/file_manager/widgets/xf_base.ts
+---
+
 # Files app Widgets
 
 ## Overview

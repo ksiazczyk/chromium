@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the image loader extension
+summary: Defines the GN build targets that copy sources, compile the TypeScript library, and optimize the image loader WebUI output.

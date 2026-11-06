@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shared test entry sets
+// summary: Defines shared test fixtures for the Files app integration tests, including app IDs and entry sets for local, Drive, Crostini, ZIP and Recent volumes.
+// ---
+
 import {ENTRIES} from '../test_util.js';
 
 /**

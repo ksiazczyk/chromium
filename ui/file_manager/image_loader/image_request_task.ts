@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Image request task for downloading and resizing images
+// summary: Implements the ImageRequestTask class that downloads images, generates thumbnails including video thumbnails, applies orientation and resizing, and sends back the response.
+// ---
+
 import {getFileTypeForName} from 'chrome://file-manager/common/js/file_types_base.js';
 import {assert} from 'chrome://resources/js/assert.js';
 

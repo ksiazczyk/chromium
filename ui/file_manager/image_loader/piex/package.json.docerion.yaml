@@ -1,0 +1,4 @@
+# Docerion header of package.json.
+type: config
+title: piexwasm npm package manifest
+summary: Defines npm scripts for install, build, test, and clean plus dependencies such as napa, puppeteer, commander, and http-server.

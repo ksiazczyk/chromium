@@ -1,0 +1,4 @@
+# Docerion header of manifest_source_device.json.
+type: config
+title: Testing Provider device source manifest
+summary: Manifest variant of the testing provider extension using a device source, which triggers mounting a fake file system on install.

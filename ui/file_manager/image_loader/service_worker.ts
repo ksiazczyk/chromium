@@ -6,6 +6,12 @@
  * @fileoverview Entry point for the Image Loader's service worker.
  */
 
+// ---docerion
+// type: source
+// title: Image Loader service worker entry point
+// summary: Entry point for the Image Loader extension's service worker, setting up the offscreen document and handling imageLoaderPrivate thumbnail requests for the ChromeOS Files app.
+// ---
+
 import {assert} from 'chrome://resources/js/assert.js';
 
 import type {LoadImageRequest, LoadImageResponse} from './load_image_request.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DLP restriction details dialog element
+// summary: Custom element that displays Data Leak Prevention restriction details, listing blocked, warned or reported URLs and components per level.
+// ---
+
 import type {CrDialogElement} from 'chrome://resources/ash/common/cr_elements/cr_dialog/cr_dialog.js';
 
 import {str, strf} from '../common/js/translations.js';

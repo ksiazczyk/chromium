@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test utilities for Files app integration tests
+// summary: Supplies shared helpers such as sendTestMessage, wait, pending and repeatUntil used by Files app integration tests.
+// ---
+
 import {CHOOSE_ENTRY_PROPERTY} from './file_manager/choose_entry_const.js';
 
 const EXTENSION_ID = 'oobinhbdbiehknkpbpejbbpdbkdjmoco';

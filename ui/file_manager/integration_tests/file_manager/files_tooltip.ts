@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Files tooltip tests
+// summary: Integration tests for the Files app tooltips shown when focusing or hovering elements such as buttons and the file list.
+// ---
+
 import type {ElementObject} from '../prod/file_manager/shared_types.js';
 import {ENTRIES, getCaller, pending, repeatUntil, RootPath, wait} from '../test_util.js';
 

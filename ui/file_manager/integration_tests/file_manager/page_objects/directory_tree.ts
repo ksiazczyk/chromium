@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Directory tree page object for Files app integration tests
+// summary: TypeScript page object class abstracting directory tree selectors and element wait helpers for the ChromeOS Files app integration tests.
+// ---
+
 import type {ElementObject} from '../../prod/file_manager/shared_types.js';
 import {getCaller, pending, repeatUntil} from '../../test_util.js';
 import {remoteCall} from '../background.js';

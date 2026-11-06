@@ -1,0 +1,4 @@
+# Docerion header of tests.sh.
+type: test
+title: Piex test suite runner
+summary: Shell script that runs the piex tests, saves extracted preview results, and compares them against the golden file to pass or fail.

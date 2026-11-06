@@ -1,3 +1,9 @@
+# ---docerion
+# type: script
+# title: Makefile for building piex-wasm with emscripten
+# summary: Compiles the piex C++ sources to WebAssembly with CFI sanitizer options, wraps the JS output in an IIFE, and copies release artifacts.
+# ---
+
 # Makefile for piex-wasm
 #
 # An IIFE https://developer.mozilla.org/en-US/docs/Glossary/IIFE is used to

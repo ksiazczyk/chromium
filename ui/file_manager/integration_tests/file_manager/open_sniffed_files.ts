@@ -5,6 +5,12 @@
  * @fileoverview Tests opening files in the browser using content sniffing.
  */
 
+// ---docerion
+// type: test
+// title: Content sniffed file open tests
+// summary: Integration tests for opening files with missing filename extensions, such as PDFs and plain text, in the browser via content sniffing.
+// ---
+
 import {ENTRIES, getBrowserWindows, RootPath, sendTestMessage, type TestEntryInfo} from '../test_util.js';
 
 import {remoteCall} from './background.js';

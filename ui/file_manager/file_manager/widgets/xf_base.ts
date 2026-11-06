@@ -6,6 +6,12 @@
  * @fileoverview A base class for all Files app(xf) widgets.
  */
 
+// ---docerion
+// type: source
+// title: XfBase widget base class
+// summary: Defines XfBase, the shared LitElement base class for all Files app widgets, and re-exports Lit decorators and template helpers.
+// ---
+
 import '../common/js/tslib_shim.js';
 
 import {classMap, css, CSSResult, type CSSResultGroup, customElement, html, ifDefined, LitElement, nothing, property, type PropertyValues, query, repeat, state, styleMap, svg} from 'chrome://resources/mwc/lit/index.js';

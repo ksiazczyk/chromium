@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Office file opening integration tests
+// summary: Integration tests for opening Microsoft Office files from Drive and My files, checking task descriptors and the browser tabs that get opened.
+// ---
+
 import {ENTRIES, getCaller, pending, repeatUntil, RootPath, sendTestMessage} from '../test_util.js';
 
 import {remoteCall} from './background.js';

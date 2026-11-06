@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Priority scheduler for image request tasks
+// summary: Implements a scheduler that runs ImageRequestTask objects from a priority queue with a device-dependent limit on parallel downloads.
+// ---
+
 import type {ImageRequestTask} from './image_request_task.js';
 
 

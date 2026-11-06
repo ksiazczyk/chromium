@@ -4,6 +4,13 @@
 //
 // background.js: test loading the [piexwasm] module in chrome extension.
 //
+
+// ---docerion
+// type: test
+// title: Piexwasm module load test background script
+// summary: Background script for a Chrome extension that loads piex.js.wasm on window load and logs whether the piexwasm module initializes.
+// ---
+
 window.onload = () => {
   console.info('[piexwasm] window.onload');
 

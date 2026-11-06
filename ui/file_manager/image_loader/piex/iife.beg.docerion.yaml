@@ -1,0 +1,4 @@
+# Docerion header of iife.beg.
+type: source
+title: IIFE wrapper opening fragment
+summary: Opening JavaScript fragment prepended to the emscripten output so it is wrapped in an IIFE and does not pollute globalThis.

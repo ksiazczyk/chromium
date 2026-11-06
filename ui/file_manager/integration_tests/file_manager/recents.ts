@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Recents integration tests
+// summary: Integration tests for the Recent view of the Files app, verifying filters, breadcrumbs and recently modified entries across local, Drive and Android volumes.
+// ---
+
 import type {ElementObject} from '../prod/file_manager/shared_types.js';
 import {addEntries, ENTRIES, EntryType, getCaller, getDateWithDayDiff, pending, repeatUntil, RootPath, sanitizeDate, sendTestMessage, TestEntryInfo} from '../test_util.js';
 

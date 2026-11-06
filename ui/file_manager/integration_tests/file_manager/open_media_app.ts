@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MediaApp open test helper
+// summary: Shared test helper that opens a file entry in the Files app and verifies the MediaApp window launches with the expected screen reader announcement.
+// ---
+
 
 import {getCaller, pending, repeatUntil, sendTestMessage, type TestEntryInfo, waitForMediaApp} from '../test_util.js';
 

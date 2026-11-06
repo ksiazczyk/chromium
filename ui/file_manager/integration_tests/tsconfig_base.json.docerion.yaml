@@ -1,0 +1,4 @@
+# Docerion header of tsconfig_base.json.
+type: config
+title: Base TypeScript configuration for integration tests
+summary: Extends the Chromium base tsconfig with compiler options and type roots for building the Files app integration tests.

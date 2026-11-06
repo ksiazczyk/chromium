@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: xf-select unit tests
+// summary: Unit tests for the xf-select element covering element creation, default option selection, selection-changed events, and menu click interaction.
+// ---
+
 import {getTrustedHTML} from 'chrome://resources/js/static_types.js';
 import {assertDeepEquals, assertEquals} from 'chrome://webui-test/chromeos/chai_assert.js';
 import {eventToPromise} from 'chrome://webui-test/test_util.js';

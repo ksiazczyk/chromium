@@ -6,6 +6,12 @@
  * @fileoverview Element which controls pre- and post-jellybean migration UI.
  */
 
+// ---docerion
+// type: source
+// title: Jellybean migration UI element
+// summary: xf-jellybean element that switches between pre- and post-jellybean migration UI variants based on the CrosComponents flag.
+// ---
+
 import {isCrosComponentsEnabled} from '../common/js/flags.js';
 
 import {customElement, html, XfBase} from './xf_base.js';

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: config
+title: Image Loader extension manifest
+summary: Chrome extension manifest for the Image Loader declaring its key, version, permissions, service worker, content security policy, and externally connectable targets.

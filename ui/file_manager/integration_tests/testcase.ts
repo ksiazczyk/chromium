@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test case registry aggregating Files app integration tests
+// summary: Aggregates test functions from all Files app feature modules into a single testcase registry for the integration test extension.
+// ---
+
 import * as androidPhotosTests from './file_manager/android_photos.js';
 // clang-format off
 import * as breadcrumbsTests from './file_manager/breadcrumbs.js';

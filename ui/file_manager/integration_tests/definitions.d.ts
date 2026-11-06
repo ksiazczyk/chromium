@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TypeScript definitions for the Files test extension
+// summary: Declares global test variables and callback-based chrome API types needed by the Files app integration test extension.
+// ---
+
 declare module globalThis {
   /* eslint-disable no-var */
   var chooseEntryResult: string|undefined;

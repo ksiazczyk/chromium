@@ -5,6 +5,12 @@
  * @fileoverview Tests opening hosted files in the browser.
  */
 
+// ---docerion
+// type: test
+// title: Web Drive hosted file open tests
+// summary: Integration tests for opening hosted and encrypted Drive files in the browser, checking default task labels and opened tab URLs.
+// ---
+
 import {ENTRIES, getBrowserWindows, RootPath, sendTestMessage, type TestEntryInfo} from '../test_util.js';
 
 import {remoteCall} from './background.js';

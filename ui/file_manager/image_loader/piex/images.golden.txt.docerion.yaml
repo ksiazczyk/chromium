@@ -1,0 +1,4 @@
+# Docerion header of images.golden.txt.
+type: data
+title: Golden test expectations for RAW image metadata
+summary: Expected hashes and details, preview, and thumbnail metadata for camera RAW test images used to verify piex output.

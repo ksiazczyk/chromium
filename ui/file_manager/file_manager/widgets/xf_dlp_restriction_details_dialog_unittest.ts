@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DLP restriction details dialog unit tests
+// summary: Unit tests for the xf-dlp-restriction-details-dialog element, checking the block, warn and report sections for URLs and components.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_dialog/cr_dialog.js';
 import './xf_dlp_restriction_details_dialog.js';
 

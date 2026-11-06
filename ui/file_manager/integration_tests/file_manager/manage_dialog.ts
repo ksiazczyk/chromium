@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Manage in Drive integration tests
+// summary: Integration tests for the Manage in Drive context menu action, verifying the browser URL opened for files, folders, hosted docs and team drives.
+// ---
+
 import {RootPath} from '../test_util.js';
 
 import {remoteCall} from './background.js';

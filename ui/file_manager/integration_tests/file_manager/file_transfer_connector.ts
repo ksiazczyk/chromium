@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: File transfer Enterprise Connectors tests
+// summary: Integration tests for file transfers between volumes under Enterprise Connectors policies, covering allowed, warned and blocked files.
+// ---
+
 import {addEntries, ENTRIES, EntryType, RootPath, sendTestMessage, TestEntryInfo} from '../test_util.js';
 
 import {remoteCall} from './background.js';

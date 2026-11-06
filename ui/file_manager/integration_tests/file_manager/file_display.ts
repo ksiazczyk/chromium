@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: File display tests
+// summary: Integration tests verifying that files are displayed correctly in Downloads, Drive and other volumes, including launching the app on folders.
+// ---
+
 import {type ElementObject} from '../prod/file_manager/shared_types.js';
 import {addEntries, ENTRIES, RootPath, sendTestMessage, TestEntryInfo} from '../test_util.js';
 

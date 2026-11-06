@@ -1,0 +1,4 @@
+# Docerion header of xf_search_options.html.
+type: source
+title: Search options template
+summary: HTML template for the xf-search-options element, laying out the location, recency, and file type xf-select controls.

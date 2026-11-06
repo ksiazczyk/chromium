@@ -1,0 +1,4 @@
+# Docerion header of offscreen.html.
+type: source
+title: Offscreen document HTML page
+summary: HTML entry point for the Image Loader offscreen document that loads the piex WASM script and the offscreen module script.

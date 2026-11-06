@@ -1,3 +1,12 @@
+---
+type: readme
+title: piex-wasm build and release instructions
+summary: Steps to install emscripten, build piexwasm, run the required tests, and release the artifacts to the Chromium repository.
+relations:
+  - documents /ui/file_manager/image_loader/piex/piex.js.wasm
+  - documents /ui/file_manager/image_loader/piex/piex.out.wasm
+---
+
 Install emscripten https://emscripten.org/docs/getting_started/index.html
 
 ```shell

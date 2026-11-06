@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android Photos banner integration tests
+// summary: Integration tests verifying the Photos welcome banner appears, hides, and is dismissed when navigating the Photos DocumentsProvider volume in the Files app.
+// ---
+
 import {addEntries, ENTRIES, RootPath} from '../test_util.js';
 
 import {remoteCall} from './background.js';

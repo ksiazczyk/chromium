@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: File system provider integration tests
+// summary: Integration tests for mounting file system provider test extensions via the Files app providers menu, including multiple mounts and eject button behavior.
+// ---
+
 import {getHistogramCount, RootPath, sendTestMessage} from '../test_util.js';
 
 import {remoteCall} from './background.js';

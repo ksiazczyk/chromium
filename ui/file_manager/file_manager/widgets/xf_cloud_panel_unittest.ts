@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: XfCloudPanel unit tests
+// summary: Unit tests for the cloud panel verifying that preparing, progressing, finished and error states display correctly.
+// ---
+
 import {getTrustedHTML} from 'chrome://resources/js/static_types.js';
 import {assertEquals, assertNotEquals} from 'chrome://webui-test/chromeos/chai_assert.js';
 

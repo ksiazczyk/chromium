@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Files app toolbar integration tests
+// summary: Integration tests for the Files app toolbar, covering delete commands, delete confirm dialogs and focus handling.
+// ---
+
 import type {ElementObject} from '../prod/file_manager/shared_types.js';
 import {addEntries, ENTRIES, getCaller, pending, repeatUntil, RootPath, sendTestMessage, TestEntryInfo} from '../test_util.js';
 

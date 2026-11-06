@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Client for the Image Loader extension
+// summary: Implements ImageLoaderClient, used in the Files app to send image load requests to the Image Loader extension over IPC with a local LRU cache.
+// ---
+
 import {LruCache} from 'chrome://file-manager/common/js/lru_cache.js';
 
 import {cacheKey, type CacheValue, createCancel, type LoadImageRequest, LoadImageResponse, LoadImageResponseStatus} from './load_image_request.js';

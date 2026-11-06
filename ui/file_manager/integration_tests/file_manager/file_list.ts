@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: File list tests
+// summary: Integration tests for the file list covering column header ARIA attributes, keyboard focus and selection behavior.
+// ---
+
 import type {ElementObject} from '../prod/file_manager/shared_types.js';
 import {ENTRIES, RootPath, sendTestMessage} from '../test_util.js';
 

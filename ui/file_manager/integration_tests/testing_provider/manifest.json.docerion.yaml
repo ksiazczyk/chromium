@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: config
+title: Testing Provider extension manifest
+summary: Chrome extension manifest for the Files Testing Provider test extension, configuring a network-source file system provider with single mount support.

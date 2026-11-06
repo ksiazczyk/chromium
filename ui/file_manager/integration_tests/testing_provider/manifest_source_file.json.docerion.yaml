@@ -1,0 +1,4 @@
+# Docerion header of manifest_source_file.json.
+type: config
+title: Testing Provider file source manifest
+summary: Manifest variant of the testing provider extension using a file source with multiple mounts, which triggers mounting a fake file system on install.
