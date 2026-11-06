@@ -1,0 +1,4 @@
+# Docerion header of download_task_observer_bridge.mm.
+type: source
+title: DownloadTaskObserverBridge implementation
+summary: Forwards C++ download task observer callbacks to the Objective-C CRWDownloadTaskObserver protocol when selectors are implemented.

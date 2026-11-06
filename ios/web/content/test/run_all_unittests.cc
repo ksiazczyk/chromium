@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: iOS web content unit tests runner
+// summary: Runs all iOS web content unit tests, installing a resource bundle and the standard content test suite before launching the tests.
+// ---
+
 #include "base/functional/bind.h"
 #include "base/test/launcher/unit_test_launcher.h"
 #include "content/public/test/content_test_suite_base.h"

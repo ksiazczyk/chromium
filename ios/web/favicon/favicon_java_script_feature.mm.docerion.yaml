@@ -1,0 +1,4 @@
+# Docerion header of favicon_java_script_feature.mm.
+type: source
+title: FaviconJavaScriptFeature implementation
+summary: Implements FaviconJavaScriptFeature, injecting the favicon and event listener scripts and forwarding extracted favicon URLs to the web state.

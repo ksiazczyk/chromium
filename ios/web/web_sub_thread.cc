@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebSubThread implementation
+// summary: Implements the physical thread backing a WebThread, including IO thread delegate handling, run loops, and thread restriction setup.
+// ---
+
 #include "ios/web/web_sub_thread.h"
 
 #include "base/debug/alias.h"

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for iOS web content init
+summary: Defines the init source set listing iOS content client and main parts sources together with their build dependencies.

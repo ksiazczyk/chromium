@@ -6,6 +6,12 @@
  * @fileoverview Tests for text_click.ts.
  */
 
+// ---docerion
+// type: test
+// title: Text click tests
+// summary: Tests tap handling on annotations, covering normal, stopped, prevented, and DOM mutation scenarios.
+// ---
+
 import type {AnnotationsTapConsumer} from '//ios/web/annotations/resources/text_click.js';
 import {TextClick} from '//ios/web/annotations/resources/text_click.js';
 import {expectEq, FakeTaskTimer, load, TestSuite} from '//ios/web/annotations/resources/text_test_utils.js';

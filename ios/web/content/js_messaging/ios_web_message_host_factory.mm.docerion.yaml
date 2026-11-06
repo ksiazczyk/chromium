@@ -1,0 +1,4 @@
+# Docerion header of ios_web_message_host_factory.mm.
+type: source
+title: IOSWebMessageHostFactory implementation
+summary: Implements the message host factory and host that parse JSON messages from JavaScript into ScriptMessage objects and invoke the registered callback.

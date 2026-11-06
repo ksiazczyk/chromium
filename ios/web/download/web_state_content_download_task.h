@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebStateContentDownloadTask class header
+// summary: Declares a DownloadTaskImpl subclass that downloads the content of the current web state page.
+// ---
+
 #ifndef IOS_WEB_DOWNLOAD_WEB_STATE_CONTENT_DOWNLOAD_TASK_H_
 #define IOS_WEB_DOWNLOAD_WEB_STATE_CONTENT_DOWNLOAD_TASK_H_
 

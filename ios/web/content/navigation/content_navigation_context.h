@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentNavigationContext interface
+// summary: Declares ContentNavigationContext, a NavigationContext implementation that wraps a content::NavigationHandle with lifetime tied to it via NavigationHandleUserData.
+// ---
+
 #ifndef IOS_WEB_CONTENT_NAVIGATION_CONTENT_NAVIGATION_CONTEXT_H_
 #define IOS_WEB_CONTENT_NAVIGATION_CONTENT_NAVIGATION_CONTEXT_H_
 

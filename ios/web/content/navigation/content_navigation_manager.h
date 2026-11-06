@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentNavigationManager interface
+// summary: Declares ContentNavigationManager, a NavigationManager implementation built on top of //content's NavigationController for iOS web.
+// ---
+
 #ifndef IOS_WEB_CONTENT_NAVIGATION_CONTENT_NAVIGATION_MANAGER_H_
 #define IOS_WEB_CONTENT_NAVIGATION_CONTENT_NAVIGATION_MANAGER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FaviconJavaScriptFeature class header
+// summary: Declares FaviconJavaScriptFeature, the JavaScript feature that injects favicon scripts and receives favicon messages from web pages.
+// ---
+
 #ifndef IOS_WEB_FAVICON_FAVICON_JAVA_SCRIPT_FEATURE_H_
 #define IOS_WEB_FAVICON_FAVICON_JAVA_SCRIPT_FEATURE_H_
 

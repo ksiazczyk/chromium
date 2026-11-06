@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebMainLoop header declaring main loop stages
+// summary: Declares the WebMainLoop class that implements the main web loop stages called from WebMainRunner.
+// ---
+
 #ifndef IOS_WEB_INIT_WEB_MAIN_LOOP_H_
 #define IOS_WEB_INIT_WEB_MAIN_LOOP_H_
 

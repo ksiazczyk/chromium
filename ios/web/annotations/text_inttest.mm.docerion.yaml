@@ -1,0 +1,4 @@
+# Docerion header of text_inttest.mm.
+type: test
+title: JavaScript annotation test fixture
+summary: Runs the text_tests JavaScript suite in a web view and reports pass or fail results for the annotation JS tests.

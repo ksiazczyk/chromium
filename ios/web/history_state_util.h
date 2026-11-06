@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History state utility header
+// summary: Declares helpers for validating and resolving history.pushState and history.replaceState URLs.
+// ---
+
 #ifndef IOS_WEB_HISTORY_STATE_UTIL_H_
 #define IOS_WEB_HISTORY_STATE_UTIL_H_
 

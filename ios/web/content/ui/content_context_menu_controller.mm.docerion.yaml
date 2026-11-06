@@ -1,0 +1,4 @@
+# Docerion header of content_context_menu_controller.mm.
+type: source
+title: Content context menu controller implementation
+summary: Implements iOS context menu display by triggering a hidden button's primary action and converting content context menu parameters and referrer policies to web equivalents.

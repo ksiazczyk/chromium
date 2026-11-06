@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionControllerImpl class header
+// summary: Declares ExtensionControllerImpl, which manages a WKWebExtensionController for loading and unloading built-in extensions.
+// ---
+
 #ifndef IOS_WEB_EXTENSION_EXTENSION_CONTROLLER_IMPL_H_
 #define IOS_WEB_EXTENSION_EXTENSION_CONTROLLER_IMPL_H_
 

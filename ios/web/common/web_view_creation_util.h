@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WKWebView creation utility declarations
+// summary: Declares helpers to build a regular WKWebView for content and a non-presentable WKWebView for queries using a BrowserState.
+// ---
+
 #ifndef IOS_WEB_COMMON_WEB_VIEW_CREATION_UTIL_H_
 #define IOS_WEB_COMMON_WEB_VIEW_CREATION_UTIL_H_
 

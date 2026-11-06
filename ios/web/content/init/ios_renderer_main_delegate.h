@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IOSRendererMainDelegate class declaration
+// summary: Declares the web::IOSRendererMainDelegate class, a ContentMainDelegate for iOS child processes that creates content and renderer clients and handles pre-sandbox startup.
+// ---
+
 #ifndef IOS_WEB_CONTENT_INIT_IOS_RENDERER_MAIN_DELEGATE_H_
 #define IOS_WEB_CONTENT_INIT_IOS_RENDERER_MAIN_DELEGATE_H_
 

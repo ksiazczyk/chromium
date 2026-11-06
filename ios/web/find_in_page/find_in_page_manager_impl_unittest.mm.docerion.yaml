@@ -1,0 +1,4 @@
+# Docerion header of find_in_page_manager_impl_unittest.mm.
+type: test
+title: FindInPageManagerImpl unit tests
+summary: iOS 16+ tests exercising FindInPageManagerImpl with fake find interaction and session objects, checking delegate state for search, navigation and dismissal.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CRWViewportAdjustmentContainer protocol header
+// summary: Declares the protocol for the container view that exposes the fullscreen CRWViewportAdjustment view.
+// ---
+
 #ifndef IOS_WEB_COMMON_CRW_VIEWPORT_ADJUSTMENT_CONTAINER_H_
 #define IOS_WEB_COMMON_CRW_VIEWPORT_ADJUSTMENT_CONTAINER_H_
 

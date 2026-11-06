@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NetworkContextOwner unit tests
+// summary: Unit tests verifying that NetworkContextOwner binds a NetworkContext pipe and destroys it on deletion or explicit URLRequestContextGetter shutdown.
+// ---
+
 #include "ios/web/public/init/network_context_owner.h"
 
 #include <string>

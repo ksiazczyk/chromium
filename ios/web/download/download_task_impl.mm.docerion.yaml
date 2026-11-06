@@ -1,0 +1,4 @@
+# Docerion header of download_task_impl.mm.
+type: source
+title: DownloadTaskImpl implementation
+summary: Implements DownloadTaskImpl behaviour including destination file creation, progress and redirect updates, and observer notifications.

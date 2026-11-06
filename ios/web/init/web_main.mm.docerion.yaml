@@ -1,0 +1,4 @@
+# Docerion header of web_main.mm.
+type: source
+title: WebMain entry point and parameters
+summary: Implements WebMainParams and WebMain, which create and run the web main runner for the iOS web layer.

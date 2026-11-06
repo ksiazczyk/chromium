@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CRWViewportController protocol header
+// summary: Declares a protocol for views with obscured content insets and minimum and maximum viewport insets.
+// ---
+
 #ifndef IOS_WEB_COMMON_CRW_VIEWPORT_CONTROLLER_H_
 #define IOS_WEB_COMMON_CRW_VIEWPORT_CONTROLLER_H_
 

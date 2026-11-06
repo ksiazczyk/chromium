@@ -6,6 +6,12 @@
  * @fileoverview Tests for text_decorator.ts.
  */
 
+// ---docerion
+// type: test
+// title: Text decorator tests
+// summary: Tests decorating text chunks within and across elements, including collision and decoration removal cases.
+// ---
+
 import type {TextViewportAnnotation} from '//ios/web/annotations/resources/text_annotation_list.js';
 import {TextAnnotationList} from '//ios/web/annotations/resources/text_annotation_list.js';
 import {TextDecorator} from '//ios/web/annotations/resources/text_decorator.js';

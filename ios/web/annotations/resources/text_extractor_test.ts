@@ -6,6 +6,12 @@
  * @fileoverview Tests for text_extractor.ts.
  */
 
+// ---docerion
+// type: test
+// title: Tests for the text extractor
+// summary: Test suite verifying the text, section indices and visible ranges that TextExtractor produces for a sample DOM.
+// ---
+
 import type {TextChunk, TextChunkConsumer} from '//ios/web/annotations/resources/text_extractor.js';
 import {TextExtractor} from '//ios/web/annotations/resources/text_extractor.js';
 import {expectEq, expectNeq, load, TestSuite} from '//ios/web/annotations/resources/text_test_utils.js';

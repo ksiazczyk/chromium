@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the iOS content browser client
+// summary: Implements the iOS content browser client covering URL handling, user agent, code cache settings, and network context configuration.
+// ---
+
 #include "ios/web/content/init/ios_content_browser_client.h"
 
 #import "components/embedder_support/user_agent_utils.h"

@@ -1,0 +1,4 @@
+# Docerion header of url_scheme_util.mm.
+type: source
+title: URL scheme utility implementation
+summary: Implements UrlHasWebScheme for GURL and NSURL, treating http, https and data as web content schemes.

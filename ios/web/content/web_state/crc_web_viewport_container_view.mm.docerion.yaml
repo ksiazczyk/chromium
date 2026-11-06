@@ -1,0 +1,4 @@
+# Docerion header of crc_web_viewport_container_view.mm.
+type: source
+title: CRCWebViewportContainerView implementation
+summary: Implements the viewport container view, handling minimum and maximum viewport insets and fullscreen viewport adjustment.

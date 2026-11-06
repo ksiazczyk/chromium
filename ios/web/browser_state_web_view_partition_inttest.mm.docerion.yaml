@@ -1,0 +1,4 @@
+# Docerion header of browser_state_web_view_partition_inttest.mm.
+type: test
+title: Browser state web view partition integration test
+summary: Integration tests verifying that cookies and local storage are partitioned between OTR and non-OTR BrowserState web views.

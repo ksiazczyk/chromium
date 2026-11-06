@@ -1,0 +1,4 @@
+# Docerion header of annotations_text_manager.mm.
+type: source
+title: Annotations text manager creation and content world
+summary: Attaches an AnnotationsTextManagerImpl to each WebState and exposes the feature's supported content world.

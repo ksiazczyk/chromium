@@ -1,0 +1,4 @@
+# Docerion header of java_script_find_in_page_request.mm.
+type: source
+title: JavaScriptFindInPageRequest implementation
+summary: Implements match navigation across frames, match counting and request reset logic for the JavaScript find in page flow.

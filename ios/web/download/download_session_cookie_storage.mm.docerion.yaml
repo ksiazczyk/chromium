@@ -1,0 +1,4 @@
+# Docerion header of download_session_cookie_storage.mm.
+type: source
+title: DownloadSessionCookieStorage implementation
+summary: Implements the in-memory cookie storage, including filtering cookies for request URLs using net cookie access semantics.

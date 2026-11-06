@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CRCWebViewProxyImpl header
+// summary: Declares CRCWebViewProxyImpl, the CRWWebViewProxy implementation wrapping a content scroll view for Blink-based web states.
+// ---
+
 #ifndef IOS_WEB_CONTENT_WEB_STATE_CRC_WEB_VIEW_PROXY_IMPL_H_
 #define IOS_WEB_CONTENT_WEB_STATE_CRC_WEB_VIEW_PROXY_IMPL_H_
 

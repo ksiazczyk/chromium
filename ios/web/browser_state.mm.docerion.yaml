@@ -1,0 +1,4 @@
+# Docerion header of browser_state.mm.
+type: source
+title: BrowserState implementation
+summary: Implements the BrowserState session object, including certificate policy cache access, URL loader factory and network context ownership.

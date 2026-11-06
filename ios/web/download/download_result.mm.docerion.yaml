@@ -1,0 +1,4 @@
+# Docerion header of download_result.mm.
+type: source
+title: DownloadResult class implementation
+summary: Implements DownloadResult, reporting success based on net::OK and exposing the error code and retry flag.

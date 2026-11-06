@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Favicon URL extraction utility header
+// summary: Declares ExtractFaviconURL, which converts favicon messages into FaviconURL entries, using the page URL for defaults and validation.
+// ---
+
 #ifndef IOS_WEB_FAVICON_FAVICON_UTIL_H_
 #define IOS_WEB_FAVICON_FAVICON_UTIL_H_
 

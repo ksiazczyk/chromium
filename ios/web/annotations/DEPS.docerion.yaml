@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for annotations
+summary: Allows the annotations directory to include headers from components/shared_highlighting/ios.

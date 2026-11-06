@@ -1,0 +1,4 @@
+# Docerion header of download_native_task_impl_unittest.mm.
+type: test
+title: DownloadNativeTaskImpl unit tests
+summary: Unit tests for DownloadNativeTaskImpl covering default state, successful download, and cancellation using a fake native task bridge.

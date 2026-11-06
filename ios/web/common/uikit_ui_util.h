@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UIKit UI utility header
+// summary: Declares helpers to get any key window of the application and the current interface orientation.
+// ---
+
 #ifndef IOS_WEB_COMMON_UIKIT_UI_UTIL_H_
 #define IOS_WEB_COMMON_UIKIT_UI_UTIL_H_
 

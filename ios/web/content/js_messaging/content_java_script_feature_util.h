@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content JavaScript feature utility header
+// summary: Declares GetBuiltInJavaScriptFeaturesForContent, which returns the JavaScript features built into ios/web for use with the content-based implementation.
+// ---
+
 #ifndef IOS_WEB_CONTENT_JS_MESSAGING_CONTENT_JAVA_SCRIPT_FEATURE_UTIL_H_
 #define IOS_WEB_CONTENT_JS_MESSAGING_CONTENT_JAVA_SCRIPT_FEATURE_UTIL_H_
 

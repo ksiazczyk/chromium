@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Find in Page Native API Module
+// summary: Implements the __gCrWeb.findInPage module that searches the DOM for a string, highlights matches in yellow, and navigates through selections in orange.
+// ---
+
 // clang-format off
 import {
   CSS_CLASS_NAME,

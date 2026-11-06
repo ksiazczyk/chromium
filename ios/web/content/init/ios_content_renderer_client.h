@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IOSContentRendererClient class declaration
+// summary: Declares the web::IOSContentRendererClient class, a ContentRendererClient subclass for iOS handling render frame creation, script injection hooks, and error page preparation.
+// ---
+
 #ifndef IOS_WEB_CONTENT_INIT_IOS_CONTENT_RENDERER_CLIENT_H_
 #define IOS_WEB_CONTENT_INIT_IOS_CONTENT_RENDERER_CLIENT_H_
 

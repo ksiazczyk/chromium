@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for ios/web/common
+summary: Defines GN source sets and dependencies for the shared ios/web/common code, including features, user agent, web view creation utilities, and unit tests.

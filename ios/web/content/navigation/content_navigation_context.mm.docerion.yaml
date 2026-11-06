@@ -1,0 +1,4 @@
+# Docerion header of content_navigation_context.mm.
+type: source
+title: ContentNavigationContext implementation
+summary: Implements ContentNavigationContext, including a mapping from Chromium net error codes to iOS NSError codes for navigation failures.

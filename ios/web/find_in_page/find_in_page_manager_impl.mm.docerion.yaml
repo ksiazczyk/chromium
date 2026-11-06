@@ -1,0 +1,4 @@
+# Docerion header of find_in_page_manager_impl.mm.
+type: source
+title: FindInPageManagerImpl implementation
+summary: Implements find, next, previous and stop logic on top of the iOS 16 find interaction, including asynchronous navigator presentation and periodic find session polling.

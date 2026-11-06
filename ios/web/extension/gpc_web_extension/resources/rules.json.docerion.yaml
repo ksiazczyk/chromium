@@ -1,0 +1,4 @@
+# Docerion header of rules.json.
+type: config
+title: Sec-GPC declarative net request rules
+summary: Declarative net request rule that sets the Sec-GPC request header to 1 for all resource types on every URL.

@@ -1,0 +1,4 @@
+# Docerion header of ios_main_delegate.mm.
+type: source
+title: IOSMainDelegate implementation
+summary: Implements IOSMainDelegate, creating the iOS content, browser, and renderer clients, initializing the feature list and Mojo, and running the browser process main runner.

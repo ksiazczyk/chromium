@@ -1,0 +1,4 @@
+# Docerion header of annotations_utils.mm.
+type: source
+title: Text annotation utilities implementation
+summary: Implements helpers that convert NSTextCheckingResult matches into annotation dictionaries with text, start, end, and type keys.

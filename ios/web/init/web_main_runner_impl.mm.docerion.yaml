@@ -1,0 +1,4 @@
+# Docerion header of web_main_runner_impl.mm.
+type: source
+title: WebMainRunnerImpl implementation of runner lifecycle
+summary: Implements WebMainRunnerImpl by setting up global state, ICU, Mojo, and the web main loop, and by running startup tasks and shutdown.

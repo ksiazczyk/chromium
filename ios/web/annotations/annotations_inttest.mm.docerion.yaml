@@ -1,0 +1,4 @@
+# Docerion header of annotations_inttest.mm.
+type: test
+title: Annotations feature integration tests
+summary: Integration tests that exercise text extraction, decoration, and click handling of the annotations feature via a test JavaScript feature and observer.

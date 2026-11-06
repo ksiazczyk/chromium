@@ -6,6 +6,12 @@
  * @fileoverview Handle tap on 'CHROME_ANNOTATION' elements.
  */
 
+// ---docerion
+// type: source
+// title: Text click handling
+// summary: Handles taps on CHROME_ANNOTATION elements and monitors DOM mutations to decide whether to notify the tap consumer.
+// ---
+
 import type {TextDecoration} from '//ios/web/annotations/resources/text_decoration.js';
 import type {TaskTimer} from '//ios/web/annotations/resources/text_tasks.js';
 import {LiveTaskTimer} from '//ios/web/annotations/resources/text_tasks.js';

@@ -1,0 +1,4 @@
+# Docerion header of find_in_page_manager_delegate_bridge_unittest.mm.
+type: test
+title: Find in page manager delegate bridge unit tests
+summary: Unit tests verifying that the delegate bridge forwards match highlighting, match selection and navigator dismissal events to a fake Objective-C delegate.

@@ -1,0 +1,4 @@
+# Docerion header of download_inttest.mm.
+type: test
+title: Download controller integration tests
+summary: Integration tests for the end-to-end download flow, verifying task creation and completion via an embedded test server.

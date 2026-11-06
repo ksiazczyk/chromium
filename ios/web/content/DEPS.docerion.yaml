@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for ios/web/content
+summary: Specifies allowed include directories for the folder plus per-file exceptions for web state and unit test sources.

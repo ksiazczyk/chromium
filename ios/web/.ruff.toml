@@ -1,2 +1,8 @@
+# ---docerion
+# type: config
+# title: Ruff lint configuration for ios/web
+# summary: Extends the repository-wide Ruff configuration and sets a two-space indent width for this directory.
+# ---
+
 extend = "../.ruff.toml"
 indent-width = 2

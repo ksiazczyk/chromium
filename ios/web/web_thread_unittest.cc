@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for posting tasks to web threads
+// summary: Verifies posting tasks to the UI and IO web thread task runners through base task runner APIs using WebTaskEnvironment and PlatformTest fixtures.
+// ---
+
 #include "ios/web/public/thread/web_thread.h"
 
 #include "base/functional/bind.h"

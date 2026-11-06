@@ -6,6 +6,12 @@
  * @fileoverview Test helpers for the annotations manager.
  */
 
+// ---docerion
+// type: test
+// title: Annotations test helpers
+// summary: Registers a JavaScript API with helpers for tests to count, click, and extract tagged text from page annotations.
+// ---
+
 import {NON_TEXT_NODE_NAMES} from '//ios/web/annotations/resources/annotations_constants.js';
 import {CrWebApi, gCrWeb} from '//ios/web/public/js_messaging/resources/gcrweb.js';
 

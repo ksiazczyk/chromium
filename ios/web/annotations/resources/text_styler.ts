@@ -6,6 +6,12 @@
  * @fileoverview Handle styling a 'CHROME_ANNOTATION' element.
  */
 
+// ---docerion
+// type: source
+// title: Annotation element styler
+// summary: Applies CSS styles to CHROME_ANNOTATION decoration elements, using solid underlines for phone numbers and emails and inheriting the parent text color.
+// ---
+
 const DECORATION_STYLES = 'border-bottom-width: 1px; ' +
     'border-bottom-style: dotted; ' +
     'background-color: transparent; ' +

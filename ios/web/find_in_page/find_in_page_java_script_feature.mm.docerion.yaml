@@ -1,0 +1,4 @@
+# Docerion header of find_in_page_java_script_feature.mm.
+type: source
+title: FindInPageJavaScriptFeature implementation
+summary: Implements search, pump, match selection and stop behavior by calling injected JavaScript functions with timeouts and callbacks.

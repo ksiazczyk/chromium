@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IOSRendererMainDelegate implementation and child process entry point
+// summary: Implements the iOS renderer main delegate and the ChildProcessMain entry point, initializing the command line, resource bundles, and iOS content and renderer clients.
+// ---
+
 #include "ios/web/content/init/ios_renderer_main_delegate.h"
 
 #include "base/at_exit.h"

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the iOS web layer
+summary: Defines the build targets, source sets, resources and test bundles that make up the ios/web layer.

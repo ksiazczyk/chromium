@@ -1,0 +1,4 @@
+# Docerion header of download_controller_impl_unittest.mm.
+type: test
+title: DownloadControllerImpl unit tests
+summary: Unit tests for DownloadControllerImpl covering delegate access, task creation, and behavior without a delegate.

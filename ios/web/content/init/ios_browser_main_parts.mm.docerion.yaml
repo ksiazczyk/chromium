@@ -1,0 +1,4 @@
+# Docerion header of ios_browser_main_parts.mm.
+type: source
+title: Implementation of the iOS browser main parts adapter
+summary: Implements IOSBrowserMainParts by delegating browser startup and shutdown stages to the web client's WebMainParts.

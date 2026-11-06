@@ -7,6 +7,12 @@
  * at the ends, and pass it on to the a consumer.
  */
 
+// ---docerion
+// type: source
+// title: Visible text extractor for annotations
+// summary: Assembles visible page text into chunks with section mappings and prefix and suffix context, passing them to a consumer for intent detection.
+// ---
+
 import type {TextWithSymbolIndex} from '//ios/web/annotations/resources/text_dom_utils.js';
 import {nextLeaf, previousLeaf} from '//ios/web/annotations/resources/text_dom_utils.js';
 import type {TextNodeVisitor} from '//ios/web/annotations/resources/text_intersection_observer.js';

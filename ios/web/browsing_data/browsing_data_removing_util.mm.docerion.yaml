@@ -1,0 +1,4 @@
+# Docerion header of browsing_data_removing_util.mm.
+type: source
+title: Clear browsing data utility implementation
+summary: Implements ClearBrowsingData by mapping a ClearBrowsingDataMask to WKWebsiteDataStore data types and removing them, including workarounds for WebKit limitations.

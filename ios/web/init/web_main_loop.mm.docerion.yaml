@@ -1,0 +1,4 @@
+# Docerion header of web_main_loop.mm.
+type: source
+title: WebMainLoop implementation of startup and shutdown
+summary: Implements WebMainLoop startup stages such as thread creation and message loop setup along with thread shutdown and cleanup.

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for ios/web/common
+summary: Sets include rules so common interfaces cannot depend on private web code, while implementation files are allowed to.

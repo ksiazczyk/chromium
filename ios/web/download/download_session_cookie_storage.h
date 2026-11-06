@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadSessionCookieStorage interface
+// summary: Declares an in-memory NSHTTPCookieStorage subclass used by the download session to avoid blocking the UI thread with large cookie sets.
+// ---
+
 #ifndef IOS_WEB_DOWNLOAD_DOWNLOAD_SESSION_COOKIE_STORAGE_H_
 #define IOS_WEB_DOWNLOAD_DOWNLOAD_SESSION_COOKIE_STORAGE_H_
 

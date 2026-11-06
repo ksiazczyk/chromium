@@ -1,0 +1,4 @@
+# Docerion header of built_in_web_extension.mm.
+type: source
+title: BuiltInWebExtension implementation
+summary: Implements asynchronous WKWebExtension loading with queued completion callbacks, caching, and failure handling.

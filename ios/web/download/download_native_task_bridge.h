@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadNativeTaskBridge interface
+// summary: Declares the DownloadNativeTaskBridge class and delegate protocol that drive downloads through WKDownload with progress, response, and completion callbacks.
+// ---
+
 #ifndef IOS_WEB_DOWNLOAD_DOWNLOAD_NATIVE_TASK_BRIDGE_H_
 #define IOS_WEB_DOWNLOAD_DOWNLOAD_NATIVE_TASK_BRIDGE_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of download_native_task_impl.mm.
+type: source
+title: DownloadNativeTaskImpl implementation
+summary: Implements DownloadNativeTaskImpl, wiring bridge callbacks for progress, response, completion, and cancellation into the download task.

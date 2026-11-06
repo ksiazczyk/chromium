@@ -6,6 +6,12 @@
  * @fileoverview DOM related utilities.
  */
 
+// ---docerion
+// type: source
+// title: DOM utilities for text annotations
+// summary: Utility classes and functions for DOM handling, including node validity checks, meta tag parsing, detection opt-outs and rectangle helpers for text annotations.
+// ---
+
 // Semantically extends `HTMLElement` to allow using `Symbol` as property index.
 // Disable ESLint rule to follow native HTML elements naming convention.
 // eslint-disable-next-line @typescript-eslint/naming-convention

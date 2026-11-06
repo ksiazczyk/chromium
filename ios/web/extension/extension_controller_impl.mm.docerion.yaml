@@ -1,0 +1,4 @@
+# Docerion header of extension_controller_impl.mm.
+type: source
+title: ExtensionControllerImpl implementation
+summary: Implements loading and unloading built-in extensions, granting permissions and match patterns to WKWebExtensionContexts.

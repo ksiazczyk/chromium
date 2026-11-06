@@ -1,0 +1,4 @@
+# Docerion header of find_in_page_js_unittest.mm.
+type: test
+title: Find in page JavaScript unit tests
+summary: Tests the find in page JavaScript handlers in live web frames, checking match counts and behavior for visible and hidden text.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadNativeTaskImpl interface
+// summary: Declares DownloadNativeTaskImpl, a DownloadTaskImpl subclass that performs downloads using WKDownload through the native task bridge.
+// ---
+
 #ifndef IOS_WEB_DOWNLOAD_DOWNLOAD_NATIVE_TASK_IMPL_H_
 #define IOS_WEB_DOWNLOAD_DOWNLOAD_NATIVE_TASK_IMPL_H_
 

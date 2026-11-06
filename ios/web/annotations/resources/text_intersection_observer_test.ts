@@ -6,6 +6,12 @@
  * @fileoverview Tests for text_intersection_observer.ts.
  */
 
+// ---docerion
+// type: test
+// title: Tests for the text intersection observer
+// summary: Test suite using a fake intersection observer to verify node visibility tagging and text visiting in TextIntersectionObserver.
+// ---
+
 import type {HTMLElementWithSymbolIndex, NodeWithSymbolIndex} from '//ios/web/annotations/resources/text_dom_utils.js';
 import type {InternalIntersectionObserver, TextNodeVisitor} from '//ios/web/annotations/resources/text_intersection_observer.js';
 import {observedNode, observedTextNodeCount, TextIntersectionObserver, visibleDescendantCount, visibleElement} from '//ios/web/annotations/resources/text_intersection_observer.js';

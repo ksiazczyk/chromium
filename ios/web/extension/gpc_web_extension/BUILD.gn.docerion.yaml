@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the GPC web extension
+summary: Defines GN targets that compile the GPC JavaScript, bundle the extension manifest and rules, and build the native sources and unit tests.

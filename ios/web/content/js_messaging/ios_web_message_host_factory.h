@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IOSWebMessageHostFactory header
+// summary: Declares an iOS-specific WebMessageHostFactory that creates hosts forwarding JavaScript messages to a provided callback.
+// ---
+
 #ifndef IOS_WEB_CONTENT_JS_MESSAGING_IOS_WEB_MESSAGE_HOST_FACTORY_H_
 #define IOS_WEB_CONTENT_JS_MESSAGING_IOS_WEB_MESSAGE_HOST_FACTORY_H_
 

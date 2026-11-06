@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebKit messageHandlers proxy injection script
+// summary: Injects a proxy that captures window.webkit.messageHandlers calls and forwards them to window.webkitMessageHandler as JSON payloads with handler names.
+// ---
+
 type WindowWithExtras = Window&(typeof globalThis)&{
   __proto__: any,
   webkitMessageHandler: any,

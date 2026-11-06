@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User agent type and builder declarations
+// summary: Declares the UserAgentType enum and functions to build desktop and mobile user agent strings and convert types to descriptions.
+// ---
+
 #ifndef IOS_WEB_COMMON_USER_AGENT_H_
 #define IOS_WEB_COMMON_USER_AGENT_H_
 

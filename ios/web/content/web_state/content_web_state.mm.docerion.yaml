@@ -1,0 +1,4 @@
+# Docerion header of content_web_state.mm.
+type: source
+title: ContentWebState implementation
+summary: Implements ContentWebState behavior such as visibility changes, user agent overrides, favicon handling, and serialized session state restoration.

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: config
+title: Sec-GPC web extension manifest
+summary: Manifest for the Sec-GPC extension declaring permissions, declarative net request rules, and a content script that runs on all URLs at document start.

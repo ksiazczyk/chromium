@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebViewResizingType enum
+// summary: Defines web view resizing strategies, choosing between content inset adjustment and frame resizing.
+// ---
+
 #ifndef IOS_WEB_COMMON_CRW_WEB_VIEW_RESIZING_TYPE_H_
 #define IOS_WEB_COMMON_CRW_WEB_VIEW_RESIZING_TYPE_H_
 

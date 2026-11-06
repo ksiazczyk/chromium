@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content context menu controller header
+// summary: Declares the ContentContextMenuController class, a ref-counted helper that shows context menus for web content on iOS via a hidden button holder.
+// ---
+
 #ifndef IOS_WEB_CONTENT_UI_CONTENT_CONTEXT_MENU_CONTROLLER_H_
 #define IOS_WEB_CONTENT_UI_CONTENT_CONTEXT_MENU_CONTROLLER_H_
 

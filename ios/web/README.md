@@ -1,3 +1,12 @@
+---
+type: readme
+title: iOS Web Layer
+summary: Explains ios/web as the iOS renderer equivalent wrapping WKWebView, covering its role, minimum iOS version, layering rules and usage.
+relations:
+  - references /ios/components/README.md
+  - references /components/README.md
+---
+
 # iOS Web Layer
 
 ## Overview

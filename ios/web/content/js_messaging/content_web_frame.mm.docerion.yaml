@@ -1,0 +1,4 @@
+# Docerion header of content_web_frame.mm.
+type: source
+title: ContentWebFrame implementation
+summary: Implements JavaScript execution and __gCrWeb function calls on a RenderFrameHost, adapting web callbacks and serializing parameters, gated by the injected scripts feature.

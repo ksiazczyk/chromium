@@ -1,0 +1,4 @@
+# Docerion header of web_state_content_download_task.mm.
+type: source
+title: WebStateContentDownloadTask implementation
+summary: Implements downloading the current web state content, bridging delegate callbacks to C++ and cancelling the underlying download.

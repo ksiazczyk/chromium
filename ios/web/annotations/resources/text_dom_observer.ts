@@ -6,6 +6,12 @@
  * @fileoverview DOM observer for annotation changes.
  */
 
+// ---docerion
+// type: source
+// title: Text DOM observer for annotation changes
+// summary: Mutation observer that tracks added, removed and mutated text nodes and registers or unregisters them with the intersection observer used for text annotations.
+// ---
+
 import {isDecorationNode} from '//ios/web/annotations/resources/text_decoration.js';
 import {isValidNode} from '//ios/web/annotations/resources/text_dom_utils.js';
 

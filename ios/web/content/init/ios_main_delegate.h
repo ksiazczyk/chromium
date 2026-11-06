@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IOSMainDelegate class declaration
+// summary: Declares the web::IOSMainDelegate class, a ContentMainDelegate that creates the iOS content, browser, and renderer clients and manages the browser main runner.
+// ---
+
 #ifndef IOS_WEB_CONTENT_INIT_IOS_MAIN_DELEGATE_H_
 #define IOS_WEB_CONTENT_INIT_IOS_MAIN_DELEGATE_H_
 

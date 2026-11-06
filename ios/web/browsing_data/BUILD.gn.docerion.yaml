@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for browsing_data
+summary: Defines the browsing_data source set and its testonly unittests source set, listing sources, dependencies and frameworks for the GN build.

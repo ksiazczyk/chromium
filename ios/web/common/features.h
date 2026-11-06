@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS web feature flag declarations
+// summary: Declares feature flags and helper functions controlling iOS web behaviors such as smooth scrolling, web inspector, and navigation workarounds.
+// ---
+
 #ifndef IOS_WEB_COMMON_FEATURES_H_
 #define IOS_WEB_COMMON_FEATURES_H_
 

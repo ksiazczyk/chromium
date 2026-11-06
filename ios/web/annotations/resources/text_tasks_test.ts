@@ -6,6 +6,12 @@
  * @fileoverview Tests for text_tasks.ts.
  */
 
+// ---docerion
+// type: test
+// title: Tests for the idle task tracker
+// summary: Unit tests verifying IdleTaskTracker task timing with and without user activity, using a fake timer.
+// ---
+
 import {IdleTaskTracker} from '//ios/web/annotations/resources/text_tasks.js';
 import {expectEq, fail, FakeTaskTimer, TestSuite} from '//ios/web/annotations/resources/text_test_utils.js';
 

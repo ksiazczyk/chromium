@@ -7,6 +7,12 @@
  * and pass it on to the annotations manager.
  */
 
+// ---docerion
+// type: source
+// title: Text annotations main entry point
+// summary: Entry point wiring text extraction, decoration, styling and tap handling, and messaging extracted text and annotation results to the browser side.
+// ---
+
 import type {TextViewportAnnotation} from '//ios/web/annotations/resources/text_annotation_list.js';
 import {TextAnnotationList} from '//ios/web/annotations/resources/text_annotation_list.js';
 import {TextClick} from '//ios/web/annotations/resources/text_click.js';

@@ -1,0 +1,4 @@
+# Docerion header of browser_state_unittest.mm.
+type: test
+title: BrowserState unit tests
+summary: Verifies that BrowserState::FromSupportsUserData handles null pointers, non-BrowserState objects and real instances.

@@ -6,6 +6,12 @@
  * @fileoverview Tests for text_annotation_list.ts.
  */
 
+// ---docerion
+// type: test
+// title: Text annotation list tests
+// summary: Tests sorting, overlap removal, clipping, and the next, skip, and fail cursor movements of TextAnnotationList.
+// ---
+
 import type {TextViewportAnnotation} from '//ios/web/annotations/resources/text_annotation_list.js';
 import {TextAnnotationList} from '//ios/web/annotations/resources/text_annotation_list.js';
 import {expectEq, TestSuite} from '//ios/web/annotations/resources/text_test_utils.js';

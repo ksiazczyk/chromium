@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header declaring the iOS content main runner
+// summary: Declares IOSContentMainRunner, the WebMainRunner implementation responsible for content initialization and shutdown.
+// ---
+
 #ifndef IOS_WEB_CONTENT_INIT_IOS_CONTENT_MAIN_RUNNER_H_
 #define IOS_WEB_CONTENT_INIT_IOS_CONTENT_MAIN_RUNNER_H_
 

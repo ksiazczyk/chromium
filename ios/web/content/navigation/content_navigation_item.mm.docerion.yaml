@@ -1,0 +1,4 @@
+# Docerion header of content_navigation_item.mm.
+type: source
+title: ContentNavigationItem implementation
+summary: Implements ContentNavigationItem, converting content referrer policies and exposing NavigationEntry data through the NavigationItem interface.

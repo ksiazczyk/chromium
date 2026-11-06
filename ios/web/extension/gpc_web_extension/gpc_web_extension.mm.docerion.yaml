@@ -1,0 +1,4 @@
+# Docerion header of gpc_web_extension.mm.
+type: source
+title: GPCWebExtension implementation
+summary: Implements the GPCWebExtension singleton and returns the bundle URL of the packaged gpc_web_extension web extension resources.
