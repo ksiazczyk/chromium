@@ -1,0 +1,4 @@
+# Docerion header of autofill_ai_sources_util.mm.
+type: source
+title: Autofill AI sources utility implementation
+summary: Implements extraction and grouping of Gmail and Photos sources from an Autofill AI entity, including icons and fallback titles.

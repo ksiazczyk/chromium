@@ -1,0 +1,4 @@
+# Docerion header of form_input_accessory_egtest.mm.
+type: test
+title: Form input accessory Earl Grey tests
+summary: Earl Grey UI tests for the iOS form input accessory, covering autofill, password, card, and passport suggestion flows.

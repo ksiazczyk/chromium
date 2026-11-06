@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AtMemory test matcher utility header
+// summary: Declares AtMemoryTestUtil, a helper providing EarlGrey matchers for AtMemory UI elements such as buttons, bottom sheet cells, and notices.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_ATMEMORY_TEST_AT_MEMORY_TEST_UTIL_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_ATMEMORY_TEST_AT_MEMORY_TEST_UTIL_H_
 

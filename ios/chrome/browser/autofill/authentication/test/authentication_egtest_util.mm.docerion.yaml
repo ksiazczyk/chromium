@@ -1,0 +1,4 @@
+# Docerion header of authentication_egtest_util.mm.
+type: test
+title: Fake payment server responses for authentication tests
+summary: Defines the shared test constants, including fake card unmask and challenge option responses so tests never contact the real payment server.

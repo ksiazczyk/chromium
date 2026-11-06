@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for the autofill branding UI
+summary: Defines the ui source_set listing the branding sources, their dependencies and the UIKit framework for the autofill branding UI.

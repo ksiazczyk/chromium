@@ -1,0 +1,4 @@
+# Docerion header of branding_coordinator.mm.
+type: source
+title: Branding coordinator implementation
+summary: Implements BrandingCoordinator by creating the branding view controller and wiring it to a mediator backed by the application local state.

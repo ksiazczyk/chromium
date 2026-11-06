@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrandingViewController interface header
+// summary: Declares the view controller that manages the branding icon view shown at the leading side of the keyboard accessory when autofill branding is displayed.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_BRANDING_UI_BRANDING_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_BRANDING_UI_BRANDING_VIEW_CONTROLLER_H_
 

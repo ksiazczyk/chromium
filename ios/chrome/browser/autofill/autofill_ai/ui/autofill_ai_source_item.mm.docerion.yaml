@@ -1,0 +1,4 @@
+# Docerion header of autofill_ai_source_item.mm.
+type: source
+title: Autofill AI source item implementation
+summary: Implements the initializers for the source item and source group objects used by the Autofill AI sources sheet.

@@ -1,0 +1,4 @@
+# Docerion header of form_input_accessory_coordinator.mm.
+type: source
+title: FormInputAccessoryCoordinator implementation
+summary: Implements the coordinator managing the accessory view, suggestions, metrics, and manual fill child coordinators.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for AtMemory EarlGrey tests
+summary: Defines GN source sets for AtMemory EarlGrey test support utilities and the AtMemory UI test suite with their dependencies.

@@ -1,0 +1,4 @@
+# Docerion header of branding_view_controller_egtest.mm.
+type: test
+title: Earl Grey tests for the branding view controller
+summary: Earl Grey integration tests checking branding button visibility in the keyboard accessory with manual fill buttons for passwords, addresses and credit cards.

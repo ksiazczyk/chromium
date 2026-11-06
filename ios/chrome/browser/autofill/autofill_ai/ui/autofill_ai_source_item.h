@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill AI source item model classes
+// summary: Declares model classes representing individual source items and grouped sections displayed in the Autofill AI sources sheet.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_AUTOFILL_AI_UI_AUTOFILL_AI_SOURCE_ITEM_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_AUTOFILL_AI_UI_AUTOFILL_AI_SOURCE_ITEM_H_
 

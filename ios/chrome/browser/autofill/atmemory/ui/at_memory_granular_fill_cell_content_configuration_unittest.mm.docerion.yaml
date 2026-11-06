@@ -1,0 +1,4 @@
+# Docerion header of at_memory_granular_fill_cell_content_configuration_unittest.mm.
+type: test
+title: AtMemory granular fill cell content configuration unit tests
+summary: Tests content view creation, chip selection handler triggering, and copying of the cell content configuration.

@@ -1,0 +1,4 @@
+# Docerion header of ios_at_memory_query_service_factory.mm.
+type: source
+title: IOSAtMemoryQueryServiceFactory implementation
+summary: Builds AtMemoryQueryService for a profile when the AutofillAtMemory feature is enabled, wiring autofill data, personal context, and subscription eligibility dependencies.

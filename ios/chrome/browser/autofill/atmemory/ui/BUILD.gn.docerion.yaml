@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for AtMemory autofill UI
+summary: Defines the item, ui, and unit_tests source sets with their sources and dependencies for the AtMemory autofill UI.

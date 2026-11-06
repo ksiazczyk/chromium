@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FormSuggestionLabel header
+// summary: Declares the view class rendering an autofill suggestion in the customized keyboard, its delegate and compact layout handling.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_FORM_INPUT_ACCESSORY_UI_FORM_SUGGESTION_LABEL_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_FORM_INPUT_ACCESSORY_UI_FORM_SUGGESTION_LABEL_H_
 

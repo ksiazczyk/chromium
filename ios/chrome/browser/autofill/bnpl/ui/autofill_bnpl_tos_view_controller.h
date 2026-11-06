@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BNPL ToS view controller header
+// summary: Declares the view controller rendering the BNPL ToS bottom sheet plus its delegate and mutator protocols.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_BNPL_UI_AUTOFILL_BNPL_TOS_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_BNPL_UI_AUTOFILL_BNPL_TOS_VIEW_CONTROLLER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of at_memory_granular_fill_view_controller_unittest.mm.
+type: test
+title: AtMemory granular fill view controller unit tests
+summary: Unit tests verifying granular fill item sections and the visibility of the Suggested by Gemini footer in the view controller.

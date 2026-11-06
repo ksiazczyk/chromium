@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Card unmask authentication coordinator header
+// summary: Declares the coordinator that manages the card unmasking flow, including authentication selection and OTP or CVC authentication methods.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_AUTHENTICATION_COORDINATOR_CARD_UNMASK_AUTHENTICATION_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_AUTHENTICATION_COORDINATOR_CARD_UNMASK_AUTHENTICATION_COORDINATOR_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: test
+title: Build definition for branding Earl Grey tests
+summary: Defines the eg2 test source set for the autofill branding view controller tests, listing the test sources and dependencies on Chrome test support.

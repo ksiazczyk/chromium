@@ -1,0 +1,4 @@
+# Docerion header of autofill_ai_save_entity_table_view_controller_unittest.mm.
+type: test
+title: Autofill AI save entity table view controller unit tests
+summary: Unit tests verifying that the save entity table view controller displays new and old entity sections and footer URLs when saving Autofill AI entities.

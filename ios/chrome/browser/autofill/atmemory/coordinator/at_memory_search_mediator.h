@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AtMemorySearchMediator interface
+// summary: Declares the mediator for the AtMemory search page, linking the AtMemory and autofill managers, command handlers, settings navigation, and the search consumer.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_ATMEMORY_COORDINATOR_AT_MEMORY_SEARCH_MEDIATOR_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_ATMEMORY_COORDINATOR_AT_MEMORY_SEARCH_MEDIATOR_H_
 

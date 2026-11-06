@@ -1,0 +1,4 @@
+# Docerion header of at_memory_egtest.mm.
+type: test
+title: AtMemory EarlGrey UI tests
+summary: EarlGrey integration tests for the AtMemory find-and-fill autofill feature, covering search, results, granular fill, and privacy notice flows.

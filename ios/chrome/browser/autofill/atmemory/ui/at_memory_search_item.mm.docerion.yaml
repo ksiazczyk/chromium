@@ -1,0 +1,4 @@
+# Docerion header of at_memory_search_item.mm.
+type: source
+title: AtMemory search item implementation
+summary: Implements the search item, deriving title, subtitle and icon from autofill suggestions and defining equality by title and subtitle.

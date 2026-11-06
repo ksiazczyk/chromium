@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the atmemory autofill model
+summary: GN build configuration defining the model source set with the atmemory query service factory and its component dependencies.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FormInputAccessoryCoordinator interface
+// summary: Declares the coordinator that creates and manages the custom input accessory view while the user interacts with a form.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_FORM_INPUT_ACCESSORY_COORDINATOR_FORM_INPUT_ACCESSORY_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_FORM_INPUT_ACCESSORY_COORDINATOR_FORM_INPUT_ACCESSORY_COORDINATOR_H_
 

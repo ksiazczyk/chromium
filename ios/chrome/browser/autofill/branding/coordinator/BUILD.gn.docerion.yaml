@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the autofill branding coordinator
+summary: Defines the coordinator source set, listing the branding coordinator and mediator sources together with their build dependencies.

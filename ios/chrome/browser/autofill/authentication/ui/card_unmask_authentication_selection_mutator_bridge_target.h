@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: C++ target interface for the card unmask mutator bridge
+// summary: Declares the C++ abstract interface that receives mutator events forwarded from the Objective-C bridge.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_AUTHENTICATION_UI_CARD_UNMASK_AUTHENTICATION_SELECTION_MUTATOR_BRIDGE_TARGET_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_AUTHENTICATION_UI_CARD_UNMASK_AUTHENTICATION_SELECTION_MUTATOR_BRIDGE_TARGET_H_
 

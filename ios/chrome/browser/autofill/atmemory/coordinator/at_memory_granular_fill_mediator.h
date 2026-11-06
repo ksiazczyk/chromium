@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AtMemory granular fill mediator header
+// summary: Declares the mediator that supplies granular fill data to its consumer and handles fill, AtMemory, and settings navigation commands.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_ATMEMORY_COORDINATOR_AT_MEMORY_GRANULAR_FILL_MEDIATOR_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_ATMEMORY_COORDINATOR_AT_MEMORY_GRANULAR_FILL_MEDIATOR_H_
 

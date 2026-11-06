@@ -1,0 +1,4 @@
+# Docerion header of form_input_accessory_view_controller_unittest.mm.
+type: test
+title: FormInputAccessoryViewController unit tests
+summary: Unit tests for the form input accessory view controller covering suggestion display, passkey labels, RP ID visibility and manual fill states.

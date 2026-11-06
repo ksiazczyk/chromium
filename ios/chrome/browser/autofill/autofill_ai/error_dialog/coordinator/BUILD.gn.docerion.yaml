@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for the autofill AI error dialog coordinator
+summary: Defines the coordinator source_set with its sources and dependencies for the autofill AI error dialog.

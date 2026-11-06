@@ -1,0 +1,4 @@
+# Docerion header of otp_input_dialog_egtest.mm.
+type: test
+title: Earl Grey tests for the OTP input dialog
+summary: Earl Grey UI tests verifying the OTP input dialog during card unmask, covering code entry, the get-new-code link, and confirm, pending, and cancel buttons.

@@ -1,0 +1,4 @@
+# Docerion header of keyboard_accessory_optional_update_scheduler.mm.
+type: source
+title: KeyboardAccessoryOptionalUpdateScheduler implementation
+summary: Implements the scheduler that delays optional keyboard accessory suggestion updates behind a cooldown period and can cancel or restart pending updates.

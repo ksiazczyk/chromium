@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for Autofill AI UI
+summary: Defines the GN source sets and dependencies for the Autofill AI entity save UI and its unit tests.

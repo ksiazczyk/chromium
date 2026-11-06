@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FormInputAccessoryMediatorHandler protocol
+// summary: Declares the handler protocol for mediator events such as resetting the input view and opening password, card, or address details.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_FORM_INPUT_ACCESSORY_COORDINATOR_FORM_INPUT_ACCESSORY_MEDIATOR_HANDLER_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_FORM_INPUT_ACCESSORY_COORDINATOR_FORM_INPUT_ACCESSORY_MEDIATOR_HANDLER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for form input accessory UI
+summary: Defines the ui source_set and unit_tests target with their sources, dependencies and frameworks for the form input accessory UI.

@@ -1,0 +1,4 @@
+# Docerion header of autofill_ai_sources_view_controller_unittest.mm.
+type: test
+title: Autofill AI sources view controller unit tests
+summary: Unit tests verifying the sources view controller's table configuration, accessibility identifiers, and delegate callbacks using a fake delegate.

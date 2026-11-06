@@ -1,0 +1,4 @@
+# Docerion header of form_input_accessory_view_controller.mm.
+type: source
+title: FormInputAccessoryViewController implementation
+summary: Implements the keyboard accessory view controller with suggestion filtering, manual fill buttons, branding, metrics and omnibox handling.

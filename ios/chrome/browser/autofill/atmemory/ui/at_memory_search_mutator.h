@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AtMemory search mutator protocol
+// summary: Declares the mutator protocol forwarding search actions such as queries, notice acknowledgement, result selection and AI disclosure taps.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_ATMEMORY_UI_AT_MEMORY_SEARCH_MUTATOR_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_ATMEMORY_UI_AT_MEMORY_SEARCH_MUTATOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AtMemory search consumer protocol
+// summary: Declares the consumer protocol for the AtMemory search feature, covering error types, fetching state, notices, recent fills and search results.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_ATMEMORY_UI_AT_MEMORY_SEARCH_CONSUMER_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_ATMEMORY_UI_AT_MEMORY_SEARCH_CONSUMER_H_
 

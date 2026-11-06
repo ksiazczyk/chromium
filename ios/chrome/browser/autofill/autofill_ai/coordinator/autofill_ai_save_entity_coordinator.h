@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill AI save entity coordinator interface
+// summary: Declares the coordinator that presents the Autofill AI entity save and update detailed UI, initialized with save entity parameters.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_AUTOFILL_AI_COORDINATOR_AUTOFILL_AI_SAVE_ENTITY_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_AUTOFILL_AI_COORDINATOR_AUTOFILL_AI_SAVE_ENTITY_COORDINATOR_H_
 

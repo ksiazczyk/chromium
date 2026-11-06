@@ -1,0 +1,4 @@
+# Docerion header of autofill_ai_egtest.mm.
+type: test
+title: Autofill AI Earl Grey integration tests
+summary: Earl Grey UI tests that verify saving and displaying Autofill AI entities such as passport and redress number in iOS Chrome.

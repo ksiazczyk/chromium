@@ -1,0 +1,4 @@
+# Docerion header of autofill_bnpl_tos_coordinator_unittest.mm.
+type: test
+title: BNPL ToS coordinator unit tests
+summary: Tests coordinator start and stop, opening links in new tabs, and rejecting non-HTTP(S) URLs.

@@ -1,0 +1,4 @@
+# Docerion header of card_unmask_authentication_selection_mutator_bridge.mm.
+type: source
+title: Card unmask authentication selection mutator bridge implementation
+summary: Implements the mutator bridge, forwarding selection, acceptance and cancellation messages to the C++ target.

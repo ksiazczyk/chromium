@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OTP input dialog coordinator header
+// summary: Declares the coordinator managing the OTP input dialog used to collect one-time password input during card unmasking.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_AUTHENTICATION_COORDINATOR_OTP_INPUT_DIALOG_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_AUTHENTICATION_COORDINATOR_OTP_INPUT_DIALOG_COORDINATOR_H_
 

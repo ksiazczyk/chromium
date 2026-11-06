@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: otp_input_dialog_content.h
+// summary: Declares OtpInputDialogContent, a model holding the title, text field placeholder and confirm button label shown in the OTP input dialog.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_AUTHENTICATION_UI_OTP_INPUT_DIALOG_CONTENT_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_AUTHENTICATION_UI_OTP_INPUT_DIALOG_CONTENT_H_
 

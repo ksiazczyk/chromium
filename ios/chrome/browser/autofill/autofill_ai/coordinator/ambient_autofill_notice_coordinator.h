@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ambient Autofill notice coordinator header
+// summary: Declares the ChromeCoordinator that presents the Ambient Autofill notice bottom sheet for form activity, including a method to mark the notice as shown.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_AUTOFILL_AI_COORDINATOR_AMBIENT_AUTOFILL_NOTICE_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_AUTOFILL_AI_COORDINATOR_AMBIENT_AUTOFILL_NOTICE_COORDINATOR_H_
 

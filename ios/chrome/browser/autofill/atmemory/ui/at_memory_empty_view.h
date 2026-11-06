@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AtMemory empty view interface
+// summary: Declares a custom zero-state empty view that anchors an image above a message and exposes a VoiceOver accessibility label.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_ATMEMORY_UI_AT_MEMORY_EMPTY_VIEW_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_ATMEMORY_UI_AT_MEMORY_EMPTY_VIEW_H_
 

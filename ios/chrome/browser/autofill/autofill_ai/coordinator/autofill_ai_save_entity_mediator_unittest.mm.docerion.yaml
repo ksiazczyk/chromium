@@ -1,0 +1,4 @@
+# Docerion header of autofill_ai_save_entity_mediator_unittest.mm.
+type: test
+title: Autofill AI save entity mediator unit tests
+summary: Unit tests checking that legal messages from save entity parameters are pushed to a fake consumer only when present.

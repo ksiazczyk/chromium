@@ -1,0 +1,4 @@
+# Docerion header of card_unmask_authentication_egtest.mm.
+type: test
+title: Earl Grey tests for card unmask authentication selection
+summary: Earl Grey UI tests verifying the card unmask authentication selection dialog, including challenge option labels, send and cancel buttons, and the activity indicator.

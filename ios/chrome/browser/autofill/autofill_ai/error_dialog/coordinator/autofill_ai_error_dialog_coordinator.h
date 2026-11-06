@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill AI error dialog coordinator interface
+// summary: Declares the ChromeCoordinator subclass that manages presentation of the autofill AI error dialog.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_AUTOFILL_AI_ERROR_DIALOG_COORDINATOR_AUTOFILL_AI_ERROR_DIALOG_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_AUTOFILL_AI_ERROR_DIALOG_COORDINATOR_AUTOFILL_AI_ERROR_DIALOG_COORDINATOR_H_
 

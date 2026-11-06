@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the Autofill AI coordinator
+summary: Defines the coordinator source set and the unit test target with their sources and dependencies for the Autofill AI notice and save entity UI.

@@ -1,0 +1,4 @@
+# Docerion header of at_memory_inline_notice_view.mm.
+type: source
+title: AtMemory inline notice view implementation
+summary: Implements the inline notice view layout with title, message text, OK button and settings link handling for the AtMemory bottom sheet.

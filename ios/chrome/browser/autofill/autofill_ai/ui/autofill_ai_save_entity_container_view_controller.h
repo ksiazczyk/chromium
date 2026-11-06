@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill AI save entity container view controller header
+// summary: Declares the container view controller hosting the entity details table and sticky save button, plus its delegate for link taps.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_AUTOFILL_AI_UI_AUTOFILL_AI_SAVE_ENTITY_CONTAINER_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_AUTOFILL_AI_UI_AUTOFILL_AI_SAVE_ENTITY_CONTAINER_VIEW_CONTROLLER_H_
 

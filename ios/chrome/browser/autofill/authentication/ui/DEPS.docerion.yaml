@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the authentication UI folder
+summary: Specifies include rules allowing this folder to use the crurl.h header from ios/chrome/browser/net/model.

@@ -1,0 +1,4 @@
+# Docerion header of otp_input_dialog_content.mm.
+type: source
+title: otp_input_dialog_content.mm
+summary: Implements the OtpInputDialogContent model class whose properties carry the text content of the OTP input dialog.

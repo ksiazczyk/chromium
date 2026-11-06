@@ -1,0 +1,4 @@
+# Docerion header of autofill_ai_save_entity_table_view_controller.mm.
+type: source
+title: Autofill AI save entity table view controller implementation
+summary: Implements the table view controller rendering entity attribute fields, masked and date values, and footer legal disclosures.

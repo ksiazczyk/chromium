@@ -1,0 +1,4 @@
+# Docerion header of otp_input_dialog_mutator_bridge.mm.
+type: source
+title: otp_input_dialog_mutator_bridge.mm
+summary: Implements the mutator bridge, converting Objective-C callbacks into calls on the C++ OtpInputDialogMutatorBridgeTarget.

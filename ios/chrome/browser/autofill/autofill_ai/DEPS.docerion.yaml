@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS
+summary: Defines include rules for the autofill_ai directory, allowing dependencies on components/personal_context/first_run and ios/chrome/browser/net/model.

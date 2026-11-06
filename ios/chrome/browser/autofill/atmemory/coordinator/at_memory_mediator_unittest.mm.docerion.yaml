@@ -1,0 +1,4 @@
+# Docerion header of at_memory_mediator_unittest.mm.
+type: test
+title: AtMemoryMediator unit tests
+summary: Unit tests for the AtMemory mediator, covering suggestion handling for normal and obfuscated AtMemory content using fake web state and OCMock.

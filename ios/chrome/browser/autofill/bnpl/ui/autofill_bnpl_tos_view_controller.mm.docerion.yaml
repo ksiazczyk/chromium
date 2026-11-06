@@ -1,0 +1,4 @@
+# Docerion header of autofill_bnpl_tos_view_controller.mm.
+type: source
+title: BNPL terms of service view controller implementation
+summary: Implements the iOS view controller that displays the BNPL terms of service, with issuer logo, bullet points, consent text, and continue/cancel actions.

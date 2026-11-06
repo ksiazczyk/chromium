@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: AtMemory coordinator GN build targets
+summary: Defines the coordinator, test_support, and unit_tests source sets with their sources and dependencies for the AtMemory feature.

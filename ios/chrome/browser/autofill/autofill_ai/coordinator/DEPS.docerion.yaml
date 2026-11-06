@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the Autofill AI coordinator
+summary: Declares the include rules allowing the coordinator directory to depend on autofill, prefs, shared Chrome iOS, and common UI components.

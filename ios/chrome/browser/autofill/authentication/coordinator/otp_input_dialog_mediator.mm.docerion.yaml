@@ -1,0 +1,4 @@
+# Docerion header of otp_input_dialog_mediator.mm.
+type: source
+title: OTP input dialog mediator implementation
+summary: Implements the mediator that forwards dialog state, content, and user actions between the Autofill model controller and the iOS consumer.

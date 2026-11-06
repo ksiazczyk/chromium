@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Branding coordinator header
+// summary: Declares BrandingCoordinator, which creates and manages the branding view controller and its delegate that controls branding visibility.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_BRANDING_COORDINATOR_BRANDING_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_BRANDING_COORDINATOR_BRANDING_COORDINATOR_H_
 

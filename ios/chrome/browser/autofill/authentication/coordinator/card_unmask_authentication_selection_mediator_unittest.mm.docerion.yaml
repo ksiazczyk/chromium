@@ -1,0 +1,4 @@
+# Docerion header of card_unmask_authentication_selection_mediator_unittest.mm.
+type: test
+title: Card unmask authentication selection mediator unit tests
+summary: Unit tests for the card unmask authentication selection mediator using mocked consumer and delegate protocols and SMS and CVC challenge option fixtures.

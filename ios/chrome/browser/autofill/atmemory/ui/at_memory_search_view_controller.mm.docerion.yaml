@@ -1,0 +1,4 @@
+# Docerion header of at_memory_search_view_controller.mm.
+type: source
+title: AtMemory search view controller implementation
+summary: Implements the AtMemory search view controller, managing the table view sections, search bar, zero-state empty view, inline notice and search result display for the iOS autofill AtMemory UI.

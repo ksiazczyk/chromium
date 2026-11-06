@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for the BNPL autofill module
+summary: Defines the bnpl source set and its unit_tests target, listing sources, dependencies and the UIKit framework for the iOS Chrome BNPL autofill feature.

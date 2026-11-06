@@ -1,0 +1,4 @@
+# Docerion header of card_unmask_authentication_selection_mediator.mm.
+type: source
+title: Card unmask authentication selection mediator implementation
+summary: Implements the selection mediator, forwarding challenge option selection, acceptance, cancellation, and dismissal between the model controller and consumer.

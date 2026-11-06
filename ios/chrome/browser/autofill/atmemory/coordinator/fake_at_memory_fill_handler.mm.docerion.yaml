@@ -1,0 +1,4 @@
+# Docerion header of fake_at_memory_fill_handler.mm.
+type: test
+title: FakeAtMemoryFillHandler implementation
+summary: Implements the fake fill handler, setting a flag whenever a suggestion fill is requested.

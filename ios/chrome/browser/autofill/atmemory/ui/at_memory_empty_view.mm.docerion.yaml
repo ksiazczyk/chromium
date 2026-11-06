@@ -1,0 +1,4 @@
+# Docerion header of at_memory_empty_view.mm.
+type: source
+title: AtMemory empty view implementation
+summary: Implements the zero-state empty view layout, crossfade message updates, and accessibility behavior for VoiceOver.

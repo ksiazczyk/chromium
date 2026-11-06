@@ -1,0 +1,4 @@
+# Docerion header of autofill_ai_save_entity_container_view_controller_unittest.mm.
+type: test
+title: Autofill AI save entity container view controller unit tests
+summary: Unit tests verifying legal disclosure visibility, dynamic addition after view load, and link tap delegate notification.

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for form input accessory coordinator
+summary: DEPS file restricting which directories this folder's sources may include headers from.

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the BNPL ToS UI
+summary: Lists the allowed include paths for code in the BNPL ToS UI directory.

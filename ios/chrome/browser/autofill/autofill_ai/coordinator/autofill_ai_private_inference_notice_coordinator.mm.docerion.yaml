@@ -1,0 +1,4 @@
+# Docerion header of autofill_ai_private_inference_notice_coordinator.mm.
+type: source
+title: Autofill AI private inference notice coordinator implementation
+summary: Implements the private inference notice coordinator, presenting a confirmation alert sheet with localized strings and wiring up its mediator and command handlers.
