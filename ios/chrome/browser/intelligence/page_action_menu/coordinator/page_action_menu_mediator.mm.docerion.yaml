@@ -1,0 +1,4 @@
+# Docerion header of page_action_menu_mediator.mm.
+type: source
+title: Page action menu mediator implementation
+summary: Implements the mediator that assembles page action menu feature rows and handles permissions, sign-in, translate and reader mode state.

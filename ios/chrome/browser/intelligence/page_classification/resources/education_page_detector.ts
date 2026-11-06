@@ -7,6 +7,12 @@
  * Education vertical evaluation.
  */
 
+// ---docerion
+// type: source
+// title: Education page detector DOM feature extraction
+// summary: Registers a gCrWeb API that extracts readable word count and heading density from the page DOM, ignoring navigation and chrome elements, for education page classification.
+// ---
+
 import {CrWebApi, gCrWeb} from '//ios/web/public/js_messaging/resources/gcrweb.js';
 
 interface EducationDomFeatures {

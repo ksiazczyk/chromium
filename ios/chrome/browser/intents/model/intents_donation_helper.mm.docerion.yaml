@@ -1,0 +1,4 @@
+# Docerion header of intents_donation_helper.mm.
+type: source
+title: IntentDonationHelper implementation
+summary: Builds INInteractions for each intent type with localized suggested invocation phrases and donates them on a background thread while recording metrics.

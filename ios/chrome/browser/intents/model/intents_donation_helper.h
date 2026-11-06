@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IntentDonationHelper interface
+// summary: Declares the IntentDonationHelper class with a method to donate an INInteraction for a given IntentType to IntentKit.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INTENTS_MODEL_INTENTS_DONATION_HELPER_H_
 #define IOS_CHROME_BROWSER_INTENTS_MODEL_INTENTS_DONATION_HELPER_H_
 

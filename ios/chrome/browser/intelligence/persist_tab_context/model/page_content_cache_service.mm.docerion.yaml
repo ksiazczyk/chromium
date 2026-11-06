@@ -1,0 +1,4 @@
+# Docerion header of page_content_cache_service.mm.
+type: source
+title: Page content cache service implementation
+summary: Implements PageContentCacheService, initializing the SQLite-backed page content cache when the relevant features are enabled and delegating cache operations to it.

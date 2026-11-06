@@ -1,0 +1,4 @@
+# Docerion header of page_context_wrapper_unittest.mm.
+type: test
+title: Page context wrapper unit tests
+summary: Unit tests for the iOS page context wrapper, covering extraction utilities, frame grafting, autofill integration, and related page context behavior.

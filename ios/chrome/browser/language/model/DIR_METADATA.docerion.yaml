@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the language model folder
+summary: Points the directory metadata to the shared language component metadata mixin.

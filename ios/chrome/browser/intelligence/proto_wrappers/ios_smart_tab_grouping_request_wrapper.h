@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IosSmartTabGroupingRequestWrapper header for smart tab grouping requests
+// summary: Declares an Objective-C wrapper that asynchronously populates an IosSmartTabGroupingRequest proto from persisted tab context or live web states.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INTELLIGENCE_PROTO_WRAPPERS_IOS_SMART_TAB_GROUPING_REQUEST_WRAPPER_H_
 #define IOS_CHROME_BROWSER_INTELLIGENCE_PROTO_WRAPPERS_IOS_SMART_TAB_GROUPING_REQUEST_WRAPPER_H_
 

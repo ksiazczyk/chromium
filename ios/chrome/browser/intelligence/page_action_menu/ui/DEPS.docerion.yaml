@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Page Action Menu UI include rules
+summary: Restricts includes in the page action menu UI directory to reader mode and shared public features headers.

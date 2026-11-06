@@ -1,0 +1,4 @@
+# Docerion header of model_led_suggestions_service_impl.mm.
+type: source
+title: ModelLedSuggestionsServiceImpl implementation
+summary: Implements fetching model-led suggestions, chaining callbacks for same-page requests and cancelling stale ones.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens browser agent interface
+// summary: Declares LensBrowserAgent, a browser user data helper for navigating back to the Lens camera experience from Lens results URLs.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_LENS_MODEL_LENS_BROWSER_AGENT_H_
 #define IOS_CHROME_BROWSER_LENS_MODEL_LENS_BROWSER_AGENT_H_
 

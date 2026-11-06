@@ -1,0 +1,4 @@
+# Docerion header of optimization_guide_page_classification_service_unittest.mm.
+type: test
+title: Optimization Guide page classification service unit tests
+summary: Unit tests for the Optimization Guide classification service using a fake decider, mock shopping service, and fake web states to verify classification behavior.

@@ -1,0 +1,4 @@
+# Docerion header of dom_node_ids_js_unittest.mm.
+type: test
+title: JavaScript tests for DOM node ID utilities
+summary: JavaScript integration tests verifying DOM node ID creation, lookup, and cleanup behavior through the gCrWeb registered API.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Page classification GN build targets
+summary: Defines GN source sets for the page classification feature, the education page detector TypeScript target, and the unit test target.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ModelLedSuggestionsServiceImpl class declaration
+// summary: Declares the iOS service that fetches model-led zero state suggestions through the Optimization Guide service.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INTELLIGENCE_ZERO_STATE_SUGGESTIONS_MODEL_MODEL_LED_SUGGESTIONS_SERVICE_IMPL_H_
 #define IOS_CHROME_BROWSER_INTELLIGENCE_ZERO_STATE_SUGGESTIONS_MODEL_MODEL_LED_SUGGESTIONS_SERVICE_IMPL_H_
 

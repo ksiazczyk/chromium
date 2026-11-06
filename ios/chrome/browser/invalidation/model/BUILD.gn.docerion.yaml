@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build file for the invalidation model
+summary: Defines the source_set build target for the iOS Chrome invalidation model and its dependencies on GCM, invalidation, prefs, signin, and profile components.

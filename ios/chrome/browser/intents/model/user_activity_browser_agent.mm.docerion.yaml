@@ -1,0 +1,4 @@
+# Docerion header of user_activity_browser_agent.mm.
+type: source
+title: UserActivityBrowserAgent implementation
+summary: Implements handling of NSUserActivity, Handoff, Spotlight and app shortcuts, opening or routing tabs and recording user metrics.

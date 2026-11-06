@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FrameGrafter header for grafting frame content into placeholders
+// summary: Declares the FrameGrafter class that matches child frame placeholders with extracted frame content to assemble the annotated page content frame tree and track redaction boxes.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INTELLIGENCE_PROTO_WRAPPERS_FRAME_GRAFTER_H_
 #define IOS_CHROME_BROWSER_INTELLIGENCE_PROTO_WRAPPERS_FRAME_GRAFTER_H_
 

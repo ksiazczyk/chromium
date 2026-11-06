@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SmartTabGroupingServiceImpl class declaration
+// summary: Declares the Mojo SmartTabGroupingService implementation that executes smart tab grouping requests via the Optimization Guide and observes sign-in identity changes.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INTELLIGENCE_SMART_TAB_GROUPING_MODEL_SMART_TAB_GROUPING_SERVICE_IMPL_H_
 #define IOS_CHROME_BROWSER_INTELLIGENCE_SMART_TAB_GROUPING_MODEL_SMART_TAB_GROUPING_SERVICE_IMPL_H_
 

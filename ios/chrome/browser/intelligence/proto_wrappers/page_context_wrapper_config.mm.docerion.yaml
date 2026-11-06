@@ -1,0 +1,4 @@
+# Docerion header of page_context_wrapper_config.mm.
+type: source
+title: PageContextWrapperConfig implementation
+summary: Implements PageContextWrapperConfig accessors, including rich extraction and autofill flag logic and the APC config variant used for histograms.

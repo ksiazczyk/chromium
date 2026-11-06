@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AI hub constants declarations
+// summary: Declares string constants for the AI hub detent and accessibility identifiers of its bottom sheet, entrypoint, buttons, and the search engine settings action.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INTELLIGENCE_PAGE_ACTION_MENU_UTILS_AI_HUB_CONSTANTS_H_
 #define IOS_CHROME_BROWSER_INTELLIGENCE_PAGE_ACTION_MENU_UTILS_AI_HUB_CONSTANTS_H_
 

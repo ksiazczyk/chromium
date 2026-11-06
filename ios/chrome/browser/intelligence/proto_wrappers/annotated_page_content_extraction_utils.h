@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Annotated page content extraction utilities declarations
+// summary: Declares functions that map annotated page content JSON from the renderer into optimization guide APC proto nodes, including frame and autofill data.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INTELLIGENCE_PROTO_WRAPPERS_ANNOTATED_PAGE_CONTENT_EXTRACTION_UTILS_H_
 #define IOS_CHROME_BROWSER_INTELLIGENCE_PROTO_WRAPPERS_ANNOTATED_PAGE_CONTENT_EXTRACTION_UTILS_H_
 

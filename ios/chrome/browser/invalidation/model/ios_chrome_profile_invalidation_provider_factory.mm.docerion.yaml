@@ -1,0 +1,4 @@
+# Docerion header of ios_chrome_profile_invalidation_provider_factory.mm.
+type: source
+title: IOSChromeProfileInvalidationProviderFactory implementation
+summary: Implements the invalidation provider factory, building a ProfileInvalidationProvider per profile and depending on the GCM and Instance ID service factories.

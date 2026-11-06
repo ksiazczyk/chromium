@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ITunesUrlsHandlerTabHelper class header
+// summary: Declares ITunesUrlsHandlerTabHelper, a WebState policy decider that detects iTunes App Store product URLs and routes them to StoreKit product presentation.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_ITUNES_URLS_MODEL_ITUNES_URLS_HANDLER_TAB_HELPER_H_
 #define IOS_CHROME_BROWSER_ITUNES_URLS_MODEL_ITUNES_URLS_HANDLER_TAB_HELPER_H_
 

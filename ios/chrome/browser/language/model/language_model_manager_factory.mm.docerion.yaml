@@ -1,0 +1,4 @@
+# Docerion header of language_model_manager_factory.mm.
+type: source
+title: Language model manager factory implementation
+summary: Implements the language model manager factory, registering a fluent language model as the primary model for each profile.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page Action Menu content entry point model
+// summary: Declares model classes for page tools menu entry points and footer items describing why entry points are unavailable.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INTELLIGENCE_PAGE_ACTION_MENU_UI_PAGE_ACTION_MENU_CONTENT_ENTRY_POINT_H_
 #define IOS_CHROME_BROWSER_INTELLIGENCE_PAGE_ACTION_MENU_UI_PAGE_ACTION_MENU_CONTENT_ENTRY_POINT_H_
 

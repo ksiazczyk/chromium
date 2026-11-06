@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill data extraction utilities declarations
+// summary: Declares the autofill extraction context, field metadata structures, and helpers for deciding redaction of sensitive form fields.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INTELLIGENCE_PROTO_WRAPPERS_AUTOFILL_DATA_EXTRACTION_UTILS_H_
 #define IOS_CHROME_BROWSER_INTELLIGENCE_PROTO_WRAPPERS_AUTOFILL_DATA_EXTRACTION_UTILS_H_
 

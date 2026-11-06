@@ -1,0 +1,4 @@
+# Docerion header of shopping_eligibility_vertical_unittest.mm.
+type: test
+title: Shopping eligibility vertical unit tests
+summary: Unit tests for ShoppingEligibilityVertical::Evaluate, covering null shopping service, invalid URL schemes, cached product info fast paths, and non-shopping page results.

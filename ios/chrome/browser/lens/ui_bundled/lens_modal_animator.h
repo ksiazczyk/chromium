@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens modal animator header
+// summary: Declares the LensModalAnimator class that acts as delegate and animator for Lens modal view controller transitions.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_LENS_UI_BUNDLED_LENS_MODAL_ANIMATOR_H_
 #define IOS_CHROME_BROWSER_LENS_UI_BUNDLED_LENS_MODAL_ANIMATOR_H_
 

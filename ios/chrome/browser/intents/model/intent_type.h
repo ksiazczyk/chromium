@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IntentType enum for donated intents
+// summary: Defines the IntentType enum of donatable intents such as search, bookmarks and Lens, whose values are logged as the IOSSpotlightDonatedIntentType histogram.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INTENTS_MODEL_INTENT_TYPE_H_
 #define IOS_CHROME_BROWSER_INTENTS_MODEL_INTENT_TYPE_H_
 

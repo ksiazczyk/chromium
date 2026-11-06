@@ -1,0 +1,4 @@
+# Docerion header of optimization_guide_page_classification_service.mm.
+type: source
+title: Optimization Guide page classification service implementation
+summary: Implements the Optimization Guide-based classification service, coordinating education and shopping vertical evaluations with request tracking and navigation race guards.

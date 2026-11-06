@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the page action menu utils
+summary: GN build file defining the utils source_set with the AI hub constants and metrics sources and their base and ui dependencies.

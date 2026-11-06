@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS for smart tab grouping utils
+summary: Declares the allowed include rule for tab_group_utils.h from the saved tab groups UI directory.

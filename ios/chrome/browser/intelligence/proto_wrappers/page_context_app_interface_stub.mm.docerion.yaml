@@ -1,0 +1,4 @@
+# Docerion header of page_context_app_interface_stub.mm.
+type: source
+title: Page context app interface stub for Earl Grey tests
+summary: Registers a stub PageContextAppInterface class in the Earl Grey test application main queue for use when the real app interface is not linked.

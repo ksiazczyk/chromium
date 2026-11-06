@@ -1,0 +1,4 @@
+# Docerion header of frame_grafter_unittest.mm.
+type: test
+title: Unit tests for the FrameGrafter frame tree grafting logic
+summary: Unit tests verifying that FrameGrafter grafts frame content into placeholders for rich and light extraction, including mapping and unregistered content handling.

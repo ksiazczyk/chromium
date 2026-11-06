@@ -1,0 +1,4 @@
+# Docerion header of lens_availability.mm.
+type: source
+title: Lens availability implementation with UMA logging
+summary: Implements per-entry-point availability checks and logs Lens support status histograms based on policy, search engine, and form factor.

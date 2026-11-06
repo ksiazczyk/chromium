@@ -1,0 +1,4 @@
+# Docerion header of ios_smart_tab_grouping_request_wrapper_unittest.mm.
+type: test
+title: Unit tests for the iOS smart tab grouping request wrapper
+summary: Unit tests covering initialization and request population of the iOS smart tab grouping wrapper using fake web states and a persist tab context browser agent.

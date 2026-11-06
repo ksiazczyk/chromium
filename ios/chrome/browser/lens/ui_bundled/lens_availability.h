@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens availability checks and support status enum
+// summary: Declares the LensSupportStatus enum and functions to check and log availability of Lens entry points.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_LENS_UI_BUNDLED_LENS_AVAILABILITY_H_
 #define IOS_CHROME_BROWSER_LENS_UI_BUNDLED_LENS_AVAILABILITY_H_
 

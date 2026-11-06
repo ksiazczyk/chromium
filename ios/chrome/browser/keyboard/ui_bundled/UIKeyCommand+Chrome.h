@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UIKeyCommand Chrome category interface
+// summary: Declares a UIKeyCommand category exposing preconfigured Chrome keyboard commands with localized titles, inputs, and modifier flags.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_KEYBOARD_UI_BUNDLED_UIKEYCOMMAND_CHROME_H_
 #define IOS_CHROME_BROWSER_KEYBOARD_UI_BUNDLED_UIKEYCOMMAND_CHROME_H_
 

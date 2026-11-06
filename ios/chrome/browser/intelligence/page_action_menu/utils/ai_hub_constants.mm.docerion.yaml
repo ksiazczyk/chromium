@@ -1,0 +1,4 @@
+# Docerion header of ai_hub_constants.mm.
+type: source
+title: AI hub constants definitions
+summary: Defines the AI hub detent, accessibility, and search engine settings identifier string constants declared in ai_hub_constants.h.

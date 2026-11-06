@@ -1,0 +1,4 @@
+# Docerion header of frame_grafter.mm.
+type: source
+title: FrameGrafter implementation merging frame content into placeholders
+summary: Implements FrameGrafter placeholder registration, content declaration, and merging of iframe content into the annotated page content tree, including cross-site iframe metadata.

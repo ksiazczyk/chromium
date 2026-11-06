@@ -1,0 +1,4 @@
+# Docerion header of menu_builder.mm.
+type: source
+title: MenuBuilder implementation
+summary: Populates the iOS main menu system with Chrome keyboard commands for the application, file, edit, view, history, bookmarks, and other menus.

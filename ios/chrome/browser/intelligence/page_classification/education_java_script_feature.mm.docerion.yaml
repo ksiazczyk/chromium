@@ -1,0 +1,4 @@
+# Docerion header of education_java_script_feature.mm.
+type: source
+title: Education JavaScript feature implementation
+summary: Implements DOM feature extraction by calling education_page_detector in the main frame and parsing the returned word and heading counts.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Education eligibility vertical interface
+// summary: Declares EducationEligibilityVertical, which scores education page eligibility from Petacat categories and DOM heuristics, plus a test-scoping helper.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INTELLIGENCE_PAGE_CLASSIFICATION_EDUCATION_ELIGIBILITY_VERTICAL_H_
 #define IOS_CHROME_BROWSER_INTELLIGENCE_PAGE_CLASSIFICATION_EDUCATION_ELIGIBILITY_VERTICAL_H_
 

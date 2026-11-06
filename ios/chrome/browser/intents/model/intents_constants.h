@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shortcut and Siri shortcut activity constants
+// summary: Declares NSUserActivity string constants for 3D touch application shortcuts and Siri shortcut intents.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INTENTS_MODEL_INTENTS_CONSTANTS_H_
 #define IOS_CHROME_BROWSER_INTENTS_MODEL_INTENTS_CONSTANTS_H_
 

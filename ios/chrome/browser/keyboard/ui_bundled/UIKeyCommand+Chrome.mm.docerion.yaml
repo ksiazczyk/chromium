@@ -1,0 +1,4 @@
+# Docerion header of UIKeyCommand+Chrome.mm.
+type: source
+title: UIKeyCommand Chrome category implementation
+summary: Implements the Chrome keyboard command factories, mapping key inputs and modifier flags to actions, titles, and symbol images.

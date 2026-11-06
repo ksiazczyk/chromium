@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for iOS intents model
+summary: Defines GN source sets for the intent donation helper, intent type, constants, user activity compatibility util, browser agent and their unit tests.

@@ -1,0 +1,4 @@
+# Docerion header of persist_tab_context_browser_agent_unittest.mm.
+type: test
+title: Persist tab context browser agent unit tests
+summary: Unit tests for PersistTabContextBrowserAgent covering saving, retrieval, invalidation and cleanup of persisted page contexts across storage types.

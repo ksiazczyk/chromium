@@ -1,0 +1,4 @@
+# Docerion header of persist_tab_context_state_agent.mm.
+type: source
+title: Persist tab context state agent implementation
+summary: Implements a SceneStateObserver that runs a stored callback whenever the scene activation level changes, so owners can react to app foreground and background transitions.

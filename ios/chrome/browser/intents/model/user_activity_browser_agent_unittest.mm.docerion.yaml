@@ -1,0 +1,4 @@
+# Docerion header of user_activity_browser_agent_unittest.mm.
+type: source
+title: UserActivityBrowserAgent unit tests
+summary: Unit tests for the user activity browser agent covering intents, shortcuts, scene state fakes and tab opening behavior.

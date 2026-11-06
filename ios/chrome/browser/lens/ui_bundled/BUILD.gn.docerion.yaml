@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for Lens UI bundled
+summary: Defines GN source sets and dependencies for the Lens coordinator, features, availability, and entrypoint targets.

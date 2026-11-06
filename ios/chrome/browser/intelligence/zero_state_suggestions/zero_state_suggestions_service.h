@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Zero-state suggestions service header
+// summary: Declares the ZeroStateSuggestion model and the ZeroStateSuggestionsService that fetches, caches, and combines static and model-led Gemini suggestions for a web state.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INTELLIGENCE_ZERO_STATE_SUGGESTIONS_ZERO_STATE_SUGGESTIONS_SERVICE_H_
 #define IOS_CHROME_BROWSER_INTELLIGENCE_ZERO_STATE_SUGGESTIONS_ZERO_STATE_SUGGESTIONS_SERVICE_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of education_eligibility_vertical_unittest.mm.
+type: test
+title: Education eligibility vertical unit tests
+summary: Unit tests for education eligibility scoring covering empty metadata, category prefix matching, confidence thresholds, and score computation.

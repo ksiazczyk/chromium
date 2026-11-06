@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the invalidation model directory
+summary: Points to the components/invalidation OWNERS file as the code owners for this directory.

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Zero-state suggestions include rules
+summary: Specifies the headers and directories that files in the zero-state suggestions directory are allowed to include.

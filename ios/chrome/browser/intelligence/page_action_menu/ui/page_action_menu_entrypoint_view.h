@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page Action Menu entry point button view
+// summary: Declares the entry point button view for the page action menu, including new badge visibility and highlight toggling.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INTELLIGENCE_PAGE_ACTION_MENU_UI_PAGE_ACTION_MENU_ENTRYPOINT_VIEW_H_
 #define IOS_CHROME_BROWSER_INTELLIGENCE_PAGE_ACTION_MENU_UI_PAGE_ACTION_MENU_ENTRYPOINT_VIEW_H_
 

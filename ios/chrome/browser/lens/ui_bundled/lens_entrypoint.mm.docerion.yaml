@@ -1,0 +1,4 @@
+# Docerion header of lens_entrypoint.mm.
+type: source
+title: Lens entrypoint histogram constant
+summary: Defines the kIOSLensEntrypoint histogram name used for the context menu Lens entry point.

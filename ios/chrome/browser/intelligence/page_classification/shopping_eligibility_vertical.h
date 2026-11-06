@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shopping eligibility vertical header
+// summary: Declares ShoppingEligibilityVertical, which evaluates shopping page eligibility from commerce ShoppingService signals with a default confidence of 0.85.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INTELLIGENCE_PAGE_CLASSIFICATION_SHOPPING_ELIGIBILITY_VERTICAL_H_
 #define IOS_CHROME_BROWSER_INTELLIGENCE_PAGE_CLASSIFICATION_SHOPPING_ELIGIBILITY_VERTICAL_H_
 

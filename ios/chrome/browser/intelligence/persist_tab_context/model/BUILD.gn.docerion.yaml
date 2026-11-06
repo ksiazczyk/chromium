@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for persist tab context model
+summary: Defines GN source sets for the persist tab context model code and its unit tests, listing sources and dependencies.

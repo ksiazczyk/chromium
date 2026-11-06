@@ -1,0 +1,4 @@
+# Docerion header of metrics_constants.mm.
+type: source
+title: PageContext histogram constant definitions
+summary: Defines the PageContext histogram name strings used for iOS page context extraction metrics.

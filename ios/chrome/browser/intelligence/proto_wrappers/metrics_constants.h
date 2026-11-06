@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PageContext histogram constant declarations
+// summary: Declares histogram name constants for PageContext latency, byte size, task types, statuses, and APC configuration variants.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INTELLIGENCE_PROTO_WRAPPERS_METRICS_CONSTANTS_H_
 #define IOS_CHROME_BROWSER_INTELLIGENCE_PROTO_WRAPPERS_METRICS_CONSTANTS_H_
 

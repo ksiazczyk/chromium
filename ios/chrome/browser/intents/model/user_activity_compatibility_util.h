@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User activity compatibility utility header
+// summary: Declares ProceedWithUserActivity, which reports whether an iOS user activity can be handled by the browser.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INTENTS_MODEL_USER_ACTIVITY_COMPATIBILITY_UTIL_H_
 #define IOS_CHROME_BROWSER_INTENTS_MODEL_USER_ACTIVITY_COMPATIBILITY_UTIL_H_
 

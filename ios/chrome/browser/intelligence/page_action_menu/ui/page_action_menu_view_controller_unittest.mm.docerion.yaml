@@ -1,0 +1,4 @@
+# Docerion header of page_action_menu_view_controller_unittest.mm.
+type: test
+title: Page action menu view controller unit tests
+summary: Exercises view controller tap handlers and permission selection using mocked mutator, delegate and command handler dependencies.

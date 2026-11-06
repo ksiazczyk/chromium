@@ -1,0 +1,4 @@
+# Docerion header of persist_tab_context_metrics.mm.
+type: source
+title: Persist tab context metrics definitions
+summary: Defines the string constants for the IOS.PersistTabContext UMA histogram names used by the persist tab context feature.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens feature flag declarations
+// summary: Declares base::Feature constants that control Lens camera, zoom, shader, and overlay behaviors on iOS.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_LENS_UI_BUNDLED_FEATURES_H_
 #define IOS_CHROME_BROWSER_LENS_UI_BUNDLED_FEATURES_H_
 

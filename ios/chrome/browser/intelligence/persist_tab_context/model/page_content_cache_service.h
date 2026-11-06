@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page content cache service header
+// summary: Declares the PageContentCacheService keyed service that provides access to cached page content for tabs, including caching, retrieval and cleanup APIs.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INTELLIGENCE_PERSIST_TAB_CONTEXT_MODEL_PAGE_CONTENT_CACHE_SERVICE_H_
 #define IOS_CHROME_BROWSER_INTELLIGENCE_PERSIST_TAB_CONTEXT_MODEL_PAGE_CONTENT_CACHE_SERVICE_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of page_action_menu_entrypoint_view_unittest.mm.
+type: test
+title: Page Action Menu entry point view unit tests
+summary: Unit tests for the entry point view, checking accessibility identifiers and labels and new badge behavior.

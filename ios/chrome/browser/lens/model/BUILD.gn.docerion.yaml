@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Lens model BUILD.gn build definition
+summary: Defines the model source set and unit test targets with their dependencies for the iOS Lens browser code.

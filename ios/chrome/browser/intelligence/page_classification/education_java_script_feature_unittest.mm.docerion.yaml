@@ -1,0 +1,4 @@
+# Docerion header of education_java_script_feature_unittest.mm.
+type: test
+title: Education JavaScript feature unit tests
+summary: Unit tests for DOM feature extraction covering valid responses, null frames, malformed output, and JavaScript timeouts.

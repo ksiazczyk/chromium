@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Language detection model loader service iOS factory header
+// summary: Declares the profile-keyed service factory that creates the iOS language detection model loader service, working around crbug/1324530.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_LANGUAGE_DETECTION_MODEL_LANGUAGE_DETECTION_MODEL_LOADER_SERVICE_IOS_FACTORY_H_
 #define IOS_CHROME_BROWSER_LANGUAGE_DETECTION_MODEL_LANGUAGE_DETECTION_MODEL_LOADER_SERVICE_IOS_FACTORY_H_
 

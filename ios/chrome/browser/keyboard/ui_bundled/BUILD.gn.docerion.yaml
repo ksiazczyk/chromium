@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build configuration for keyboard UI bundled
+summary: Defines GN source sets for the keyboard command UI code, its unit tests, and the Earl Grey eg2 tests with their dependencies.

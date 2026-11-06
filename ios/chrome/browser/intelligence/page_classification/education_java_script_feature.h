@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Education JavaScript feature interface
+// summary: Declares EducationJavaScriptFeature, a singleton that injects a script to extract word and heading counts from web frames for education gating.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INTELLIGENCE_PAGE_CLASSIFICATION_EDUCATION_JAVA_SCRIPT_FEATURE_H_
 #define IOS_CHROME_BROWSER_INTELLIGENCE_PAGE_CLASSIFICATION_EDUCATION_JAVA_SCRIPT_FEATURE_H_
 

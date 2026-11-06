@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for iTunes URLs model
+summary: Defines GN build targets for the iTunes URLs handler model source set and its unit tests, listing sources, dependencies and linked frameworks.

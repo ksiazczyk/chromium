@@ -1,0 +1,4 @@
+# Docerion header of zero_state_suggestions_service.mm.
+type: source
+title: Zero-state suggestions service implementation
+summary: Implements fetching, caching, and parsing of zero-state suggestions, building static Gemini actions alongside model-led suggestions from the Optimization Guide response.

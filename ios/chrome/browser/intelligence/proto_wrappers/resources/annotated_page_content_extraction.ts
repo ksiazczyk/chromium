@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Annotated page content extraction from the DOM
+// summary: Implements extraction of annotated page content (APC), building a structured tree of nodes with attributes, geometry and interaction data using clobbering-safe DOM access.
+// ---
+
 import {HAS_BEEN_PASSWORD_SYMBOL} from '//components/autofill/ios/form_util/resources/fill_constants.js';
 import {safeOwnerDocument} from '//components/autofill/ios/form_util/resources/unique_node_id.js';
 import {APC_NODE_DEPTH_COST, getRemoteFrameRemoteToken, NONCE_ATTR} from '//ios/chrome/browser/intelligence/proto_wrappers/resources/common.js';

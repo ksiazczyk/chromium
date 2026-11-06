@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for intents model
+summary: Declares the include rules listing directories that code in the intents model folder is allowed to depend on.

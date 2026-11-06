@@ -1,0 +1,4 @@
+# Docerion header of user_activity_compatibility_util.mm.
+type: source
+title: User activity compatibility utility implementation
+summary: Maps NSUserActivity types to regular and incognito compatibility modes and enforces incognito policy before letting the browser handle an activity.

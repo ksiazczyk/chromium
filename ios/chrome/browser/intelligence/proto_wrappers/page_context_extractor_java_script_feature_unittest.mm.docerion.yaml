@@ -1,0 +1,4 @@
+# Docerion header of page_context_extractor_java_script_feature_unittest.mm.
+type: test
+title: Page context extractor JavaScript feature unit tests
+summary: Unit tests for the page context extractor JavaScript feature covering iframe traversal, cross-origin handling and extraction outcomes using embedded test servers.

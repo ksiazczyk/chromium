@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for zero state suggestions model
+summary: Defines the model source set and unit test target with their sources and dependencies for the zero state suggestions model.

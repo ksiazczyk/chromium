@@ -1,0 +1,4 @@
+# Docerion header of language_detection_model_loader_service_ios_factory.mm.
+type: source
+title: Language detection model loader service iOS factory implementation
+summary: Implements the loader service factory, building the service per profile only when TFLite language detection is enabled.

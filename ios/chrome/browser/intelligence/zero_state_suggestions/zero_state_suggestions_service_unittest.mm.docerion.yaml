@@ -1,0 +1,4 @@
+# Docerion header of zero_state_suggestions_service_unittest.mm.
+type: test
+title: Zero-state suggestions service unit tests
+summary: Unit tests covering cached suggestion retrieval, cache clearing, and feature-flag-driven behavior of the zero-state suggestions service using a fake web state and mock tracker.

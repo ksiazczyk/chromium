@@ -1,0 +1,4 @@
+# Docerion header of page_action_menu_coordinator.mm.
+type: source
+title: Page action menu coordinator implementation
+summary: Implements the page action menu coordinator, managing the mediator, view controller, reader mode options and Gemini eligibility polling.

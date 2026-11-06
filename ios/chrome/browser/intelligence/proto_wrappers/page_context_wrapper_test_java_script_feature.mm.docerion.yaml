@@ -1,0 +1,4 @@
+# Docerion header of page_context_wrapper_test_java_script_feature.mm.
+type: test
+title: PageContextWrapperTestJavaScriptFeature implementation
+summary: Implements the test JavaScript feature, injecting the page_context_wrapper_test script into all frames at document start.

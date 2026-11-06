@@ -1,0 +1,4 @@
+# Docerion header of keyboard_commands_egtest.mm.
+type: test
+title: Keyboard commands Earl Grey tests
+summary: Earl Grey test cases verifying that keyboard commands are registered or not registered by the BVC in various UI states such as Settings or multiple windows.

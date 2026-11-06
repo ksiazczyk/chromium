@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the smart tab grouping model
+summary: Defines the model source set and its unit test target, listing sources and dependencies for the iOS smart tab grouping service.

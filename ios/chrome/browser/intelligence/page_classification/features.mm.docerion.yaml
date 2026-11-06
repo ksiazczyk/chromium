@@ -1,0 +1,4 @@
+# Docerion header of features.mm.
+type: source
+title: Page classification feature flag implementation
+summary: Defines default values for the page classification feature parameters and the accessor functions that report each flag's state.

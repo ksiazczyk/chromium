@@ -1,0 +1,4 @@
+# Docerion header of lens_modal_animator.mm.
+type: source
+title: Lens modal animator implementation
+summary: Implements slide-in presentation and dismissal animations for the Lens modal, with timing curves and completion handling.

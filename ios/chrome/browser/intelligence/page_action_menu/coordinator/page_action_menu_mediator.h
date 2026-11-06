@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page action menu mediator header
+// summary: Declares the PageActionMenuMediator with its designated initializer and queries for Gemini eligibility, Lens availability and account state.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INTELLIGENCE_PAGE_ACTION_MENU_COORDINATOR_PAGE_ACTION_MENU_MEDIATOR_H_
 #define IOS_CHROME_BROWSER_INTELLIGENCE_PAGE_ACTION_MENU_COORDINATOR_PAGE_ACTION_MENU_MEDIATOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page action menu coordinator header
+// summary: Declares the PageActionMenuCoordinator, a Chrome coordinator that presents and dismisses the page action menu.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INTELLIGENCE_PAGE_ACTION_MENU_COORDINATOR_PAGE_ACTION_MENU_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_INTELLIGENCE_PAGE_ACTION_MENU_COORDINATOR_PAGE_ACTION_MENU_COORDINATOR_H_
 

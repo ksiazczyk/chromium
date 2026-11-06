@@ -1,0 +1,4 @@
+# Docerion header of persist_tab_context_browser_agent.mm.
+type: source
+title: Persist tab context browser agent implementation
+summary: Implements the browser agent that writes serialized page contexts to the cache directory, purges expired entries and records metrics for persisted tab contexts.

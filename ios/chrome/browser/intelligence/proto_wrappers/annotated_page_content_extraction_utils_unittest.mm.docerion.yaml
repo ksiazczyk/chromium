@@ -1,0 +1,4 @@
+# Docerion header of annotated_page_content_extraction_utils_unittest.mm.
+type: test
+title: Unit tests for annotated page content extraction utilities
+summary: Unit tests verifying that APC proto nodes are populated correctly from JSON, including geometry handling and frame data.

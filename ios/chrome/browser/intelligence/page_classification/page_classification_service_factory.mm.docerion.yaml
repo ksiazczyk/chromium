@@ -1,0 +1,4 @@
+# Docerion header of page_classification_service_factory.mm.
+type: source
+title: Page classification service factory implementation
+summary: Implements the profile-keyed factory that builds an OptimizationGuidePageClassificationService per profile with Optimization Guide and Shopping service dependencies.

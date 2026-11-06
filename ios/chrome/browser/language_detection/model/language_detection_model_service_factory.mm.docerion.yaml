@@ -1,0 +1,4 @@
+# Docerion header of language_detection_model_service_factory.mm.
+type: source
+title: Language detection model service factory implementation
+summary: Implements the model service factory, creating the service per profile when TFLite detection and optimization guide prediction are enabled.

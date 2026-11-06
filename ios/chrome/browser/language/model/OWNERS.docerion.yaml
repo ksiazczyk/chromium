@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners file for the language model folder
+summary: Delegates review ownership to the owners of the components/language directory.

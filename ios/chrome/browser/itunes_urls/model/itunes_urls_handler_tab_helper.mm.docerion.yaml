@@ -1,0 +1,4 @@
+# Docerion header of itunes_urls_handler_tab_helper.mm.
+type: source
+title: ITunesUrlsHandlerTabHelper implementation
+summary: Implements matching of iTunes and App Store product URLs and extraction of product parameters so StoreKit can present the product instead of loading the page.

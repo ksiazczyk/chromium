@@ -1,0 +1,4 @@
+# Docerion header of page_action_menu_view_controller.mm.
+type: source
+title: Page action menu view controller implementation
+summary: Builds the page action menu UI with feature rows and permission dropdowns and handles taps for Gemini, Lens, Reader mode and translate actions.
