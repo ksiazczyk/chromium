@@ -1,0 +1,4 @@
+# Docerion header of omed.py.
+type: source
+title: omed.py
+summary: Local HTTP server that receives file-opening requests from the OME extension and launches the user's editor via the myeditor executable.

@@ -1,3 +1,13 @@
+---
+type: readme
+title: Caspian
+summary: Explains what Caspian is and how to build, debug, and update the WASM module and Linux test app.
+relations:
+  - references /tools/binary_size/libsupersize/viewer/README.md
+  - references /tools/binary_size/libsupersize/viewer/upload_html_viewer.py
+  - references /tools/binary_size/libsupersize/viewer/static/tree-worker-wasm.js
+---
+
 # Caspian
 
 [TOC]

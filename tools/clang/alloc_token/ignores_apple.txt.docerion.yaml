@@ -1,0 +1,4 @@
+# Docerion header of ignores_apple.txt.
+type: config
+title: Alloc-token ignore list for Apple platforms
+summary: Lists Apple platform sources such as chrome_exe_main_mac.cc and content shell app files that are excluded from alloc-token instrumentation because top-level target dependencies cannot include the allocator shim.

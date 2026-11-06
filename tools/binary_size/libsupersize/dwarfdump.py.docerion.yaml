@@ -1,0 +1,4 @@
+# Docerion header of dwarfdump.py.
+type: source
+title: DWARF dump runner
+summary: Runs dwarfdump on shared libraries to map text addresses to source files, with cached lookup of names from .dwo files.

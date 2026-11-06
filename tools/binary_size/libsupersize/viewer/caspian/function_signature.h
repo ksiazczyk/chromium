@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Function signature parsing header
+// summary: Declares utilities for splitting and parsing Java and C++ function signatures, including bracket-aware lookups, lambda normalization and template argument stripping.
+// ---
+
 #ifndef TOOLS_BINARY_SIZE_LIBSUPERSIZE_VIEWER_CASPIAN_FUNCTION_SIGNATURE_H_
 #define TOOLS_BINARY_SIZE_LIBSUPERSIZE_VIEWER_CASPIAN_FUNCTION_SIGNATURE_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of extract_resident_pages_unittest.py.
+type: test
+title: Unit tests for extract_resident_pages
+summary: Verifies that ParseResidentPages converts resident page numbers into the expected per-page residency list.

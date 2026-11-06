@@ -1,0 +1,4 @@
+# Docerion header of subprocess_utils_unittest.py.
+type: test
+title: Unit tests for subprocess_utils
+summary: Unit tests covering subprocess_utils command resolution and run_command behavior, including working directory, output stripping, and error handling.

@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Function signature parsing logic
+# summary: Parses C++ and Java function signatures into name components for binary size analysis, mirroring logic in the caspian C++ port.
+# ---
+
 """Logic for parsing a function signatures.
 
 Much of this logic is duplicated at

@@ -1,0 +1,4 @@
+# Docerion header of run_cros.sh.
+type: script
+title: Run ash-chrome on linux with predefined options
+summary: Launches ash-chrome from a local build on linux with predefined flags for login, debug shortcuts, UI devtools and display settings, customizable via flags and environment variables.

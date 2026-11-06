@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Open My Editor background script
+// summary: Background script that creates the Open My Editor context menus and forwards clicked file paths and line numbers from Chromium code search and review sites to a local editor server on port 8989.
+// ---
+
 // lineNumber defaults to 1 if it doesn't parse as an int or is zero.
 function openFile(filepath, lineNumber) {
   lineNumber = parseInt(lineNumber);

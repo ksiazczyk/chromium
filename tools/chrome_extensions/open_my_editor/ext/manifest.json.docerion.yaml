@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: config
+title: OME extension manifest
+summary: Chrome extension manifest declaring the OME extension's name, version, permissions, background script, and per-site content scripts.

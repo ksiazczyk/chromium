@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Utilities for the bisect repackage tool
+# summary: Provides basic operations used by the repackage tool, including platform detection, file and directory handling, and gsutil command execution.
+# ---
+
 """Set of basic operations/utilities that are used by repacakging tool.
 
 These functions were mostly imported from build/scripts/common/chromium_utils

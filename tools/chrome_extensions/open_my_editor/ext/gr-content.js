@@ -4,6 +4,12 @@
 
 // OME for the chromium gerrit codereview site.
 
+// ---docerion
+// type: source
+// title: Content script for the Gerrit code review site
+// summary: Content script that collects non-deleted file paths from chromium-review.googlesource.com pages for the Open My Editor extension.
+// ---
+
 let clicked_element = null;
 
 document.addEventListener('contextmenu', (event) => {

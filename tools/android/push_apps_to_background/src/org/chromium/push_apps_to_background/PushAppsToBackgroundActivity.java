@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PushAppsToBackgroundActivity
+// summary: Android activity used in performance tests to push other apps to the background while automated user stories run.
+// ---
+
 package org.chromium.push_apps_to_background;
 
 import android.app.Activity;

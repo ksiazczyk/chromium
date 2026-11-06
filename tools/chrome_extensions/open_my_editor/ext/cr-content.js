@@ -4,6 +4,12 @@
 
 // For codereview.chromium.org
 
+// ---docerion
+// type: source
+// title: Content script for codereview.chromium.org
+// summary: Content script that extracts changed file names from the Rietveld code review pages so the extension can open them in the editor.
+// ---
+
 let clicked_element = null;
 
 document.addEventListener('contextmenu', (event) => {

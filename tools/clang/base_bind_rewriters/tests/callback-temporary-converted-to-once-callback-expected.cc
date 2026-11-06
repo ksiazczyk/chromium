@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Expected output for callback temporary converted to once callback test
+// summary: Expected result of the base_bind_rewriters test where temporary base::Bind and BindRepeating callbacks are rewritten into base::BindOnce calls.
+// ---
+
 #include "base/functional/bind.h"
 #include "callback.h"
 

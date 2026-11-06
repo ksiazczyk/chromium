@@ -3,6 +3,12 @@
  * found in the LICENSE file.
  */
 
+/*docerion
+type: source
+title: Styles for the code pages visualization
+summary: Defines styling for the code pages visualization page, including chart rendering, legend, and colors legend elements.
+*/
+
 html, html * {
   font-family: "Roboto", sans-serif;
 }

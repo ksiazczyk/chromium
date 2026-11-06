@@ -1,0 +1,4 @@
+# Docerion header of run_benchmark.py.
+type: source
+title: Touch replay benchmark runner
+summary: Python script that replays recorded touch events on an Android device in a loop for A/B comparisons, collecting jank and tracing results.

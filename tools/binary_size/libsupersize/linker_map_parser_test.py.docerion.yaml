@@ -1,0 +1,4 @@
+# Docerion header of linker_map_parser_test.py.
+type: test
+title: Linker map parser unit tests
+summary: Golden-file tests for the linker map parser covering lld-lto maps, ARM annotations, and feature sections.

@@ -1,3 +1,13 @@
+---
+type: readme
+title: Android Test Health
+summary: Describes the test health tooling, including get_test_health.py usage and the helper modules for extracting Java test health data.
+relations:
+  - documents /tools/android/test_health/get_test_health.py
+  - documents /tools/android/test_health/java_test_utils.py
+  - documents /tools/android/test_health/test_health_exporter.py
+---
+
 # Android Test Health
 
 ## Overview

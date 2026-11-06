@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Path and tool location utilities
+# summary: Detects the build output directory and source root, and resolves paths to LLVM tools such as readelf and nm for SuperSize.
+# ---
+
 """Functions for getting paths to things."""
 
 import abc

@@ -1,0 +1,4 @@
+# Docerion header of ignores_android.txt.
+type: config
+title: Alloc-token ignore list for Android
+summary: Lists Crashpad handler sources excluded from alloc-token instrumentation on Android because Crashpad is built with no_default_deps and lacks the allocator shim dependencies.

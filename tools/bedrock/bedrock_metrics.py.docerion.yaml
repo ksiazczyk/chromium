@@ -1,0 +1,4 @@
+# Docerion header of bedrock_metrics.py.
+type: script
+title: Bedrock Project Metrics Generator
+summary: Command-line script that scans src and build directories and generates a JSON file with Bedrock project metrics such as matching file and content counts.

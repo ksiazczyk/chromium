@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Clang rewriter replacing base::Passed with std::move in BindOnce
+// summary: Clang tool source that rewrites base::BindOnce() calls, removing unneeded base::Passed() wrappers and replacing them with std::move().
+// ---
+
 #include <assert.h>
 #include <stdlib.h>
 #include <algorithm>

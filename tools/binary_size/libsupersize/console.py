@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Interactive console for size analysis
+# summary: Interactive console for analyzing .size files, exposing commands like Diff, Disassemble, Csv, and canned queries.
+# ---
+
 """An interactive console for looking analyzing .size files."""
 
 import argparse

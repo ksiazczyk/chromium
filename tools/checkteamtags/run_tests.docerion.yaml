@@ -1,0 +1,4 @@
+# Docerion header of run_tests.
+type: script
+title: Test runner for checkteamtags
+summary: Script that discovers and runs all unit test modules matching *_test.py in the checkteamtags directory with configurable logging.

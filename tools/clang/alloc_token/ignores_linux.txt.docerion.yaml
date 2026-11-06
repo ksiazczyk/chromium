@@ -1,0 +1,4 @@
+# Docerion header of ignores_linux.txt.
+type: config
+title: Alloc-token ignore list for Linux
+summary: Excludes Weston sources from alloc-token instrumentation on Linux because enabling alloc-token there causes free() invalid pointer errors.

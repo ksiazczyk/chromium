@@ -1,0 +1,4 @@
+# Docerion header of gen_deps.sh.
+type: script
+title: Generate DEPS include rules for ash-chrome directories
+summary: Generates the missing include rules for a given directory's DEPS file, intended for ash-chrome-only directories under chrome/browser during the ash-chrome refactor.

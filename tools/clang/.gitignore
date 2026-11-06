@@ -1,2 +1,8 @@
+# ---docerion
+# type: config
+# title: Git ignore rules for clang tools
+# summary: Ignores the built dsymutil binary and actual output files from plugin tests.
+# ---
+
 dsymutil/bin/dsymutil
 plugins/tests/*.txt.actual

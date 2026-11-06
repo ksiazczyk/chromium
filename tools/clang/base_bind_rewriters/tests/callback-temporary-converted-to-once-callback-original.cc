@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Original input for callback temporary converted to once callback test
+// summary: Original input of the base_bind_rewriters test showing code that binds temporary lambdas with base::Bind and base::BindRepeating before rewriting.
+// ---
+
 #include "base/functional/bind.h"
 #include "callback.h"
 

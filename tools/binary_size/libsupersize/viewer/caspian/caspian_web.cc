@@ -5,6 +5,12 @@
 // Command-line interface for checking the integrity of .size files.
 // Intended to be called from WebAssembly code.
 
+// ---docerion
+// type: source
+// title: WebAssembly entry point for Caspian
+// summary: Implements the C functions exported to WebAssembly for loading size files, diffing, and building trees.
+// ---
+
 #include <stdint.h>
 #include <stdlib.h>
 

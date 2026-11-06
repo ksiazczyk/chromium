@@ -1,0 +1,4 @@
+# Docerion header of generate_spline_constants.py.
+type: script
+title: Spline Constants Generator for StackScroller
+summary: Python script that computes SPLINE_POSITION and SPLINE_TIME sample arrays and prints Java float array declarations to paste into StackScroller.java.

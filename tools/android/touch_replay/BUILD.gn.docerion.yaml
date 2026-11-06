@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Touch Replay GN Build File
+summary: GN build configuration that defines the touch_replay executable from touch_replay.cc with a dependency on //base.

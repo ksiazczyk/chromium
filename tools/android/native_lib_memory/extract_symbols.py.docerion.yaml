@@ -1,0 +1,4 @@
+# Docerion header of extract_symbols.py.
+type: script
+title: Map code pages to object files
+summary: Maps native library code pages to object files and serves a web visualization of page-to-symbol mappings, reached symbols, and code residency.

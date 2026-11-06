@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Example benchmark configuration
+# summary: Example YAML configuration for the touch replay benchmark, defining named URLs, Chrometto tracing options and the cpu_profile binary path.
+# ---
+
 #
 # Example configuration.
 #

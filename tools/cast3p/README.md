@@ -1,3 +1,9 @@
+---
+type: readme
+title: cast3p tools overview
+summary: Describes the directory's Python code for interacting with OEM Cast binaries on third-party hardware, fetched by setting checkout_cast3p=True in .gclient.
+---
+
 This directory contains Python code used for interacting with the binaries
 related to OEM integration for Cast running on third-party hardware. 
 These binaries can be fetched by setting checkout_cast3p=True in .gclient.

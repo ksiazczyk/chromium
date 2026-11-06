@@ -1,0 +1,4 @@
+# Docerion header of check_ecs_deps.py.
+type: script
+title: Embedded content shell dependency checker
+summary: Python script that runs ldd on the content_shell binary and reports failures or warnings when it links against undesired system libraries not on the allowed list.

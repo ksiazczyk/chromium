@@ -1,0 +1,4 @@
+# Docerion header of qtcreator-example.py.
+type: script
+title: Qt Creator example wrapper script
+summary: Example wrapper script that opens one or more files at a given line in Qt Creator for use with the open_my_editor extension.

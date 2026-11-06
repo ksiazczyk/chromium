@@ -1,0 +1,4 @@
+# Docerion header of autotest_test.py.
+type: test
+title: Unit tests for Autotest
+summary: Unittest suite covering file matching, target finding, filters, and test execution, using pyfakefs and mocks to simulate the source tree.

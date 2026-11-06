@@ -1,0 +1,4 @@
+# Docerion header of get_test_health.py.
+type: script
+title: Get Java test health from a Git repository
+summary: Command-line script that extracts Java test health data from a Git repository and exports it as newline-delimited JSON.

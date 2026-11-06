@@ -1,0 +1,4 @@
+# Docerion header of profile-chrome-startup.sh.
+type: script
+title: profile-chrome-startup.sh
+summary: Shell wrapper around adb_profile_chrome_startup that runs Chrome startup tracing repeatedly with options for cold/warm starts, logcat capture, meminfo dumps, and trace analysis.

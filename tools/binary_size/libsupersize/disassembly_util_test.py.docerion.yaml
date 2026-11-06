@@ -1,0 +1,4 @@
+# Docerion header of disassembly_util_test.py.
+type: test
+title: Disassembly utility tests
+summary: Unit tests for symbol sampling and unified diff creation, including selection from changed files and scoring behavior.

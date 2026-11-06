@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Autotest CLI options and configuration
+# summary: Defines the AutotestConfig dataclass, click command-line options, and custom help formatting for the autotest tool.
+# ---
+
 import click
 import functools
 import os

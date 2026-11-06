@@ -3,6 +3,13 @@
 // found in the LICENSE file.
 
 // @ts-check
+
+// ---docerion
+// type: source
+// title: Supersize viewer service worker
+// summary: Service worker for the libsupersize viewer that precaches the viewer's assets on install, deletes old caches on activation, and serves cached responses to fetch requests.
+// ---
+
 'use strict';
 
 const cacheName = '{{cache_hash}}';

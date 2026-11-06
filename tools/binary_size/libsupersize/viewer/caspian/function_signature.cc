@@ -5,6 +5,12 @@
 // Much of this logic is duplicated at
 // tools/binary_size/libsupersize/function_signature.py.
 
+// ---docerion
+// type: source
+// title: Function signature parsing implementation
+// summary: Implements parsing of Java and C++ symbol names into class, member and template parts for the Caspian binary size viewer, mirroring logic in the Python version.
+// ---
+
 #include <stddef.h>
 
 #include <algorithm>

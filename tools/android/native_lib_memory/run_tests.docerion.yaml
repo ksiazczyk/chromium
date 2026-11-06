@@ -1,0 +1,4 @@
+# Docerion header of run_tests.
+type: script
+title: Unit test runner for native library memory tools
+summary: Discovers and runs all *_unittest.py suites in the directory with unittest, exiting nonzero when tests fail.

@@ -1,0 +1,4 @@
+# Docerion header of obj_analyzer.py.
+type: source
+title: Bulk object file analyzer
+summary: Analyzes .o files in bulk via process pools to collect symbol names and locate string literals in ELF rodata.

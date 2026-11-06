@@ -1,6 +1,13 @@
 # Copyright 2022 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: DEX symbol deobfuscation utilities
+# summary: Parses ProGuard .mapping files to restore original DEX class names from obfuscated ones.
+# ---
+
 """Utilities to restore DEX symbols name from obfuscated names."""
 
 import functools

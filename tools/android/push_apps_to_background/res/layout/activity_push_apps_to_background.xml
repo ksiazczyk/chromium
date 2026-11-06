@@ -4,6 +4,12 @@
      found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Push apps to background activity layout
+summary: Android layout XML for the push apps to background activity, showing a centered TextView with the tool's message string.
+-->
+
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/container"

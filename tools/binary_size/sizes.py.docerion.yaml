@@ -1,0 +1,4 @@
+# Docerion header of sizes.py.
+type: source
+title: Chrome Binary Size Extraction Tool
+summary: Extracts size information for built Chrome targets on Mac, Linux, and Android and emits results in chart JSON format.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tree builder implementation for the binary size viewer
+// summary: Implements TreeBuilder, which groups symbols into a tree by path or component for the Caspian viewer in normal and diff modes.
+// ---
+
 #include "tools/binary_size/libsupersize/viewer/caspian/tree_builder.h"
 
 #include <algorithm>

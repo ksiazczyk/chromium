@@ -28,6 +28,12 @@
 // cflags_cc in an appropriate part of build/config/BUILD.gn. Make sure to
 // rebuild the project (repeat step 2b) after changing the build config.
 
+// ---docerion
+// type: source
+// title: ASTRewriter.cpp
+// summary: 'Clang tool that rewrites C++ code using AST matchers, replacing `b ? "true" : "false"` expressions with calls to base::ToString.'
+// ---
+
 #include <string>
 
 #include "OutputHelper.h"

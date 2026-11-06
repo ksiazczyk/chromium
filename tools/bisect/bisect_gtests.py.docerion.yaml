@@ -1,0 +1,4 @@
+# Docerion header of bisect_gtests.py.
+type: source
+title: Script to bisect gtest-based test failures
+summary: Automates git bisect for gtest failures by syncing, building, and running a test command between good and bad revisions until the culprit commit is found.

@@ -1,3 +1,9 @@
+---
+type: reference
+title: Dex Symbols
+summary: Explains how Java and dex entries become .dex symbols, from class-to-source mappings at build time to apkanalyzer use during supersize archive.
+---
+
 # Dex Symbols
 
 Dex symbols are those with a `section` of:

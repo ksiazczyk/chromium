@@ -1,6 +1,13 @@
 # Copyright 2020 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Autotest command-line entry point
+# summary: Click-based CLI that resolves test files, directories, or names to build targets, builds them, and runs the tests with generated filters and passthrough arguments.
+# ---
+
 """Builds and runs a test by filename.
 
 This script finds the appropriate test suites for the specified test files,

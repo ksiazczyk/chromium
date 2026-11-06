@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: source
+// title: 'ps_ext: extended ps tool with JSON output'
+// summary: C tool that reads /proc and prints CPU, memory, and per-process statistics as JSON for scripts gathering OS stats.
+// ---
+
 #include <dirent.h>
 #include <stdbool.h>
 #include <stdio.h>

@@ -1,3 +1,9 @@
+---
+type: reference
+title: SuperSize File Format
+summary: Specifies the .size and .sizediff file formats, covering headers, path and component lists, symbol encoding, numeric values and disassembly sections.
+---
+
 # File Format
 
 [TOC]

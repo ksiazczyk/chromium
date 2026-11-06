@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the tree builder
+// summary: Tests TreeBuilder tree construction with id path, component, and template lenses using gtest fixtures.
+// ---
+
 #include "tools/binary_size/libsupersize/viewer/caspian/tree_builder.h"
 
 #include <stdint.h>

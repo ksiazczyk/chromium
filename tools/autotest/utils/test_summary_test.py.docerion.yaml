@@ -1,0 +1,4 @@
+# Docerion header of test_summary_test.py.
+type: test
+title: Unit tests for test summary parsing
+summary: Unittest coverage for TestSummary string output, ParseTests handling of gtest JSON results, and ParseWebTestResults edge cases.

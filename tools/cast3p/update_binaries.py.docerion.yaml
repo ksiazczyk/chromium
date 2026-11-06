@@ -1,0 +1,4 @@
+# Docerion header of update_binaries.py.
+type: script
+title: Update Cast binaries from Cloud Storage
+summary: Downloads Cast Core and Cast Web Runtime prebuilt archives from Google Cloud Storage when the pinned versions differ from the installed signature files.

@@ -1,0 +1,4 @@
+# Docerion header of checkbins.py.
+type: script
+title: 'checkbins: Windows PE binary security flag checker'
+summary: Checks EXE and DLL files in a directory for required security flags such as /NXCOMPAT, /DYNAMICBASE, /SAFESEH and /cetcompat, using FILES.cfg and pefile.

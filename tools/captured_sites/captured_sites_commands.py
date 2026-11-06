@@ -1,6 +1,13 @@
 # Copyright 2021 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Captured Sites Command Builder
+# summary: Builds the shell commands for building, recording, replaying, and running captured sites tests for the autofill and password suites.
+# ---
+
 """Runs captured sites framework recording and tests.
 
   $ tools/captured_sites/control.py [command] [arguments]

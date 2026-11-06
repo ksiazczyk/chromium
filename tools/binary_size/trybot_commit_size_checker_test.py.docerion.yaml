@@ -1,0 +1,4 @@
+# Docerion header of trybot_commit_size_checker_test.py.
+type: test
+title: Trybot Commit Size Checker Tests
+summary: Unit tests for the trybot commit size checker, covering ForTest symbol extraction from ProGuard mappings and mutable constant size deltas.

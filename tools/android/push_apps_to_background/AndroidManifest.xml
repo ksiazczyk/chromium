@@ -4,6 +4,12 @@
  * found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Android manifest for the PushAppsToBackground APK
+summary: Android manifest declaring the org.chromium.push_apps_to_background package and its launcher activity for the test APK.
+-->
+
 <manifest
     xmlns:android="http://schemas.android.com/apk/res/android"
     package="org.chromium.push_apps_to_background"

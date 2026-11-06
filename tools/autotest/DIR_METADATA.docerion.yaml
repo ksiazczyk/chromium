@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Autotest directory metadata
+summary: Declares the Chromium monorail project, bug component, team email, and Buganizer tracker for the tools/autotest directory.

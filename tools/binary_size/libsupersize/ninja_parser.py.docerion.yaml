@@ -1,0 +1,4 @@
+# Docerion header of ninja_parser.py.
+type: source
+title: Ninja build file parser
+summary: Extracts source file information from .ninja files, mapping object and library outputs to their sources.

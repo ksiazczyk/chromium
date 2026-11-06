@@ -1,6 +1,13 @@
 # Copyright 2020 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Printf debugging helpers
+# summary: Small helpers for printf-style debugging that write plain or colored messages to stderr.
+# ---
+
 """Simple utilities for printf debugging."""
 
 import sys

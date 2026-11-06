@@ -1,0 +1,4 @@
+# Docerion header of jsconfig.json.
+type: config
+title: TypeScript compiler options for JS checking
+summary: Compiler configuration enabling checkJs for the viewer's static JavaScript files, with DOM, ES2020, and webworker libraries and an exclusion for caspian_web.js.

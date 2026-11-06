@@ -1,0 +1,4 @@
+# Docerion header of metrics-scraper.py.
+type: script
+title: Captured Sites Metrics Scraper
+summary: Runs autofill captured site tests with features enabled and disabled, then diffs the collected histogram metrics.

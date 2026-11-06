@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Touch Replay Tool Implementation
+// summary: C++ implementation of the tool that records and replays Android touch input events, aiming for consistent replays rather than exact reproduction of the original sequence.
+// ---
+
 #include <fcntl.h>
 #include <limits.h>
 #include <linux/input-event-codes.h>

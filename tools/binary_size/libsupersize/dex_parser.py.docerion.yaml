@@ -1,0 +1,4 @@
+# Docerion header of dex_parser.py.
+type: source
+title: DEX file parser
+summary: Optimistically parses DEX files, exposing a DexFile class with access to header, string, type, field, method and class items without validation.

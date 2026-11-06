@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: CMake build for the base_bind_rewriters tool
+# summary: CMake build file that defines the base_bind_rewriters executable and links it against the required LLVM and Clang libraries.
+# ---
+
 set(LLVM_LINK_COMPONENTS
   BitReader
   MCParser

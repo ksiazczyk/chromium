@@ -1,0 +1,4 @@
+# Docerion header of milestone_apk_sizes.py.
+type: source
+title: Milestone APK Size Measurement Tool
+summary: Downloads stable Chrome and WebView APK and AAB artifacts per milestone and measures install, transfer, method count, and DFM sizes into CSV metrics.

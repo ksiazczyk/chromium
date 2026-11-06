@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Unit tests for checkteamtags
+# summary: Unit tests covering validation of missing, duplicate and malformed TEAM and COMPONENT tags in OWNERS files using mocked inputs.
+# ---
+
 import json
 import unittest
 import unittest.mock as mock

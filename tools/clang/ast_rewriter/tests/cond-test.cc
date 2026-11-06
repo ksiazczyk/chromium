@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Conditional operator test cases
+// summary: C++ test input for the clang AST rewriter covering conditional expressions with string literals, char pointers and std::string results.
+// ---
+
 #pragma clang diagnostic ignored "-Wunused-variable"
 
 #include <string>

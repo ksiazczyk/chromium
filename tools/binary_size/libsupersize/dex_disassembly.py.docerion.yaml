@@ -1,0 +1,4 @@
+# Docerion header of dex_disassembly.py.
+type: source
+title: DEX disassembly via R8
+summary: Obtains DEX disassembly for symbols using R8 and normalizes lines to be diff-friendly.

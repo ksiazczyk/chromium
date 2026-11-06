@@ -4,6 +4,12 @@
 
 // For cs.chromium.org
 
+// ---docerion
+// type: source
+// title: Content script for cs.chromium.org
+// summary: Content script that tracks the clicked source line on Chromium Code Search pages and reports the line number to the background script.
+// ---
+
 let line = 0;
 
 document.addEventListener('contextmenu', (event) => {

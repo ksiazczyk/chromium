@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Autotest code owners
+summary: Lists the people responsible for reviewing changes to the Autotest tool.

@@ -1,0 +1,4 @@
+# Docerion header of integration_test.py.
+type: test
+title: SuperSize integration tests
+summary: End-to-end tests that run the supersize tool against mock APK and linker map data and compare output with golden files.

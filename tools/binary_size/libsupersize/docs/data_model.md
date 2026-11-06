@@ -1,3 +1,12 @@
+---
+type: reference
+title: SuperSize Data Model
+summary: Describes the SuperSize data model of symbols, the Python API for SizeInfo, Symbol and diffs, and concepts like aliases, path normalization and overhead symbols.
+relations:
+  - references /tools/binary_size/libsupersize/docs/diffs.md
+  - documents /tools/binary_size/libsupersize/models.py
+---
+
 # Data Model
 
 The SuperSize data model is a sorted flat list of symbols. Using a flat list is

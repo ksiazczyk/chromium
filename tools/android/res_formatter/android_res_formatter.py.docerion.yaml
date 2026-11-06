@@ -1,0 +1,4 @@
+# Docerion header of android_res_formatter.py.
+type: source
+title: Android resource XML formatter
+summary: Formats Android resource XML files, enforcing indentation, attribute ordering, self-closing tags and line length rules.

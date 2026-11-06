@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OutputHelper.cpp
+// summary: Implements OutputHelper's Replace, Delete, and Wrap methods that emit substitution directives for clang tooling edits.
+// ---
+
 #include "OutputHelper.h"
 
 void OutputHelper::Delete(const clang::CharSourceRange& replacement_range,

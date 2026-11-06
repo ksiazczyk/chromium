@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: CMakeLists.txt
+# summary: CMake build file that defines the ast_rewriter executable and links it against the clang libraries it needs.
+# ---
+
 set(LLVM_LINK_COMPONENTS
   BitReader
   MCParser

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OutputHelper.h
+// summary: Declares the OutputHelper class that emits substitution directives for apply_edits.py and tracks headers to add to modified files.
+// ---
+
 #ifndef TOOLS_CLANG_AST_REWRITER_OUTPUTHELPER_H_
 #define TOOLS_CLANG_AST_REWRITER_OUTPUTHELPER_H_
 

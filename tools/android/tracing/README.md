@@ -1,3 +1,13 @@
+---
+type: readme
+title: Tracing related scripts
+summary: Documents the folder's Chrome startup tracing scripts, their options, and how profiling and trace extraction work together for numerical analysis.
+relations:
+  - documents /tools/android/tracing/profile-chrome-startup.sh
+  - references /build/android/adb_profile_chrome_startup
+  - documents /tools/android/tracing/systrace-extract-startup.py
+---
+
 Tracing related scripts
 =======================
 

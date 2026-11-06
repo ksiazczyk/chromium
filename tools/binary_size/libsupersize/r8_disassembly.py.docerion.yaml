@@ -1,0 +1,4 @@
+# Docerion header of r8_disassembly.py.
+type: source
+title: R8 disassembly parser
+summary: Parses R8 disassembly output into DEX class and method information, including bytecode, for binary size analysis.

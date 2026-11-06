@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Caspian GN build configuration
+summary: Defines build targets for the Caspian library, unit tests, CLI executable, and WebAssembly binary.

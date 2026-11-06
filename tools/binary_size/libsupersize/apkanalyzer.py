@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: apkanalyzer runner for DEX symbols
+# summary: Runs Android's apkanalyzer to parse DEX packages in an APK and builds DEX symbols with deobfuscation and string literal handling.
+# ---
+
 """Runs apkanalyzer to parse dex files in an apk.
 
 Assumes that apk_path.mapping and apk_path.jar.info is available.

@@ -1,0 +1,4 @@
+# Docerion header of code_pages_pss.py.
+type: script
+title: Print PSS of Chrome code pages on Android
+summary: Prints the total proportional set size attributed to Chrome's code pages across the processes of a given app on a rooted Android device.

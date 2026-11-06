@@ -3,6 +3,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Java test health extraction utilities
+# summary: Parses Java test files with javalang to extract package names, disabled and conditionally-disabled test counts, and classification tags.
+# ---
+
 import collections
 import dataclasses
 import pathlib

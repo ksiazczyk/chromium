@@ -1,3 +1,11 @@
+---
+type: readme
+title: Tools for ChromeOS development on linux
+summary: Describes the tools in this directory and how to use run_cros.sh to launch ash-chrome on linux, including command-line options and environment variables.
+relations:
+  - documents /tools/chromeos/run_cros.sh
+---
+
 # Tools for ChromeOS development on linux.
 
 This directory contains tools that are useful when developing ChromeOS UI on

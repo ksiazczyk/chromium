@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens implementations
+// summary: Implements lenses that map symbols to parent names by id path, container, component, template, and generated-code categories such as protobuf, Mojo and Blink.
+// ---
+
 #include "tools/binary_size/libsupersize/viewer/caspian/lens.h"
 
 #include <string>

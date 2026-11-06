@@ -1,6 +1,13 @@
 # Copyright 2021 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Symbol data quality checks
+# summary: Runs quality checks on collected symbols to detect missing or misattributed data per container and section.
+# ---
+
 """Checks that collected symbols are not missing things."""
 
 import logging

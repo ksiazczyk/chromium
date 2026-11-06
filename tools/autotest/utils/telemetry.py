@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Telemetry span attribute recording for autotest
+# summary: Records main, build, and run phase attributes such as targets, filters, and failed tests to OpenTelemetry spans for Googler users.
+# ---
+
 import os
 import sys
 import json

@@ -1,0 +1,4 @@
+# Docerion header of linker_map_parser.py.
+type: source
+title: Linker map file parser
+summary: Parses linker map files from gold and lld linkers, including ThinLTO variants, into section ranges and symbols.

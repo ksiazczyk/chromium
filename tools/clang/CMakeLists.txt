@@ -1,3 +1,9 @@
+# ---docerion
+# type: source
+# title: CMake build for Chromium clang tools
+# summary: CMake file that builds Chromium's clang tools via LLVM's build system and defines test, install, and per-tool subdirectory targets.
+# ---
+
 cmake_minimum_required(VERSION 2.8.8)
 project(ChromeExtras)
 enable_testing()

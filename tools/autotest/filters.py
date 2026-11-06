@@ -1,6 +1,13 @@
 # Copyright 2026 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Test filter builders
+# summary: Builds gtest, Java, and pref-mapping test filter strings from file names and an optional line number, delegating native filters to make_gtest_filter.py.
+# ---
+
 import os
 import sys
 

@@ -1,0 +1,4 @@
+# Docerion header of dwarfdump_test.py.
+type: test
+title: Dwarfdump parsing tests
+summary: Unit tests for parsing dwarfdump output into address ranges, covering contiguous, non-contiguous and empty compile units.

@@ -1,0 +1,4 @@
+# Docerion header of main.py.
+type: script
+title: SuperSize command-line entry point
+summary: Command-line tool to collect, archive, and analyze Chrome binary size, with diff and save-diff subcommands.

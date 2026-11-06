@@ -1,0 +1,4 @@
+# Docerion header of function_signature_test.py.
+type: test
+title: Function signature parser unit tests
+summary: Unit tests verifying parsing of Java and C++ function signatures, including templates, operators, and class merging cases.

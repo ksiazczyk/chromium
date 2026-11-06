@@ -1,2 +1,8 @@
+# ---docerion
+# type: config
+# title: Ruff configuration for test health tools
+# summary: Ruff lint configuration that extends the repository-wide settings and sets the indentation width for the test health tools.
+# ---
+
 extend = "../../.ruff.toml"
 indent-width = 4

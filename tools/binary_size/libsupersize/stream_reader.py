@@ -1,6 +1,13 @@
 # Copyright 2022 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Byte stream reader utilities
+# summary: Reads little-endian values, LEB128 integers, and MUTF-8 strings from byte arrays using a seekable cursor.
+# ---
+
 """Utilities to read values from a bytearray."""
 
 import struct

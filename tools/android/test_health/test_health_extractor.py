@@ -3,6 +3,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Test Health Extractor
+# summary: Walks a Git repository to collect test health data for Java test files, including disabled test counts, tags, and Git head information.
+# ---
+
 import dataclasses
 import datetime as dt
 import functools

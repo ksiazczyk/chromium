@@ -3,6 +3,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Test Health Exporter
+# summary: Exports Android test health information as newline-delimited JSON files suitable for importing into BigQuery.
+# ---
+
 import json
 import logging
 import pathlib

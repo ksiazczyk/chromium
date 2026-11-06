@@ -1,6 +1,13 @@
 # Copyright 2026 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Autotest constants and test target allowlist
+# summary: Defines source paths, debug mode, and an allowlist of test suite targets whose suffixes would otherwise not match test targets.
+# ---
+
 import os
 import re
 import sys

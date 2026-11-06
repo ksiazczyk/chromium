@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Lens unit tests
+// summary: Unit tests verifying GeneratedLens categorization of symbols such as RegisterJNI, protocol buffers, Mojo, DevTools and Blink bindings.
+// ---
+
 #include "tools/binary_size/libsupersize/viewer/caspian/lens.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

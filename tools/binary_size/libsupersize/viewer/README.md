@@ -1,3 +1,13 @@
+---
+type: readme
+title: SuperSize Tiger Viewer
+summary: Documents the webapp for viewing .size and .sizediff files, including how to run a local instance, deploy to Firebase, and an overview of the code and type checking.
+relations:
+  - references /tools/binary_size/generate_milestone_reports.py
+  - references /tools/binary_size/generate_official_build_report.py
+  - references /tools/binary_size/libsupersize/viewer/caspian/README.md
+---
+
 # SuperSize Tiger Viewer
 
 Webapp for viewing `.size` and `.sizediff` files.

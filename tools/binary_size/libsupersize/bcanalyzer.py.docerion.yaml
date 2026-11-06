@@ -1,0 +1,4 @@
+# Docerion header of bcanalyzer.py.
+type: source
+title: LLVM bitcode analyzer wrapper
+summary: Runs llvm-bcanalyzer on bitcode files to extract string literals for size analysis, and can run standalone.

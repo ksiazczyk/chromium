@@ -1,0 +1,4 @@
+# Docerion header of diagnose_bloat.py.
+type: script
+title: Find the cause of binary size bloat between commits
+summary: Builds and measures revisions with resource_sizes.py and supersize to report what causes binary size bloat between commits on Android and Linux.

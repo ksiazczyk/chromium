@@ -1,0 +1,4 @@
+# Docerion header of checkteamtags.py.
+type: script
+title: Check TEAM and COMPONENT tags in OWNERS files
+summary: Command-line tool that validates OWNERS files have well-formatted and consistent TEAM and COMPONENT tags against the current component mapping.

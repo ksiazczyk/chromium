@@ -1,3 +1,11 @@
+---
+type: reference
+title: SuperSize Diffs
+summary: Describes the DeltaSizeInfo diff algorithm and its matching keys, plus how padding and symbol aliases are handled when diffing builds.
+relations:
+  - references /tools/binary_size/libsupersize/docs/file_format.md
+---
+
 # SuperSize Diffs
 
 Diffs are represented by a `DeltaSizeInfo`, where each `DeltaSymbol` contains a

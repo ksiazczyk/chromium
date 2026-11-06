@@ -1,0 +1,4 @@
+# Docerion header of git_metadata_utils_unittest.py.
+type: test
+title: Unit tests for git_metadata_utils
+summary: Unit tests covering git_metadata_utils, including src path resolution and HEAD commit formatting and error handling.

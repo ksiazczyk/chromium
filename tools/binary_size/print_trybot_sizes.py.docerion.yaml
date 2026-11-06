@@ -1,0 +1,4 @@
+# Docerion header of print_trybot_sizes.py.
+type: source
+title: Trybot Binary Size Printer
+summary: Prints android-binary-size trybot results for a commit or commit range by querying Buildbucket through the bb tool.

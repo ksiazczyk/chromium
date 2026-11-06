@@ -1,3 +1,13 @@
+---
+type: readme
+title: Open My Editor (OME)
+summary: Explains the OME Chrome extension for opening files from Chromium Code Search, Code Review and Build in a local editor, with installation steps and how it works.
+relations:
+  - references /tools/chrome_extensions/open_my_editor/images/cr.png
+  - references /tools/chrome_extensions/open_my_editor/images/cs.png
+  - references /tools/chrome_extensions/open_my_editor/images/open-by-link-cr.png
+---
+
 # Open My Editor (OME)
 
 OME gives you a context menu for opening files in your editor on

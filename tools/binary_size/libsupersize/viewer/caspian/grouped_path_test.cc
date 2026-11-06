@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GroupedPath unit tests
+// summary: Unit tests verifying parent chains, top-level path detection, comparison ordering and short names for GroupedPath.
+// ---
+
 #include "tools/binary_size/libsupersize/viewer/caspian/grouped_path.h"
 
 #include <stdint.h>

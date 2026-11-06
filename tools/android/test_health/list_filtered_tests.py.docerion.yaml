@@ -1,0 +1,4 @@
+# Docerion header of list_filtered_tests.py.
+type: script
+title: List filtered tests as CSV
+summary: Collects tests excluded by *_apk.filter files under testing/buildbot/filters and writes them with their builders to a CSV.

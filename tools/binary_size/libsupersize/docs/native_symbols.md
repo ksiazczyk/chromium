@@ -1,3 +1,9 @@
+---
+type: reference
+title: Native Symbols
+summary: Describes the linker_map, dwarf and sections modes SuperSize uses to break native ELF binaries into symbols, along with data sources and normalization.
+---
+
 # Native Symbols
 
 This doc describes how SuperSize breaks down native binaries into symbols.

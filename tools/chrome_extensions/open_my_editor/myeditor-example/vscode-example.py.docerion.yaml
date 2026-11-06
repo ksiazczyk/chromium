@@ -1,0 +1,4 @@
+# Docerion header of vscode-example.py.
+type: script
+title: VS Code example wrapper script
+summary: Example wrapper script that starts VS Code and opens one or more files at a given line for use with the open_my_editor extension.

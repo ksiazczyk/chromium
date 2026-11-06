@@ -1,0 +1,4 @@
+# Docerion header of diff_test.py.
+type: test
+title: Diff logic tests
+summary: Unit tests for the symbol diffing logic, covering added, removed and changed symbols across sections and containers.

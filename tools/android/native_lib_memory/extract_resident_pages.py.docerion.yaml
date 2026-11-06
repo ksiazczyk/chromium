@@ -1,0 +1,4 @@
+# Docerion header of extract_resident_pages.py.
+type: script
+title: Extract native library resident pages to JSON
+summary: Reads the native library residency file from an Android device and converts it into a residency.json file of per-page resident flags.

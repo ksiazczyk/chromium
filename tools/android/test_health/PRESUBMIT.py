@@ -1,6 +1,13 @@
 # Copyright 2021 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: ci
+# title: Presubmit checks for test health
+# summary: Presubmit script that recursively runs the directory's Python unit tests on CL upload when the javalang dependency is available.
+# ---
+
 """Top-level presubmit script for test_health.
 
 See http://dev.chromium.org/developers/how-tos/depottools/presubmit-scripts

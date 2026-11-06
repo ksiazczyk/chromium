@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: C++ symbol demangling utilities
+# summary: Demangles C++ symbol names via cxxfilt and strips LLVM promoted global name suffixes.
+# ---
+
 """Utilities for demangling C++ symbols."""
 
 import collections

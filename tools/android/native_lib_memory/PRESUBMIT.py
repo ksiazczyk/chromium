@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: ci
+# title: Presubmit checks for native_lib_memory
+# summary: Runs the directory's Python unit tests via run_tests on non-Windows platforms as part of depot_tools presubmit checks.
+# ---
+
 """Top-level presubmit script for native_lib_memory.
 
 See http://dev.chromium.org/developers/how-tos/depottools/presubmit-scripts

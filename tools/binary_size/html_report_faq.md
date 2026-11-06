@@ -1,3 +1,11 @@
+---
+type: reference
+title: Supersize HTML Report FAQ
+summary: Answers common questions about the Supersize HTML report, covering colors, symbol breakdowns, keyboard shortcuts, small symbols, and filters.
+relations:
+  - references /tools/binary_size/README.md
+---
+
 # Frequently Asked Questions
 
 [TOC]
