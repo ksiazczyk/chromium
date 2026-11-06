@@ -1,0 +1,4 @@
+# Docerion header of manifest_long_icon_murmur2_hash.json.
+type: test
+title: Manifest test app with long murmur2 hash icon
+summary: Web app manifest test fixture declaring a 192x192 PNG icon whose file name has a long murmur2 hash, for banner test cases.

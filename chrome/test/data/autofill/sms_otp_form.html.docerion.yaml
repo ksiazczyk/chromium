@@ -1,0 +1,4 @@
+# Docerion header of sms_otp_form.html.
+type: test
+title: SMS OTP form test page
+summary: Minimal form with an OTP input used for SMS one-time-code autofill testing.

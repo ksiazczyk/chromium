@@ -1,0 +1,4 @@
+# Docerion header of service_worker.js.mock-http-headers.
+type: test
+title: Mock HTTP headers for the banner test service worker
+summary: Mock HTTP response headers serving service_worker.js with status 200 and a text/javascript content type during tests.

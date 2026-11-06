@@ -1,0 +1,4 @@
+# Docerion header of manifest_prefer_related_chrome_app.json.
+type: test
+title: Manifest preferring a Chrome web store app
+summary: Test manifest with prefer_related_applications pointing to a Chrome web store app that is not installed.

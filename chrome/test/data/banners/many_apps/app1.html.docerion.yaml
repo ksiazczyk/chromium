@@ -1,0 +1,4 @@
+# Docerion header of app1.html.
+type: test
+title: App1 banner test page
+summary: Test HTML page for App1 that links its web manifest and registers the banners service worker for add-to-homescreen banner tests.

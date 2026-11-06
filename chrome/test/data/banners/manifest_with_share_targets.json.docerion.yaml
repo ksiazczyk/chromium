@@ -1,0 +1,4 @@
+# Docerion header of manifest_with_share_targets.json.
+type: test
+title: Manifest with share targets
+summary: Test manifest defining a share_target with action, method, and params for web app share target tests.

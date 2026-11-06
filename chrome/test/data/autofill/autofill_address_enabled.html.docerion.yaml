@@ -1,0 +1,4 @@
+# Docerion header of autofill_address_enabled.html.
+type: test
+title: AutofillAddressEnabled
+summary: Test page with an address form whose fields carry autocomplete attributes, used for autofill address testing.

@@ -1,0 +1,4 @@
+# Docerion header of autofill_confirmemail_form.html.
+type: test
+title: Autofill Confirm Email Form
+summary: Test form with email and confirm-email fields to verify both are filled by a single profile selection.

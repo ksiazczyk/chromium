@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Web app manifest for nested app banner test
+summary: Web app manifest defining the name, icons, start URL, scope, standalone display and landscape orientation for the nested app test.

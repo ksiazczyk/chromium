@@ -1,0 +1,4 @@
+# Docerion header of manifest_for_ml_metrics.json.
+type: test
+title: Manifest for ML test metrics
+summary: Web app manifest with screenshots, icons and theme colors used in tests that collect ML promotion metrics.

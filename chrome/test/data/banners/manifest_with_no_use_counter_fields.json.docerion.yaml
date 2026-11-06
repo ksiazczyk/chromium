@@ -1,0 +1,4 @@
+# Docerion header of manifest_with_no_use_counter_fields.json.
+type: test
+title: Manifest with no use counter fields
+summary: Minimal test manifest containing only a name, used to exercise manifests that lack use counter fields.

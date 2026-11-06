@@ -1,0 +1,4 @@
+# Docerion header of manifest_with_id.json.
+type: test
+title: Test manifest with an app id
+summary: Web app manifest fixture that specifies an app id with fullscreen display and multiple icons.

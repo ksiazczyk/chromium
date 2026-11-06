@@ -1,0 +1,4 @@
+# Docerion header of background_sync_test.html.
+type: test
+title: Background Sync API instrumentation test page
+summary: Test page for the BackgroundSyncTest instrumentation test that registers and unregisters sync and periodic sync events and reports results via the tab title.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cast mirroring performance browser test script
+// summary: TypeScript script that plays a 30-second audio buffer and draws a frame-number barcode on a canvas in sync with audio output for cast mirroring performance testing.
+// ---
+
 /**
  * Verify |value| is truthy.
  * @param value A value to check for truthiness. Note that this

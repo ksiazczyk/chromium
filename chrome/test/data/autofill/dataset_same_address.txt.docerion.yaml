@@ -1,0 +1,4 @@
+# Docerion header of dataset_same_address.txt.
+type: test
+title: Same-address profile dataset for autofill tests
+summary: Pipe-delimited address profiles that should merge into fewer profiles in the MergeAggregatedProfilesWithSameAddress autofill test.

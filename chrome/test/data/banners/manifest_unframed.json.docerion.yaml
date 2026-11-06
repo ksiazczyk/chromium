@@ -1,0 +1,4 @@
+# Docerion header of manifest_unframed.json.
+type: test
+title: Test manifest with unframed display override
+summary: Web app manifest fixture using the unframed display override for display mode testing.

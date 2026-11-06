@@ -1,0 +1,4 @@
+# Docerion header of duplicate_profiles_test.html.
+type: test
+title: Duplicate profiles autofill test form
+summary: Autofill form page whose element names match dataset_duplicate-profiles.txt for testing duplicate profile handling.

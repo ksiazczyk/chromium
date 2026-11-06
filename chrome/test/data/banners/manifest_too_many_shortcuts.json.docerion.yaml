@@ -1,0 +1,4 @@
+# Docerion header of manifest_too_many_shortcuts.json.
+type: test
+title: Test manifest with too many shortcuts
+summary: Web app manifest fixture declaring five shortcuts to test handling of shortcut limits.

@@ -1,0 +1,4 @@
+# Docerion header of cart.html.mock-http-headers.
+type: test
+title: Cart page mock HTTP headers
+summary: Mock HTTP response headers for cart.html declaring a 200 status and fenced-frame loading mode support.

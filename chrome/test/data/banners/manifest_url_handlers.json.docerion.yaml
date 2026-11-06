@@ -1,0 +1,4 @@
+# Docerion header of manifest_url_handlers.json.
+type: test
+title: Test manifest with URL handlers
+summary: Web app manifest fixture declaring several url_handlers origins, including wildcard patterns.

@@ -1,0 +1,4 @@
+# Docerion header of manifest_maskable.json.
+type: test
+title: Manifest test app with any and maskable icons
+summary: Web app manifest test fixture with a 192x192 any-purpose icon and a 144x144 maskable icon for banner tests.

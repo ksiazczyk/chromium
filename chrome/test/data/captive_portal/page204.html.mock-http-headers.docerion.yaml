@@ -1,0 +1,4 @@
+# Docerion header of page204.html.mock-http-headers.
+type: test
+title: Mock HTTP headers for page204.html
+summary: Mock HTTP response headers returning 204 No Content for page204.html.

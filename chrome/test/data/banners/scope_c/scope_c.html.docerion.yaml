@@ -1,0 +1,4 @@
+# Docerion header of scope_c.html.
+type: test
+title: Test page registering a service worker with a narrower scope
+summary: HTML test page that registers a service worker scoped to scope_c to verify banner behavior with a narrower worker scope.

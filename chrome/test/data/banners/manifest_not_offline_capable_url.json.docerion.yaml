@@ -1,0 +1,4 @@
+# Docerion header of manifest_not_offline_capable_url.json.
+type: test
+title: Manifest test app with not offline capable start URL
+summary: Web app manifest test fixture whose start_url carries a query parameter, making it not offline capable, with icons up to 512x512.

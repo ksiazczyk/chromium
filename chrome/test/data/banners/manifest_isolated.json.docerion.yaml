@@ -1,0 +1,4 @@
+# Docerion header of manifest_isolated.json.
+type: test
+title: Manifest for isolated web app test page
+summary: Web app manifest with root scope and a permissions policy granting USB and direct sockets for the isolated test page.

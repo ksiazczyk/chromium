@@ -1,0 +1,4 @@
+# Docerion header of shadowdom-no-inference.html.
+type: test
+title: Shadow DOM autofill test page without inference
+summary: Test page with forms nested in shadow DOM to exercise autofill without field type inference.

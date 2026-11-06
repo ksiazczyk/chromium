@@ -1,0 +1,4 @@
+# Docerion header of manifest_bad_icon.json.
+type: test
+title: Manifest fixture with a bad icon
+summary: Web app manifest referencing bad_icon.png so tests can exercise icon fetch or decode failures.

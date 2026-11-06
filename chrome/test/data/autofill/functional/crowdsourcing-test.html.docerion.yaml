@@ -1,0 +1,4 @@
+# Docerion header of crowdsourcing-test.html.
+type: test
+title: Autofill Crowdsourcing Test
+summary: HTML page with a simple form containing first name, last name, and email fields, used as a test page for autofill crowdsourcing.

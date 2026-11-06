@@ -1,0 +1,4 @@
+# Docerion header of launcher-icon-max-age.png.mock-http-headers.
+type: test
+title: Mock HTTP headers with cache max-age for launcher icon
+summary: Mock HTTP response headers serving launcher-icon-max-age.png with a long cache max-age for banner tests.

@@ -1,0 +1,4 @@
+# Docerion header of page511.html.mock-http-headers.
+type: test
+title: Mock HTTP headers for page511.html
+summary: Mock HTTP response headers returning 511 Network Authentication Required for page511.html.

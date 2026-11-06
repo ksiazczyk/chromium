@@ -1,0 +1,4 @@
+# Docerion header of background_fetch_iframe_nowait.html.
+type: test
+title: Background Fetch iframe nowait test page
+summary: Test page for an iframe that starts a Background Fetch without awaiting it and immediately posts ok to its parent window.

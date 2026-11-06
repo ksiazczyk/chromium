@@ -1,0 +1,4 @@
+# Docerion header of autofill_creditcard_form.html.
+type: test
+title: Autofill Credit Card Test Form
+summary: HTML credit card form with name, number and expiration fields used for testing autofill preferences.

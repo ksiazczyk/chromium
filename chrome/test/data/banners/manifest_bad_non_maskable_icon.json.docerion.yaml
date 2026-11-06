@@ -1,0 +1,4 @@
+# Docerion header of manifest_bad_non_maskable_icon.json.
+type: test
+title: Manifest fixture with a bad non-maskable icon
+summary: Web app manifest pairing a maskable launcher icon with a bad icon lacking a purpose, for icon purpose handling tests.

@@ -1,0 +1,4 @@
+# Docerion header of fullscreen.json.
+type: test
+title: Fullscreen display test manifest
+summary: Web app manifest with fullscreen display and landscape orientation used in banner tests.

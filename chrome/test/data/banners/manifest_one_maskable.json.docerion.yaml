@@ -1,0 +1,4 @@
+# Docerion header of manifest_one_maskable.json.
+type: test
+title: Manifest test app with one maskable icon
+summary: Web app manifest test fixture declaring a single 512x512 PNG icon with maskable purpose.

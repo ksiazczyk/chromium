@@ -1,0 +1,4 @@
+# Docerion header of manifest_data_url_icon.json.
+type: test
+title: Manifest fixture with a data URL icon
+summary: Web app manifest whose icon is an inline base64 data URL, used to test data URL icon support.

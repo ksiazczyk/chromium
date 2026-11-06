@@ -1,0 +1,4 @@
+# Docerion header of types_of_cheese.txt.
+type: test
+title: Types of cheese download fixture
+summary: Plain-text fixture listing cheese types, used as the downloaded resource in Background Fetch tests.

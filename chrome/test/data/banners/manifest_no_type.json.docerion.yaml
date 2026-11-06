@@ -1,0 +1,4 @@
+# Docerion header of manifest_no_type.json.
+type: test
+title: Manifest test app with icons lacking type
+summary: Web app manifest test fixture listing launcher icons at several sizes without the type field.

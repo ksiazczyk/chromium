@@ -1,0 +1,4 @@
+# Docerion header of manifest_webp_icon.json.
+type: test
+title: Test manifest with a WebP icon
+summary: Web app manifest fixture referencing a 192x192 WebP icon to test WebP icon support.

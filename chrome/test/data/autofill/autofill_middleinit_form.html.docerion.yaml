@@ -1,0 +1,4 @@
+# Docerion header of autofill_middleinit_form.html.
+type: test
+title: Autofill Test Middle Initial Form
+summary: Autofill test form verifying that a middle initial is distinguished in a name, alongside address, email, and phone fields.

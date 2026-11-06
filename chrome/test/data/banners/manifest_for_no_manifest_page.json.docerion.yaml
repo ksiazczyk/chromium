@@ -1,0 +1,4 @@
+# Docerion header of manifest_for_no_manifest_page.json.
+type: test
+title: Manifest pointing to a page without a manifest
+summary: Web app manifest whose start URL is a page lacking its own manifest, used in add-to-homescreen banner tests.

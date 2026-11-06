@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for cast mirroring performance test files
+summary: Defines GN targets that compile the TypeScript browser test and move its HTML and CSS files into the generated output directory for serving.

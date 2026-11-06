@@ -1,0 +1,4 @@
+# Docerion header of page_with_object_html.html.
+type: test
+title: Page embedding a HTML via object
+summary: Test page for back/forward cache that embeds an HTML document using an object element.

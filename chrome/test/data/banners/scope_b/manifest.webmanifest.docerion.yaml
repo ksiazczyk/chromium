@@ -1,0 +1,4 @@
+# Docerion header of manifest.webmanifest.
+type: test
+title: Web app manifest for scope_b banner test
+summary: Web app manifest test fixture defining the scope_b app with an icon, scope, start URL and standalone display for banner tests.

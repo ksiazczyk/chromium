@@ -1,0 +1,4 @@
+# Docerion header of manifest_with_start_url.json.
+type: test
+title: Manifest with start URL
+summary: Test manifest with multiple launcher icons and a start_url pointing to a different test page.

@@ -1,0 +1,4 @@
+# Docerion header of download_file.img.
+type: test
+title: Bruschetta test download file fixture
+summary: Placeholder .img file used as a download target in Bruschetta browser tests, whose contents are intentionally irrelevant.

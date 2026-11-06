@@ -1,0 +1,4 @@
+# Docerion header of page_with_embed_pdf.html.
+type: test
+title: Page embedding a PDF via embed
+summary: Test page for back/forward cache that embeds a PDF document using an embed element.

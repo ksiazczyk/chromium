@@ -1,0 +1,4 @@
+# Docerion header of service_worker_no_fetch_handler.js.
+type: test
+title: Service worker without fetch handler
+summary: Intentionally empty service worker fixture for banner tests that need no fetch handler.

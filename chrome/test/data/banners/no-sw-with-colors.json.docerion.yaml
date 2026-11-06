@@ -1,0 +1,4 @@
+# Docerion header of no-sw-with-colors.json.
+type: test
+title: No service worker colors manifest
+summary: Web app manifest test fixture with yellow background and lime theme colors, fullscreen display and portrait orientation.

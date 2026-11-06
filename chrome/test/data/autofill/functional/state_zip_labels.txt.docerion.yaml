@@ -1,0 +1,4 @@
+# Docerion header of state_zip_labels.txt.
+type: test
+title: Country Postal Code and State Labels
+summary: Maps country codes to country names, postal code labels, and state labels for use in autofill address form tests.

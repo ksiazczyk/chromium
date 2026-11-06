@@ -1,0 +1,4 @@
+# Docerion header of theme-color.json.
+type: test
+title: Manifest Test App with Theme Color Manifest
+summary: 'Web app manifest JSON for the theme-color test page, defining an icon, start URL, standalone display, landscape orientation and #ace theme color.'

@@ -1,3 +1,9 @@
+<!--docerion
+type: test
+title: Goat emoji SVG test icon
+summary: SVG icon rendering a goat emoji, used as a test icon for web app banners.
+-->
+
 <svg
     xmlns="http://www.w3.org/2000/svg"
     height="144"

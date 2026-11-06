@@ -1,0 +1,4 @@
+# Docerion header of home-and-work.json.
+type: test
+title: Home and Work Profile Test Data
+summary: JSON fixture with one home and one work address profile record intended for manual autofill profile import testing.

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest test app fixture with launcher icons
+summary: Web app manifest for the banner test app listing launcher icons in several sizes and pointing to manifest_test_page.html.

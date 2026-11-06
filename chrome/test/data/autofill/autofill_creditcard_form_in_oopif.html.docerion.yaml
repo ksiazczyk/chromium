@@ -1,0 +1,4 @@
+# Docerion header of autofill_creditcard_form_in_oopif.html.
+type: test
+title: Credit Card Form in an Out-of-Process iframe
+summary: Wrapper page that loads the credit card test form in a cross-origin out-of-process iframe for autofill testing.

@@ -1,0 +1,4 @@
+# Docerion header of autofill_creditcard_form_in_iframe.html.
+type: test
+title: Credit Card Form in an Iframe
+summary: Wrapper page that embeds the credit card test form in a same-origin iframe for autofill testing.

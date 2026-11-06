@@ -1,0 +1,4 @@
+# Docerion header of manifest.webmanifest.
+type: test
+title: Web app manifest for narrower service worker scope banner test
+summary: Web app manifest used to test banner behavior when the service worker scope is narrower than the manifest scope.

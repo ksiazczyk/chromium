@@ -1,0 +1,4 @@
+# Docerion header of manifest_with_screenshots.json.
+type: test
+title: Manifest with screenshots
+summary: Test manifest with narrow, wide, and unlabeled screenshots for the PWA bottom sheet UI tests.

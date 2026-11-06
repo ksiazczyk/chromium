@@ -1,0 +1,4 @@
+# Docerion header of page204.html.
+type: test
+title: Blank page for 204 response test
+summary: Intentionally blank page served with a 204 No Content response in captive portal tests.

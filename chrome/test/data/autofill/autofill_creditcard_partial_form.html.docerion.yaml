@@ -1,0 +1,4 @@
+# Docerion header of autofill_creditcard_partial_form.html.
+type: test
+title: Autofill Credit Card Test Form without a Name
+summary: HTML credit card form lacking a name field, used for testing Autofill preferences with partial card data.

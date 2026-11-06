@@ -1,0 +1,4 @@
+# Docerion header of redirect_to_mock_https.html.mock-http-headers.
+type: test
+title: Mock HTTP headers for redirect_to_mock_https.html
+summary: Mock HTTP response headers issuing a 301 redirect to a mock HTTPS captive portal page with a long timeout.

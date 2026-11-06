@@ -1,0 +1,4 @@
+# Docerion header of shadowdom.html.
+type: test
+title: Shadow DOM autofill test page
+summary: Test page with form inputs distributed across nested shadow DOMs for autofill testing.

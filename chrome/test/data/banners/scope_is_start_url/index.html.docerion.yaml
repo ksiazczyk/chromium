@@ -1,0 +1,4 @@
+# Docerion header of index.html.
+type: test
+title: Web app banner test page with scope equal to start URL
+summary: Test HTML page that links a web app manifest and registers a service worker for web app banner tests.

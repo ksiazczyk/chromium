@@ -1,0 +1,4 @@
+# Docerion header of cross_origin_iframe.html.
+type: test
+title: Simple Cross-Site Iframe Test Page
+summary: Test page embedding a cross-origin iframe for autofill tests that span frames.

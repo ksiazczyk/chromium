@@ -1,0 +1,4 @@
+# Docerion header of invalid_manifest.json.
+type: test
+title: Invalid web app manifest for banner tests
+summary: Deliberately malformed web app manifest used to test banner behavior with invalid manifests.

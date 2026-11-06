@@ -1,0 +1,4 @@
+# Docerion header of manifest_listing_related_chrome_app.json.
+type: test
+title: Manifest listing a related Chrome app
+summary: Web app manifest declaring a related Chrome Web Store app, used in banner related-application tests.
