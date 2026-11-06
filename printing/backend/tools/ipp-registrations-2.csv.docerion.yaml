@@ -1,0 +1,4 @@
+# Docerion header of ipp-registrations-2.csv.
+type: data
+title: IANA IPP registration data for attributes
+summary: IANA IPP registrations CSV listing IPP attributes with collections, member attributes, syntax and specification references, used as input to the code generator.

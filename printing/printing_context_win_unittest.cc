@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows printing context unit tests
+// summary: Unit tests for the Windows printing context that use a mock print dialog and are skipped automatically when no printer is available.
+// ---
+
 #include "printing/printing_context_win.h"
 
 #include <stddef.h>

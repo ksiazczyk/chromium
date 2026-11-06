@@ -1,0 +1,4 @@
+# Docerion header of cups_config_helper.py.
+type: script
+title: cups-config flag splitting helper
+summary: Python wrapper that splits cups-config output into cflags, ldflags and libs for the build.

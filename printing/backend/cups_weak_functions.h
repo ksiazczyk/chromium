@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Weak CUPS function declarations for Linux
+// summary: Declares weak CUPS symbols such as httpConnect2 so availability can be checked at runtime on Linux with non-uniform CUPS versions.
+// ---
+
 #ifndef PRINTING_BACKEND_CUPS_WEAK_FUNCTIONS_H_
 #define PRINTING_BACKEND_CUPS_WEAK_FUNCTIONS_H_
 

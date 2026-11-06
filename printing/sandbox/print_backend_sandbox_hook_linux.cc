@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print backend sandbox hook implementation for Linux
+// summary: Implements PrintBackendPreSandboxHook, configuring broker commands and filesystem permissions for the sandboxed print backend service.
+// ---
+
 #include "printing/sandbox/print_backend_sandbox_hook_linux.h"
 
 #include "base/base_paths.h"

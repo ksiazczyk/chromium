@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CupsConnection interface and QueueStatus
+// summary: Declares the CupsConnection interface for querying CUPS printers, jobs and status, plus the QueueStatus struct.
+// ---
+
 #ifndef PRINTING_BACKEND_CUPS_CONNECTION_H_
 #define PRINTING_BACKEND_CUPS_CONNECTION_H_
 

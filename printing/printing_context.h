@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrintingContext base class declaration
+// summary: Declares the PrintingContext abstraction of a printer context, including its delegate, printer settings and out-of-process behavior modes.
+// ---
+
 #ifndef PRINTING_PRINTING_CONTEXT_H_
 #define PRINTING_PRINTING_CONTEXT_H_
 

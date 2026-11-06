@@ -1,0 +1,4 @@
+# Docerion header of ipp-registrations-6.csv.
+type: data
+title: IANA IPP registration data for enum values
+summary: IANA IPP registrations CSV listing enum values and names for IPP attributes with references, used as input to the code generator.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS IPP client info conversion declarations
+// summary: Header declaring ChromeOS-specific functions that convert IPP client info between job setting values and mojom IppClientInfo vectors.
+// ---
+
 #ifndef PRINTING_PRINT_SETTINGS_CONVERSION_CHROMEOS_H_
 #define PRINTING_PRINT_SETTINGS_CONVERSION_CHROMEOS_H_
 

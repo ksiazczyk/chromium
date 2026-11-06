@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrinterStatus implementation
+// summary: Implements PrinterStatus methods that map printer state reasons and severities to names and join all reasons into a string.
+// ---
+
 #include "printing/printer_status.h"
 
 #include <algorithm>

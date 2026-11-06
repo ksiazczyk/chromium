@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print backend utilities implementation
+// summary: Implements helpers that parse IPP media names into paper sizes in microns and compute printable areas and margins from PWG units.
+// ---
+
 #include "printing/backend/print_backend_utils.h"
 
 #include <string_view>

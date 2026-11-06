@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrintManagerDelegate
+// summary: Interface abstracting the Android system print service, since PrintManager is final, to enable easier testing of printing code.
+// ---
+
 package org.chromium.printing;
 
 import android.print.PrintAttributes;

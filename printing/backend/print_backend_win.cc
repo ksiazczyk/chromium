@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows print backend implementation
+// summary: Implements the print backend on Windows using the print spooler to enumerate printers and query capabilities, driver info and printable areas.
+// ---
+
 #include "printing/backend/print_backend_win.h"
 
 #include <objidl.h>

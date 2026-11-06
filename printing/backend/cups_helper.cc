@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CUPS helper and PPD parsing code
+// summary: Helper code for connecting to CUPS and parsing PPD files into printer capabilities such as duplex modes and resolutions.
+// ---
+
 #include "printing/backend/cups_helper.h"
 
 #include "base/logging.h"

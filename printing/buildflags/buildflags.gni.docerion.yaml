@@ -1,0 +1,4 @@
+# Docerion header of buildflags.gni.
+type: config
+title: Printing build arguments
+summary: GN import file declaring build arguments that control printing support, print preview, basic print dialogs, CUPS usage, and out-of-process printing across platforms.

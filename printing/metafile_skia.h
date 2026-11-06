@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MetafileSkia class header
+// summary: Declares the MetafileSkia class that uses the Skia library to generate PDF or MSKP print documents, including page handling and platform-specific playback and rendering methods.
+// ---
+
 #ifndef PRINTING_METAFILE_SKIA_H_
 #define PRINTING_METAFILE_SKIA_H_
 

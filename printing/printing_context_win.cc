@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows printing context implementation
+// summary: Implements PrintingContextWin, covering default printer settings, document rendering, world transforms, and GDI device context management for Windows printing.
+// ---
+
 #include "printing/printing_context_win.h"
 
 #include <winspool.h>

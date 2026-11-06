@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows print backend class header
+// summary: Declares PrintBackendWin, the Windows print backend with cached default paper printable area and a test hook for area loading.
+// ---
+
 #ifndef PRINTING_BACKEND_PRINT_BACKEND_WIN_H_
 #define PRINTING_BACKEND_PRINT_BACKEND_WIN_H_
 

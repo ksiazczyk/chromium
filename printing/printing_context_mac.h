@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac printing context header
+// summary: Declares PrintingContextMac, which manages macOS native print settings such as paper, copies, duplex, and color.
+// ---
+
 #ifndef PRINTING_PRINTING_CONTEXT_MAC_H_
 #define PRINTING_PRINTING_CONTEXT_MAC_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Page setup unit tests
+// summary: Unit tests validating PageSetup margin and area calculations using random and hard-coded page setups.
+// ---
+
 #include "printing/page_setup.h"
 
 #include <stdlib.h>

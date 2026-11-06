@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Printing unit constants and conversions
+// summary: Declares micron, mil, point, pixel, DPI, and paper size constants plus unit conversion functions used throughout the printing component.
+// ---
+
 #ifndef PRINTING_UNITS_H_
 #define PRINTING_UNITS_H_
 

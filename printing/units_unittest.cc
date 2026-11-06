@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for printing unit conversions
+// summary: Unit tests verifying rounding and conversion behavior of ConvertUnit and ConvertUnitFloat across unit systems and edge cases.
+// ---
+
 #include "printing/units.h"
 #include "testing/gtest/include/gtest/gtest-spi.h"
 #include "testing/gtest/include/gtest/gtest.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Trait declarations for printing backend Mojo types
+// summary: Declares StructTraits and EnumTraits specializations that map printing backend Mojo messages to native printer info and capability types.
+// ---
+
 #ifndef PRINTING_BACKEND_MOJOM_PRINT_BACKEND_MOJOM_TRAITS_H_
 #define PRINTING_BACKEND_MOJOM_PRINT_BACKEND_MOJOM_TRAITS_H_
 

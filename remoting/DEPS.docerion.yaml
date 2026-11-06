@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Remoting include rules
+summary: Specifies allowed include paths for remoting code, covering crypto, policy, WebRTC, and UI base dependencies.

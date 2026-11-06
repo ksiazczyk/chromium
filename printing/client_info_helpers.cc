@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IPP client info validation helpers
+// summary: Implements validation of IPP client-info attributes such as name, version and patches.
+// ---
+
 #include "printing/client_info_helpers.h"
 
 #include "base/no_destructor.h"

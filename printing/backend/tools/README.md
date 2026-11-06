@@ -1,3 +1,13 @@
+---
+type: readme
+title: IPP Attribute code generation
+summary: Explains the IPP attribute code generation tools, names IANA as the authoritative source for the CSVs, and notes localization updates needed when CSVs change.
+relations:
+  - documents /printing/backend/tools/ipp-registrations-2.csv
+  - documents /printing/backend/tools/ipp-registrations-4.csv
+  - documents /printing/backend/tools/ipp-registrations-6.csv
+---
+
 # IPP Attribute code generation
 
 This directory contains tools to handle IPP attributes based on data provided in

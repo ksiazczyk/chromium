@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Immutable raw bitmap image class
+// summary: Declares a lightweight immutable Image class holding raw ARGB bitmap data, intended for verifying image contents in tests.
+// ---
+
 #ifndef PRINTING_IMAGE_H_
 #define PRINTING_IMAGE_H_
 

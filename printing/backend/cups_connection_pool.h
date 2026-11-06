@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CupsConnectionPool class declaration
+// summary: Declares a pool of pre-opened CUPS server connections that can be taken and reused across a process lifetime.
+// ---
+
 #ifndef PRINTING_BACKEND_CUPS_CONNECTION_POOL_H_
 #define PRINTING_BACKEND_CUPS_CONNECTION_POOL_H_
 

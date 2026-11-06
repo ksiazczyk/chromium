@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrintedPage implementation
+// summary: Implements the PrintedPage class that stores the page number, metafile, page size and content rect for a printed page.
+// ---
+
 #include "printing/printed_page_win.h"
 
 #include <utility>

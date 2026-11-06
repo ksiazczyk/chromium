@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dummy print backend implementation
+// summary: Provides a stub PrintBackend that fails printer queries and reports no printers for configurations where no print backend is available.
+// ---
+
 // This is dummy implementation for all configurations where there is no
 // print backend.
 #if !defined(PRINT_BACKEND_AVAILABLE)

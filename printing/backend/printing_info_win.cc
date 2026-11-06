@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows printer info helpers implementation
+// summary: Fetches printer and driver info buffers from the Windows spooler using two-pass calls that first determine the required buffer size.
+// ---
+
 #include "printing/backend/printing_info_win.h"
 
 #include <stdint.h>

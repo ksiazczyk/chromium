@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PrintingControllerImpl unit tests
+// summary: Robolectric unit tests for PrintingControllerImpl, verifying behavior such as suppressing printing when the activity is finishing.
+// ---
+
 package org.chromium.printing;
 
 import static org.junit.Assert.assertFalse;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CoreGraphics PDF metafile class for macOS
+// summary: Declares PdfMetafileCg, a Metafile subclass that creates a CoreGraphics context rendering into PDF data on macOS.
+// ---
+
 #ifndef PRINTING_PDF_METAFILE_CG_MAC_H_
 #define PRINTING_PDF_METAFILE_CG_MAC_H_
 

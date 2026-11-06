@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Printing sandbox include rules (DEPS)
+summary: Defines include rules for printing/sandbox, allowing dependencies on the sandbox directory.

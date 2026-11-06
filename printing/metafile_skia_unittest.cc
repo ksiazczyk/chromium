@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MetafileSkia unit tests
+// summary: Unit tests for MetafileSkia covering subframe content serialization, placeholder picture replacement, and PDF/MSKP document generation.
+// ---
+
 #include "printing/metafile_skia.h"
 
 #include <string>

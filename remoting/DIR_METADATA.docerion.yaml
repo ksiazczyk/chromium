@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Remoting directory metadata
+summary: Declares the Monorail component, team email, and Buganizer component used for tracking remoting issues.

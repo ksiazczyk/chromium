@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows system print dialog printing context implementation
+// summary: Implements the Windows printing context that shows the native print dialog, pre-populates page ranges, and applies the user-selected printer settings.
+// ---
+
 #include "printing/printing_context_system_dialog_win.h"
 
 #include <algorithm>

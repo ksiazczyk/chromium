@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: ci
+# title: Presubmit checks for the printing backend
+# summary: Presubmit script that flags changed lines constructing std::string_view from nullable CUPS IPP API calls.
+# ---
+
 """
 Presubmit script for the printing backend.
 

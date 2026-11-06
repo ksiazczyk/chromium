@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CUPS color model PPD constants
+// summary: Defines CUPS PPD identifiers and value strings for printer color models across vendors like Brother, Canon, Epson, HP, Lexmark, and Xerox, plus a lookup of known settings on macOS.
+// ---
+
 #include "printing/print_job_constants_cups.h"
 
 namespace printing {

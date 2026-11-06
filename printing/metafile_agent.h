@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Printing user agent accessor declarations
+// summary: Declares SetAgent and GetAgent so callers can provide a user-agent string for embedding in printing output metadata.
+// ---
+
 #ifndef PRINTING_METAFILE_AGENT_H_
 #define PRINTING_METAFILE_AGENT_H_
 

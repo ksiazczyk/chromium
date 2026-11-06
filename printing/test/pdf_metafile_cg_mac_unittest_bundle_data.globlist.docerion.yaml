@@ -1,0 +1,4 @@
+# Docerion header of pdf_metafile_cg_mac_unittest_bundle_data.globlist.
+type: config
+title: Glob list for PDF metafile CG Mac unit test bundle data
+summary: Glob patterns used by update_bundle_filelist.py to regenerate the bundle data filelist, excluding the pdf_cg README.

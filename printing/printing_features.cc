@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Printing feature flag definitions
+// summary: Defines printing feature flags such as out-of-process printing, CUPS IPP backend, XDG print portal, and PostScript font options with their defaults.
+// ---
+
 #include "printing/printing_features.h"
 
 #include "build/build_config.h"

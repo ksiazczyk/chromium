@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS printing context header
+// summary: Declares PrintingContextChromeos, the ChromeOS printing context that manages CUPS printer connections and IPP options.
+// ---
+
 #ifndef PRINTING_PRINTING_CONTEXT_CHROMEOS_H_
 #define PRINTING_PRINTING_CONTEXT_CHROMEOS_H_
 

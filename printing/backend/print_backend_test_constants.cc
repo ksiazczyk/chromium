@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sample printer capability test constants
+// summary: Builds sample PrinterSemanticCapsAndDefaults values, including optional ChromeOS capabilities, for use by print backend tests.
+// ---
+
 #include "printing/backend/print_backend_test_constants.h"
 
 #include <optional>

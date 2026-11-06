@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF render settings struct
+// summary: Defines PdfRenderSettings holding area, offsets, DPI, autorotation, color use, and Windows-specific rendering modes for PDF rendering.
+// ---
+
 #ifndef PRINTING_PDF_RENDER_SETTINGS_H_
 #define PRINTING_PDF_RENDER_SETTINGS_H_
 

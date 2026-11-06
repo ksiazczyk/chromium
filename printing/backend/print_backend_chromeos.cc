@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS print backend implementation
+// summary: Provides a stubbed or CUPS IPP-backed PrintBackend implementation for ChromeOS, choosing an instance based on the USE_CUPS build flag.
+// ---
+
 #include "printing/backend/print_backend.h"
 
 #include "base/memory/ref_counted.h"

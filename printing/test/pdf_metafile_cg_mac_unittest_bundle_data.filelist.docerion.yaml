@@ -1,0 +1,4 @@
+# Docerion header of pdf_metafile_cg_mac_unittest_bundle_data.filelist.
+type: config
+title: Filelist of PDF metafile CG Mac unit test bundle data
+summary: Generated list of test data files, including EMF inputs and expected PNG renderings, bundled for the PDF metafile CG Mac unit tests.

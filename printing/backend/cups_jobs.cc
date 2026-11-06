@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CUPS job and printer query implementation
+// summary: Implements IPP requests for printer and job information, including printer status, supported formats, and job state parsing.
+// ---
+
 #include "printing/backend/cups_jobs.h"
 
 #include <cups/ipp.h>

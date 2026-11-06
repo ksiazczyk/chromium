@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows EMF metafile implementation
+// summary: Implements the Emf class that creates, stores, and plays back Windows Enhanced Metafile data for printing, including safe record enumeration.
+// ---
+
 #include "printing/emf_win.h"
 
 #include <stdint.h>

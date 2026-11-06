@@ -1,0 +1,4 @@
+# Docerion header of ipp-registrations-4.csv.
+type: data
+title: IANA IPP registration data for keyword values
+summary: IANA IPP registrations CSV listing keyword values for IPP attributes with syntax and references, used as input to the code generator.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows EMF metafile wrapper header
+// summary: Declares the Emf and PostScriptMetaFile classes that wrap EMF data streams and virtual HDCs, plus record and enumeration helpers.
+// ---
+
 #ifndef PRINTING_EMF_WIN_H_
 #define PRINTING_EMF_WIN_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows printer info helpers header
+// summary: Declares template wrappers around PRINTER_INFO and DRIVER_INFO structures that query the Windows spooler with correctly allocated buffers.
+// ---
+
 #ifndef PRINTING_BACKEND_PRINTING_INFO_WIN_H_
 #define PRINTING_BACKEND_PRINTING_INFO_WIN_H_
 

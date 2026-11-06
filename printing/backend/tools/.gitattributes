@@ -1,2 +1,8 @@
+# ---docerion
+# type: config
+# title: Git attributes forcing LF line endings for CSV files
+# summary: Git attributes configuration that forces LF line endings when checking out the CSV files in this directory.
+# ---
+
 # Force LF checkout for csv files
 *.csv text eol=lf

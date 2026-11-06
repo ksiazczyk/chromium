@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrintSession
+// summary: Encapsulates the state and lifecycle of a single Android print job, owning job parameters and PDF generation until completion, cancellation, and teardown.
+// ---
+
 package org.chromium.printing;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

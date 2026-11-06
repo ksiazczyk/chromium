@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux print dialog interface
+// summary: Declares PrintDialogLinuxInterface, an interface letting classes outside printing/ implement Linux print dialogs with correct threading.
+// ---
+
 #ifndef PRINTING_PRINT_DIALOG_LINUX_INTERFACE_H_
 #define PRINTING_PRINT_DIALOG_LINUX_INTERFACE_H_
 

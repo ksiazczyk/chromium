@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Print settings Mojom traits unit tests
+// summary: Unit tests that round-trip print settings types through Mojo serialization to verify the trait mappings across supported platforms.
+// ---
+
 #include "base/values.h"
 #include "build/build_config.h"
 #include "mojo/public/cpp/test_support/test_utils.h"

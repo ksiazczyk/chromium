@@ -1,0 +1,4 @@
+# Docerion header of remoting_locales.gni.
+type: config
+title: Remoting locale lists
+summary: Lists supported remoting locales per platform, including pseudolocales and Android variants, and generates the locale resource file paths.

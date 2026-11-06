@@ -1,0 +1,4 @@
+# Docerion header of printing_context.mojom.
+type: source
+title: Print settings Mojom definitions
+summary: Defines Mojom structs for print settings, including page margins, page setup, requested media, and the full PrintSettings message used by out-of-process printing.

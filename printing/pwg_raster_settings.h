@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PWG raster settings types
+// summary: Defines the PwgRasterTransformType enum and PwgRasterSettings struct controlling duplex mode, odd-page transforms, rotation, page order, and color for PWG raster output.
+// ---
+
 #ifndef PRINTING_PWG_RASTER_SETTINGS_H_
 #define PRINTING_PWG_RASTER_SETTINGS_H_
 

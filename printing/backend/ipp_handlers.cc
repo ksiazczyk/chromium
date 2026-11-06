@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IPP attribute handler implementations
+// summary: Implements handlers that convert IPP printer attributes into advanced capability entries for text, number, boolean, keyword, and enum types.
+// ---
+
 #include "printing/backend/ipp_handlers.h"
 
 #include "base/strings/strcat.h"

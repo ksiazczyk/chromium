@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android PrintingContext declaration
+// summary: Declares PrintingContextAndroid, the Android PrintingContext implementation that talks to the Java printing side via JNI.
+// ---
+
 #ifndef PRINTING_PRINTING_CONTEXT_ANDROID_H_
 #define PRINTING_PRINTING_CONTEXT_ANDROID_H_
 

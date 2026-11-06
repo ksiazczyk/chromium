@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestPrintBackend fake print backend implementation
+// summary: Implements a fake PrintBackend that avoids OS interaction, letting tests configure printers, capabilities and error responses.
+// ---
+
 #include "printing/backend/test_print_backend.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print settings implementation
+// summary: Implements PrintSettings helpers including color mode conversion, CUPS color model mapping, and IPP color model translation, along with print settings logic.
+// ---
+
 #include "printing/print_settings.h"
 
 #include <tuple>

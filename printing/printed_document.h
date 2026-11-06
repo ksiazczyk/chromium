@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Printed document header
+// summary: Declares PrintedDocument, a thread-safe collection of rendered pages used to print documents with immutable settings.
+// ---
+
 #ifndef PRINTING_PRINTED_DOCUMENT_H_
 #define PRINTING_PRINTED_DOCUMENT_H_
 

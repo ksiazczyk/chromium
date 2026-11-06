@@ -1,3 +1,13 @@
+---
+type: guide
+title: Chrome Remote Desktop agent instructions
+summary: Working instructions for Chrome Remote Desktop code, covering documentation, security context, platform notes, coding standards, and review workflow.
+relations:
+  - references /remoting/docs/testing.md
+  - references /remoting/docs/architecture.md
+  - references /remoting/client/GEMINI.md
+---
+
 # Chrome Remote Desktop Instructions
 
 Instructions that are relevant when working with the Chrome Remote Desktop (aka.

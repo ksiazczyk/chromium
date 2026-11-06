@@ -1,0 +1,4 @@
+# Docerion header of branding_Chrome.
+type: config
+title: Chrome branding values for remoting
+summary: Defines Chrome-branded package names, bundle identifiers, and host descriptions for Chrome Remote Desktop across platforms.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PrintSession unit tests
+// summary: Robolectric unit tests for PrintSession covering print job lifecycle behavior using fake printables and recording callbacks.
+// ---
+
 package org.chromium.printing;
 
 import static org.junit.Assert.assertEquals;

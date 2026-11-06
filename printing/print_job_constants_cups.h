@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CUPS color model PPD constants declarations
+// summary: Header declaring the exported CUPS color model setting identifiers and value strings, with a macOS-only function returning the known PPD color settings.
+// ---
+
 #ifndef PRINTING_PRINT_JOB_CONSTANTS_CUPS_H_
 #define PRINTING_PRINT_JOB_CONSTANTS_CUPS_H_
 

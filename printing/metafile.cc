@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Metafile base class implementation
+// summary: Implements shared Metafile helpers for copying data into vectors, mapping it into read-only shared memory, and saving it to files.
+// ---
+
 #include "printing/metafile.h"
 
 #include <stdint.h>

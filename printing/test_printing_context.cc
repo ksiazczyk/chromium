@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test printing context implementation
+// summary: Implements a test PrintingContext that fakes user dialogs and printer interactions, with configurable settings, job IDs, failures, cancellations, and permission errors.
+// ---
+
 #include "printing/test_printing_context.h"
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of print.mojom.
+type: source
+title: Printing Mojom type definitions
+summary: Defines Mojom enums and structs for print jobs, including color models, duplex modes, page orientation, scaling options, and page size margins.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CUPS connection pool implementation
+// summary: Implements a singleton pool of reusable CUPS HTTP connections so sandboxed processes can reach the CUPS server.
+// ---
+
 #include "printing/backend/cups_connection_pool.h"
 
 #include <cups/cups.h>

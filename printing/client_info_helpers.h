@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IPP client info validation header
+// summary: Declares client-info length limits and the ValidateClientInfoItem function for IPP client info.
+// ---
+
 #ifndef PRINTING_CLIENT_INFO_HELPERS_H_
 #define PRINTING_CLIENT_INFO_HELPERS_H_
 

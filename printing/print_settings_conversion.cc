@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print settings job settings conversion
+// summary: Converts print job setting dictionaries into PrintSettings objects and back, handling margins, media size, printable area, and page ranges.
+// ---
+
 #include "printing/print_settings_conversion.h"
 
 #include <stddef.h>

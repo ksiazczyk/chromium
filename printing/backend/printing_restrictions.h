@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Printing restrictions constants and types
+// summary: Defines types and dictionary keys for printing policy restrictions such as color, duplex and PIN modes plus default paper size settings.
+// ---
+
 #ifndef PRINTING_BACKEND_PRINTING_RESTRICTIONS_H_
 #define PRINTING_BACKEND_PRINTING_RESTRICTIONS_H_
 

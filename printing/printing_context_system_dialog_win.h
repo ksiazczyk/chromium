@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows system print dialog printing context header
+// summary: Declares PrintingContextSystemDialogWin, the PrintingContextWin subclass that asks the user for settings through the Windows system print dialog.
+// ---
+
 #ifndef PRINTING_PRINTING_CONTEXT_SYSTEM_DIALOG_WIN_H_
 #define PRINTING_PRINTING_CONTEXT_SYSTEM_DIALOG_WIN_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: N-up parameters implementation
+// summary: Implements N-up printing layout calculations, mapping supported pages-per-sheet values to page grid axes and landscape orientation.
+// ---
+
 #include "printing/nup_parameters.h"
 
 #include <algorithm>

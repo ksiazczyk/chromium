@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Page range unit tests
+// summary: Unit tests verifying that PageRange::Normalize merges overlapping ranges, handles empty input, and preserves single entries.
+// ---
+
 #include "printing/page_range.h"
 #include "testing/gmock/include/gmock/gmock.h"
 #include "testing/gtest/include/gtest/gtest.h"

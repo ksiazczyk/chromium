@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CUPS print backend unit tests
+// summary: Tests conversion of CUPS destinations into printer basic info and driver info, display name fallbacks, and filtering of ineligible destination types.
+// ---
+
 #include "printing/backend/print_backend_cups.h"
 
 #include <cups/cups.h>

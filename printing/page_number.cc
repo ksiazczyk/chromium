@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PageNumber implementation
+// summary: Implements PageNumber iteration over print page ranges, including increment logic and the GetPages helper that expands ranges into page lists.
+// ---
+
 #include "printing/page_number.h"
 
 #include <algorithm>

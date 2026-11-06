@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Printing buildflag header build target
+summary: GN build file defining a buildflag_header target that generates buildflags.h with preprocessor defines for printing features like print preview, CUPS, and out-of-process printing.

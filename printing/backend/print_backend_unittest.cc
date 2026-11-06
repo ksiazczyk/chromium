@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Print backend unit tests
+// summary: Unit tests for the print backend, including manual printer enumeration tests and checks of paper custom size and bounds behavior.
+// ---
+
 #include "printing/backend/print_backend.h"
 
 #include "base/logging.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print settings conversion declarations
+// summary: Header declaring functions to extract page ranges from job settings, build PrintSettings from job settings, and serialize settings back for debug and test use.
+// ---
+
 #ifndef PRINTING_PRINT_SETTINGS_CONVERSION_H_
 #define PRINTING_PRINT_SETTINGS_CONVERSION_H_
 

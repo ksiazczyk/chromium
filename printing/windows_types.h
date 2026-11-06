@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows printing type definitions
+// summary: Provides minimal Windows typedefs for HDC and DEVMODE so printing code can avoid including windows.h.
+// ---
+
 #ifndef PRINTING_WINDOWS_TYPES_H_
 #define PRINTING_WINDOWS_TYPES_H_
 

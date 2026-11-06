@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PageRange implementation
+// summary: Implements PageRange::Normalize, which sorts page ranges and merges overlapping or adjacent ranges.
+// ---
+
 #include "printing/page_range.h"
 
 #include <stddef.h>

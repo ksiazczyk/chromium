@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CUPS print backend implementation
+// summary: Implements the PrintBackend interface on top of the CUPS API, enumerating printers, reading printer options, and converting CUPS destinations into printer info.
+// ---
+
 #include "printing/backend/print_backend_cups.h"
 
 #include <cups/cups.h>

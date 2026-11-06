@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IPP attribute name constant declarations
+// summary: Declares exported IPP attribute name constants for the CUPS printing backend, including ChromeOS-specific client-info and job attributes.
+// ---
+
 #ifndef PRINTING_BACKEND_CUPS_IPP_CONSTANTS_H_
 #define PRINTING_BACKEND_CUPS_IPP_CONSTANTS_H_
 

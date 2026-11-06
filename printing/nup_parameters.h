@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NupParameters class header
+// summary: Declares NupParameters, which computes the page grid layout and orientation for N-up printing and checks supported pages-per-sheet values.
+// ---
+
 #ifndef PRINTING_NUP_PARAMETERS_H_
 #define PRINTING_NUP_PARAMETERS_H_
 

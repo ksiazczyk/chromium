@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Printing common build target
+summary: GN build file defining the printing common source set with metafile utilities and its dependencies on base, skia, printing mojom and accessibility code.

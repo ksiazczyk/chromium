@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux printing context implementation
+// summary: Implements the Linux printing context, delegating print dialogs and settings to a pluggable print dialog factory.
+// ---
+
 #include "printing/printing_context_linux.h"
 
 #include <memory>

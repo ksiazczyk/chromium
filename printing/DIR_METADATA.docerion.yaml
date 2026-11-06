@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Bug tracker metadata for the printing directory
+summary: Maps the printing directory to its monorail component and public buganizer component ID.

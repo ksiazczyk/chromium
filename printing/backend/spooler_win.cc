@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows print spooler service status check
+// summary: Implements IsSpoolerRunning() to query the Windows Service Control Manager and report whether the print spooler service is running.
+// ---
+
 #include "printing/backend/spooler_win.h"
 
 #include <windows.h>

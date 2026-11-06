@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print job setting constants declarations
+// summary: Header declaring the exported print job setting key constants, including margins, page ranges, media size, and related enumerations for the printing component.
+// ---
+
 #ifndef PRINTING_PRINT_JOB_CONSTANTS_H_
 #define PRINTING_PRINT_JOB_CONSTANTS_H_
 

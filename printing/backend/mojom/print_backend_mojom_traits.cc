@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Serialization traits for printing backend Mojo types
+// summary: Implements StructTraits Read methods that validate and convert Mojo printer data into native printing backend types, including duplicate entry detection.
+// ---
+
 #include "printing/backend/mojom/print_backend_mojom_traits.h"
 
 #include <algorithm>

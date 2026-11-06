@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows printing helper declarations
+// summary: Declares scoped printer handle wrappers and the XPSModule class that dynamically loads the Windows XPS print ticket APIs.
+// ---
+
 #ifndef PRINTING_BACKEND_WIN_HELPER_H_
 #define PRINTING_BACKEND_WIN_HELPER_H_
 

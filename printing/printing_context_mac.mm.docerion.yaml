@@ -1,0 +1,4 @@
+# Docerion header of printing_context_mac.mm.
+type: source
+title: Mac printing context implementation
+summary: Implements the macOS printing context using AppKit and Core Foundation APIs to configure and run print jobs.

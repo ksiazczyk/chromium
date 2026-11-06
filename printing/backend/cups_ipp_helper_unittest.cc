@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IPP helper unit tests
+// summary: Unit tests for IPP attribute parsing using mock CUPS printers, covering capabilities, margins, and media-col database entries.
+// ---
+
 #include "printing/backend/cups_ipp_helper.h"
 
 #include <cups/cups.h>

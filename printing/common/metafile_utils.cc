@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Metafile utilities implementation
+// summary: Implements PDF document creation, accessibility tree tagging and Skia serialization and deserialization helpers used by Chromium's printing code.
+// ---
+
 #include "printing/common/metafile_utils.h"
 
 #include <string_view>

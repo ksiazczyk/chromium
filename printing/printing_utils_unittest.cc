@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for printing utilities
+// summary: Unit tests for document title simplification, owner and title formatting, locale-based default paper size lookup, and epsilon size comparison helpers.
+// ---
+
 #include "printing/printing_utils.h"
 
 #include <stddef.h>

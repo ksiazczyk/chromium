@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Printable
+// summary: Interface for objects that can initiate printing, defining PDF generation, document metadata, error reporting, and file descriptor handling contracts.
+// ---
+
 package org.chromium.printing;
 
 import android.os.ParcelFileDescriptor;

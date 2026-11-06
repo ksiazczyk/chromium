@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Remoting build targets
+summary: GN build file grouping remoting targets and defining the remoting_unittests test suite with its platform-specific dependencies.

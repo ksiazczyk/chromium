@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IPP-based CUPS print backend class declaration
+// summary: Declares PrintBackendCupsIpp, a PrintBackend implementation that queries printers, defaults, and capabilities via a CupsConnection.
+// ---
+
 #ifndef PRINTING_BACKEND_PRINT_BACKEND_CUPS_IPP_H_
 #define PRINTING_BACKEND_PRINT_BACKEND_CUPS_IPP_H_
 

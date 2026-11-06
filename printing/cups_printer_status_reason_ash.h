@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS printer status reason enums
+// summary: Defines CupsPrinterStatusReason and severity enums shared between C++ and JS/TS for ChromeOS printing.
+// ---
+
 #ifndef PRINTING_CUPS_PRINTER_STATUS_REASON_ASH_H_
 #define PRINTING_CUPS_PRINTER_STATUS_REASON_ASH_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CUPS printer and option provider interface
+// summary: Declares the CupsOptionProvider and CupsPrinter interfaces for querying CUPS printer options, capabilities, and managing print jobs.
+// ---
+
 #ifndef PRINTING_BACKEND_CUPS_PRINTER_H_
 #define PRINTING_BACKEND_CUPS_PRINTER_H_
 

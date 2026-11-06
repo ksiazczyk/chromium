@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Printing context factory for tests
+// summary: Declares an interface for creating PrintingContext instances in place of the platform default during tests.
+// ---
+
 #ifndef PRINTING_PRINTING_CONTEXT_FACTORY_FOR_TEST_H_
 #define PRINTING_PRINTING_CONTEXT_FACTORY_FOR_TEST_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CUPS printer implementation
+// summary: Implements the CupsPrinter class wrapping a CUPS destination, exposing supported and default option values and printer attributes.
+// ---
+
 #include "printing/backend/cups_printer.h"
 
 #include <cups/cups.h>

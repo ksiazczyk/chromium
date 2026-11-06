@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CoreGraphics PDF metafile unit tests
+// summary: Unit tests rendering PDF pages via PdfMetafileCg and comparing SHA1 hashes of rendered bitmaps against expected PNG images.
+// ---
+
 #include "printing/pdf_metafile_cg_mac.h"
 
 #include <CoreGraphics/CoreGraphics.h>
