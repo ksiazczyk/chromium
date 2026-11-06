@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: Per-file OWNERS rule granting ownership of all .sha1 checksum files in this directory to every user.
