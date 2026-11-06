@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Bluetooth strings OWNERS file
+summary: Per-file ownership rule that lets any reviewer approve changes to BUILD.gn in the Bluetooth strings directory.

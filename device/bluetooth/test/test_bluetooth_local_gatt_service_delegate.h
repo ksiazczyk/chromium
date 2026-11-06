@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test local GATT service delegate class declaration
+// summary: Declares a test BluetoothLocalGattService::Delegate that simulates GATT read, write and notification handling with configurable expected objects and failures.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_TEST_TEST_BLUETOOTH_LOCAL_GATT_SERVICE_DELEGATE_H_
 #define DEVICE_BLUETOOTH_TEST_TEST_BLUETOOTH_LOCAL_GATT_SERVICE_DELEGATE_H_
 

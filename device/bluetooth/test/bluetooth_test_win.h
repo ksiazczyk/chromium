@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows Bluetooth test fixture header
+// summary: Declares the Windows Bluetooth test fixture and a parameter struct for testing WinRT GATT session handling feature states.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_TEST_BLUETOOTH_TEST_WIN_H_
 #define DEVICE_BLUETOOTH_TEST_BLUETOOTH_TEST_WIN_H_
 

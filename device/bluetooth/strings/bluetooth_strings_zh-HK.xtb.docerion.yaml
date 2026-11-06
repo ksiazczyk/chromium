@@ -1,0 +1,4 @@
+# Docerion header of bluetooth_strings_zh-HK.xtb.
+type: data
+title: Bluetooth strings for Chinese (Hong Kong)
+summary: Chinese (Hong Kong) XTB translation bundle with localized Bluetooth device type strings such as phone, computer, gamepad, and unknown device, each including a device address placeholder.

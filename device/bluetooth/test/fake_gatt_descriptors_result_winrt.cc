@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake WinRT GATT descriptors result implementation
+// summary: Implements a fake GattDescriptorsResult that returns a fixed set of fake descriptors with success status, plus the UWP collection specializations the interface requires.
+// ---
+
 #include "device/bluetooth/test/fake_gatt_descriptors_result_winrt.h"
 
 #include "base/win/vector.h"

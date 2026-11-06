@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake WinRT publisher status changed event args header
+// summary: Declares a fake IBluetoothLEAdvertisementPublisherStatusChangedEventArgs carrying a publisher status and Bluetooth error for tests.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_TEST_FAKE_BLUETOOTH_LE_ADVERTISEMENT_PUBLISHER_STATUS_CHANGED_EVENT_ARGS_WINRT_H_
 #define DEVICE_BLUETOOTH_TEST_FAKE_BLUETOOTH_LE_ADVERTISEMENT_PUBLISHER_STATUS_CHANGED_EVENT_ARGS_WINRT_H_
 

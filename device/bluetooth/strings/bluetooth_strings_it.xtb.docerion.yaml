@@ -1,0 +1,4 @@
+# Docerion header of bluetooth_strings_it.xtb.
+type: data
+title: Bluetooth device type strings in Italian
+summary: Italian translation bundle with Bluetooth device type labels such as modem, keyboard, and phone, each including a device address placeholder.

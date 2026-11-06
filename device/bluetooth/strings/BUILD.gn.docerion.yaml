@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Bluetooth strings build configuration
+summary: GN build rules that run grit over bluetooth_strings.grd and its xtb translations and repack the English strings into a pak for Bluetooth tests.

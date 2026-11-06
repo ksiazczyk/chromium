@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake WinRT Device Watcher Declarations
+// summary: Declares FakeDeviceWatcherWinrt, a fake IDeviceWatcher with methods to simulate adapter power changes and enumeration events.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_TEST_FAKE_DEVICE_WATCHER_WINRT_H_
 #define DEVICE_BLUETOOTH_TEST_FAKE_DEVICE_WATCHER_WINRT_H_
 

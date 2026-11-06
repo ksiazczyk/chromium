@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake WinRT advertisement received event args implementation
+// summary: Implements fake received-advertisement event arguments providing RSSI, Bluetooth address, and the advertised payload for Windows tests.
+// ---
+
 #include "device/bluetooth/test/fake_bluetooth_le_advertisement_received_event_args_winrt.h"
 
 #include <string_view>

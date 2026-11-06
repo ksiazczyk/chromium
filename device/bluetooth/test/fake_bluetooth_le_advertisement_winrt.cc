@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake WinRT Bluetooth LE advertisement implementation
+// summary: Implements a fake IBluetoothLEAdvertisement that builds data sections and manufacturer data from service data for Windows tests.
+// ---
+
 #include "device/bluetooth/test/fake_bluetooth_le_advertisement_winrt.h"
 
 #include <windows.foundation.collections.h>

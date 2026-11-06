@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock Bluetooth low energy scan session declaration
+// summary: Declares a mock BluetoothLowEnergyScanSession that invokes a callback on destruction for use in Bluetooth tests.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_TEST_MOCK_BLUETOOTH_LOW_ENERGY_SCAN_SESSION_H_
 #define DEVICE_BLUETOOTH_TEST_MOCK_BLUETOOTH_LOW_ENERGY_SCAN_SESSION_H_
 

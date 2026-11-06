@@ -1,0 +1,4 @@
+# Docerion header of bluetooth_strings_es-419.xtb.
+type: data
+title: Latin American Spanish Bluetooth device strings
+summary: Translation bundle providing Latin American Spanish labels for Bluetooth device types such as modem, keyboard, mouse, tablet, and phone, each with a device address placeholder.

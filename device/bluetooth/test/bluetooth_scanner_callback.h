@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BluetoothScannerCallback declaration
+// summary: Declares the native implementation of ChromeBluetoothLeScannerTestUtil.BluetoothScannerCallback, used only in Android unit tests.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_TEST_BLUETOOTH_SCANNER_CALLBACK_H_
 #define DEVICE_BLUETOOTH_TEST_BLUETOOTH_SCANNER_CALLBACK_H_
 

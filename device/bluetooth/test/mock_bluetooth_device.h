@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock BluetoothDevice test double
+// summary: Declares a Google Mock subclass of BluetoothDevice that fakes device properties, pairing, and connection behavior in Bluetooth unit tests.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_TEST_MOCK_BLUETOOTH_DEVICE_H_
 #define DEVICE_BLUETOOTH_TEST_MOCK_BLUETOOTH_DEVICE_H_
 

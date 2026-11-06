@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake WinRT Bluetooth LE manufacturer data class declaration
+// summary: Declares FakeBluetoothLEManufacturerData and FakeBluetoothLEManufacturerDataFactory, fakes of the WinRT manufacturer data interfaces for tests.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_TEST_FAKE_BLUETOOTH_LE_MANUFACTURER_DATA_WINRT_H_
 #define DEVICE_BLUETOOTH_TEST_FAKE_BLUETOOTH_LE_MANUFACTURER_DATA_WINRT_H_
 

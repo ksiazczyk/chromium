@@ -1,0 +1,4 @@
+# Docerion header of bluetooth_strings_sr.xtb.
+type: data
+title: Bluetooth strings in Serbian (Cyrillic)
+summary: XML translation bundle with Serbian Cyrillic labels for Bluetooth device types such as modem, keyboard, mouse, phone, and gamepad, each including an address placeholder.

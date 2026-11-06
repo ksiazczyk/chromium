@@ -1,3 +1,13 @@
+---
+type: readme
+title: Bluetooth Testing
+summary: Describes testing APIs for Bluetooth clients and implementations, covering mock objects, fake mojo interfaces, DevTools emulation, and cross-platform unit tests.
+relations:
+  - references /device/bluetooth/public/mojom/emulation/README.md
+  - references /third_party/blink/renderer/modules/bluetooth/README.md
+  - references /third_party/blink/public/devtools_protocol/browser_protocol.pdl
+---
+
 # Bluetooth Testing
 
 This page describes testing APIs for both **clients** and **implementation** of

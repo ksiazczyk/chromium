@@ -1,0 +1,4 @@
+# Docerion header of bluetooth_strings_ar.xtb.
+type: data
+title: Arabic Bluetooth device type strings
+summary: Arabic translation bundle providing localized Bluetooth device type labels such as modem, keyboard, mouse, and phone for the UI.

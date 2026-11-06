@@ -1,0 +1,4 @@
+# Docerion header of bluetooth_strings_zh-CN.xtb.
+type: data
+title: Simplified Chinese Bluetooth strings translation bundle
+summary: XML translation bundle with Simplified Chinese labels for Bluetooth device types such as modem, keyboard, mouse, car audio, and phone, keyed by numeric message IDs with an ADDRESS placeholder.

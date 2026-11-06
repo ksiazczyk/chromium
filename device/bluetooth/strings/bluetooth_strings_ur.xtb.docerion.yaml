@@ -1,0 +1,4 @@
+# Docerion header of bluetooth_strings_ur.xtb.
+type: data
+title: Urdu Bluetooth strings translation bundle
+summary: XML translation bundle with Urdu labels for Bluetooth device types such as modem, keyboard, mouse, car audio, and phone, keyed by numeric message IDs with an ADDRESS placeholder.

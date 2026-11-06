@@ -1,0 +1,4 @@
+# Docerion header of bluetooth_strings_sr-Latn.xtb.
+type: data
+title: Bluetooth strings in Serbian (Latin)
+summary: XML translation bundle with Serbian Latin-script labels for Bluetooth device types such as modem, keyboard, mouse, phone, and gamepad, each including an address placeholder.

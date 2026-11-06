@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeGattValueChangedEventArgsWinrt implementation
+// summary: Implements fake Windows Runtime GATT value changed event arguments that deliver a canned characteristic value in Windows Bluetooth tests.
+// ---
+
 #include "device/bluetooth/test/fake_gatt_value_changed_event_args_winrt.h"
 
 #include <wrl/client.h>

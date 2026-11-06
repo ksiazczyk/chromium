@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock Bluetooth socket for tests
+// summary: gMock implementation of BluetoothSocket stubbing disconnect, receive, send and accept operations for Bluetooth unit tests.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_TEST_MOCK_BLUETOOTH_SOCKET_H_
 #define DEVICE_BLUETOOTH_TEST_MOCK_BLUETOOTH_SOCKET_H_
 

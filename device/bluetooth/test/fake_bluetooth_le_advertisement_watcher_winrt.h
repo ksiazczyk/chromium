@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake WinRT Bluetooth LE advertisement watcher header
+// summary: Declares a fake IBluetoothLEAdvertisementWatcher with methods to simulate low-energy device discovery and discovery errors.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_TEST_FAKE_BLUETOOTH_LE_ADVERTISEMENT_WATCHER_WINRT_H_
 #define DEVICE_BLUETOOTH_TEST_FAKE_BLUETOOTH_LE_ADVERTISEMENT_WATCHER_WINRT_H_
 

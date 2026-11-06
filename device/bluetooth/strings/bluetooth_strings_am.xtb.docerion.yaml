@@ -1,0 +1,4 @@
+# Docerion header of bluetooth_strings_am.xtb.
+type: data
+title: Amharic Bluetooth device type strings
+summary: Amharic translation bundle providing localized Bluetooth device type labels such as modem, keyboard, mouse, and phone for the UI.

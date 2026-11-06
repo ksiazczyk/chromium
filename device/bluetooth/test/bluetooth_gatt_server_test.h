@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BluetoothGattServerTest fixture declaration
+// summary: Declares the base class for GATT server unit tests, selecting the platform-specific BluetoothTest subclass per build target.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_TEST_BLUETOOTH_GATT_SERVER_TEST_H_
 #define DEVICE_BLUETOOTH_TEST_BLUETOOTH_GATT_SERVER_TEST_H_
 

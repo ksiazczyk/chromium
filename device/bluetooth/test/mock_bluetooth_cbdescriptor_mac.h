@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock CBDescriptor header for macOS Bluetooth tests
+// summary: Declares MockCBDescriptor, an Objective-C mock of CBDescriptor with methods to simulate read, write and update events in macOS Bluetooth tests.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_TEST_MOCK_BLUETOOTH_CBDESCRIPTOR_MAC_H_
 #define DEVICE_BLUETOOTH_TEST_MOCK_BLUETOOTH_CBDESCRIPTOR_MAC_H_
 

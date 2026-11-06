@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake local GATT characteristic for Bluetooth tests
+// summary: Declares a fake BluetoothLocalGattCharacteristic that tracks state and attributes for use by FakeLocalGattService in tests.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_TEST_FAKE_LOCAL_GATT_CHARACTERISTIC_H_
 #define DEVICE_BLUETOOTH_TEST_FAKE_LOCAL_GATT_CHARACTERISTIC_H_
 

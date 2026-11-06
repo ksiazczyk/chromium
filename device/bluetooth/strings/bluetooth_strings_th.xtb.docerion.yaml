@@ -1,0 +1,4 @@
+# Docerion header of bluetooth_strings_th.xtb.
+type: data
+title: Thai Bluetooth strings translation bundle
+summary: XML translation bundle with Thai labels for Bluetooth device types such as modem, keyboard, mouse, car audio, and phone, keyed by numeric message IDs with an ADDRESS placeholder.

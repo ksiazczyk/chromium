@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BlueZ Bluetooth test fixture header
+// summary: Declares the BlueZ implementation of the Bluetooth test base, providing fake adapter setup and simulated GATT read, write, and notification requests for tests.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_TEST_BLUETOOTH_TEST_BLUEZ_H_
 #define DEVICE_BLUETOOTH_TEST_BLUETOOTH_TEST_BLUEZ_H_
 

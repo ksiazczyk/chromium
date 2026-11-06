@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock Bluetooth GATT service for tests
+// summary: gMock implementation of BluetoothRemoteGattService that fakes GATT services, characteristics and UUID lookups in Bluetooth unit tests.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_TEST_MOCK_BLUETOOTH_GATT_SERVICE_H_
 #define DEVICE_BLUETOOTH_TEST_MOCK_BLUETOOTH_GATT_SERVICE_H_
 

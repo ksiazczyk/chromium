@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake local GATT service implementation for Bluetooth tests
+// summary: Implements a fake local GATT service that adds fake characteristics and simulates registration, deletion and creation outcomes in tests.
+// ---
+
 #include "device/bluetooth/test/fake_local_gatt_service.h"
 
 #include "base/notimplemented.h"

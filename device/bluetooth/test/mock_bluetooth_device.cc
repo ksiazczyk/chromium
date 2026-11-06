@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock BluetoothDevice implementation for Bluetooth tests
+// summary: Implements MockBluetoothDevice, a gmock-based BluetoothDevice fake with default actions for device properties and helpers to manage mock GATT services.
+// ---
+
 #include "device/bluetooth/test/mock_bluetooth_device.h"
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of mock_bluetooth_cbdescriptor_mac.mm.
+type: test
+title: Mock CBDescriptor implementation for macOS Bluetooth tests
+summary: Implements MockCBDescriptor, simulating descriptor read, write and update notifications to the peripheral delegate for macOS Bluetooth tests.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fakes
+// summary: Java fake implementations of Android Bluetooth classes, accessed by C++ Bluetooth tests via JNI, covering adapters, GATT, scanning and sockets.
+// ---
+
 package org.chromium.device.bluetooth;
 
 import android.Manifest;

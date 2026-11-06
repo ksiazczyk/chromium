@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows Bluetooth test fixture implementation
+// summary: Implements the Windows Bluetooth test fixture, wiring fake WinRT Bluetooth objects to simulate adapters, devices, GATT operations, and advertisements in tests.
+// ---
+
 #include "device/bluetooth/test/bluetooth_test_win.h"
 
 #include <windows.devices.bluetooth.h>

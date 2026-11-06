@@ -1,0 +1,4 @@
+# Docerion header of bluetooth_strings_el.xtb.
+type: data
+title: Greek Bluetooth device strings
+summary: Translation bundle providing Greek labels for Bluetooth device types such as modem, keyboard, mouse, tablet, and phone, each with a device address placeholder.

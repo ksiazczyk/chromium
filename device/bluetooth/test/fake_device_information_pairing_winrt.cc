@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake WinRT device information pairing implementation
+// summary: Implements FakeDeviceInformationPairingWinrt, a fake IDeviceInformationPairing that reports pairing state and exposes a fake custom pairing object for tests.
+// ---
+
 #include "device/bluetooth/test/fake_device_information_pairing_winrt.h"
 
 #include <utility>

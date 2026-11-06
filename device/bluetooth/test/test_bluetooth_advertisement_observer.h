@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test observer for Bluetooth advertisement release events
+// summary: Declares a test BluetoothAdvertisement::Observer that counts and records advertisement released callbacks for use in Bluetooth tests.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_TEST_TEST_BLUETOOTH_ADVERTISEMENT_OBSERVER_H_
 #define DEVICE_BLUETOOTH_TEST_TEST_BLUETOOTH_ADVERTISEMENT_OBSERVER_H_
 

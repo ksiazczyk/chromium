@@ -1,0 +1,4 @@
+# Docerion header of bluetooth_strings_ja.xtb.
+type: data
+title: Bluetooth device type strings in Japanese
+summary: Japanese translation bundle with Bluetooth device type labels such as modem, keyboard, and phone, each including a device address placeholder.

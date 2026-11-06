@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake WinRT Device Watcher Implementation
+// summary: Implements a fake IDeviceWatcher that registers event handlers and can simulate the adapter powering on or off during tests.
+// ---
+
 #include "device/bluetooth/test/fake_device_watcher_winrt.h"
 
 #include <utility>

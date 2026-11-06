@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake WinRT GATT device services result implementation
+// summary: Implements a fake GattDeviceServicesResult that reports a configurable communication status and returns a list of fake GATT device services, with required UWP collection specializations.
+// ---
+
 #include "device/bluetooth/test/fake_gatt_device_services_result_winrt.h"
 
 #include <windows.foundation.collections.h>

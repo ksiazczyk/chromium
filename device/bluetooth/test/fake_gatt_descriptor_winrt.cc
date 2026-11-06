@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake WinRT GATT descriptor implementation
+// summary: Implements a fake WinRT GATT descriptor with simulated read and write results and errors, notifying BluetoothTestWinrt when descriptor operations occur.
+// ---
+
 #include "device/bluetooth/test/fake_gatt_descriptor_winrt.h"
 
 #include <utility>

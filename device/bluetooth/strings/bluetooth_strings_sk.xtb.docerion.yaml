@@ -1,0 +1,4 @@
+# Docerion header of bluetooth_strings_sk.xtb.
+type: data
+title: Bluetooth strings in Slovak
+summary: XML translation bundle with Slovak labels for Bluetooth device types such as modem, keyboard, mouse, phone, and gamepad, each including an address placeholder.

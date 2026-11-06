@@ -1,0 +1,4 @@
+# Docerion header of bluetooth_strings_or.xtb.
+type: data
+title: Bluetooth strings in Odia
+summary: Odia XML translation bundle with Bluetooth device type strings such as modem, keyboard, tablet, and phone, each containing a device address placeholder.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake WinRT DeviceInformation Implementation
+// summary: Implements fake IDeviceInformation and IDeviceInformationStatics classes that return test device names and pairing objects for Windows Bluetooth tests.
+// ---
+
 #include "device/bluetooth/test/fake_device_information_winrt.h"
 
 #include <utility>

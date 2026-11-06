@@ -1,0 +1,4 @@
+# Docerion header of bluetooth_strings_as.xtb.
+type: data
+title: Assamese Bluetooth device type strings
+summary: Assamese translation bundle providing localized Bluetooth device type labels such as modem, keyboard, mouse, and phone for the UI.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock CBService header for macOS Bluetooth tests
+// summary: Declares MockCBService, an Objective-C mock of CBService that can add and remove mock characteristics for macOS Bluetooth tests.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_TEST_MOCK_BLUETOOTH_CBSERVICE_MAC_H_
 #define DEVICE_BLUETOOTH_TEST_MOCK_BLUETOOTH_CBSERVICE_MAC_H_
 

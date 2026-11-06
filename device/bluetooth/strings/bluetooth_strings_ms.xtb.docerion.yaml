@@ -1,0 +1,4 @@
+# Docerion header of bluetooth_strings_ms.xtb.
+type: data
+title: Bluetooth strings in Malay
+summary: Malay XML translation bundle with Bluetooth device type strings such as modem, keyboard, gamepad, and phone, each containing a device address placeholder.

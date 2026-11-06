@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mac Bluetooth test fixture header
+// summary: Declares the Mac implementation of the Bluetooth test base with methods to simulate adapters, devices, GATT connections, characteristics, descriptors, and notify sessions.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_TEST_BLUETOOTH_TEST_MAC_H_
 #define DEVICE_BLUETOOTH_TEST_BLUETOOTH_TEST_MAC_H_
 

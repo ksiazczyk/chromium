@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock Bluetooth pairing delegate for tests
+// summary: gMock implementation of BluetoothDevice::PairingDelegate stubbing PIN, passkey and authorization callbacks during pairing tests.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_TEST_MOCK_PAIRING_DELEGATE_H_
 #define DEVICE_BLUETOOTH_TEST_MOCK_PAIRING_DELEGATE_H_
 

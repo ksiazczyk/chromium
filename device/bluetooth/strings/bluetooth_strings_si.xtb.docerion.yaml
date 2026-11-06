@@ -1,0 +1,4 @@
+# Docerion header of bluetooth_strings_si.xtb.
+type: data
+title: Bluetooth strings in Sinhala
+summary: XML translation bundle with Sinhala labels for Bluetooth device types such as modem, keyboard, mouse, phone, and gamepad, each including an address placeholder.

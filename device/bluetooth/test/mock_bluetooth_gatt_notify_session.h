@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock BluetoothGattNotifySession test double
+// summary: Declares a Google Mock subclass of BluetoothGattNotifySession that can start and stop periodic test notifications for a mock characteristic.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_TEST_MOCK_BLUETOOTH_GATT_NOTIFY_SESSION_H_
 #define DEVICE_BLUETOOTH_TEST_MOCK_BLUETOOTH_GATT_NOTIFY_SESSION_H_
 

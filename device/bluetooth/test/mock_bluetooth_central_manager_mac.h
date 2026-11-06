@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock CBCentralManager header for macOS Bluetooth tests
+// summary: Declares MockCentralManager, an Objective-C mock of CBCentralManager that counts scan calls and simulates peripherals connected by other applications.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_TEST_MOCK_BLUETOOTH_CENTRAL_MANAGER_MAC_H_
 #define DEVICE_BLUETOOTH_TEST_MOCK_BLUETOOTH_CENTRAL_MANAGER_MAC_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of bluetooth_strings_ca.xtb.
+type: data
+title: Catalan Bluetooth device strings
+summary: Translation bundle providing Catalan labels for Bluetooth device types such as modem, keyboard, mouse, tablet, and phone, each with a device address placeholder.

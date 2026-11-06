@@ -1,0 +1,4 @@
+# Docerion header of mock_bluetooth_cbperipheral_mac.mm.
+type: test
+title: Mock CBPeripheral implementation for macOS Bluetooth tests
+summary: Implements MockCBPeripheral, faking service and characteristic discovery plus read and write value callbacks through BluetoothTestMac.

@@ -1,0 +1,4 @@
+# Docerion header of bluetooth_strings_fi.xtb.
+type: data
+title: Bluetooth strings translation bundle (Finnish)
+summary: Finnish translations of Bluetooth device type labels such as modem, keyboard, tablet, and phone, stored as an XML translation bundle with address placeholders.

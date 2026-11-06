@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake WinRT GATT descriptor header
+// summary: Declares FakeGattDescriptorWinrt, a fake IGattDescriptor that supports simulated descriptor reads, writes and error injection for Windows Bluetooth tests.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_TEST_FAKE_GATT_DESCRIPTOR_WINRT_H_
 #define DEVICE_BLUETOOTH_TEST_FAKE_GATT_DESCRIPTOR_WINRT_H_
 

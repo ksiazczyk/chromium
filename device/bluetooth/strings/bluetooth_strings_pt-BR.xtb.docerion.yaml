@@ -1,0 +1,4 @@
+# Docerion header of bluetooth_strings_pt-BR.xtb.
+type: data
+title: Bluetooth strings in Brazilian Portuguese
+summary: Brazilian Portuguese XML translation bundle with Bluetooth device type strings such as modem, keyboard, computer, and phone, each containing a device address placeholder.

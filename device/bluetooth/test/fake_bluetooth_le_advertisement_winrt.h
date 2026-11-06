@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake WinRT Bluetooth LE advertisement class declaration
+// summary: Declares FakeBluetoothLEAdvertisementWinrt, a fake IBluetoothLEAdvertisement implementation holding local name, flags, UUIDs, and manufacturer data for Windows Bluetooth tests.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_TEST_FAKE_BLUETOOTH_LE_ADVERTISEMENT_WINRT_H_
 #define DEVICE_BLUETOOTH_TEST_FAKE_BLUETOOTH_LE_ADVERTISEMENT_WINRT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake WinRT Bluetooth LE advertisement publisher implementation
+// summary: Implements a fake IBluetoothLEAdvertisementPublisher that tracks status and simulates advertisement start, stop, and error events.
+// ---
+
 #include "device/bluetooth/test/fake_bluetooth_le_advertisement_publisher_winrt.h"
 
 #include <utility>
