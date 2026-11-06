@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Factory declarations for WebCrypto algorithm implementations
+// summary: Declares factory functions, defined in the algorithms directory, that create implementations for SHA, AES, HMAC, RSA, EC, HKDF, PBKDF2, Ed25519, X25519, ChaCha20-Poly1305 and post-quantum algorithms.
+// ---
+
 #ifndef COMPONENTS_WEBCRYPTO_ALGORITHM_IMPLEMENTATIONS_H_
 #define COMPONENTS_WEBCRYPTO_ALGORITHM_IMPLEMENTATIONS_H_
 

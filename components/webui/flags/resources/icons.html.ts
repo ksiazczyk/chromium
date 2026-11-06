@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SVG icon set for the flags UI
+// summary: Registers the flags cr-iconset with upload SVG icons used by the import and export buttons in the flags toolbar.
+// ---
+
 import 'chrome://resources/cr_elements/cr_icon/cr_iconset.js';
 
 import {getTrustedHTML} from 'chrome://resources/js/static_types.js';

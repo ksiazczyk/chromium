@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: WebCrypto directory owners
+summary: Lists the code owners for the directory and includes the shared CRYPTO_OWNERS file.

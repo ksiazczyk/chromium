@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Preference names for chrome URLs
+// summary: Declares the RegisterPrefs function and the kInternalOnlyUisEnabled preference name constant for chrome URLs features.
+// ---
+
 #ifndef COMPONENTS_WEBUI_CHROME_URLS_PREF_NAMES_H_
 #define COMPONENTS_WEBUI_CHROME_URLS_PREF_NAMES_H_
 

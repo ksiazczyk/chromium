@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Regional capabilities internals data key constants
+// summary: Defines string constants for the data keys exchanged with the regional capabilities internals WebUI app.
+// ---
+
 #include "components/webui/regional_capabilities_internals/constants.h"
 
 namespace regional_capabilities {

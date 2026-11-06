@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebDatabase implementation
+// summary: Implements the SQLite-backed WebDatabase class, covering initialization, schema versioning and migration, transaction handling, and registration of WebDatabaseTable instances.
+// ---
+
 #include "components/webdata/common/web_database.h"
 
 #include <algorithm>

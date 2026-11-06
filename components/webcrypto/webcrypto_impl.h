@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebCryptoImpl wrapper around the Blink WebCrypto interface
+// summary: Declares WebCryptoImpl, a thread-safe blink::WebCrypto wrapper that forwards asynchronous WebCrypto calls to the synchronous implementation after EnsureInit().
+// ---
+
 #ifndef COMPONENTS_WEBCRYPTO_WEBCRYPTO_IMPL_H_
 #define COMPONENTS_WEBCRYPTO_WEBCRYPTO_IMPL_H_
 

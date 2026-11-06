@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: WebCrypto build targets
+summary: GN build file defining the WebCrypto static library, unit tests, fuzzer support, and EC/RSA key import fuzzer targets.

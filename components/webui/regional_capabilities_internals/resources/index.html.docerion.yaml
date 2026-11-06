@@ -1,0 +1,4 @@
+# Docerion header of index.html.
+type: source
+title: Regional Capabilities Internals page shell
+summary: HTML shell for the regional capabilities internals debug page that defines the page styling and hosts a table populated by the app module script.

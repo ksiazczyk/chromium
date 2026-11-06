@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PartialCircularBuffer class declaration
+// summary: Declares the PartialCircularBuffer class, its BufferData header layout, and constructors for reading or appending and writing to the buffer.
+// ---
+
 #ifndef COMPONENTS_WEBRTC_LOGGING_COMMON_PARTIAL_CIRCULAR_BUFFER_H_
 #define COMPONENTS_WEBRTC_LOGGING_COMMON_PARTIAL_CIRCULAR_BUFFER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Secret key utility declarations
+// summary: Declares shared functions for generating, creating, serializing and parsing symmetric secret keys used by multiple WebCrypto algorithms.
+// ---
+
 #ifndef COMPONENTS_WEBCRYPTO_ALGORITHMS_SECRET_KEY_UTIL_H_
 #define COMPONENTS_WEBCRYPTO_ALGORITHMS_SECRET_KEY_UTIL_H_
 

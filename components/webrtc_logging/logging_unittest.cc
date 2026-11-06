@@ -10,6 +10,12 @@
 // We must include Chromium headers before including the overrides header
 // since webrtc's logging.h file may conflict with chromium.
 
+// ---docerion
+// type: test
+// title: WebRTC text log unit tests
+// summary: Tests RTC_LOG_V, RTC_LOG_E and RTC_LOG output and verbosity configurations by writing logs to a temporary file and checking their contents.
+// ---
+
 #include "base/logging.h"
 
 #include "base/files/file_util.h"

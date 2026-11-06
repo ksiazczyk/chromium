@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the WebRTC logging browser directory
+summary: Grants include access to the upload list and content browser APIs, with test-only access to content public test utilities.

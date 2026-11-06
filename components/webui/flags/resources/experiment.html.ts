@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lit template for an experiment entry
+// summary: Lit HTML template for one experiment, showing its name, description, platforms, permalink, links, and enable/disable or value controls.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {ExperimentElement} from './experiment.js';

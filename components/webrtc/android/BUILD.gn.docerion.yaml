@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: WebRTC Android component build targets
+summary: Defines the android_library and android_resources GN targets for the Chromium WebRTC Android component, including its Java sources, dependencies and notification icon resources.

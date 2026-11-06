@@ -6,6 +6,12 @@
 // resolution, unlike the other return* functions, which are called
 // asynchronously by the host.
 
+// ---docerion
+// type: source
+// title: Version page TypeScript controller
+// summary: TypeScript logic that fetches and renders version, path, variations and platform information on the version page, with copy-to-clipboard support.
+// ---
+
 // clang-format off
 // <if expr="is_ios">
 import 'chrome://resources/js/ios/web_ui.js';

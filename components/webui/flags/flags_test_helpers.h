@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Flags test helpers declarations
+// summary: Declares test helper functions that verify every flag has valid metadata and owners and that never-expire and unexpire flags follow policy.
+// ---
+
 #ifndef COMPONENTS_WEBUI_FLAGS_FLAGS_TEST_HELPERS_H_
 #define COMPONENTS_WEBUI_FLAGS_FLAGS_TEST_HELPERS_H_
 

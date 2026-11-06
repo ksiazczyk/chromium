@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of WebRTC log file and index cleanup
+// summary: Implements deletion of WebRTC log files older than the five-day retention limit and removal of obsolete entries from the log index.
+// ---
+
 #include "components/webrtc_logging/browser/log_cleanup.h"
 
 #include <stddef.h>

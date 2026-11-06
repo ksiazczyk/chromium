@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X25519 WebCrypto algorithm class declaration
+// summary: Declares the X25519Implementation class, which provides key generation, import and export, public key extraction, bit derivation, and cloning support for the X25519 WebCrypto algorithm.
+// ---
+
 #ifndef COMPONENTS_WEBCRYPTO_ALGORITHMS_X25519_H_
 #define COMPONENTS_WEBCRYPTO_ALGORITHMS_X25519_H_
 

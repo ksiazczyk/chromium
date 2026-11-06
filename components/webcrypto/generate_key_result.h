@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Generate key result class declaration
+// summary: Declares the result object for key generation that wraps either a secret key or a public/private key pair.
+// ---
+
 #ifndef COMPONENTS_WEBCRYPTO_GENERATE_KEY_RESULT_H_
 #define COMPONENTS_WEBCRYPTO_GENERATE_KEY_RESULT_H_
 

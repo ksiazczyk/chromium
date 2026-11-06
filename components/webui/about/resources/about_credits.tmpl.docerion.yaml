@@ -1,0 +1,4 @@
+# Docerion header of about_credits.tmpl.
+type: source
+title: Credits page template
+summary: HTML template for the credits page that frames the list of open-source projects, their licenses, and the reciprocal license statement.

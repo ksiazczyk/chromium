@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for the version component
+summary: Applies the common webUI metadata mixins to this directory for Chromium directory metadata tooling.

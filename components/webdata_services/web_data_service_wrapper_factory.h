@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebDataServiceWrapperFactory class declaration
+// summary: Declares the factory with static accessors for obtaining a WebDataServiceWrapper or the payments web data service for a BrowserContext.
+// ---
+
 #ifndef COMPONENTS_WEBDATA_SERVICES_WEB_DATA_SERVICE_WRAPPER_FACTORY_H_
 #define COMPONENTS_WEBDATA_SERVICES_WEB_DATA_SERVICE_WRAPPER_FACTORY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Flags UI constants
+// summary: Defines string constants for flags WebUI message handlers and UI values such as the restart button, owner warning and supported features.
+// ---
+
 #include "components/webui/flags/flags_ui_constants.h"
 
 #include "build/build_config.h"

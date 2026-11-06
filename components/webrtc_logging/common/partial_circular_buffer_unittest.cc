@@ -12,6 +12,12 @@
 // Note that desipte the number of wraps (if one or more), the reference output
 // data is the same since the offset at each wrap is always the same.
 
+// ---docerion
+// type: test
+// title: PartialCircularBuffer unit tests
+// summary: gtest suite verifying read and write behavior of PartialCircularBuffer across no-wrap, single wrap, and repeated wrap scenarios.
+// ---
+
 #include "components/webrtc_logging/common/partial_circular_buffer.h"
 
 #include <stddef.h>

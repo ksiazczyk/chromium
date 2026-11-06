@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata
+summary: Points this directory's metadata at the shared WebRTC mixins from the Blink platform WebRTC module.

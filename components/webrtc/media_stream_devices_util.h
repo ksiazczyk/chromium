@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media stream devices filtering utility header
+// summary: Declares FilterMediaDevices, a helper that filters media stream devices down to those with eligible device IDs.
+// ---
+
 #ifndef COMPONENTS_WEBRTC_MEDIA_STREAM_DEVICES_UTIL_H_
 #define COMPONENTS_WEBRTC_MEDIA_STREAM_DEVICES_UTIL_H_
 

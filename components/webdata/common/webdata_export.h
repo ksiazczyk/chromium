@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Webdata export macro header
+// summary: Defines the WEBDATA_EXPORT macro that controls symbol visibility for the webdata component in component builds.
+// ---
+
 #ifndef COMPONENTS_WEBDATA_COMMON_WEBDATA_EXPORT_H_
 #define COMPONENTS_WEBDATA_COMMON_WEBDATA_EXPORT_H_
 

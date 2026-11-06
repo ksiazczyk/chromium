@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: WebUI directory owners
+summary: Delegates ownership of the webui directory to the platform WebUI owners file.

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the about component
+summary: Specifies allowed include rules for the directory, granting access to the Android JNI headers, components resources, and ui/base.

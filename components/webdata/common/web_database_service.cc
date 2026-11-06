@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebDatabaseService implementation
+// summary: Implements the UI-sequence service that loads and shuts down the web database and schedules read and write tasks to the DB sequence through the backend.
+// ---
+
 #include "components/webdata/common/web_database_service.h"
 
 #include <stddef.h>

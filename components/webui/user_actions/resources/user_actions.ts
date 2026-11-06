@@ -9,6 +9,12 @@
  * chrome://user-actions/ page is open.
  */
 
+// ---docerion
+// type: source
+// title: TypeScript logic for the user actions debug page
+// summary: Registers a WebUI listener that appends a row with the action name and timestamp to the table for each user action event.
+// ---
+
 import {addWebUiListener} from '//resources/js/cr.js';
 import {getRequiredElement} from '//resources/js/util.js';
 

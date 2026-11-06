@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Declarations for WebRTC log cleanup functions
+// summary: Declares functions that delete old or recent WebRTC log files in given directories, along with the log retention time constant.
+// ---
+
 #ifndef COMPONENTS_WEBRTC_LOGGING_BROWSER_LOG_CLEANUP_H_
 #define COMPONENTS_WEBRTC_LOGGING_BROWSER_LOG_CLEANUP_H_
 

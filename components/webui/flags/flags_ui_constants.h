@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Flags UI constant declarations
+// summary: Declares the flags WebUI message handler and UI value constants that must match the constants used in the resource files.
+// ---
+
 #ifndef COMPONENTS_WEBUI_FLAGS_FLAGS_UI_CONSTANTS_H_
 #define COMPONENTS_WEBUI_FLAGS_FLAGS_UI_CONSTANTS_H_
 

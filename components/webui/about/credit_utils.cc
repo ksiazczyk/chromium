@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GetCredits implementation loading the credits HTML resource
+// summary: Implements GetCredits by loading the credits HTML data resource from the resource bundle and optionally appending the credits script tag.
+// ---
+
 #include "components/webui/about/credit_utils.h"
 
 #include <stdint.h>

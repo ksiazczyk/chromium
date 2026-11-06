@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared utility declarations for WebCrypto algorithms
+// summary: Declares shared WebCrypto algorithm helpers such as digest lookup, bit-length truncation, key usage checks, and generic AEAD encryption and decryption.
+// ---
+
 #ifndef COMPONENTS_WEBCRYPTO_ALGORITHMS_UTIL_H_
 #define COMPONENTS_WEBCRYPTO_ALGORITHMS_UTIL_H_
 

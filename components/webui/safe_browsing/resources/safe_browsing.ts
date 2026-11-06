@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+// ---docerion
+// type: source
+// title: Safe Browsing WebUI TypeScript controller
+// summary: TypeScript that requests Safe Browsing state from the C++ UI handler and renders experiments, preferences, policies, pings, hash lookups, download checks and log messages into the page.
+// ---
+
 import '/strings.m.js';
 import 'chrome://resources/cr_elements/cr_tab_box/cr_tab_box.js';
 // <if expr="is_ios">

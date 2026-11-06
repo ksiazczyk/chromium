@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Flags UI switch markers
+// summary: Defines the flag-switches-begin and flag-switches-end markers that bracket switches added by about:flags on the command line.
+// ---
+
 #include "components/webui/flags/flags_ui_switches.h"
 
 namespace switches {

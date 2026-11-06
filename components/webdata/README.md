@@ -1,3 +1,9 @@
+---
+type: readme
+title: Webdata component overview
+summary: Explains that webdata manages a shared per-profile SQLite web database for autofill and search engine data, advises new features to use the //sql compat layer, and notes the ban on content/ dependencies.
+---
+
 The webdata component manages the "web database", a SQLite database stored in
 the user's profile containing various webpage-related metadata such as autofill
 and web search engine data. A single database (per profile) is shared by many

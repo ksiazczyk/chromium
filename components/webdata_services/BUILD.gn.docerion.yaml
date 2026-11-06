@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: webdata_services build definition
+summary: Defines the webdata_services static library and its unit_tests source_set, listing sources and dependencies on autofill, sync, payments, and other components.

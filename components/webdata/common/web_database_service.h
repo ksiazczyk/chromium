@@ -6,6 +6,12 @@
 // information and MUST not be extracted, overwritten or modified except
 // through Chromium defined APIs.
 
+// ---docerion
+// type: source
+// title: WebDatabaseService class declaration
+// summary: Declares the interface for controlling access to the web database, adding tables, scheduling DB tasks, and handling load errors and completion callbacks.
+// ---
+
 #ifndef COMPONENTS_WEBDATA_COMMON_WEB_DATABASE_SERVICE_H_
 #define COMPONENTS_WEBDATA_COMMON_WEB_DATABASE_SERVICE_H_
 

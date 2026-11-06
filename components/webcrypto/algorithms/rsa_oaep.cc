@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RSA-OAEP WebCrypto algorithm implementation
+// summary: Implements RSA-OAEP encryption and decryption through BoringSSL EVP APIs, including optional label handling and hash-specific JWK algorithm names.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

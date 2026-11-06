@@ -1,0 +1,4 @@
+# Docerion header of safe_browsing.html.
+type: source
+title: Safe Browsing WebUI debug page
+summary: HTML page for the Safe Browsing WebUI that arranges debug information such as preferences, report and phishing requests, pings, referrer chains, and logs into tabbed panels.

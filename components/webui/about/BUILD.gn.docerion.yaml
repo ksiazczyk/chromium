@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the about WebUI component
+summary: Defines the static_library targets for the about component with credit_utils sources and dependencies, plus an Android-specific about_ui_android target.

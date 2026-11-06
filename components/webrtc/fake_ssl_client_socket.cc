@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake SSL client socket implementation
+// summary: Implements a stream socket that performs a fake SSL handshake with hard-coded client and server hello messages so proxies treat the connection as SSL.
+// ---
+
 #include "components/webrtc/fake_ssl_client_socket.h"
 
 #include <stddef.h>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the version WebUI component
+summary: Defines the version static library, listing the helper and constants sources and its dependencies on base and the variations components.

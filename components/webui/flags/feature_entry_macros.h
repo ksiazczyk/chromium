@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FeatureEntry type macros
+// summary: Provides macros that simplify declaring feature entries of each type, including feature-with-params and ChromeOS platform features.
+// ---
+
 #ifndef COMPONENTS_WEBUI_FLAGS_FEATURE_ENTRY_MACROS_H_
 #define COMPONENTS_WEBUI_FLAGS_FEATURE_ENTRY_MACROS_H_
 

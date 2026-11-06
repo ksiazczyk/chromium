@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LibFuzzer entry point for EC raw key import
+// summary: LibFuzzer entry point that exercises EC key import from raw data via webcrypto::ImportEcKeyFromRawFuzzData.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

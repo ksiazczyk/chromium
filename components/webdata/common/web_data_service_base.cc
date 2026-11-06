@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebDataServiceBase implementation
+// summary: Implements service initialization, shutdown, request cancellation and database access on behalf of web data services.
+// ---
+
 #include "components/webdata/common/web_data_service_base.h"
 
 #include "base/task/sequenced_task_runner.h"

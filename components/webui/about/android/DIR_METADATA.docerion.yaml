@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata marking the folder as Android
+summary: Declares directory metadata with the OS set to ANDROID for tooling and ownership purposes.

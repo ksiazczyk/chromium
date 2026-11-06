@@ -1,3 +1,11 @@
+---
+type: readme
+title: Web Crypto
+summary: Explains that the directory holds Chromium's Web Crypto implementation, split with Blink, running software crypto via BoringSSL in the renderer with a worker pool.
+relations:
+  - documents /components/webcrypto/webcrypto_impl.h
+---
+
 # Web Crypto
 
 This directory contains the cryptographic code for Chromium's [Web

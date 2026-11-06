@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the user actions WebUI resources
+summary: Defines the build_webui target for the user actions debug page, listing its static CSS and HTML files, TypeScript sources and dependencies.

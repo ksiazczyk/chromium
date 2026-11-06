@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Encapsulate key and bits result classes
+// summary: Declares result objects that hold a shared key or shared bits plus ciphertext for encapsulation and complete Blink WebCrypto results.
+// ---
+
 #ifndef COMPONENTS_WEBCRYPTO_ENCAPSULATE_RESULT_H_
 #define COMPONENTS_WEBCRYPTO_ENCAPSULATE_RESULT_H_
 

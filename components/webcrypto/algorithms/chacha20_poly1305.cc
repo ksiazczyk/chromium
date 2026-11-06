@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChaCha20-Poly1305 WebCrypto algorithm implementation
+// summary: Implements the ChaCha20-Poly1305 AEAD algorithm for WebCrypto, covering encrypt, decrypt, key generation, import and export in raw and JWK formats, and key deserialization for cloning.
+// ---
+
 #include "components/webcrypto/algorithms/chacha20_poly1305.h"
 
 #include <string_view>

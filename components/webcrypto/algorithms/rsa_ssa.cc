@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RSASSA-PKCS1-v1_5 WebCrypto algorithm
+// summary: Implements the RSASSA-PKCS1-v1_5 WebCrypto algorithm, mapping SHA hash variants to JWK algorithm names and delegating sign and verify to RSA helpers.
+// ---
+
 #include <stdint.h>
 
 #include <memory>

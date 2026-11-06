@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LibFuzzer entry point for EC key import from SPKI
+// summary: LibFuzzer entry point that exercises EC key import from SPKI DER data via webcrypto::ImportEcKeyFromDerFuzzData.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

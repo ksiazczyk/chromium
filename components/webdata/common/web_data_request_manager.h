@@ -6,6 +6,12 @@
 // information and MUST not be extracted, overwritten or modified except
 // through Chromium defined APIs.
 
+// ---docerion
+// type: source
+// title: WebDataRequest and WebDataRequestManager declarations
+// summary: Declares the request class and the thread-safe manager that tracks pending WebDataService requests and their consumers.
+// ---
+
 #ifndef COMPONENTS_WEBDATA_COMMON_WEB_DATA_REQUEST_MANAGER_H__
 #define COMPONENTS_WEBDATA_COMMON_WEB_DATA_REQUEST_MANAGER_H__
 

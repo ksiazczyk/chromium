@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RSA shared key handling for WebCrypto algorithms
+// summary: Provides shared RSA functionality including JWK parsing, key generation, import, and export used by RSA-based WebCrypto algorithm implementations.
+// ---
+
 #include "components/webcrypto/algorithms/rsa.h"
 
 #include <string_view>

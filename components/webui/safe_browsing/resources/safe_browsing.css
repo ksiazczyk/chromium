@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: source
+title: Safe Browsing WebUI stylesheet
+summary: Stylesheet for the Safe Browsing WebUI debug page, styling the layout, tab panels, request tables, expandable detail rows, and copy buttons.
+*/
+
 body {
   color: rgb(48, 57, 66);
   font-size: 1em;

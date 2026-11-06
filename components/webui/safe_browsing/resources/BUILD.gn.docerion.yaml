@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Safe Browsing WebUI build definition
+summary: GN build file that defines the WebUI target bundling the Safe Browsing debug page's CSS, HTML and TypeScript, with grit output and dependencies on cr_elements and js resources.

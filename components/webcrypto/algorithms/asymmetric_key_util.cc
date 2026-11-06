@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared asymmetric key utilities for WebCrypto algorithms
+// summary: Implements shared helpers that create WebCrypto public and private keys from BoringSSL EVP_PKEY objects, import unverified SPKI and PKCS8 keys, and split key usages for asymmetric key generation.
+// ---
+
 #include "components/webcrypto/algorithms/asymmetric_key_util.h"
 
 #include <stdint.h>

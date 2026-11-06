@@ -8,6 +8,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Stylesheet for the flags page app
+summary: CSS for the flags WebUI app, defining color variables, light and dark theme support, and layout rules for the header and experiment list.
+*/
+
 :host {
   color: var(--primary-color);
   display: flex;

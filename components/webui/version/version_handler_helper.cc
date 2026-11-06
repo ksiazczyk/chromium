@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Version handler helper implementation
+// summary: Implements helpers that convert variations seed types, sources, and active field trial groups into strings and lists shown on the browser's version page.
+// ---
+
 #include "components/webui/version/version_handler_helper.h"
 
 #include <string_view>

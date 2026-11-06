@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for WebRTC log cleanup
+// summary: Tests deletion of old and recent WebRTC log files and cleanup of obsolete log index entries using temporary directories.
+// ---
+
 #include "components/webrtc_logging/browser/log_cleanup.h"
 
 #include "base/files/file.h"

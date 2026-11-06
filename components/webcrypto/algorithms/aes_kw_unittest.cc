@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AES-KW unit tests
+// summary: Unit tests for the AES-KW WebCrypto implementation using RFC 3394 known-answer vectors, plus key generation, usage validation, and JWK key_ops tests.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

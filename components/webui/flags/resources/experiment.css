@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Styles for a single experiment entry
+summary: Styles individual experiment entries, covering search-match highlighting, select and input controls, dark mode, and responsive narrow-width layout.
+*/
+
 :host {
   display: block;
 }

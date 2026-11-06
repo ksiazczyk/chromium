@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebDatabaseTable base implementation
+// summary: Implements Init and Shutdown for the abstract WebDatabaseTable base class, storing and resetting the database, meta table, and encryptor references.
+// ---
+
 #include "components/webdata/common/web_database_table.h"
 
 #include "base/memory/scoped_refptr.h"

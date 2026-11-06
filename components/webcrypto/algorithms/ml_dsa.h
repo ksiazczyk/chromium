@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ML-DSA WebCrypto algorithm header
+// summary: Declares the MlDsaImplementation class providing key generation, import and export, sign, verify and clone deserialization for the ML-DSA WebCrypto algorithms.
+// ---
+
 #ifndef COMPONENTS_WEBCRYPTO_ALGORITHMS_ML_DSA_H_
 #define COMPONENTS_WEBCRYPTO_ALGORITHMS_ML_DSA_H_
 

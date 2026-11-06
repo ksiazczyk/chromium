@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User actions WebUI controller implementation
+// summary: Implements the WebUI controller that sets up the data source with the user-actions resources and registers the message handler.
+// ---
+
 #include "components/webui/user_actions/user_actions_ui.h"
 
 #include <memory>

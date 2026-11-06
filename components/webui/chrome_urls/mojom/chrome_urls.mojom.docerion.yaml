@@ -1,0 +1,4 @@
+# Docerion header of chrome_urls.mojom.
+type: source
+title: Chrome URLs WebUI Mojom interface definitions
+summary: Defines Mojom structs and interfaces for the Chrome URLs WebUI, covering WebUI URL info, command URLs, and a page handler for fetching URLs and toggling internal debug pages.

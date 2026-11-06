@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include dependency rules for the unit test
+summary: Grants logging_unittest.cc an allowed include dependency on third_party/webrtc_overrides.

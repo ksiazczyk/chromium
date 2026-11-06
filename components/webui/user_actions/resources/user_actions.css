@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: source
+title: Styles for the user actions debug page
+summary: CSS that styles the user actions table, keeping header cells on one line and giving header and body cells grey backgrounds.
+*/
+
 thead {
   white-space: nowrap;
 }

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for chrome_urls Mojo bindings
+summary: Defines the mojo_bindings GN target that compiles chrome_urls.mojom with base and URL Mojom dependencies for WebUI use.

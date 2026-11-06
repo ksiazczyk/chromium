@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the EC algorithm base class
+// summary: Declares the EcAlgorithm base class providing key generation, import, export, and cloning functionality shared by EC-based WebCrypto algorithms such as ECDH and ECDSA.
+// ---
+
 #ifndef COMPONENTS_WEBCRYPTO_ALGORITHMS_EC_H_
 #define COMPONENTS_WEBCRYPTO_ALGORITHMS_EC_H_
 

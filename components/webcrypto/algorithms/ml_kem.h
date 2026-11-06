@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ML-KEM WebCrypto algorithm header
+// summary: Declares the MlKemImplementation class providing key generation, import and export, encapsulate, decapsulate and clone deserialization for the ML-KEM WebCrypto algorithms.
+// ---
+
 #ifndef COMPONENTS_WEBCRYPTO_ALGORITHMS_ML_KEM_H_
 #define COMPONENTS_WEBCRYPTO_ALGORITHMS_ML_KEM_H_
 

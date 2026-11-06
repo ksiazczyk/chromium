@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RSA SPKI key import fuzzer
+// summary: LibFuzzer entry point that imports RSA public keys from SPKI encoded fuzz data through the WebCrypto import path.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

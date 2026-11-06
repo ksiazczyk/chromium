@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuzzer support for WebCrypto key import
+// summary: Implements helpers that initialize Blink and import EC or RSA keys from fuzz data for the WebCrypto LibFuzzer targets.
+// ---
+
 #include "components/webcrypto/fuzzer_support.h"
 
 #include "base/command_line.h"

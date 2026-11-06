@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for WebDataServiceBase
+// summary: Verifies that the profile error callback reports init failure when the web database cannot be initialized.
+// ---
+
 #include "components/webdata/common/web_data_service_base.h"
 
 #include <memory>

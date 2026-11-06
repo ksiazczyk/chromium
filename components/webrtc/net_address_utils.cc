@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network address conversion utilities
+// summary: Implements conversions between Chromium net::IPEndPoint and net::IPAddress types and the corresponding WebRTC socket and IP address types.
+// ---
+
 #include "components/webrtc/net_address_utils.h"
 
 #include <stdint.h>

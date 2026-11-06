@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for internal debug pages disabled WebUI resources
+summary: GN build file defining a build_webui target that packages app.html and app.ts under the internal_debug_pages_disabled grit prefix as a trusted WebUI context.

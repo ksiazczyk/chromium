@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebRTC feature flag definitions
+// summary: Defines the kWebRTCBoostMediaIOThreads feature that boosts thread types of IO threads in utility processes on the WebRTC media path.
+// ---
+
 #include "components/webrtc/features.h"
 
 namespace webrtc::features {

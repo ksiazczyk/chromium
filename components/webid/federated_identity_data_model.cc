@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Federated identity data model implementation
+// summary: Implements the DataKey class of FederatedIdentityDataModel with constructors, assignment operators, and ordering and equality comparisons over origins and account ID.
+// ---
+
 #include "components/webid/federated_identity_data_model.h"
 
 #include <utility>

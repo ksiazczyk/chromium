@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the ChaCha20-Poly1305 algorithm implementation
+// summary: Declares the ChaCha20Poly1305Implementation class, which implements the RFC 8439 AEAD algorithm for WebCrypto operations such as encrypt, decrypt, and key management.
+// ---
+
 #ifndef COMPONENTS_WEBCRYPTO_ALGORITHMS_CHACHA20_POLY1305_H_
 #define COMPONENTS_WEBCRYPTO_ALGORITHMS_CHACHA20_POLY1305_H_
 

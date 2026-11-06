@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AesAlgorithm base class header
+// summary: Declares the AesAlgorithm base class that provides key creation, import, export, operation support checks, and clone deserialization for AES-based WebCrypto algorithms.
+// ---
+
 #ifndef COMPONENTS_WEBCRYPTO_ALGORITHMS_AES_H_
 #define COMPONENTS_WEBCRYPTO_ALGORITHMS_AES_H_
 

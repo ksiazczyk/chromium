@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebDatabaseBackend implementation
+// summary: Implements the database backend that initializes and shuts down the WebDatabase and executes read and write tasks posted by WebDatabaseService on the DB sequence.
+// ---
+
 #include "components/webdata/common/web_database_backend.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lit template for the flags app header and layout
+// summary: Lit HTML template for the flags app, rendering the search bar, reset and import/export actions, toasts, warnings, and tabbed experiment list.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {AppElement} from './app.js';

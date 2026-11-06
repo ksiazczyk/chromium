@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media stream device enumerator implementation
+// summary: Implements the default media stream device enumerator by delegating audio and video capture device queries to content::MediaCaptureDevices, with preferred-device lookups not yet implemented.
+// ---
+
 #include "components/webrtc/media_stream_device_enumerator_impl.h"
 
 #include <memory>

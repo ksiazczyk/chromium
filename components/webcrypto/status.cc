@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebCrypto status and error reporting
+// summary: Implements the Status class with success and typed error constructors used throughout the WebCrypto implementation.
+// ---
+
 #include "components/webcrypto/status.h"
 
 #include "base/numerics/safe_conversions.h"

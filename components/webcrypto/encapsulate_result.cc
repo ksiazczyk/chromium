@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Result holders for WebCrypto key encapsulation
+// summary: Implements EncapsulateKeyResult and EncapsulateBitsResult, which hold the shared key or bits plus ciphertext from KEM encapsulation and complete a Blink WebCryptoResult.
+// ---
+
 #include "components/webcrypto/encapsulate_result.h"
 
 #include "base/check.h"

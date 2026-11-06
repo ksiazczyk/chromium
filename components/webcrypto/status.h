@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebCrypto Status class for operation success and error reporting
+// summary: Declares the Status class that reports success or typed errors of WebCrypto operations, including detailed JWK import errors, while avoiding exposure of sensitive key material.
+// ---
+
 #ifndef COMPONENTS_WEBCRYPTO_STATUS_H_
 #define COMPONENTS_WEBCRYPTO_STATUS_H_
 

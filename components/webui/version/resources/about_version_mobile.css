@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: source
+title: Mobile styles for the version page
+summary: Stylesheet with narrow-screen overrides that adapt the version page layout for phones while larger screens keep the desktop layout.
+*/
+
 /* Apply mobile-specific overrides only on smaller screens to allow large
  * screens (e.g. tablets or foldables in desktop mode) to use the desktop
  * layout from about_version.css. */

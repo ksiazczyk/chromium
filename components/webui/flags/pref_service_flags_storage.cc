@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrefService-backed flags storage implementation
+// summary: Implements the FlagsStorage interface on top of PrefService, persisting enabled experiment flags, origin list and string flag values, and registering the related preferences.
+// ---
+
 #include "components/webui/flags/pref_service_flags_storage.h"
 
 #include "base/logging.h"

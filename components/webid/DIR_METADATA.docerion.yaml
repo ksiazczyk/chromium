@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: WebID directory issue tracking metadata
+summary: Maps the webid directory to the Blink>Identity>FedCM monorail component and Buganizer component 1456331 for issue tracking.

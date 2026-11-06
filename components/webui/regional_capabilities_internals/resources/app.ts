@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Regional capabilities internals page script
+// summary: TypeScript module that fills the page's data table with rows showing regional capability values such as active program, country codes, and eligibility from loadTimeData.
+// ---
+
 import '/strings.m.js';
 
 import {loadTimeData} from 'chrome://resources/js/load_time_data.js';

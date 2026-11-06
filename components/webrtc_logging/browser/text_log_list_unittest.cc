@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for TextLogList path helpers
+// summary: Verifies that log directory and log list file paths are built correctly for both Web and extension API types.
+// ---
+
 #include "components/webrtc_logging/browser/text_log_list.h"
 
 #include <vector>

@@ -13,6 +13,12 @@
 // NOTE: This StreamSocket implementation does *not* do a real SSL
 // handshake nor does it do any encryption!
 
+// ---docerion
+// type: source
+// title: FakeSSLClientSocket class declaration
+// summary: Declares a StreamSocket wrapper that fakes an SSL handshake for servers listening on port 443 without SSL, performing no real encryption itself.
+// ---
+
 #ifndef COMPONENTS_WEBRTC_FAKE_SSL_CLIENT_SOCKET_H_
 #define COMPONENTS_WEBRTC_FAKE_SSL_CLIENT_SOCKET_H_
 

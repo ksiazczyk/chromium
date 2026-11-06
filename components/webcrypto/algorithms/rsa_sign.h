@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RSA signing and verification helper declarations
+// summary: Declares helper functions for RSA-SSA and RSA-PSS signing and verification shared by the WebCrypto algorithm implementations.
+// ---
+
 #ifndef COMPONENTS_WEBCRYPTO_ALGORITHMS_RSA_SIGN_H_
 #define COMPONENTS_WEBCRYPTO_ALGORITHMS_RSA_SIGN_H_
 

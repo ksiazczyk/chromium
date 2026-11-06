@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ML-KEM-768-X25519 unit tests
+// summary: Unit tests covering key generation, raw public and raw seed import/export, and encapsulate/decapsulate operations for the ML-KEM-768-X25519 algorithm.
+// ---
+
 #include "components/webcrypto/algorithm_dispatch.h"
 #include "components/webcrypto/algorithms/test_helpers.h"
 #include "components/webcrypto/encapsulate_result.h"

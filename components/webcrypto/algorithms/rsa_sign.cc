@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RSA signing and verification implementation
+// summary: Implements RSA-SSA and RSA-PSS signing and verification for WebCrypto using BoringSSL, including PSS padding and salt length handling.
+// ---
+
 #include <stddef.h>
 
 #include "base/numerics/safe_math.h"

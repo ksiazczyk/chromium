@@ -1,3 +1,9 @@
+---
+type: plan
+title: WebCrypto maintenance plan
+summary: Outlines planned code changes and behavior or spec changes for the WebCrypto component, which is currently in maintenance mode.
+---
+
 # //components/webcrypto plan
 
 This document outlines the plan for the code living in this directory. The

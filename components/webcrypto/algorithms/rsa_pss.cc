@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RSA-PSS WebCrypto algorithm implementation
+// summary: Implements RSA-PSS signing and verification with configurable salt length and maps hash algorithms to their JWK algorithm names.
+// ---
+
 #include <stdint.h>
 
 #include <memory>

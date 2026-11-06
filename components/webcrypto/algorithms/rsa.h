@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RsaHashedAlgorithm base class header
+// summary: Declares the RsaHashedAlgorithm base class providing key generation, import, and export for RSA algorithms whose keys bind a hash parameter.
+// ---
+
 #ifndef COMPONENTS_WEBCRYPTO_ALGORITHMS_RSA_H_
 #define COMPONENTS_WEBCRYPTO_ALGORITHMS_RSA_H_
 

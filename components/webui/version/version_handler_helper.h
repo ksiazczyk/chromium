@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Version handler helper declarations
+// summary: Declares helper functions that format variations seed, source, and field trial information for display on the browser's version page.
+// ---
+
 #ifndef COMPONENTS_WEBUI_VERSION_VERSION_HANDLER_HELPER_H_
 #define COMPONENTS_WEBUI_VERSION_VERSION_HANDLER_HELPER_H_
 

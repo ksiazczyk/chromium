@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Main flags app element with search and import/export
+// summary: Implements the flags-app Lit element, including in-page search with highlighting, legacy flag hash redirects, and import/export of flag settings.
+// ---
+
 // <if expr="is_ios">
 import 'chrome://resources/js/ios/web_ui.js';
 // </if>

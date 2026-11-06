@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FeatureEntry implementation
+// summary: Implements FeatureEntry methods for matching internal names, counting options, and generating names and descriptions for flag choices.
+// ---
+
 #include "components/webui/flags/feature_entry.h"
 
 #include "base/check_op.h"

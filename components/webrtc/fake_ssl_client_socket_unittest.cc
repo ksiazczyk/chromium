@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake SSL client socket unit tests
+// summary: Unit tests for the fake SSL handshake, covering successful handshakes and injected errors at the connect, client hello and server hello steps.
+// ---
+
 
 #include "components/webrtc/fake_ssl_client_socket.h"
 

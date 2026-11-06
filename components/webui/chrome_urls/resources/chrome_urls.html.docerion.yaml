@@ -1,0 +1,4 @@
+# Docerion header of chrome_urls.html.
+type: source
+title: Chrome URLs HTML host page
+summary: HTML entry page for the Chrome URLs WebUI that sets up locale, color scheme and viewport handling and mounts the chrome-urls-app element with its module script.

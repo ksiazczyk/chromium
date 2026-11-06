@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebDataRequest and WebDataRequestManager implementation
+// summary: Implements web data request objects and the manager that creates, tracks, cancels and completes pending requests across threads.
+// ---
+
 #include "components/webdata/common/web_data_request_manager.h"
 
 #include <utility>

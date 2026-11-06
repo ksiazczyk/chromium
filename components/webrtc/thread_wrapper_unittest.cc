@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebRTC ThreadWrapper unit tests
+// summary: Unit tests verifying task posting, delayed tasks, and synchronous BlockingCall behavior of ThreadWrapper on the same and other threads.
+// ---
+
 #include "components/webrtc/thread_wrapper.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'CreditUtils: credits-related JNI utilities'
+// summary: Java utility class in the aboutui component that declares a native method for writing the credits page HTML to a given file descriptor.
+// ---
+
 package org.chromium.components.aboutui;
 
 import org.jni_zero.JNINamespace;

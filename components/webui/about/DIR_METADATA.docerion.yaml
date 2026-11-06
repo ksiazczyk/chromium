@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the about component
+summary: Declares that this directory inherits the common WebUI metadata mixin from ui/webui/COMMON_METADATA.

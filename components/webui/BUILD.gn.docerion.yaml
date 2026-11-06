@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: WebUI resources build group
+summary: Defines a GN group that aggregates the resource targets of several WebUI components such as chrome_urls, flags, safe_browsing and version.

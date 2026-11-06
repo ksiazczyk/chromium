@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RSA-OAEP unit tests
+// summary: Unit tests for RSA-OAEP covering PKCS#8 and JWK key import, encryption, decryption, and error cases for mismatched algorithm parameters.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

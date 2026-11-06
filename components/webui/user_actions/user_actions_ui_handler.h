@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User actions WebUI message handler declaration
+// summary: Declares the message handler that listens to user action notifications and passes them into the page's JavaScript.
+// ---
+
 #ifndef COMPONENTS_WEBUI_USER_ACTIONS_USER_ACTIONS_UI_HANDLER_H_
 #define COMPONENTS_WEBUI_USER_ACTIONS_USER_ACTIONS_UI_HANDLER_H_
 

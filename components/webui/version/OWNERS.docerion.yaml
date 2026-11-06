@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the version component
+summary: Delegates code ownership of this directory to the shared platform owners file for ui/webui.

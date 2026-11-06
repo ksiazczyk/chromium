@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unit tests for FlagsState
+// summary: Tests flag conversion to switches, flag rename migration, and feature variation parameter handling using test entries and prefs.
+// ---
+
 #include "components/webui/flags/flags_state.h"
 
 #include <stddef.h>

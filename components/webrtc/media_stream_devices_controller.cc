@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media stream devices controller
+// summary: Implements permission handling for microphone and camera requests from the renderer, validating origins and consulting permission settings before granting access to devices.
+// ---
+
 #include "components/webrtc/media_stream_devices_controller.h"
 
 #include <algorithm>

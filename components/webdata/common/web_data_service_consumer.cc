@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebDataServiceConsumer implementation
+// summary: Implements the consumer constructor, destructor and weak pointer accessor used for web data service callbacks.
+// ---
+
 #include "components/webdata/common/web_data_service_consumer.h"
 
 WebDataServiceConsumer::WebDataServiceConsumer() = default;

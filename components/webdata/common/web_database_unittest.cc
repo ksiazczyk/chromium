@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebDatabase unit tests
+// summary: Unit tests for WebDatabase initialization, covering success histograms and version handling that preserves compatible future versions and razes incompatible databases.
+// ---
+
 #include "components/webdata/common/web_database.h"
 
 #include <memory>

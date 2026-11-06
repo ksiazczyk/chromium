@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lit HTML template for the Chrome URLs page
+// summary: Renders the Lit HTML template listing Chrome URLs, internal debugging pages with an enable toggle, and debug-only command URLs.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {ChromeUrlsAppElement} from './app.js';

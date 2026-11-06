@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media stream devices filtering utility
+// summary: Implements FilterMediaDevices, which returns only the media stream devices whose IDs appear in the eligible device ID list.
+// ---
+
 #include "components/webrtc/media_stream_devices_util.h"
 
 namespace webrtc {

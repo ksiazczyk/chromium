@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebRTC feature flag declarations
+// summary: Declares the kWebRTCBoostMediaIOThreads base feature for export from the components WebRTC features component.
+// ---
+
 #ifndef COMPONENTS_WEBRTC_FEATURES_H_
 #define COMPONENTS_WEBRTC_FEATURES_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebDataServiceConsumer interface declaration
+// summary: Declares the interface notified when asynchronous web data service requests complete, backed by a weak pointer factory.
+// ---
+
 #ifndef COMPONENTS_WEBDATA_COMMON_WEB_DATA_SERVICE_CONSUMER_H_
 #define COMPONENTS_WEBDATA_COMMON_WEB_DATA_SERVICE_CONSUMER_H_
 

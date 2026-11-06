@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RSA-PSS unit tests
+// summary: Unit tests for RSA-PSS verifying signature randomness with non-zero salts, deterministic zero-salt signing, and verification of valid and corrupted signatures.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

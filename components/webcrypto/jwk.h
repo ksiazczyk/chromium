@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JWK reader class declaration
+// summary: Declares JwkReader for strict schema-checked parsing of JSON Web Key input, plus JWK conversion helper declarations.
+// ---
+
 #ifndef COMPONENTS_WEBCRYPTO_JWK_H_
 #define COMPONENTS_WEBCRYPTO_JWK_H_
 
