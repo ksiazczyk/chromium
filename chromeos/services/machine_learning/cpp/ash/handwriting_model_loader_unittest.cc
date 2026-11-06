@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Handwriting model loader unit tests
+// summary: Unit tests for the handwriting model loader covering switch values, invalid languages, and rootfs and DLC loading paths using fake D-Bus and service connections.
+// ---
+
 #include "chromeos/services/machine_learning/cpp/ash/handwriting_model_loader.h"
 
 #include <string>

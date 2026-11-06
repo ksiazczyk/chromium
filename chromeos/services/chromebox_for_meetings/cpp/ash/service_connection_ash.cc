@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default no-op Ash ServiceConnection implementation
+// summary: Provides the default ServiceConnection for ash, which resets CfmServiceContext receivers with a service-unavailable reason on non-CfM devices.
+// ---
+
 #include <utility>
 
 #include "base/component_export.h"

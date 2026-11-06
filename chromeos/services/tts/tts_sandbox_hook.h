@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TTS sandbox hook declaration
+// summary: Declares TtsPreSandboxHook, the pre-sandbox initialization hook for the TTS service process.
+// ---
+
 #ifndef CHROMEOS_SERVICES_TTS_TTS_SANDBOX_HOOK_H_
 #define CHROMEOS_SERVICES_TTS_TTS_SANDBOX_HOOK_H_
 

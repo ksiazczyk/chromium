@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for network_config
+summary: Defines include dependency rules for the network_config service, allowing includes from components/onc.

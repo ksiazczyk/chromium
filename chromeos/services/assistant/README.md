@@ -1,3 +1,9 @@
+---
+type: readme
+title: About //chromeos/services/assistant
+summary: Explains that the code migrated to //chromeos/ash/services/assistant and this directory now holds code shared by Lacros-chrome and Ash-chrome.
+---
+
 # About //chromeos/services/assistant
 
 Codes used to live here have been migrated to

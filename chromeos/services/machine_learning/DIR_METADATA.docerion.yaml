@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Machine learning service directory metadata
+summary: Sets the Buganizer component ID and the ML service team email address for this directory.

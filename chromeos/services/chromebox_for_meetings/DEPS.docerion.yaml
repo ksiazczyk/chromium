@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for chromebox_for_meetings
+summary: Defines allowed include dependencies for the chromebox_for_meetings service, permitting mojo core and mojo public headers.

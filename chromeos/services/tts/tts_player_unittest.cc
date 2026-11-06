@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TtsPlayer unit tests
+// summary: Unit tests for TtsPlayer covering audio rendering, buffer handling and TTS event observation.
+// ---
+
 #include "chromeos/services/tts/tts_player.h"
 
 #include <memory>

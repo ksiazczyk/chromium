@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PlaybackTtsStream class declaration
+// summary: Declares PlaybackTtsStream, a Mojo playback stream that sends TTS audio buffers to a TtsPlayer for audio output.
+// ---
+
 #ifndef CHROMEOS_SERVICES_TTS_PLAYBACK_TTS_STREAM_H_
 #define CHROMEOS_SERVICES_TTS_PLAYBACK_TTS_STREAM_H_
 

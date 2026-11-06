@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Google TTS stream implementation
+// summary: Implements GoogleTtsStream, adapting the TtsStream Mojo interface to the libchrometts native engine for voice installation and playback.
+// ---
+
 #include "chromeos/services/tts/google_tts_stream.h"
 
 #include <dlfcn.h>

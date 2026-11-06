@@ -1,0 +1,4 @@
+# Docerion header of cros_network_config_resources.grdp.
+type: config
+title: Chrome OS network config grit resources
+summary: Grit resource part that bundles generated network config mojom WebUI JavaScript files for inclusion in Chrome OS builds.

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners file for chromebox_for_meetings
+summary: Delegates code ownership to the OWNERS file of chromeos/ash/components/chromebox_for_meetings.

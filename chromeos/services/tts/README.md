@@ -1,3 +1,9 @@
+---
+type: readme
+title: ChromeOS text-to-speech service overview
+summary: Explains how TtsService and TtsClient provide a private API to the sandboxed ChromeOS text-to-speech engine.
+---
+
 TtsService and TtsClient provide a private api to communicate with the
 text-to-speech engine in Chrome OS.
 

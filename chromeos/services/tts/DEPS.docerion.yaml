@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: TTS service include rules
+summary: Lists the directories whose headers the TTS service code is allowed to include.

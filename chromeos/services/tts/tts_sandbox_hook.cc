@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TTS sandbox hook implementation
+// summary: Implements the pre-sandbox hook that loads libchrometts, grants broker file permissions and starts the Linux sandbox broker for the TTS service.
+// ---
+
 #include "chromeos/services/tts/tts_sandbox_hook.h"
 
 #include <dlfcn.h>
