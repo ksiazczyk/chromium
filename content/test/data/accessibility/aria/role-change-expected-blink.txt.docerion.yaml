@@ -1,0 +1,4 @@
+# Docerion header of role-change-expected-blink.txt.
+type: test
+title: Role change expected Blink accessibility tree
+summary: Expected Blink accessibility tree snapshot for the role-change test, showing a grid and a real data table after role updates.

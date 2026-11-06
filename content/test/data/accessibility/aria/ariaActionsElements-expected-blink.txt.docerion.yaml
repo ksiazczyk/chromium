@@ -1,0 +1,4 @@
+# Docerion header of ariaActionsElements-expected-blink.txt.
+type: test
+title: ariaActionsElements expected Blink accessibility tree
+summary: Expected Blink accessibility tree snapshot for the ariaActionsElements test, showing tabs whose actionsIds reference their action buttons.

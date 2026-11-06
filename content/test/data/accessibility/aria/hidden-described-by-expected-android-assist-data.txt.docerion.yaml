@@ -1,0 +1,4 @@
+# Docerion header of hidden-described-by-expected-android-assist-data.txt.
+type: test
+title: Hidden described-by expected Android assist data
+summary: Expected Android assist data tree for the hidden aria-describedby test page.

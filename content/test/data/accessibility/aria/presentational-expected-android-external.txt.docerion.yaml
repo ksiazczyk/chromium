@@ -1,0 +1,4 @@
+# Docerion header of presentational-expected-android-external.txt.
+type: test
+title: Expected Android external tree for presentational test
+summary: Expected Android external accessibility tree snapshot for the ARIA presentational test page.

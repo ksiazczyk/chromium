@@ -1,0 +1,4 @@
+# Docerion header of supplemental-description-nav-expected-blink.txt.
+type: test
+title: Supplemental description nav expected Blink output
+summary: Expected Blink accessibility tree snapshot for the supplemental description nav test page, showing a navigation landmark with links.

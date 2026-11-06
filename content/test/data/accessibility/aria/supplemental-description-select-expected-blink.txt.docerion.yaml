@@ -1,0 +1,4 @@
+# Docerion header of supplemental-description-select-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for select supplemental description
+summary: Expected Blink accessibility tree for a select element with a supplemental description.

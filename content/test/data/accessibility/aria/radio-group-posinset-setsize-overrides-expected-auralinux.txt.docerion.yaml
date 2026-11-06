@@ -1,0 +1,4 @@
+# Docerion header of radio-group-posinset-setsize-overrides-expected-auralinux.txt.
+type: test
+title: Expected Aura Linux output for radio group posinset and setsize overrides
+summary: Expected Aura Linux accessibility tree for radio buttons with aria-setsize and aria-posinset overrides.

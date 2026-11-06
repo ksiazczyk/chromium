@@ -1,0 +1,4 @@
+# Docerion header of heading-with-aria-label-expected-android.txt.
+type: test
+title: Heading with aria-label expected Android tree
+summary: Expected Android accessibility tree for the heading with aria-label test page.

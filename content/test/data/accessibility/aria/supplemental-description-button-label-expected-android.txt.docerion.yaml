@@ -1,0 +1,4 @@
+# Docerion header of supplemental-description-button-label-expected-android.txt.
+type: test
+title: Supplemental description button label expected Android tree
+summary: Expected Android accessibility tree for the supplemental-description-button-label test showing a button with content description 'Submit form'.

@@ -1,0 +1,4 @@
+# Docerion header of graphics-roles-expected-android-assist-data.txt.
+type: test
+title: Graphics roles expected Android assist data
+summary: Expected Android assist data output for the graphics ARIA roles graphics-document, graphics-object and graphics-symbol.

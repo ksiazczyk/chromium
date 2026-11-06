@@ -1,0 +1,4 @@
+# Docerion header of supplemental-description-select-expected-android-external.txt.
+type: test
+title: Expected Android external output for select supplemental description
+summary: Expected Android external accessibility output for a select element carrying a supplemental description.

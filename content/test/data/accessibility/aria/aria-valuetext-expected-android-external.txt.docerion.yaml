@@ -1,0 +1,4 @@
+# Docerion header of aria-valuetext-expected-android-external.txt.
+type: test
+title: aria-valuetext expected Android external
+summary: Expected Android external-format accessibility tree for the aria-valuetext test, with a progress indicator whose state description is 'three'.

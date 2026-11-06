@@ -1,0 +1,4 @@
+# Docerion header of ariaControlsElements-expected-blink.txt.
+type: test
+title: ariaControlsElements expected Blink accessibility tree
+summary: Expected Blink accessibility tree snapshot for the ariaControlsElements test, showing a menu bar item whose controlsIds reference a menu.

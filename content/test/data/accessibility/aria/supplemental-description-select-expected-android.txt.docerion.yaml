@@ -1,0 +1,4 @@
+# Docerion header of supplemental-description-select-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for select supplemental description
+summary: Expected Android accessibility tree for a select element with a supplemental description hint.

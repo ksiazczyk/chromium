@@ -1,0 +1,4 @@
+# Docerion header of hidden-described-by-expected-uia-win.txt.
+type: test
+title: Expected UIA Win tree for hidden-described-by test
+summary: Expected UIA (Windows) accessibility tree snapshot checking that hidden-described-by spans appear as groups with the right names.

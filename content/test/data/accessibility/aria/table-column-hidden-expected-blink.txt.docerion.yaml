@@ -1,0 +1,4 @@
+# Docerion header of table-column-hidden-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for table with hidden column
+summary: Expected Blink accessibility tree for a table test where one column is hidden.

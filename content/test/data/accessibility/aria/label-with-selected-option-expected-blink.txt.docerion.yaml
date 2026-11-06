@@ -1,0 +1,4 @@
+# Docerion header of label-with-selected-option-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for labels with selected options
+summary: Expected Blink accessibility tree snapshot verifying how label accessible names are computed when they contain listboxes or comboboxes with selected options.

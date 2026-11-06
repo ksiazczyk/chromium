@@ -1,0 +1,4 @@
+# Docerion header of graphics-roles-expected-mac.txt.
+type: test
+title: Graphics roles expected macOS accessibility tree
+summary: Expected macOS accessibility tree snapshot with AX roles and role descriptions for the graphics ARIA roles.

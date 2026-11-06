@@ -1,0 +1,4 @@
+# Docerion header of radio-group-posinset-setsize-overrides-expected-mac.txt.
+type: test
+title: Expected macOS output for radio group posinset and setsize overrides
+summary: Expected macOS accessibility tree for radio buttons with aria-setsize and aria-posinset overrides.

@@ -1,0 +1,4 @@
+# Docerion header of aria1.1-combobox-expected-android.txt.
+type: test
+title: aria1.1-combobox expected Android
+summary: Expected Android accessibility tree for the ARIA 1.1 combobox test, showing expanded comboboxes with editable fields and list items Alabama and Alaska.

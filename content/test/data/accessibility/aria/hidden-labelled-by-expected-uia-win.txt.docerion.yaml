@@ -1,0 +1,4 @@
+# Docerion header of hidden-labelled-by-expected-uia-win.txt.
+type: test
+title: Expected UIA Win accessibility tree for hidden labelled-by test
+summary: Expected UIA Windows accessibility tree for the hidden labelled-by test, listing document and group elements with their names.

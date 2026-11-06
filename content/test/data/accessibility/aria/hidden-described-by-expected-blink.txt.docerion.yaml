@@ -1,0 +1,4 @@
+# Docerion header of hidden-described-by-expected-blink.txt.
+type: test
+title: Expected Blink tree for hidden-described-by test
+summary: Expected Blink accessibility tree snapshot verifying how aria-describedby descriptions are exposed for spans with hidden ancestors and siblings.

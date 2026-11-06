@@ -1,0 +1,4 @@
+# Docerion header of heading-with-aria-label-expected-blink.txt.
+type: test
+title: Heading with aria-label expected Blink tree
+summary: Expected Blink accessibility tree for the heading with aria-label test page.

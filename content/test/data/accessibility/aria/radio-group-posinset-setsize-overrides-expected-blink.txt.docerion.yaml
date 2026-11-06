@@ -1,0 +1,4 @@
+# Docerion header of radio-group-posinset-setsize-overrides-expected-blink.txt.
+type: test
+title: Expected Blink output for radio group posinset and setsize overrides
+summary: Expected Blink internal accessibility tree for radio buttons with aria-setsize and aria-posinset overrides.

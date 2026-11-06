@@ -1,0 +1,4 @@
+# Docerion header of supplemental-description-annotate-expected-blink.txt.
+type: test
+title: Supplemental description annotate expected Blink tree
+summary: Expected Blink accessibility tree for the supplemental-description-annotate test showing a heading with its static text and labeled container.

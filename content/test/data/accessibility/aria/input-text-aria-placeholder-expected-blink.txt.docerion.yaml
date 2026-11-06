@@ -1,0 +1,4 @@
+# Docerion header of input-text-aria-placeholder-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for aria-placeholder text inputs
+summary: Expected Blink accessibility tree snapshot verifying how aria-placeholder, placeholder, aria-label, and aria-description combine to name text fields.

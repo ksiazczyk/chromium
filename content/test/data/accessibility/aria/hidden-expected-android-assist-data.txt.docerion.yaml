@@ -1,0 +1,4 @@
+# Docerion header of hidden-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for hidden test
+summary: Expected Android assist data snapshot describing the WebView view hierarchy with aria-description hints for the hidden test page.

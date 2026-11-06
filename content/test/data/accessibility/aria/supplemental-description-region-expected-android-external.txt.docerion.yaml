@@ -1,0 +1,4 @@
+# Docerion header of supplemental-description-region-expected-android-external.txt.
+type: test
+title: Supplemental description region expected Android external output
+summary: Expected Android external accessibility dump for the supplemental description region test page, showing a region with container title 'Example'.

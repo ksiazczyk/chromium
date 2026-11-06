@@ -1,0 +1,4 @@
+# Docerion header of supplemental-description-links-expected-android.txt.
+type: test
+title: Supplemental description links expected Android output
+summary: Expected Android accessibility tree for the supplemental description links test with a read-more link.

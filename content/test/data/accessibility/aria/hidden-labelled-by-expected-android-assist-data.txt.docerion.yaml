@@ -1,0 +1,4 @@
+# Docerion header of hidden-labelled-by-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for hidden labelled-by test
+summary: Expected Android assist data snapshot for the hidden labelled-by accessibility test, listing WebView views with aria labels and labelled-by roles.

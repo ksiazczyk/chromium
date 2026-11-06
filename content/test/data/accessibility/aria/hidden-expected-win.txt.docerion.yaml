@@ -1,0 +1,4 @@
+# Docerion header of hidden-expected-win.txt.
+type: test
+title: Expected Windows tree for hidden test
+summary: Expected Windows MSAA/IA2 accessibility tree snapshot verifying that hidden spans expose descriptions as sections.

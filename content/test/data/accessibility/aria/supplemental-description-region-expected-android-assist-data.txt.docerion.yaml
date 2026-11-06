@@ -1,0 +1,4 @@
+# Docerion header of supplemental-description-region-expected-android-assist-data.txt.
+type: test
+title: Supplemental description region expected Android assist data
+summary: Empty expected Android assist data snapshot for the supplemental description region test.

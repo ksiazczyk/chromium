@@ -1,0 +1,4 @@
+# Docerion header of supplemental-description-annotate-expected-android.txt.
+type: test
+title: Supplemental description annotate expected Android tree
+summary: "Expected Android accessibility tree for the supplemental-description-annotate test with a level-3 heading named 'Phone Number: Required question'."

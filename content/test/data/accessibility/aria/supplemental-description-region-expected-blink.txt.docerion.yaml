@@ -1,0 +1,4 @@
+# Docerion header of supplemental-description-region-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for region supplemental description
+summary: Expected Blink accessibility tree snapshot for a test page checking the region role with a supplemental description.

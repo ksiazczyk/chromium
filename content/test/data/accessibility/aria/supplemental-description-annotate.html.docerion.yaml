@@ -1,0 +1,4 @@
+# Docerion header of supplemental-description-annotate.html.
+type: test
+title: Supplemental description annotate test page
+summary: HTML fixture with a level-3 heading whose span carries an aria-label used as a supplemental description in accessibility tests.

@@ -1,0 +1,4 @@
+# Docerion header of supplemental-description-select.html.
+type: test
+title: Select supplemental description test page
+summary: HTML test page with a select element and aria-label used to verify supplemental description handling.

@@ -1,0 +1,4 @@
+# Docerion header of input-text-aria-placeholder-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for aria-placeholder text inputs
+summary: Expected Windows accessibility tree snapshot verifying placeholder and description exposure for text inputs using aria-placeholder.

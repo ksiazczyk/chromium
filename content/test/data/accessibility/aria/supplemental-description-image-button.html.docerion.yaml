@@ -1,0 +1,4 @@
+# Docerion header of supplemental-description-image-button.html.
+type: test
+title: Supplemental description image button test page
+summary: HTML test page with a close button using aria-label Close and an aria-hidden SVG icon.

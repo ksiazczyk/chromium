@@ -1,0 +1,4 @@
+# Docerion header of aria-valuetext-expected-win.txt.
+type: test
+title: aria-valuetext expected Windows
+summary: Expected Windows accessibility tree for the aria-valuetext test, showing a progressbar role with value 'three' and range 1 to 96.

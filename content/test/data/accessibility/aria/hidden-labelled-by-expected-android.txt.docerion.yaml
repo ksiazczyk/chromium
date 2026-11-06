@@ -1,0 +1,4 @@
+# Docerion header of hidden-labelled-by-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for hidden labelled-by test
+summary: Expected Android accessibility tree for the hidden labelled-by test, showing views with container titles and a TextView named span-C.

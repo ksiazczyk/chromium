@@ -1,0 +1,4 @@
+# Docerion header of disabled-aria-combobox-has-value-expected-blink.txt.
+type: test
+title: Expected Blink tree for disabled ARIA combobox with value
+summary: Expected Blink accessibility tree dump for the disabled combobox test, showing comboboxes that keep their value while disabled.

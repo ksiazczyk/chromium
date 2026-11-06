@@ -1,0 +1,4 @@
+# Docerion header of hidden-described-by-expected-android-external.txt.
+type: test
+title: Hidden described-by expected Android external tree
+summary: Expected Android external accessibility tree for the hidden aria-describedby test page.

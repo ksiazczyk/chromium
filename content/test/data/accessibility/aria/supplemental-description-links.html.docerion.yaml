@@ -1,0 +1,4 @@
+# Docerion header of supplemental-description-links.html.
+type: test
+title: Supplemental description links test page
+summary: HTML fixture with a link whose aria-label provides a fuller description than the visible '[Read more...]' text, for accessibility testing.

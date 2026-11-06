@@ -1,0 +1,4 @@
+# Docerion header of radio-group-calculation-with-ignored-radios-expected-auralinux.txt.
+type: test
+title: Expected auralinux accessibility output for radio group with ignored radios
+summary: Expected auralinux accessibility output for a radio group with set size 2, covering the Huey and Dewey radio buttons.

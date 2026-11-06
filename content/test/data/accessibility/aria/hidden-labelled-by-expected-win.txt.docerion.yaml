@@ -1,0 +1,4 @@
+# Docerion header of hidden-labelled-by-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for hidden labelled-by test
+summary: Expected Windows MSAA/IA2 accessibility tree for the hidden labelled-by test, listing document, section and grouping roles with names.

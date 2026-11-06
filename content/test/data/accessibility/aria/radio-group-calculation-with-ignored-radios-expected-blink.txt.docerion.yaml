@@ -1,0 +1,4 @@
+# Docerion header of radio-group-calculation-with-ignored-radios-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for radio group with ignored radios
+summary: Expected Blink accessibility tree output for a radio group, showing visible Huey and Dewey radios and an ignored invisible Louie radio.

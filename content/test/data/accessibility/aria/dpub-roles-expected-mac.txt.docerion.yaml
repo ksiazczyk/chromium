@@ -1,0 +1,4 @@
+# Docerion header of dpub-roles-expected-mac.txt.
+type: test
+title: DPUB roles expected accessibility tree for macOS
+summary: Expected macOS accessibility tree snapshot showing AX roles, subroles and role descriptions for each DPUB doc-* role in the test page.

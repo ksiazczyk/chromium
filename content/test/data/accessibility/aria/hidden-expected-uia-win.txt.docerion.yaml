@@ -1,0 +1,4 @@
+# Docerion header of hidden-expected-uia-win.txt.
+type: test
+title: Expected UIA Win tree for hidden test
+summary: Expected UIA (Windows) accessibility tree snapshot verifying that hidden spans form non-control groups in the hidden test.

@@ -1,0 +1,4 @@
+# Docerion header of supplemental-description-nav-expected-android-external.txt.
+type: test
+title: Supplemental description nav expected Android external output
+summary: Expected Android external accessibility dump for the supplemental description nav test page, listing navigation links with actions and roles.

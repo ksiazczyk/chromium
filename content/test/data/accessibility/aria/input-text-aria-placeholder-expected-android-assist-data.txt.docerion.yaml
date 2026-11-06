@@ -1,0 +1,4 @@
+# Docerion header of input-text-aria-placeholder-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for input text aria-placeholder test
+summary: Expected Android assist data snapshot for the input text aria-placeholder test, listing EditText fields with aria-placeholder, label and description attributes.

@@ -1,0 +1,4 @@
+# Docerion header of aria-valuetext-expected-blink.txt.
+type: test
+title: aria-valuetext expected Blink
+summary: Expected Blink internal accessibility tree for the aria-valuetext test, with a progress indicator carrying ariaValueText 'three' and range 1 to 96.

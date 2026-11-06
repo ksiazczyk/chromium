@@ -1,0 +1,4 @@
+# Docerion header of supplemental-description-image-button-expected-android-external.txt.
+type: test
+title: Supplemental description image button expected Android external output
+summary: Expected Android external accessibility snapshot for an image button labeled Close via aria-label.

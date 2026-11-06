@@ -1,0 +1,4 @@
+# Docerion header of supplemental-description-image-button-expected-android-assist-data.txt.
+type: test
+title: Supplemental description image button expected Android assist data
+summary: Empty expected output file for the Android assist data snapshot of the supplemental description image button test.

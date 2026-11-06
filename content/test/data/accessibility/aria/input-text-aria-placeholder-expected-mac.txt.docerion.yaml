@@ -1,0 +1,4 @@
+# Docerion header of input-text-aria-placeholder-expected-mac.txt.
+type: test
+title: Expected macOS accessibility tree for aria-placeholder text inputs
+summary: Expected macOS accessibility tree snapshot verifying AXPlaceholderValue and related attributes for text inputs using aria-placeholder.

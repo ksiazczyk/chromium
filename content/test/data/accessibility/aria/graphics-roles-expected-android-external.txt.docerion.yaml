@@ -1,0 +1,4 @@
+# Docerion header of graphics-roles-expected-android-external.txt.
+type: test
+title: Graphics roles expected Android external output
+summary: Expected Android external accessibility output describing supplemental descriptions and role descriptions for the graphics ARIA roles.

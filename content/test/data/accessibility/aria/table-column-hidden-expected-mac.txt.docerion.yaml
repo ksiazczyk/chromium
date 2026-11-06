@@ -1,0 +1,4 @@
+# Docerion header of table-column-hidden-expected-mac.txt.
+type: test
+title: Expected Mac accessibility tree for table with hidden column
+summary: Expected macOS accessibility tree for a table test where one column is hidden.

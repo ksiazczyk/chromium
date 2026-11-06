@@ -1,0 +1,4 @@
+# Docerion header of hidden-labelled-by-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for hidden labelled-by test
+summary: Expected Blink accessibility tree for the hidden labelled-by test, showing groups and generic containers with names derived from hidden labels.

@@ -1,0 +1,4 @@
+# Docerion header of role-change.html.
+type: test
+title: Role change test page
+summary: HTML test page that changes a presentation-role row to row and removes the presentation role from a table to test accessibility tree updates.

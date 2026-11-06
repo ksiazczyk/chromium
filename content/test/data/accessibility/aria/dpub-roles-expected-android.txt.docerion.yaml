@@ -1,0 +1,4 @@
+# Docerion header of dpub-roles-expected-android.txt.
+type: test
+title: Expected Android tree for DPUB roles
+summary: Expected Android accessibility tree dump listing role descriptions and names for each DPUB role in the dpub-roles test page.

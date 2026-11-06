@@ -1,0 +1,4 @@
+# Docerion header of hidden-expected-android-external.txt.
+type: test
+title: Expected Android external tree for hidden test
+summary: Expected Android accessibility tree in external format, listing actions and bundle properties for the hidden test page's spans.

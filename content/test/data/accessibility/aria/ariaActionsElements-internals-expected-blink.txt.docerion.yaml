@@ -1,0 +1,4 @@
+# Docerion header of ariaActionsElements-internals-expected-blink.txt.
+type: test
+title: ariaActionsElements internals expected Blink tree
+summary: Expected Blink accessibility tree snapshot for the ariaActionsElements internals test, including extra whitespace text nodes around tab names.

@@ -1,0 +1,4 @@
+# Docerion header of aria1.1-combobox-expected-auralinux.txt.
+type: test
+title: aria1.1-combobox expected AuraLinux
+summary: Expected AuraLinux accessibility tree for the ARIA 1.1 combobox test, showing combo boxes with entries controlling list boxes of selectable items.

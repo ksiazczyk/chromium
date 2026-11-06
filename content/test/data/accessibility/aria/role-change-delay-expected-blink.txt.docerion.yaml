@@ -1,0 +1,4 @@
+# Docerion header of role-change-delay-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for role change delay
+summary: Expected Blink accessibility tree output for the role-change-delay test, showing the tablist exposed after the delayed role change.

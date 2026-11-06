@@ -1,0 +1,4 @@
+# Docerion header of graphics-roles-expected-android.txt.
+type: test
+title: Graphics roles expected Android accessibility tree
+summary: Expected Android accessibility tree snapshot for the graphics-document, graphics-object and graphics-symbol ARIA roles.

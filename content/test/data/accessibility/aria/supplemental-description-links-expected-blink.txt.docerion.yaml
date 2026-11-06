@@ -1,0 +1,4 @@
+# Docerion header of supplemental-description-links-expected-blink.txt.
+type: test
+title: Supplemental description links expected Blink output
+summary: Expected Blink accessibility tree snapshot for the supplemental description links test page, showing a link whose aria-label supplements the visible text.

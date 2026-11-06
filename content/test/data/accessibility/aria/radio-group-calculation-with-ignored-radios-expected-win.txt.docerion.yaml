@@ -1,0 +1,4 @@
+# Docerion header of radio-group-calculation-with-ignored-radios-expected-win.txt.
+type: test
+title: Expected Windows output for radio group calculation with ignored radios
+summary: Expected Windows accessibility tree for a radio group where hidden radios are ignored when calculating setsize and posinset.

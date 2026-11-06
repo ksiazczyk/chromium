@@ -1,0 +1,4 @@
+# Docerion header of supplemental-description-region.html.
+type: test
+title: Region supplemental description test page
+summary: HTML test page rendering a region with an aria-label so its accessibility tree can be verified across platforms.
