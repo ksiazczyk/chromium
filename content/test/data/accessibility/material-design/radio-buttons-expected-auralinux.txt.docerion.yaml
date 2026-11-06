@@ -1,0 +1,4 @@
+# Docerion header of radio-buttons-expected-auralinux.txt.
+type: test
+title: Expected Auralinux accessibility tree for Material Web radio buttons
+summary: Expected accessibility tree output for the Material Web radio buttons test page on Auralinux, including checked state changes.

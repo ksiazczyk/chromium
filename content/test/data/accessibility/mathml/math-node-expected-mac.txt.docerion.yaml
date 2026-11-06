@@ -1,0 +1,4 @@
+# Docerion header of math-node-expected-mac.txt.
+type: test
+title: Expected macOS node output for the math element
+summary: Expected macOS accessibility node output for a MathML math element, expecting an AXGroup with the AXDocumentMath subrole.

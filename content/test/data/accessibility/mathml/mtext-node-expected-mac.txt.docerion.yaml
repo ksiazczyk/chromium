@@ -1,0 +1,4 @@
+# Docerion header of mtext-node-expected-mac.txt.
+type: test
+title: mtext expected node output for Mac
+summary: Expected accessibility node output on macOS for the mtext MathML element test.

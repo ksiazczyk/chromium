@@ -1,0 +1,4 @@
+# Docerion header of mtr-node-expected-auralinux.txt.
+type: test
+title: mtr expected node output for Linux
+summary: Expected accessibility node output on Linux for the mtr MathML table row test.

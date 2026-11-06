@@ -1,0 +1,4 @@
+# Docerion header of chips-suggestion.html.
+type: test
+title: Material Web Suggestion Chips
+summary: Test page that renders Material Web suggestion chips, clicks one, and exposes status text for accessibility tree verification.

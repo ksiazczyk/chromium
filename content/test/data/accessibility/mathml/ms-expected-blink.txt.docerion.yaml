@@ -1,0 +1,4 @@
+# Docerion header of ms-expected-blink.txt.
+type: test
+title: MathML ms expected Blink accessibility tree
+summary: Expected Blink accessibility tree for the ms test, showing a math string literal with the text hello world.

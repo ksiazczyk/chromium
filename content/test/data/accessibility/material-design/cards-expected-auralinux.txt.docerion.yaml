@@ -1,0 +1,4 @@
+# Docerion header of cards-expected-auralinux.txt.
+type: test
+title: Cards expected accessibility tree for Auralinux
+summary: Expected Auralinux accessibility tree snapshot for the Material Web cards page showing elevated, filled and outlined card content.

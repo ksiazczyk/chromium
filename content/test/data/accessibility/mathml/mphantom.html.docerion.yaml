@@ -1,0 +1,4 @@
+# Docerion header of mphantom.html.
+type: test
+title: mphantom accessibility test page
+summary: HTML test page rendering a MathML mphantom element with platform allow-list directives used for accessibility testing.

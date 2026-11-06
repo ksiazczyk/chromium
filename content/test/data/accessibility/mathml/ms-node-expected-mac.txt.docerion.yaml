@@ -1,0 +1,4 @@
+# Docerion header of ms-node-expected-mac.txt.
+type: test
+title: Mac accessibility expectations for ms element test
+summary: Expected Mac accessibility tree output for the MathML ms element test page.

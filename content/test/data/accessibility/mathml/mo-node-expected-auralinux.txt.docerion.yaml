@@ -1,0 +1,4 @@
+# Docerion header of mo-node-expected-auralinux.txt.
+type: test
+title: Expected Auralinux node output for MathML mo
+summary: Expected Auralinux node output for the MathML mo operator element test.

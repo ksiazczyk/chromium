@@ -1,0 +1,4 @@
+# Docerion header of progress-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for Material Web progress
+summary: Expected accessibility tree snapshot for the Material Web progress test page in the Blink engine, covering linear and circular progress states.

@@ -1,0 +1,4 @@
+# Docerion header of mo-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for MathML mo
+summary: Expected Blink accessibility tree output for the MathML mo operator element test.

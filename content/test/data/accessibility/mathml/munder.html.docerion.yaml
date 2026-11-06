@@ -1,0 +1,4 @@
+# Docerion header of munder.html.
+type: test
+title: munder MathML accessibility test page
+summary: HTML test page rendering a MathML munder element with numbers 1 and 2, with platform allow directives for accessibility verification.

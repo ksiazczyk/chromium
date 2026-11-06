@@ -1,0 +1,4 @@
+# Docerion header of radio-buttons.html.
+type: test
+title: Material Web radio buttons accessibility test page
+summary: Test page with Material Web radio button groups, including disabled and required options, plus selection actions for accessibility checks.

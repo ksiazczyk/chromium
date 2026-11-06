@@ -1,0 +1,4 @@
+# Docerion header of chips-input.html.
+type: test
+title: Input chips accessibility test page
+summary: Test page that builds a Material Web input chip set and provides select and remove actions used by accessibility snapshot tests.

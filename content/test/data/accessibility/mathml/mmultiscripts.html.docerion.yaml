@@ -1,0 +1,4 @@
+# Docerion header of mmultiscripts.html.
+type: test
+title: MathML mmultiscripts accessibility test page
+summary: HTML test page rendering a MathML mmultiscripts element with none and mprescripts children for accessibility tree verification.

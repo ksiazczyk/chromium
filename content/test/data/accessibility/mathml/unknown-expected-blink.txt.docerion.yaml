@@ -1,0 +1,4 @@
+# Docerion header of unknown-expected-blink.txt.
+type: test
+title: Blink expected accessibility tree for unknown MathML element
+summary: Expected Blink accessibility tree snapshot for the test page with an unknown element inside a math node.

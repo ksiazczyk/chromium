@@ -1,0 +1,4 @@
+# Docerion header of msup.html.
+type: test
+title: msup MathML accessibility test page
+summary: HTML test page rendering an msup MathML element for accessibility tree verification.

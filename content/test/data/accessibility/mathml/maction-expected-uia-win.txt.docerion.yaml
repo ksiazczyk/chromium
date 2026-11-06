@@ -1,0 +1,4 @@
+# Docerion header of maction-expected-uia-win.txt.
+type: test
+title: Expected UIA Windows accessibility tree for MathML maction test
+summary: Expected UIA Windows accessibility tree for the MathML maction test, including serialized MathML markup and the text node 1.

@@ -1,0 +1,4 @@
+# Docerion header of mroot-node-expected-mac.txt.
+type: test
+title: MathML mroot node expected Mac accessibility output
+summary: Expected Mac accessibility output for the mroot node test, recording an AXGroup with the AXMathRoot subrole.

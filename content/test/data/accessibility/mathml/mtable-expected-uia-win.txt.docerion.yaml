@@ -1,0 +1,4 @@
+# Docerion header of mtable-expected-uia-win.txt.
+type: test
+title: mtable expected UIA Windows accessibility tree
+summary: Expected UIA accessibility tree for the mtable MathML test on Windows, listing Custom elements and text names for cells 1 through 6.

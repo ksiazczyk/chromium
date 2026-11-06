@@ -1,0 +1,4 @@
+# Docerion header of merror.html.
+type: test
+title: merror MathML accessibility test page
+summary: HTML test page rendering a MathML merror element with platform allow annotations for accessibility checks.

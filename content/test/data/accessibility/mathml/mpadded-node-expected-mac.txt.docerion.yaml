@@ -1,0 +1,4 @@
+# Docerion header of mpadded-node-expected-mac.txt.
+type: test
+title: Expected Mac accessibility output for MathML mpadded node
+summary: Expected macOS accessibility output for the mpadded node test, showing an AXGroup with the AXMathRow subrole.

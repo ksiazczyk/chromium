@@ -1,0 +1,4 @@
+# Docerion header of mfrac-expected-blink.txt.
+type: test
+title: mfrac expected Blink accessibility output
+summary: Expected Blink accessibility tree serialization for the mfrac MathML test page.

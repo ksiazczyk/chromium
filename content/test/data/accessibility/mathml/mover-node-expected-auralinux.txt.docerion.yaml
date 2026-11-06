@@ -1,0 +1,4 @@
+# Docerion header of mover-node-expected-auralinux.txt.
+type: test
+title: Expected Auralinux node output for MathML mover
+summary: Expected Auralinux node output for the MathML mover element test.

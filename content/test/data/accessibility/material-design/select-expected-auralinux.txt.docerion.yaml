@@ -1,0 +1,4 @@
+# Docerion header of select-expected-auralinux.txt.
+type: test
+title: Expected Auralinux accessibility tree for Material Web select
+summary: Expected accessibility tree output for the Material Web select test page on Auralinux, covering filled, outlined, required and disabled selects.

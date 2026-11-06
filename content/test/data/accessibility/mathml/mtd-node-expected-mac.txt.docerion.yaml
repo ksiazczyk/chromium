@@ -1,0 +1,4 @@
+# Docerion header of mtd-node-expected-mac.txt.
+type: test
+title: mtd node expected Mac accessibility output
+summary: Expected node-level accessibility result for the mtd MathML test on macOS, expecting an AXGroup with subrole AXMathTableCell.

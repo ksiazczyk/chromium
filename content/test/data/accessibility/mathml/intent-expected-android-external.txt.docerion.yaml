@@ -1,0 +1,4 @@
+# Docerion header of intent-expected-android-external.txt.
+type: test
+title: Expected Android external accessibility output for MathML intent test
+summary: Expected Android WebView accessibility tree in external format for the MathML intent test, showing power(base, exponent) roles and arguments.

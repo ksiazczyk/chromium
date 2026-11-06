@@ -1,0 +1,4 @@
+# Docerion header of mfrac-node-expected-mac.txt.
+type: test
+title: mfrac node expected Mac accessibility output
+summary: Expected macOS accessibility node output for the mfrac MathML element.

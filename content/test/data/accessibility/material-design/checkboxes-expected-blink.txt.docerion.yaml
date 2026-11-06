@@ -1,0 +1,4 @@
+# Docerion header of checkboxes-expected-blink.txt.
+type: test
+title: Checkboxes expected accessibility tree for Blink
+summary: Expected Blink accessibility tree snapshots for the Material Web checkboxes page covering unchecked, checked, indeterminate, disabled and required states.

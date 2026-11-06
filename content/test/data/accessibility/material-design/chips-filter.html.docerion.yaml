@@ -1,0 +1,4 @@
+# Docerion header of chips-filter.html.
+type: test
+title: Filter chips accessibility test page
+summary: Test page that builds a Material Web filter chip set and provides select and deselect actions used by accessibility snapshot tests.

@@ -1,0 +1,4 @@
+# Docerion header of merror-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for the merror element
+summary: Expected Blink accessibility tree for a MathML merror element containing the numbers 1 to 4, describing the full node hierarchy.

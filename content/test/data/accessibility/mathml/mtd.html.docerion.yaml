@@ -1,0 +1,4 @@
+# Docerion header of mtd.html.
+type: test
+title: mtd MathML accessibility test page
+summary: HTML test page containing a MathML mtable whose first mtd cell carries the test class, used to test cell accessibility.

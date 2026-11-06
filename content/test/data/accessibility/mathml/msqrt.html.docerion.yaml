@@ -1,0 +1,4 @@
+# Docerion header of msqrt.html.
+type: test
+title: MathML msqrt element accessibility test page
+summary: HTML test page containing a MathML msqrt element with four numbers for accessibility tree verification.

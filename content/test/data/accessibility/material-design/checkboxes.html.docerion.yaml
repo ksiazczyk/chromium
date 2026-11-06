@@ -1,0 +1,4 @@
+# Docerion header of checkboxes.html.
+type: test
+title: Material Web checkboxes accessibility test page
+summary: HTML test page that renders Material Web checkboxes in unchecked, checked, indeterminate, disabled and required states with actions to toggle them.

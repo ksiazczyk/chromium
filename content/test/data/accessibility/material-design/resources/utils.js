@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Material Web Components test utilities
+// summary: Provides import map injection, module prefetching and dynamic loading helpers for Material Web Components used in accessibility test pages.
+// ---
+
 /**
  * Returns the import map object for the components found in `third_party`.
  * Use this function to dynamically inject the import map into HTML files.

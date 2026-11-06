@@ -1,0 +1,4 @@
+# Docerion header of fab.html.
+type: test
+title: Material Web FAB
+summary: Test page that renders Material Web FAB variants and exercises lower, unlower, and click actions for accessibility verification.

@@ -1,0 +1,4 @@
+# Docerion header of mn-node-expected-mac.txt.
+type: test
+title: Expected Mac accessibility output for MathML mn node
+summary: Expected macOS accessibility output for the MathML mn number element node test.

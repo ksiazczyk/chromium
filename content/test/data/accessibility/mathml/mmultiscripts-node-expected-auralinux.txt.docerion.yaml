@@ -1,0 +1,4 @@
+# Docerion header of mmultiscripts-node-expected-auralinux.txt.
+type: test
+title: Expected AuraLinux node output for MathML mmultiscripts test
+summary: Expected AuraLinux accessibility node output for the MathML mmultiscripts element test, listing the section role and tag.

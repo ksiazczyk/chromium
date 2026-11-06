@@ -1,0 +1,4 @@
+# Docerion header of a-node-expected-blink.txt.
+type: test
+title: Expected Blink node output for MathML anchor test
+summary: Expected Blink accessibility node description for the link element in the MathML anchor test.

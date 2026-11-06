@@ -1,0 +1,4 @@
+# Docerion header of radio-buttons-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for Material Web radio buttons
+summary: Expected accessibility tree snapshot for the Material Web radio buttons test page in the Blink engine, including disabled and invalid states.

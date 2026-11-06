@@ -1,0 +1,4 @@
+# Docerion header of mtd-expected-blink.txt.
+type: test
+title: mtd expected Blink accessibility tree
+summary: Expected Blink accessibility tree dump for the mtd MathML test, showing table cells with numbers 1 through 6.

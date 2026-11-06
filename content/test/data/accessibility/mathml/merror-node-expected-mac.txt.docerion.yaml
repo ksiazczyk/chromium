@@ -1,0 +1,4 @@
+# Docerion header of merror-node-expected-mac.txt.
+type: test
+title: merror node expected Mac accessibility output
+summary: Expected macOS accessibility tree output for the merror MathML element node test.

@@ -1,0 +1,4 @@
+# Docerion header of tabs.html.
+type: test
+title: Material Web tabs accessibility test page
+summary: Test page that builds primary and secondary md-tabs sets with icons and disabled tabs and provides click actions for accessibility tree verification.

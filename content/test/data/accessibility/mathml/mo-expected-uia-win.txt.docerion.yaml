@@ -1,0 +1,4 @@
+# Docerion header of mo-expected-uia-win.txt.
+type: test
+title: Expected UIA Windows output for MathML mo
+summary: Expected UIA accessibility output on Windows for the MathML mo operator element test.

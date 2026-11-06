@@ -1,0 +1,4 @@
+# Docerion header of icon-buttons.html.
+type: test
+title: Material Web icon buttons accessibility test page
+summary: Test page that renders Material Web icon button variants and toggles selection to exercise accessibility tree behavior.

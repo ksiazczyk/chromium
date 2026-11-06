@@ -1,0 +1,4 @@
+# Docerion header of mtext-node-expected-auralinux.txt.
+type: test
+title: mtext expected node output for Linux
+summary: Expected accessibility node output on Linux for the mtext MathML element test.

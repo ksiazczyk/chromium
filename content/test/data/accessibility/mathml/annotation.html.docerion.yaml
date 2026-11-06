@@ -1,0 +1,4 @@
+# Docerion header of annotation.html.
+type: test
+title: MathML annotation accessibility test page
+summary: HTML test page exposing a MathML annotation element with TeX encoding alongside annotation-xml content for accessibility tree verification.

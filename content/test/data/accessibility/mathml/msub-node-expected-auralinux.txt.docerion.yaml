@@ -1,0 +1,4 @@
+# Docerion header of msub-node-expected-auralinux.txt.
+type: test
+title: msub expected node output for Auralinux
+summary: Expected Auralinux accessibility node output for the msub test, expecting a section with tag msub.

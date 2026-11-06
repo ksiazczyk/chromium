@@ -1,0 +1,4 @@
+# Docerion header of a-expected-uia-win.txt.
+type: test
+title: Expected UIA accessibility tree for MathML anchor test
+summary: Expected Windows UIA accessibility tree output for the MathML test page with anchor elements inside a math element.

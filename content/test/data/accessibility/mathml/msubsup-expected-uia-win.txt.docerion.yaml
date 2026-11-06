@@ -1,0 +1,4 @@
+# Docerion header of msubsup-expected-uia-win.txt.
+type: test
+title: Expected UIA Windows accessibility tree for msubsup
+summary: Expected UIA accessibility tree dump on Windows for the msubsup MathML test page.

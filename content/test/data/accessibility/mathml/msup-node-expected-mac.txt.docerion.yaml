@@ -1,0 +1,4 @@
+# Docerion header of msup-node-expected-mac.txt.
+type: test
+title: Expected macOS node output for msup
+summary: Expected macOS node-level accessibility output for the msup MathML test page.

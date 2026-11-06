@@ -1,0 +1,4 @@
+# Docerion header of unknown-expected-uia-win.txt.
+type: test
+title: UIA expected accessibility tree for unknown MathML element
+summary: Expected Windows UIA accessibility tree snapshot for the test page with an unknown element inside a math node.

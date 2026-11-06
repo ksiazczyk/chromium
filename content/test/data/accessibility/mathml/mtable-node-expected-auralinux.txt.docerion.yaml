@@ -1,0 +1,4 @@
+# Docerion header of mtable-node-expected-auralinux.txt.
+type: test
+title: mtable node expected Aura Linux accessibility output
+summary: Expected node-level accessibility result for the mtable MathML test on Aura Linux, identifying the element as a table with tag mtable.

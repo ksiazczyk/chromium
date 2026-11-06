@@ -1,0 +1,4 @@
+# Docerion header of sliders-expected-auralinux.txt.
+type: test
+title: Expected Auralinux accessibility tree for Material Web sliders
+summary: Expected accessibility tree output for the Material Web sliders test page on Auralinux, including slider values and range handles.

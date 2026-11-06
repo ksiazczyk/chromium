@@ -1,0 +1,4 @@
+# Docerion header of msubsup-node-expected-auralinux.txt.
+type: test
+title: Expected Aura Linux node output for msubsup
+summary: Expected Aura Linux node-level accessibility output for the msubsup MathML test page.

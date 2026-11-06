@@ -1,0 +1,4 @@
+# Docerion header of none.html.
+type: test
+title: MathML none element test page
+summary: HTML test page rendering a MathML mmultiscripts expression with none elements for accessibility testing.

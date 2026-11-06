@@ -1,0 +1,4 @@
+# Docerion header of mn-expected-uia-win.txt.
+type: test
+title: Expected UIA Windows accessibility output for MathML mn test
+summary: Expected UIA accessibility output on Windows for the MathML mn element test, showing the Custom control hierarchy and text name 42.

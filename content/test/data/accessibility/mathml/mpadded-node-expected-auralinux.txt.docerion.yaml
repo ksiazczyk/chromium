@@ -1,0 +1,4 @@
+# Docerion header of mpadded-node-expected-auralinux.txt.
+type: test
+title: Expected Linux accessibility output for MathML mpadded node
+summary: Expected Linux accessibility output for the mpadded node test, recording the section tag mpadded.

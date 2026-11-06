@@ -1,0 +1,4 @@
+# Docerion header of mmultiscripts-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for MathML mmultiscripts test
+summary: Expected Blink accessibility tree dump for the MathML mmultiscripts element test, listing mathML roles and static text values.

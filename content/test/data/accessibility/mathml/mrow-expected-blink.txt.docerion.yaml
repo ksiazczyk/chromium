@@ -1,0 +1,4 @@
+# Docerion header of mrow-expected-blink.txt.
+type: test
+title: MathML mrow expected Blink accessibility tree
+summary: Expected Blink accessibility tree for the mrow test, showing a math row containing four number nodes with static text.

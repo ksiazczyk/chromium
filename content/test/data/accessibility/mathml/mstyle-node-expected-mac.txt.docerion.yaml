@@ -1,0 +1,4 @@
+# Docerion header of mstyle-node-expected-mac.txt.
+type: test
+title: mstyle expected node output for macOS
+summary: Expected macOS accessibility node output for the mstyle test, expecting an AXGroup with the AXMathRow subrole.

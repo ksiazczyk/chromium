@@ -1,0 +1,4 @@
+# Docerion header of a-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for MathML anchor test
+summary: Expected Android WebView accessibility tree output for the MathML test page containing anchor elements inside a math element.

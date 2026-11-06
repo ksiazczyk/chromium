@@ -1,0 +1,4 @@
+# Docerion header of switches-expected-auralinux.txt.
+type: test
+title: Expected Linux accessibility tree for Material Web switches
+summary: Expected accessibility tree snapshot of the switches test page as produced by the Linux screen reader backend, covering checked and deselected switch states.

@@ -1,0 +1,4 @@
+# Docerion header of mi.html.
+type: test
+title: MathML mi accessibility test page
+summary: HTML test page rendering a MathML mi element with platform allow directives, used to verify its accessibility tree.

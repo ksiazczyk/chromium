@@ -1,0 +1,4 @@
+# Docerion header of msqrt-expected-uia-win.txt.
+type: test
+title: UIA Windows accessibility expectations for msqrt element test
+summary: Expected UIA accessibility tree output on Windows for the MathML msqrt element test page.

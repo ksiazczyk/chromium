@@ -1,0 +1,4 @@
+# Docerion header of mmultiscripts-expected-uia-win.txt.
+type: test
+title: Expected UIA Windows accessibility output for MathML mmultiscripts test
+summary: Expected UIA accessibility output on Windows for the MathML mmultiscripts element test, showing the Custom control hierarchy and text names.

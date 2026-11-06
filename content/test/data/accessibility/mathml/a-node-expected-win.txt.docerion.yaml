@@ -1,0 +1,4 @@
+# Docerion header of a-node-expected-win.txt.
+type: test
+title: Expected Windows node output for MathML anchor test
+summary: Expected accessibility node output for the MathML anchor test on Windows, expecting ROLE_SYSTEM_LINK and FOCUSABLE.

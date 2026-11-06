@@ -1,0 +1,4 @@
+# Docerion header of list.html.
+type: test
+title: Material Web list accessibility test page
+summary: Test page that builds an md-list with varied items and activates entries to verify accessibility tree output.

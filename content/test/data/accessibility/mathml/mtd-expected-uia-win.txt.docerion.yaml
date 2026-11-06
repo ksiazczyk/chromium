@@ -1,0 +1,4 @@
+# Docerion header of mtd-expected-uia-win.txt.
+type: test
+title: mtd expected UIA Windows accessibility tree
+summary: Expected UIA accessibility tree for the mtd MathML test on Windows, with the tested mtd cell marked by a class attribute.

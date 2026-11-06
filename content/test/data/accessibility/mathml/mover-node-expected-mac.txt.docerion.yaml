@@ -1,0 +1,4 @@
+# Docerion header of mover-node-expected-mac.txt.
+type: test
+title: Expected Mac accessibility output for MathML mover node
+summary: Expected macOS accessibility output for the MathML mover node test, showing an AXGroup with the AXMathUnderOver subrole.

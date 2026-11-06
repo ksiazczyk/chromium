@@ -1,0 +1,4 @@
+# Docerion header of msub-expected-blink.txt.
+type: test
+title: msub expected accessibility tree for Blink
+summary: Expected Blink accessibility tree output for the msub MathML test, listing a subscript element with two number nodes.

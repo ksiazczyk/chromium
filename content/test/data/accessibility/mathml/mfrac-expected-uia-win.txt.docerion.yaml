@@ -1,0 +1,4 @@
+# Docerion header of mfrac-expected-uia-win.txt.
+type: test
+title: mfrac expected UIA Windows accessibility output
+summary: Expected UIA accessibility tree output on Windows for the mfrac MathML test page.

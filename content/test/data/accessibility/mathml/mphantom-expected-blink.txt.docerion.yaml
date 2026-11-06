@@ -1,0 +1,4 @@
+# Docerion header of mphantom-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for MathML mphantom
+summary: Expected Blink accessibility tree snapshot for the mphantom test, showing a math row with no exposed children.

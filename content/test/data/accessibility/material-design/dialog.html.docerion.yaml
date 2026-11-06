@@ -1,0 +1,4 @@
+# Docerion header of dialog.html.
+type: test
+title: Material Web Dialogs
+summary: Test page that shows a Material Web dialog with headline, overflowing content, and Cancel and OK buttons for accessibility verification.

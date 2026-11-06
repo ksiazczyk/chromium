@@ -1,0 +1,4 @@
+# Docerion header of mspace.html.
+type: test
+title: MathML mspace element accessibility test page
+summary: HTML test page containing a MathML mspace element that should be ignored in the accessibility tree.

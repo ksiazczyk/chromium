@@ -1,0 +1,4 @@
+# Docerion header of mi-expected-blink.txt.
+type: test
+title: mi expected Blink accessibility output
+summary: Expected Blink accessibility tree serialization for the mi MathML test page.
