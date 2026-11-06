@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MessageContainer view for holding message banners
+// summary: FrameLayout subclass that displays message views ordered by elevation and forwards accessibility focus and dismiss events to a delegate.
+// ---
+
 package org.chromium.components.messages;
 
 import android.content.Context;

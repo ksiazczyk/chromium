@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media sink service callback types and utilities
+// summary: Declares sink discovery callback types and helpers for running those callbacks on a sequenced task runner.
+// ---
+
 #ifndef COMPONENTS_MEDIA_ROUTER_COMMON_DISCOVERY_MEDIA_SINK_SERVICE_UTIL_H_
 #define COMPONENTS_MEDIA_ROUTER_COMMON_DISCOVERY_MEDIA_SINK_SERVICE_UTIL_H_
 

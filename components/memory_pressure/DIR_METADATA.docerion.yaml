@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Memory pressure component metadata
+summary: Maps the directory to the Internals>Core Monorail component and a Buganizer component ID for issue tracking.

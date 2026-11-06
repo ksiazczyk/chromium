@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Memory pressure level reporter header
+// summary: Declares MemoryPressureLevelReporter, which records memory pressure level histograms and transition durations, including disk pressure attribution and periodic flushing.
+// ---
+
 #ifndef COMPONENTS_MEMORY_PRESSURE_MEMORY_PRESSURE_LEVEL_REPORTER_H_
 #define COMPONENTS_MEMORY_PRESSURE_MEMORY_PRESSURE_LEVEL_REPORTER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for metal_util
+summary: Restricts includes in this directory to the crash key, Skia, and ui/gfx dependencies.

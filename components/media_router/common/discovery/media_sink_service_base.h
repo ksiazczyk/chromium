@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaSinkServiceBase class declaration
+// summary: Declares MediaSinkServiceBase, the base class for media sink discovery that tracks discovered sinks and notifies observers of updates.
+// ---
+
 #ifndef COMPONENTS_MEDIA_ROUTER_COMMON_DISCOVERY_MEDIA_SINK_SERVICE_BASE_H_
 #define COMPONENTS_MEDIA_ROUTER_COMMON_DISCOVERY_MEDIA_SINK_SERVICE_BASE_H_
 

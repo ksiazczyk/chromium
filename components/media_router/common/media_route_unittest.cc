@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MediaRoute unit tests
+// summary: Unit tests covering MediaRoute equality, route ID parsing, and detection of local mirroring routes.
+// ---
+
 #include "components/media_router/common/media_route.h"
 
 #include "components/media_router/common/media_sink.h"

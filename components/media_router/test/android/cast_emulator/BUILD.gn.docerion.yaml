@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Cast emulator Android library build file
+summary: Defines the cast_emulator_java Android library target, listing its Java sources for the media router cast emulator tests and its dependencies such as Google Play services cast and androidx mediarouter.

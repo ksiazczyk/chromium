@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaSinkInternal implementation
+// summary: Implements MediaSinkInternal and its DIAL and Cast extra data classes, including sink ID validation and device UUID processing.
+// ---
+
 #include "components/media_router/common/discovery/media_sink_internal.h"
 
 #include <variant>

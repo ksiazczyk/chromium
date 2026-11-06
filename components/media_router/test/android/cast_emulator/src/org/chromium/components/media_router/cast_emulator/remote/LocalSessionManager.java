@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: 'LocalSessionManager: local media session handling for the Cast emulator'
+// summary: Manages local playback sessions in the Cast emulator, connecting to and forwarding calls to the RemoteSessionManager.
+// ---
+
 package org.chromium.components.media_router.cast_emulator.remote;
 
 import android.app.PendingIntent;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: 'RemoteSessionManager: emulated Chromecast session management'
+// summary: Emulates Chromecast-side session management for media playback, delegating actual playback to DummyPlayer.
+// ---
+
 package org.chromium.components.media_router.cast_emulator.remote;
 
 import android.annotation.SuppressLint;

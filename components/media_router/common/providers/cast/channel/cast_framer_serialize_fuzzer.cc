@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fuzz test for MessageFramer serialization
+// summary: Proto-based libFuzzer test that serializes fuzzable CastMessage inputs through MessageFramer::Serialize to exercise message serialization.
+// ---
+
 #include <cstdlib>
 #include <iostream>
 #include <string>

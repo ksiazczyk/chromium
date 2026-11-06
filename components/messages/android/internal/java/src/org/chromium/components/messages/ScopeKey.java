@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopeKey
+// summary: Java class defining a key that identifies a message scope instance by scope type, WebContents, or WindowAndroid, with equality and hash code support.
+// ---
+
 package org.chromium.components.messages;
 
 import org.chromium.build.annotations.NullMarked;

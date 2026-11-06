@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: macOS system memory pressure evaluator implementation
+// summary: macOS implementation that monitors dispatch memory pressure events and the kern.memorystatus_vm_pressure_level sysctl to vote on memory pressure levels.
+// ---
+
 #include "components/memory_pressure/system_memory_pressure_evaluator_mac.h"
 
 #include <sys/sysctl.h>

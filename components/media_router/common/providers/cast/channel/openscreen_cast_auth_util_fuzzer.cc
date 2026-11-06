@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Proto fuzzer for Open Screen Cast auth challenge reply
+// summary: libFuzzer proto harness that exercises CastAuthUtil authentication challenge reply validation with generated certificates, trust stores, and varied certificate time bounds.
+// ---
+
 #include <openssl/asn1.h>
 #include <openssl/x509.h>
 

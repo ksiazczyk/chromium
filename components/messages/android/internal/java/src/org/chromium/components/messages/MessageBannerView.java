@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MessageBannerView
+// summary: Android view class that renders the message banner with icon, title, description, action buttons, and swipe handling.
+// ---
+
 package org.chromium.components.messages;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

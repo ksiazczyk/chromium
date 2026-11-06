@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MessageWrapper JNI implementation
+// summary: Implements MessageWrapper methods that get and set message properties, callbacks and icons on the Java MessageWrapper object.
+// ---
+
 #include "components/messages/android/message_wrapper.h"
 #include <string>
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast channel enum to-string conversion functions
+// summary: Implements ReadyStateToString and ChannelErrorToString helpers that convert cast channel enums to their string names for logging and display.
+// ---
+
 #include "components/media_router/common/providers/cast/channel/cast_channel_enum.h"
 
 #include <ostream>

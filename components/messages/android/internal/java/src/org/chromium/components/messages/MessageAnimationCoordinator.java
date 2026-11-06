@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MessageAnimationCoordinator
+// summary: Coordinator that manages show and hide animations when messages in the Android messages component are about to appear or disappear.
+// ---
+
 package org.chromium.components.messages;
 
 import android.animation.Animator;

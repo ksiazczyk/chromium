@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MessageScopeChange scope change description
+// summary: Describes a message scope change, holding the scope type, scope instance key and a change type of active, inactive or destroy.
+// ---
+
 package org.chromium.components.messages;
 
 import androidx.annotation.IntDef;

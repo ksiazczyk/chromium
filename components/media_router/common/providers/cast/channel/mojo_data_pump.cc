@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MojoDataPump implementation for Cast channel data pipes
+// summary: Implements the MojoDataPump helper that asynchronously reads and writes Cast channel data between Mojo data pipe consumer and producer handles using SimpleWatcher callbacks.
+// ---
+
 #include "components/media_router/common/providers/cast/channel/mojo_data_pump.h"
 
 #include <utility>

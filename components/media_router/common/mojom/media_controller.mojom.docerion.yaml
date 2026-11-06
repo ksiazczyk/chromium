@@ -1,0 +1,4 @@
+# Docerion header of media_controller.mojom.
+type: source
+title: Media controller Mojo interface
+summary: Defines the MediaController Mojo interface for play, pause, mute, volume, seek, and track skipping on routed media content.

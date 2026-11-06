@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enum table entry lookup implementation
+// summary: Implements string and value lookup functions for GenericEnumTableEntry used by the enum table mapping utility.
+// ---
+
 #include "components/media_router/common/providers/cast/channel/enum_table.h"
 
 #include <cstdlib>

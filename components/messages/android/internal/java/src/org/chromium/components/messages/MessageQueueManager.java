@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MessageQueueManager message queue and display scheduler
+// summary: Manages the queue of messages, deciding when to show or hide the current message and which message to display next across message scopes.
+// ---
+
 package org.chromium.components.messages;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

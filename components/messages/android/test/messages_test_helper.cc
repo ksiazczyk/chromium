@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MessagesTestHelper native implementation
+// summary: Implements the native MessagesTestHelper class, bridging to its Java counterpart via JNI to query message counts and identifiers, attach and reset a test message dispatcher, and signal enqueued messages.
+// ---
+
 #include "components/messages/android/test/messages_test_helper.h"
 
 #include <cstdint>

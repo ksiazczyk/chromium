@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for MessageQueueManager
+// summary: Extensive Robolectric unit tests covering message enqueuing, showing, hiding, dismissal and scope switching behaviour of MessageQueueManager.
+// ---
+
 package org.chromium.components.messages;
 
 import static org.mockito.ArgumentMatchers.any;

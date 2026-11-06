@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media router test helper declarations
+// summary: Declares MediaSink factory helpers for Cast, DIAL and wired display sinks and a TestMediaSinkService class with an injectable mock timer.
+// ---
+
 #ifndef COMPONENTS_MEDIA_ROUTER_COMMON_TEST_TEST_HELPER_H_
 #define COMPONENTS_MEDIA_ROUTER_COMMON_TEST_TEST_HELPER_H_
 

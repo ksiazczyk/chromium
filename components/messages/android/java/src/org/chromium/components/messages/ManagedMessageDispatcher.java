@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ManagedMessageDispatcher interface for suspending and resuming message display
+// summary: Interface extending MessageDispatcher with suspend, resume, delegate and dismiss-all controls for the object that owns the dispatcher.
+// ---
+
 package org.chromium.components.messages;
 
 import org.chromium.build.annotations.NullMarked;

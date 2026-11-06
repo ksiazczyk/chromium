@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast device capability enum
+// summary: Defines the CastDeviceCapability enum and its EnumSet type covering video, audio, dev mode, and multizone group capabilities.
+// ---
+
 #ifndef COMPONENTS_MEDIA_ROUTER_COMMON_PROVIDERS_CAST_CHANNEL_CAST_DEVICE_CAPABILITY_H_
 #define COMPONENTS_MEDIA_ROUTER_COMMON_PROVIDERS_CAST_CHANNEL_CAST_DEVICE_CAPABILITY_H_
 

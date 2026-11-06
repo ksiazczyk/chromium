@@ -4,6 +4,12 @@
 
 // no-include-guard-because-pch-file
 
+// ---docerion
+// type: asset
+// title: Eureka Root CA DER certificate data header
+// summary: Embeds the DER-encoded Eureka Root CA certificate as a C byte array for inclusion as a trust anchor in the Cast trust store.
+// ---
+
 // Certificate:
 //     Data:
 //         Version: 3 (0x2)

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the allocation trace recorder statistics reporter
+// summary: Periodically logs allocation counts, collisions and collision ratio from the AllocationTraceRecorder on a background task runner.
+// ---
+
 #include "components/memory_system/allocation_trace_recorder_statistics_reporter.h"
 
 #include <functional>

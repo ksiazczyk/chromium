@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuchsia system memory pressure evaluator implementation
+// summary: Fuchsia implementation that registers with the fuchsia.memorypressure.Provider and converts Fuchsia pressure levels into Chrome memory pressure levels.
+// ---
+
 #include "components/memory_pressure/system_memory_pressure_evaluator_fuchsia.h"
 
 #include <lib/sys/cpp/component_context.h>

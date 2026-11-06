@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fuzzer for Open Screen cast message deserialization
+// summary: libFuzzer entry point that feeds arbitrary byte buffers through the Open Screen cast message framer's TryDeserialize loop to check parsing robustness.
+// ---
+
 #include <cstddef>
 #include <cstdint>
 

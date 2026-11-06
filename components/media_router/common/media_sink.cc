@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaSink class implementation
+// summary: Implements the MediaSink class for a sink to which media can be routed, including collator-based comparison by icon type, name, and sink ID.
+// ---
+
 #include "components/media_router/common/media_sink.h"
 
 #include "base/i18n/string_compare.h"

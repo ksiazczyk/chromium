@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RouteRequestResult implementation
+// summary: Implements RouteRequestResult factory methods for successful and failed route requests, holding the route, presentation ID, error, and result code.
+// ---
+
 #include "components/media_router/common/route_request_result.h"
 
 #include "components/media_router/common/media_route.h"

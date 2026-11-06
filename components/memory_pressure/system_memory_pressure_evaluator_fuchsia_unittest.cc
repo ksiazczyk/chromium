@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fuchsia system memory pressure evaluator unit tests
+// summary: Unit tests verifying the Fuchsia evaluator's vote handling, including a death test for provider unavailability and level change notifications.
+// ---
+
 #include "components/memory_pressure/system_memory_pressure_evaluator_fuchsia.h"
 
 #include <fuchsia/memorypressure/cpp/fidl.h>

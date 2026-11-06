@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Memory system parameter constructors
+// summary: Implements the constructors of the GwpAsanParameters, ProfilingClientParameters and DispatcherParameters configuration structs.
+// ---
+
 #include "components/memory_system/parameters.h"
 
 #include <string_view>

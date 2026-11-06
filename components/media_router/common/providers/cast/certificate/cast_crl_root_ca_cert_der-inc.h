@@ -4,6 +4,12 @@
 
 // no-include-guard-because-pch-file
 
+// ---docerion
+// type: source
+// title: Embedded Cast CRL root CA certificate
+// summary: Header that embeds the DER-encoded Cast CRL Root CA certificate as a byte array for inclusion in the CRL trust store.
+// ---
+
 // Certificate:
 //     Data:
 //         Version: 3 (0x2)

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast socket implementation
+// summary: Implements CastSocketImpl, which opens, authenticates, and manages TLS connections to Cast devices and exchanges framed Cast messages over the channel.
+// ---
+
 #include "components/media_router/common/providers/cast/channel/cast_socket.h"
 
 #include <stdlib.h>

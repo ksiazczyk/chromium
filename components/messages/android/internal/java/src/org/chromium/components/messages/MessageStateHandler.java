@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MessageStateHandler interface for showing and hiding messages
+// summary: Interface for a message handler that produces show and hide animators, handles dismissal with a reason, and reports its message identifier.
+// ---
+
 package org.chromium.components.messages;
 
 import android.animation.Animator;

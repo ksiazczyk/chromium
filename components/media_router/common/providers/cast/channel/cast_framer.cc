@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast message framer implementation
+// summary: Implements MessageFramer, which serializes CastMessage protos and ingests socket bytes into length-prefixed cast channel messages.
+// ---
+
 
 #include "components/media_router/common/providers/cast/channel/cast_framer.h"
 

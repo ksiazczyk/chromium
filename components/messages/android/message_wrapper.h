@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MessageWrapper class declaration
+// summary: Declares the native message wrapper with property setters, action and dismiss callbacks, secondary menu items and icon handling.
+// ---
+
 #ifndef COMPONENTS_MESSAGES_ANDROID_MESSAGE_WRAPPER_H_
 #define COMPONENTS_MESSAGES_ANDROID_MESSAGE_WRAPPER_H_
 

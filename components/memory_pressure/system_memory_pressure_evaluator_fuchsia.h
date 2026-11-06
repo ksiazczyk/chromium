@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuchsia system memory pressure evaluator class declaration
+// summary: Declares the Fuchsia system memory pressure evaluator, a Watcher that receives level change notifications from the fuchsia.memorypressure.Provider.
+// ---
+
 #ifndef COMPONENTS_MEMORY_PRESSURE_SYSTEM_MEMORY_PRESSURE_EVALUATOR_FUCHSIA_H_
 #define COMPONENTS_MEMORY_PRESSURE_SYSTEM_MEMORY_PRESSURE_EVALUATOR_FUCHSIA_H_
 

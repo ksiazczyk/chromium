@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the Android messages directory
+summary: Lists the allowed include paths, such as content, browser_ui, skia and ui/android, for code in this directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Multi-source memory pressure monitor unit tests
+// summary: Unit tests for MultiSourceMemoryPressureMonitor verifying that no evaluator exists at construction and that the dispatch callback runs on notification.
+// ---
+
 #include "components/memory_pressure/multi_source_memory_pressure_monitor.h"
 
 #include <optional>

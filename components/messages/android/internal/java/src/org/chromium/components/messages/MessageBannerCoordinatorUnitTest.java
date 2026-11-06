@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MessageBannerCoordinatorUnitTest
+// summary: Unit tests for the message banner coordinator covering popup menu listener handling and accessibility pane change events.
+// ---
+
 package org.chromium.components.messages;
 
 import static org.junit.Assert.assertEquals;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MessageBannerMediatorUnitTest
+// summary: Robolectric unit tests for the message banner mediator's gesture, animation, and dismiss behavior.
+// ---
+
 package org.chromium.components.messages;
 
 import static android.os.Looper.getMainLooper;

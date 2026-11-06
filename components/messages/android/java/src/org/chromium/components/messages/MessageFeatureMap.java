@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MessageFeatureMap singleton accessor for native features
+// summary: Singleton FeatureMap that queries native base::Feature state for the features listed in MessageFeatureList through a JNI-backed native map.
+// ---
+
 package org.chromium.components.messages;
 
 import org.jni_zero.JNINamespace;

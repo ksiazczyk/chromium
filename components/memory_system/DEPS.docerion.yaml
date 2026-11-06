@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Allowed include rules for the memory system component
+summary: Lists include rules granting access to allocation recorder, crash, GWP-ASan, heap profiling, sampling profiler and version info headers.

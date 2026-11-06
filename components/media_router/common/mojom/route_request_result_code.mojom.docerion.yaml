@@ -1,0 +1,4 @@
+# Docerion header of route_request_result_code.mojom.
+type: source
+title: RouteRequestResultCode Mojom enum
+summary: Defines the RouteRequestResultCode enum of media route request outcomes, kept in sync with the MediaRouteProviderResult histogram enum.

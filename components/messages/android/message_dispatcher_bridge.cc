@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MessageDispatcherBridge JNI bridge implementation
+// summary: Implements the C++ side of the bridge that enqueues and dismisses messages through the Java MessageDispatcher and maps resource IDs.
+// ---
+
 #include "components/messages/android/message_dispatcher_bridge.h"
 
 #include <jni.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaRoute implementation
+// summary: Implements MediaRoute, including building route IDs and parsing presentation, sink, and source IDs from them.
+// ---
+
 #include "components/media_router/common/media_route.h"
 
 #include <ostream>

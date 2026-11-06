@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Issue class declarations
+// summary: Declares IssueInfo and Issue types that describe media router issues with severity, message, and associated route or sink IDs.
+// ---
+
 #ifndef COMPONENTS_MEDIA_ROUTER_COMMON_ISSUE_H_
 #define COMPONENTS_MEDIA_ROUTER_COMMON_ISSUE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Memory pressure voter implementation
+// summary: Implements MemoryPressureVoterImpl and MemoryPressureVoteAggregator, which collect votes and notify listeners of the aggregate memory pressure level.
+// ---
+
 #include "components/memory_pressure/memory_pressure_voter.h"
 
 #include <numeric>

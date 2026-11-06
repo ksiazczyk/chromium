@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast transport implementation
+// summary: Implements CastTransportImpl, which serializes, queues, reads, and writes framed Cast messages over a socket channel with logging.
+// ---
+
 #include "components/media_router/common/providers/cast/channel/cast_transport.h"
 
 #include <stddef.h>

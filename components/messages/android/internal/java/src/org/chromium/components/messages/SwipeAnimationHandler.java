@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SwipeAnimationHandler
+// summary: Interface for handling swipe gestures on message banners, with callbacks for swipe start, swipe end, and whether the swipe gesture is enabled.
+// ---
+
 package org.chromium.components.messages;
 
 import android.animation.Animator;

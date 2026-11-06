@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock message dispatcher bridge class
+// summary: Declares a GoogleMock subclass of MessageDispatcherBridge so unit tests can mock enqueuing and dismissing messages.
+// ---
+
 #ifndef COMPONENTS_MESSAGES_ANDROID_MOCK_MESSAGE_DISPATCHER_BRIDGE_H_
 #define COMPONENTS_MESSAGES_ANDROID_MOCK_MESSAGE_DISPATCHER_BRIDGE_H_
 

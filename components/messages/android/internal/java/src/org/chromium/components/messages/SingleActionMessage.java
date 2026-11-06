@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SingleActionMessage
+// summary: Coordinator that shows and hides a single-action banner message in a container, handling dismissal callbacks, swipe animations, and visibility metrics.
+// ---
+
 package org.chromium.components.messages;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

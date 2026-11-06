@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Memory system parameter structs
+// summary: Declares configuration structs for GWP-ASan, the profiling client and the allocator dispatcher, including inclusion enums for allocation samplers and recorders.
+// ---
+
 #ifndef COMPONENTS_MEMORY_SYSTEM_PARAMETERS_H_
 #define COMPONENTS_MEMORY_SYSTEM_PARAMETERS_H_
 

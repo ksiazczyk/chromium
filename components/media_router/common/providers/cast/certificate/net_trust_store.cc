@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Net-based Cast trust store implementation
+// summary: Implements the net-based Cast trust store, anchoring the Cast, Eureka and Cast CRL root certificates and finding certificate paths for validation.
+// ---
+
 #include "components/media_router/common/providers/cast/certificate/net_trust_store.h"
 
 #include <string_view>

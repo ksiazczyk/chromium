@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RouteRequestResult class declaration
+// summary: Declares RouteRequestResult, which holds the outcome of a route request including route, presentation ID, presentation URL, error, and result code.
+// ---
+
 #ifndef COMPONENTS_MEDIA_ROUTER_COMMON_ROUTE_REQUEST_RESULT_H_
 #define COMPONENTS_MEDIA_ROUTER_COMMON_ROUTE_REQUEST_RESULT_H_
 

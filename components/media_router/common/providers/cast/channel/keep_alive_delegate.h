@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KeepAliveDelegate class declaration
+// summary: Declares the KeepAliveDelegate class, a CastTransport delegate wrapper that handles keep-alive messages and passes other traffic to an inner delegate.
+// ---
+
 #ifndef COMPONENTS_MEDIA_ROUTER_COMMON_PROVIDERS_CAST_CHANNEL_KEEP_ALIVE_DELEGATE_H_
 #define COMPONENTS_MEDIA_ROUTER_COMMON_PROVIDERS_CAST_CHANNEL_KEEP_ALIVE_DELEGATE_H_
 

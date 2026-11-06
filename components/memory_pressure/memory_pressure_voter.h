@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Memory pressure voter and vote aggregator header
+// summary: Declares the MemoryPressureVoter interface and MemoryPressureVoteAggregator that combine votes into the most critical pressure level for the multi-source monitor.
+// ---
+
 #ifndef COMPONENTS_MEMORY_PRESSURE_MEMORY_PRESSURE_VOTER_H_
 #define COMPONENTS_MEMORY_PRESSURE_MEMORY_PRESSURE_VOTER_H_
 

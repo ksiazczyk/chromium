@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Memory system feature flag definitions
+// summary: Defines base::Feature flags and parameters for the allocation trace recorder and, on Windows, ETW allocation tracing used by the memory system.
+// ---
+
 #include "components/memory_system/memory_system_features.h"
 
 #include "base/clang_profiling_buildflags.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cast channel test mock implementations
+// summary: Implements mock transport, transport delegate, socket observer, socket service, socket, and message handler classes plus a test IP endpoint helper.
+// ---
+
 #include "components/media_router/common/providers/cast/channel/cast_test_util.h"
 
 #include <utility>

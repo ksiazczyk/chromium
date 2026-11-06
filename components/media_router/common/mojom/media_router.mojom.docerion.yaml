@@ -1,0 +1,4 @@
+# Docerion header of media_router.mojom.
+type: source
+title: Media Router Mojo interface definitions
+summary: Defines the core Media Router Mojom structs, enums, unions, and interfaces for sinks, routes, issues, and route providers.

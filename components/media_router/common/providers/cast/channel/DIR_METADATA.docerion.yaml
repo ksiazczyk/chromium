@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Cast channel bug tracker metadata
+summary: Maps the directory to the Internals>Cast>Providers component in Monorail and Buganizer for issue routing.

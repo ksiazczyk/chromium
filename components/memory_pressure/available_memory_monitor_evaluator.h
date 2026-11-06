@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Available memory monitor evaluator base class
+// summary: Declares a base class for pressure evaluators observing base::AvailableMemoryMonitor, centralizing observer lifecycle while subclasses compute pressure levels.
+// ---
+
 #ifndef COMPONENTS_MEMORY_PRESSURE_AVAILABLE_MEMORY_MONITOR_EVALUATOR_H_
 #define COMPONENTS_MEMORY_PRESSURE_AVAILABLE_MEMORY_MONITOR_EVALUATOR_H_
 

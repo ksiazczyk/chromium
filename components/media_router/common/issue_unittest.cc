@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IssueInfo unit tests
+// summary: Unit tests verifying that IssueInfo objects are created with the expected title, message, severity, and route ID values.
+// ---
+
 #include "components/media_router/common/issue.h"
 
 #include "testing/gmock/include/gmock/gmock.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast trust store implementation
+// summary: Implements the singleton trust store for Cast certificate chains, adding built-in root anchors and optionally loading developer certificates from a command-line path.
+// ---
+
 #include "components/media_router/common/providers/cast/certificate/cast_trust_store.h"
 
 #include <stddef.h>

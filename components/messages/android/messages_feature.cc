@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Messages feature flags for Android
+// summary: Defines Android messages feature flags and exposes them to Java through a native FeatureMap.
+// ---
+
 #include "components/messages/android/messages_feature.h"
 
 #include "base/android/feature_map.h"

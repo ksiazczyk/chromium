@@ -1,0 +1,4 @@
+# Docerion header of media_route_provider_id.mojom.
+type: source
+title: Media route provider ID enum
+summary: Defines the MediaRouteProviderId enum with provider types such as wired display, Cast, DIAL, Android CAF, redirection, and test.

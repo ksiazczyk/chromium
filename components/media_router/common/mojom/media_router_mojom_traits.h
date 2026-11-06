@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media Router Mojom traits declarations
+// summary: Declares Mojo EnumTraits, UnionTraits, and StructTraits specializations mapping media router C++ types to their Mojom representations.
+// ---
+
 #ifndef COMPONENTS_MEDIA_ROUTER_COMMON_MOJOM_MEDIA_ROUTER_MOJOM_TRAITS_H_
 #define COMPONENTS_MEDIA_ROUTER_COMMON_MOJOM_MEDIA_ROUTER_MOJOM_TRAITS_H_
 

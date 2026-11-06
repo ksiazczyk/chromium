@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KeepAliveDelegate implementation
+// summary: Implements the CastTransport delegate decorator that intercepts keep-alive PING and PONG messages and forwards all other messages and errors to an inner delegate.
+// ---
+
 #include "components/media_router/common/providers/cast/channel/keep_alive_delegate.h"
 
 #include <string>

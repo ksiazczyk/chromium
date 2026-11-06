@@ -1,0 +1,4 @@
+# Docerion header of logger.mojom.
+type: source
+title: Media Router logger Mojo interface
+summary: Defines the Logger Mojo interface that records info, warning, and error log entries from Media Router components in the browser process.

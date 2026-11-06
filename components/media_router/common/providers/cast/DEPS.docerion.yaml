@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the cast provider directory
+summary: Chromium DEPS file that allows this cast provider directory to include headers from components/cast_channel.

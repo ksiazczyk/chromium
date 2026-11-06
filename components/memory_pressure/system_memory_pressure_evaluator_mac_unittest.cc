@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: macOS system memory pressure evaluator unit tests
+// summary: Unit tests for the macOS evaluator covering level conversion, current pressure votes, and UMA histogram generation using a test evaluator subclass.
+// ---
+
 #include "components/memory_pressure/system_memory_pressure_evaluator_mac.h"
 
 #include <memory>

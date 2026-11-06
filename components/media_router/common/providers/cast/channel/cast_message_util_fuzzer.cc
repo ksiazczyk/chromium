@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cast message utility fuzzer
+// summary: LibFuzzer proto-based fuzzer that exercises Cast message utility functions such as launch, stop, and cast message creation with mutated inputs.
+// ---
+
 #include "components/media_router/common/providers/cast/channel/cast_message_util.h"
 
 #include <string>

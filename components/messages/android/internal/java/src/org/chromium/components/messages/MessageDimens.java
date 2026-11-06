@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MessageDimens view dimension wrapper for stacking animations
+// summary: Wraps a message banner view to expose height, width and title metrics needed for stacking animations, measuring the view on demand.
+// ---
+
 package org.chromium.components.messages;
 
 import android.view.View;

@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Message UI dimension resources
+summary: Defines Android dimension values, such as the message shadow top margin and message bubble inset, used by the messages UI.
+-->
+
 <resources>
 
     <dimen name="message_shadow_top_margin">15dp</dimen>

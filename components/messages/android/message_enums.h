@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Message enums for dismiss reasons, priority and identifiers
+// summary: Defines DismissReason, MessagePriority, MessageScopeType and MessageIdentifier enums with generated Java counterparts used for metrics.
+// ---
+
 #ifndef COMPONENTS_MESSAGES_ANDROID_MESSAGE_ENUMS_H_
 #define COMPONENTS_MESSAGES_ANDROID_MESSAGE_ENUMS_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Media Router common include rules
+summary: DEPS file listing the include directories allowed for the media router common component, such as url, mojo, media, and net.

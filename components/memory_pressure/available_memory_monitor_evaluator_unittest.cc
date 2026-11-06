@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Available memory monitor evaluator unit tests
+// summary: Tests pressure level transitions and listener notifications, including the moderate pressure cooldown, for AvailableMemoryMonitor-based evaluators.
+// ---
+
 #include "components/memory_pressure/available_memory_monitor_evaluator.h"
 
 #include <memory>

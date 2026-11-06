@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Memory pressure level reporter implementation
+// summary: Reports memory pressure level durations and transitions to UMA histograms, including periodic reporting and pressure session metrics.
+// ---
+
 #include "components/memory_pressure/memory_pressure_level_reporter.h"
 
 #include "base/functional/bind.h"

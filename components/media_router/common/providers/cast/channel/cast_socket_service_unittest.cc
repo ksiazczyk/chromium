@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cast socket service unit tests
+// summary: Unit tests for CastSocketServiceImpl covering socket addition, removal, lookup by channel ID, and opening a socket with mocks.
+// ---
+
 #include "components/media_router/common/providers/cast/channel/cast_socket_service.h"
 
 #include "base/memory/ptr_util.h"

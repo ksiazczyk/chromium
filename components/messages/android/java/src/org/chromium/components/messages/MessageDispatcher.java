@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MessageDispatcher public interface for enqueuing messages
+// summary: Public interface for features to enqueue, enqueue window-scoped and dismiss messages through a dispatcher obtained from MessageDispatcherProvider.
+// ---
+
 package org.chromium.components.messages;
 
 import org.chromium.build.annotations.NullMarked;

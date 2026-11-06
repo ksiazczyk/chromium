@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reclaim target struct header
+// summary: Declares the ReclaimTarget struct holding a reclaim amount, the time it was calculated, and whether protected pages can be discarded.
+// ---
+
 #ifndef COMPONENTS_MEMORY_PRESSURE_RECLAIM_TARGET_H_
 #define COMPONENTS_MEMORY_PRESSURE_RECLAIM_TARGET_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: 'DummyPlayer: single-item media playback for the Cast emulator'
+// summary: Plays, pauses, seeks and reports status of a single media item via Android MediaPlayer for the Cast emulator.
+// ---
+
 package org.chromium.components.media_router.cast_emulator.remote;
 
 import android.content.Context;

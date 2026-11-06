@@ -1,0 +1,4 @@
+# Docerion header of debugger.mojom.
+type: source
+title: Media Router debugger Mojo interface
+summary: Defines the Debugger Mojo interface for enabling mirroring stat fetching, sending mirroring stats, and binding new receivers.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media Router preference name constants
+// summary: Defines string constants for Media Router preferences such as the Cast allow-all-IPs policy, media remoting, and receiver ID hash token.
+// ---
+
 #include "components/media_router/common/pref_names.h"
 
 namespace media_router {

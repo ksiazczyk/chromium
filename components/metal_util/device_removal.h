@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for Metal device removal handling
+// summary: Declares metal::RegisterGracefulExitOnDeviceRemoval for handling Metal GPU device removal on macOS.
+// ---
+
 #ifndef COMPONENTS_METAL_UTIL_DEVICE_REMOVAL_H_
 #define COMPONENTS_METAL_UTIL_DEVICE_REMOVAL_H_
 

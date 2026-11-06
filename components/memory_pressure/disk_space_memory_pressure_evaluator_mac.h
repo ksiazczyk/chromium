@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac disk space pressure evaluator interface
+// summary: Declares the macOS evaluator that periodically checks available disk space and reports pressure events when space is critically low.
+// ---
+
 #ifndef COMPONENTS_MEMORY_PRESSURE_DISK_SPACE_MEMORY_PRESSURE_EVALUATOR_MAC_H_
 #define COMPONENTS_MEMORY_PRESSURE_DISK_SPACE_MEMORY_PRESSURE_EVALUATOR_MAC_H_
 

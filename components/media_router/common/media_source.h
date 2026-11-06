@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaSource class declaration
+// summary: Declares the MediaSource class, presentation URL scheme constants, and helper functions for validating and creating media source identifiers.
+// ---
+
 #ifndef COMPONENTS_MEDIA_ROUTER_COMMON_MEDIA_SOURCE_H_
 #define COMPONENTS_MEDIA_ROUTER_COMMON_MEDIA_SOURCE_H_
 

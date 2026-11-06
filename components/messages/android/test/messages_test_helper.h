@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MessagesTestHelper class declaration
+// summary: Declares the MessagesTestHelper utility class for native tests using messages, exposing methods to inspect messages, attach a test-only message dispatcher, and register a callback for enqueued messages.
+// ---
+
 #ifndef COMPONENTS_MESSAGES_ANDROID_TEST_MESSAGES_TEST_HELPER_H_
 #define COMPONENTS_MESSAGES_ANDROID_TEST_MESSAGES_TEST_HELPER_H_
 

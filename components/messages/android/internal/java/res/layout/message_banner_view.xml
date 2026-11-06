@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Message banner view layout for Android
+summary: Defines the Android layout for the Chromium message banner, arranging an icon, title, description text and a secondary menu button within a bounded banner container.
+-->
+
 <org.chromium.components.messages.MessageBannerView
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MojoDataPump class declaration
+// summary: Declares the MojoDataPump helper class implementing CastTransportImpl::Channel to bridge Cast transport reads and writes to Mojo data pipes.
+// ---
+
 #ifndef COMPONENTS_MEDIA_ROUTER_COMMON_PROVIDERS_CAST_CHANNEL_MOJO_DATA_PUMP_H_
 #define COMPONENTS_MEDIA_ROUTER_COMMON_PROVIDERS_CAST_CHANNEL_MOJO_DATA_PUMP_H_
 

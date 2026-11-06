@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shared fuzzer input setup for cast authentication
+// summary: Prepares fuzzed auth inputs by filling in valid certificates, nonces, and CRL data so the fuzzer reaches deeper code paths.
+// ---
+
 #include "components/media_router/common/providers/cast/channel/cast_auth_util_fuzzer_shared.h"
 
 #include "third_party/openscreen/src/cast/common/channel/proto/cast_channel.pb.h"

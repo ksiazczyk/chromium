@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopeChangeController web contents and window scope observer
+// summary: Observes WebContents and WindowAndroid to notify the queue manager of navigation, web contents and window message scope changes.
+// ---
+
 package org.chromium.components.messages;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

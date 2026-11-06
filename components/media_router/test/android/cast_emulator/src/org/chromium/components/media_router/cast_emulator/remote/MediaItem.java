@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: 'MediaItem: media item status tracking for the Cast emulator'
+// summary: Tracks session, playback state, position, duration and status of a single media item in the Cast emulator.
+// ---
+
 package org.chromium.components.media_router.cast_emulator.remote;
 
 import android.app.PendingIntent;

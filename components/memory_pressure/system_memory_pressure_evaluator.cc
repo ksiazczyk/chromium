@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System memory pressure evaluator implementation
+// summary: Implements SystemMemoryPressureEvaluator factory functions that create platform-specific evaluators for Fuchsia, Apple, and Windows, plus vote sending helpers.
+// ---
+
 #include "components/memory_pressure/system_memory_pressure_evaluator.h"
 
 #include <memory>

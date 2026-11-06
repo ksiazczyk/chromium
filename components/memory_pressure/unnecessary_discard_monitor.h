@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UnnecessaryDiscardMonitor class declaration
+// summary: Declares the UnnecessaryDiscardMonitor class, which tracks tab discards against reclaim targets and reports metrics for unnecessary discards caused by stale targets.
+// ---
+
 #ifndef COMPONENTS_MEMORY_PRESSURE_UNNECESSARY_DISCARD_MONITOR_H_
 #define COMPONENTS_MEMORY_PRESSURE_UNNECESSARY_DISCARD_MONITOR_H_
 

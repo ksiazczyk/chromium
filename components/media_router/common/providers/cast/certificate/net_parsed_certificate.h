@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetParsedCertificate class header
+// summary: Declares NetParsedCertificate, an adapter that implements the openscreen Cast ParsedCertificate interface on top of a BoringSSL parsed certificate.
+// ---
+
 #ifndef COMPONENTS_MEDIA_ROUTER_COMMON_PROVIDERS_CAST_CERTIFICATE_NET_PARSED_CERTIFICATE_H_
 #define COMPONENTS_MEDIA_ROUTER_COMMON_PROVIDERS_CAST_CERTIFICATE_NET_PARSED_CERTIFICATE_H_
 

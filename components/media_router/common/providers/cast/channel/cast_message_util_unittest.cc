@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cast message utility unit tests
+// summary: Unit tests for Cast message utilities covering reserved namespace checks, message type conversions, and launch session response parsing.
+// ---
+
 #include "components/media_router/common/providers/cast/channel/cast_message_util.h"
 
 #include "base/strings/strcat.h"

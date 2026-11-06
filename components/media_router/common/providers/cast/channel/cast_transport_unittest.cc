@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cast transport unit tests
+// summary: Unit tests for CastTransportImpl covering message serialization, write queuing, completion callbacks, and read/write state handling.
+// ---
+
 #include "components/media_router/common/providers/cast/channel/cast_transport.h"
 
 #include <stddef.h>

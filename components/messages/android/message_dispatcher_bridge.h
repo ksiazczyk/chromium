@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MessageDispatcherBridge class declaration
+// summary: Declares the C++ counterpart to MessageDispatcherBridge.java so native feature code can enqueue and dismiss messages on Android.
+// ---
+
 #ifndef COMPONENTS_MESSAGES_ANDROID_MESSAGE_DISPATCHER_BRIDGE_H_
 #define COMPONENTS_MESSAGES_ANDROID_MESSAGE_DISPATCHER_BRIDGE_H_
 

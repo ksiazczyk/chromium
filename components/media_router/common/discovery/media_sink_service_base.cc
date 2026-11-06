@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaSinkServiceBase implementation
+// summary: Implements MediaSinkServiceBase sink bookkeeping, observer notifications, and timer-based batching of discovered sink updates.
+// ---
+
 #include "components/media_router/common/discovery/media_sink_service_base.h"
 
 #include <vector>

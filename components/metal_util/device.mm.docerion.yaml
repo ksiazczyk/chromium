@@ -1,0 +1,4 @@
+# Docerion header of device.mm.
+type: source
+title: Implementation of Metal default device selection
+summary: Implements GetDefaultDevice by preferring a low-power device from MTLCopyAllDevices and falling back to MTLCreateSystemDefaultDevice with error logging.

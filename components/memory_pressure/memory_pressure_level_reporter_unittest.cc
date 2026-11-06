@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Memory pressure level reporter unit tests
+// summary: Unit tests verifying MemoryPressureLevelReporter histogram reporting of pressure level durations and transitions using mock time and HistogramTester.
+// ---
+
 #include "components/memory_pressure/memory_pressure_level_reporter.h"
 
 #include <limits>

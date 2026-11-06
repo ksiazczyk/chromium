@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for HDR copier layer helpers
+// summary: Declares functions to decide when to use the HDR copier and to create and update a CALayer that displays an HDR IOSurface with color space and headroom metadata.
+// ---
+
 #ifndef COMPONENTS_METAL_UTIL_HDR_COPIER_LAYER_H_
 #define COMPONENTS_METAL_UTIL_HDR_COPIER_LAYER_H_
 

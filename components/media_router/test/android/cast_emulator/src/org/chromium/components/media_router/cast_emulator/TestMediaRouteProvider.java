@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestMediaRouteProvider publishing dummy media sinks
+// summary: Test media route provider that registers dummy media sinks with the Android support library and delegates route publishing and controller creation to matching route publishers.
+// ---
+
 package org.chromium.components.media_router.cast_emulator;
 
 import android.content.Context;
