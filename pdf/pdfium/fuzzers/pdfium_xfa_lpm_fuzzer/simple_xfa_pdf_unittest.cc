@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Simple XFA PDF unit test
+// summary: Parameterized unit test verifying CreateSimpleXfaPdf produces the expected PDF for an empty XFA input.
+// ---
+
 #include "pdf/pdfium/fuzzers/pdfium_xfa_lpm_fuzzer/simple_xfa_pdf.h"
 
 #include <string>

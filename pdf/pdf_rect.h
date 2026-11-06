@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF rectangle class header
+// summary: Declares PdfRect, a bottom-left origin rectangle in points laid out like PDFium's FS_RECTF, with conversion to gfx::RectF and writable accessors for C APIs.
+// ---
+
 #ifndef PDF_PDF_RECT_H_
 #define PDF_PDF_RECT_H_
 

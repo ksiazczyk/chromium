@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Document attachment info struct
+// summary: Defines DocumentAttachmentInfo, which holds a PDF attachment's name, size, creation and modification dates and readability flag.
+// ---
+
 #ifndef PDF_DOCUMENT_ATTACHMENT_INFO_H_
 #define PDF_DOCUMENT_ATTACHMENT_INFO_H_
 

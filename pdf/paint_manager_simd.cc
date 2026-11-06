@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SIMD pixel blending for PaintManager
+// summary: Implements Highway-dispatched SIMD non-premultiplied and premultiplied pixel blending routines with scalar fallbacks for small pixel counts.
+// ---
+
 #include "pdf/paint_manager_simd.h"
 
 // For highway dynamic dispatch - it must know the path to the current file.

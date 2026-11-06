@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDFium memory buffer file write header
+// summary: Declares PDFiumMemBufferFileWrite, an FPDF_FILEWRITE implementation that writes into a memory buffer.
+// ---
+
 #ifndef PDF_PDFIUM_PDFIUM_MEM_BUFFER_FILE_WRITE_H_
 #define PDF_PDFIUM_PDFIUM_MEM_BUFFER_FILE_WRITE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RegionData struct header
+// summary: Declares the RegionData struct holding a non-empty byte buffer span and its stride, used to describe a region of pixel data.
+// ---
+
 #ifndef PDF_REGION_DATA_H_
 #define PDF_REGION_DATA_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PageCharacterIndex struct header
+// summary: Defines a PageCharacterIndex struct holding a PDF page index and a character index within that page, with default comparison support.
+// ---
+
 #ifndef PDF_PAGE_CHARACTER_INDEX_H_
 #define PDF_PAGE_CHARACTER_INDEX_H_
 

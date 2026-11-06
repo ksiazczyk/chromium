@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF accessibility info interface
+// summary: Declares GetAccessibilityInfo, which extracts accessibility data for a given page from the PDFium engine.
+// ---
+
 #ifndef PDF_ACCESSIBILITY_H_
 #define PDF_ACCESSIBILITY_H_
 

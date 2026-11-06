@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PDFium on-demand searchifier unit tests
+// summary: Unit tests for the on-demand searchifier covering page scheduling, OCR results, and state changes.
+// ---
+
 #include "pdf/pdfium/pdfium_on_demand_searchifier.h"
 
 #include <array>

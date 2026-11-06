@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PDFium engine unit tests
+// summary: Unit tests for the PDFium engine covering text selection, input event handling, accessibility, thumbnails and optional Ink2 stroke features.
+// ---
+
 #include "pdf/pdfium/pdfium_engine.h"
 
 #include <stdint.h>

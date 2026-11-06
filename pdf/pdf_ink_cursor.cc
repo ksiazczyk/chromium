@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF annotation tool cursor implementation
+// summary: Computes cursor diameter from brush size and zoom and draws circular tool cursor bitmaps with Skia.
+// ---
+
 #include "pdf/pdf_ink_cursor.h"
 
 #include <math.h>

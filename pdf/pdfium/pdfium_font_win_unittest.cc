@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows font mapper unit tests
+// summary: Unit tests for the Windows SkiaFontMapper, verifying font mapping, font data retrieval and fallbacks for default, GB2312 and Shift JIS charsets.
+// ---
+
 #include "pdf/pdfium/pdfium_font_win.h"
 
 #include <utility>

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the pdfium directory
+summary: Defines allowed include dependencies for the pdfium PDF code, with an extra rule permitting fuzztest for fuzzer files.

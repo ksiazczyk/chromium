@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF Ink annotation module implementation
+// summary: Implements PdfInkModule, handling ink annotation drawing, input events, messages, erasing, and thumbnail updates for PDF pages.
+// ---
+
 #include "pdf/pdf_ink_module.h"
 
 #include <stddef.h>

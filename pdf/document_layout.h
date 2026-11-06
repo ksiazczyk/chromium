@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Document layout class header
+// summary: Declares DocumentLayout and its Options class controlling page placement, orientation, direction and page spread within a PDF document.
+// ---
+
 #ifndef PDF_DOCUMENT_LAYOUT_H_
 #define PDF_DOCUMENT_LAYOUT_H_
 

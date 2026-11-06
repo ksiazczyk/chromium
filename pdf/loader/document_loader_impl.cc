@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DocumentLoaderImpl implementation
+// summary: Implements DocumentLoaderImpl, handling HTTP range requests, content type checks, and partial loading of PDF documents.
+// ---
+
 #include "pdf/loader/document_loader_impl.h"
 
 #include <stddef.h>

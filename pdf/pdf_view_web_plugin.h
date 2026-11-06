@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF viewer web plugin class declarations
+// summary: Declares PdfViewWebPlugin, the Blink web plugin class that drives the PDFium engine and exposes viewer services to the browser.
+// ---
+
 #ifndef PDF_PDF_VIEW_WEB_PLUGIN_H_
 #define PDF_PDF_VIEW_WEB_PLUGIN_H_
 

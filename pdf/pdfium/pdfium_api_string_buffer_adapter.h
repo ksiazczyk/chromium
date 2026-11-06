@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDFium API string buffer adapter declarations
+// summary: Declares helpers for handling null-terminated string buffers written by PDFium APIs, in character-count and byte-count variants.
+// ---
+
 #ifndef PDF_PDFIUM_PDFIUM_API_STRING_BUFFER_ADAPTER_H_
 #define PDF_PDFIUM_PDFIUM_API_STRING_BUFFER_ADAPTER_H_
 

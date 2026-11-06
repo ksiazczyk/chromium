@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Allowed include rules for //pdf
+summary: Lists permitted include directories for the PDF code, with extra rules for unit test files.

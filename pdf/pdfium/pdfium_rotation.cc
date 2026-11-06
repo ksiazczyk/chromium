@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF page rotation helper implementation
+// summary: Converts a PDFium page rotation value into the chrome_pdf PageRotation enum.
+// ---
+
 #include "pdf/pdfium/pdfium_rotation.h"
 
 #include "third_party/pdfium/public/fpdf_edit.h"

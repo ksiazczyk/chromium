@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PageOrientation unit tests
+// summary: Unit tests verifying conversion between rotation steps and orientations and the clockwise and counterclockwise rotation helpers.
+// ---
+
 #include "pdf/page_orientation.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

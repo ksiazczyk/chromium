@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDFium memory buffer file write implementation
+// summary: Implements an FPDF_FILEWRITE that accumulates PDFium save output into an in-memory byte buffer.
+// ---
+
 #include "pdf/pdfium/pdfium_mem_buffer_file_write.h"
 
 #include <utility>

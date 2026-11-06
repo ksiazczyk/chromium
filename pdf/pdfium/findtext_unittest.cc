@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Find text unit tests
+// summary: Unit tests for text search in PDF documents, checking find result notifications and expected match ranges.
+// ---
+
 #include <optional>
 
 #include "base/check_op.h"

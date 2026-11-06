@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDFium form filler class declarations
+// summary: Declares the PDFiumFormFiller class, its script options and the static FPDF_FORMFILLINFO and IPDF_JSPLATFORM callback methods for PDF form interaction.
+// ---
+
 #ifndef PDF_PDFIUM_PDFIUM_FORM_FILLER_H_
 #define PDF_PDFIUM_PDFIUM_FORM_FILLER_H_
 

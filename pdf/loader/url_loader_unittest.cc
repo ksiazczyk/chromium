@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: URL loader unit tests
+// summary: Unit tests for UrlLoader covering request opening, response and data handling, and client interactions using a mock loader.
+// ---
+
 #include "pdf/loader/url_loader.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for PDF coordinate utilities
+// summary: GoogleTest unit tests verifying the coordinate and layout helpers, covering bottom gap adjustment, horizontal centering, document size expansion, most visible page selection, and inset configuration.
+// ---
+
 #include "pdf/draw_utils/coordinates.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

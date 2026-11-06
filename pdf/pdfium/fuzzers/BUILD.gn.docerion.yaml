@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: PDFium fuzzers build targets
+summary: GN build file defining the pdfium_fuzzer_test template and the pdf_fuzzers group that aggregates all PDFium libFuzzer targets with their dictionaries and seed corpora.

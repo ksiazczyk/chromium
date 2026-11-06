@@ -1,0 +1,4 @@
+# Docerion header of pdf_css.dict.
+type: data
+title: CSS fuzzing dictionary
+summary: Fuzzing dictionary of CSS syntax tokens, at-rules, units and properties, including XFA-specific keywords.

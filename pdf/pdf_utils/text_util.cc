@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF text utility implementation
+// summary: Implements word boundary detection for characters and conversion of UTF-16 strings to big-endian byte blobs with a BOM for PDF markup parameters.
+// ---
+
 #include "pdf/pdf_utils/text_util.h"
 
 #include <stdint.h>

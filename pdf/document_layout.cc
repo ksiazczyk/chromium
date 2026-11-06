@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Document layout implementation
+// summary: Implements DocumentLayout, computing one-up and two-up page layouts, option serialization and page rotation handling.
+// ---
+
 #include "pdf/document_layout.h"
 
 #include <algorithm>

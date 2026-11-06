@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDFium on-demand searchifier header
+// summary: Declares PDFiumOnDemandSearchifier, which queues PDF pages and runs OCR to make them searchable.
+// ---
+
 #ifndef PDF_PDFIUM_PDFIUM_ON_DEMAND_SEARCHIFIER_H_
 #define PDF_PDFIUM_PDFIUM_ON_DEMAND_SEARCHIFIER_H_
 

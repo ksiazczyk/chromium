@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ParsedParams struct declaration
+// summary: Declares ParsedParams holding PDF plugin source and document URLs, background color, script option, and renderer choice, plus the parsing function.
+// ---
+
 #ifndef PDF_PARSED_PARAMS_H_
 #define PDF_PARSED_PARAMS_H_
 

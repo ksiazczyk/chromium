@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDFiumEngine class header
+// summary: Declares the PDFiumEngine class plus SDK initialization and shutdown functions for the Chrome PDF viewer's PDFium-based engine.
+// ---
+
 #ifndef PDF_PDFIUM_PDFIUM_ENGINE_H_
 #define PDF_PDFIUM_PDFIUM_ENGINE_H_
 

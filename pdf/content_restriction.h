@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content restriction enum
+// summary: Defines the ContentRestriction enum used to disable browser commands such as copy, cut, paste, print and save for restricted PDF content.
+// ---
+
 #ifndef PDF_CONTENT_RESTRICTION_H_
 #define PDF_CONTENT_RESTRICTION_H_
 

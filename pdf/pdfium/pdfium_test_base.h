@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PDFium test base class
+// summary: Base test fixture that initializes a PDFiumEngine with test clients and document loaders for PDF unit tests.
+// ---
+
 #ifndef PDF_PDFIUM_PDFIUM_TEST_BASE_H_
 #define PDF_PDFIUM_PDFIUM_TEST_BASE_H_
 

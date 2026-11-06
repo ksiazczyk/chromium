@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PaintAggregator class header
+// summary: Declares PaintAggregator, which combines multiple invalidations and scrolls into paint updates with ready and pending rectangles.
+// ---
+
 #ifndef PDF_PAINT_AGGREGATOR_H_
 #define PDF_PAINT_AGGREGATOR_H_
 

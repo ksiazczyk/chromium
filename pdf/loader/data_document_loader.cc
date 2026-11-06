@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DataDocumentLoader implementation
+// summary: Implements a DocumentLoader that serves PDF bytes directly from an in-memory buffer.
+// ---
+
 #include "pdf/loader/data_document_loader.h"
 
 #include "base/check_op.h"

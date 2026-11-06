@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PDFium text fragment finder unit tests
+// summary: Unit tests verifying that PDFiumTextFragmentFinder finds correct highlight ranges for various text fragment forms.
+// ---
+
 #include "pdf/pdfium/pdfium_text_fragment_finder.h"
 
 #include <string>

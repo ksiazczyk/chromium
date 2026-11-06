@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDFium print header
+// summary: Declares the PDFiumPrint class with helpers for N-up PDF generation, flattening, orientation checks and printing pages as PDF.
+// ---
+
 #ifndef PDF_PDFIUM_PDFIUM_PRINT_H_
 #define PDF_PDFIUM_PDFIUM_PRINT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDFium page header
+// summary: Declares PDFiumPage, a wrapper around a PDFium page providing text, accessibility, and unload control.
+// ---
+
 #ifndef PDF_PDFIUM_PDFIUM_PAGE_H_
 #define PDF_PDFIUM_PDFIUM_PAGE_H_
 

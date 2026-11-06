@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL loader declarations
+// summary: Declares UrlRequest, UrlResponse and the UrlLoader class with its client interface for loading documents over HTTP via Blink.
+// ---
+
 #ifndef PDF_LOADER_URL_LOADER_H_
 #define PDF_LOADER_URL_LOADER_H_
 

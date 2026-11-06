@@ -1,0 +1,4 @@
+# Docerion header of pdf_codec_png.dict.
+type: data
+title: PNG fuzzing dictionary
+summary: AFL fuzzing dictionary listing the PNG signature and standard chunk names for fuzzing the PNG image codec.

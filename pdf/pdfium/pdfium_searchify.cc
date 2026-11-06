@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF searchify OCR text overlay implementation
+// summary: Adds OCR-recognized text from ScreenAI onto PDF page images so scanned PDFs become searchable.
+// ---
+
 #include "pdf/pdfium/pdfium_searchify.h"
 
 #include <math.h>

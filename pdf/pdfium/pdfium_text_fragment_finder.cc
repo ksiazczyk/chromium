@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDFium text fragment finder implementation
+// summary: Implements searching PDF text for text fragment prefix, start, end and suffix values to compute highlight ranges.
+// ---
+
 #include "pdf/pdfium/pdfium_text_fragment_finder.h"
 
 #include <optional>

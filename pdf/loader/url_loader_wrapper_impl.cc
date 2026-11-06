@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL loader wrapper implementation
+// summary: Implements URLLoaderWrapperImpl, which parses response headers and issues HTTP byte-range requests through UrlLoader.
+// ---
+
 #include "pdf/loader/url_loader_wrapper_impl.h"
 
 #include <stddef.h>

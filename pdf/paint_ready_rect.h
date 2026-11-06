@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PaintReadyRect class declaration
+// summary: Declares PaintReadyRect, which stores a finished paint rectangle with its image and a flag for flushing immediately.
+// ---
+
 #ifndef PDF_PAINT_READY_RECT_H_
 #define PDF_PAINT_READY_RECT_H_
 

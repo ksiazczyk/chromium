@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDFium OCR helpers header
+// summary: Declares helpers that get image bounds and rendered images from PDF pages for OCR.
+// ---
+
 #ifndef PDF_PDFIUM_PDFIUM_OCR_H_
 #define PDF_PDFIUM_PDFIUM_OCR_H_
 

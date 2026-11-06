@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MetricsHandler implementation for PDF UMA metrics
+// summary: Implements MetricsHandler methods that record UMA histograms for PDF version, page count, attachments, form type, accessibility tagging and file URL scheme.
+// ---
+
 #include "pdf/metrics_handler.h"
 
 #include <vector>

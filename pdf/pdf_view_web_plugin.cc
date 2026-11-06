@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF viewer web plugin implementation
+// summary: Implements the Blink web plugin that hosts the PDF viewer, handling document loading, input, painting, printing, accessibility, and postMessage communication.
+// ---
+
 #include "pdf/pdf_view_web_plugin.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDFiumEngineExports implementation
+// summary: Implements exported PDFium helpers for rendering pages to bitmaps or DCs, converting PDFs to N-up PDFs, and reading document info and metadata.
+// ---
+
 #include "pdf/pdfium/pdfium_engine_exports.h"
 
 #include <optional>

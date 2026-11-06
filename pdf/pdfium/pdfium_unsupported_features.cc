@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDFium unsupported features handler
+// summary: Maps PDFium unsupported feature callbacks to feature names and reports them to the active PDFiumEngine.
+// ---
+
 #include "pdf/pdfium/pdfium_unsupported_features.h"
 
 #include "base/check.h"

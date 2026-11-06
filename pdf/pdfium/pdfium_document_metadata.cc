@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDFium document metadata retrieval
+// summary: Implements GetPDFiumDocumentMetadata, which reads the PDF information dictionary, version, form type and language tag from a PDFium document.
+// ---
+
 #include "pdf/pdfium/pdfium_document_metadata.h"
 
 #include <stddef.h>

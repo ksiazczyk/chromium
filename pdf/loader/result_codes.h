@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF loader result codes
+// summary: Defines the Result enum with success and error codes used throughout the PDF loader.
+// ---
+
 #ifndef PDF_LOADER_RESULT_CODES_H_
 #define PDF_LOADER_RESULT_CODES_H_
 

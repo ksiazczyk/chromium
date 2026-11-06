@@ -1,0 +1,4 @@
+# Docerion header of pdf_formcalc.dict.
+type: data
+title: FormCalc fuzzing dictionary
+summary: Fuzzing dictionary of FormCalc operators, keywords and built-in functions for fuzzing PDF form calculation parsing.

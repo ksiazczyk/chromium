@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Embedded font data for PDF searchify
+// summary: Provides an embedded TTF font byte array and ToUnicode CMap used to add invisible text during searchify.
+// ---
+
 #include "pdf/pdfium/pdfium_searchify_font.h"
 
 #include <cstdint>

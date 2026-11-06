@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PDF viewer web plugin unit tests
+// summary: Unit tests for PdfViewWebPlugin covering input events, printing, accessibility, postMessage handling, and document loading behavior.
+// ---
+
 #include "pdf/pdf_view_web_plugin.h"
 
 #include <stdint.h>

@@ -1,0 +1,4 @@
+# Docerion header of pdf_codec_gif.dict.
+type: data
+title: GIF fuzzing dictionary
+summary: AFL fuzzing dictionary with GIF headers and section markers for fuzzing the GIF image codec.

@@ -1,0 +1,4 @@
+# Docerion header of pdf_xml.dict.
+type: data
+title: AFL dictionary for XML fuzzing
+summary: AFL fuzzer dictionary supplying XML syntax tokens such as attributes, entities, tags, and encodings to guide coverage-guided fuzzing of XML parsing.

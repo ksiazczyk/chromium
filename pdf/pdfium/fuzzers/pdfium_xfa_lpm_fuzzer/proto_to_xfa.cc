@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProtoToXfa implementation
+// summary: Implements ProtoToXfa::Convert, which currently returns an empty string pending real XFA form generation.
+// ---
+
 #include "pdf/pdfium/fuzzers/pdfium_xfa_lpm_fuzzer/proto_to_xfa.h"
 
 namespace xfa_proto {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PDF Ink text unit tests
+// summary: Unit tests for converting blink text runs into PDF ink text lines and verifying glyph and text handling behavior.
+// ---
+
 #include "pdf/pdf_ink_text.h"
 
 #include <vector>

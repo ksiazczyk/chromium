@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PreviewModeClient interface header
+// summary: Declares PreviewModeClient, the PDFiumEngineClient interface provided to the print preview rendering engine, including a nested Client interface for preview load notifications.
+// ---
+
 #ifndef PDF_PREVIEW_MODE_CLIENT_H_
 #define PDF_PREVIEW_MODE_CLIENT_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of features.gni.
+type: config
+title: PDF build feature flags
+summary: GN build configuration declaring arguments that enable PDF support, modern Ink libraries and save-to-Drive features.

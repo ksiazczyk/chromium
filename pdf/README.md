@@ -1,3 +1,9 @@
+---
+type: readme
+title: Overview of the //pdf directory
+summary: Explains what the //pdf directory contains and its layering rules relative to content, components, and embedders.
+---
+
 `//pdf` contains the PDF plugin, its Blink-based replacement, as well as PDF
 utility functions that leverage PDFium. It can use low-level components that
 live below the content layer, as well as other foundational code like

@@ -1,0 +1,4 @@
+# Docerion header of pdf_xfa_js.dict.
+type: data
+title: XFA JavaScript fuzzing dictionary
+summary: Fuzzing dictionary of XFA JavaScript method and property names extracted from PDFium's fxjs/xfa JSE entries.

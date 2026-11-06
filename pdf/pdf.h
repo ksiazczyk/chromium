@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF public API declarations
+// summary: Declares the public PDF API with rendering to device contexts, document info and metadata, flattened PDF creation, printing modes, and accessibility-related hooks.
+// ---
+
 #ifndef PDF_PDF_H_
 #define PDF_PDF_H_
 

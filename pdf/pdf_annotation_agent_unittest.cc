@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PDF annotation agent unit tests
+// summary: Tests the PDF annotation agent's text fragment attachment results, empty and node selectors, scrolling into view, and highlight removal behavior.
+// ---
+
 #include "pdf/pdf_annotation_agent.h"
 
 #include "pdf/test/fake_annotation_agent_host.h"

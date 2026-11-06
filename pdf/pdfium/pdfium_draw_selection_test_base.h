@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PDFium draw selection test base header
+// summary: Declares PDFiumDrawSelectionTestBase, a PDFiumTestBase subclass offering helpers for testing drawn selections, highlights and carets.
+// ---
+
 #ifndef PDF_PDFIUM_PDFIUM_DRAW_SELECTION_TEST_BASE_H_
 #define PDF_PDFIUM_PDFIUM_DRAW_SELECTION_TEST_BASE_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: PDF plugin GN build configuration
+summary: Defines build targets, buildflag headers, and dependencies for the Chromium PDF plugin and its tests.

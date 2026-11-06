@@ -4,6 +4,12 @@
 
 // Defines a set of geometric ranges, and standard operations on it.
 
+// ---docerion
+// type: source
+// title: RangeSet class declaration
+// summary: Declares a RangeSet class that stores geometric ranges and supports union, intersection, subtraction, XOR and containment operations.
+// ---
+
 #ifndef PDF_LOADER_RANGE_SET_H_
 #define PDF_LOADER_RANGE_SET_H_
 

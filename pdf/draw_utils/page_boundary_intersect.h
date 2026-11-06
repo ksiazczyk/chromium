@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page boundary intersection header
+// summary: Declares CalculatePageBoundaryIntersectPoint, which returns the point where a straight line from an inside point to an outside point intersects the boundary of a page rectangle.
+// ---
+
 #ifndef PDF_DRAW_UTILS_PAGE_BOUNDARY_INTERSECT_H_
 #define PDF_DRAW_UTILS_PAGE_BOUNDARY_INTERSECT_H_
 

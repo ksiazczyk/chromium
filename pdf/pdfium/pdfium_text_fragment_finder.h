@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDFium text fragment finder
+// summary: Declares PDFiumTextFragmentFinder, which locates text fragments in a PDF and returns ranges to highlight.
+// ---
+
 #ifndef PDF_PDFIUM_PDFIUM_TEXT_FRAGMENT_FINDER_H_
 #define PDF_PDFIUM_PDFIUM_TEXT_FRAGMENT_FINDER_H_
 

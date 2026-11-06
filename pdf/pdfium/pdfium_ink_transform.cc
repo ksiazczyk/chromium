@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDFium ink coordinate transforms
+// summary: Computes transforms between canonical page coordinates and PDF coordinates, including text box matrices for each of the four text orientations.
+// ---
+
 #include "pdf/pdfium/pdfium_ink_transform.h"
 
 #include "base/notreached.h"

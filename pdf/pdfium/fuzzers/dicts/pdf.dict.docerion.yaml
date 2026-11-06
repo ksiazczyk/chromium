@@ -1,0 +1,4 @@
+# Docerion header of pdf.dict.
+type: data
+title: PDF fuzzing dictionary
+summary: Large AFL fuzzing dictionary of PDF keywords, operators and tokens built from the PDF spec and a corpus of sample PDFs, used to guide PDFium fuzzing.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PDFiumEngineExports unit tests
+// summary: Unit tests for PDFiumEngineExports covering rendering, N-up conversion, metadata and ChromeOS searchify functionality.
+// ---
+
 #include <optional>
 #include <utility>
 

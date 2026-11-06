@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PDFium test helpers
+// summary: Declares test helpers for counting PDF content marks and verifying page rendering against expected PNG files.
+// ---
+
 #ifndef PDF_PDFIUM_PDFIUM_TEST_HELPERS_H_
 #define PDF_PDFIUM_PDFIUM_TEST_HELPERS_H_
 

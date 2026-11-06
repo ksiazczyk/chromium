@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF drawing coordinate utilities header
+// summary: Declares the IndexedPage struct and coordinate/layout helper functions such as rect centering, bottom gap calculation, most visible page detection, and screen rect conversion for the PDF viewer.
+// ---
+
 #ifndef PDF_DRAW_UTILS_COORDINATES_H_
 #define PDF_DRAW_UTILS_COORDINATES_H_
 

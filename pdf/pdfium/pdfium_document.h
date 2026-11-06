@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDFium document class declarations
+// summary: Declares PDFiumDocument, which manages PDFium document, availability and form handles on top of a document loader.
+// ---
+
 #ifndef PDF_PDFIUM_PDFIUM_DOCUMENT_H_
 #define PDF_PDFIUM_PDFIUM_DOCUMENT_H_
 

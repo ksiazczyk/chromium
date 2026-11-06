@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows font mapper declarations
+// summary: Declares InitializeWindowsFontMapper for Blink-based system font requests and GetSkiaFontMapperForTesting to enable unit testing of the font matcher.
+// ---
+
 #ifndef PDF_PDFIUM_PDFIUM_FONT_WIN_H_
 #define PDF_PDFIUM_PDFIUM_FONT_WIN_H_
 

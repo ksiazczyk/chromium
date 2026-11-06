@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RegionData implementation
+// summary: Implements the constructor, move constructor, move assignment and destructor of the RegionData struct that pairs a byte buffer with a stride.
+// ---
+
 #include "pdf/region_data.h"
 
 namespace chrome_pdf {

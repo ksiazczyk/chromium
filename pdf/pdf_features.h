@@ -5,6 +5,12 @@
 // This file defines all the public base::FeatureList features for the pdf
 // module.
 
+// ---docerion
+// type: source
+// title: PDF feature flag declarations
+// summary: Declares the public base::FeatureList features and parameters for the pdf module, plus helpers for the OOPIF PDF viewer policy.
+// ---
+
 #ifndef PDF_PDF_FEATURES_H_
 #define PDF_PDF_FEATURES_H_
 

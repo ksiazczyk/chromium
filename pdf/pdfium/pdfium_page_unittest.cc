@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PDFium page unit tests
+// summary: Unit tests for PDFiumPage covering page geometry, accessibility text runs, thumbnail generation and OCR image handling in the PDFium engine.
+// ---
+
 #include "pdf/pdfium/pdfium_page.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for PDF Ink conversions
+// summary: Tests creation of Ink stroke inputs with pressure, without pressure and defaulting to no pressure.
+// ---
+
 #include "pdf/pdf_ink_conversions.h"
 
 #include "base/time/time.h"

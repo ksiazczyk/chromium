@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Simple XFA PDF builder
+// summary: Builds a minimal PDF embedding the given XFA string by substituting placeholders in a PDF template.
+// ---
+
 #include <string>
 #include <vector>
 

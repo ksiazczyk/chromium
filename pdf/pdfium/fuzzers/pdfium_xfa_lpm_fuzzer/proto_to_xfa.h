@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProtoToXfa class header
+// summary: Declares the ProtoToXfa class that converts an Xfa protobuf message into an XFA string.
+// ---
+
 #ifndef PDF_PDFIUM_FUZZERS_PDFIUM_XFA_LPM_FUZZER_PROTO_TO_XFA_H_
 #define PDF_PDFIUM_FUZZERS_PDFIUM_XFA_LPM_FUZZER_PROTO_TO_XFA_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PaintManager implementation
+// summary: Implements PaintManager, which manages paint buffers, Skia surfaces and buffer lifecycle callbacks for PDF rendering.
+// ---
+
 #include "pdf/paint_manager.h"
 
 #include <stddef.h>

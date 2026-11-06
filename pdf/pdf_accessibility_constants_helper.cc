@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF tag type to accessibility role mapping
+// summary: Maps PDF structure tag types to Chromium accessibility roles and converts PDF tag type strings into their enum values.
+// ---
+
 #include "pdf/pdf_accessibility_constants_helper.h"
 
 #include "base/containers/fixed_flat_map.h"

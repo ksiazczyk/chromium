@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PDF transform unit tests
+// summary: Unit tests verifying scale factor, media box, crop box, and clip box offset calculations from pdf_transform.
+// ---
+
 #include "pdf/pdf_transform.h"
 
 #include "pdf/pdf_rect.h"

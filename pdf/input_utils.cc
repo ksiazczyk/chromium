@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mouse event normalization implementation
+// summary: Implements NormalizeMouseEvent, mapping macOS ctrl plus left button down events to right button down.
+// ---
+
 #include "pdf/input_utils.h"
 
 #include "build/build_config.h"

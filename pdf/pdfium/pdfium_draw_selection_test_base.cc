@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PDFium draw selection test base implementation
+// summary: Implements test helpers that draw selections, highlights and carets in a PDFiumEngine and compare the rendered page against expected PNG images.
+// ---
+
 #include "pdf/pdfium/pdfium_draw_selection_test_base.h"
 
 #include <stddef.h>

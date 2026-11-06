@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Xfa protobuf message definition
+// summary: Defines the empty Xfa protobuf message used as the input format for the XFA LPM fuzzer.
+// ---
+
 syntax = "proto2";
 
 package xfa_proto;

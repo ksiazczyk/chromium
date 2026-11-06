@@ -1,0 +1,4 @@
+# Docerion header of pdf.mojom.
+type: source
+title: Mojom interface definitions for the PDF viewer
+summary: Defines Mojo IPC interfaces and structs for the PDF viewer, including PdfListener for retrieving PDF bytes, text, and save-to-Drive data handlers.

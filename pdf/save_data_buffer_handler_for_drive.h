@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Save-to-Drive data buffer handler declarations
+// summary: Declares SaveDataBufferHandlerForDrive and its OriginalDataHandlerForDrive and ModifiedDataHandlerForDrive subclasses used to read PDF data blocks for saving to Google Drive.
+// ---
+
 #ifndef PDF_SAVE_DATA_BUFFER_HANDLER_FOR_DRIVE_H_
 #define PDF_SAVE_DATA_BUFFER_HANDLER_FOR_DRIVE_H_
 

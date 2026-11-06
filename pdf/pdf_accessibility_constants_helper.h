@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF tag type conversion declarations
+// summary: Declares helper functions that convert PDF tag type strings to enums and map tag types to accessibility roles.
+// ---
+
 #ifndef PDF_PDF_ACCESSIBILITY_CONSTANTS_HELPER_H_
 #define PDF_PDF_ACCESSIBILITY_CONSTANTS_HELPER_H_
 

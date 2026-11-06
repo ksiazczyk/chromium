@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF transform calculations
+// summary: Implements calculations for PDF page scale factors, media and crop boxes, and clip box offsets used when rendering or printing pages.
+// ---
+
 #include "pdf/pdf_transform.h"
 
 #include <algorithm>

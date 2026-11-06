@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF annotation tool cursor declarations
+// summary: Declares cursor diameter calculation and custom circular cursor bitmap generation for annotation tools.
+// ---
+
 #ifndef PDF_PDF_INK_CURSOR_H_
 #define PDF_PDF_INK_CURSOR_H_
 

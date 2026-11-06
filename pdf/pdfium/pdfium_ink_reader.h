@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDFium ink annotation reader API
+// summary: Declares functions to detect and read V2 ink paths and text annotations from PDF pages as Ink meshes and grouped text box results.
+// ---
+
 #ifndef PDF_PDFIUM_PDFIUM_INK_READER_H_
 #define PDF_PDFIUM_PDFIUM_INK_READER_H_
 

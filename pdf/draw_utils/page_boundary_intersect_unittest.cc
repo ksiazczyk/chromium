@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for page boundary intersection
+// summary: GoogleTest unit tests verifying CalculatePageBoundaryIntersectPoint for intersections on the left, top, right, and bottom page boundaries, including border and outward-going cases.
+// ---
+
 #include "pdf/draw_utils/page_boundary_intersect.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

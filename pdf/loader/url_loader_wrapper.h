@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL loader wrapper interface
+// summary: Declares the abstract URLLoaderWrapper interface for querying response metadata, opening byte-range requests and reading response bodies.
+// ---
+
 #ifndef PDF_LOADER_URL_LOADER_WRAPPER_H_
 #define PDF_LOADER_URL_LOADER_WRAPPER_H_
 

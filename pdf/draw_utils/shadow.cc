@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF page shadow drawing implementation
+// summary: Implements ShadowMatrix construction with a smoothing function and shadow painting onto SkBitmap images, used to draw shadows around pages in the PDF viewer.
+// ---
+
 #include "pdf/draw_utils/shadow.h"
 
 #include <math.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF Ink text annotation processing
+// summary: Implements splitting and reconstruction of ink text annotation glyph runs, including Harfbuzz cluster handling and text line conversion.
+// ---
+
 #include "pdf/pdf_ink_text.h"
 
 #include <iterator>

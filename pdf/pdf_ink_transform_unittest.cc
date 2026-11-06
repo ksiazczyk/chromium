@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PDF Ink transform unit tests
+// summary: Unit tests verifying event-to-canonical transforms and Ink render transforms across page orientations, scale factors, and viewport offsets.
+// ---
+
 #include "pdf/pdf_ink_transform.h"
 
 #include <array>

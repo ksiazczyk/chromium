@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF feature flag definitions
+// summary: Defines base::Feature flags and parameters controlling PDF viewer behavior such as loading modes, accessibility tags, Ink2 annotations, and Save to Drive.
+// ---
+
 #include "pdf/pdf_features.h"
 
 #include "base/feature_list.h"

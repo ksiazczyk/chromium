@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF text utility header
+// summary: Declares IsWordBoundary and ToUTF16BEBlob helpers used for PDF text processing and markup blob parameters.
+// ---
+
 #ifndef PDF_PDF_UTILS_TEXT_UTIL_H_
 #define PDF_PDF_UTILS_TEXT_UTIL_H_
 

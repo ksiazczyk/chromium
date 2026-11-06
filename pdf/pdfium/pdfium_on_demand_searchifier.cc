@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDFium on-demand searchifier implementation
+// summary: Coordinates on-demand OCR searchification of PDF pages, throttling work to limit CPU load.
+// ---
+
 #include "pdf/pdfium/pdfium_on_demand_searchifier.h"
 
 #include <algorithm>
