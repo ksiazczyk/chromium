@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: Grants per-file review ownership over all .sha1 files in this directory to any reviewer via a wildcard rule.
